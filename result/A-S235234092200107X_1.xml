@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107895">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset on enrichment of selected trace metals in the soil from designated abandoned historical gold mine solid waste dump sites near residential areas, Witwatersrand Basin, South Africa</dct:title>
+         <dct:creator>Lowanika V. Tibane</dct:creator>
+         <dct:creator>David Mamba</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Trace elements enrichment</rdf:li>
+               <rdf:li>Geoaccumulation index</rdf:li>
+               <rdf:li>Contamination factor</rdf:li>
+               <rdf:li>Potential health risks</rdf:li>
+               <rdf:li>Land use type</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107895</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107895</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107895</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107895</dct:identifier>
+         <bam:articleNumber>107895</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-27T18:02:23Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107895</ja:aid>
+         <ce:article-number>107895</ce:article-number>
+         <ce:pii>S2352-3409(22)00107-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107895</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset on enrichment of selected trace metals in the soil from designated abandoned historical gold mine solid waste dump sites near residential areas, Witwatersrand Basin, South Africa</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092200107X-7915f305d11259d206c7e0f22379a6b6"
+                       orcid="0000-0002-7154-0237">
+               <ce:given-name>Lowanika V.</ce:given-name>
+               <ce:surname>Tibane</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:tibanel@ukzn.ac.za">tibanel@ukzn.ac.za</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092200107X-fc6eb6760a1a8f6f7fe6289db530806d"
+                       orcid="0000-0002-0230-3158">
+               <ce:given-name>David</ce:given-name>
+               <ce:surname>Mamba</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092200107X-9626850c89b9e4de252ca94524293860">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Discipline of Geological Sciences, School of Agricultural, Earth and Environmental Sciences, University of KwaZulu-Natal, Westville Campus, Durban, KwaZulu Natal, South Africa</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Discipline of Geological Sciences</sa:organization>
+                  <sa:organization>School of Agricultural, Earth and Environmental Sciences</sa:organization>
+                  <sa:organization>University of KwaZulu-Natal</sa:organization>
+                  <sa:organization>Westville Campus</sa:organization>
+                  <sa:city>Durban</sa:city>
+                  <sa:state>KwaZulu Natal</sa:state>
+                  <sa:country>South Africa</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDiscipline of Geological Sciences, School of Agricultural, Earth and Environmental Sciences, University of KwaZulu-Natal, Westville Campus, Durban, KwaZulu Natal, South Africa</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092200107X-0704aef6f0f82d0f6d5669badd067473">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">30 Birch Street, Lindhaven, Roodepoort, 1724, South Africa</ce:textfn>
+               <sa:affiliation>
+                  <sa:address-line>30 Birch Street, Lindhaven</sa:address-line>
+                  <sa:city>Roodepoort</sa:city>
+                  <sa:postal-code>1724</sa:postal-code>
+                  <sa:country>South Africa</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">b30 Birch Street, Lindhaven, Roodepoort, 1724, South Africa</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="6" month="12" year="2021"/>
+         <ce:date-revised day="21" month="1" year="2022"/>
+         <ce:date-accepted day="25" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara014" view="all">Soil is a naturally occurring non-renewable resource, and good soil quality is a prerequisite for the survival of plants, animals and humans. Soil quality depends on the content and distribution of trace elements. Gold mining in the Witwatersrand Basin in South Africa left behind enormous unrehabilitated mining waste tailings near the City of Johannesburg that are contaminated by trace elements. Heavy metals change the physical and chemical properties of the soil derived from the mining waste material, consequently disturbing the normal functions of the soil and posing a potential health risk to plants, animals, and humans. To assess soil quality from abandoned historical gold mine residues, three conglomerate samples were petrologically examined using hand specimen, polished thin sections viewed under a reflected light microscope, and X-ray diffraction, to determine the mineralogical composition. The minerals include quartz, mica, chlorite, calcite and sulphides. Geochemical data of major elements measured by weight percent (wt%) were generated using X-ray fluorescence (XRF) technique and are NiO &lt; Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> &lt; V<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5</ce:inf> &lt; ZrO<ce:inf loc="post">2</ce:inf> &lt; MnO &lt; P<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5</ce:inf> &lt; TiO<ce:inf loc="post">2</ce:inf> &lt; Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> &lt; CaO &lt; MgO &lt; Na<ce:inf loc="post">2</ce:inf>O &lt; K<ce:inf loc="post">2</ce:inf>O &lt; Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> &lt; SiO<ce:inf loc="post">2</ce:inf>. The geochemistry of trace elements, pH, and electrical conductivity (EC), were determined from 21 soil samples. The samples were collected from 30 to 150 cm depths from nine sites and investigated using inductively coupled plasma optical emission spectroscopy (ICP-EOS) and X-ray fluorescence (XRF). ICP-EOS data (mg/kg): Fe &gt; S &gt; Cu &gt; Mn &gt; Cr &gt; Zn &gt; Ni &gt; Co &gt; Mo &gt; P<ce:italic>,</ce:italic> and XRF data (mg/kg): <ce:italic>S</ce:italic> &gt; F &gt; Cl &gt; V &gt; Cr &gt; Zn &gt; Co &gt; Cu &gt; Ni &gt; Mo. The trace elements data are variable in the tailing soil than in the crustal background soil. According to ICP-EOS data, the surveyed sites show increased Cu content, pH values of 1.9–5.3 and EC values of 43–679 mS/m, indicating soil contamination.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Trace elements enrichment</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Geoaccumulation index</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Contamination factor</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Potential health risks</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Land use type</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

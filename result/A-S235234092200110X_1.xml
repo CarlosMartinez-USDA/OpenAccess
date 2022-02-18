@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107898">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset regarding calcium bentonite and sodium bentonite as stabilizers for roads unbound</dct:title>
+         <dct:creator>Diego Maria Barbieri</dct:creator>
+         <dct:creator>Baowen Lou</dct:creator>
+         <dct:creator>Robert Jason Dyke</dct:creator>
+         <dct:creator>Hao Chen</dct:creator>
+         <dct:creator>Pengxiang Zhao</dct:creator>
+         <dct:creator>Shazim Ali Memon</dct:creator>
+         <dct:creator>Inge Hoff</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Calcium bentonite</rdf:li>
+               <rdf:li>Sodium bentonite</rdf:li>
+               <rdf:li>Road stabilisation</rdf:li>
+               <rdf:li>Unbound granular materials</rdf:li>
+               <rdf:li>Repeated load triaxial test</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107898</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107898</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107898</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107898</dct:identifier>
+         <bam:articleNumber>107898</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-28T18:34:27Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107898</ja:aid>
+         <ce:article-number>107898</ce:article-number>
+         <ce:pii>S2352-3409(22)00110-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107898</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S2666-7908(21)00332-3</ce:pii>
+               <ce:doi>10.1016/j.clet.2021.100372</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:article-footnote>
+            <ce:label>✰</ce:label>
+            <ce:note-para id="tfn1" view="all">Co-submitted with: Calcium Bentonite and Sodium Bentonite as Stabilizers for Roads Unbound, Cleaner Engineering and Technology</ce:note-para>
+         </ce:article-footnote>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset regarding calcium bentonite and sodium bentonite as stabilizers for roads unbound</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092200110X-dff012c91d3e90ee128f7d61f7eed236"
+                       orcid="0000-0002-5924-9367">
+               <ce:given-name>Diego Maria</ce:given-name>
+               <ce:surname>Barbieri</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:diego.barbieri@ntnu.no">diego.barbieri@ntnu.no</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092200110X-8f7d25a87163aef31499936a31a5c812">
+               <ce:given-name>Baowen</ce:given-name>
+               <ce:surname>Lou</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092200110X-cc42b5ad46550d9f7572ab2566165c8d">
+               <ce:given-name>Robert Jason</ce:given-name>
+               <ce:surname>Dyke</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S235234092200110X-b612d2bfd1862326766b0ba5272a3c66">
+               <ce:given-name>Hao</ce:given-name>
+               <ce:surname>Chen</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S235234092200110X-aa71327913c280bb438b5c3ce62f9b12">
+               <ce:given-name>Pengxiang</ce:given-name>
+               <ce:surname>Zhao</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S235234092200110X-b01e8e6f9359312ec3802cfbb8e34a21">
+               <ce:given-name>Shazim Ali</ce:given-name>
+               <ce:surname>Memon</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S235234092200110X-387ba6528604876479222f9de04aa1bf">
+               <ce:given-name>Inge</ce:given-name>
+               <ce:surname>Hoff</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092200110X-ea9431a08e23c4967c4216a80b502196">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Norwegian University of Science and Technology, Department of Civil and Environmental Engineering, Høgskoleringen 7A, Trondheim, 7491, Trøndelag, Norway</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Norwegian University of Science and Technology</sa:organization>
+                  <sa:organization>Department of Civil and Environmental Engineering</sa:organization>
+                  <sa:address-line>Høgskoleringen 7A</sa:address-line>
+                  <sa:city>Trondheim</sa:city>
+                  <sa:state>Trøndelag</sa:state>
+                  <sa:postal-code>7491</sa:postal-code>
+                  <sa:country>Norway</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aNorwegian University of Science and Technology, Department of Civil and Environmental Engineering, Høgskoleringen 7A, Trondheim, 7491, Trøndelag, Norway</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092200110X-8726ac3ba6558c544a483613c448824a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Chang'an University, School of Highway, Nan Er Huan Road (Mid-section), Xi'an, 710064, Shaanxi, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Chang'an University</sa:organization>
+                  <sa:organization>School of Highway</sa:organization>
+                  <sa:address-line>Nan Er Huan Road (Mid-section)</sa:address-line>
+                  <sa:city>Xi'an</sa:city>
+                  <sa:state>Shaanxi</sa:state>
+                  <sa:postal-code>710064</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bChang'an University, School of Highway, Nan Er Huan Road (Mid-section), Xi'an, 710064, Shaanxi, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S235234092200110X-f8bf85d9951dc67a557f7f6657807a5b">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Oslo Metropolitan University, Department of Civil Engineering and Energy Technology, Pilestredet 35, Oslo 0166 Norway</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Oslo Metropolitan University</sa:organization>
+                  <sa:organization>Department of Civil Engineering and Energy Technology</sa:organization>
+                  <sa:address-line>Pilestredet 35</sa:address-line>
+                  <sa:city>Oslo</sa:city>
+                  <sa:postal-code>0166</sa:postal-code>
+                  <sa:country>Norway</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cOslo Metropolitan University, Department of Civil Engineering and Energy Technology, Pilestredet 35, Oslo 0166 Norway</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S235234092200110X-d6b785a04e1418e1580a20bc144629c9">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Xi'an University of Science and Technology, College of Safety Science and Engineering, Yanta Road 58, Xi'an, 710054, Shaanxi, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Xi'an University of Science and Technology</sa:organization>
+                  <sa:organization>College of Safety Science and Engineering</sa:organization>
+                  <sa:address-line>Yanta Road 58</sa:address-line>
+                  <sa:city>Xi'an</sa:city>
+                  <sa:state>Shaanxi</sa:state>
+                  <sa:postal-code>710054</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dXi'an University of Science and Technology, College of Safety Science and Engineering, Yanta Road 58, Xi'an, 710054, Shaanxi, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S235234092200110X-51213d82f89e9aa1b75439bdfe3241f3">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Nazarbayev University, School of Engineering and Digital Sciences, Civil and Environmental Engineering, Kabanbay Batyr Ave 53, Nur-Sultan, 010000, Republic of Kazakhstan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Nazarbayev University</sa:organization>
+                  <sa:organization>School of Engineering and Digital Sciences</sa:organization>
+                  <sa:organization>Civil and Environmental Engineering</sa:organization>
+                  <sa:address-line>Kabanbay Batyr Ave 53</sa:address-line>
+                  <sa:city>Nur-Sultan</sa:city>
+                  <sa:postal-code>010000</sa:postal-code>
+                  <sa:country>Republic of Kazakhstan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eNazarbayev University, School of Engineering and Digital Sciences, Civil and Environmental Engineering, Kabanbay Batyr Ave 53, Nur-Sultan, 010000, Republic of Kazakhstan</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author Diego Maria Barbieri Norwegian University of Science and Technology, Department of Civil and Environmental Engineering, Høgskoleringen 7A, Trondheim, 7491, Trøndelag, Norway</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Norwegian University of Science and Technology</sa:organization>
+                  <sa:organization>Department of Civil and Environmental Engineering</sa:organization>
+                  <sa:address-line>Høgskoleringen 7A</sa:address-line>
+                  <sa:city>Trondheim</sa:city>
+                  <sa:state>Trøndelag</sa:state>
+                  <sa:postal-code>7491</sa:postal-code>
+                  <sa:country>Norway</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="3" month="1" year="2022"/>
+         <ce:date-revised day="25" month="1" year="2022"/>
+         <ce:date-accepted day="27" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">The collected dataset derives from the laboratory testing of bentonite clay investigated as a stabilization technology for the unbound layers of road pavements. The effect of two kinds of bentonite (calcium based and sodium based) are assessed on two aggregate types commonly used as road construction materials. The investigation program, performed by means of repeated load triaxial tests, encompasses the different combinations of bentonite and aggregate types; two replicate specimens are tested dried for each condition. Considering the global need for ensuring well-performing road infrastructures while employing environmentally sound construction technologies, this dataset documenting the potential of bentonite clays used as road stabilizers can be of interest for several road stakeholders.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Calcium bentonite</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Sodium bentonite</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Road stabilisation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Unbound granular materials</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Repeated load triaxial test</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

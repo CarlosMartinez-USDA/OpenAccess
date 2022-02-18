@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107543">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset for a full-year time series characterization of separately collected organic fraction of municipal solid waste from rural and urban regions in Germany</dct:title>
+         <dct:creator>Gregor Sailer</dct:creator>
+         <dct:creator>Johanna Eichermüller</dct:creator>
+         <dct:creator>Jens Poetsch</dct:creator>
+         <dct:creator>Sebastian Paczkowski</dct:creator>
+         <dct:creator>Stefan Pelz</dct:creator>
+         <dct:creator>Hans Oechsner</dct:creator>
+         <dct:creator>Joachim Müller</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>OFMSW</rdf:li>
+               <rdf:li>Waste management</rdf:li>
+               <rdf:li>Waste disposal</rdf:li>
+               <rdf:li>Waste characterization</rdf:li>
+               <rdf:li>Energy yield</rdf:li>
+               <rdf:li>Rural and urban bio-waste</rdf:li>
+               <rdf:li>Physico-chemical composition</rdf:li>
+               <rdf:li>Trace elements</rdf:li>
+               <rdf:li>Seasonal changes</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107543</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107543</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107543</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107543</dct:identifier>
+         <bam:articleNumber>107543</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-02T15:38:24Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107543</ja:aid>
+         <ce:article-number>107543</ce:article-number>
+         <ce:pii>S2352-3409(21)00819-2</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107543</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0956-053X(21)00372-X</ce:pii>
+               <ce:doi>10.1016/j.wasman.2021.07.004</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset for a full-year time series characterization of separately collected organic fraction of municipal solid waste from rural and urban regions in Germany</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008192-9126faec2b5eede23406237afec03add"
+                       orcid="0000-0002-8893-7150">
+               <ce:given-name>Gregor</ce:given-name>
+               <ce:surname>Sailer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008192-88be5bf76cdf7c4c87e088b184b16134">
+               <ce:given-name>Johanna</ce:given-name>
+               <ce:surname>Eichermüller</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008192-3b65991140ce3b068d50259ee268bbd3">
+               <ce:given-name>Jens</ce:given-name>
+               <ce:surname>Poetsch</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008192-6daf0132cd9c7eac9b97425faaf0eb61">
+               <ce:given-name>Sebastian</ce:given-name>
+               <ce:surname>Paczkowski</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008192-a0d6bb4ff3d8c26a9c970cc264c30679">
+               <ce:given-name>Stefan</ce:given-name>
+               <ce:surname>Pelz</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:sbc@hs-rottenburg.de">sbc@hs-rottenburg.de</ce:e-address>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008192-7742e56da7bb190172f3b03b7a2c18ff">
+               <ce:given-name>Hans</ce:given-name>
+               <ce:surname>Oechsner</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921008192-f67a616af44c45df7c29cb71e3ee2238"
+                       orcid="0000-0003-4623-5879">
+               <ce:given-name>Joachim</ce:given-name>
+               <ce:surname>Müller</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008192-75b576ec6c641c754d3323ad64f10105">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">University of Applied Forest Sciences Rottenburg, Schadenweilerhof, Rottenburg 72108, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Applied Forest Sciences Rottenburg</sa:organization>
+                  <sa:address-line>Schadenweilerhof</sa:address-line>
+                  <sa:city>Rottenburg</sa:city>
+                  <sa:postal-code>72108</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aUniversity of Applied Forest Sciences Rottenburg, Schadenweilerhof, Rottenburg 72108, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008192-23acd61ea4f14905713185ce62604314">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Faculty of Forest Sciences and Forest Ecology, Department of Forest Work Science and Engineering, University of Göttingen, Büsgenweg 4, Göttingen 37077, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Forest Sciences and Forest Ecology</sa:organization>
+                  <sa:organization>Department of Forest Work Science and Engineering</sa:organization>
+                  <sa:organization>University of Göttingen</sa:organization>
+                  <sa:address-line>Büsgenweg 4</sa:address-line>
+                  <sa:city>Göttingen</sa:city>
+                  <sa:postal-code>37077</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bFaculty of Forest Sciences and Forest Ecology, Department of Forest Work Science and Engineering, University of Göttingen, Büsgenweg 4, Göttingen 37077, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008192-34645aecc9a9163a86e5ca7ea7080890">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">State Institute of Agricultural Engineering and Bioenergy, University of Hohenheim, Garbenstrasse 9, Stuttgart 70599, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>State Institute of Agricultural Engineering and Bioenergy</sa:organization>
+                  <sa:organization>University of Hohenheim</sa:organization>
+                  <sa:address-line>Garbenstrasse 9</sa:address-line>
+                  <sa:city>Stuttgart</sa:city>
+                  <sa:postal-code>70599</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cState Institute of Agricultural Engineering and Bioenergy, University of Hohenheim, Garbenstrasse 9, Stuttgart 70599, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921008192-a3d1485b4a9f89ebf9404109a75a7baf">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">University of Hohenheim, Institute of Agricultural Engineering, Tropics and Subtropics Group, Garbenstrasse 9, Stuttgart 70599, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Hohenheim</sa:organization>
+                  <sa:organization>Institute of Agricultural Engineering, Tropics and Subtropics Group</sa:organization>
+                  <sa:address-line>Garbenstrasse 9</sa:address-line>
+                  <sa:city>Stuttgart</sa:city>
+                  <sa:postal-code>70599</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dUniversity of Hohenheim, Institute of Agricultural Engineering, Tropics and Subtropics Group, Garbenstrasse 9, Stuttgart 70599, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="15" month="7" year="2021"/>
+         <ce:date-revised day="5" month="9" year="2021"/>
+         <ce:date-accepted day="1" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara029" view="all">In the municipal context and depending on the collection scheme, different waste streams are of relevance. This article contains year-round data on the chemical composition of organic fractions of municipal solid waste (OFMSW) of rural and urban origins. All samples were collected in the municipality of Tübingen, which is located in southern Germany. The sampling procedure was executed in accordance with standard procedures mentioned in the German Biowaste Ordinance. The data presented in this article include (1) sampling area and process specifications (2) organoleptic examinations (3) dry matter and organic dry matter contents (4) impurity concentrations and (5) elemental compositions (major, minor and trace elements). All datasets are presented as a time series for the year 2018. Thus, this article especially presents the influence of season and settlement structure on the physico-chemical characteristics of OFMSW. Researchers, waste management companies and municipalities can compare and expand their own OFMSW data with those presented in this article. The dataset can also be used to calculate energy yields of OFMSW when utilized in anaerobic digestion. Based on the data, it is also possible to discuss and to evaluate the material utilization of OFMSW-based digestates and compost products, especially with regard to concentrations of major, minor and trace elements. For further discussion, please refer to the original scientific article Sailer et al. (2021).</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">OFMSW</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Waste management</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Waste disposal</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Waste characterization</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Energy yield</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Rural and urban bio-waste</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Physico-chemical composition</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Trace elements</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0009">
+               <ce:text id="cetext0010">Seasonal changes</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

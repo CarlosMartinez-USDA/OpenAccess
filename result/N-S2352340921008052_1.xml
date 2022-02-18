@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3&#xA;                    http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Geochemical dataset of the Danube Delta sediments</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Laura</namePart>
+      <namePart type="family">Duţu</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3482-6938</nameIdentifier>
+      <displayForm>Duţu, Laura</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dan</namePart>
+      <namePart type="family">Secrieru</namePart>
+      <displayForm>Secrieru, Dan</displayForm>
+      <affiliation>The National Institute for Research and Development on Marine Geology and Geo-Ecology, GeoEcoMar, Romania</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Florin</namePart>
+      <namePart type="family">Duţu</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5393-3125</nameIdentifier>
+      <displayForm>Duţu, Florin</displayForm>
+      <affiliation>The National Institute for Research and Development on Marine Geology and Geo-Ecology, GeoEcoMar, Romania</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Naliana</namePart>
+      <namePart type="family">Lupaşcu</namePart>
+      <displayForm>Lupaşcu, Naliana</displayForm>
+      <affiliation>The National Institute for Research and Development on Marine Geology and Geo-Ecology, GeoEcoMar, Romania</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We present geochemical analyses (major, such as CaCO₃, TOC, Fe₂O₃, and minors such as MnO and TiO₂) and trace elements, as well as some trace elements with genetic significance (Rb, Sr, Zr) or toxic and potentially affected by anthropic influences (Cu, pb, Zn, Cd, Cr, V, Ni, Co) of the superficial bed sediments of the St. George distributary which is the most sinuous and morphologically dynamic branch of the Danube River. Bed sediment samples were collected onboard of R.V. Istros, in June 2017. The dataset is useful to evaluate the distribution of the sediment along the fluvial channel, the present ecological state of the environment and, the effects of artificial intervention on the fluvial channel (the cutoff of the natural channels by navigational canals between 1984 and 1988). The data are presented as tabular format. </abstract>
+   <subject>
+      <topic>St. George branch</topic>
+   </subject>
+   <subject>
+      <topic>Former meander</topic>
+   </subject>
+   <subject>
+      <topic>Sediment pollutants</topic>
+   </subject>
+   <subject>
+      <topic>Human intervention</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107529</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107529</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107529</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00805-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <license_ref applies_to="reuse" start_date="2021-10-26"/>
+         <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/source/S2352340921008052.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\result\</workingDirectory>
+   </extension>
+</mods>

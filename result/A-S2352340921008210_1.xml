@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107545">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Woody species diversity and land-use change legacy: Dataset across Uruguay</dct:title>
+         <dct:creator>Ina Säumel</dct:creator>
+         <dct:creator>Leonardo R. Ramírez</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Uruguayan native forests</rdf:li>
+               <rdf:li>Land-use change</rdf:li>
+               <rdf:li>Landscape metrics</rdf:li>
+               <rdf:li>Woody diversity</rdf:li>
+               <rdf:li>Landscape trajectories</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107545</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107545</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107545</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107545</dct:identifier>
+         <bam:articleNumber>107545</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-02T14:41:54Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>BMBF - German Federal Ministry of Education and Research</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107545</ja:aid>
+         <ce:article-number>107545</ce:article-number>
+         <ce:pii>S2352-3409(21)00821-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107545</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0167-8809(21)00350-9</ce:pii>
+               <ce:doi>10.1016/j.agee.2021.107646</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Woody species diversity and land-use change legacy: Dataset across Uruguay</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008210-012d2ed97e212c998c40f8bdc65bb19f"
+                       orcid="0000-0001-9099-8182">
+               <ce:given-name>Ina</ce:given-name>
+               <ce:surname>Säumel</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:ina.saeumel@hu-berlin.de">ina.saeumel@hu-berlin.de</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008210-25671a06d25257d0872fa2260121453c">
+               <ce:given-name>Leonardo R.</ce:given-name>
+               <ce:surname>Ramírez</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008210-147355cf7a629bfd7df52402c46af43b">
+               <ce:textfn id="cetextfn0001">Integrative Research Institute THESys Transformation of Human-Environment-Systems Humboldt-Universität zu Berlin, Unter den Linden 6, Berlin 10099, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Integrative Research Institute THESys Transformation of Human-Environment-Systems Humboldt-Universität zu Berlin</sa:organization>
+                  <sa:address-line>Unter den Linden 6</sa:address-line>
+                  <sa:city>Berlin</sa:city>
+                  <sa:postal-code>10099</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Integrative Research Institute THESys Transformation of Human-Environment-Systems Humboldt-Universität zu Berlin, Unter den Linden 6, Berlin 10099, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="22" month="9" year="2021"/>
+         <ce:date-revised day="27" month="10" year="2021"/>
+         <ce:date-accepted day="1" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara028" view="all">The presented datasets relate to the research article entitled “Beyond the boundaries: Do spatio-temporal trajectories of land-use change and cross boundary effects shape the diversity of woody species in Uruguayan native forests?” [Ramírez and Säumel <ce:inter-ref id="interref0001"
+                                xlink:href="http://10.1016/j.agee.2021.107646"
+                                xlink:type="simple">10.1016/j.agee.2021.107646</ce:inter-ref>]. The datasets include field survey data on woody species diversity from 32 permanent plots of native forests across the Oriental Republic of Uruguay (South America). Based on land-use maps created with Landsat images we analysed the changes of percentage of cover, the landscape shape index and aggregation index of the different land-use types (i.e., native forest, grassland, timber plantation and crops) in a buffer of 3 km from the central point of each plot. Datasets were produced using ArcGIS and different R and Fragstat packages. Data on woody species diversity, land-use change history inform landscape planning, land-use management, policy and governance and can be used for further meta-analysis with other local, regional or global data sets.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Uruguayan native forests</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Land-use change</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Landscape metrics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Woody diversity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Landscape trajectories</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107473">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset for life cycle assessment of strawberry-package supply chain with considering food loss during transportation</dct:title>
+         <dct:creator>Yuma Sasaki</dct:creator>
+         <dct:creator>Takahiro Orikasa</dct:creator>
+         <dct:creator>Nobutaka Nakamura</dct:creator>
+         <dct:creator>Kiyotada Hayashi</dct:creator>
+         <dct:creator>Yoshihito Yasaka</dct:creator>
+         <dct:creator>Naoki Makino</dct:creator>
+         <dct:creator>Koichi Shobatake</dct:creator>
+         <dct:creator>Shoji Koide</dct:creator>
+         <dct:creator>Takeo Shiina</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Inventory analysis</rdf:li>
+               <rdf:li>Life cycle assessment (LCA)</rdf:li>
+               <rdf:li>Waste and recycle ratio</rdf:li>
+               <rdf:li>Packaging</rdf:li>
+               <rdf:li>Food loss</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107473</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107473</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107473</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107473</dct:identifier>
+         <bam:articleNumber>107473</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-11T13:36:56Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107473</ja:aid>
+         <ce:article-number>107473</ce:article-number>
+         <ce:pii>S2352-3409(21)00754-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107473</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0260-8774(21)00293-4</ce:pii>
+               <ce:doi>10.1016/j.jfoodeng.2021.110767</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset for life cycle assessment of strawberry-package supply chain with considering food loss during transportation</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092100754X-80c41bb7c828905c1d0cb2263c09539e"
+                       orcid="0000-0003-2301-9313">
+               <ce:given-name>Yuma</ce:given-name>
+               <ce:surname>Sasaki</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092100754X-3669c071cf74172eb5902d1d20ef3853">
+               <ce:given-name>Takahiro</ce:given-name>
+               <ce:surname>Orikasa</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:orikasa@iwate-u.ac.jp">orikasa@iwate-u.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092100754X-03c0f3abc3822d7cd7e8514547b36c3d"
+                       orcid="0000-0003-1492-1137">
+               <ce:given-name>Nobutaka</ce:given-name>
+               <ce:surname>Nakamura</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S235234092100754X-ddc4a84e601995704d9f135aa48b422b"
+                       orcid="0000-0002-5698-020X">
+               <ce:given-name>Kiyotada</ce:given-name>
+               <ce:surname>Hayashi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S235234092100754X-af34bf32c7a7eefa626b9634a3cc6275">
+               <ce:given-name>Yoshihito</ce:given-name>
+               <ce:surname>Yasaka</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S235234092100754X-fd6c9b3ca3210555ee8ea02adeee7b8e">
+               <ce:given-name>Naoki</ce:given-name>
+               <ce:surname>Makino</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S235234092100754X-96fd9dd278f4a6dda822e14e62e1c33c">
+               <ce:given-name>Koichi</ce:given-name>
+               <ce:surname>Shobatake</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S235234092100754X-f2c888f50f524d6f98892db057a900d3">
+               <ce:given-name>Shoji</ce:given-name>
+               <ce:surname>Koide</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S235234092100754X-806183dff0cde823effd2726aab9c24f">
+               <ce:given-name>Takeo</ce:given-name>
+               <ce:surname>Shiina</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092100754X-efb7520ace7c56e66dfb855131843400">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Division of Regional Development and Creativity, Graduate School of Arts and Sciences, Iwate University, 3-18-8, Ueda, Morioka, Iwate 020-8550, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Division of Regional Development and Creativity</sa:organization>
+                  <sa:organization>Graduate School of Arts and Sciences</sa:organization>
+                  <sa:organization>Iwate University</sa:organization>
+                  <sa:address-line>3-18-8, Ueda</sa:address-line>
+                  <sa:city>Morioka</sa:city>
+                  <sa:state>Iwate</sa:state>
+                  <sa:postal-code>020-8550</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDivision of Regional Development and Creativity, Graduate School of Arts and Sciences, Iwate University, 3-18-8, Ueda, Morioka, Iwate 020-8550, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092100754X-3da2ae8e32f627cdefd54f9ce9dac472">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Faculty of Agriculture, Iwate University, 3-18-8, Ueda, Morioka, Iwate 020-8550, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Agriculture</sa:organization>
+                  <sa:organization>Iwate University</sa:organization>
+                  <sa:address-line>3-18-8, Ueda</sa:address-line>
+                  <sa:city>Morioka</sa:city>
+                  <sa:state>Iwate</sa:state>
+                  <sa:postal-code>020-8550</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bFaculty of Agriculture, Iwate University, 3-18-8, Ueda, Morioka, Iwate 020-8550, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S235234092100754X-38ced30a709598cd74d9c7fb6215abc1">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Food Research Institute, NARO, 2-1-12, Kannondai, Tsukuba, Ibaraki 305-8642, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Food Research Institute</sa:organization>
+                  <sa:address-line>NARO, 2-1-12, Kannondai</sa:address-line>
+                  <sa:city>Tsukuba</sa:city>
+                  <sa:state>Ibaraki</sa:state>
+                  <sa:postal-code>305-8642</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cFood Research Institute, NARO, 2-1-12, Kannondai, Tsukuba, Ibaraki 305-8642, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S235234092100754X-c1b632c468b6880f3285fc61a5c11f71">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Institute for Agro-Environmental Sciences, NARO, 3-1-3, Kannondai, Tsukuba, Ibaraki 305-8604, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute for Agro-Environmental Sciences</sa:organization>
+                  <sa:address-line>NARO, 3-1-3, Kannondai</sa:address-line>
+                  <sa:city>Tsukuba</sa:city>
+                  <sa:state>Ibaraki</sa:state>
+                  <sa:postal-code>305-8604</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dInstitute for Agro-Environmental Sciences, NARO, 3-1-3, Kannondai, Tsukuba, Ibaraki 305-8604, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S235234092100754X-fb92c19d4e418238f2bf99538b5d9c1d">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">TCO2 Co.,Ltd., 602 Bancho Royal Court, 23-2, Ichiban-cho, Chiyoda, Tokyo 102-0082, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>TCO2 Co.,Ltd.</sa:organization>
+                  <sa:address-line>602 Bancho Royal Court, 23-2, Ichiban-cho</sa:address-line>
+                  <sa:city>Chiyoda</sa:city>
+                  <sa:state>Tokyo</sa:state>
+                  <sa:postal-code>102-0082</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eTCO2 Co.,Ltd., 602 Bancho Royal Court, 23-2, Ichiban-cho, Chiyoda, Tokyo 102-0082, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S235234092100754X-230b34051a4d9f1fd1eaaca75128e6a0">
+               <ce:label>f</ce:label>
+               <ce:textfn id="cetextfn0006">Graduate School of Horticulture, Chiba University, 648, Matsudo, Chiba, 271-8510, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Graduate School of Horticulture</sa:organization>
+                  <sa:organization>Chiba University</sa:organization>
+                  <sa:address-line>648, Matsudo</sa:address-line>
+                  <sa:city>Chiba</sa:city>
+                  <sa:postal-code>271-8510</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0006">fGraduate School of Horticulture, Chiba University, 648, Matsudo, Chiba, 271-8510, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text>Corresponding author at: Faculty of Agriculture, Iwate University, 3-18-8, Ueda, Morioka, Iwate 020-8550, Japan</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Agriculture</sa:organization>
+                  <sa:organization>Iwate University</sa:organization>
+                  <sa:address-line>3-18-8, Ueda, Morioka</sa:address-line>
+                  <sa:city>Iwate</sa:city>
+                  <sa:postal-code>020-8550</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Present address: Institute for Agro-Environmental Sciences, NARO, 3-1-3, Kannondai, Tsukuba, Ibaraki 305-8604, Japan.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="27" month="8" year="2021"/>
+         <ce:date-revised day="30" month="9" year="2021"/>
+         <ce:date-accepted day="8" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara015" view="all">This dataset includes two kinds of data (for inventory analysis in Table A1 to A13, and precondition of waste and recycle for plastic and cardboard in Table A14) for conducting life cycle assessment (LCA) of strawberry-package supply chain with considering food loss during transportation Inventory analysis includes input data for LCA analysis. The data in the inventory was referenced from the publication of Plastic Waste Management Institute Plastic Waste Management Institute, (2017) and calculated based on the damage area ratio measured in our co-submitted article (Sasaki et al., 2022). This data helps to reproduce the article (Sasaki et al., 2022) for inventory analysis and re-analyze the environmental impact through the life cycle of strawberry assessed in the co-submitted article. Data of waste (incineration and landfill) and recycle ratios for plastic was collected from the previous reports of the publication Basic Knowledge of Plastic Recycle 2021 (Plastic Waste Management Institute, 2021), and data of the ratios for cardboard was referenced from Transition of Collect Rate on Cardboard (Ministry of the Environment (MOE), 2016). Ratios in this data show Japan-specialized values and is useful for creating the inventory.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Inventory analysis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Life cycle assessment (LCA)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Waste and recycle ratio</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Packaging</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Food loss</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

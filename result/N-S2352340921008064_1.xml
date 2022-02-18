@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3&#xA;                    http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A dataset for buffering delays due to the interaction between the Nagle algorithm and the delayed acknowledgement algorithm in cyber-physical systems communication</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ahmad T.</namePart>
+      <namePart type="family">Al-Hammouri</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7416-3481</nameIdentifier>
+      <displayForm>Al-Hammouri, Ahmad T.</displayForm>
+      <affiliation>Department of Network Engineering and Security, Jordan University of Science and Technology, P.O. Box 3030, Irbid 22110, Jordan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rasmus L.</namePart>
+      <namePart type="family">Olsen</namePart>
+      <displayForm>Olsen, Rasmus L.</displayForm>
+      <affiliation>Department of Electronic Systems, Aalborg University, P.O. Box 159, Aalborg 9100, Denmark</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In this article, we provide the research community with a dataset for the buffering delays that data packets experience at the TCP sending side in the realm of Cyber-Physical Systems (CPSs) and IoT. We focus on the buffering that occurs at the sender side due to the the adverse interaction between the Nagle algorithm and the delayed acknowledgement algorithm, which both were originally introduced into TCP to prevent sending out many small-sized packets over the network. These two algorithms are turned on (enabled) by default in most operating systems. The dataset is collected using four real-life operating systems: Windows, Linux, FreeBSD, and QNX (a real-time operating system). In each scenario, there are three separate different (virtual) machines running various operating systems. One machine, or an end-host, acts a data source, another acts as a data sink, and a third acts a network emulator that introduces artificial propagation delays between the source and the destination. To measure buffering delay at the sender side, we record for each sent packet the two time instants: when the packet is first generated at the application layer, and when it is actually sent on the physical network. In each case, 10 different independent experiment replications/runs are executed. Here, we provide the full distribution of all delay samples represented by the cumulative distribution function (CDF), which is expressed mathematically byFX(x)=P(X≤x),where x is the delay measured in milliseconds, and P is the probability operator. The data exhibited here gives an impression of the amount and scale of the delay occurring at sender-side in TCP. More importantly, the data can be used to investigate the degree these delays affect the performance of cyber-physical systems and IoT or other real-time applications employing TCP. </abstract>
+   <subject>
+      <topic>IoT communication</topic>
+   </subject>
+   <subject>
+      <topic>Real-time communication</topic>
+   </subject>
+   <subject>
+      <topic>Sender-side delay</topic>
+   </subject>
+   <subject>
+      <topic>TCP buffering</topic>
+   </subject>
+   <subject>
+      <topic>Protocol parameter tuning</topic>
+   </subject>
+   <subject>
+      <topic>Real-life operating systems</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107530</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107530</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107530</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00806-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <license_ref applies_to="reuse" start_date="2021-10-26"/>
+         <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/source/S2352340921008064.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\result\</workingDirectory>
+   </extension>
+</mods>

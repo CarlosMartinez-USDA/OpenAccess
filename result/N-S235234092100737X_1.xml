@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3&#xA;                    http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of human EDEM2 melanoma cells proteomics, affinity proteomics and deglycoproteomics</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Gabriela N.</namePart>
+      <namePart type="family">Chirițoiu</namePart>
+      <displayForm>Chirițoiu, Gabriela N.</displayForm>
+      <affiliation>Department of Molecular Cell Biology, Institute of
+                        Biochemistry, Splaiul Independenței 296, Bucharest 060031,
+                        Romania</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Marioara</namePart>
+      <namePart type="family">Chirițoiu</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2064-2003</nameIdentifier>
+      <displayForm>Chirițoiu, Marioara</displayForm>
+      <affiliation>Department of Molecular Cell Biology, Institute of
+                        Biochemistry, Splaiul Independenței 296, Bucharest 060031,
+                        Romania</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cristian V.A.</namePart>
+      <namePart type="family">Munteanu</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2998-0458</nameIdentifier>
+      <displayForm>Munteanu, Cristian V.A.</displayForm>
+      <affiliation>Department of Bioinformatics and Structural
+                        Biochemistry, Institute of Biochemistry, Splaiul Independenței 296,
+                        Bucharest 060031, Romania</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>EDEM2 (Endoplasmic reticulum Degradation-Enhancing alpha-Mannosidase-like protein 2) is one of the key-proteins suggested to be involved in the selection and degradation of misfolded proteins from the endoplasmic reticulum. The datasets discussed in this article are related to experiments covering affinity proteomics, label-free quantitative proteomics, deglycoproteomics and SILAC (Stable Isotope Labeling by Amino Acids in Cell Culture) proteomics data of A375 melanoma cells with modified expression of EDEM2. Our first aim was to affinity-enrich EDEM2 alongside its potential interaction partners and analyse the obtained samples by nanoLC-MS/MS to identify novel EDEM2 associated proteins. The dataset was substantiated by SDF (Sucrose Density Fractionation)-nanoLC-MS/MS experiments, in an integrated workflow to validate EDEM2 identified partners and corroborate these with previous data. Our second aim was to delineate novel EDEM2 substrate candidates using a two-step strategy. The first one refers to the deglycoproteomics dataset, which covers nanoLC-MS/MS analysis of Concanavalin A enriched glycopeptides released by endoglycosidase digestion from A375 melanoma cell lysates. This allowed us to map the fraction of glycoproteins with non-matured N-glycans from A375 melanoma cells and find or validate N-glycosylation sites of proteins from the secretory pathway. The same dataset was also used to define glycoproteins altered by the down-regulation of endogenous EDEM2, which should contain its candidate-substrates. In a second step we delineate the degradation kinetics of some of these proteins using a pulse SILAC strategy (pSILAC) thus complementing our initial findings with a fourth dataset. Beside nanoLC-MS/MS analysis our findings were also validated by various biochemical experiments. All the data described are associated with a research article published in Molecular and Cellular Proteomics [1]. </abstract>
+   <subject>
+      <topic>Endoplasmic reticulum associated degradation
+                        (ERAD)</topic>
+   </subject>
+   <subject>
+      <topic>Stable isotope labeling by amino acids in cell culture
+                        (SILAC)</topic>
+   </subject>
+   <subject>
+      <topic>Cancer</topic>
+   </subject>
+   <subject>
+      <topic>Mass spectrometry</topic>
+   </subject>
+   <subject>
+      <topic>liquid chromatography</topic>
+   </subject>
+   <subject>
+      <topic>ITGA1</topic>
+   </subject>
+   <subject>
+      <topic>Tyrosinase</topic>
+   </subject>
+   <subject>
+      <topic>Proteasome</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107471</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107471</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107471</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00737-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 1.0 Generic (CC0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <license_ref>https://creativecommons.org/publicdomain/zero/1.0/</license_ref>
+      </program>
+   </accessCondition>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <license_ref applies_to="reuse" start_date="2021-10-06"/>
+         <license_ref>https://creativecommons.org/licenses/by-nc-nd/4.0/</license_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/source/S235234092100737X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\result\</workingDirectory>
+   </extension>
+</mods>

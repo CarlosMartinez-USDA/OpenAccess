@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107532">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset for the interfacial tension and phase properties of the ternary system water – 2-butoxyethanol – toluene</dct:title>
+         <dct:creator>Alexandra A. Kuchierskaya</dct:creator>
+         <dct:creator>Anton P. Semenov</dct:creator>
+         <dct:creator>Adeliya R. Sayfutdinova</dct:creator>
+         <dct:creator>Dmitry S. Kopitsyn</dct:creator>
+         <dct:creator>Vladimir A. Vinokurov</dct:creator>
+         <dct:creator>Mikhail A. Anisimov</dct:creator>
+         <dct:creator>Andrei A. Novikov</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Phase diagram</rdf:li>
+               <rdf:li>Binodal curve</rdf:li>
+               <rdf:li>Solubility</rdf:li>
+               <rdf:li>Density</rdf:li>
+               <rdf:li>Viscosity</rdf:li>
+               <rdf:li>Critical point</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107532</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107532</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107532</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107532</dct:identifier>
+         <bam:articleNumber>107532</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-27T19:04:47Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107532</ja:aid>
+         <ce:article-number>107532</ce:article-number>
+         <ce:pii>S2352-3409(21)00808-8</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107532</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0167-7322(21)02408-9</ce:pii>
+               <ce:doi>10.1016/j.molliq.2021.117683</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset for the interfacial tension and phase properties of the ternary system water – 2-butoxyethanol – toluene</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008088-ecdff871cbff04e8458c6a578ba8353f">
+               <ce:given-name>Alexandra A.</ce:given-name>
+               <ce:surname>Kuchierskaya</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008088-1ee012f30e87ff3de8218a8ca5f63cf1"
+                       orcid="0000-0003-0660-6233">
+               <ce:given-name>Anton P.</ce:given-name>
+               <ce:surname>Semenov</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008088-8de472a9e9204912513d7460764d861b"
+                       orcid="0000-0003-0246-8371">
+               <ce:given-name>Adeliya R.</ce:given-name>
+               <ce:surname>Sayfutdinova</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008088-9f8cb0e40dafe7f256e306aa1ac5277f"
+                       orcid="0000-0002-5791-4917">
+               <ce:given-name>Dmitry S.</ce:given-name>
+               <ce:surname>Kopitsyn</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008088-a025c0fd9bd3cdf8939188ca32ec2d44">
+               <ce:given-name>Vladimir A.</ce:given-name>
+               <ce:surname>Vinokurov</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008088-d862ed4562cf020ce30f760b1852da24">
+               <ce:given-name>Mikhail A.</ce:given-name>
+               <ce:surname>Anisimov</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921008088-2a2769e0c30bae9446fd337f23000225"
+                       orcid="0000-0002-0887-6678">
+               <ce:given-name>Andrei A.</ce:given-name>
+               <ce:surname>Novikov</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:novikov.a@gubkin.ru">novikov.a@gubkin.ru</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008088-e8d1e29145a299b705bb71c35dcb33b0">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Physical and Colloid Chemistry, Gubkin University, 65/1, Leninsky prospect, 119991 Moscow, Russian Federation</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Physical and Colloid Chemistry</sa:organization>
+                  <sa:organization>Gubkin University</sa:organization>
+                  <sa:address-line>65/1, Leninsky prospect</sa:address-line>
+                  <sa:city>Moscow</sa:city>
+                  <sa:postal-code>119991</sa:postal-code>
+                  <sa:country>Russian Federation</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Physical and Colloid Chemistry, Gubkin University, 65/1, Leninsky prospect, 119991 Moscow, Russian Federation</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008088-4b7c7f786fdaedb5553432e7557d6382">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Chemical and Biomolecular Engineering, University of Maryland, College Park, MD 20742, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemical and Biomolecular Engineering</sa:organization>
+                  <sa:organization>University of Maryland</sa:organization>
+                  <sa:city>College Park</sa:city>
+                  <sa:state>MD</sa:state>
+                  <sa:postal-code>20742</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Chemical and Biomolecular Engineering, University of Maryland, College Park, MD 20742, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="29" month="9" year="2021"/>
+         <ce:date-revised day="25" month="10" year="2021"/>
+         <ce:date-accepted day="26" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara014" view="all">Two-phase samples containing water, 2-butoxyethanol, and toluene in the different mass ratios were gravimetrically prepared in the jacketed cells at <ce:italic>T</ce:italic>=293.15 K and <ce:italic>p</ce:italic>=0.100 MPa and equilibrated for 24 h. The samples were volumetrically titrated until homogeneous. Then new samples were prepared in the two-phase region with compositions in the immediate proximity to the expected separation boundary and titrated until homogeneous. The critical point was located, keeping the phase ratio of 1:1 during the titration. The density of homogeneous samples obtained during titration was measured using the density meter. These data were used to construct an interpolation of the density along the separation boundary. New two-phase samples were prepared; the interfacial tension, density, and viscosity were measured. Thus, interfacial tension isotherm and viscosity isotherm were obtained using density interpolation to determine the composition of the equilibrated phases.</ce:simple-para>
+               <ce:simple-para id="spara015" view="all">The obtained data can be used to prepare the two-phase samples with desired properties, design the oil-water separation processes, and develop new oil spill dispersants containing 2-butoxyethanol.</ce:simple-para>
+               <ce:simple-para id="spara016" view="all">This article is a co-submission with a paper [1].</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Phase diagram</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Binodal curve</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Solubility</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Density</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Viscosity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Critical point</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

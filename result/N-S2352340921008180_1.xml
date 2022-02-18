@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3&#xA;                    http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Optimization of inter-row spacing as influenced by genotype by environment interaction (G×E): A dataset on frontiers of malt barley (Hordeum Distichum L.) productivity</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Amare Assefa</namePart>
+      <namePart type="family">Bogale</namePart>
+      <displayForm>Bogale, Amare Assefa</displayForm>
+      <affiliation>College of Agriculture and Environmental Science, Department of Horticulture, Debark University, P.O.Box, 90, North Gondar, Debark, Ethiopia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anteneh Agezew</namePart>
+      <namePart type="family">Melash</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0139-6516</nameIdentifier>
+      <displayForm>Melash, Anteneh Agezew</displayForm>
+      <affiliation>College of Agriculture and Environmental Science, Department of Horticulture, Debark University, P.O.Box, 90, North Gondar, Debark, Ethiopia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Awoke Wasae</namePart>
+      <namePart type="family">Argaw</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4396-8284</nameIdentifier>
+      <displayForm>Argaw, Awoke Wasae</displayForm>
+      <affiliation>College of Agriculture and Environmental Science, Department of Plant Science, Debark University, P.O.Box, 90, North Gondar, Debark, Ethiopia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Ethiopia is one of the major producers of barley in Sub-Saharan Africa and has a growing malt beverage sector. Yet, despite a favourable bio-physical environment, malt barley productivity is much lower than the potential yield due to traditional land management systems, poor agro-technical crop management practices, and lack of high-quality seeds. Field experiments were therefore conducted to evaluate the improved malt barley varieties under a range of inter-row spacing in two different growing locations, for their yield and other associated traits. The treatments were arranged in randomized complete block design consisting of six malt barley varieties (i.e. Holker, HB1963, Sabine, Ibone174/03, EH1847, and Freygebse), and three levels of inter-row spacing (i.e. 20, 25, and 30 cm) in two divergence growing locations (i.e. Miligebsa and Kino). Agronomic practices such as weeding, fertilizer application, harvesting, and threshing were uniformly applied for all experimental units. The data presented under this dataset article includes phenological traits (i.e. days to 50% heading, and days to 90% physiological maturity), seed yield and yield components (i.e. seeds spike⁻¹, spike length, number of effective tillers, 1000-seed weight, total aboveground biomass, and straw yield). All the collected data were subjected to a statistical analysis software package using the general linear model (GLM) procedure of the SAS 9.2 version. This dataset article therefore provides information about how optimization of inter-row spacing varied variety to variety. Additionally, it provides how the environment diverges the efficiency of inter-row spacing for maximum potential yield. Hence, this information can allow other researchers to review the supplement data, methods, and make detailed analysis, which possibly giving rise to new lines of inquiry. This can also give rise to new collaborations and boost the reputation of the present research results within the scientific community. This dataset article is aimed to provide a dataset collected from an intensive malt barley field experiment for public use and to make it available to everyone around the subject matter to use as they wish. </abstract>
+   <subject>
+      <topic>Dataset</topic>
+   </subject>
+   <subject>
+      <topic>Growing environment</topic>
+   </subject>
+   <subject>
+      <topic>Phenological traits</topic>
+   </subject>
+   <subject>
+      <topic>Malt barley varieties</topic>
+   </subject>
+   <subject>
+      <topic>Yield components, Yield</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107542</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107542</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107542</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00818-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <license_ref applies_to="reuse" start_date="2021-11-01"/>
+         <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/source/S2352340921008180.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\result\</workingDirectory>
+   </extension>
+</mods>

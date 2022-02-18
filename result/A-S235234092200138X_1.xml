@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107926">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on phenylalanine-to-tyrosine ratios in assessment of tetrahydrobiopterin (BH4)-responsiveness in patients with hyperphenylalaninemia</dct:title>
+         <dct:creator>Barbka Repic Lampret</dct:creator>
+         <dct:creator>Mojca Zerjav Tansek</dct:creator>
+         <dct:creator>Blaz Groselj</dct:creator>
+         <dct:creator>Jaka Sikonja</dct:creator>
+         <dct:creator>Tadej Battelino</dct:creator>
+         <dct:creator>Urh Groselj</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Phenylketonuria</rdf:li>
+               <rdf:li>Phenylalanine-to-tyrosine ratio</rdf:li>
+               <rdf:li>Tetrahydrobiopterin</rdf:li>
+               <rdf:li>BH4-responsiveness</rdf:li>
+               <rdf:li>Hyperphenylalaninemia</rdf:li>
+               <rdf:li>Tandem mass spectrometry</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107926</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107926</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107926</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107926</dct:identifier>
+         <bam:articleNumber>107926</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-02-02T13:59:12Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107926</ja:aid>
+         <ce:article-number>107926</ce:article-number>
+         <ce:pii>S2352-3409(22)00138-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107926</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1096-7192(12)00266-1</ce:pii>
+               <ce:doi>10.1016/j.ymgme.2012.07.010</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data on phenylalanine-to-tyrosine ratios in assessment of tetrahydrobiopterin (BH<ce:inf loc="post">4</ce:inf>)-responsiveness in patients with hyperphenylalaninemia</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092200138X-ec174efb476d23a5bf0bdaccc093f0ea">
+               <ce:given-name>Barbka Repic</ce:given-name>
+               <ce:surname>Lampret</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:barbka.repic@kclj.si">barbka.repic@kclj.si</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092200138X-2b7099db525568e22bc48a6051cfd105">
+               <ce:given-name>Mojca Zerjav</ce:given-name>
+               <ce:surname>Tansek</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:mojca.zerjav-tansek@mf.uni-lj.si">mojca.zerjav-tansek@mf.uni-lj.si</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092200138X-bb31553ae09a47b9f804173363e0b588"
+                       orcid="0000-0003-4799-2978">
+               <ce:given-name>Blaz</ce:given-name>
+               <ce:surname>Groselj</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0003" type="email" xlink:href="mailto:bgroselj@onko-i.si">bgroselj@onko-i.si</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S235234092200138X-9b91bf2f762e18de4d3f85cbc4602374">
+               <ce:given-name>Jaka</ce:given-name>
+               <ce:surname>Sikonja</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S235234092200138X-8b08918b022014b76aba666529148ad5"
+                       orcid="0000-0002-0273-4732">
+               <ce:given-name>Tadej</ce:given-name>
+               <ce:surname>Battelino</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0004"
+                             type="email"
+                             xlink:href="mailto:tadej.battelino@mf.uni-lj.si">tadej.battelino@mf.uni-lj.si</ce:e-address>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S235234092200138X-213be5b6c1a5734fc078503c95b6141a"
+                       orcid="0000-0002-5246-9869">
+               <ce:given-name>Urh</ce:given-name>
+               <ce:surname>Groselj</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0005" type="email" xlink:href="mailto:urh.groselj@kclj.si">urh.groselj@kclj.si</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092200138X-964f7ac2124258f8ecb4df68dcbc260e">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Clinical Institute for Special Laboratory Diagnostics, University Children's Hospital, UMC Ljubljana, Ljubljana 1000, Slovenia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Clinical Institute for Special Laboratory Diagnostics</sa:organization>
+                  <sa:organization>University Children's Hospital</sa:organization>
+                  <sa:organization>UMC Ljubljana</sa:organization>
+                  <sa:city>Ljubljana</sa:city>
+                  <sa:postal-code>1000</sa:postal-code>
+                  <sa:country>Slovenia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aClinical Institute for Special Laboratory Diagnostics, University Children's Hospital, UMC Ljubljana, Ljubljana 1000, Slovenia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092200138X-fcb46a1969bf2ec8799686f0d96bbf0c">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Pediatric Endocrinology, Diabetes and Metabolic Diseases, University Children's Hospital, UMC Ljubljana, Faculty of Medicine, University of Ljubljana, Bohoriceva 20, Ljubljana 1000, Slovenia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pediatric Endocrinology</sa:organization>
+                  <sa:organization>Diabetes and Metabolic Diseases</sa:organization>
+                  <sa:organization>University Children's Hospital</sa:organization>
+                  <sa:organization>UMC Ljubljana</sa:organization>
+                  <sa:organization>Faculty of Medicine, University of Ljubljana</sa:organization>
+                  <sa:address-line>Bohoriceva 20</sa:address-line>
+                  <sa:city>Ljubljana</sa:city>
+                  <sa:postal-code>1000</sa:postal-code>
+                  <sa:country>Slovenia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Pediatric Endocrinology, Diabetes and Metabolic Diseases, University Children's Hospital, UMC Ljubljana, Faculty of Medicine, University of Ljubljana, Bohoriceva 20, Ljubljana 1000, Slovenia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S235234092200138X-df5e290d66f57ad7ea35c33c14f3686c">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Faculty of Medicine, University of Ljubljana, Ljubljana 1000, Slovenia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Medicine</sa:organization>
+                  <sa:organization>University of Ljubljana</sa:organization>
+                  <sa:city>Ljubljana</sa:city>
+                  <sa:postal-code>1000</sa:postal-code>
+                  <sa:country>Slovenia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cFaculty of Medicine, University of Ljubljana, Ljubljana 1000, Slovenia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S235234092200138X-14b83769e928843c2f98293b20836607">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Institute of Oncology Ljubljana, Ljubljana 1000, Slovenia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Oncology Ljubljana</sa:organization>
+                  <sa:city>Ljubljana</sa:city>
+                  <sa:postal-code>1000</sa:postal-code>
+                  <sa:country>Slovenia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dInstitute of Oncology Ljubljana, Ljubljana 1000, Slovenia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Pediatric Endocrinology, Diabetes and Metabolic Diseases, University Children's Hospital, UMC Ljubljana, Faculty of Medicine, University of Ljubljana, Bohoriceva 20, Ljubljana 1000, Slovenia</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Pediatric Endocrinology</sa:organization>
+                  <sa:organization>Diabetes and Metabolic Diseases</sa:organization>
+                  <sa:organization>University Children's Hospital</sa:organization>
+                  <sa:organization>UMC Ljubljana</sa:organization>
+                  <sa:organization>Faculty of Medicine, University of Ljubljana</sa:organization>
+                  <sa:address-line>Bohoriceva 20</sa:address-line>
+                  <sa:city>Ljubljana</sa:city>
+                  <sa:postal-code>1000</sa:postal-code>
+                  <sa:country>Slovenia</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Present address: School of Medicine, Stanford University, California, USA</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="29" month="11" year="2021"/>
+         <ce:date-revised day="31" month="1" year="2022"/>
+         <ce:date-accepted day="2" month="2" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">Blood phenylalanine-to-tyrosine (Phe/Tyr) ratio is an important indicator of metabolic control in phenylketonuria patients. We present the data that highlights the role of Phe/Tyr-ratio in the evaluation of tetrahydrobiopterin (BH<ce:inf loc="post">4</ce:inf>)-responsiveness in patients with hyperphenylalaninemia. Our data complements the results from the original research article by Tansek et al., 2012 [1]. We performed a BH<ce:inf loc="post">4</ce:inf>-loading test in 32 patients after four days of increased protein intake (2000 mg/kg body weight). Blood sampling was performed 96, 72, 48, 24, 16 h, and moments before oral administration of BH<ce:inf loc="post">4</ce:inf> in a dose of 20 mg/kg body weight. Additional blood samples were collected 8 and 24 h after its administration. Phenylalanine (Phe) and Tyrosine (Tyr) levels were determined from dried blood spots by tandem mass spectrometry. Phe/Tyr-ratio reached a plateau after three days of increased dietary protein intake. Fifteen patients (47%) responded to BH<ce:inf loc="post">4</ce:inf>, defined as a decrease of Phe-of at least 30% after 24 h of BH<ce:inf loc="post">4</ce:inf> administration. Phe/Tyr-ratios were significantly higher in non-responders compared to responders. In the responder group, Phe/Tyr-ratios decreased in average of 67% (<ce:italic>p</ce:italic> = 0.001) and 45% (p = 0.001) after 8 and 24 h of BH<ce:inf loc="post">4</ce:inf> administration, respectively. Phe/Tyr-ratio decreased after 8 h of drug administration also in the non-responder group, but not 24 h after administration.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0002">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara007" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Phenylketonuria</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Phenylalanine-to-tyrosine ratio</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Tetrahydrobiopterin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">BH<ce:inf loc="post">4</ce:inf>-responsiveness</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Hyperphenylalaninemia</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Tandem mass spectrometry</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107929">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data of selected set of rice accessions at the germination stage under cold stress.</dct:title>
+         <dct:creator>Árpád Székely</dct:creator>
+         <dct:creator>Tímea Szalóki</dct:creator>
+         <dct:creator>Csaba Lantos</dct:creator>
+         <dct:creator>János Pauk</dct:creator>
+         <dct:creator>Shoba Venkatanagappa</dct:creator>
+         <dct:creator>Mihály Jancsó</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Chilling stress</rdf:li>
+               <rdf:li>germplasm</rdf:li>
+               <rdf:li>germination index</rdf:li>
+               <rdf:li>Oryza sativa</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Journal Pre-proof. doi:10.1016/j.dib.2022.107929</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107929</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107929</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107929</dct:identifier>
+         <bam:articleNumber>107929</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-02-03T15:15:04Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107929</ja:aid>
+         <ce:article-number>107929</ce:article-number>
+         <ce:pii>S2352-3409(22)00141-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107929</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data of selected set of rice accessions at the germination stage under cold stress.</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092200141X-cd21c665d2541cca29449170aa3e3871"
+                       orcid="0000-0002-5336-7485">
+               <ce:given-name>Árpád</ce:given-name>
+               <ce:surname>Székely</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:szekely.arpad@uni-mate.hu">szekely.arpad@uni-mate.hu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092200141X-8f2e3c7c3cdb19d70b24fc8f359078e6"
+                       orcid="0000-0003-4145-6605">
+               <ce:given-name>Tímea</ce:given-name>
+               <ce:surname>Szalóki</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092200141X-a83dd59a0143b8baf97915b1356f7c83">
+               <ce:given-name>Csaba</ce:given-name>
+               <ce:surname>Lantos</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S235234092200141X-7ebe775cb687e9ca6341e7181d7917fa">
+               <ce:given-name>János</ce:given-name>
+               <ce:surname>Pauk</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S235234092200141X-84b95ca651658740af591f7306f7989c">
+               <ce:given-name>Shoba</ce:given-name>
+               <ce:surname>Venkatanagappa</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S235234092200141X-7572d65de9a79d2099c745e1a8e7c295"
+                       orcid="0000-0003-1934-9686">
+               <ce:given-name>Mihály</ce:given-name>
+               <ce:surname>Jancsó</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092200141X-007b3eb171bcf1114bb8077750d710bb">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">Hungarian University of Agriculture and Life Sciences, Institute of Environmental Sciences, Research Centre of Irrigation and Water Management, Anna-liget u. 35, Szarvas, H-5540, Hungary</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Hungarian University of Agriculture and Life Sciences</sa:organization>
+                  <sa:organization>Institute of Environmental Sciences</sa:organization>
+                  <sa:organization>Research Centre of Irrigation and Water Management</sa:organization>
+                  <sa:address-line>Anna-liget u. 35</sa:address-line>
+                  <sa:city>Szarvas</sa:city>
+                  <sa:postal-code>H-5540</sa:postal-code>
+                  <sa:country>Hungary</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1Hungarian University of Agriculture and Life Sciences, Institute of Environmental Sciences, Research Centre of Irrigation and Water Management, Anna-liget u. 35, Szarvas, H-5540, Hungary</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092200141X-7c539d4520421e8c4cfc7d93523f00e9">
+               <ce:label>2</ce:label>
+               <ce:textfn id="cetextfn0002">Cereal Research Non-profit Company, Szeged, H-6726, Hungary</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Cereal Research Non-profit Company</sa:organization>
+                  <sa:city>Szeged</sa:city>
+                  <sa:postal-code>H-6726</sa:postal-code>
+                  <sa:country>Hungary</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2Cereal Research Non-profit Company, Szeged, H-6726, Hungary</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S235234092200141X-db2e71b5bbc8ed3671557ab8f37797fa">
+               <ce:label>3</ce:label>
+               <ce:textfn id="cetextfn0003">International Rice Research Institute DAPO Box 7777 Metro Manila 1301, Philippines, INGER &amp; ASEAN RiceNet and NARVI Global Networks Rice Breeding Platform</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>International Rice Research Institute DAPO Box 7777 Metro Manila 1301</sa:organization>
+                  <sa:organization>INGER &amp; ASEAN RiceNet and NARVI Global Networks Rice Breeding Platform</sa:organization>
+                  <sa:country>Philippines</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">3International Rice Research Institute DAPO Box 7777 Metro Manila 1301, Philippines, INGER &amp; ASEAN RiceNet and NARVI Global Networks Rice Breeding Platform</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Correspondence author: Tel.: +36704918903</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="15" month="12" year="2021"/>
+         <ce:date-revised day="24" month="1" year="2022"/>
+         <ce:date-accepted day="2" month="2" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">Hungary is northernmost temperate rice growing country in Europe. One of the main limiting factors is low temperature, especially at germination and seedling developmental stages. In early developmental stages, low temperature can impair and delay germination, as well as have negative impacts on seedling growth, causing poor stand establishment and non-uniform crop maturation <ce:bold>[</ce:bold>
+                  <ce:bold>1</ce:bold>
+                  <ce:bold>]</ce:bold>. Temperatures lower than 15°C are generally detrimental for germination <ce:bold>[</ce:bold>
+                  <ce:bold>2</ce:bold>
+                  <ce:bold>]</ce:bold> under filed conditions for establishment of the crop. This article describes some key germination parameters of 165 rice accessions including breeding lines and varieties. Each genotype was grown in three replicates in a controlled cabinet under 13°C for 4 weeks’ duration. Growth was measured every 7<ce:sup loc="post">th</ce:sup> day. Growth traits such as coleoptile and radicle length were measured at the end of the experiment. The average data were calculated for three replicates. This dataset contains germination raw data and five germination parameters such as median germination time (MGT), final germination percentage (FGP), germination index (GI), coleoptile length (CL) and radicle length (RL). These data may provide reliable support for researchers and breeders to select the right rice genotypes for low temperature conditions.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Chilling stress</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">germplasm</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">germination index</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Oryza sativa</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107529">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Geochemical dataset of the Danube Delta sediments</dct:title>
+         <dct:creator>Laura Duţu</dct:creator>
+         <dct:creator>Dan Secrieru</dct:creator>
+         <dct:creator>Florin Duţu</dct:creator>
+         <dct:creator>Naliana Lupaşcu</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>St. George branch</rdf:li>
+               <rdf:li>Former meander</rdf:li>
+               <rdf:li>Sediment pollutants</rdf:li>
+               <rdf:li>Human intervention</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107529</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107529</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107529</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107529</dct:identifier>
+         <bam:articleNumber>107529</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-26T19:37:00Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107529</ja:aid>
+         <ce:article-number>107529</ce:article-number>
+         <ce:pii>S2352-3409(21)00805-2</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107529</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Geochemical dataset of the Danube Delta sediments</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008052-2e474c98193dee286637467f54fac046"
+                       orcid="0000-0003-3482-6938">
+               <ce:given-name>Laura</ce:given-name>
+               <ce:surname>Duţu</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:laura.dutu@geoecomar.ro">laura.dutu@geoecomar.ro</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008052-962895cd3501697da9ccb4eb5486f969">
+               <ce:given-name>Dan</ce:given-name>
+               <ce:surname>Secrieru</ce:surname>
+               <ce:e-address id="ead001a" type="email" xlink:href="mailto:dsecrieru@yahoo.com">dsecrieru@yahoo.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008052-c532aceb7153fe9f1cce12bc5f860617"
+                       orcid="0000-0002-5393-3125">
+               <ce:given-name>Florin</ce:given-name>
+               <ce:surname>Duţu</ce:surname>
+               <ce:e-address id="ead001b" type="email" xlink:href="mailto:fdutu@geoecomar.ro">fdutu@geoecomar.ro</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008052-f31823629d2c313f77f9d757d08393e1">
+               <ce:given-name>Naliana</ce:given-name>
+               <ce:surname>Lupaşcu</ce:surname>
+               <ce:e-address id="ead001c"
+                             type="email"
+                             xlink:href="mailto:naliana.lupascu@geoecomar.ro">naliana.lupascu@geoecomar.ro</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008052-e1286cd0c3c549f4f9b11a63fe65a9f0">
+               <ce:textfn id="cetextfn0001">The National Institute for Research and Development on Marine Geology and Geo-Ecology, GeoEcoMar, Romania</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>The National Institute for Research and Development on Marine Geology and Geo-Ecology, GeoEcoMar</sa:organization>
+                  <sa:country>Romania</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">The National Institute for Research and Development on Marine Geology and Geo-Ecology, GeoEcoMar, Romania</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="30" month="9" year="2021"/>
+         <ce:date-accepted day="25" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara011" view="all">We present geochemical analyses (major, such as CaCO<ce:inf loc="post">3</ce:inf>, TOC, Fe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, and minors such as MnO and TiO<ce:inf loc="post">2</ce:inf>) and trace elements, as well as some trace elements with genetic significance (Rb, Sr, Zr) or toxic and potentially affected by anthropic influences (Cu, pb, Zn, Cd, Cr, V, Ni, Co) of the superficial bed sediments of the St. George distributary which is the most sinuous and morphologically dynamic branch of the Danube River. Bed sediment samples were collected onboard of R.V. Istros, in June 2017. The dataset is useful to evaluate the distribution of the sediment along the fluvial channel, the present ecological state of the environment and, the effects of artificial intervention on the fluvial channel (the cutoff of the natural channels by navigational canals between 1984 and 1988). The data are presented as tabular format.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">St. George branch</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Former meander</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Sediment pollutants</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Human intervention</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

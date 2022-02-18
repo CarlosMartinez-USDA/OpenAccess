@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107490">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on the in vitro elution of substances from three types of polysulfone membrane dialyzers as well as a non-polysulfone cellulose triacetate membrane dialyzer evaluated using ultraviolet absorption</dct:title>
+         <dct:creator>Yoshinori Sato</dct:creator>
+         <dct:creator>Hayato Horiuchi</dct:creator>
+         <dct:creator>Shinji Fukasawa</dct:creator>
+         <dct:creator>Shingo Takesawa</dct:creator>
+         <dct:creator>Jun Hirayama</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Dialyzer</rdf:li>
+               <rdf:li>Hemodialysis</rdf:li>
+               <rdf:li>Ultraviolet absorption</rdf:li>
+               <rdf:li>Polyvinylpyrrolidone</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107490</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107490</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107490</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107490</dct:identifier>
+         <bam:articleNumber>107490</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-14T14:14:44Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107490</ja:aid>
+         <ce:article-number>107490</ce:article-number>
+         <ce:pii>S2352-3409(21)00771-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107490</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0002">
+               <ce:pii>S2405-5808(21)00234-X</ce:pii>
+               <ce:doi>10.1016/j.bbrep.2021.101140</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data on the <ce:italic>in vitr</ce:italic>o elution of substances from three types of polysulfone membrane dialyzers as well as a non-polysulfone cellulose triacetate membrane dialyzer evaluated using ultraviolet absorption</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092100771X-2965f777fb7a736cd10699b684c68205">
+               <ce:given-name>Yoshinori</ce:given-name>
+               <ce:surname>Sato</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:yoshinori.sato@komatsu-u.ac.jp">yoshinori.sato@komatsu-u.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092100771X-f13587f163cada73d9eb207613137922">
+               <ce:given-name>Hayato</ce:given-name>
+               <ce:surname>Horiuchi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092100771X-9e2beb63496cac392cc98cf01113bac7">
+               <ce:given-name>Shinji</ce:given-name>
+               <ce:surname>Fukasawa</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S235234092100771X-3b1439327a43d5eefb928f4e1c4311c1">
+               <ce:given-name>Shingo</ce:given-name>
+               <ce:surname>Takesawa</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S235234092100771X-bfaa0b7d05d11fe4ab9cb99cefeb1270">
+               <ce:given-name>Jun</ce:given-name>
+               <ce:surname>Hirayama</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:jun.hirayama@komatsu-u.ac.jp">jun.hirayama@komatsu-u.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092100771X-44001fb8b021983b372ff7de3032585c">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Clinical Engineering, Faculty of Health Sciences, Komatsu University, Ishikawa, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Clinical Engineering</sa:organization>
+                  <sa:organization>Faculty of Health Sciences</sa:organization>
+                  <sa:organization>Komatsu University</sa:organization>
+                  <sa:city>Ishikawa</sa:city>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Clinical Engineering, Faculty of Health Sciences, Komatsu University, Ishikawa, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092100771X-1cbdeb34ef93f947a7ad284374759f6e">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Medical Engineering, National Center for Child Health and Development, Tokyo, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Medical Engineering</sa:organization>
+                  <sa:organization>National Center for Child Health and Development</sa:organization>
+                  <sa:city>Tokyo</sa:city>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Medical Engineering, National Center for Child Health and Development, Tokyo, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S235234092100771X-4fd536c46bbbb7360a84a1411831e442">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Medical Engineering, Kyushu University of Health and Welfare, Miyazaki, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Medical Engineering</sa:organization>
+                  <sa:organization>Kyushu University of Health and Welfare</sa:organization>
+                  <sa:city>Miyazaki</sa:city>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Medical Engineering, Kyushu University of Health and Welfare, Miyazaki, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding authors.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="11" month="10" year="2021"/>
+         <ce:date-accepted day="13" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">We evaluated the influences of the priming process (washing with saline), saline circulation conditions, and saline incubation on the <ce:italic>in vitro</ce:italic> elution of substances from three types of polysulfone (PSu) membrane dialyzers sterilized using gamma irradiation [NV-15X (Toray Industries, Inc.)], autoclaving [RENAK-PS1.6 (Kawasumi Laboratories, Inc.)], or in-line steam [FX-140J (Fresenius Medical Care)] methods as well as a non-PSu cellulose triacetate (CTA) membrane dialyzer [FB-150U(NIPRO)]. The effect of priming was evaluated by circulating 1000 mL of saline through the dialyzers at a rate of 100 mL/min and measuring the elution level of the substances by determining their ultraviolet (UV) absorption at 220 nm using spectrophotometry. All the tested dialyzers showed that the elution of the substances decreased as per the order of sample collection. Primed dialyzers were used in the subsequent experiments. Circulating saline through the primed membrane dialyzers at a flow rate of 100 mL/min caused time-dependent elution of substances from all the tested dialyzers; increasing the flow rate to 200 mL/min did not have a significant effect on the time-dependence or elution amount at each time point (0–8 h). The elution was also evaluated after incubating the membrane dialyzers with saline for 24 h. A co-submitted article (Sato et al., 2021) detailed the preparation of the identical experimental circuits, as well as the influences of saline washing, saline circulation conditions, and saline incubation on the elution of the hydrophilic agent polyvinylpyrrolidone (PVP) from each dialyzer using the Müller method, which can enable specific detection of PVP (Müller, 1968). The relative elution levels of PVP among the dialyzers and the experimental conditions were different from those of substances determined using UV (220 nm) absorption. Our data might be used for further development of experiments for identifying non-PVP substances eluted from dialyzers by providing information regarding the conditions of the elutions and types of dialyzers from which they are eluted.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Dialyzer</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Hemodialysis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Ultraviolet absorption</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Polyvinylpyrrolidone</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

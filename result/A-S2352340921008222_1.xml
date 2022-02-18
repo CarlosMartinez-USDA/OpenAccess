@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107546">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Microbial communities in polychlorinated biphenyl (PCB)-contaminated wastewater lagoon sediments: PCB congener, quantitative PCR, and 16S rRNA gene amplicon sequencing datasets</dct:title>
+         <dct:creator>Timothy E. Mattes</dct:creator>
+         <dct:creator>Jessica M. Ewald</dct:creator>
+         <dct:creator>Yi Liang</dct:creator>
+         <dct:creator>Andres Martinez</dct:creator>
+         <dct:creator>Andrew M. Awad</dct:creator>
+         <dct:creator>Keri C. Hornbuckle</dct:creator>
+         <dct:creator>Jerald L. Schnoor</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Polychlorinated biphenyls</rdf:li>
+               <rdf:li>Wastewater lagoon sediments</rdf:li>
+               <rdf:li>Reductive dehalogenation</rdf:li>
+               <rdf:li>Dehalococcoides</rdf:li>
+               <rdf:li>16S rRNA gene sequencing</rdf:li>
+               <rdf:li>Quantitative PCR</rdf:li>
+               <rdf:li>Reductive dehalogenase genes</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107546</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107546</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107546</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107546</dct:identifier>
+         <bam:articleNumber>107546</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-02T14:43:56Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>National Institutes of Health</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107546</ja:aid>
+         <ce:article-number>107546</ce:article-number>
+         <ce:pii>S2352-3409(21)00822-2</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107546</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Microbial communities in polychlorinated biphenyl (PCB)-contaminated wastewater lagoon sediments: PCB congener, quantitative PCR, and 16S rRNA gene amplicon sequencing datasets</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008222-368a75f39eebc09ab9d7acf2a694ff0e"
+                       orcid="0000-0002-4833-6668">
+               <ce:given-name>Timothy E.</ce:given-name>
+               <ce:surname>Mattes</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:tim-mattes@uiowa.edu">tim-mattes@uiowa.edu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008222-0d48650ad047f1db43c105247b2cf9d8"
+                       orcid="0000-0002-4171-7230">
+               <ce:given-name>Jessica M.</ce:given-name>
+               <ce:surname>Ewald</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008222-87db00e127efd5056e74dc9a54392542"
+                       orcid="0000-0001-7214-5418">
+               <ce:given-name>Yi</ce:given-name>
+               <ce:surname>Liang</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008222-699dd442533fd64df01ad1883006afc4"
+                       orcid="0000-0002-0572-1494">
+               <ce:given-name>Andres</ce:given-name>
+               <ce:surname>Martinez</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008222-ac03304100f3622cef949da3bdbf08d7">
+               <ce:given-name>Andrew M.</ce:given-name>
+               <ce:surname>Awad</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008222-d6e8407bab4704742a1b38f565d7f3d6"
+                       orcid="0000-0002-3478-3221">
+               <ce:given-name>Keri C.</ce:given-name>
+               <ce:surname>Hornbuckle</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921008222-e01f7ec12fbecf9af515b34f2171927a">
+               <ce:given-name>Jerald L.</ce:given-name>
+               <ce:surname>Schnoor</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008222-15c83a3f57bde36552c4b099131f1aaf">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Civil and Environmental Engineering, University of Iowa, 4105 Seamans Center, Iowa City, IA 52242, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Civil and Environmental Engineering</sa:organization>
+                  <sa:organization>University of Iowa</sa:organization>
+                  <sa:address-line>4105 Seamans Center</sa:address-line>
+                  <sa:city>Iowa City</sa:city>
+                  <sa:state>IA</sa:state>
+                  <sa:postal-code>52242</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Civil and Environmental Engineering, University of Iowa, 4105 Seamans Center, Iowa City, IA 52242, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008222-e50019a9188fdd6633ac79f582680464">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Guangzhou Institute of Geochemistry</sa:organization>
+                  <sa:organization>Chinese Academy of Sciences,</sa:organization>
+                  <sa:city>Guangzhou</sa:city>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bGuangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="17" month="8" year="2021"/>
+         <ce:date-revised day="27" month="10" year="2021"/>
+         <ce:date-accepted day="1" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara002" view="all">The potential for aerobic and anaerobic microbial natural attenuation of PCBs in freshwater sediments is described by PCB congener, quantitative PCR, and 16S rRNA gene amplicon sequencing datasets generated, in duplicate, from 27 sediment samples collected from a PCB-contaminated freshwater lagoon (54 samples total). Sediment samples were subjected to a hexane PCB extraction protocol and the concentrations of 209 PCB congeners were determined in hexane extracts by gas chromatography with a tandem mass spectrometry detection. DNA was extracted from sediments sediment samples and used for qPCR and 16S rRNA amplicon sequencing. The abundance of 16S rRNA genes (i.e., <ce:italic>Dehalococcoides</ce:italic> and putative dechlorinating Chloroflexi) and functional genes (i.e., reductive dehalogenase (<ce:italic>rdhA</ce:italic>) and biphenyl dioxygenase (<ce:italic>bphA</ce:italic>)) associated with aerobic and anaerobic PCB biodegradation, along with the total 16S rRNA genes abundance, was determined by SYBR green qPCR. The microbial community composition and structure in all sediment samples was obtained by 16S rRNA gene amplicon sequencing. Primers targeting the 16S rRNA gene V4 region were used to produce 16S rRNA gene amplicons that were sequencing with the high-throughput Illumina MiSeq platform and sequencing chemistry. The 16S rRNA gene sequencing dataset along with PCB congener and qPCR datasets included as metadata, could be reused in meta-analyses that aim to determine microbial community interactions in contaminated environments, and uncover relationships between microbial community structure and environmental variable (e.g., PCB congener concentrations).</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Polychlorinated biphenyls</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Wastewater lagoon sediments</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Reductive dehalogenation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">
+                  <ce:italic>Dehalococcoides</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">16S rRNA gene sequencing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Quantitative PCR</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Reductive dehalogenase genes</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

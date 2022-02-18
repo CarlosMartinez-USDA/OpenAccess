@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3&#xA;                    http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data of selected set of rice accessions at the germination stage under cold stress.</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Árpád</namePart>
+      <namePart type="family">Székely</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5336-7485</nameIdentifier>
+      <displayForm>Székely, Árpád</displayForm>
+      <affiliation>Hungarian University of Agriculture and Life Sciences, Institute of Environmental Sciences, Research Centre of Irrigation and Water Management, Anna-liget u. 35, Szarvas, H-5540, Hungary</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tímea</namePart>
+      <namePart type="family">Szalóki</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4145-6605</nameIdentifier>
+      <displayForm>Szalóki, Tímea</displayForm>
+      <affiliation>Hungarian University of Agriculture and Life Sciences, Institute of Environmental Sciences, Research Centre of Irrigation and Water Management, Anna-liget u. 35, Szarvas, H-5540, Hungary</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Csaba</namePart>
+      <namePart type="family">Lantos</namePart>
+      <displayForm>Lantos, Csaba</displayForm>
+      <affiliation>Cereal Research Non-profit Company, Szeged, H-6726, Hungary</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">János</namePart>
+      <namePart type="family">Pauk</namePart>
+      <displayForm>Pauk, János</displayForm>
+      <affiliation>Cereal Research Non-profit Company, Szeged, H-6726, Hungary</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shoba</namePart>
+      <namePart type="family">Venkatanagappa</namePart>
+      <displayForm>Venkatanagappa, Shoba</displayForm>
+      <affiliation>International Rice Research Institute DAPO Box 7777 Metro Manila 1301, Philippines, INGER &amp; ASEAN RiceNet and NARVI Global Networks Rice Breeding Platform</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mihály</namePart>
+      <namePart type="family">Jancsó</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1934-9686</nameIdentifier>
+      <displayForm>Jancsó, Mihály</displayForm>
+      <affiliation>Hungarian University of Agriculture and Life Sciences, Institute of Environmental Sciences, Research Centre of Irrigation and Water Management, Anna-liget u. 35, Szarvas, H-5540, Hungary</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Hungary is northernmost temperate rice growing country in Europe. One of the main limiting factors is low temperature, especially at germination and seedling developmental stages. In early developmental stages, low temperature can impair and delay germination, as well as have negative impacts on seedling growth, causing poor stand establishment and non-uniform crop maturation [1]. Temperatures lower than 15°C are generally detrimental for germination [2] under filed conditions for establishment of the crop. This article describes some key germination parameters of 165 rice accessions including breeding lines and varieties. Each genotype was grown in three replicates in a controlled cabinet under 13°C for 4 weeks’ duration. Growth was measured every 7ᵗʰ day. Growth traits such as coleoptile and radicle length were measured at the end of the experiment. The average data were calculated for three replicates. This dataset contains germination raw data and five germination parameters such as median germination time (MGT), final germination percentage (FGP), germination index (GI), coleoptile length (CL) and radicle length (RL). These data may provide reliable support for researchers and breeders to select the right rice genotypes for low temperature conditions. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Chilling stress</topic>
+   </subject>
+   <subject>
+      <topic>germplasm</topic>
+   </subject>
+   <subject>
+      <topic>germination index</topic>
+   </subject>
+   <subject>
+      <topic>Oryza sativa</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">02</text>
+         <text type="day">02</text>
+         <extent unit="pages">
+            <start>107929</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107929</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107929</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00141-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <license_ref applies_to="reuse" start_date="2022-02-03"/>
+         <license_ref>https://creativecommons.org/licenses/by-nc-nd/4.0/</license_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/source/S235234092200141X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\result\</workingDirectory>
+   </extension>
+</mods>

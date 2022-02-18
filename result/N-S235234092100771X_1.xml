@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3&#xA;                    http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on the in vitro elution of substances from three types of polysulfone membrane dialyzers as well as a non-polysulfone cellulose triacetate membrane dialyzer evaluated using ultraviolet absorption</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Yoshinori</namePart>
+      <namePart type="family">Sato</namePart>
+      <displayForm>Sato, Yoshinori</displayForm>
+      <affiliation>Department of Clinical Engineering, Faculty of Health Sciences, Komatsu University, Ishikawa, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hayato</namePart>
+      <namePart type="family">Horiuchi</namePart>
+      <displayForm>Horiuchi, Hayato</displayForm>
+      <affiliation>Department of Medical Engineering, National Center for Child Health and Development, Tokyo, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shinji</namePart>
+      <namePart type="family">Fukasawa</namePart>
+      <displayForm>Fukasawa, Shinji</displayForm>
+      <affiliation>Department of Clinical Engineering, Faculty of Health Sciences, Komatsu University, Ishikawa, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shingo</namePart>
+      <namePart type="family">Takesawa</namePart>
+      <displayForm>Takesawa, Shingo</displayForm>
+      <affiliation>Department of Medical Engineering, Kyushu University of Health and Welfare, Miyazaki, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jun</namePart>
+      <namePart type="family">Hirayama</namePart>
+      <displayForm>Hirayama, Jun</displayForm>
+      <affiliation>Department of Clinical Engineering, Faculty of Health Sciences, Komatsu University, Ishikawa, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We evaluated the influences of the priming process (washing with saline), saline circulation conditions, and saline incubation on the in vitro elution of substances from three types of polysulfone (PSu) membrane dialyzers sterilized using gamma irradiation [NV-15X (Toray Industries, Inc.)], autoclaving [RENAK-PS1.6 (Kawasumi Laboratories, Inc.)], or in-line steam [FX-140J (Fresenius Medical Care)] methods as well as a non-PSu cellulose triacetate (CTA) membrane dialyzer [FB-150U(NIPRO)]. The effect of priming was evaluated by circulating 1000 mL of saline through the dialyzers at a rate of 100 mL/min and measuring the elution level of the substances by determining their ultraviolet (UV) absorption at 220 nm using spectrophotometry. All the tested dialyzers showed that the elution of the substances decreased as per the order of sample collection. Primed dialyzers were used in the subsequent experiments. Circulating saline through the primed membrane dialyzers at a flow rate of 100 mL/min caused time-dependent elution of substances from all the tested dialyzers; increasing the flow rate to 200 mL/min did not have a significant effect on the time-dependence or elution amount at each time point (0–8 h). The elution was also evaluated after incubating the membrane dialyzers with saline for 24 h. A co-submitted article (Sato et al., 2021) detailed the preparation of the identical experimental circuits, as well as the influences of saline washing, saline circulation conditions, and saline incubation on the elution of the hydrophilic agent polyvinylpyrrolidone (PVP) from each dialyzer using the Müller method, which can enable specific detection of PVP (Müller, 1968). The relative elution levels of PVP among the dialyzers and the experimental conditions were different from those of substances determined using UV (220 nm) absorption. Our data might be used for further development of experiments for identifying non-PVP substances eluted from dialyzers by providing information regarding the conditions of the elutions and types of dialyzers from which they are eluted. </abstract>
+   <subject>
+      <topic>Dialyzer</topic>
+   </subject>
+   <subject>
+      <topic>Hemodialysis</topic>
+   </subject>
+   <subject>
+      <topic>Ultraviolet absorption</topic>
+   </subject>
+   <subject>
+      <topic>Polyvinylpyrrolidone</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107490</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107490</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107490</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00771-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <license_ref applies_to="reuse" start_date="2021-10-14"/>
+         <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/source/S235234092100771X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\result\</workingDirectory>
+   </extension>
+</mods>
