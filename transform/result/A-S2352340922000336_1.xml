@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107821">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset on European diadromous species distributions from 1750 to present time in Europe, North Africa and the Middle East</dct:title>
+         <dct:creator>Betsy Barber-O'Malley</dct:creator>
+         <dct:creator>Géraldine Lassalle</dct:creator>
+         <dct:creator>Patrick Lambert</dct:creator>
+         <dct:creator>Eric Quinton</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Diadromous species</rdf:li>
+               <rdf:li>Geographical distribution</rdf:li>
+               <rdf:li>Presence/absence</rdf:li>
+               <rdf:li>Abundance</rdf:li>
+               <rdf:li>Life-history trait</rdf:li>
+               <rdf:li>Population</rdf:li>
+               <rdf:li>European catchments</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2022.107821</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2022.107821</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107821</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107821</dct:identifier>
+         <bam:articleNumber>107821</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-08T20:30:54Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Couperin: French Agreement 2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107821</ja:aid>
+         <ce:article-number>107821</ce:article-number>
+         <ce:pii>S2352-3409(22)00033-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107821</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0006-3207(08)00066-9</ce:pii>
+               <ce:doi>10.1016/j.biocon.2008.02.010</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset on European diadromous species distributions from 1750 to present time in Europe, North Africa and the Middle East</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000336-047d602e737266cb4eef031eb046a6bd">
+               <ce:given-name>Betsy</ce:given-name>
+               <ce:surname>Barber-O'Malley</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000336-27f67ee3e717b172b258759d108cc370"
+                       orcid="0000-0002-8548-7254">
+               <ce:given-name>Géraldine</ce:given-name>
+               <ce:surname>Lassalle</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:geraldine.lassalle@inrae.fr">geraldine.lassalle@inrae.fr</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000336-9c83aaf92292822a59b2bb6aa34efec7"
+                       orcid="0000-0003-4367-8498">
+               <ce:given-name>Patrick</ce:given-name>
+               <ce:surname>Lambert</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea4"
+                             type="social-media"
+                             xlink:href="https://twitter.com/plirstea">@plirstea</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922000336-2976c3a94cb3ed3d6f1aed0d8ed4d607"
+                       orcid="0000-0003-4207-4107">
+               <ce:given-name>Eric</ce:given-name>
+               <ce:surname>Quinton</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000336-3125393f0b5231bb74095de547b844c7">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">INRAE, UR EABX, 50 Avenue de Verdun, Gazinet-Cestas Cedex 33612, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>INRAE, UR EABX</sa:organization>
+                  <sa:address-line>50 Avenue de Verdun</sa:address-line>
+                  <sa:city>Gazinet-Cestas</sa:city>
+                  <sa:postal-code>Cedex 33612</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aINRAE, UR EABX, 50 Avenue de Verdun, Gazinet-Cestas Cedex 33612, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922000336-6fd10736d061a0aebf26709d6e1b5d6d">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">University of Maine, 168 College Avenue, Orono, ME 04469, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Maine</sa:organization>
+                  <sa:address-line>168 College Avenue</sa:address-line>
+                  <sa:city>Orono</sa:city>
+                  <sa:state>ME</sa:state>
+                  <sa:postal-code>04469</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bUniversity of Maine, 168 College Avenue, Orono, ME 04469, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Present address: Gomez and Sullivan Engineers, 41 Liberty Hill Road, Henniker, NH 03242, USA.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="5" month="6" year="2021"/>
+         <ce:date-revised day="22" month="12" year="2021"/>
+         <ce:date-accepted day="7" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara018" view="all">EuroDiad version 4.0 is a set of data tables that store information about the presences/absences and population functionality of diadromous species (lampreys and fish) populations in selected catchments in Europe, the Middle East, and North Africa from 1750 to present time. This database contains distribution and life-history trait information for twenty-eight European diadromous species and geomorphological data for each of the selected catchments, though not every species has data for every catchment and time period. EuroDiad was originally created in 2005–2006 (EuroDiad 1.0 and 2.0), and contained data for 196 catchments and two time periods (1851–1950 and 1951–2010). It underwent a major update in 2009–2010 (EuroDiad 3.2) through a validation process by European fisheries experts. Version 3.2 included the addition of 63 small-sized catchments (&lt; 10,000 km<ce:sup loc="post">2</ce:sup>) and an additional time period (1751–1850) for select species and catchments. This database underwent a second validation process in 2019–2020 and was updated to v 4.0, with the primary goal of providing information for a new generation of species distribution models, referred to as hybrid models, which incorporate both habitat suitability and population dynamics within their framework. Secondary objectives of this update were to: (a) incorporate new catchments for which information was provided by additional experts, (b) validate existing information about the presences or absences of diadromous species and categorize their population functionality within a catchment, and (c) perform data hygiene to prepare the database for broad dissemination. Information on the life history, morphology, and phenology of four emblematic species (i.e. eel, salmon, lamprey and shad) were added in this occasion. Data for this update were validated by DiadES project partners (<ce:inter-ref id="interref0004"
+                                xlink:href="http://www.diades.eu"
+                                xlink:type="simple">www.diades.eu</ce:inter-ref>) and local experts. This update was focused on catchments located in the Atlantic Area for use in the DiadES project. Data were divided by country, and validation was performed for catchments in Ireland, the U.K., Spain, Portugal, and France under the supervision of national organisations in fisheries and environmental management. DiadES project partners were asked to validate geomorphological information for the catchment (location of the outlet, surface area of the drainage basin, length of the main watercourse, elevation at the headwaters), as well as the presences/absences information and population functionality categories for all species already present in EuroDiad for their country. If possible, verification was done for each of the three time periods. Partners were also asked to provide data for any other catchments for which they had access to information on fish population status. EuroDiad 4.0 now stores data for 350 catchments (of which 292 have population functionality records) and three time periods, though the precision of information varies and not every species has information for each time period. This validation process strengthened the usefulness of EuroDiad, which is now updated and available for use by the research community.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002g">Diadromous species</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002a">
+               <ce:text id="cetext0003h">Geographical distribution</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002b">
+               <ce:text id="cetext0003i">Presence/absence</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002c">
+               <ce:text id="cetext0003j">Abundance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002d">
+               <ce:text id="cetext0003k">Life-history trait</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002e">
+               <ce:text id="cetext0003l">Population</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002f">
+               <ce:text id="cetext0003m">European catchments</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

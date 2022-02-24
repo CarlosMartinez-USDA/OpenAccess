@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2021.100032">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Agaricus blazei Murrill Mushroom: A Review on the Prevention and Treatment of Cancer</dct:title>
+         <dct:creator>Amanda Gollo Bertollo</dct:creator>
+         <dct:creator>Maiqueli Eduarda Dama Mingoti</dct:creator>
+         <dct:creator>Marcos Eduardo Plissari</dct:creator>
+         <dct:creator>Graciele Betti</dct:creator>
+         <dct:creator>Walter Antônio Roman Junior</dct:creator>
+         <dct:creator>Adriana Remião Luzardo</dct:creator>
+         <dct:creator>Zuleide Maria Ignácio</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Agaricus blazei Murrill</rdf:li>
+               <rdf:li>Sun Mushroom</rdf:li>
+               <rdf:li>Cancer</rdf:li>
+               <rdf:li>Antineoplastic</rdf:li>
+               <rdf:li>Antiangiogenesis</rdf:li>
+               <rdf:li>Immune system</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine, Journal Pre-proof. doi:10.1016/j.prmcm.2021.100032</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:doi>10.1016/j.prmcm.2021.100032</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2021.100032</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2021.100032</dct:identifier>
+         <bam:articleNumber>100032</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-14T10:56:11Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100032</ja:aid>
+         <ce:article-number>100032</ce:article-number>
+         <ce:pii>S2667-1425(21)00031-2</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2021.100032</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">
+            <ce:italic>Agaricus blazei</ce:italic> Murrill Mushroom: A Review on the Prevention and Treatment of Cancer</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667142521000312-06097f596dcd161bb600c1be69c3f3a3">
+               <ce:given-name>Amanda Gollo</ce:given-name>
+               <ce:surname>Bertollo</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667142521000312-6245b092b85399275e0df465b1504a64">
+               <ce:given-name>Maiqueli Eduarda Dama</ce:given-name>
+               <ce:surname>Mingoti</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667142521000312-a3acc9cc491b3085695e04c8a134e00c">
+               <ce:given-name>Marcos Eduardo</ce:given-name>
+               <ce:surname>Plissari</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667142521000312-2f43d38c4c7bed1422d2d3681c3bb09c">
+               <ce:given-name>Graciele</ce:given-name>
+               <ce:surname>Betti</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667142521000312-e8f3780210f0d86ea2cbffff5686a999">
+               <ce:given-name>Walter Antônio Roman</ce:given-name>
+               <ce:surname>Junior</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667142521000312-7d56709e4b6e6e99e85a548868aea919">
+               <ce:given-name>Adriana Remião</ce:given-name>
+               <ce:surname>Luzardo</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667142521000312-65b989d860ff9627564cea62f51e4467">
+               <ce:given-name>Zuleide Maria</ce:given-name>
+               <ce:surname>Ignácio</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">†</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:zuleide@uffs.edu.br">zuleide@uffs.edu.br</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667142521000312-7593bcb58b2a0b59a75ffbd4b0a4d208">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Laboratory of Physiology, Pharmacology and Psychopathology, Graduate Program in Biomedical Sciences, Federal University of Fronteira Sul, Chapecó, SC, Brazil.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Physiology, Pharmacology and Psychopathology, Graduate Program in Biomedical Sciences</sa:organization>
+                  <sa:organization>Federal University of Fronteira Sul</sa:organization>
+                  <sa:city>Chapecó</sa:city>
+                  <sa:state>SC</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aLaboratory of Physiology, Pharmacology and Psychopathology, Graduate Program in Biomedical Sciences, Federal University of Fronteira Sul, Chapecó, SC, Brazil.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667142521000312-65c1ccedaf6c25948b185319cbdaf451">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Nurse at the City Hall of Chapecó, SC, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Nurse at the City Hall of Chapecó</sa:organization>
+                  <sa:city>SC</sa:city>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bNurse at the City Hall of Chapecó, SC, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667142521000312-701870f804a78ee865a21ddc3a893ccc">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Laboratory of Pharmacognosy, Graduate Program in Health Sciences, Community University of the Chapecó Region, Chapecó, SC, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Pharmacognosy, Graduate Program in Health Sciences</sa:organization>
+                  <sa:organization>Community University of the Chapecó Region</sa:organization>
+                  <sa:city>Chapecó</sa:city>
+                  <sa:state>SC</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cLaboratory of Pharmacognosy, Graduate Program in Health Sciences, Community University of the Chapecó Region, Chapecó, SC, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667142521000312-da1ee68840e37d5748e5c9c308a79787">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Laboratory of Innovation and Health Technologies, Federal University of Fronteira Sul, Chapecó, SC, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Innovation and Health Technologies</sa:organization>
+                  <sa:organization>Federal University of Fronteira Sul</sa:organization>
+                  <sa:city>Chapecó</sa:city>
+                  <sa:state>SC</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dLaboratory of Innovation and Health Technologies, Federal University of Fronteira Sul, Chapecó, SC, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author, 89815-899</ce:text>
+               <sa:affiliation>
+                  <sa:postal-code>89815-899</sa:postal-code>
+               </sa:affiliation>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>†</ce:label>
+               <ce:note-para id="notep0001" view="all">ORCID ID: 0000-0002-1417-1308</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">The mushroom of the species Agaricus blazei Murrill has antineoplastic properties.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">The A. blazei enhances the therapeutic and reduces the adverse chemotherapy effects.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Bioactive principles of A. blazei interact with immune mechanisms in cancer therapy.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">The antiangiogenic effect is one possible antimetastatic mechanism of A. blazei.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0006" view="all">The pro-apoptotic tumor mechanisms appear to be other targets of A. blazei.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara010" view="all">Cancer encompasses more than 100 diseases with different etiologies and prognoses. According to the latest WHO estimates, the number of cases rose to 18.1 million with 9.6 million deaths. The adoption of strategies to prevent and combat cancer is imperious, including searches for natural products. The mushroom from the <ce:italic>Agaricus blazei</ce:italic> Murrill species has proven antitumor activity for some types of cancer, and the use of this natural product can improve health and increase the patients' immunity. This paper aimed at researching the molecular mechanisms described in the literature related to antitumor activity and at evaluating possible mechanisms and results associated with the interaction of mushroom extracts with the concomitant use of antineoplastic chemotherapeutic agents and radiotherapy treatment in patients, animal models and <ce:italic>in vitro</ce:italic> studies. The PubMed, SciELO, Elsevier, and LILACS databases were used as query sources. The studies analyzed confirm that <ce:italic>A. blazei</ce:italic> presents bioactive molecules with antitumor and antimetastatic activity, involving various biological mechanisms of action. β-glucans are suggested as the main active compounds of the species, whose main biological target is modulation of the immune system. However, the literature provides evidence of several other compounds involved in relevant mechanisms underlying cancer. Evidence on the therapeutic and preventive potential of species <ce:italic>A. blazei</ce:italic> points to the importance of further studies in order to confirm some discoveries and advance knowledge about mechanisms that can be targets of therapeutic strategies, considering the mushroom as an adjuvant in the treatment and prevention of metastases and deaths.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Agaricus blazei</ce:italic> Murrill</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Sun Mushroom</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Cancer</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Antineoplastic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Antiangiogenesis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Immune system</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset on soil carbon dioxide fluxes from an incubation with tropical peat from three different land-uses in Jambi Sumatra Indonesia</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Louis-Pierre</namePart>
+      <namePart type="family">Comeau</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5362-3701</nameIdentifier>
+      <displayForm>Comeau, Louis-Pierre</displayForm>
+      <affiliation>Fredericton Research and Development Centre, Agriculture and Agri-Food Canada, Fredericton, NB, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kristell</namePart>
+      <namePart type="family">Hergoualc'h</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8309-6754</nameIdentifier>
+      <displayForm>Hergoualc'h, Kristell</displayForm>
+      <affiliation>Center for International Forestry Research (CIFOR), Lima, Peru</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Louis V.</namePart>
+      <namePart type="family">Verchot</namePart>
+      <displayForm>Verchot, Louis V.</displayForm>
+      <affiliation>The Alliance of Bioversity International and CIAT, The Americas HubKm 17 Recta Cali-Palmira Zip Code 763537 A.A. 6713, Cali, Colombia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Conversion of tropical peat swamp forests to increase and agricultural production has generated substantial peat carbon loss in the Asia-Pacific region. Different land-uses and management practices oxidize the tropical peat at diverse rates due mainly to different water table levels. In recent years, several studies have measured soil carbon dioxide emissions in-situ; however, only few studies have evaluated the effect of moisture on carbon dioxide fluxes in incubation experiments. Here, we present the dataset of an incubation performed with 360 intact peat cores from three different land-uses (i.e. 120 from intact peat swamp forest; 120 from drained logged peat forest; and 120 from oil palm plantation) collected on the peat dome of Jambi Sumatra Indonesia. Different moisture levels in the intact cores were set by either drying the intact peat cores for short period of time or by adding extra water before the incubation. Dynamic dark aerobic incubation in airtight containers coupled with carbon dioxide measurement with an infrared gas analyser and the gas fluxes was used to measure to gas fluxes. The average carbon dioxide fluxes were 5.38 ± 0.91, 4.15 ± 0.35 and 1.55 ± 0.13 µg CO₂-C g⁻¹ h⁻¹ for the intact peat swamp forest, drained logged peat forest and oil palm plantation, respectively. </abstract>
+   <subject>
+      <topic>Tropical peat</topic>
+   </subject>
+   <subject>
+      <topic>Land-uses</topic>
+   </subject>
+   <subject>
+      <topic>Incubation</topic>
+   </subject>
+   <subject>
+      <topic>Carbon dioxide emissions</topic>
+   </subject>
+   <subject>
+      <topic>Peat density fractionation</topic>
+   </subject>
+   <subject>
+      <topic>Soil moisture content</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107597</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107597</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107597</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00872-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-16"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008726/S2352340921008726.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

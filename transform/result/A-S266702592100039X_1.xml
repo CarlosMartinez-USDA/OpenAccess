@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100047">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Encapsulation of sacha inchi oil in complex coacervates formed by carboxymethylcellulose and lactoferrin for controlled release of β-carotene</dct:title>
+         <dct:creator>Ahmad El Ghazzaqui Barbosa</dct:creator>
+         <dct:creator>Augusto Bene Tomé Constantino</dct:creator>
+         <dct:creator>Lívia Pinto Heckert Bastos</dct:creator>
+         <dct:creator>Edwin Elard Garcia-Rojas</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Release kinetics</rdf:li>
+               <rdf:li>Delivery system</rdf:li>
+               <rdf:li>Whey protein</rdf:li>
+               <rdf:li>β-carotene stability</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health 2 (2022). doi:10.1016/j.fhfh.2021.100047</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:coverDisplayDate>December 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fhfh.2021.100047</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100047</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100047</dct:identifier>
+         <bam:articleNumber>100047</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-04T09:11:02Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100047</ja:aid>
+         <ce:article-number>100047</ce:article-number>
+         <ce:pii>S2667-0259(21)00039-X</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100047</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Encapsulation of sacha inchi oil in complex coacervates formed by carboxymethylcellulose and lactoferrin for controlled release of β-carotene</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S266702592100039X-7f9cf72504e57803dde9fb30debf64d6">
+               <ce:given-name>Ahmad</ce:given-name>
+               <ce:surname>El Ghazzaqui Barbosa</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S266702592100039X-1d7ec74082e1dbc0c5605f7942d19b63">
+               <ce:given-name>Augusto Bene Tomé</ce:given-name>
+               <ce:surname>Constantino</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S266702592100039X-0b115ffb2cc5689aba087f10afe840c9">
+               <ce:given-name>Lívia Pinto Heckert</ce:given-name>
+               <ce:surname>Bastos</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S266702592100039X-73fc6f9ae77b7c1e31493a66bc25ac52">
+               <ce:given-name>Edwin Elard</ce:given-name>
+               <ce:surname>Garcia-Rojas</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:edwinr@id.uff.br">edwinr@id.uff.br</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S266702592100039X-4317e55d0b7c1e78aaf8e1c74021f282">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Programa de Pós-graduação em Ciência e Tecnologia de Alimentos (PPGCTA), Universidade Federal Rural de Rio de Janeiro (UFRRJ), Rodovia BR 465, Km 7, Seropédica, RJ 23890-000, Brasil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Programa de Pós-graduação em Ciência e Tecnologia de Alimentos (PPGCTA)</sa:organization>
+                  <sa:organization>Universidade Federal Rural de Rio de Janeiro (UFRRJ)</sa:organization>
+                  <sa:address-line>Rodovia BR 465, Km 7</sa:address-line>
+                  <sa:city>Seropédica</sa:city>
+                  <sa:state>RJ</sa:state>
+                  <sa:postal-code>23890-000</sa:postal-code>
+                  <sa:country>Brasil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aPrograma de Pós-graduação em Ciência e Tecnologia de Alimentos (PPGCTA), Universidade Federal Rural de Rio de Janeiro (UFRRJ), Rodovia BR 465, Km 7, Seropédica, RJ 23890-000, Brasil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S266702592100039X-919a28f04dcd21ae599eca2069e89612">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Recinto do Hospital Provincial, Universidade Zambeze - Faculdade de Ciências de Saúde, Rua 3 de Fevereiro, Bairro Josina Machel, Tete, Mozambique</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Recinto do Hospital Provincial</sa:organization>
+                  <sa:organization>Universidade Zambeze - Faculdade de Ciências de Saúde</sa:organization>
+                  <sa:address-line>Rua 3 de Fevereiro, Bairro Josina Machel</sa:address-line>
+                  <sa:city>Tete</sa:city>
+                  <sa:country>Mozambique</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bRecinto do Hospital Provincial, Universidade Zambeze - Faculdade de Ciências de Saúde, Rua 3 de Fevereiro, Bairro Josina Machel, Tete, Mozambique</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S266702592100039X-2a0806b82c446cb441214b9b98b1e3a7">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Laboratório de Engenharia e Tecnologia Agroindustrial (LETA), Universidade Federal Fluminense (UFF), Av. dos Trabalhadores, 420, Volta Redonda, RJ 27255-125, Brasil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratório de Engenharia e Tecnologia Agroindustrial (LETA)</sa:organization>
+                  <sa:organization>Universidade Federal Fluminense (UFF)</sa:organization>
+                  <sa:address-line>Av. dos Trabalhadores, 420</sa:address-line>
+                  <sa:city>Volta Redonda</sa:city>
+                  <sa:state>RJ</sa:state>
+                  <sa:postal-code>27255-125</sa:postal-code>
+                  <sa:country>Brasil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cLaboratório de Engenharia e Tecnologia Agroindustrial (LETA), Universidade Federal Fluminense (UFF), Av. dos Trabalhadores, 420, Volta Redonda, RJ 27255-125, Brasil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Laboratório de Engenharia e Tecnologia Agroindustrial (LETA), Universidade Federal Fluminense (UFF), Av. dos Trabalhadores, 420, Volta Redonda, RJ 27255-125, Brasil.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Laboratório de Engenharia e Tecnologia Agroindustrial (LETA)</sa:organization>
+                  <sa:organization>Universidade Federal Fluminense (UFF)</sa:organization>
+                  <sa:address-line>Av. dos Trabalhadores, 420</sa:address-line>
+                  <sa:city>Volta Redonda</sa:city>
+                  <sa:state>RJ</sa:state>
+                  <sa:postal-code>27255-125</sa:postal-code>
+                  <sa:country>Brasil</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="20" month="9" year="2021"/>
+         <ce:date-revised day="12" month="11" year="2021"/>
+         <ce:date-accepted day="4" month="12" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Complex coacervates of Carboximetilcelulose (CMC) and lactoferin (Lf) was formed at pH 5.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Sacha inchi oil was successfully encapsulated in CMC:Lf complex coacervates.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">The <ce:italic>in vitro</ce:italic> digestion of the capsules presented high bioaccessibility of β-carotene.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">The release kinetic of β-carotene from capsules presented Fickian diffusion.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara011" view="all">This research studied the formation of complex coacervates formed by carboxymethylcellulose (CMC) and lactoferrin (Lf) as wall materials for encapsulation of β-carotene present in sacha inchi oil (SIO). According to zeta-potential and turbidimetric analyses, the optimum conditions for the formation of CMC:Lf complex coacervates were pH 5.0 and a 1:14 ratio. Isothermal titration calorimetry showed that the complexes were formed in two stages: first, the interaction was driven by electrostatic attraction, and second, electrostatic and other interactions (such as hydrogen bonding) or structural conformations were present. The capsules formed with CMC:Lf complex coacervates had a spherical appearance with a well-defined core and were able to encapsulate 97% of SIO. The presence of SIO, CMC, and Lf in the capsules was confirmed by Fourier transform infrared analysis. The <ce:italic>in vitro</ce:italic> gastrointestinal digestion of capsules showed that 84.31% of β-carotene present in SIO was released in the intestine, with high bioaccessibility (67%). Additionally, Fickian diffusion was the mechanism observed for β-carotene release in the food model. Thus, it is possible to conclude that CMC:Lf complex coacervates are good wall material for encapsulating and protecting β-carotene for food fortification.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara012" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="abr" id="pc_7f8bMrQpgL2dfHbQv618rpoWdFDtnsix" view="all">
+            <ce:keyword id="pc_8S4zcRwmDF">
+               <ce:text>CMC</ce:text>
+               <ce:keyword id="pc_7viwvL97CD">
+                  <ce:text>Carboxymethylcellulose</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_q9D4krxH1d">
+               <ce:text>Lf</ce:text>
+               <ce:keyword id="pc_Hmh4so8ifi">
+                  <ce:text>Lactoferrin</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_MLyiuZ2LMA">
+               <ce:text>SIO</ce:text>
+               <ce:keyword id="pc_hdeSXUbXxh">
+                  <ce:text>Sacha inchi oil</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_IK02BeIZNA">
+               <ce:text>ITC</ce:text>
+               <ce:keyword id="pc_bGAFS0aWeY">
+                  <ce:text>Isothermal titration calorimetry</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_VCwOhiBRpe">
+               <ce:text>EE</ce:text>
+               <ce:keyword id="pc_pKEkO5aOmK">
+                  <ce:text>Encapsulation efficiency</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_jva3DnVsoN">
+               <ce:text>FTIR</ce:text>
+               <ce:keyword id="pc_B8cNIqrYJL">
+                  <ce:text>Fourier transform infrared</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_neU0GU1QuD">
+               <ce:text>SSF</ce:text>
+               <ce:keyword id="pc_zT8TdT20vj">
+                  <ce:text>Saliva simulation fluid</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_rF6t1tJAAl">
+               <ce:text>SGF</ce:text>
+               <ce:keyword id="pc_fg2IhRrShy">
+                  <ce:text>Simulated gastric fluid</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_XUo4GX0PWT">
+               <ce:text>SIF</ce:text>
+               <ce:keyword id="pc_l1w9XZWfDj">
+                  <ce:text>Simulated intestinal fluid</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_chVm8KnsTE">
+               <ce:text>SIO-M</ce:text>
+               <ce:keyword id="pc_D9kcfXQmEN">
+                  <ce:text>Sacha inchi oil capsules</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0004">Key words</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Release kinetics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Delivery system</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Whey protein</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">β-carotene stability</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Impulse excitation technique data set collected on different materials for data analysis methods and quality control procedures development</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Nazareno</namePart>
+      <namePart type="family">Massara</namePart>
+      <displayForm>Massara, Nazareno</displayForm>
+      <affiliation>Universitá del Piemonte Orientale, Dipartimento di Scienze e Innovazione Tecnologica, Viale T. Michel 11, Alessandria 15121, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Enrico</namePart>
+      <namePart type="family">Boccaleri</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5221-9176</nameIdentifier>
+      <displayForm>Boccaleri, Enrico</displayForm>
+      <affiliation>Universitá del Piemonte Orientale, Dipartimento di Scienze e Innovazione Tecnologica, Viale T. Michel 11, Alessandria 15121, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Marco</namePart>
+      <namePart type="family">Milanesio</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3276-8757</nameIdentifier>
+      <displayForm>Milanesio, Marco</displayForm>
+      <affiliation>Universitá del Piemonte Orientale, Dipartimento di Scienze e Innovazione Tecnologica, Viale T. Michel 11, Alessandria 15121, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mattia</namePart>
+      <namePart type="family">Lopresti</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6563-9364</nameIdentifier>
+      <displayForm>Lopresti, Mattia</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Mechanical properties such as the Young modulus, shear modulus and Poisson’s coefficient are very important to define different materials applications, for basic research and for quality control procedures. Impulse excitation technique (IET) is a non-destructive, easy and fast method for characterization of elastic and acoustic properties of materials. The technique consists in sending a mechanical impulse in a sample and measuring the output sound wave. Commercial instruments are widely spread in metal industry, but they are not diffused in academic research centres. Such instruments can be easily self-built at low cost, allowing a much wider diffusion and exploitation in many fields involving materials characterization, since they guarantee high precision and high data reproducibility. For a proper acoustic characterization, necessary to obtain reliable mechanical data, a calibration of the instrument must be performed, for a proper association of the acoustic response to the features of each specific material. In this data article, a data set of impulses, collected on different materials by a self-built instrument for IET, named IETeasy, is provided for mechanical properties characterization by a self-built IET tool, and multivariate statistical analysis purposes. The aim is double in the short term: on one hand, providing a verified data set useful to develop, test and verify methods of analysis and tailor the IETeasy instrument on the needs of each specific user; on the other hand, giving a benchmark for any one designing, building and testing his IET home-made instrument. In the long term, since the data base is open, any contribution consisting in data collected by similar self-made or commercial instruments can be added to the data base, with the aim of building a large collection of data, useful for automatic recognition of sound outputs by machine learning or other multivariate or monovariate data analysis approaches, and for instrument performance comparison and alignment. </abstract>
+   <subject>
+      <topic>Impulse excitation technique</topic>
+   </subject>
+   <subject>
+      <topic>Non-destructive analysis</topic>
+   </subject>
+   <subject>
+      <topic>Mechanical properties</topic>
+   </subject>
+   <subject>
+      <topic>Young’s modulus</topic>
+   </subject>
+   <subject>
+      <topic>Multivariate analysis</topic>
+   </subject>
+   <subject>
+      <topic>Quality control</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107503</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107503</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107503</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00784-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007848/S2352340921007848.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

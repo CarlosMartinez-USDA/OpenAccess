@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Datasets for calcium dynamics comparison between the whole-cell and a β-escin based perforated patch configuration in brain slices from adult mice</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Simon</namePart>
+      <namePart type="family">Hess</namePart>
+      <displayForm>Hess, Simon</displayForm>
+      <affiliation>Biocenter, and Cologne Excellence Cluster in Aging Associated Diseases (CECAD), Institute for Zoology, University of Cologne, Cologne, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christophe</namePart>
+      <namePart type="family">Pouzat</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2844-8099</nameIdentifier>
+      <displayForm>Pouzat, Christophe</displayForm>
+      <affiliation>IRMA, Strasbourg University and CNRS UMR 7501, Strasbourg, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Peter</namePart>
+      <namePart type="family">Kloppenburg</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4554-404X</nameIdentifier>
+      <displayForm>Kloppenburg, Peter</displayForm>
+      <affiliation>Biocenter, and Cologne Excellence Cluster in Aging Associated Diseases (CECAD), Institute for Zoology, University of Cologne, Cologne, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Multiple processes shape calcium signals in neurons. The spatial and temporal dynamics of these signals are determined by various cellular parameters, including the calcium influx, calcium buffering, and calcium extrusion. The different Ca²⁺ handling properties can be estimated using the ‘added buffer approach’ [1], which is based on a single compartment model of Ca²⁺ buffering. To use this approach, the cell has to be loaded with a Ca²⁺ sensitive dye (e.g., fura-2) via the patch pipette, which is usually done in the whole-cell patch clamp configuration. However, determining Ca²⁺ handling properties can be complex and frequently unsuccessful due to the wash-out of intracellular components (e.g., mobile Ca²⁺ buffers) during whole-cell patch clamp recordings. We present two Ca²⁺ imaging datasets from adult substantia nigra dopamine neurons where the 'added buffer approach' was either combined with the 'conventional' whole-cell configuration or with a β-escin based perforated patch clamp configuration. These data can be used to compare the two methods or to draw comparisons with the Ca²⁺ handling properties of other neuron types. Further details and an in-depth analysis of the new combination of the ‘added buffer approach’ with the β-escin based perforated patch clamp configuration can be found in our companion manuscripts “Analysis of neuronal Ca²⁺ handling properties by combining perforated patch clamp recordings and the added buffer approach” [2] and “A Simple Method for Getting Standard Error on the Ratiometric Calcium Estimator” [3]. </abstract>
+   <subject>
+      <topic>Calcium imaging</topic>
+   </subject>
+   <subject>
+      <topic>Added buffer approach</topic>
+   </subject>
+   <subject>
+      <topic>Perforated patch clamp</topic>
+   </subject>
+   <subject>
+      <topic>Dopamine neuron</topic>
+   </subject>
+   <subject>
+      <topic>Substantia nigra</topic>
+   </subject>
+   <subject>
+      <topic>Beta-escin</topic>
+   </subject>
+   <subject>
+      <topic>Calcium dynamics</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107494</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107494</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107494</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00775-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-16"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007757/S2352340921007757.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

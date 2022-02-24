@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2022.100043">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Regulation and functions of membrane lipids: Insights from Caenorhabditis elegans</dct:title>
+         <dct:creator>Muhasin Koyiloth</dct:creator>
+         <dct:creator>Sathyanarayana N. Gummadi</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Membrane lipid biogenesis</rdf:li>
+               <rdf:li>Membrane lipid homeostasis</rdf:li>
+               <rdf:li>Membrane fluidity</rdf:li>
+               <rdf:li>Lipid transport</rdf:li>
+               <rdf:li>C. elegans as disease model</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 2 (2022). doi:10.1016/j.bbadva.2022.100043</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:coverDisplayDate>2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2022.100043</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2022.100043</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2022.100043</dct:identifier>
+         <bam:articleNumber>100043</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-12T12:54:31Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>India: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100043</ja:aid>
+         <ce:article-number>100043</ce:article-number>
+         <ce:pii>S2667-1603(22)00004-7</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2022.100043</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Regulation and functions of membrane lipids: Insights from <ce:italic>Caenorhabditis elegans</ce:italic>
+         </ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160322000047-63cf5183bea01e9f79a5171c447a0843">
+               <ce:given-name>Muhasin</ce:given-name>
+               <ce:surname>Koyiloth</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160322000047-e9f9cab8d348c22727d38f147a377a86">
+               <ce:given-name>Sathyanarayana N.</ce:given-name>
+               <ce:surname>Gummadi</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:gummadi@iitm.ac.in">gummadi@iitm.ac.in</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160322000047-aafd91cc361a7e39fc9f6712c8facf97">
+               <ce:textfn id="cetextfn0001">Department of Biotechnology, Applied and Industrial Microbiology Laboratory, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai 600036, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biotechnology</sa:organization>
+                  <sa:organization>Applied and Industrial Microbiology Laboratory</sa:organization>
+                  <sa:organization>Bhupat and Jyoti Mehta School of Biosciences</sa:organization>
+                  <sa:organization>Indian Institute of Technology Madras</sa:organization>
+                  <sa:city>Chennai</sa:city>
+                  <sa:postal-code>600036</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Biotechnology, Applied and Industrial Microbiology Laboratory, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai 600036, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="26" month="10" year="2021"/>
+         <ce:date-revised day="28" month="12" year="2021"/>
+         <ce:date-accepted day="12" month="1" year="2022"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara004" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Ether lipids and saturated fatty acids help to maintain membrane rigidity.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Cholesterol does not contribute to the bulk membrane properties in <ce:italic>C. elegans</ce:italic>.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">PAQR-2/IGLR-2 complex and FLD-1 act antagonistically to maintain UFA to SFA ratio.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">In <ce:italic>C. elegans</ce:italic>, LET-23 interferes with TRPV to prevent excitotoxic cell death.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Cross-talk between autophagy and UPR<ce:sup loc="post">LBS</ce:sup> maintains cellular homeostasis.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara005" view="all">The <ce:italic>Caenorhabditis elegans</ce:italic> plasma membrane is composed of glycerophospholipids and sphingolipids with a small cholesterol. The <ce:italic>C. elegans</ce:italic> obtain the majority of the membrane lipids by modifying fatty acids present in the bacterial diet. The metabolic pathways of membrane lipid biosynthesis are well conserved across the animal kingdom. In <ce:italic>C. elegans</ce:italic> CDP-DAG and Kennedy pathway produce glycerophospholipids. Meanwhile, the sphingolipids are synthesized through a different pathway. They have evolved remarkably diverse mechanisms to maintain membrane lipid homeostasis. For instance, the lipid bilayer stress operates to accomplish homeostasis during any perturbance in the lipid composition. Meanwhile, the PAQR-2/IGLR-2 complex works with FLD-1 to balance unsaturated to saturated fatty acids to maintain membrane fluidity. The loss of membrane lipid homeostasis is observed in many human genetic and metabolic disorders. Since <ce:italic>C. elegans</ce:italic> conserved such genes and pathways, it can be used as a model organism.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara006" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="abr" id="pc_mZ36PiKA0YxdLqNKGc02MVyOXy19uCm1" view="all">
+            <ce:keyword id="pc_pFju8iilFd">
+               <ce:text>PC</ce:text>
+               <ce:keyword id="pc_DvAwFuJTMH">
+                  <ce:text>Phosphatidylcholine</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_1f8jVlVxN4">
+               <ce:text>PE</ce:text>
+               <ce:keyword id="pc_Nho4rig9yZ">
+                  <ce:text>Phospahtidylethanolamine</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_wu71KmczcL">
+               <ce:text>PS</ce:text>
+               <ce:keyword id="pc_E1Tp5CbB2G">
+                  <ce:text>Phosphatidylethanolamine</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_fS5sr8AbK5">
+               <ce:text>SFA</ce:text>
+               <ce:keyword id="pc_WQKdBGcKhI">
+                  <ce:text>Saturated Fatty Acid</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_dA2q7M7lKW">
+               <ce:text>UFA</ce:text>
+               <ce:keyword id="pc_kKUgI7GTY7">
+                  <ce:text>Unsaturated Fatty Acid</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_DSfElssPmh">
+               <ce:text>LBS</ce:text>
+               <ce:keyword id="pc_RwBoL7humI">
+                  <ce:text>Lipid Bilayer Stress</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0004">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Membrane lipid biogenesis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Membrane lipid homeostasis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Membrane fluidity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Lipid transport</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">
+                  <ce:italic>C. elegans</ce:italic> as disease model</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.soisec.2022.100047">
+         <dct:format>application/xml</dct:format>
+         <dct:title>The economics of land tenure and soil health</dct:title>
+         <dct:creator>Andrew W. Stevens</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Land tenure</rdf:li>
+               <rdf:li>Soil health</rdf:li>
+               <rdf:li>Economics</rdf:li>
+               <rdf:li>Tenant farmer</rdf:li>
+               <rdf:li>Owner-operator</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Soil Security 6 (2022). doi:10.1016/j.soisec.2022.100047</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Soil Security</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Ltd.</prism:copyright>
+         <dct:publisher>Elsevier Ltd</dct:publisher>
+         <prism:issn>2667-0062</prism:issn>
+         <prism:volume>6</prism:volume>
+         <prism:coverDisplayDate>March 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.soisec.2022.100047</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.soisec.2022.100047</prism:url>
+         <dct:identifier>doi:10.1016/j.soisec.2022.100047</dct:identifier>
+         <bam:articleNumber>100047</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-30T21:49:15Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>SOISEC</ja:jid>
+         <ja:aid>100047</ja:aid>
+         <ce:article-number>100047</ce:article-number>
+         <ce:pii>S2667-0062(22)00014-4</ce:pii>
+         <ce:doi>10.1016/j.soisec.2022.100047</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">The economics of land tenure and soil health</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667006222000144-724efd408f1abc5326e85789053edda5">
+               <ce:given-name>Andrew W.</ce:given-name>
+               <ce:surname>Stevens</ce:surname>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:awstevens@wisc.edu">awstevens@wisc.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667006222000144-20d1e5b7cff16a485691adce96f230f3">
+               <ce:textfn id="cetextfn0001">Agricultural &amp; Applied Economics, University of Wisconsin–Madison, 427 Lorch St, Madison, WI 53706, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Agricultural &amp; Applied Economics</sa:organization>
+                  <sa:organization>University of Wisconsin–Madison</sa:organization>
+                  <sa:address-line>427 Lorch St</sa:address-line>
+                  <sa:city>Madison</sa:city>
+                  <sa:state>WI</sa:state>
+                  <sa:postal-code>53706</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Agricultural &amp; Applied Economics, University of Wisconsin–Madison, 427 Lorch St, Madison, WI 53706, United States</ce:source-text>
+            </ce:affiliation>
+         </ce:author-group>
+         <ce:date-received day="30" month="7" year="2021"/>
+         <ce:date-revised day="23" month="1" year="2022"/>
+         <ce:date-accepted day="30" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">Farmers who own their land face different incentives than those who rent. Economically rational owner-operators consider their soil's future productive capacity when making current-year management decisions. Year-to-year tenant farmers, however, are incentivized to prioritize current production at the expense of future production. This insight has implications for the development of soil health policy. In this article, I present a model of agricultural production that combines profit maximization, soil health dynamics, and three different forms of land tenure. I use the results of the model to inform a discussion of relevant academic research on soil health dynamics, land tenure, and the capitalization of soil characteristics into land prices. I argue policies that increase the share of owner operated acres or increase the prevalence of long-term formal lease agreements will have the additional benefit of improving soil health.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0001">Land tenure</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0002">Soil health</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0003">Economics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0004">Tenant farmer</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0005">Owner-operator</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

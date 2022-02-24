@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107787">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Gene expression data of inflammatory mediators in apical periodontitis in 129 (wild type) and 5-lipoxygenase knockout mice</dct:title>
+         <dct:creator>Thaise Mayumi Taira</dct:creator>
+         <dct:creator>Vítor Luís Ribeiro</dct:creator>
+         <dct:creator>Yuri Jivago Silva Ribeiro</dct:creator>
+         <dct:creator>Raquel Assed Bezerra da Silva</dct:creator>
+         <dct:creator>Léa Assed Bezerra da Silva</dct:creator>
+         <dct:creator>Marília Pacífico Lucisano Politi</dct:creator>
+         <dct:creator>Lúcia Helena Faccioli</dct:creator>
+         <dct:creator>Francisco Wanderley Garcia Paula-Silva</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Arachidonic acid</rdf:li>
+               <rdf:li>Leukotrienes</rdf:li>
+               <rdf:li>Inflammation</rdf:li>
+               <rdf:li>Bone resorption</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107787</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107787</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107787</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107787</dct:identifier>
+         <bam:articleNumber>107787</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-31T10:30:36Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Brazil: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107787</ja:aid>
+         <ce:article-number>107787</ce:article-number>
+         <ce:pii>S2352-3409(21)01061-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107787</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Gene expression data of inflammatory mediators in apical periodontitis in 129 (wild type) and 5-lipoxygenase knockout mice</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010611-7f61d10c6b7d029a7d08c4b6c6c27926">
+               <ce:given-name>Thaise Mayumi</ce:given-name>
+               <ce:surname>Taira</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010611-f3040266f7fc1c5edbaf40fe637a0e27">
+               <ce:given-name>Vítor Luís</ce:given-name>
+               <ce:surname>Ribeiro</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010611-d818a252d7f8900172b80175d805033e">
+               <ce:given-name>Yuri Jivago Silva</ce:given-name>
+               <ce:surname>Ribeiro</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010611-2e69f219e65e11d7c27cffefa47b4d8c">
+               <ce:given-name>Raquel Assed Bezerra</ce:given-name>
+               <ce:surname>da Silva</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921010611-b40e744409759708775e6c1faa8eb3c3">
+               <ce:given-name>Léa Assed Bezerra</ce:given-name>
+               <ce:surname>da Silva</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921010611-3279362fbbe05c1b48bec09ac90dde78">
+               <ce:given-name>Marília Pacífico Lucisano</ce:given-name>
+               <ce:surname>Politi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921010611-76ce9ec824fca1f742ad0dc7d8c3b947">
+               <ce:given-name>Lúcia Helena</ce:given-name>
+               <ce:surname>Faccioli</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921010611-a2b2f764373286646b3956f9d3557635"
+                       orcid="0000-0001-8559-532X">
+               <ce:given-name>Francisco Wanderley Garcia</ce:given-name>
+               <ce:surname>Paula-Silva</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:franciscogarcia@forp.usp.br">franciscogarcia@forp.usp.br</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/fwsilv58">@fwsilv58</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010611-65ad1c20373bb2c49cddb57297c50ab1">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Pediatric Clinics, School of Dentistry of Ribeirão Preto, Universidade de São Paulo, Ribeirão Preto, Café s/n, 1° andar, sala M-28, CEP, São Paulo 14040-904, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pediatric Clinics</sa:organization>
+                  <sa:organization>School of Dentistry of Ribeirão Preto</sa:organization>
+                  <sa:organization>Universidade de São Paulo</sa:organization>
+                  <sa:address-line>Ribeirão Preto, Café s/n, 1° andar, sala M-28, CEP</sa:address-line>
+                  <sa:city>São Paulo</sa:city>
+                  <sa:postal-code>14040-904</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Pediatric Clinics, School of Dentistry of Ribeirão Preto, Universidade de São Paulo, Ribeirão Preto, Café s/n, 1° andar, sala M-28, CEP, São Paulo 14040-904, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010611-23d1d72d93b8441355f9a6f7ab2b5c99">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Restorative Dentistry, School of Dentistry of Ribeirão Preto, Universidade de São Paulo, Ribeirão Preto, São Paulo, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Restorative Dentistry</sa:organization>
+                  <sa:organization>School of Dentistry of Ribeirão Preto</sa:organization>
+                  <sa:organization>Universidade de São Paulo</sa:organization>
+                  <sa:address-line>Ribeirão Preto</sa:address-line>
+                  <sa:city>São Paulo</sa:city>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Restorative Dentistry, School of Dentistry of Ribeirão Preto, Universidade de São Paulo, Ribeirão Preto, São Paulo, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010611-1c8ccf73912a535ed7287e599ccc44d5">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Departamento de Análises Clínicas, Toxicológicas e Bromatológicas da Faculdade de Ciências Farmacêuticas de Ribeirão Preto da Universidade de São Paulo, Ribeirão Preto, São Paulo, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Departamento de Análises Clínicas</sa:organization>
+                  <sa:organization>Toxicológicas e Bromatológicas da Faculdade de Ciências Farmacêuticas de Ribeirão Preto da Universidade de São Paulo</sa:organization>
+                  <sa:address-line>Ribeirão Preto</sa:address-line>
+                  <sa:city>São Paulo</sa:city>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartamento de Análises Clínicas, Toxicológicas e Bromatológicas da Faculdade de Ciências Farmacêuticas de Ribeirão Preto da Universidade de São Paulo, Ribeirão Preto, São Paulo, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="3" month="3" year="2021"/>
+         <ce:date-accepted day="30" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">Apical periodontitis is an immune inflammatory response around periapical tissues as a result of pathogens invasion into the root canal. The host immunoinflammatory response could determine the progression of this disease, which involves the recruitment of immune cells, and the release of several cytokines in the lesion site. The 5-lipoxygenase pathway has been activated in some osteolytic diseases due to its capacity to interfere in the proliferation and differentiation of bone cells, including the osteoclasts. As mean to understand the inflammatory genes regulation in the apical periodontitis progression, we evaluated the network of 66 genes related to cytokines, chemokines and other inflammatory mediators and receptors in the wild-type (WT) and 5-lipoxygenase enzyme genetically deficient mice (KO). This article presents data not published but related to the research article “Effects of 5-lipoxygenase gene disruption on inflammation, osteoclastogenesis and bone resorption in polymicrobial apical periodontitis” .</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Arachidonic acid</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Leukotrienes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Inflammation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Bone resorption</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

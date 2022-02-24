@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Perceived value interviews and socio-economic survey data for communities in rural Uganda</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Stephanie</namePart>
+      <namePart type="family">Hirmer</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7628-9259</nameIdentifier>
+      <displayForm>Hirmer, Stephanie</displayForm>
+      <affiliation>Energy and Power Group, University of Oxford, United Kingdom</affiliation>
+      <affiliation>Rural Senses, Oxford, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alycia</namePart>
+      <namePart type="family">Leonard</namePart>
+      <displayForm>Leonard, Alycia</displayForm>
+      <affiliation>Energy and Power Group, University of Oxford, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sofia</namePart>
+      <namePart type="family">Conforti</namePart>
+      <displayForm>Conforti, Sofia</displayForm>
+      <affiliation>University of Bologna</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Costanza</namePart>
+      <namePart type="family">Conforti</namePart>
+      <displayForm>Conforti, Costanza</displayForm>
+      <affiliation>Language Technology Lab, University of Cambridge, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article describes a dataset of perceived values and socioeconomic indicators collected in rural Ugandan communities. The data were collected in interviews which employed: (1) the User-Perceived Value game, which solicits verbal data using graphical prompts and ‘why’-probing; and (2) socio-economic surveys, which collected demographic data. The dataset constitutes 119 interviews conducted between 2014 and 2015 in seven rural Ugandan villages. Interviews were conducted in various settings (e.g. individual/group, women/men/mixed) and in seven different local languages (which were subsequently translated into English). These interviews were part of a research project aiming to better understand what is important to rural communities in Uganda, and to investigate decision-making as a function of different demographics. This dataset can be used by researchers and practitioners in various fields such as sustainable development (e.g. to analyze how development initiatives may be designed to match community values) and natural language processing (e.g. to automatically perform perceived value classification from the expert-annotated interviews). </abstract>
+   <subject>
+      <topic>Needs assessment</topic>
+   </subject>
+   <subject>
+      <topic>Value data</topic>
+   </subject>
+   <subject>
+      <topic>Perception</topic>
+   </subject>
+   <subject>
+      <topic>Beneficiaries</topic>
+   </subject>
+   <subject>
+      <topic>Developing countries</topic>
+   </subject>
+   <subject>
+      <topic>Sub-Saharan Africa</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107734</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107734</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107734</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01009-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S235234092101009X/S235234092101009X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

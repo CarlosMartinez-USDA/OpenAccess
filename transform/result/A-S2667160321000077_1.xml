@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100008">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Narciclasine is a novel YAP inhibitor that disturbs interaction between YAP and TEAD4</dct:title>
+         <dct:creator>Rie Kawamoto</dct:creator>
+         <dct:creator>Naoko Nakano</dct:creator>
+         <dct:creator>Haruka Ishikawa</dct:creator>
+         <dct:creator>Etsu Tashiro</dct:creator>
+         <dct:creator>Waka Nagano</dct:creator>
+         <dct:creator>Keigo Sano</dct:creator>
+         <dct:creator>Miki Irie</dct:creator>
+         <dct:creator>Mariko Ikuta</dct:creator>
+         <dct:creator>Fukuko Kishi</dct:creator>
+         <dct:creator>Takahisa Nakane</dct:creator>
+         <dct:creator>Mikihiko Naito</dct:creator>
+         <dct:creator>Susumu Itoh</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Anticancer drug</rdf:li>
+               <rdf:li>Malignant mesothelioma</rdf:li>
+               <rdf:li>Narciclasine</rdf:li>
+               <rdf:li>TEAD</rdf:li>
+               <rdf:li>YAP</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100008</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100008</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100008</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100008</dct:identifier>
+         <bam:articleNumber>100008</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-03-18T10:15:43Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100008</ja:aid>
+         <ce:article-number>100008</ce:article-number>
+         <ce:pii>S2667-1603(21)00007-7</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100008</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Narciclasine is a novel YAP inhibitor that disturbs interaction between YAP and TEAD4</ce:title>
+         <ce:short-title id="shorttl001">Narciclasine inhibits YAP signaling</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000077-305a7347942db1a869a54e8c97848723">
+               <ce:given-name>Rie</ce:given-name>
+               <ce:surname>Kawamoto</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">#</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000077-7e1fdedf5fa720132d3879f97516e9a6">
+               <ce:given-name>Naoko</ce:given-name>
+               <ce:surname>Nakano</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">#</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667160321000077-7c23d6e6361837a584d798c42e7128d5">
+               <ce:given-name>Haruka</ce:given-name>
+               <ce:surname>Ishikawa</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">#</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667160321000077-41d8a964c20e95f0e72c955fa754af5b">
+               <ce:given-name>Etsu</ce:given-name>
+               <ce:surname>Tashiro</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667160321000077-e6165a2484855aae42f2bd51b9c397d8">
+               <ce:given-name>Waka</ce:given-name>
+               <ce:surname>Nagano</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667160321000077-53d13dc4396ee7f3ff89bf810a9ee2de">
+               <ce:given-name>Keigo</ce:given-name>
+               <ce:surname>Sano</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667160321000077-2c7447f1fe4bfb129f946ff9eba233a6">
+               <ce:given-name>Miki</ce:given-name>
+               <ce:surname>Irie</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667160321000077-17cc823f023d8e6fb6a491592cf19766">
+               <ce:given-name>Mariko</ce:given-name>
+               <ce:surname>Ikuta</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667160321000077-6ef231d1ed8c7b0737278f1ab677c980">
+               <ce:given-name>Fukuko</ce:given-name>
+               <ce:surname>Kishi</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2667160321000077-7c50330d6e12204e2355227434a7fe55">
+               <ce:given-name>Takahisa</ce:given-name>
+               <ce:surname>Nakane</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S2667160321000077-32972e320d6817a5bb89bb02b0ec1df2"
+                       orcid="0000-0003-0451-1337">
+               <ce:given-name>Mikihiko</ce:given-name>
+               <ce:surname>Naito</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0012"
+                       author-id="S2667160321000077-d0dd541adecf07cb3bf7844331c8af4e">
+               <ce:given-name>Susumu</ce:given-name>
+               <ce:surname>Itoh</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:sitoh@ac.shoyaku.ac.jp">sitoh@ac.shoyaku.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000077-f31f1a9fba129ceb3d032cbb246207d9">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Laboratory of Biochemistry, Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Biochemistry</sa:organization>
+                  <sa:organization>Showa Pharmaceutical University</sa:organization>
+                  <sa:city>Machida</sa:city>
+                  <sa:state>Tokyo</sa:state>
+                  <sa:postal-code>194-8543</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1Laboratory of Biochemistry, Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667160321000077-ffe59b409c6fb72e403f3e7eeb3c9d3a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Laboratory of Natural Products Chemistry, Showa Pharmaceutical University, Machida, Tokyo, 194-8543, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Natural Products Chemistry</sa:organization>
+                  <sa:organization>Showa Pharmaceutical University</sa:organization>
+                  <sa:city>Machida</sa:city>
+                  <sa:state>Tokyo</sa:state>
+                  <sa:postal-code>194-8543</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2Laboratory of Natural Products Chemistry, Showa Pharmaceutical University, Machida, Tokyo, 194-8543, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667160321000077-a71ba4682c7687758b74ee0491187987">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, 3-25-26 Tonomachi, Kawasaki-ku, Kawasaki, Kanagawa 210-9501, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Division of Molecular Target and Gene Therapy Products</sa:organization>
+                  <sa:organization>National Institute of Health Sciences</sa:organization>
+                  <sa:address-line>3-25-26 Tonomachi, Kawasaki-ku</sa:address-line>
+                  <sa:city>Kawasaki</sa:city>
+                  <sa:state>Kanagawa</sa:state>
+                  <sa:postal-code>210-9501</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">3Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, 3-25-26 Tonomachi, Kawasaki-ku, Kawasaki, Kanagawa 210-9501, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text>Corresponding author at: Susumu Itoh, Laboratory of Biochemistry, Showa Pharmaceutical University, 3-3165 Higashi-Tamagawagakuen, Machida, Tokyo 194-8543, Japan.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Biochemistry</sa:organization>
+                  <sa:organization>Showa Pharmaceutical University</sa:organization>
+                  <sa:address-line>3-3165 Higashi-Tamagawagakuen</sa:address-line>
+                  <sa:city>Machida</sa:city>
+                  <sa:state>Tokyo</sa:state>
+                  <sa:postal-code>194-8543</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>#</ce:label>
+               <ce:note-para id="notep0001" view="all">Contributed equally.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="5" month="12" year="2020"/>
+         <ce:date-revised day="5" month="3" year="2021"/>
+         <ce:date-accepted day="17" month="3" year="2021"/>
+         <ce:abstract class="author-highlights" id="abs0001" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Narciclasine binds to the N-terminal part of YAP</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Narciclasine competes with TEAD4 for binding to YAP</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Narciclasine suppresses mesothelioma cell proliferation</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Narciclasine inhibits mesothelioma tumor growth when xenografted into nude mice</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0006" view="all">Narciclasine analogs may be developed for the treatment of cancers with hyperactivation and/or overexpression of YAP</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="author" id="abs0002" view="all">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara007" view="all">Yes-associated protein (YAP) is involved in development, cell growth, cell size, and homeostasis and plays a key role in the progression of various cancers. Among them, constitutive activation of YAP can often be observed in malignant mesothelioma, which arises in the pleura, peritoneum, and pericardium because of inactivation of the Hippo pathway. To date, however, only less-effective treatments such as chemotherapy, radiation therapy, and surgery are available for patients with malignant mesothelioma.</ce:simple-para>
+               <ce:simple-para id="spara008" view="all">In this study, we identified narciclasine as a novel YAP inhibitor that prevents YAP from interacting with TEAD4 because it competes with TEAD4 for binding to YAP. Furthermore, narciclasine could perturb the cell growth and colony formation of malignant mesothelioma NCI-H290 cells in addition to inhibiting their growth in nude mice. Therefore, narciclasine might be a potential seed for a novel antitumor drug against malignant mesothelioma and other cancers in which hyperactivation and/or overexpression of YAP are observed.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="keyword" id="keys0001" view="all">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Anticancer drug</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Malignant mesothelioma</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Narciclasine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">TEAD</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">YAP</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107801">
+         <dct:format>application/xml</dct:format>
+         <dct:title>AVT: Multicenter aortic vessel tree CTA dataset collection with ground truth segmentation masks</dct:title>
+         <dct:creator>Lukas Radl</dct:creator>
+         <dct:creator>Yuan Jin</dct:creator>
+         <dct:creator>Antonio Pepe</dct:creator>
+         <dct:creator>Jianning Li</dct:creator>
+         <dct:creator>Christina Gsaxner</dct:creator>
+         <dct:creator>Fen-hua Zhao</dct:creator>
+         <dct:creator>Jan Egger</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Aorta</rdf:li>
+               <rdf:li>Vessel tree</rdf:li>
+               <rdf:li>CTA</rdf:li>
+               <rdf:li>Aortic dissection</rdf:li>
+               <rdf:li>Abdominal aortic aneurysm</rdf:li>
+               <rdf:li>Segmentations</rdf:li>
+               <rdf:li>Masks</rdf:li>
+               <rdf:li>Ground truth</rdf:li>
+               <rdf:li>Deep learning</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2022.107801</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2022.107801</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107801</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107801</dct:identifier>
+         <bam:articleNumber>107801</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-05T17:37:20Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Austria Science Fund (FWF) 2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107801</ja:aid>
+         <ce:article-number>107801</ce:article-number>
+         <ce:pii>S2352-3409(22)00013-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107801</ce:doi>
+         <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">
+            <ce:italic>AVT</ce:italic>: Multicenter aortic vessel tree CTA dataset collection with ground truth segmentation masks</ce:title>
+         <ce:short-title id="stitle0010">
+            <ce:italic>AVT</ce:italic>: Multicenter aortic vessel tree CTA dataset collection with ground truth segmentation masks</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000130-227fd84a33eed7e0eb757bb8432484d1">
+               <ce:given-name>Lukas</ce:given-name>
+               <ce:surname>Radl</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000130-45d554fdfcf737bb2ae9453177ee1a84"
+                       orcid="0000-0001-8695-1525">
+               <ce:given-name>Yuan</ce:given-name>
+               <ce:surname>Jin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000130-d0ee9812e9659075bd7a832d62fb81db"
+                       orcid="0000-0002-5843-6275">
+               <ce:given-name>Antonio</ce:given-name>
+               <ce:surname>Pepe</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922000130-6f0bb5d842382223e5933a5912588503">
+               <ce:given-name>Jianning</ce:given-name>
+               <ce:surname>Li</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340922000130-24c79204745d2bedf03aefbe55bc4f74"
+                       orcid="0000-0002-2227-3523">
+               <ce:given-name>Christina</ce:given-name>
+               <ce:surname>Gsaxner</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340922000130-cefe2874a36805523b7e2e1ee5615726">
+               <ce:given-name>Fen-hua</ce:given-name>
+               <ce:surname>Zhao</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340922000130-8c438ec48b8b70a0c4668db5b9711de3">
+               <ce:given-name>Jan</ce:given-name>
+               <ce:surname>Egger</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:egger@tugraz.at" id="ead0001">egger@tugraz.at</ce:e-address>
+               <ce:e-address type="email" xlink:href="mailto:egger@icg.tugraz.at" id="ead0002">egger@icg.tugraz.at</ce:e-address>
+               <ce:e-address id="ea3a"
+                             type="social-media"
+                             xlink:href="https://twitter.com/DrJanEgger">@DrJanEgger</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000130-90f45377ceddfffb357a957335e0c94c">
+               <ce:label>a</ce:label>
+               <ce:textfn id="textfn0002">Graz University of Technology (TU Graz), Graz, Styria, Austria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Graz University of Technology (TU Graz)</sa:organization>
+                  <sa:city>Graz</sa:city>
+                  <sa:state>Styria</sa:state>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">Graz University of Technology (TU Graz), Graz, Styria, Austria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922000130-d46b5da15c1eb613f64b666655ea372f">
+               <ce:label>b</ce:label>
+               <ce:textfn id="textfn0003">Computer Algorithms for Medicine Laboratory (Café Lab), Graz, Styria, Austria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Computer Algorithms for Medicine Laboratory (Café Lab)</sa:organization>
+                  <sa:city>Graz</sa:city>
+                  <sa:state>Styria</sa:state>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0002">Computer Algorithms for Medicine Laboratory (Café Lab), Graz, Styria, Austria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922000130-672ec3e0922aff86f470a345a41c520d">
+               <ce:label>c</ce:label>
+               <ce:textfn id="textfn0004">Research Center for Connected Healthcare Big Data, ZhejiangLab, Hangzhou, Zhejiang, 311121 China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Research Center for Connected Healthcare Big Data, ZhejiangLab</sa:organization>
+                  <sa:city>Hangzhou</sa:city>
+                  <sa:state>Zhejiang</sa:state>
+                  <sa:postal-code>311121</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0003">Research Center for Connected Healthcare Big Data, ZhejiangLab, Hangzhou, Zhejiang, 311121 China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340922000130-2945be0b331cd85d1ef1f80462c99473">
+               <ce:label>d</ce:label>
+               <ce:textfn id="textfn0005">Medical University of Graz (MedUni Graz), Graz, Styria, Austria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Medical University of Graz (MedUni Graz)</sa:organization>
+                  <sa:city>Graz</sa:city>
+                  <sa:state>Styria</sa:state>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0004">Medical University of Graz (MedUni Graz), Graz, Styria, Austria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340922000130-9c0e48bec79a2925e136f01f19e2125e">
+               <ce:label>e</ce:label>
+               <ce:textfn id="textfn0006">Institute for AI in Medicine (IKIM), University Hospital Essen (UKE), Ruhrgebiet, Essen, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute for AI in Medicine (IKIM), University Hospital Essen (UKE)</sa:organization>
+                  <sa:city>Ruhrgebiet</sa:city>
+                  <sa:state>Essen</sa:state>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0005">Institute for AI in Medicine (IKIM), University Hospital Essen (UKE), Ruhrgebiet, Essen, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2352340922000130-dcdf136da9dec0cb045c0e00a3a93d8e">
+               <ce:label>f</ce:label>
+               <ce:textfn id="textfn0007">Department of Radiology, Affiliated Dongyang Hospital of Wenzhou Medical University, Dongyang, Zhejiang, 322100 China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Radiology</sa:organization>
+                  <sa:organization>Affiliated Dongyang Hospital of Wenzhou Medical University</sa:organization>
+                  <sa:city>Dongyang</sa:city>
+                  <sa:state>Zhejiang</sa:state>
+                  <sa:postal-code>322100</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0006">Department of Radiology, Affiliated Dongyang Hospital of Wenzhou Medical University, Dongyang, Zhejiang, 322100 China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="1" month="10" year="2021"/>
+         <ce:date-revised day="21" month="12" year="2021"/>
+         <ce:date-accepted day="4" month="1" year="2022"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">In this article, we present a multicenter aortic vessel tree database collection, containing 56 aortas and their branches. The datasets have been acquired with computed tomography angiography (CTA) scans and each scan covers the ascending aorta, the aortic arch and its branches into the head/neck area, the thoracic aorta, the abdominal aorta and the lower abdominal aorta with the iliac arteries branching into the legs. For each scan, the collection provides a semi-automatically generated segmentation mask of the aortic vessel tree (ground truth). The scans come from three different collections and various hospitals, having various resolutions, which enables studying the geometry/shape variabilities of human aortas and its branches from different geographic locations. Furthermore, creating a robust statistical model of the shape of human aortic vessel trees, which can be used for various tasks such as the development of fully-automatic segmentation algorithms for new, unseen aortic vessel tree cases, e.g. by training deep learning-based approaches. Hence, the collection can serve as an evaluation set for automatic aortic vessel tree segmentation algorithms.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">Aorta</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Vessel tree</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">CTA</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Aortic dissection</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">Abdominal aortic aneurysm</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="txt0006">Segmentations</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="txt0007">Masks</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0009">
+               <ce:text id="txt0008">Ground truth</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0010">
+               <ce:text id="txt0009">Deep learning</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

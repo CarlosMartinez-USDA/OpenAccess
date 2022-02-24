@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>An annotated dataset for identifying behaviour change based on five doors theory under coral bleaching phenomenon on Twitter</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Gabriela Nathania</namePart>
+      <namePart type="family">Harywanto</namePart>
+      <displayForm>Harywanto, Gabriela Nathania</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Juan Sebastian</namePart>
+      <namePart type="family">Veron</namePart>
+      <displayForm>Veron, Juan Sebastian</displayForm>
+      <affiliation>Computer Science Department, School of Computer Science, Bina Nusantara University, Jakarta 11480, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Derwin</namePart>
+      <namePart type="family">Suhartono</namePart>
+      <displayForm>Suhartono, Derwin</displayForm>
+      <affiliation>Computer Science Department, School of Computer Science, Bina Nusantara University, Jakarta 11480, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Behaviour change is the target ultimate of environmental campaigns that are being intensively carried out by various parties. One of the environmental issues of global concern is coral bleaching. Coral bleaching threatens biodiversity and the balance of ecosystems around the world because marine ecosystems are the foundation of life on this earth [1]. Social media data can be very useful for conservation [2], including in monitoring behaviour changes. The crawling process of data from the Twitter social media platform has been carried out from early 2021 to May 2021 periodically. Obtained 1,222 tweets that have been carefully filtered and labelled into stages of behaviour change by three expert annotators. There are five stages of behaviour change based on the Five Doors Theory: desirability, enabling context, can do, buzz, and invitation [3]. Labelling is done qualitatively and guided by annotation rubrics that have been made based on linguistic patterns at each stage of behaviour change [4]. The data that has been created is expected to be used by various parties working in the field of coral conservation, especially psychologists and data scientists. This data can be used as a basis for analysing behaviour change and used to build an automatic classification model as a means of evaluating and monitoring the behaviour change of Twitter users on the phenomenon of coral bleaching. </abstract>
+   <subject>
+      <topic>Coral bleaching</topic>
+   </subject>
+   <subject>
+      <topic>Five doors theory</topic>
+   </subject>
+   <subject>
+      <topic>Behaviour change</topic>
+   </subject>
+   <subject>
+      <topic>Coral conservation</topic>
+   </subject>
+   <subject>
+      <topic>Automatic classification</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107617</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107617</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107617</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00892-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-18"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008921/S2352340921008921.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

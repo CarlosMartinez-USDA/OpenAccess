@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107632">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on the Validation to Determine the Material Thermal Properties Estimation Via a One-Dimensional Transient Convection Model</dct:title>
+         <dct:creator>Lauren B. Tomanek</dct:creator>
+         <dct:creator>Daniel S. Stutts</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Thermal conductivity</rdf:li>
+               <rdf:li>Additive manufacturing</rdf:li>
+               <rdf:li>Analytical model</rdf:li>
+               <rdf:li>Parameter estimation</rdf:li>
+               <rdf:li>One-dimensional</rdf:li>
+               <rdf:li>Transient analysis</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107632</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107632</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107632</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107632</dct:identifier>
+         <bam:articleNumber>107632</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-23T10:39:59Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:simple-article docsubtype="dat" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107632</ja:aid>
+         <ce:article-number>107632</ce:article-number>
+         <ce:pii>S2352-3409(21)00907-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107632</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="rt1">
+               <ce:pii>S1359-4311(20)33840-0</ce:pii>
+               <ce:doi>10.1016/j.applthermaleng.2020.116362</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:simple-head>
+         <ce:dochead id="doc0001">
+            <ce:textfn id="textfn0001a">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">Data on the Validation to Determine the Material Thermal Properties Estimation Via a One-Dimensional Transient Convection Model</ce:title>
+         <ce:short-title id="stitle0010">Data on the Validation to Determine the Material Thermal Properties Estimation Via a One-Dimensional Transient Convection Model</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009070-8c3bded33cf717bf1134d9970174062f"
+                       orcid="0000-0003-3998-4417">
+               <ce:given-name>Lauren B.</ce:given-name>
+               <ce:surname>Tomanek</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009070-545829f72895923459f44481166a0c89">
+               <ce:given-name>Daniel S.</ce:given-name>
+               <ce:surname>Stutts</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:stutts@mst.edu" id="ead0001">stutts@mst.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009070-7112be45e334194d35ff5de9619dcb7f">
+               <ce:textfn id="textfn0001">Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology, Rolla, MO 65409, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Mechanical and Aerospace Engineering</sa:organization>
+                  <sa:organization>Missouri University of Science and Technology</sa:organization>
+                  <sa:city>Rolla</sa:city>
+                  <sa:postal-code>MO 65409</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology, Rolla, MO 65409, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="11" month="3" year="2021"/>
+         <ce:date-revised day="18" month="11" year="2021"/>
+         <ce:date-accepted day="22" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">These data were acquired to estimate the parameters of a closed form solution of a one-dimensional transient convection heat diffusion PDE. The purpose was to demonstrate that the model could be used to determine the thermal conductivity. The system was tested for a wide range of thermal conductivity, 15-400 W/mK, in order to verify that the method was applicable for various materials. The data reported here refer to the study in the research articles, “Material Thermal Properties Estimation Via a One-Dimensional Transient Convection Model” [1] and “Influence of porosity on the thermal, electrical, and mechanical performance of selective laser melted stainless steel” [2]. The dataset contains the raw data obtained from the temperature acquisition system as well as the processed results from a Python program to determine the thermal conductivity from a forced convection, transient one-dimensional heat diffusion equation.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">Thermal conductivity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Additive manufacturing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Analytical model</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Parameter estimation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">One-dimensional</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="txt0006">Transient analysis</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:simple-head>
+   </ja:simple-article>
+</doc:document>

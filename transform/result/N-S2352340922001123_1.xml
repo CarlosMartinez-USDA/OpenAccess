@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Maximum power point tracking dataset for a wind energy conversion system based on a reverse-controller for a multilevel boost converter</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">José Genaro-González</namePart>
+      <namePart type="family">Hernández</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2126-2304</nameIdentifier>
+      <displayForm>Hernández, José Genaro-González</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rubén</namePart>
+      <namePart type="family">Salas-Cabrera</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9776-7245</nameIdentifier>
+      <displayForm>Salas-Cabrera, Rubén</displayForm>
+      <affiliation>Tecnológico Nacional de México, Instituto Tecnológico de Ciudad Madero, Tamaulipas. 89440, México</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Roberto</namePart>
+      <namePart type="family">Vázquez-Bautista</namePart>
+      <displayForm>Vázquez-Bautista, Roberto</displayForm>
+      <affiliation>Tecnológico Nacional de México, Instituto Tecnológico de Ciudad Madero, Tamaulipas. 89440, México</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Luis Manuel</namePart>
+      <namePart type="family">Ong-de-la-Cruz</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1155-424X</nameIdentifier>
+      <displayForm>Ong-de-la-Cruz, Luis Manuel</displayForm>
+      <affiliation>Tecnológico Nacional de México, Instituto Tecnológico de Ciudad Madero, Tamaulipas. 89440, México</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-28</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The database here contains experimental data relevant to an original maximum power point tracking controller for an experimental direct-drive full-variable-speed full-rated converter Type IV Wind Energy Conversion System in standalone operation. The main goal is to maximize power extraction by controlling the duty cycle of a multilevel boost converter, which is responsible for adjusting the angular speed of a permanent magnet synchronous generator coupled to a three-phase induction motor that emulates the wind turbine. Two data acquisition cards with the appropriate signal conditioners were used to obtain measurements of the generator angular speed, output current, and output voltage at the terminals of the multilevel converter. In addition, data related to power coefficient, tip speed ratio, duty cycle, and output power are also included. Two PCs in a Linux real-time platform were used for the emulation, control, and data collection processes. On the other hand, Matlab was used to analyze the data to evaluate the controller's performance to maximize wind power extraction. The database is freely accessible at http://dx.doi.org/10.17632/363d24mcb6.2. This dataset [1] represents a resource for wind power specialists who develop algorithms for wind energy optimization. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Wind energy systems</topic>
+   </subject>
+   <subject>
+      <topic>Power point tracking</topic>
+   </subject>
+   <subject>
+      <topic>Control law</topic>
+   </subject>
+   <subject>
+      <topic>Multilevel converters</topic>
+   </subject>
+   <subject>
+      <topic>Real-time control</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">28</text>
+         <extent unit="pages">
+            <start>107900</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107900</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107900</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00112-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-28"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001123/S2352340922001123.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

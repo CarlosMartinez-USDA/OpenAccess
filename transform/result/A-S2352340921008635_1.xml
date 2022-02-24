@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107588">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Technical data on the inhibition properties of some medicinal plant extracts towards caseinolytic protease proteolytic subunit of Plasmodium knowlesi</dct:title>
+         <dct:creator>Raimalynah Abd Razak</dct:creator>
+         <dct:creator>Meiny Suzery</dct:creator>
+         <dct:creator>Rafida Razali</dct:creator>
+         <dct:creator>Zarina Amin</dct:creator>
+         <dct:creator>Ruzaidi Azli Mohd Mokhtar</dct:creator>
+         <dct:creator>Ping Chin Lee</dct:creator>
+         <dct:creator>Cahyo Budiman</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Plasmodium knowlesi</rdf:li>
+               <rdf:li>Malaria</rdf:li>
+               <rdf:li>Caseinolytic protease</rdf:li>
+               <rdf:li>Plant extracts</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107588</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107588</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107588</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107588</dct:identifier>
+         <bam:articleNumber>107588</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-16T15:25:19Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107588</ja:aid>
+         <ce:article-number>107588</ce:article-number>
+         <ce:pii>S2352-3409(21)00863-5</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107588</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Technical data on the inhibition properties of some medicinal plant extracts towards caseinolytic protease proteolytic subunit of <ce:italic>Plasmodium knowlesi</ce:italic>
+         </ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008635-b675bad7a3a88fc63ca13ab4f7a48bf5"
+                       orcid="0000-0001-5976-6180">
+               <ce:given-name>Raimalynah Abd</ce:given-name>
+               <ce:surname>Razak</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008635-2e318ca50f014bbc5a9bc2ec68c576d0">
+               <ce:given-name>Meiny</ce:given-name>
+               <ce:surname>Suzery</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008635-3e94fdef38de19d6b002d57d1090123f"
+                       orcid="0000-0002-2844-4477">
+               <ce:given-name>Rafida</ce:given-name>
+               <ce:surname>Razali</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008635-17e5ce940443548589a4d3f9b235d66f">
+               <ce:given-name>Zarina</ce:given-name>
+               <ce:surname>Amin</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       orcid="0000-0001-5217-7607"
+                       author-id="S2352340921008635-8a9f849d85c534eab55e4e1fb6690523">
+               <ce:given-name>Ruzaidi Azli Mohd</ce:given-name>
+               <ce:surname>Mokhtar</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008635-d4b681eba3c03c37d1d886c759e96e2b"
+                       orcid="0000-0002-4280-0829">
+               <ce:given-name>Ping Chin</ce:given-name>
+               <ce:surname>Lee</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921008635-255d07090cd643c30dc91fe704c9d94b"
+                       orcid="0000-0002-2052-9572">
+               <ce:given-name>Cahyo</ce:given-name>
+               <ce:surname>Budiman</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:cahyo@ums.edu.my">cahyo@ums.edu.my</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008635-2a12413b5fbf276f23b5ae25a3230928">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Biotechnology Research Institute, University Malaysia Sabah, Jalan UMS, Kota Kinabalu, Sabah 88400, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Biotechnology Research Institute</sa:organization>
+                  <sa:organization>University Malaysia Sabah</sa:organization>
+                  <sa:organization>Jalan UMS</sa:organization>
+                  <sa:city>Kota Kinabalu</sa:city>
+                  <sa:state>Sabah</sa:state>
+                  <sa:postal-code>88400</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aBiotechnology Research Institute, University Malaysia Sabah, Jalan UMS, Kota Kinabalu, Sabah 88400, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008635-f4b1ad43807cb2619be09a0ead1f03ee">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Chemistry, Faculty of Sciences and Mathematics, Diponegoro University, Jl. Prof. Soedarto, SH, Tembalang, Semarang 50275, Indonesia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>Faculty of Sciences and Mathematics</sa:organization>
+                  <sa:organization>Diponegoro University</sa:organization>
+                  <sa:address-line>Jl. Prof. Soedarto, SH, Tembalang</sa:address-line>
+                  <sa:city>Semarang</sa:city>
+                  <sa:postal-code>50275</sa:postal-code>
+                  <sa:country>Indonesia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Chemistry, Faculty of Sciences and Mathematics, Diponegoro University, Jl. Prof. Soedarto, SH, Tembalang, Semarang 50275, Indonesia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="18" month="9" year="2021"/>
+         <ce:date-revised day="8" month="11" year="2021"/>
+         <ce:date-accepted day="15" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">Proteolytic subunit of the caseinolytic protease system of <ce:italic>Plasmodium knowlesi</ce:italic> (Pk-ClpP; EC 3.4.21.92) is considered a viable target for antimalarial drug development to eradicate <ce:italic>P. knowlesi</ce:italic> malaria infection in Malaysia and Southeast Asian region. Inhibition of this system leads to a disruption in the protein homeostasis molecular machinery and therefore be lethal for the parasite. While plants are considered excellent sources of bioactive compounds exhibiting inhibition activity towards Pk-ClpP, many local medicinal plants remain unexplored. This article expands the data collected from the inhibition properties of the methanolic extract of <ce:italic>Asystasia gangetica</ce:italic> (Chinese Violet), <ce:italic>Alstonia scholaris</ce:italic> (Pulai Tree), <ce:italic>Piper retrofractum</ce:italic> (Javanese Long Pepper) and <ce:italic>Smallanthus sonchifolius</ce:italic> (Yacon) towards Pk-ClpP. These plants are widely found in Malaysia and Indonesia and have been traditionally used in various medical treatments. The present dataset showed that the extracts contained phenolic and flavonoid compounds in various concentrations, whereby <ce:italic>S. sonchifolius</ce:italic> was found to have the lowest content of phenolic and flavonoid contents, while <ce:italic>A. gangetica</ce:italic> and <ce:italic>A. scholaris</ce:italic> were statistically comparable, yet higher than <ce:italic>P. retrofactum</ce:italic> and <ce:italic>S. sonchifolus</ce:italic>. Further inhibition data assay towards Pk-ClpP revealed that <ce:italic>A. gangetica, A. scholaris</ce:italic> and <ce:italic>P. retrofactum</ce:italic> demonstrated remarkable inhibition activity with IC<ce:inf loc="post">50</ce:inf> values of 39.06 ± 1.98, 48.92 ± 1.52, and 87.63 <ce:italic>±</ce:italic> 3.55, respectively. However, the inhibition activity of these extracts was significantly lower than a serine protease inhibitor of phenylmethylsulfonyl fluoridenone (PMSF). Meanwhile, <ce:italic>S. sonchifolus</ce:italic> did not exhibit significant inhibition activity towards Pk-ClpP. In addition, Pk-ClpP was not inhibited by a cysteine protease inhibitor of E64.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Plasmodium knowlesi</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Malaria</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Caseinolytic protease</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Plant extracts</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

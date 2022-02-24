@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of bond enthalpies (εAA, εAB, εBB) in 975 binary intermetallic compounds</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Daniel</namePart>
+      <namePart type="family">Miracle</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7473-0351</nameIdentifier>
+      <displayForm>Miracle, Daniel</displayForm>
+      <affiliation>AF Research Laboratory, Materials and Manufacturing Directorate, Wright-Patterson AFB, OH USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Amanda</namePart>
+      <namePart type="family">Dahlman</namePart>
+      <displayForm>Dahlman, Amanda</displayForm>
+      <affiliation>AF Research Laboratory, Materials and Manufacturing Directorate, Wright-Patterson AFB, OH USA</affiliation>
+      <affiliation>Independent Sales Director, Dayton, OH USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Garth</namePart>
+      <namePart type="family">Wilks</namePart>
+      <displayForm>Wilks, Garth</displayForm>
+      <affiliation>AF Research Laboratory, Materials and Manufacturing Directorate, Wright-Patterson AFB, OH USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">James E.</namePart>
+      <namePart type="family">Dahlman</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7580-436X</nameIdentifier>
+      <displayForm>Dahlman, James E.</displayForm>
+      <affiliation>AF Research Laboratory, Materials and Manufacturing Directorate, Wright-Patterson AFB, OH USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The concept of a bond energy between a pair of atoms is well-established in chemistry and physics. In materials science, it is a fundamental parameter in the development of thermodynamic models such as the regular, quasi-chemical and sub-regular solution models, as well as the central atoms model. Accurate bond dissociation enthalpies are available for gaseous molecular compounds, but these values are likely to differ significantly from single bond strengths between atoms in liquids and solids. While interatomic potential functions have been developed for atomic pairs by fitting to observed quantities, these functions often contain invariant transformations that yield bond energies that differ by up to a factor of four from values provided by other potentials for the same system, even though both may produce the same physical properties. Moreover, there is presently no widely used approach to determine bond enthalpies in condensed phases. An approach has been developed earlier to calculate bond enthalpies in solid and liquid phases using classical thermodynamic concepts, measured enthalpies for compound formation and elemental sublimation, and by counting bonds in the thermodynamically stable product and reactant phases (Miracle et al., 2011). That work reported bond enthalpies for essentially all stable solid and liquid elements, as well as bond strengths between unlike atoms for 71 different intermetallic compounds in 15 binary systems. This earlier work was validated by estimating elemental fusion enthalpies and surface energies, as well as formation enthalpies for ternary intermetallic compounds. Given the utility of this approach, the present dataset applies this earlier methodology to produce bond enthalpies between unlike atom pairs in an additional 904 binary intermetallic compounds from 443 systems, giving a total dataset of 975 bond enthalpies from 458 binary systems. Typical errors in the values reported here (from enthalpy measurements) are ±4%, and larger errors of about ±10-30% occur for a small subset of values where the number of bonds in the structure are difficult to establish. Used appropriately, these bond enthalpies enable classical approximations that—to first order—can capture critical material properties. A wide range of such estimates are possible, including the energies of vacancies and other atomic defects, solution enthalpies for complex, concentrated solid solution alloys (CCAs), formation enthalpies of higher-order compounds, and metallic glass stability. These bond enthalpies may also be useful for establishing trends in systematic studies that cover many systems, thus narrowing the scope of subsequent experimental measurements or computations which are more accurate, but are also more difficult and time consuming. </abstract>
+   <subject>
+      <topic>Thermodynamics</topic>
+   </subject>
+   <subject>
+      <topic>bond strength</topic>
+   </subject>
+   <subject>
+      <topic>metals and alloys</topic>
+   </subject>
+   <subject>
+      <topic>regular solution model</topic>
+   </subject>
+   <subject>
+      <topic>chemical bond strength</topic>
+   </subject>
+   <subject>
+      <topic>coordination number</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107652</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107652</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107652</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00927-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-27"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009276/S2352340921009276.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

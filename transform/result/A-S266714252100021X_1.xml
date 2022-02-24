@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2021.100022">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Neferine, a natural alkaloid from Nelumbo nucifera, ameliorates experimental chronic ulcerative colitis in mice</dct:title>
+         <dct:creator>Xiangjing Min</dct:creator>
+         <dct:creator>Yishan Zhou</dct:creator>
+         <dct:creator>Shuangli Xiang</dct:creator>
+         <dct:creator>Rong Sun</dct:creator>
+         <dct:creator>Qin Wu</dct:creator>
+         <dct:creator>Jingshan Shi</dct:creator>
+         <dct:creator>Xiuping Chen</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Neferine</rdf:li>
+               <rdf:li>Chronic ulcerative colitis</rdf:li>
+               <rdf:li>Cytokine</rdf:li>
+               <rdf:li>NF-κB</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine 1 (2021). doi:10.1016/j.prmcm.2021.100022</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.prmcm.2021.100022</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2021.100022</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2021.100022</dct:identifier>
+         <bam:articleNumber>100022</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-27T07:35:32Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100022</ja:aid>
+         <ce:article-number>100022</ce:article-number>
+         <ce:pii>S2667-1425(21)00021-X</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2021.100022</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Neferine, a natural alkaloid from <ce:italic>Nelumbo nucifera</ce:italic>, ameliorates experimental chronic ulcerative colitis in mice</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S266714252100021X-b3833f4785953907e6a86f7e9f7a8e66">
+               <ce:given-name>Xiangjing</ce:given-name>
+               <ce:surname>Min</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S266714252100021X-61c5da5b4eb84adfdfc31c796144df37">
+               <ce:given-name>Yishan</ce:given-name>
+               <ce:surname>Zhou</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S266714252100021X-ba2cdff6d0c9eb55016d3b5abd0d27c2">
+               <ce:given-name>Shuangli</ce:given-name>
+               <ce:surname>Xiang</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S266714252100021X-b6f0ff2e5e356fe18ebbbde1f28e5004">
+               <ce:given-name>Rong</ce:given-name>
+               <ce:surname>Sun</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S266714252100021X-f4d8e4b2dff4e7615e3d88f7f88bd95e">
+               <ce:given-name>Qin</ce:given-name>
+               <ce:surname>Wu</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S266714252100021X-e4e46e6a76804f4de571d9abba2228f3">
+               <ce:given-name>Jingshan</ce:given-name>
+               <ce:surname>Shi</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S266714252100021X-3fb11128cfe5bdcee44d8fdd030e5473">
+               <ce:given-name>Xiuping</ce:given-name>
+               <ce:surname>Chen</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:xpchen@um.edu.mo">xpchen@um.edu.mo</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S266714252100021X-14b09241679b8a2b39ae0971f68a007f">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Key Lab for Pharmacology of Ministry of Education, Department of Pharmacology, Zunyi Medical University, Zunyi, 563003, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Key Lab for Pharmacology of Ministry of Education</sa:organization>
+                  <sa:organization>Department of Pharmacology</sa:organization>
+                  <sa:organization>Zunyi Medical University</sa:organization>
+                  <sa:city>Zunyi</sa:city>
+                  <sa:postal-code>563003</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aKey Lab for Pharmacology of Ministry of Education, Department of Pharmacology, Zunyi Medical University, Zunyi, 563003, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S266714252100021X-bcad6b1db6d344089498897c9c177dcd">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Advanced Medical Research Institute, Shandong University, Shandong, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Advanced Medical Research Institute</sa:organization>
+                  <sa:organization>Shandong University</sa:organization>
+                  <sa:city>Shandong</sa:city>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bAdvanced Medical Research Institute, Shandong University, Shandong, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S266714252100021X-6ab7b600ee1cc6f830b934c8c741d658">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">The second hospital of Shandong University, Shandong, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>The second hospital of Shandong University</sa:organization>
+                  <sa:city>Shandong</sa:city>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cThe second hospital of Shandong University, Shandong, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S266714252100021X-f7cf283c7c98ad1e75cc37ca2388f693">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">State Key Laboratory of Quality Research in Chinese Medicine, Institute of Chinese Medical Sciences, University of Macau, Macao, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>State Key Laboratory of Quality Research in Chinese Medicine</sa:organization>
+                  <sa:organization>Institute of Chinese Medical Sciences</sa:organization>
+                  <sa:organization>University of Macau</sa:organization>
+                  <sa:city>Macao</sa:city>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dState Key Laboratory of Quality Research in Chinese Medicine, Institute of Chinese Medical Sciences, University of Macau, Macao, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S266714252100021X-156e52c9b0065fc77a84230612757c48">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Department of Pharmaceutical Sciences, Faculty of Health Sciences, University of Macau, Taipa, Macau, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutical Sciences</sa:organization>
+                  <sa:organization>Faculty of Health Sciences</sa:organization>
+                  <sa:organization>University of Macau</sa:organization>
+                  <sa:city>Taipa</sa:city>
+                  <sa:state>Macau</sa:state>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eDepartment of Pharmaceutical Sciences, Faculty of Health Sciences, University of Macau, Taipa, Macau, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Institute of Chinese Medical Sciences, University of Macau, Avenida da Universidade, Taipa, Macau, China.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Institute of Chinese Medical Sciences</sa:organization>
+                  <sa:organization>University of Macau</sa:organization>
+                  <sa:organization>Avenida da Universidade</sa:organization>
+                  <sa:city>Taipa</sa:city>
+                  <sa:state>Macau</sa:state>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="13" month="9" year="2021"/>
+         <ce:date-revised day="24" month="11" year="2021"/>
+         <ce:date-accepted day="27" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:section-title id="cesectitle0002">Objective</ce:section-title>
+               <ce:simple-para id="spara005" view="all">Ulcerative colitis (UC), a chronic inflammatory disease, is closely associated with the development of colorectal cancer. Neferine is a natural alkaloid that possesses many therapeutic effects. Our previous studies showed that neferine showed a significant protective effect on the acute ulcerative colitis mouse model. Here, the protective role of neferine on chronic UC was investigated.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Methods</ce:section-title>
+               <ce:simple-para id="spara006" view="all">A chronic mice UC model was established by employing dextran sodium sulfate (DSS) and neferine was orally administrated. The disease activity index (DAI) scores were calculated. The levels of pro-inflammatory mediators were determined by ELISA kits. The pathological changes were evaluated by H&amp;E staining. Protein expressions were detected by immunohistochemistry and Western blotting.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara007" view="all">Neferine treatment significantly decreased the DAI scores, ameliorated pathological injuries, and reduced the levels of myeloperoxidase (MPO), IL-1β, IL-6, and TNF-α. Furthermore, the expressions of NF-κB p65, receptor-interacting protein kinase 1 and 3 (RIP1 and RIP3), intercellular adhesion molecule-1 (ICAM-1), and vascular cell adhesion molecule-1 (VCAM-1) in colon tissues were suppressed by neferine. In addition, the decreased expression of caspase-8 and IκBα were restored by neferine.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusion</ce:section-title>
+               <ce:simple-para id="spara008" view="all">Neferine protects chronic UC by regulating the secretion of pro-inflammatory cytokines and inhibiting the NF-κB signaling pathway.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Neferine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Chronic ulcerative colitis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Cytokine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">NF-κB</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

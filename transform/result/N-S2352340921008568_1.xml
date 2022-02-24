@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Effect of cropping systems and climate on soil physical characteristics, field crop emergence and yield: A dataset from a 19-year field experiment</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jay Ram</namePart>
+      <namePart type="family">Lamichhane</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9780-0941</nameIdentifier>
+      <displayForm>Lamichhane, Jay Ram</displayForm>
+      <affiliation>AGIR, Université de Toulouse, INRAE, Castanet-Tolosan, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hubert</namePart>
+      <namePart type="family">Boizard</namePart>
+      <displayForm>Boizard, Hubert</displayForm>
+      <affiliation>Agro-Impact, INRAE, Estrées-Mons, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Carolyne</namePart>
+      <namePart type="family">Dürr</namePart>
+      <displayForm>Dürr, Carolyne</displayForm>
+      <affiliation>Agro-Impact, INRAE, Estrées-Mons, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Guy</namePart>
+      <namePart type="family">Richard</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1513-8574</nameIdentifier>
+      <displayForm>Richard, Guy</displayForm>
+      <affiliation>DEPE, INRAE, Paris, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jean</namePart>
+      <namePart type="family">Boiffin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7805-0962</nameIdentifier>
+      <displayForm>Boiffin, Jean</displayForm>
+      <affiliation>Agro-Impact, INRAE, Estrées-Mons, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>A long-term field experiment was conducted from 1989 to 2007 in northern France in a loamy soil to assess the cumulative effects of cropping systems (CSs) on soil compaction, soil porosity, soil structure, crop emergence and yield. Three CSs, including different crop rotations and cultivations (early or late sowing and harvesting), were compared. CS I was the succession of spring pea/winter wheat/oilseed rape (flax from 2001)/winter wheat while CSs II and III were the succession of sugar beet/winter wheat/maize/winter wheat. The latter two CSs consisted of different sowing dates, based on two distinct decision rules aimed at minimizing the risk of soil compaction in the CS II or maximizing the duration of the crop in the CS III. The tillage system was only mouldboard ploughing up to 2000 while a new treatment with superficial tillage (i.e. at 6 cm depth) was integrated since then into the experiment to compare the effects of annual ploughing and reduced tillage on changes in soil structure over time. Soil water content was measured for each field operation by taking samples every 0.05 m up to a depth of 0.30 m in the topsoil. Soil compaction and soil structure was evaluated after each sowing using a morphological approach and soil bulk density measurements. The ‘‘profil cultural’’ method was used to map soil structure variations in the topsoil below the seedbed. Dry bulk density was measured with a gamma-ray transmission probe. Seedling emergence rates and crop yield were also measured in relation to CSs. This dataset represents an important description of the changes in the soil compaction level, crop emergence rates and yield, in relation to CSs and climate, and the overall impact on seedbed structure variations for major field crops under northern France conditions. This information can be used as input variables of several soil-crop models aiming at evaluating the impact of CSs and climate on soil compaction and seedbed structures. </abstract>
+   <subject>
+      <topic>Morphological analysis</topic>
+   </subject>
+   <subject>
+      <topic>Ploughed layer mapping</topic>
+   </subject>
+   <subject>
+      <topic>“profil cultural” method</topic>
+   </subject>
+   <subject>
+      <topic>Seedbed</topic>
+   </subject>
+   <subject>
+      <topic>Soil tillage</topic>
+   </subject>
+   <subject>
+      <topic>Soil compaction</topic>
+   </subject>
+   <subject>
+      <topic>Soil porosity</topic>
+   </subject>
+   <subject>
+      <topic>Soil water content</topic>
+   </subject>
+   <subject>
+      <topic>Crop emergence</topic>
+   </subject>
+   <subject>
+      <topic>Crop yield</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107581</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107581</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107581</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00856-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-11"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008568/S2352340921008568.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

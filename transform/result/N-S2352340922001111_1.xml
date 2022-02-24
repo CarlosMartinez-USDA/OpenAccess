@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset on individual differences in self-reported personality and inferred emotional expression in profile pictures of Italian Facebook users</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Davide</namePart>
+      <namePart type="family">Marengo</namePart>
+      <displayForm>Marengo, Davide</displayForm>
+      <affiliation>Department of Psychology, University of Turin, Via Verdi 10, 10124, Turin, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michele</namePart>
+      <namePart type="family">Settanni</namePart>
+      <displayForm>Settanni, Michele</displayForm>
+      <affiliation>Department of Psychology, University of Turin, Via Verdi 10, 10124, Turin, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christian</namePart>
+      <namePart type="family">Montag</namePart>
+      <displayForm>Montag, Christian</displayForm>
+      <affiliation>Institute of Psychology and Education, Dept. Molecular Psychology, Helmholtzstraße 8/1, 89081, Ulm, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-28</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We retrieved the current profile picture of 2234 Italian Facebook users who also answered self-report questionnaires on demographic variables and personality. Data were collected between March and June 2018 using a Facebook wep application. Profile pictures consisting of 200 × 200 resolution jpegs were obtained by sending a request via the Facebook Graph API and analyzed using online commercial services allowing for the scoring of facial expressions in image data, namely Microsoft Azure Face APIand MEGVII Face++ Detect API. Both services provide emotional expression scores if at least one (n = 1) face is successfully detected in the picture. Using the Microsoft Azure Face API we obtained scores for anger, contempt, disgust, fear, joy, sadness, surprise, and neutrality. Using the MEGVII Face++ API, pictures were scored for the presence of anger, disgust, fear, joy, sadness, and surprise, and neutrality. Higher scores on each emotion refer to a stronger expression of the respective emotion. The dataset presented here consists of data of N =728 Facebook users with a profile picture in which both APIs detected only one (N=1) face. Regarding self-report data, the dataset includes the following demographic information about the participants: gender and age. The dataset also includes participants’ personality scores based on a short validated assessment of Big Five traits (Ten Item Personality Inventory), and Impulsivity/Sensation Seeking (IMPSS8). A document including the questions administered in the online survey is attached to the dataset. This dataset can be useful to generate insights on the association between demographic variables, including age and gender, and personality (Big Five traits and Impulsivity/Sensation Seeking), and emotional expression as derived from social media pictures. It can be useful for researchers and data scientists who do research in social sciences, in particular psychoinformatics, to train models in order to infer personality of users of social media platforms from profile pictures. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Facebook</topic>
+   </subject>
+   <subject>
+      <topic>social media</topic>
+   </subject>
+   <subject>
+      <topic>emotional expression</topic>
+   </subject>
+   <subject>
+      <topic>image recognition</topic>
+   </subject>
+   <subject>
+      <topic>personality</topic>
+   </subject>
+   <subject>
+      <topic>Big Five</topic>
+   </subject>
+   <subject>
+      <topic>Impulsivity</topic>
+   </subject>
+   <subject>
+      <topic>Sensation Seeking</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">28</text>
+         <extent unit="pages">
+            <start>107899</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107899</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107899</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00111-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-28"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001111/S2352340922001111.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

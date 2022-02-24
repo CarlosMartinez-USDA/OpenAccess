@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100029">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Curcumin loaded sericin nanoparticles: Assessment for biomedical application</dct:title>
+         <dct:creator>Jovita Kanoujia</dct:creator>
+         <dct:creator>Mohammed Faizan</dct:creator>
+         <dct:creator>Poonam Parashar</dct:creator>
+         <dct:creator>Neelu Singh</dct:creator>
+         <dct:creator>Shubhini A. Saraf</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Sericin</rdf:li>
+               <rdf:li>Curcumin</rdf:li>
+               <rdf:li>Desolvation</rdf:li>
+               <rdf:li>Anti-oxidant</rdf:li>
+               <rdf:li>Anti-inflammatory</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health 1 (2021). doi:10.1016/j.fhfh.2021.100029</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fhfh.2021.100029</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100029</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100029</dct:identifier>
+         <bam:articleNumber>100029</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-09-08T14:08:04Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100029</ja:aid>
+         <ce:article-number>100029</ce:article-number>
+         <ce:pii>S2667-0259(21)00021-2</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100029</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Curcumin loaded sericin nanoparticles: Assessment for biomedical application</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025921000212-1c193f413c5e4701aae01f7d5769614e">
+               <ce:given-name>Jovita</ce:given-name>
+               <ce:surname>Kanoujia</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025921000212-10f2efd0e5e6ebdf1cd9fe80c1b02000">
+               <ce:given-name>Mohammed</ce:given-name>
+               <ce:surname>Faizan</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667025921000212-a5c61a8972495e64caa0ad2e88dbc549">
+               <ce:given-name>Poonam</ce:given-name>
+               <ce:surname>Parashar</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667025921000212-2a492952c7608a5d31444e5fab677ca7">
+               <ce:given-name>Neelu</ce:given-name>
+               <ce:surname>Singh</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667025921000212-578eccc86f99cba022dff3973e76ab53">
+               <ce:given-name>Shubhini A.</ce:given-name>
+               <ce:surname>Saraf</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:shubhini.saraf@gmail.com">shubhini.saraf@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025921000212-f52c6b65a48199960dfccdeb3e5636ee">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Pharmaceutical Sciences, Babasaheb Bhimrao Ambedkar University (A Central University), VidyaVihar, Raebareli Road, Lucknow, UP 226025, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutical Sciences</sa:organization>
+                  <sa:organization>Babasaheb Bhimrao Ambedkar University (A Central University)</sa:organization>
+                  <sa:address-line>VidyaVihar, Raebareli Road</sa:address-line>
+                  <sa:city>Lucknow</sa:city>
+                  <sa:state>UP</sa:state>
+                  <sa:postal-code>226025</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Pharmaceutical Sciences, Babasaheb Bhimrao Ambedkar University (A Central University), VidyaVihar, Raebareli Road, Lucknow, UP 226025, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667025921000212-cfbc1e471111f36c33aa0e6e52f6364a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Amity Institute of Pharmacy, Amity University Madhya Pradesh, Maharajapura, Gwalior 474005, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Amity Institute of Pharmacy</sa:organization>
+                  <sa:organization>Amity University of Madhya Pradesh, Maharajapura</sa:organization>
+                  <sa:city>Gwalior</sa:city>
+                  <sa:postal-code>474005</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bAmity Institute of Pharmacy, Amity University of Madhya Pradesh, Maharajapura, Gwalior 474005, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667025921000212-8659f6b8f4add7ad0b5ac174ead0bcaf">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Amity Institute of Pharmacy, Amity University Uttar Pradesh Lucknow Campus, Lucknow, UP 226028, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Amity Institute of Pharmacy</sa:organization>
+                  <sa:organization>Amity University Uttar Pradesh Lucknow Campus</sa:organization>
+                  <sa:city>Lucknow</sa:city>
+                  <sa:state>UP</sa:state>
+                  <sa:postal-code>226028</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cAmity Institute of Pharmacy, Amity University Uttar Pradesh Lucknow Campus, Lucknow, UP 226028, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="27" month="5" year="2021"/>
+         <ce:date-revised day="6" month="9" year="2021"/>
+         <ce:date-accepted day="8" month="9" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">The present study is aimed at formulating Genipin crossed curcumin loaded sericin NPs (Cur-SNPs) for the biomedical application in terms of anti-inflammatory and antioxidant potential. Cur-SNPs were prepared by employing modified desolvation method and crosslinking using genipin (Gn) and optimization for particle size, drug entrapment and loading. The optimized curcumin loaded sericin NPs (Opt-Cur-SNPs) exhibited particle size (263±3.5 nm), entrapment efficiency (85.7 ± 1.20%), drug loading (47.0 ± 1.23%) and zeta potential (-25.65 mV). The <ce:italic>in-vitro</ce:italic> drug release data revealed that 72.0 ± 2.3% and 83.1 ± 1.0% curcumin release over a span of 60 h in simulated gastric fluid and colonic pH. <ce:italic>In-vivo</ce:italic> antioxidant activity and anti-inflammatory activity showed significant results (<ce:italic>p</ce:italic>&lt;0.05 and <ce:italic>p</ce:italic>&lt;0.01) in comparison to control rats. The pharmacokinetic study revealed that the formulation holds better bioavailability and sustained release as compared to parent API. The present study confirms the hypothesis, that the Cur-SNPs can be used for biomedical application.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0002">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara011" view="all"> [Display omitted] .</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Sericin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Curcumin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Desolvation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Anti-oxidant</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Anti-inflammatory</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

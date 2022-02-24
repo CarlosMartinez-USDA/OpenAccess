@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Experimental dataset from a central composite design with two qualitative independent variables to develop high strength mortars with self-compacting properties</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Lino</namePart>
+      <namePart type="family">Maia</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6371-0179</nameIdentifier>
+      <displayForm>Maia, Lino</displayForm>
+      <affiliation>CONSTRUCT-LABEST, Faculty of Engineering (FEUP), University of Porto, Rua Dr. Roberto Frias, Porto 4200-465, Portugal</affiliation>
+      <affiliation>Faculty of Exact Sciences and Engineering, University of Madeira, Campus da Penteada, Funchal 9020-105, Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Fresh and hardening properties of cement-based materials are key factors for correctly choosing the constituent materials and their mix proportions. To optimize design-based mortar compositions for specific applications, response models are frequently applied to data collected from scientific approaches. Here, experimental dataset regarding to a design of experiments carried out in mortars through a central composite design with five independent variables is presented. Among the five independent variables, four were quantitative ones: Waterᵥ/Cementᵥ, Superplasticyzerₘ/Powderᵥ, Waterᵥ/Powderᵥ, Sandᵥ/Mortarᵥ. The other independent variable was a qualitative one: Superplasticiser A or Superplasticiser B. In total 60 mortar compositions were done: for each qualitative variable a 2⁴ factorial design comprising of 16 treatment combinations enlarged by 8 axial runs plus 6 central runs, resulting in a central composite design with 30 mortar trial mix compositions. The following dependent variables were tested: the D-flow and the t-funnel to evaluate the fresh properties and the compressive at the age of 24 h and at the age of 28 days to evaluate the hardened properties. Based on this dataset, response models can be applied to find optimized mix compositions, with the effect of the two qualitative variables being determined. </abstract>
+   <subject>
+      <topic>Cement</topic>
+   </subject>
+   <subject>
+      <topic>Design of experiments</topic>
+   </subject>
+   <subject>
+      <topic>Mortar</topic>
+   </subject>
+   <subject>
+      <topic>Normensand</topic>
+   </subject>
+   <subject>
+      <topic>Response model</topic>
+   </subject>
+   <subject>
+      <topic>Superplasticiser</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107738</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107738</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107738</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01013-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010131/S2352340921010131.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

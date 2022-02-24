@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>The inhibitory effect of dihydroartemisinin on non-small cells lung cancer</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Yan</namePart>
+      <namePart type="family">Li</namePart>
+      <displayForm>Li, Yan</displayForm>
+      <affiliation>College of Traditional Chinese Medicine, Shandong University of Traditional Chinese Medicine, Jinan, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Guijie</namePart>
+      <namePart type="family">Luan</namePart>
+      <displayForm>Luan, Guijie</displayForm>
+      <affiliation>Shandong Center for Disease Control and Prevention, Jinan, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ping</namePart>
+      <namePart type="family">Guo</namePart>
+      <displayForm>Guo, Ping</displayForm>
+      <affiliation>College of Traditional Chinese Medicine, Shandong University of Traditional Chinese Medicine, Jinan, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Dihydroartemisinin (DHA) is an artemisinin (ART) derivative used for the treatment of all kinds of malaria, especially for falciparum malaria and dangerous malaria. With the in-depth research, DHA has attracted more attentions in the field of anticancer. We aim to explore the inhibitory effect of DHA on non-small cells lung cancer (NSCLC), which includes lung squamous carcinoma (LUSC), lung adenocarcinoma (LUAD) and large cells lung carcinoma (LCLC). A comprehensive search was performed to identify all studies with the Preferred Reporting Items for Systematic Reviews and Meta Analyses (PRISMA) guidelines. We used the databases of PubMed and Web of Science to search the literature up to December 31, 2020, and there were no language restrictions to be imposed. Searches were conducted in PubMed and Web of Science using the keywords “dihydroartemisinin” and “non-small cells lung cancer” or “lung squamous carcinoma” or “lung adenocarcinoma” or “large cells lung carcinoma”. Literature search and selection, data assessment and reliability assessment were respectively performed by two independent review researchers. Thirty-six studies involving NSCLC, LUAD, and LUSC were included. The mean IC50 was 80.89 umol/L, the range was from 0.23 umol/L to 749.90 umol/L. When exposed to DHA at 24, 48, 72 and 96 h cell culture time, the mean IC50 were 54.80, 128.70, 83.70 and 12.60 umol/L respectively. There had higher inhibitory rate (IR) or apoptosis rate (AR) when exposed to higher DHA concentration and longer cell culture time. No evidence of publication bias was found. The finding suggested that DHA had an obvious inhibitory effect on NSCLC, which can provide further evidence in treatment of lung cancer. </abstract>
+   <subject>
+      <topic>Dihydroartemisinin</topic>
+   </subject>
+   <subject>
+      <topic>Non-small cells lung cancer</topic>
+   </subject>
+   <subject>
+      <topic>Inhibitory effect</topic>
+   </subject>
+   <subject>
+      <topic>Systematic review</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Pharmacological Research - Modern Chinese Medicine</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1425</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>100006</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.prmcm.2021.100006</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.prmcm.2021.100006</url>
+   </location>
+   <identifier type="pii">S2667-1425(21)00005-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-08-24"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1425/S2667142521X00024/S2667142521000051/S2667142521000051.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

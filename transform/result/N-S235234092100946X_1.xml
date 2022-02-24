@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>An annotated video dataset for computing video memorability</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Rukiye Savran</namePart>
+      <namePart type="family">Kiziltepe</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3862-7621</nameIdentifier>
+      <displayForm>Kiziltepe, Rukiye Savran</displayForm>
+      <affiliation>University of Essex, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lorin</namePart>
+      <namePart type="family">Sweeney</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3427-1250</nameIdentifier>
+      <displayForm>Sweeney, Lorin</displayForm>
+      <affiliation>Insight Centre for Data Analytics, Dublin City University, Glasnevin, Dublin 9, Ireland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mihai Gabriel</namePart>
+      <namePart type="family">Constantin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2312-6672</nameIdentifier>
+      <displayForm>Constantin, Mihai Gabriel</displayForm>
+      <affiliation>University Politehnica of Bucharest, Romania</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Faiyaz</namePart>
+      <namePart type="family">Doctor</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8412-5489</nameIdentifier>
+      <displayForm>Doctor, Faiyaz</displayForm>
+      <affiliation>University of Essex, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alba</namePart>
+      <namePart type="family">García Seco de Herrera</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6509-5325</nameIdentifier>
+      <displayForm>García Seco de Herrera, Alba</displayForm>
+      <affiliation>University of Essex, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Claire-Héléne</namePart>
+      <namePart type="family">Demarty</namePart>
+      <displayForm>Demarty, Claire-Héléne</displayForm>
+      <affiliation>InterDigital, R&amp;I, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Graham</namePart>
+      <namePart type="family">Healy</namePart>
+      <displayForm>Healy, Graham</displayForm>
+      <affiliation>Insight Centre for Data Analytics, Dublin City University, Glasnevin, Dublin 9, Ireland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bogdan</namePart>
+      <namePart type="family">Ionescu</namePart>
+      <displayForm>Ionescu, Bogdan</displayForm>
+      <affiliation>University Politehnica of Bucharest, Romania</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alan F.</namePart>
+      <namePart type="family">Smeaton</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1028-8389</nameIdentifier>
+      <displayForm>Smeaton, Alan F.</displayForm>
+      <affiliation>Insight Centre for Data Analytics, Dublin City University, Glasnevin, Dublin 9, Ireland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Using a collection of publicly available links to short form video clips of an average of 6 seconds duration each, 1275 users manually annotated each video multiple times to indicate both long-term and short-term memorability of the videos. The annotations were gathered as part of an online memory game and measured a participant’s ability to recall having seen the video previously when shown a collection of videos. The recognition tasks were performed on videos seen within the previous few minutes for short-term memorability and within the previous 24 to 72 hours for long-term memorability. Data includes the reaction times for each recognition of each video. Associated with each video are text descriptions (captions) as well as a collection of image-level features applied to 3 frames extracted from each video (start, middle and end). Video-level features are also provided. The dataset was used in the Video Memorability task as part of the MediaEval benchmark in 2020. </abstract>
+   <subject>
+      <topic>Video memorability</topic>
+   </subject>
+   <subject>
+      <topic>Machine learning</topic>
+   </subject>
+   <subject>
+      <topic>Human memory</topic>
+   </subject>
+   <subject>
+      <topic>Mediaeval benchmark</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107671</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107671</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107671</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00946-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-01"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S235234092100946X/S235234092100946X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

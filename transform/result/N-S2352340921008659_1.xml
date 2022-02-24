@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A synchrotron computed tomography dataset for validation of longitudinal tensile failure models based on fibre break and cluster development</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">C.</namePart>
+      <namePart type="family">Breite</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9695-2257</nameIdentifier>
+      <displayForm>Breite, C.</displayForm>
+      <affiliation>Department of Materials Engineering, KU Leuven, Kasteelpark Arenberg 44 box 2450, Leuven 3001, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Melnikov</namePart>
+      <displayForm>Melnikov, A.</displayForm>
+      <affiliation>Department of Materials Engineering, KU Leuven, Kasteelpark Arenberg 44 box 2450, Leuven 3001, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Turon</namePart>
+      <displayForm>Turon, A.</displayForm>
+      <affiliation>Department of Materials Engineering, KU Leuven, Kasteelpark Arenberg 44 box 2450, Leuven 3001, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.B.</namePart>
+      <namePart type="family">de Morais</namePart>
+      <displayForm>de Morais, A.B.</displayForm>
+      <affiliation>Department of Mechanical Engineering, RISCO research unit, University of Aveiro, Campus Santiago, Aveiro 3810-193, Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">C. Le</namePart>
+      <namePart type="family">Bourlot</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8088-4261</nameIdentifier>
+      <displayForm>Bourlot, C. Le</displayForm>
+      <affiliation>Universite de Lyon, INSA-Lyon, MATEIS, CNRS UMR5510, Villeurbanne F-69621, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">E.</namePart>
+      <namePart type="family">Maire</namePart>
+      <displayForm>Maire, E.</displayForm>
+      <affiliation>Universite de Lyon, INSA-Lyon, MATEIS, CNRS UMR5510, Villeurbanne F-69621, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">E.</namePart>
+      <namePart type="family">Schöberl</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5142-5522</nameIdentifier>
+      <displayForm>Schöberl, E.</displayForm>
+      <affiliation>Engineering Materials, Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">F.</namePart>
+      <namePart type="family">Otero</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3776-7550</nameIdentifier>
+      <displayForm>Otero, F.</displayForm>
+      <affiliation>INEGI, Rua Dr. Roberto Frias, 400, Porto 4200-465, Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">F.</namePart>
+      <namePart type="family">Mesquita</namePart>
+      <displayForm>Mesquita, F.</displayForm>
+      <affiliation>Department of Materials Engineering, KU Leuven, Kasteelpark Arenberg 44 box 2450, Leuven 3001, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">I.</namePart>
+      <namePart type="family">Sinclair</namePart>
+      <displayForm>Sinclair, I.</displayForm>
+      <affiliation>Engineering Materials, Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">J.</namePart>
+      <namePart type="family">Costa</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7134-7146</nameIdentifier>
+      <displayForm>Costa, J.</displayForm>
+      <affiliation>AMADE, Polytechnic School, University of Girona, Campus Montilivi s/n, Girona E-17003, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">J.A.</namePart>
+      <namePart type="family">Mayugo</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8210-3529</nameIdentifier>
+      <displayForm>Mayugo, J.A.</displayForm>
+      <affiliation>AMADE, Polytechnic School, University of Girona, Campus Montilivi s/n, Girona E-17003, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">J.M.</namePart>
+      <namePart type="family">Guerrero</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2652-0691</nameIdentifier>
+      <displayForm>Guerrero, J.M.</displayForm>
+      <affiliation>AMADE, Polytechnic School, University of Girona, Campus Montilivi s/n, Girona E-17003, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">L.</namePart>
+      <namePart type="family">Gorbatikh</namePart>
+      <displayForm>Gorbatikh, L.</displayForm>
+      <affiliation>Department of Materials Engineering, KU Leuven, Kasteelpark Arenberg 44 box 2450, Leuven 3001, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">L.N.</namePart>
+      <namePart type="family">McCartney</namePart>
+      <displayForm>McCartney, L.N.</displayForm>
+      <affiliation>Department of Engineering, Materials &amp; Electrical Science, National Physical Laboratory, Teddington, Middlesex TW11 0LW, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.</namePart>
+      <namePart type="family">Hajikazemi</namePart>
+      <displayForm>Hajikazemi, M.</displayForm>
+      <affiliation>Department of Materials, Textiles and Chemical Engineering, Faculty of Engineering and Architecture, Ghent University, Technologiepark Zwijnaarde 46, Ghent, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.</namePart>
+      <namePart type="family">Mehdikhani</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3989-2678</nameIdentifier>
+      <displayForm>Mehdikhani, M.</displayForm>
+      <affiliation>Department of Materials Engineering, KU Leuven, Kasteelpark Arenberg 44 box 2450, Leuven 3001, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.N.</namePart>
+      <namePart type="family">Mavrogordato</namePart>
+      <displayForm>Mavrogordato, M.N.</displayForm>
+      <affiliation>Engineering Materials, Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">P.P.</namePart>
+      <namePart type="family">Camanho</namePart>
+      <displayForm>Camanho, P.P.</displayForm>
+      <affiliation>INEGI, Rua Dr. Roberto Frias, 400, Porto 4200-465, Portugal</affiliation>
+      <affiliation>DEMec, Faculdade de Engenharia, Universidade do Porto, Rua Dr. Roberto Frias, Porto 4200-465, Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">R.</namePart>
+      <namePart type="family">Tavares</namePart>
+      <displayForm>Tavares, R.</displayForm>
+      <affiliation>INEGI, Rua Dr. Roberto Frias, 400, Porto 4200-465, Portugal</affiliation>
+      <affiliation>DEMec, Faculdade de Engenharia, Universidade do Porto, Rua Dr. Roberto Frias, Porto 4200-465, Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.M.</namePart>
+      <namePart type="family">Spearing</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3059-2014</nameIdentifier>
+      <displayForm>Spearing, S.M.</displayForm>
+      <affiliation>Engineering Materials, Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.V.</namePart>
+      <namePart type="family">Lomov</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8194-4913</nameIdentifier>
+      <displayForm>Lomov, S.V.</displayForm>
+      <affiliation>Department of Materials Engineering, KU Leuven, Kasteelpark Arenberg 44 box 2450, Leuven 3001, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Pimenta</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1603-5940</nameIdentifier>
+      <displayForm>Pimenta, S.</displayForm>
+      <affiliation>Department of Mechanical Engineering, Imperial College London, South Kensington Campus, London SW7 2AZ, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">W.</namePart>
+      <namePart type="family">Van Paepegem</namePart>
+      <displayForm>Van Paepegem, W.</displayForm>
+      <affiliation>Department of Materials, Textiles and Chemical Engineering, Faculty of Engineering and Architecture, Ghent University, Technologiepark Zwijnaarde 46, Ghent, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Y.</namePart>
+      <namePart type="family">Swolfs</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7278-3022</nameIdentifier>
+      <displayForm>Swolfs, Y.</displayForm>
+      <affiliation>Department of Materials Engineering, KU Leuven, Kasteelpark Arenberg 44 box 2450, Leuven 3001, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We performed in-situ tensile tests on two carbon fibre/epoxy composites with continuous scanning using synchrotron computed tomography (CT). Both composites were cross-ply laminates, and two specimens were tested for each composite. The voxel size was sufficiently small to recognize individual fibres and fibre breaks. For each test, 16-19 volumes were reconstructed, cropped down to the 0° plies and analysed to track fibre break and cluster development. This dataset provides the last CT volume before failure for each of the four specimens as well as the individual fibre break locations in all reconstructed volumes. These data are then plotted against predictions from six state-of-the-art strength models. The target is that these data become a benchmark for the development of new models, inspiring researchers to set up refined experiments and develop improved models. </abstract>
+   <subject>
+      <topic>Fibre-reinforced composites</topic>
+   </subject>
+   <subject>
+      <topic>Synchrotron computed tomography</topic>
+   </subject>
+   <subject>
+      <topic>Longitudinal tensile failure</topic>
+   </subject>
+   <subject>
+      <topic>Fibre breaks</topic>
+   </subject>
+   <subject>
+      <topic>Stress concentrations</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107590</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107590</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107590</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00865-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-16"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008659/S2352340921008659.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Spatially gridded cross-shelf hydrographic sections and monthly climatologies from shipboard survey data collected along the Newport Hydrographic Line, 1997–2021</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Craig M.</namePart>
+      <namePart type="family">Risien</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2826-9488</nameIdentifier>
+      <displayForm>Risien, Craig M.</displayForm>
+      <affiliation>College of Earth, Ocean, and Atmospheric Sciences, Oregon State University, Corvallis, OR, 97331, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Melanie R.</namePart>
+      <namePart type="family">Fewings</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2903-1620</nameIdentifier>
+      <displayForm>Fewings, Melanie R.</displayForm>
+      <affiliation>College of Earth, Ocean, and Atmospheric Sciences, Oregon State University, Corvallis, OR, 97331, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jennifer L.</namePart>
+      <namePart type="family">Fisher</namePart>
+      <displayForm>Fisher, Jennifer L.</displayForm>
+      <affiliation>Cooperative Institute for Marine Ecosystem and Resources Studies, Oregon State University, Newport, OR, 97365, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jay O.</namePart>
+      <namePart type="family">Peterson</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6130-5519</nameIdentifier>
+      <displayForm>Peterson, Jay O.</displayForm>
+      <affiliation>NOAA Office of Science and Technology, Silver Spring, Maryland, 20910, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cheryl A.</namePart>
+      <namePart type="family">Morgan</namePart>
+      <displayForm>Morgan, Cheryl A.</displayForm>
+      <affiliation>Cooperative Institute for Marine Ecosystem and Resources Studies, Oregon State University, Newport, OR, 97365, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-01</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The Oregon continental shelf is embedded within the northern California Current System, a wind-driven, eastern boundary system that includes the equatorward flowing California Current and the poleward flowing California Undercurrent. During spring and summer months, equatorward winds drive the upwelling of cold, nutrient-rich, and oxygen-poor waters from depth onto the shelf, fueling a highly productive marine ecosystem that supports several valuable commercial fisheries. This data article describes a time series of hydrographic data collected on a biweekly to monthly schedule from March 1997 to July 2021 along the Newport Hydrographic Line (NHL; 44.652ᵒN, 124.1 – 124.65ᵒW) located west of Newport, Oregon. The NHL, with its 2-4 week sampling rate and inclusion of biological data such as zooplankton net tows, is the only long-term, high-frequency dataset of its kind for the California Current and as such is crucial to understanding the connectivity between changes in ocean-climate and ecosystem structure and function. Data were collected using Sea-Bird Scientific conductivity, temperature, depth (CTD) profilers with associated dissolved oxygen sensors at seven stations located between 1.9 and 46.3 km from shore. Water depths for the seven stations range from 30 to 296 meters. Data collected during each cruise were processed using Sea-Bird Scientific's Seasoft software package. These CTD station data were gridded to a 0.01ᵒ x 1 dbar longitude - pressure grid using linear interpolation to create cross-shelf hydrographic sections of temperature, practical salinity, potential density, spiciness, and dissolved oxygen. From the gridded section data, seasonal climatologies were calculated for each variable at each location in the longitude - pressure section using harmonic analysis with a three-harmonic fit to the gridded transect observations. The station data, gridded transect data and monthly climatologies for all five variables are available via Zenodo at https://doi.org/10.5281/zenodo.5814071. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>seawater temperature</topic>
+   </subject>
+   <subject>
+      <topic>practical salinity</topic>
+   </subject>
+   <subject>
+      <topic>potential density</topic>
+   </subject>
+   <subject>
+      <topic>spiciness</topic>
+   </subject>
+   <subject>
+      <topic>dissolved oxygen</topic>
+   </subject>
+   <subject>
+      <topic>climatology</topic>
+   </subject>
+   <subject>
+      <topic>California current</topic>
+   </subject>
+   <subject>
+      <topic>Oregon</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">02</text>
+         <text type="day">01</text>
+         <extent unit="pages">
+            <start>107922</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107922</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107922</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00134-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-02-02"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001342/S2352340922001342.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

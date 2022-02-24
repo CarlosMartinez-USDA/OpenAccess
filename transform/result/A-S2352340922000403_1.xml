@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107828">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A transcriptomic dataset evaluating the effect of radiotherapy injury on cells of skin and soft tissue</dct:title>
+         <dct:creator>Lipi Shukla</dct:creator>
+         <dct:creator>Stuart A. Lee</dct:creator>
+         <dct:creator>Mei R.M. Du</dct:creator>
+         <dct:creator>Tara Karnezis</dct:creator>
+         <dct:creator>Matthew E. Ritchie</dct:creator>
+         <dct:creator>Ramin Shayan</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Gene expression</rdf:li>
+               <rdf:li>Radiotherapy injury</rdf:li>
+               <rdf:li>Skin</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 41 (2022). doi:10.1016/j.dib.2022.107828</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>41</prism:volume>
+         <prism:coverDisplayDate>April 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2022.107828</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107828</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107828</dct:identifier>
+         <bam:articleNumber>107828</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-12T12:36:23Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107828</ja:aid>
+         <ce:article-number>107828</ce:article-number>
+         <ce:pii>S2352-3409(22)00040-3</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107828</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">A transcriptomic dataset evaluating the effect of radiotherapy injury on cells of skin and soft tissue</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000403-45f03f1687f14dd6f81362e71115edb4">
+               <ce:given-name>Lipi</ce:given-name>
+               <ce:surname>Shukla</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000403-66064c3acd73571da35cd98a59064d3a"
+                       orcid="0000-0003-1179-8436">
+               <ce:given-name>Stuart A.</ce:given-name>
+               <ce:surname>Lee</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000403-0c72ae9b7461ccfb12d49732760146a6"
+                       orcid="0000-0001-6915-6765">
+               <ce:given-name>Mei R.M.</ce:given-name>
+               <ce:surname>Du</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922000403-b135dbf1075aae2efa78d1f1bc5cbc63">
+               <ce:given-name>Tara</ce:given-name>
+               <ce:surname>Karnezis</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340922000403-bc8cf6563ac770c7ff4975b1c3f1c26b"
+                       orcid="0000-0002-7383-0609">
+               <ce:given-name>Matthew E.</ce:given-name>
+               <ce:surname>Ritchie</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340922000403-e0ce066b6d31c58d347444ae81fa9497">
+               <ce:given-name>Ramin</ce:given-name>
+               <ce:surname>Shayan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:rshayan@svi.edu.au">rshayan@svi.edu.au</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000403-db6e4dc0730162a84bafe3cbc2e82951">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">O'Brien Institute Department, St Vincent's Institute for Medical Research, Fitzroy, Victoria 3065, Australia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>O'Brien Institute Department</sa:organization>
+                  <sa:organization>St Vincent's Institute for Medical Research</sa:organization>
+                  <sa:city>Fitzroy</sa:city>
+                  <sa:state>Victoria</sa:state>
+                  <sa:postal-code>3065</sa:postal-code>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aO'Brien Institute Department, St Vincent's Institute for Medical Research, Fitzroy, Victoria 3065, Australia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922000403-35ff7e94728504ff084e1cfa8841ac2b">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Epigenetics and Development Division, The Walter and Eliza Hall Institute of Medical Research, Parkville, Victoria 3052, Australia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Epigenetics and Development Division</sa:organization>
+                  <sa:organization>The Walter and Eliza Hall Institute of Medical Research</sa:organization>
+                  <sa:city>Parkville</sa:city>
+                  <sa:state>Victoria</sa:state>
+                  <sa:postal-code>3052</sa:postal-code>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bEpigenetics and Development Division, The Walter and Eliza Hall Institute of Medical Research, Parkville, Victoria 3052, Australia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922000403-71f0688b75da97335ae83f6720a70aa9">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Plastic Surgery, The Alfred Hospital, Prahran, Victoria 3004, Australia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Plastic Surgery</sa:organization>
+                  <sa:organization>The Alfred Hospital</sa:organization>
+                  <sa:city>Prahran</sa:city>
+                  <sa:state>Victoria</sa:state>
+                  <sa:postal-code>3004</sa:postal-code>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Plastic Surgery, The Alfred Hospital, Prahran, Victoria 3004, Australia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340922000403-fe5fd49c3fce0194e3105c769779540e">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Plastic Surgery, St. Vincent's Hospital, Fitzroy, Victoria 3065, Australia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Plastic Surgery</sa:organization>
+                  <sa:organization>St. Vincent's Hospital</sa:organization>
+                  <sa:city>Fitzroy</sa:city>
+                  <sa:state>Victoria</sa:state>
+                  <sa:postal-code>3065</sa:postal-code>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Plastic Surgery, St. Vincent's Hospital, Fitzroy, Victoria 3065, Australia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340922000403-6f8bcd90477950df0adda4e037e7ce9e">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Department of Medicine, St. Vincent's Hospital, University of Melbourne, Fitzroy 3065, Australia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Medicine</sa:organization>
+                  <sa:organization>St. Vincent's Hospital</sa:organization>
+                  <sa:organization>University of Melbourne</sa:organization>
+                  <sa:city>Fitzroy</sa:city>
+                  <sa:postal-code>3065</sa:postal-code>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eDepartment of Medicine, St. Vincent's Hospital, University of Melbourne, Fitzroy 3065, Australia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: O'Brien Institute Department, St Vincent's Institute for Medical Research, Fitzroy, Victoria 3065, Australia.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>O'Brien Institute Department</sa:organization>
+                  <sa:organization>St Vincent's Institute for Medical Research</sa:organization>
+                  <sa:city>Fitzroy</sa:city>
+                  <sa:state>Victoria</sa:state>
+                  <sa:postal-code>3065</sa:postal-code>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">These authors contributed equally to this work.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="14" month="10" year="2021"/>
+         <ce:date-revised day="4" month="1" year="2022"/>
+         <ce:date-accepted day="11" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">Radiotherapy injury to cells of the skin and subcutaneous tissue is an inevitable consequence of external beam radiation for treatment of cancer. This sublethal injury to normal tissues plays a significant role in the development of fibrosis, lymphedema, impaired wound healing, and recurrent infections. To elucidate the transcriptional changes that occur in cells of the skin and soft tissues after radiotherapy injury, we performed genome-wide RNA-sequencing comparing irradiated cells (10Gy) with non-irradiated (0Gy) controls in normal human dermal fibroblasts, normal human keratinocytes, human microvascular endothelial cells, human dermal lymphatic endothelial cells, pericytes and adipose derived stem cell populations. These data are publicly available from the Gene Expression Omnibus database (accession number GSE184119). Further insights can be gained by comparing the mRNA signatures arising from radiation injury derived from these data to publicly available signatures from other studies involving similar or different tissue types. These global targets hold potential for manipulation to mitigate radiotherapy soft tissue injury.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Gene expression</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Radiotherapy injury</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Skin</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

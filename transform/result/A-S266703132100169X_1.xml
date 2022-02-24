@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100187">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Extracts of Tagetes erecta exhibit potential cytotoxic and antitumor activity that could be employed as a promising therapeutic agent against cancer: A study involving in vitro and in vivo approach</dct:title>
+         <dct:creator>Dharmeswar Barhoi</dct:creator>
+         <dct:creator>Puja Upadhaya</dct:creator>
+         <dct:creator>Sweety Nath Barbhuiya</dct:creator>
+         <dct:creator>Anirudha Giri</dct:creator>
+         <dct:creator>Sarbani Giri</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Apoptosis</rdf:li>
+               <rdf:li>Cytotoxicity</rdf:li>
+               <rdf:li>Ehrlich ascites carcinoma</rdf:li>
+               <rdf:li>Mitochondrial membrane potential</rdf:li>
+               <rdf:li>Solid tumor</rdf:li>
+               <rdf:li>Tagetes erecta</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100187</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100187</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100187</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100187</dct:identifier>
+         <bam:articleNumber>100187</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-29T19:49:11Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100187</ja:aid>
+         <ce:article-number>100187</ce:article-number>
+         <ce:pii>S2667-0313(21)00169-X</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100187</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Extracts of <ce:italic>Tagetes erecta</ce:italic> exhibit potential cytotoxic and antitumor activity that could be employed as a promising therapeutic agent against cancer: A study involving <ce:italic>in vitro</ce:italic> and <ce:italic>in vivo</ce:italic> approach</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S266703132100169X-2a2eb947195612f0895ebfb2942e3097">
+               <ce:given-name>Dharmeswar</ce:given-name>
+               <ce:surname>Barhoi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S266703132100169X-8a5914cdb34d8cd38763e8f5cd944a8a">
+               <ce:given-name>Puja</ce:given-name>
+               <ce:surname>Upadhaya</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S266703132100169X-48422b8671b65dcdcde4707cd20bdb14">
+               <ce:given-name>Sweety Nath</ce:given-name>
+               <ce:surname>Barbhuiya</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S266703132100169X-f400d9ae78260794cb76f3b531774b5f">
+               <ce:given-name>Anirudha</ce:given-name>
+               <ce:surname>Giri</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S266703132100169X-7e0095ab99c22011896a8a7dc82aee72">
+               <ce:given-name>Sarbani</ce:given-name>
+               <ce:surname>Giri</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:girisarbani@gmail.com">girisarbani@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S266703132100169X-715c7e31b414e2bfbe156a4ae6446b25">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Laboratory of Molecular and Cell Biology, Department of Life Science and Bioinformatics, Assam University, Silchar, Assam, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Molecular and Cell Biology, Department of Life Science and Bioinformatics</sa:organization>
+                  <sa:organization>Assam University</sa:organization>
+                  <sa:city>Silchar</sa:city>
+                  <sa:state>Assam</sa:state>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aLaboratory of Molecular and Cell Biology, Department of Life Science and Bioinformatics, Assam University, Silchar, Assam, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S266703132100169X-cfef5e16899608d06707db47426700b6">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Laboratory of Environmental and Human Toxicology, Department of Life Science and Bioinformatics, Assam University, Silchar, Assam, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Environmental and Human Toxicology, Department of Life Science and Bioinformatics</sa:organization>
+                  <sa:organization>Assam University</sa:organization>
+                  <sa:city>Silchar</sa:city>
+                  <sa:state>Assam</sa:state>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bLaboratory of Environmental and Human Toxicology, Department of Life Science and Bioinformatics, Assam University, Silchar, Assam, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Life Science and Bioinformatics, Assam University, Silchar, 788011, Assam, India</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Life Science and Bioinformatics</sa:organization>
+                  <sa:organization>Assam University</sa:organization>
+                  <sa:city>Silchar</sa:city>
+                  <sa:state>Assam</sa:state>
+                  <sa:postal-code>788011</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="19" month="8" year="2021"/>
+         <ce:date-revised day="11" month="11" year="2021"/>
+         <ce:date-accepted day="29" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara016" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">GC–MS analysis revealed the presence of bioactive compounds in the leaves of <ce:italic>Tagetes erecta</ce:italic>.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Administration of <ce:italic>Tagetes erecta</ce:italic> reduces tumor development in EAC-induced tumor-bearing allograft mice.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Aqueous extract of <ce:italic>Tagetes erecta</ce:italic> causes dose and time-dependent cytotoxicity to EAC and HEp-2 cells.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">
+                           <ce:italic>Tagetes erecta</ce:italic> exposure induces apoptosis in EAC cells without causing cell cycle arrest.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Extracts of <ce:italic>Tagetes erecta</ce:italic> did not exhibit adverse toxicity in normal swiss albino mice.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background and purpose</ce:section-title>
+               <ce:simple-para id="spara017" view="all">Globally, the burden of cancer is increasing consistently. Modern cancer therapies include lots of toxicity in the non-targeted organs reducing the life expectancy of the patients. Therefore, the development of safer alternative medicines with less toxicity and high efficacy is of immense importance. The present study was designed to evaluate the anticancer activity of a medicinal plant, “<ce:italic>Tagetes erecta</ce:italic> L.” (TE), in established cancer cell lines <ce:italic>in vitro</ce:italic> and in animal models <ce:italic>in vivo</ce:italic>.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Methods</ce:section-title>
+               <ce:simple-para id="spara018" view="all">GC–MS analysis was performed to reveal the bioactive compounds present in the leaves of TE. To evaluate the antitumor potential of aqueous extract of TE (AETE), EAC (Ehrlich ascites carcinoma) induced solid tumor model was prepared in Swiss albino mice. The effect of AETE on body weight (BW), tumor weight (TW), and tumor volume (TV) was assessed in control and tumor-bearing animals. Further, the survival of the experimental animals was also monitored to assess the effect of AETE on life span. To determine the cytotoxicity induced by AETE, trypan blue dye exclusion assay, MTT assay, and LDH release assay was performed in EAC and HEp-2 cell lines by <ce:italic>in vitro</ce:italic> methods. Further, cell cycle assay and apoptosis assay was employed to ascertain the AETE-induced cytotoxicity is due to apoptosis or not. In addition, we have done a mitochondrial membrane potential assay using a flow cytometer to understand the mechanism of apoptosis.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara019" view="all">GC–MS analysis revealed the presence of hexadecanoic acid, Linolenic acid, Quinic acid, 2,3- dihydro benzofuran (Coumaran), and β-stigmasterol as major bioactive compounds in TE leaves. Results in animal studies showed that AETE treatment potentially reduced the TW and TV and increased the life span in EAC-induced tumor-bearing animals. Side effect analysis was also done in normal Swiss albino mice that confirmed the lack of toxicity of AETE. Studies in cancer cell lines indicated dose and time-dependent cytotoxicity in HEp-2 and EAC cells. Flow cytometric analysis established significant induction of apoptosis in EAC cells without arresting the cell cycle. In addition, AETE treatment led to a significant increase in cells with depolarised mitochondrial membrane potential.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusion</ce:section-title>
+               <ce:simple-para id="spara020" view="all">The present study indicated that AETE potentially inhibits tumor progression without disturbing normal body physiology. Thus, we conclude that AETE can be used as a potential therapeutic agent against cancer.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0007">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Apoptosis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Cytotoxicity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Ehrlich ascites carcinoma</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Mitochondrial membrane potential</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Solid tumor</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Tagetes erecta</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

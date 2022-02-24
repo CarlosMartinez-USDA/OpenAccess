@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Quantitative proteomic dataset of the moss Physcomitrium patens PSEP3 KO and OE mutant lines</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Anna</namePart>
+      <namePart type="family">Mamaeva</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1632-8401</nameIdentifier>
+      <displayForm>Mamaeva, Anna</displayForm>
+      <affiliation>Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, Moscow, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andrey</namePart>
+      <namePart type="family">Knyazev</namePart>
+      <displayForm>Knyazev, Andrey</displayForm>
+      <affiliation>Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, Moscow, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anna</namePart>
+      <namePart type="family">Glushkevich</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8869-7807</nameIdentifier>
+      <displayForm>Glushkevich, Anna</displayForm>
+      <affiliation>Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, Moscow, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Igor</namePart>
+      <namePart type="family">Fesenko</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5757-8271</nameIdentifier>
+      <displayForm>Fesenko, Igor</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Small open reading frames (&lt;100 codons) that are located on long noncoding RNAs (lncRNAs) can encode functional microproteins. These microproteins are shown to play important roles in different cellular processes, such as cell proliferation, development and disease response [1–6]. However, there are only a few known lncRNA-encoded functional microproteins in plants. One such microprotein that was named PSEP3, was identified in the moss Physcomitrium patens by mass-spectrometry analysis. 57-aa PSEP3 contains Low Complexity Region (LCR) enriched with proline. We have previously shown that PSEP3 is translated in protonemata and gametophores of P. patens, and its knockout (KO line) or overexpression (OE line) affects protonemata growth [7]. We performed a quantitative proteomic analysis of the mutant lines with PSEP3 knockout and overexpression. 7-days old protonemata of wild type (WT line) and both mutant lines (KO and OE) were collected and used for iTRAQ-based proteomic experiments. LC-MS/MS data were processed using PEAKS Studio v.8 software with protein identification based on a Phytozome protein database. More analysis of PSEP3 effects on plant growth can be obtained in the paper published in Nucleic Acid Research [8]. </abstract>
+   <subject>
+      <topic>Long noncoding RNA-encoded peptide</topic>
+   </subject>
+   <subject>
+      <topic>iTRAQ</topic>
+   </subject>
+   <subject>
+      <topic>Proteomics</topic>
+   </subject>
+   <subject>
+      <topic>Physcomitrium patens</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107715</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107715</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107715</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00990-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009902/S2352340921009902.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

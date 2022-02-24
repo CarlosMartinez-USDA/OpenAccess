@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100014">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Kinetic modeling of substrate-water exchange in Photosystem II</dct:title>
+         <dct:creator>Hao-Li Huang</dct:creator>
+         <dct:creator>Gary W. Brudvig</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Exchange kinetics</rdf:li>
+               <rdf:li>Oxygen-evolving complex</rdf:li>
+               <rdf:li>Photosystem II</rdf:li>
+               <rdf:li>Substrate water</rdf:li>
+               <rdf:li>Water oxidation</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100014</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100014</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100014</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100014</dct:identifier>
+         <bam:articleNumber>100014</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-05-04T09:05:39Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100014</ja:aid>
+         <ce:article-number>100014</ce:article-number>
+         <ce:pii>S2667-1603(21)00013-2</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100014</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Kinetic modeling of substrate-water exchange in Photosystem II</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000132-b716cbac1c77365b4f2ba0cae6935b61">
+               <ce:given-name>Hao-Li</ce:given-name>
+               <ce:surname>Huang</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000132-341f5ad95a289eefac2c5c0826eb3322">
+               <ce:given-name>Gary W.</ce:given-name>
+               <ce:surname>Brudvig</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:gary.brudvig@yale.edu">gary.brudvig@yale.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000132-3c6be69b1645fc726e24e8847a78ab5d">
+               <ce:textfn id="cetextfn0001">Department of Chemistry, Yale University, New Haven, CT 06520, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>Yale University</sa:organization>
+                  <sa:city>New Haven</sa:city>
+                  <sa:state>CT</sa:state>
+                  <sa:postal-code>06520</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Chemistry, Yale University, New Haven, CT 06520, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">We derive a model that provides an exact solution to the substrate-water exchange kinetics in a double-conformation system.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">This model is used to interpret recently published data for Ca<ce:sup loc="post">2+</ce:sup>- and Sr<ce:sup loc="post">2+</ce:sup>-containing PSII in the S<ce:inf loc="post">2</ce:inf> state, in which the g = 2.0 and g = 4.1 conformations coexist.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">The component concentrations derived from the kinetic model provide an analytic description of the substrate-water exchange kinetics.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Contrary to previous reports, there is no significant effect of substituting Sr<ce:sup loc="post">2+</ce:sup> for Ca<ce:sup loc="post">2+</ce:sup> on any of the exchange rate constants.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">The exchange rate of the slowly-exchanging water (W<ce:inf loc="post">s</ce:inf>) in the S<ce:inf loc="post">2</ce:inf> state g = 4.1 conformation is much faster than that in the g = 2.0 conformation, consistent with the assignment of W<ce:inf loc="post">s</ce:inf> to W1 or W2 bound as terminal ligands to Mn4.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara007" view="all">We derive a model that provides an exact solution to the substrate-water exchange kinetics in a double-conformation system and use this model to interpret recently published data for Ca<ce:sup loc="post">2+</ce:sup>- and Sr<ce:sup loc="post">2+</ce:sup>-containing PSII in the S<ce:inf loc="post">2</ce:inf> state, in which the g = 2.0 and g = 4.1 conformations coexist. The component concentrations derived from the kinetic model provide an analytic description of the substrate-water exchange kinetics, allowing us to more accurately interpret the results. Based on this model and the previously reported data on the S<ce:inf loc="post">2</ce:inf> state g = 2.0 conformation, we obtain the substrate-water exchange rates of the g = 4.1 conformation and the conformational change rates. Two conclusions are made from the analyses. First, contrary to previous reports, there is no significant effect of substituting Sr<ce:sup loc="post">2+</ce:sup> for Ca<ce:sup loc="post">2+</ce:sup> on any of the exchange rate constants. Second, the exchange rate of the slowly-exchanging water (W<ce:inf loc="post">s</ce:inf>) in the S<ce:inf loc="post">2</ce:inf> state g = 4.1 conformation is much faster than that in the S<ce:inf loc="post">2</ce:inf> state g = 2.0 conformation. The second conclusion is consistent with the assignment of W<ce:inf loc="post">s</ce:inf> to W1 or W2 bound as terminal ligands to Mn4; Mn4 has been proposed to undergo an oxidation state change from Mn(IV) in the g = 2.0 conformation to Mn(III) in the g = 4.1 conformation.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Exchange kinetics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Oxygen-evolving complex</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Photosystem II</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Substrate water</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Water oxidation</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

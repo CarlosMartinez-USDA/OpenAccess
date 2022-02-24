@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107506">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset concerning the mental health of healthcare professionals during COVID-19 pandemic in Bangladesh</dct:title>
+         <dct:creator>Md. Rabiul Islam</dct:creator>
+         <dct:creator>Sumaiya Quaiyum</dct:creator>
+         <dct:creator>Sajuti Akter Pakhe</dct:creator>
+         <dct:creator>Md Azim Uddin Repon</dct:creator>
+         <dct:creator>Mohiuddin Ahmed Bhuiyan</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Healthcare professionals</rdf:li>
+               <rdf:li>HCPs</rdf:li>
+               <rdf:li>Mental health</rdf:li>
+               <rdf:li>Loneliness</rdf:li>
+               <rdf:li>Depression</rdf:li>
+               <rdf:li>Anxiety</rdf:li>
+               <rdf:li>Sleep disturbance</rdf:li>
+               <rdf:li>COVID-19</rdf:li>
+               <rdf:li>Bangladesh</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107506</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107506</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107506</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107506</dct:identifier>
+         <bam:articleNumber>107506</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-20T13:50:09Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107506</ja:aid>
+         <ce:article-number>107506</ce:article-number>
+         <ce:pii>S2352-3409(21)00787-3</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107506</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset concerning the mental health of healthcare professionals during COVID-19 pandemic in Bangladesh</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007873-2a5974b796bd870d4325c463041044e1"
+                       orcid="0000-0003-2820-3144">
+               <ce:given-name>Md. Rabiul</ce:given-name>
+               <ce:surname>Islam</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:robi.ayaan@gmail.com">robi.ayaan@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007873-727257e3e1ec5c505d7a15ab7735ebb8">
+               <ce:given-name>Sumaiya</ce:given-name>
+               <ce:surname>Quaiyum</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007873-2b33cd7fb487698cf26a55272794e618">
+               <ce:given-name>Sajuti Akter</ce:given-name>
+               <ce:surname>Pakhe</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007873-38127184f7a7d27430fa0fb5069c3bca"
+                       orcid="0000-0001-7191-7754">
+               <ce:given-name>Md Azim Uddin</ce:given-name>
+               <ce:surname>Repon</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921007873-0d6d4e5203dc7186dbae40df8ed08e7f">
+               <ce:given-name>Mohiuddin Ahmed</ce:given-name>
+               <ce:surname>Bhuiyan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007873-fb9fab40124aaab29720f2f8fdd208ea">
+               <ce:textfn id="cetextfn0001">Department of Pharmacy, University of Asia Pacific, 74/A Green Road, Farmgate, Dhaka 1215, Bangladesh</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacy</sa:organization>
+                  <sa:organization>University of Asia Pacific</sa:organization>
+                  <sa:address-line>74/A Green Road, Farmgate</sa:address-line>
+                  <sa:city>Dhaka</sa:city>
+                  <sa:postal-code>1215</sa:postal-code>
+                  <sa:country>Bangladesh</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Pharmacy, University of Asia Pacific, 74/A Green Road, Farmgate, Dhaka 1215, Bangladesh</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="28" month="6" year="2021"/>
+         <ce:date-revised day="8" month="10" year="2021"/>
+         <ce:date-accepted day="19" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">The present dataset is concerned with an article entitled “Effect of COVID-19 pandemic on mental health among Bangladeshi healthcare professionals: A cross-sectional study” [1]. This data article consists of a dataset regarding the mental health of Bangladeshi healthcare professionals (HCPs) during the ongoing COVID-19 pandemic. We collected the data from July 15, 2020, to September 20, 2020, using Google survey tools (Google Forms). A total of 355 complete responses have been obtained from the Bangladeshi HCPs aged between 20–60 years (male: 204, female: 151). We obtained informed consent from all participants for this study. We assessed the sociodemographic profile and four psychometric measures of HCPs working in Bangladesh during the COVID-19 pandemic. A structured questionnaire was used to collect the demographic information. We used the UCLA loneliness scale-8 (UCLA-8), the patient health questionnaire-9 (PHQ-9), the 7-item generalized anxiety disorder scale (GAD-7), and the Pittsburgh sleep quality index (PSQI) were applied to measure loneliness, depression, generalized anxiety, and sleep disturbance, respectively. This dataset presents the descriptive analysis of psychometric variables of participants. Also, the dataset might be used as a platform for future research on psychometric evaluation using the above scales. We included participants regardless of the sociodemographic backgrounds of HCPs. Therefore, the policymakers, government, and non-government organizations can use this data to develop different programs for promoting the mental health of HCPs and the general population in Bangladesh.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Healthcare professionals</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">HCPs</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Mental health</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Loneliness</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Depression</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Anxiety</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Sleep disturbance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">COVID-19</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0009">
+               <ce:text id="cetext0010">Bangladesh</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

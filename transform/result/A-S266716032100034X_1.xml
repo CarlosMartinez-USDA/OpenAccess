@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100035">
+         <dct:format>application/xml</dct:format>
+         <dct:title>APP deficiency and HTRA2 modulates PrPc proteostasis in human cancer cells</dct:title>
+         <dct:creator>Denis S.F. Biard</dct:creator>
+         <dct:creator>Rafika Jarray</dct:creator>
+         <dct:creator>Nicolas Rebergue</dct:creator>
+         <dct:creator>François Leteurtre</dct:creator>
+         <dct:creator>Dulce Papy-Garcia</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>PRNP</rdf:li>
+               <rdf:li>PrPc</rdf:li>
+               <rdf:li>APP</rdf:li>
+               <rdf:li>HTRA2</rdf:li>
+               <rdf:li>CD24</rdf:li>
+               <rdf:li>cancer cells</rdf:li>
+               <rdf:li>proteostasis</rdf:li>
+               <rdf:li>pEBVsiRNA</rdf:li>
+               <rdf:li>RNA interference</rdf:li>
+               <rdf:li>CRISPR-Cas9</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 2 (2022). doi:10.1016/j.bbadva.2021.100035</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:coverDisplayDate>2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100035</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100035</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100035</dct:identifier>
+         <bam:articleNumber>100035</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-14T16:32:30Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>France: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100035</ja:aid>
+         <ce:article-number>100035</ce:article-number>
+         <ce:pii>S2667-1603(21)00034-X</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100035</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">APP deficiency and HTRA2 modulates PrP<ce:sup loc="post">c</ce:sup> proteostasis in human cancer cells</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S266716032100034X-008efa4e1d36c8cd66618949ce3c547b">
+               <ce:given-name>Denis S.F.</ce:given-name>
+               <ce:surname>Biard</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:denis.biard@cea.fr">denis.biard@cea.fr</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S266716032100034X-aabbead2a34018f37ebb38c708a0d0aa">
+               <ce:given-name>Rafika</ce:given-name>
+               <ce:surname>Jarray</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S266716032100034X-a780c409aab404f430ba7f00e8de63f1">
+               <ce:given-name>Nicolas</ce:given-name>
+               <ce:surname>Rebergue</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S266716032100034X-2a5f2f4cf772a03189c201e1f0b47091">
+               <ce:given-name>François</ce:given-name>
+               <ce:surname>Leteurtre</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S266716032100034X-b60da45bdf5ded9c7ccd21c79fd36ec8">
+               <ce:given-name>Dulce</ce:given-name>
+               <ce:surname>Papy-Garcia</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S266716032100034X-7bbcd3afaf12b6b954854ca5f01a4499">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">CEA. Institut de Biologie François Jacob (IBFJ), SEPIA, Université Paris-Saclay, F-92265 Fontenay-aux-Roses, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>CEA. Institut de Biologie François Jacob (IBFJ)</sa:organization>
+                  <sa:organization>SEPIA</sa:organization>
+                  <sa:organization>Université Paris-Saclay</sa:organization>
+                  <sa:city>Fontenay-aux-Roses</sa:city>
+                  <sa:postal-code>F-92265</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aCEA. Institut de Biologie François Jacob (IBFJ), SEPIA, Université Paris-Saclay, F-92265 Fontenay-aux-Roses, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S266716032100034X-21f31b44ab5f58266bf9d38f535dd11a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">CEA. Institut de Biologie François Jacob (IBFJ), SREIT, Laboratoire de Cancérologie Expérimentale Université Paris-Saclay, F-92265 Fontenay-aux-Roses, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>CEA. Institut de Biologie François Jacob (IBFJ)</sa:organization>
+                  <sa:organization>SREIT</sa:organization>
+                  <sa:organization>Laboratoire de Cancérologie Expérimentale Université Paris-Saclay</sa:organization>
+                  <sa:city>Fontenay-aux-Roses</sa:city>
+                  <sa:postal-code>F-92265</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bCEA. Institut de Biologie François Jacob (IBFJ), SREIT, Laboratoire de Cancérologie Expérimentale Université Paris-Saclay, F-92265 Fontenay-aux-Roses, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S266716032100034X-b6f59ca663e47fc38df99646d40d9374">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Université Paris Est Créteil (UPEC), Glycobiology, Cell Growth and Tissue Repair Research Unit (Gly-CRRET), F-94010 Creteil, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Université Paris Est Créteil (UPEC), Glycobiology</sa:organization>
+                  <sa:organization>Cell Growth and Tissue Repair Research Unit (Gly-CRRET)</sa:organization>
+                  <sa:city>Creteil</sa:city>
+                  <sa:postal-code>F-94010</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cUniversité Paris Est Créteil (UPEC), Glycobiology, Cell Growth and Tissue Repair Research Unit (Gly-CRRET), F-94010 Creteil, France</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="3" month="6" year="2021"/>
+         <ce:date-revised day="9" month="12" year="2021"/>
+         <ce:date-accepted day="14" month="12" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">PrP<ce:sup loc="post">c</ce:sup> /APP imbalance affects cancer cell survival in a 3D tissue like environment.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">APP gene silencing enhances cytoplasmic PrP<ce:sup loc="post">c</ce:sup>protein accumulation.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Impaired APP expression induces HTRA2 and destabilizes lipid raft-associated protein partners (e.g. CD24).</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">HTRA2 up- or down-expression dysregulates PRNP.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">HTRA2 is a new modulator for PrP<ce:sup loc="post">c</ce:sup>proteostasis in human cancer cells.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara010" view="all">Cellular protein homeostasis (proteostasis) requires an accurate balance between protein biosynthesis, folding, and degradation, and its instability is causally related to human diseases and cancers. Here, we created numerous engineered cancer cell lines targeting APP (amyloid ß precursor protein) and/or PRNP (cellular prion) genes and we showed that APP knocking-down impaired PRNP mRNA level and vice versa, suggesting a link between their gene regulation. PRNP<ce:sup loc="post">KD</ce:sup>, APP<ce:sup loc="post">KD</ce:sup> and PRNP<ce:sup loc="post">KD</ce:sup>/APP<ce:sup loc="post">KD</ce:sup> HeLa cells encountered major difficulties to grow in a 3D tissue-like environment. Unexpectedly, we found a cytoplasmic accumulation of the PrP<ce:sup loc="post">c</ce:sup> protein without PRNP gene up regulation, in both APP<ce:sup loc="post">KD</ce:sup> and APP<ce:sup loc="post">KO</ce:sup> HeLa cells. Interestingly, APP and/or PRNP gene ablation enhanced the chaperone/serine protease HTRA2 gene expression, which is a protein processing quality factor involved in Alzheimer's disease. Importantly, HTRA2 gene silencing decreased PRNP mRNA level and lowered PrP<ce:sup loc="post">c</ce:sup> protein amounts, and conversely, HTRA2 overexpression increased PRNP gene regulation and enhanced membrane-anchored and cytoplasmic PrP<ce:sup loc="post">c</ce:sup> fractions. PrP<ce:sup loc="post">c</ce:sup>, APP and HTRA2 destabilized membrane-associated CD24 protein, suggesting changes in the lipid raft structure. Our data show for the first time that APP and the dual chaperone/serine protease HTRA2 protein could modulate PrP<ce:sup loc="post">c</ce:sup> proteostasis hampering cancer cell behavior.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="abr" id="pc_nkradupXW95zInSQIq54k8sIdk94Z1wG" view="all">
+            <ce:keyword id="pc_76t4j3XLR2">
+               <ce:text>AD</ce:text>
+               <ce:keyword id="pc_LnFUdB72Ry">
+                  <ce:text>Alzheimer’s disease</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_VqBgeitZpu">
+               <ce:text>APP</ce:text>
+               <ce:keyword id="pc_Btz98ySgGp">
+                  <ce:text>amyloid ß precursor protein</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_I6p6EblgJ2">
+               <ce:text>Aβ</ce:text>
+               <ce:keyword id="pc_xgDH9dEBVp">
+                  <ce:text>amyloid-β peptide</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_il0moURiDA">
+               <ce:text>CDS</ce:text>
+               <ce:keyword id="pc_WrVCIxkRfn">
+                  <ce:text>coding DNA sequence</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_Om87pp9RmZ">
+               <ce:text>GAG</ce:text>
+               <ce:keyword id="pc_x6ilRfvqid">
+                  <ce:text>glycosaminoglycans</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_xtxwfFhojp">
+               <ce:text>GPI</ce:text>
+               <ce:keyword id="pc_epHn2h8Foq">
+                  <ce:text>glycosyl-phosphatidylinositol</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_Ea2SljArck">
+               <ce:text>HTRA</ce:text>
+               <ce:keyword id="pc_5fuC0VSCoO">
+                  <ce:text>high-temperature requirement serine protease A</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_xz0fbzVjzy">
+               <ce:text>ICC</ce:text>
+               <ce:keyword id="pc_d5M2OMS9kW">
+                  <ce:text>immunocytochemical</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_CA4YylFoCB">
+               <ce:text>KD</ce:text>
+               <ce:keyword id="pc_D0F1k4rx4y">
+                  <ce:text>knock down</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_5YeoPVDyF9">
+               <ce:text>KO</ce:text>
+               <ce:keyword id="pc_icjqOw6snp">
+                  <ce:text>knock out</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_znB9YvH8ry">
+               <ce:text>PrP<ce:sup loc="post">c</ce:sup>
+               </ce:text>
+               <ce:keyword id="pc_2lWMYqdHzW">
+                  <ce:text>normal cellular prion protein</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_OW7SJqEUPq">
+               <ce:text>QC</ce:text>
+               <ce:keyword id="pc_yeCYg6BPvP">
+                  <ce:text>quality control</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_t7qB17eGYx">
+               <ce:text>UPRER</ce:text>
+               <ce:keyword id="pc_reD8FgbJDz">
+                  <ce:text>endoplasmic reticulum unfolded protein response</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_9WHPNeZ2Kd">
+               <ce:text>UPRmt</ce:text>
+               <ce:keyword id="pc_xFB98N4hcU">
+                  <ce:text>mitochondrial unfolded protein response</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">PRNP</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">PrP<ce:sup loc="post">c</ce:sup>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">APP</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">HTRA2</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">CD24</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">cancer cells</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">proteostasis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">pEBVsiRNA</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0009">
+               <ce:text id="cetext0010">RNA interference</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0010">
+               <ce:text id="cetext0011">CRISPR-Cas9</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

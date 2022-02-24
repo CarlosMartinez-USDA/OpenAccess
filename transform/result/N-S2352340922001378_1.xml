@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Region-based Annotation Data of Fire Images for Intelligent Surveillance System</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given"/>
+      <namePart type="family">Wahyono</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2639-8411</nameIdentifier>
+      <displayForm>Wahyono, </displayForm>
+      <affiliation>Department of Computer Science and Electronics, Universitas Gadjah Mada, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andi</namePart>
+      <namePart type="family">Dharmawan</namePart>
+      <displayForm>Dharmawan, Andi</displayForm>
+      <affiliation>Department of Computer Science and Electronics, Universitas Gadjah Mada, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Agus</namePart>
+      <namePart type="family">Harjoko</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8677-9593</nameIdentifier>
+      <displayForm>Harjoko, Agus</displayForm>
+      <affiliation>Department of Computer Science and Electronics, Universitas Gadjah Mada, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given"/>
+      <namePart type="family">Chrystian</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9101-8358</nameIdentifier>
+      <displayForm>Chrystian, </displayForm>
+      <affiliation>Department of Computer Science and Electronics, Universitas Gadjah Mada, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Faisal Dharma</namePart>
+      <namePart type="family">Adhinata</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2624-173X</nameIdentifier>
+      <displayForm>Adhinata, Faisal Dharma</displayForm>
+      <affiliation>Institut Teknologi Telkom Purwokerto, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper presents fire segmentation annotation data on 12 commonly used and publicly available “VisiFire Dataset” videos from http://signal.ee.bilkent.edu.tr/VisiFire/. This annotations dataset was obtained by per-frame, manual hand annotation over the fire region with 2,684 total annotated frames. Since this annotation provides per-frame segmentation data, it offers a new and unique fire motion feature to the existing video, unlike other fire segmentation data that are collected from different still images. The annotations dataset also provides ground truth for segmentation task on videos. With segmentation task, it offers better insight on how well a machine learning model understood, not only detecting whether a fire is present, but also its exact location by calculating metrics such as Intersection over Union (IoU) with this annotations data. This annotations data is a tremendously useful addition to train, develop, and create a much better smart surveillance system for early detection in high-risk fire hotspots area. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Fire</topic>
+   </subject>
+   <subject>
+      <topic>Intelligent Surveillance System</topic>
+   </subject>
+   <subject>
+      <topic>Computer Vision</topic>
+   </subject>
+   <subject>
+      <topic>Segmentation</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">02</text>
+         <text type="day">02</text>
+         <extent unit="pages">
+            <start>107925</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107925</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107925</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00137-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-02-02"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001378/S2352340922001378.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

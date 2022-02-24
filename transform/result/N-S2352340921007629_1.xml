@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>The first transcriptome sequencing and data analysis of the Javan mahseer (Tor tambra)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Melinda Mei Lin</namePart>
+      <namePart type="family">Lau</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7078-5013</nameIdentifier>
+      <displayForm>Lau, Melinda Mei Lin</displayForm>
+      <affiliation>Faculty of Resource Science and Technology, Universiti Malaysia Sarawak, Kota Samarahan, Sarawak 94300, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Leonard Whye Kit</namePart>
+      <namePart type="family">Lim</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4079-9630</nameIdentifier>
+      <displayForm>Lim, Leonard Whye Kit</displayForm>
+      <affiliation>Faculty of Resource Science and Technology, Universiti Malaysia Sarawak, Kota Samarahan, Sarawak 94300, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hung Hui</namePart>
+      <namePart type="family">Chung</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7045-9701</nameIdentifier>
+      <displayForm>Chung, Hung Hui</displayForm>
+      <affiliation>Faculty of Resource Science and Technology, Universiti Malaysia Sarawak, Kota Samarahan, Sarawak 94300, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Han Ming</namePart>
+      <namePart type="family">Gan</namePart>
+      <displayForm>Gan, Han Ming</displayForm>
+      <affiliation>GeneSEQ Sdn Bhd, Bandar Bukit Beruntung, Rawang, Selangor 48300, Malaysia</affiliation>
+      <affiliation>Center for Integrative Ecology, School of Life and Environmental Sciences, Deakin University, Geelong, Victoria, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The Javan mahseer (Tor tambra) is one of the most valuable freshwater fish found in Tor species. To date, other than mitogenomic data (BioProject: PRJNA422829), genomic and transcriptomic resources for this species are still lacking which is crucial to understand the molecular mechanisms associated with important traits such as growth, immune response, reproduction and sex determination. For the first time, we sequenced the transcriptome from a whole juvenile fish using Illumina NovaSEQ6000 generating raw paired-end reads. De novo transcriptome assembly generated a draft transcriptome (BUSCO5 completeness of 91.2% [Actinopterygii_odb10 database]) consisting of 259,403 putative transcripts with a total and N50 length of 333,881,215 bp and 2283 bp, respectively. A total count of 77,503 non-redundant protein coding sequences were predicted from the transcripts and used for functional annotation. We mapped the predicted proteins to 304 known KEGG pathways with signal transduction cluster having the highest representation followed by immune system and endocrine system. In addition, transcripts exhibiting significant similarity to previously published growth-and immune-related genes were identified which will facilitate future molecular breeding of Tor tambra. </abstract>
+   <subject>
+      <topic>Transcriptome</topic>
+   </subject>
+   <subject>
+      <topic>Unigenes</topic>
+   </subject>
+   <subject>
+      <topic>Gene annotation</topic>
+   </subject>
+   <subject>
+      <topic>Tor tambra</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107481</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107481</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107481</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00762-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-12"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007629/S2352340921007629.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on Connexin 43 hemichannels regulation of cellular redox in lens</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Yumeng</namePart>
+      <namePart type="family">Quan</namePart>
+      <displayForm>Quan, Yumeng</displayForm>
+      <affiliation>Department of Biochemistry and Structural Biology, University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, TX 78229-3900, USA</affiliation>
+      <affiliation>Department of Ophthalmology, First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yu</namePart>
+      <namePart type="family">Du</namePart>
+      <displayForm>Du, Yu</displayForm>
+      <affiliation>Department of Biochemistry and Structural Biology, University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, TX 78229-3900, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Changrui</namePart>
+      <namePart type="family">Wu</namePart>
+      <displayForm>Wu, Changrui</displayForm>
+      <affiliation>Department of Biochemistry and Structural Biology, University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, TX 78229-3900, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sumin</namePart>
+      <namePart type="family">Gu</namePart>
+      <displayForm>Gu, Sumin</displayForm>
+      <affiliation>Department of Biochemistry and Structural Biology, University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, TX 78229-3900, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jean X.</namePart>
+      <namePart type="family">Jiang</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2185-5716</nameIdentifier>
+      <displayForm>Jiang, Jean X.</displayForm>
+      <affiliation>Department of Biochemistry and Structural Biology, University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, TX 78229-3900, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article describes a dataset that is related to the research paper “Connexin hemichannels regulate redox potential via metabolite exchange and protect lens against cellular oxidative damage”. Growing evidence demonstrates that oxidative stress is a key event in cataract formation. Hemichannels (HCs) formed by Connexin (Cx) 43, a Cx subtype only present in the epithelium of lens tissue, mediate the exchange of small molecules between the intracellular and extracellular environments, including redox-related metabolic molecules, such as glutathione (GSH) and reactive oxygen species (ROS). Here, we used a Cx43 heterozygous mouse model, Cx43E2 antibody (a specific Cx43 HC blocker), and knocked down Cx43 expression by siRNA in human lens epithelial HLE-B3 cells to assess the oxidative response of Cx43 HCs to H₂O₂ and UVB radiation. Western blot analysis of heterozygous Cx43-null (Cx43⁺/⁻) mouse lenses showed the haploinsufficiency of Cx43 protein. We further assessed anti-oxidative gene expression in response to H₂O₂ and UVB radiation treatment in the Cx43-deficient lens epithelial cells. This dataset will be useful for understanding the critical role of Cx43 HCs in maintaining redox homeostasis in the lens under oxidative stress. </abstract>
+   <subject>
+      <topic>Connexin</topic>
+   </subject>
+   <subject>
+      <topic>Hemichannel</topic>
+   </subject>
+   <subject>
+      <topic>Redox metabolite</topic>
+   </subject>
+   <subject>
+      <topic>Redox regulation</topic>
+   </subject>
+   <subject>
+      <topic>Lens</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107572</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107572</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107572</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00847-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-10"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008477/S2352340921008477.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

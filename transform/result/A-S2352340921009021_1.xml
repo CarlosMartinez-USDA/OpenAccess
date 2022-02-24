@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107627">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset of experimental measurements for the Orion beam structure</dct:title>
+         <dct:creator>Rafael de Oliveira Teloli</dct:creator>
+         <dct:creator>Pauline Butaud</dct:creator>
+         <dct:creator>Gaël Chevallier</dct:creator>
+         <dct:creator>Samuel da Silva</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Orion beam</rdf:li>
+               <rdf:li>Frictional damping</rdf:li>
+               <rdf:li>Experimental practices</rdf:li>
+               <rdf:li>Contact mechanics</rdf:li>
+               <rdf:li>Bolted joint</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107627</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107627</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107627</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107627</dct:identifier>
+         <bam:articleNumber>107627</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-19T20:24:15Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107627</ja:aid>
+         <ce:article-number>107627</ce:article-number>
+         <ce:pii>S2352-3409(21)00902-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107627</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="doc0001">
+               <ce:pii>S0888-3270(21)00549-5</ce:pii>
+               <ce:doi>10.1016/j.ymssp.2021.108172</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:article-footnote>
+            <ce:label>☆</ce:label>
+            <ce:note-para id="np0001" view="all">Orion Beam Dataset.</ce:note-para>
+         </ce:article-footnote>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">Dataset of experimental measurements for the Orion beam structure</ce:title>
+         <ce:short-title id="stitle0010">Dataset of experimental measurements for the Orion beam structure</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009021-5af3572cfb1ac771334e30dfaf2491e7"
+                       orcid="0000-0002-7658-5514">
+               <ce:given-name>Rafael de Oliveira</ce:given-name>
+               <ce:surname>Teloli</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:rafael.teloli@unesp.br"
+                             id="ead0001">rafael.teloli@unesp.br</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009021-db56f82a48adfbf45796ffadbaf9afe9"
+                       orcid="0000-0002-0803-805X">
+               <ce:given-name>Pauline</ce:given-name>
+               <ce:surname>Butaud</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009021-bd5ae98555f0d72fc2df92b20c65db85">
+               <ce:given-name>Gaël</ce:given-name>
+               <ce:surname>Chevallier</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009021-a2d385cbab310b1514f9c1ffa6921089"
+                       orcid="0000-0001-6430-3746">
+               <ce:given-name>Samuel</ce:given-name>
+               <ce:surname>da Silva</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009021-1c55db523913fd60d97ba4b1412783fb">
+               <ce:label>a</ce:label>
+               <ce:textfn id="textfn0002">UNESP - Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira, Departamento de Engenharia Mecânica, Av. Brasil, 56, Ilha Solteira, SP 15385-000, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>UNESP - Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira</sa:organization>
+                  <sa:organization>Departamento de Engenharia Mecânica</sa:organization>
+                  <sa:address-line>Av. Brasil, 56, Ilha Solteira</sa:address-line>
+                  <sa:state>SP</sa:state>
+                  <sa:postal-code>15385-000</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">UNESP - Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira, Departamento de Engenharia Mecânica, Av. Brasil, 56, Ilha Solteira, SP 15385-000, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009021-c85ca2422c5deeecd73ad49e42d52abb">
+               <ce:label>b</ce:label>
+               <ce:textfn id="textfn0003">Univ. Bourgogne Franche-Comté, FEMTO-ST Institute, CNRS/UFC/ENSMM/UTBM, Department of Applied Mechanics, 24 chemin de l’Epitaphe, Besancon 25000, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Univ. Bourgogne Franche-Comté, FEMTO-ST Institute, CNRS/UFC/ENSMM/UTBM</sa:organization>
+                  <sa:organization>Department of Applied Mechanics</sa:organization>
+                  <sa:address-line>24 chemin de l’Epitaphe</sa:address-line>
+                  <sa:city>Besancon</sa:city>
+                  <sa:postal-code>25000</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0002">Univ. Bourgogne Franche-Comté, FEMTO-ST Institute, CNRS/UFC/ENSMM/UTBM, Department of Applied Mechanics, 24 chemin de l’Epitaphe, Besancon 25000, France</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="27" month="8" year="2021"/>
+         <ce:date-revised day="5" month="11" year="2021"/>
+         <ce:date-accepted day="19" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">This data article comprises experimental data to investigate the nonlinear dynamic behavior of the Orion beam structure, which consists of two duraluminum beams assembled by bolted joints. To retain contact on a small area between both beams, this new lap-joint configuration proposes contact patches at each bolt connection. The Orion beam suggests an assembly configuration that associates bolts dedicated to ‘static’ functions and to those to perform ‘damping’ functions. This ensures a significant increase in the structural damping without degrading the structural stiffness. Experiments have been performed on the laboratory ple Vibration and Acoustic, located at FEMTO-ST Institute, CNRS/UFC/ENSMM/UTBM, Department of Applied Mechanics, 24 chemin de lEpitaphe, 25000 Besanon, France.</ce:simple-para>
+               <ce:simple-para id="sp0002" view="all">This data aim to provide the geometrical step and all the experimental measurements performed on our lap-joint for several excitation amplitudes and tightening torques, as far as possible and with the degree of uncertainties of the measurements. By doing so, we intend to provide experimental data, as precise and reliable as possible, which are required to progress on the numerical modelling of the dry friction damping in assembly structures.</ce:simple-para>
+               <ce:simple-para id="sp0003" view="all">This Data in Brief article is an additional research item alongside the following paper published in the Mechanical Systems and Signal Processing journal: R. O. Teloli, P. Butaud, G. Chevallier and S. da Silva, Good practices for designing and experimental testing of dynamically excited jointed structures: the Orion beam.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">Orion beam</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Frictional damping</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Experimental practices</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Contact mechanics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">Bolted joint</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

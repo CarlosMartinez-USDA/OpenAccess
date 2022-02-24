@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107572">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on Connexin 43 hemichannels regulation of cellular redox in lens</dct:title>
+         <dct:creator>Yumeng Quan</dct:creator>
+         <dct:creator>Yu Du</dct:creator>
+         <dct:creator>Changrui Wu</dct:creator>
+         <dct:creator>Sumin Gu</dct:creator>
+         <dct:creator>Jean X. Jiang</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Connexin</rdf:li>
+               <rdf:li>Hemichannel</rdf:li>
+               <rdf:li>Redox metabolite</rdf:li>
+               <rdf:li>Redox regulation</rdf:li>
+               <rdf:li>Lens</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107572</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107572</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107572</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107572</dct:identifier>
+         <bam:articleNumber>107572</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-10T12:30:54Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>National Institutes of Health</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107572</ja:aid>
+         <ce:article-number>107572</ce:article-number>
+         <ce:pii>S2352-3409(21)00847-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107572</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S2213-2317(21)00261-5</ce:pii>
+               <ce:doi>10.1016/j.redox.2021.102102</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data on Connexin 43 hemichannels regulation of cellular redox in lens</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008477-463c66fb41748dc5470656392f1e3d77">
+               <ce:given-name>Yumeng</ce:given-name>
+               <ce:surname>Quan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008477-cbda654b89a14029134283df18964c41">
+               <ce:given-name>Yu</ce:given-name>
+               <ce:surname>Du</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008477-ca9347148e7e232958746ee593ee16e2">
+               <ce:given-name>Changrui</ce:given-name>
+               <ce:surname>Wu</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008477-dd46f2b68064fd44562fab6f0148fa03">
+               <ce:given-name>Sumin</ce:given-name>
+               <ce:surname>Gu</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008477-c7e56a3df743cfb10da7332d2311baf4"
+                       orcid="0000-0002-2185-5716">
+               <ce:given-name>Jean X.</ce:given-name>
+               <ce:surname>Jiang</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:jiangj@uthscsa.edu">jiangj@uthscsa.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008477-3d731daf27f30d09cacf19a515bb7ff5">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Biochemistry and Structural Biology, University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, TX 78229-3900, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biochemistry and Structural Biology</sa:organization>
+                  <sa:organization>University of Texas Health Science Center</sa:organization>
+                  <sa:address-line>7703 Floyd Curl Drive</sa:address-line>
+                  <sa:city>San Antonio</sa:city>
+                  <sa:state>TX</sa:state>
+                  <sa:postal-code>78229-3900</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Biochemistry and Structural Biology, University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, TX 78229-3900, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008477-36bf26aa91846a89fed3adf7b58a1f66">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Ophthalmology, First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Ophthalmology</sa:organization>
+                  <sa:organization>First Affiliated Hospital of Xi'an Jiaotong University</sa:organization>
+                  <sa:city>Xi'an</sa:city>
+                  <sa:state>Shaanxi</sa:state>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Ophthalmology, First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="13" month="10" year="2021"/>
+         <ce:date-revised day="6" month="11" year="2021"/>
+         <ce:date-accepted day="9" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">This article describes a dataset that is related to the research paper “Connexin hemichannels regulate redox potential via metabolite exchange and protect lens against cellular oxidative damage”. Growing evidence demonstrates that oxidative stress is a key event in cataract formation. Hemichannels (HCs) formed by Connexin (Cx) 43, a Cx subtype only present in the epithelium of lens tissue, mediate the exchange of small molecules between the intracellular and extracellular environments, including redox-related metabolic molecules, such as glutathione (GSH) and reactive oxygen species (ROS). Here, we used a Cx43 heterozygous mouse model, Cx43E2 antibody (a specific Cx43 HC blocker), and knocked down Cx43 expression by siRNA in human lens epithelial HLE-B3 cells to assess the oxidative response of Cx43 HCs to H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> and UVB radiation. Western blot analysis of heterozygous Cx43-null (Cx43<ce:sup loc="post">+/−</ce:sup>) mouse lenses showed the haploinsufficiency of Cx43 protein. We further assessed anti-oxidative gene expression in response to H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> and UVB radiation treatment in the Cx43-deficient lens epithelial cells. This dataset will be useful for understanding the critical role of Cx43 HCs in maintaining redox homeostasis in the lens under oxidative stress.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Connexin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Hemichannel</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Redox metabolite</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Redox regulation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Lens</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

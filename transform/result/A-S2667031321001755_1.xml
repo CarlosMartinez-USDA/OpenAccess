@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100193">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Panchvalkal (polyherbal formulation) mitigates STZ induced type 2 DM by modulating the expression of hexokinase (HX), lactate dehydrogenase (LDH), triphosphate isomerase (TPI)</dct:title>
+         <dct:creator>Pratistha Singh</dct:creator>
+         <dct:creator>Khushi Verma</dct:creator>
+         <dct:creator>Jyoti Dixit</dct:creator>
+         <dct:creator>Vipin Rai</dct:creator>
+         <dct:creator>Gopeshwar Narayan</dct:creator>
+         <dct:creator>Kavindra Nath Tiwari</dct:creator>
+         <dct:creator>Anil Kumar Singh</dct:creator>
+         <dct:creator>Jasmeet Singh</dct:creator>
+         <dct:creator>Kumar Ashutosh</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Panchvalkal</rdf:li>
+               <rdf:li>Diabetes Mellitus</rdf:li>
+               <rdf:li>RT PCR</rdf:li>
+               <rdf:li>Hexokinase</rdf:li>
+               <rdf:li>Lactate dehydrogenase</rdf:li>
+               <rdf:li>Triphosphate isomerase</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100193</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100193</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100193</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100193</dct:identifier>
+         <bam:articleNumber>100193</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-02T23:20:48Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>India: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100193</ja:aid>
+         <ce:article-number>100193</ce:article-number>
+         <ce:pii>S2667-0313(21)00175-5</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100193</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Panchvalkal (polyherbal formulation) mitigates STZ induced type 2 DM by modulating the expression of hexokinase (HX), lactate dehydrogenase (LDH), triphosphate isomerase (TPI)</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001755-2c7682bfb1183b9e464048001241d67e">
+               <ce:given-name>Pratistha</ce:given-name>
+               <ce:surname>Singh</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:psingh30.bhu@gmail.com">psingh30.bhu@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001755-e4502b17885998924a63e62852f4e367">
+               <ce:given-name>Khushi</ce:given-name>
+               <ce:surname>Verma</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001755-76d6ee1c8fcbf7e2bf43c8eaa3775294">
+               <ce:given-name>Jyoti</ce:given-name>
+               <ce:surname>Dixit</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001755-b4ec2a4d548114f95779504bc507f795">
+               <ce:given-name>Vipin</ce:given-name>
+               <ce:surname>Rai</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001755-7061ddadd1ecb56fa318106cbbef08b8">
+               <ce:given-name>Gopeshwar</ce:given-name>
+               <ce:surname>Narayan</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031321001755-2edae6d8a7140e516cbd836f83185ed3">
+               <ce:given-name>Kavindra Nath</ce:given-name>
+               <ce:surname>Tiwari</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667031321001755-eb0a94b5bc9fde9f0130e88cc5d4e20a">
+               <ce:given-name>Anil Kumar</ce:given-name>
+               <ce:surname>Singh</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667031321001755-a2e1eff54296ce5ea0d8cc0c19c3d1d9">
+               <ce:given-name>Jasmeet</ce:given-name>
+               <ce:surname>Singh</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667031321001755-4261bac69987cf10b1e1c4ba4501614d">
+               <ce:given-name>Kumar</ce:given-name>
+               <ce:surname>Ashutosh</ce:surname>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001755-0a0bc8457b716f44291cf52f6eb5b7ab">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Dravyaguna, Faculty of Ayurveda, Institute of Medical Sciences, Banaras Hindu University, Varanasi 221005, U.P, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Dravyaguna, Faculty of Ayurveda</sa:organization>
+                  <sa:organization>Institute of Medical Sciences, Banaras Hindu University</sa:organization>
+                  <sa:address-line>Varanasi 221005</sa:address-line>
+                  <sa:city>U.P</sa:city>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Dravyaguna, Faculty of Ayurveda, Institute of Medical Sciences, Banaras Hindu University, Varanasi 221005, U.P, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001755-c6e1e9fc9a0d26ca248527e751f82702">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of General Surgery, Institute of Medical Sciences, Banaras Hindu University, Varanasi 221005, U.P, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of General Surgery</sa:organization>
+                  <sa:organization>Institute of Medical Sciences</sa:organization>
+                  <sa:organization>Banaras Hindu University</sa:organization>
+                  <sa:address-line>Varanasi 221005</sa:address-line>
+                  <sa:city>U.P</sa:city>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of General Surgery, Institute of Medical Sciences, Banaras Hindu University, Varanasi 221005, U.P, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001755-f18158ff48c2e49e61768799ca437388">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Botany, M.M.V., Banaras Hindu University, Varanasi 221005, U.P, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Botany</sa:organization>
+                  <sa:organization>M.M.V., Banaras Hindu University</sa:organization>
+                  <sa:address-line>Varanasi 221005</sa:address-line>
+                  <sa:city>U.P</sa:city>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Botany, M.M.V., Banaras Hindu University, Varanasi 221005, U.P, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031321001755-932df7f3edf2dd092773e46439192dcf">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Biochemistry, Institute of Science, Banaras Hindu University, Varanasi 221005, U.P, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biochemistry</sa:organization>
+                  <sa:organization>Institute of Science</sa:organization>
+                  <sa:organization>Banaras Hindu University</sa:organization>
+                  <sa:address-line>Varanasi 221005</sa:address-line>
+                  <sa:city>U.P</sa:city>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Biochemistry, Institute of Science, Banaras Hindu University, Varanasi 221005, U.P, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667031321001755-448e071a95143bfc069ef2bb7c2921f9">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Department of Molecular &amp; Human Genetics, Institute of Science, Banaras Hindu University, Varanasi 221005, U.P, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Molecular &amp; Human Genetics</sa:organization>
+                  <sa:organization>Institute of Science</sa:organization>
+                  <sa:organization>Banaras Hindu University</sa:organization>
+                  <sa:address-line>Varanasi 221005</sa:address-line>
+                  <sa:city>U.P</sa:city>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eDepartment of Molecular &amp; Human Genetics, Institute of Science, Banaras Hindu University, Varanasi 221005, U.P, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2667031321001755-276e6b99b53887dd0c1dce5ab217b58c">
+               <ce:label>f</ce:label>
+               <ce:textfn id="cetextfn0005a">Department of Pharmacology, Institute of Medical Sciences, Banaras Hindu University, Varanasi, 221005, U.P, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacology, Institute of Medical Sciences</sa:organization>
+                  <sa:organization>Banaras Hindu University</sa:organization>
+                  <sa:address-line>Varanasi 221005</sa:address-line>
+                  <sa:city>U.P</sa:city>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005ggf">fDepartment of Pharmacology, Institute of Medical Sciences, Banaras Hindu University, Varanasi, 221005, U.P, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Dravyaguna, Faculty of Ayurveda, Institute of Medical Science, Banaras Hindu University, Varanasi 201005, Uttar Pradesh, India.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Dravyaguna, Faculty of Ayurveda</sa:organization>
+                  <sa:organization>Institute of Medical Science, Banaras Hindu University</sa:organization>
+                  <sa:address-line>Varanasi 201005</sa:address-line>
+                  <sa:city>Uttar Pradesh</sa:city>
+                  <sa:country>India.</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="29" month="8" year="2021"/>
+         <ce:date-revised day="22" month="11" year="2021"/>
+         <ce:date-accepted day="2" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara013" view="all">The present study was designed to evaluate the potentiality of Panchvalkal (Ayurvedic formulation) for the treatment of type 2 Diabetes Mellitus. Panchvalkal is polyherbal formulation of bark <ce:italic>Ficus benghalensis</ce:italic> L., <ce:italic>Ficus racemosa</ce:italic> L., <ce:italic>Ficus religiosa</ce:italic> L., <ce:italic>Thespesia populnea</ce:italic> L. and <ce:italic>Ficus lacor</ce:italic> Buch-Ham. The formulation was traditionally used as anti-inflammatory, antibacterial and to treat ulcers, wounds, leucorrhoea and other vaginal diseases.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:section-title id="cesectitle0003">Objective</ce:section-title>
+               <ce:simple-para id="spara014" view="all">The current study was hypothesized to investigate Panchvalkal aqueous extract protective property against streptozotocin induced Diabetes Mellitus Swiss albino rats and its effects on HX, LDH and TPI genes involved in glycolysis pathway.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Method</ce:section-title>
+               <ce:simple-para id="spara015" view="all">Aqueous extract of the bark of five medicinal plants were prepared. The aqueous extract of Panchvalkal was analyzed for antioxidant property (TF, TP, DPPH and RP). Diabetes was induced in Swiss albino rats through streptozotocin (60 mgKg<ce:sup loc="post">-1</ce:sup> bw i.p.) administration. The extract (500 mgKg<ce:sup loc="post">-1</ce:sup> bw) and glibenclamide (300 mgKg<ce:sup loc="post">-1</ce:sup> bw) alone and in combination was administrated orally to specific group of animals up to 28 days. Animals were scarified, blood was collected, and liver excised. cDNA was prepared from RNA isolated from the liver. Expression of HX, LDH and TPI were studied through real-time PCR analysis.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Result</ce:section-title>
+               <ce:simple-para id="spara016" view="all">Panchvalkal aqueous extract was enriched with phenol content (82.84 mg GAE <ce:italic>G</ce:italic>
+                  <ce:sup loc="post">−1</ce:sup>) and flavonoid content (283.52 mg RE <ce:italic>G</ce:italic>
+                  <ce:sup loc="post">−1</ce:sup>) and showed effective antioxidant property. No sign of toxicity and mortality in rats were recorded during toxicity assessment. Rats administrated with Panchvalkal 500 mgKg<ce:sup loc="post">-1</ce:sup> bw showed significant reduction in blood glucose, total cholesterol, triglycerides, LDL and increase in HDL level. Also the plasma glucose level was significantly (<ce:italic>p</ce:italic> &lt; 0.05) reduced in comparison to diabetic control. Significant increase in enzymes level such as <ce:bold>SGOT and SGPT</ce:bold> was observed. Panchvalkal modulated the expression level of Hexokinase (HX), Lactate dehydrogenase (LDH) and Triphosphate isomerase (TPI) genes in STZ induced T2DM.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusion</ce:section-title>
+               <ce:simple-para id="spara017" view="all">The present study showed that Panchvalkal acts effectively in modulating the mRNA expression of HX, LDH and TPI genes involved in the glycolysis pathway and other metabolic reactions. It significantly increased the glucose uptake and improved the glucose metabolism in T2DM.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0007">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0007" view="all">
+               <ce:simple-para id="spara018" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0008">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Panchvalkal</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Diabetes Mellitus</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">RT PCR</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Hexokinase</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Lactate dehydrogenase</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Triphosphate isomerase</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

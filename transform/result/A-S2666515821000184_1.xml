@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.cris.2021.100026">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Nutritional phenotype underlines the performance trade-offs of Drosophila suzukii on different fruit diets</dct:title>
+         <dct:creator>Runhang Shu</dct:creator>
+         <dct:creator>Laurice Uy</dct:creator>
+         <dct:creator>Adam Chun-Nin Wong</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Drosophila</rdf:li>
+               <rdf:li>nutritional ecology</rdf:li>
+               <rdf:li>diet</rdf:li>
+               <rdf:li>trade-offs</rdf:li>
+               <rdf:li>oviposition</rdf:li>
+               <rdf:li>protein leverage</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Current Research in Insect Science, Journal Pre-proof. doi:10.1016/j.cris.2021.100026</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Current Research in Insect Science</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2666-5158</prism:issn>
+         <prism:doi>10.1016/j.cris.2021.100026</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.cris.2021.100026</prism:url>
+         <dct:identifier>doi:10.1016/j.cris.2021.100026</dct:identifier>
+         <bam:articleNumber>100026</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-10T10:21:23Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>CRIS</ja:jid>
+         <ja:aid>100026</ja:aid>
+         <ce:article-number>100026</ce:article-number>
+         <ce:pii>S2666-5158(21)00018-4</ce:pii>
+         <ce:doi>10.1016/j.cris.2021.100026</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Nutritional phenotype underlines the performance trade-offs of <ce:italic>Drosophila suzukii</ce:italic> on different fruit diets</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2666515821000184-e8576066280e983122d3b70914026577">
+               <ce:given-name>Runhang</ce:given-name>
+               <ce:surname>Shu</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2666515821000184-e15a4275c0fa2e5738c2abc9ac148e85">
+               <ce:given-name>Laurice</ce:given-name>
+               <ce:surname>Uy</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2666515821000184-95421e00e6c87657bf5aec2c443273b7"
+                       orcid="0000-0001-9360-429X">
+               <ce:given-name>Adam Chun-Nin</ce:given-name>
+               <ce:surname>Wong</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:adamcnwong@ufl.edu">adamcnwong@ufl.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2666515821000184-c815530428b87f509edff072b2d9a256">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">Entomology and Nematology Department, University of Florida, Gainesville, FL, USA.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Entomology and Nematology Department</sa:organization>
+                  <sa:organization>University of Florida</sa:organization>
+                  <sa:city>Gainesville</sa:city>
+                  <sa:state>FL</sa:state>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1Entomology and Nematology Department, University of Florida, Gainesville, FL, USA.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2666515821000184-8bfca14ed380c698e21e75f633eccdf3">
+               <ce:label>2</ce:label>
+               <ce:textfn id="cetextfn0002">Genetics Institute, University of Florida, Gainesville, FL, USA.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Genetics Institute</sa:organization>
+                  <sa:organization>University of Florida</sa:organization>
+                  <sa:city>Gainesville</sa:city>
+                  <sa:state>FL</sa:state>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2Genetics Institute, University of Florida, Gainesville, FL, USA.</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author, Adam C.N. Wong, 1881 Natural Area Drive, Steinmetz Hall, Gainesville, Fl 32611-0620, Phone: 352-273-3977</ce:text>
+               <sa:affiliation>
+                  <sa:address-line>1881 Natural Area Drive, Steinmetz Hall</sa:address-line>
+                  <sa:city>Gainesville</sa:city>
+                  <sa:state>Fl</sa:state>
+                  <sa:postal-code>32611-0620</sa:postal-code>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="31" month="8" year="2021"/>
+         <ce:date-revised day="8" month="12" year="2021"/>
+         <ce:date-accepted day="10" month="12" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">
+                           <ce:italic>Drosophila suzukii</ce:italic> exhibits contrasting performance trade-offs when confined to fruit diets of different protein-to-sugar ratios.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">These trade-offs can only be established when we examined performance parameters in both larvae and adults.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">The diet-specific nutritional phenotype readily explains the performance trade-offs.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara006" view="all">Animals confined to different dietary conditions often exhibit distinct, sometimes contrasting, nutritional phenotypes and performance outcomes. This is especially true for many oviparous insects whose developmental diets can vary depending on the mother's egg-laying site selection. Much research on the relationship between preference and performance in insects has focused on larval success, which overlooks the complexities of dietary effects on diverse performance parameters across life stages and potential trade-offs between those parameters. Furthermore, the connection between diet-induced nutritional phenotype and performance trade-offs is not well understood. Here, using <ce:italic>Drosophila suzukii</ce:italic>, we quantify multiple performance indices of larvae and adults reared on five host fruits of different protein-to-sugar ratios (P:S) which have previously been shown to differ in attractiveness to fly foraging and oviposition. Our results demonstrate robust diet-specific performance trade-offs, with fly fecundity, larval development time, pupal size, and adult weight superior in flies reared on the high P:S raspberry diet, in contrast to the low P:S grape diet; but the reverse was found in terms of adult starvation resistance. Notably, the contrasting performance trade-offs are readily explained by the fly nutritional phenotype, reflected in the protein and energy (glucose and lipid) contents of flies reared on the two fruits. Together, our results provide experimental evidence for metabolic plasticity of <ce:italic>D. suzukii</ce:italic> reared on different fruits and the possibility of using adult nutritional phenotype as a marker for diet and performance outcomes.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Drosophila</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">nutritional ecology</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">diet</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">trade-offs</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">oviposition</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">protein leverage</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

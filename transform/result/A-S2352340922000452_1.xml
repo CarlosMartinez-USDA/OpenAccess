@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107833">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Bogazici university smartphone accelerometer sensor dataset</dct:title>
+         <dct:creator>Erhan Davarcı</dct:creator>
+         <dct:creator>Emin Anarım</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Smartphones</rdf:li>
+               <rdf:li>Motion sensors</rdf:li>
+               <rdf:li>Accelerometer</rdf:li>
+               <rdf:li>Behavioral biometrics</rdf:li>
+               <rdf:li>Age-group detection</rdf:li>
+               <rdf:li>Gender recognition</rdf:li>
+               <rdf:li>Authentication</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2022.107833</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2022.107833</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107833</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107833</dct:identifier>
+         <bam:articleNumber>107833</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-13T13:25:03Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Turkey: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107833</ja:aid>
+         <ce:article-number>107833</ce:article-number>
+         <ce:pii>S2352-3409(22)00045-2</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107833</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Bogazici university smartphone accelerometer sensor dataset</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000452-9968a818ada646aee7b29ed329bd2019"
+                       orcid="0000-0002-3966-8548">
+               <ce:given-name>Erhan</ce:given-name>
+               <ce:surname>Davarcı</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:erhan.davarci@boun.edu.tr">erhan.davarci@boun.edu.tr</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000452-e2a3f7d313ce962d48f44215f4270d5e">
+               <ce:given-name>Emin</ce:given-name>
+               <ce:surname>Anarım</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000452-cc165af3e6f9afd919e5511e8e11ff17">
+               <ce:textfn id="cetextfn0001">Bogazici University Electrical and Electronics Engineering, Istanbul, Turkey</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Bogazici University Electrical and Electronics Engineering</sa:organization>
+                  <sa:state>Istanbul</sa:state>
+                  <sa:country>Turkey</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Bogazici University Electrical and Electronics Engineering, Istanbul, Turkey</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="7" month="1" year="2022"/>
+         <ce:date-accepted day="13" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">Mobile devices especially smartphones have gained high popularity and become a part of daily life in recent years. Therefore, there are many studies that investigate users' interactions with smartphones and try to extract meaningful information from various inputs. Actually, the main motivation behind these studies is the behavioral differences of users in their interactions with smartphones. In these studies, motion sensors in devices such as accelerometer and gyroscope are widely used. Data obtained from motion sensors allows to detect information such as age-group, gender, activity type, identity of users. In this context, we develop an Android application that gathers accelerometer sensor data while users perform different activities. This application records all accelerometer data and touch event information generated while users are using their devices. Then, we perform two experiments and collect two different data using this application. In the first experiment, we collect data from 107 child users and 100 adult users to analyze the impact of different age-groups' behavior on sensor data. This dataset includes more than 11.000 taps data for child and adult users, in total. In the second experiment, data is collected from 60 female and 60 male users for different activities like sitting and walking. There are more than 6.000 taps data for sitting and walking scenarios separately in the second dataset. This dataset makes it possible to analyze the changes created by different gender and activity types in the sensor data. These data can be used for behavioral biometric analyses on smartphones such as user age-group and gender detection, user identification and authentication.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Smartphones</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Motion sensors</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Accelerometer</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Behavioral biometrics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Age-group detection</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Gender recognition</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Authentication</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

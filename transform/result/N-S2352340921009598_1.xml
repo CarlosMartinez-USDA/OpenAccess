@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on the effects of ECM rigidity on actomyosin contractility and invadopodia activity in individual versus pairs of head and neck squamous cell carcinoma cells</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Rachel</namePart>
+      <namePart type="family">Jerrell</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0224-0481</nameIdentifier>
+      <displayForm>Jerrell, Rachel</displayForm>
+      <affiliation>Department of Otolaryngology, Vanderbilt University Medical Center, 522 Preston Research Building, 2220 Pierce Avenue, Nashville, TN 37232, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mitchell</namePart>
+      <namePart type="family">Leih</namePart>
+      <displayForm>Leih, Mitchell</displayForm>
+      <affiliation>Department of Otolaryngology, Vanderbilt University Medical Center, 522 Preston Research Building, 2220 Pierce Avenue, Nashville, TN 37232, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Aron</namePart>
+      <namePart type="family">Parekh</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6046-6003</nameIdentifier>
+      <displayForm>Parekh, Aron</displayForm>
+      <affiliation>Department of Otolaryngology, Vanderbilt University Medical Center, 522 Preston Research Building, 2220 Pierce Avenue, Nashville, TN 37232, USA</affiliation>
+      <affiliation>Vanderbilt-Ingram Cancer Center, Vanderbilt University Medical Center, USA</affiliation>
+      <affiliation>Department of Biomedical Engineering, Vanderbilt University, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Migration through the extracellular matrix (ECM) is essential for cancer cells to escape the primary tumor and invade neighboring tissues with the potential for metastasis [1]. To penetrate tissue barriers, migrating cancer cells degrade the ECM with actin-rich membrane protrusions called invadopodia [2]. We have previously found that invadopodial ECM degradation is regulated by ECM rigidity in a process mediated by contractile forces in individual head and neck squamous cell carcinoma (HNSCC) cells [3,4]. However, cancer cells often migrate together and interact with each other to alter their actomyosin contractility in response to the biomechanical properties of the ECM [5]. Therefore, we tested whether ECM rigidity promotes biomechanical interactions between cancer cells to enhance proteolytic activity. Using a minimal model of two HNSCC cells in physical contact, we provide data here that actomyosin contractility, invadopodia formation, and ECM degradation increase in response to ECM rigidity when cells are in pairs versus individual cells using traction force and invadopodia assays. </abstract>
+   <subject>
+      <topic>Cancer</topic>
+   </subject>
+   <subject>
+      <topic>Invasion</topic>
+   </subject>
+   <subject>
+      <topic>Actomyosin contractility</topic>
+   </subject>
+   <subject>
+      <topic>Invadopodia</topic>
+   </subject>
+   <subject>
+      <topic>Rigidity</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107684</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107684</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107684</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00959-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-04"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009598/S2352340921009598.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

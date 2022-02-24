@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107854">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data for evaluating mine roof stability via acoustic impact</dct:title>
+         <dct:creator>Travis Wiens</dct:creator>
+         <dct:creator>Shahriar Islam</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>mining</rdf:li>
+               <rdf:li>safety</rdf:li>
+               <rdf:li>acoustics</rdf:li>
+               <rdf:li>impact</rdf:li>
+               <rdf:li>geology</rdf:li>
+               <rdf:li>rock mechanics</rdf:li>
+               <rdf:li>potash</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Journal Pre-proof. doi:10.1016/j.dib.2022.107854</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107854</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107854</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107854</dct:identifier>
+         <bam:articleNumber>107854</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-18T15:25:08Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+               <oa:sponsorName>CRKN: Canadian Research Knowledge Network2021</oa:sponsorName>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107854</ja:aid>
+         <ce:article-number>107854</ce:article-number>
+         <ce:pii>S2352-3409(22)00066-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107854</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1365-1609(21)00296-3</ce:pii>
+               <ce:doi>10.1016/j.ijrmms.2021.104912</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data for evaluating mine roof stability via acoustic impact</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092200066X-d00c09f312fe03c91d0f69bceb09dcb5">
+               <ce:given-name>Travis</ce:given-name>
+               <ce:surname>Wiens</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:t.wiens@usask.ca">t.wiens@usask.ca</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092200066X-079b435c1ae6dfbd11e746b63e3fbe48">
+               <ce:given-name>Shahriar</ce:given-name>
+               <ce:surname>Islam</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092200066X-2725cd9a07f65d6a5cbcbe61c662b45c">
+               <ce:textfn id="cetextfn0001">Department of Mechanical Engineering, University of Saskatchewan, Saskatoon, Sk, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Mechanical Engineering</sa:organization>
+                  <sa:organization>University of Saskatchewan</sa:organization>
+                  <sa:city>Saskatoon</sa:city>
+                  <sa:state>Sk</sa:state>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Mechanical Engineering, University of Saskatchewan, Saskatoon, Sk, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author(s) Travis Wiens</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="1" month="10" year="2021"/>
+         <ce:date-revised day="16" month="12" year="2021"/>
+         <ce:date-accepted day="17" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara001" view="all">The stability of underground mine roofs is critical to the safety of miners. They often assess the condition of the roof by striking it with a long bar and then interpret the sound of the impact as either “tight” (safe) or “drummy” (unsafe). This paper presents a dataset of a 3309 acoustic recordings of such impacts, labelled as by an expert miner as either drummy or tight. Data was recorded from a number of sites within 5 different underground mines, all potash mines in the Canadian province of Saskatchewan .</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">mining</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">safety</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">acoustics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">impact</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">geology</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">rock mechanics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">potash</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

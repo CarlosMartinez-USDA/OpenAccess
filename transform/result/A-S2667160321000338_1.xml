@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100034">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Characterization of the MYB-inhibitory potential of the Pan-HDAC inhibitor LAQ824</dct:title>
+         <dct:creator>Maria V. Yusenko</dct:creator>
+         <dct:creator>Karl-Heinz Klempnauer</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>MYB</rdf:li>
+               <rdf:li>inhibitor</rdf:li>
+               <rdf:li>myeloid leukemia</rdf:li>
+               <rdf:li>LAQ824</rdf:li>
+               <rdf:li>HDAC inhibitor</rdf:li>
+               <rdf:li>p300</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances, Journal Pre-proof. doi:10.1016/j.bbadva.2021.100034</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:doi>10.1016/j.bbadva.2021.100034</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100034</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100034</dct:identifier>
+         <bam:articleNumber>100034</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-13T20:24:22Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Germany: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100034</ja:aid>
+         <ce:article-number>100034</ce:article-number>
+         <ce:pii>S2667-1603(21)00033-8</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100034</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Characterization of the MYB-inhibitory potential of the Pan-HDAC inhibitor LAQ824</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000338-a2f4b54af3fe4033025beae7ea8e912a">
+               <ce:given-name>Maria V.</ce:given-name>
+               <ce:surname>Yusenko</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000338-d56731262a1d91da575241fd19b25c90">
+               <ce:given-name>Karl-Heinz</ce:given-name>
+               <ce:surname>Klempnauer</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:klempna@uni-muenster.de">klempna@uni-muenster.de</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000338-957822abd730f9e6a40c55a94b2af0fa">
+               <ce:textfn id="cetextfn0001">Institute for Biochemistry, Westfälische-Wilhelms-Universität, Münster, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute for Biochemistry, Westfälische-Wilhelms-Universität</sa:organization>
+                  <sa:city>Münster</sa:city>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Institute for Biochemistry, Westfälische-Wilhelms-Universität, Münster, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author: Prof. K.-H. Klempnauer, Institute for Biochemistry, Westfälische-Wilhelms-Universität, D-48149 Muenster, Germany. Tel.: +49-251-8333203, Fax: +49-251-8333206.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Institute for Biochemistry, Westfälische-Wilhelms-Universität</sa:organization>
+                  <sa:city>Muenster</sa:city>
+                  <sa:postal-code>D-48149</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">HDAC inhibitors suppress MYB activity.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">HDAC inhibitor LAQ824 induces MYB degradation in AML cells.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">LAQ824 disturbs the cooperation of MYB and p300.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">LAQ824 induces cell death and differentiation of AML cells.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Activated MYB counteracts effects of LAQ824 in HL60 cells.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara008" view="all">A large body of work has shown that MYB acts as a master transcription regulator in hematopoietic cells and has pinpointed MYB as a potential drug target for acute myeloid leukemia (AML). Here, we have examined the MYB-inhibitory potential of the HDAC inhibitor LAQ824, which was identified in a screen for novel MYB inhibitors. We show that nanomolar concentrations of LAQ824 and the related HDAC inhibitors vorinostat and panobinostat interfere with MYB function in two ways, by inducing its degradation and inhibiting its activity. Reporter assays show that the inhibition of MYB activity by LAQ824 involves the MYB transactivation domain and the cooperation of MYB with co-activator p300, a key MYB interaction partner and driver of MYB activity. In AML cells, LAQ824-induced degradation of MYB is accompanied by expression of myeloid differentiation markers and apoptotic and necrotic cell death. The ability of LAQ824 to inhibit MYB activity is supported by the observation that down-regulation of direct MYB target genes <ce:italic>MYC</ce:italic> and <ce:italic>GFI1</ce:italic> occurs without apparent decrease of MYB expression already after 2 hours of treatment with LAQ824. Furthermore, ectopic expression of an activated version of MYB In HL60 cells counteracts the induction of myeloid differentiation by LAQ824. Overall, our data identify LAQ824 and related HDAC inhibitors as potent MYB-inhibitory agents that exert dual effects on MYB expression and activity in AML cells.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">key-words</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">MYB</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">inhibitor</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">myeloid leukemia</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">LAQ824</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">HDAC inhibitor</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">p300</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

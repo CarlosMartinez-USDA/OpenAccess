@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107537">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on students’ learning experiences in mathematics during the
+                COVID-19 school closure</dct:title>
+         <dct:creator>Angel Mukuka</dct:creator>
+         <dct:creator>Overson Shumba</dct:creator>
+         <dct:creator>Henry M. Mulenga</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>COVID-19</rdf:li>
+               <rdf:li>Mathematics</rdf:li>
+               <rdf:li>Learning experiences</rdf:li>
+               <rdf:li>Remote learning</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021).
+                doi:10.1016/j.dib.2021.107537</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107537</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107537</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107537</dct:identifier>
+         <bam:articleNumber>107537</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-29T13:04:19Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open
+                access article under the CC BY-NC license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107537</ja:aid>
+         <ce:article-number>107537</ce:article-number>
+         <ce:pii>S2352-3409(21)00813-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107537</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S2405-8440(21)01626-1</ce:pii>
+               <ce:doi>10.1016/j.heliyon.2021.e07523</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data on students’ learning experiences in mathematics
+                during the COVID-19 school closure</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008131-2cc26f3ba6cbc40b2fa7132157f04b3e"
+                       orcid="0000-0003-0292-1324">
+               <ce:given-name>Angel</ce:given-name>
+               <ce:surname>Mukuka</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data
+                        curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:mukukaangel@yahoo.com">mukukaangel@yahoo.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008131-2c8c163117a3febcc6ce8a722fc8b62b"
+                       orcid="0000-0001-8234-3450">
+               <ce:given-name>Overson</ce:given-name>
+               <ce:surname>Shumba</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008131-08fbad63970711429c0b90fb0f7e3668">
+               <ce:given-name>Henry M.</ce:given-name>
+               <ce:surname>Mulenga</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008131-bec082d6b3c8018e04f4cde75a4fbc08">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">African Centre of Excellence for Innovative
+                        Teaching and Learning Mathematics and Science, University of Rwanda-College
+                        of Education, Rwanda</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>African Centre of Excellence for Innovative Teaching and
+                            Learning Mathematics and Science</sa:organization>
+                  <sa:organization>University of Rwanda-College of Education</sa:organization>
+                  <sa:country>Rwanda</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aAfrican Centre of Excellence for Innovative
+                        Teaching and Learning Mathematics and Science, University of Rwanda-College
+                        of Education, Rwanda</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008131-5eafc6c85d5b641875718c5f5e17979f">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Mathematics, Science, and Technology
+                        Education, Mukuba University, Kitwe, Zambia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Mathematics, Science, and Technology
+                            Education</sa:organization>
+                  <sa:organization>Mukuba University</sa:organization>
+                  <sa:city>Kitwe</sa:city>
+                  <sa:country>Zambia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Mathematics, Science, and
+                        Technology Education, Mukuba University, Kitwe, Zambia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008131-9868a6c29fcaacc67a923f0486f7be2b">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">School of Mathematics and Natural Sciences,
+                        Copperbelt University, Kitwe, Zambia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Mathematics and Natural
+                            Sciences</sa:organization>
+                  <sa:organization>Copperbelt University</sa:organization>
+                  <sa:city>Kitwe</sa:city>
+                  <sa:country>Zambia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cSchool of Mathematics and Natural Sciences,
+                        Copperbelt University, Kitwe, Zambia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: African Centre of Excellence
+                        for Innovative Teaching and Learning Mathematics and Science, University of
+                        Rwanda-College of Education, Rwanda.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>African Centre of Excellence for Innovative Teaching and
+                            Learning Mathematics and Science</sa:organization>
+                  <sa:organization>University of Rwanda-College of Education</sa:organization>
+                  <sa:country>Rwanda</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="20" month="8" year="2021"/>
+         <ce:date-accepted day="29" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">Like in other education systems around
+                        the world, the COVID-19 school closure in Zambia necessitated a shift from
+                        physical classroom face-to-face interactions to remote learning. However, it
+                        was not clear whether all students’ remained engaged with the
+                        learning of mathematics during that time. The data described in this paper
+                        were collected to support the findings of a descriptive survey that aimed at
+                        finding out Zambian students’ experiences with mathematics remote
+                        learning. A semi-structured questionnaire was used to collect data from 367
+                        secondary school students in Kitwe district. It was anticipated that the
+                        collected information could provide some valuable insights into remote
+                        learning experiences among secondary school students in times of a crisis
+                        such as the COVID-19 outbreak and beyond.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">COVID-19</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Mathematics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Learning experiences</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Remote learning</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

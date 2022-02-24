@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107559">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Administrative healthcare data to predict performance status in lung cancer patients</dct:title>
+         <dct:creator>Anita Andreano</dct:creator>
+         <dct:creator>Antonio Giampiero Russo</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Performance status</rdf:li>
+               <rdf:li>Lung cancer</rdf:li>
+               <rdf:li>Administrative claims</rdf:li>
+               <rdf:li>Healthcare</rdf:li>
+               <rdf:li>Cancer registry</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107559</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107559</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107559</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107559</dct:identifier>
+         <bam:articleNumber>107559</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-05T11:41:28Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107559</ja:aid>
+         <ce:article-number>107559</ce:article-number>
+         <ce:pii>S2352-3409(21)00835-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107559</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="doc0001">
+               <ce:pii>S0169-5002(21)00463-3</ce:pii>
+               <ce:doi>10.1016/j.lungcan.2021.06.019</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Administrative healthcare data to predict performance status in lung cancer patients</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008350-07bf5184fa4be21ac9962850ccaaf9de"
+                       orcid="0000-0002-9667-7010">
+               <ce:given-name>Anita</ce:given-name>
+               <ce:surname>Andreano</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:aandreano@ats-milano.it">aandreano@ats-milano.it</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008350-c9de89250784c7183e35b843d3e928a1"
+                       orcid="0000-0002-5681-5861">
+               <ce:given-name>Antonio Giampiero</ce:given-name>
+               <ce:surname>Russo</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008350-4ff0b6ac29a1c88e9c6498e23eb7891a">
+               <ce:textfn id="cetextfn0001">Epidemiology Unit, Agency for Health Protection (ATS) of Milan, C.so Italia 52, Milano 20122, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Epidemiology Unit</sa:organization>
+                  <sa:organization>Agency for Health Protection (ATS) of Milan</sa:organization>
+                  <sa:address-line>C.so Italia 52</sa:address-line>
+                  <sa:city>Milano</sa:city>
+                  <sa:postal-code>20122</sa:postal-code>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Epidemiology Unit, Agency for Health Protection (ATS) of Milan, C.so Italia 52, Milano 20122, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="28" month="10" year="2021"/>
+         <ce:date-accepted day="5" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">The dataset includes 4488 patients diagnosed with lung cancer (ICD-O 3[3], C33-C34) between 2010–2012 and 2016–2018 in the territory of the Agency for Health Protection (ATS) of Milan, Italy, and selected from its population cancer registry on the basis of availability of the following information: performance status (PS), age, sex, and stage at diagnosis. The dataset includes also the following variables, extracted from the health databases of the ATS and linked to the variables derived from the cancer registry through deterministic record linkage on a unique key (tax code): Charlson comorbidity index, presence of chronic obstructive pulmonary disease, number of hospitalizations, outpatient visits, emergency accesses and prescribed drugs in the previous year, and dispensed durable medical equipment in the previous three years. The dataset was used to develop a logistic prediction model for PS, dichotomized as ‘poor’ (ECOG, 3–5) and ‘good’ (ECOG, 0–2), on the basis of all other variables in the dataset. The prediction model was developed on a 50% random subsample of the described dataset (development dataset, <ce:italic>n</ce:italic> = 2,244) and validated on the remaining half. The area under the curve (AUC) of the model in the development and validation samples were 0.76 and 0.73, respectively. The developed model was used to predict ‘good’ vs. ‘poor’ PS in a sample of patients with advanced lung cancer, from the same registry and years, for which the information was not available. Researchers using registry data, or electronic claims, to perform studies of oncologic therapy effectiveness for lung cancer could use the reported coefficients to predict PS value, dichotomized as ‘good’ or ‘poor’.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Performance status</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Lung cancer</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Administrative claims</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Healthcare</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Cancer registry</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107774">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset of Phytochemical and secondary metabolite profiling of holy basil leaf (Ocimum sanctum Linn) ethanolic extract using spectrophotometry, thin layer chromatography, Fourier transform infrared spectroscopy, and nuclear magnetic resonance</dct:title>
+         <dct:creator>Ulayatul Kustiati</dct:creator>
+         <dct:creator>Hevi Wihadmadyatami</dct:creator>
+         <dct:creator>Dwi Liliek Kusindarta</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>FTIR</rdf:li>
+               <rdf:li>TLC</rdf:li>
+               <rdf:li>Spectrophotometry</rdf:li>
+               <rdf:li>1H-NMR</rdf:li>
+               <rdf:li>Metabolite profiling</rdf:li>
+               <rdf:li>EEOS</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107774</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107774</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107774</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107774</dct:identifier>
+         <bam:articleNumber>107774</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-29T13:40:32Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Indonesia: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107774</ja:aid>
+         <ce:article-number>107774</ce:article-number>
+         <ce:pii>S2352-3409(21)01048-9</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107774</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset of Phytochemical and secondary metabolite profiling of holy basil leaf (<ce:italic>Ocimum sanctum</ce:italic> Linn) ethanolic extract using spectrophotometry, thin layer chromatography, Fourier transform infrared spectroscopy, and nuclear magnetic resonance</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010489-803c725bc7c8459c0e0132dc2074d752">
+               <ce:given-name>Ulayatul</ce:given-name>
+               <ce:surname>Kustiati</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010489-7227efa6a69e1b06f0b83f9eda72e9fc">
+               <ce:given-name>Hevi</ce:given-name>
+               <ce:surname>Wihadmadyatami</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010489-b0b93b9e919664143f3bced1d6cfd0a7">
+               <ce:given-name>Dwi Liliek</ce:given-name>
+               <ce:surname>Kusindarta</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:indarta@ugm.ac.id">indarta@ugm.ac.id</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010489-7847d346ec530cd46df2177973bb79b0">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Postgraduate Student (Veterinary Science), Faculty of Veterinary Medicine, Universitas Gadjah Mada, Yogyakarta 55281, Indonesia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Postgraduate Student (Veterinary Science)</sa:organization>
+                  <sa:organization>Faculty of Veterinary Medicine</sa:organization>
+                  <sa:organization>Universitas Gadjah Mada</sa:organization>
+                  <sa:city>Yogyakarta</sa:city>
+                  <sa:postal-code>55281</sa:postal-code>
+                  <sa:country>Indonesia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aPostgraduate Student (Veterinary Science), Faculty of Veterinary Medicine, Universitas Gadjah Mada, Yogyakarta 55281, Indonesia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010489-b480cb8ed3c834454b0e8376312b0002">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Anatomy, Faculty of Veterinary Medicine, Universitas Gadjah Mada, Yogyakarta 55281, Indonesia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Anatomy</sa:organization>
+                  <sa:organization>Faculty of Veterinary Medicine</sa:organization>
+                  <sa:organization>Universitas Gadjah Mada</sa:organization>
+                  <sa:city>Yogyakarta</sa:city>
+                  <sa:postal-code>55281</sa:postal-code>
+                  <sa:country>Indonesia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Anatomy, Faculty of Veterinary Medicine, Universitas Gadjah Mada, Yogyakarta 55281, Indonesia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="16" month="9" year="2021"/>
+         <ce:date-revised day="27" month="12" year="2021"/>
+         <ce:date-accepted day="28" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">Holy basil (<ce:italic>Ocimum sanctum</ce:italic> Linn) or known also as “kemangi” in Indonesia is a plant commonly used as a herb in Asian countries. It is also medicinal with antipyretic, anti-inflammatory, anti-cancer, and neuroprotective properties. This dataset article provides broad screening of the phytochemical component of <ce:italic>Ocimum sanctum</ce:italic> ethanolic extract (EEOS) as well as a secondary metabolite profile of EEOS. Analyses were done qualitatively and quantitatively using a combination of spectrophotometer, thin layer chromatography, Fourier transform infrared spectroscopy (FTIR), and <ce:sup loc="post">1</ce:sup>H-nuclear magnetic resonance (<ce:sup loc="post">1</ce:sup>H-NMR). Results showed that <ce:italic>Ocimum sanctum</ce:italic> ethanolic extract contains phytochemical compounds, including flavonoids, phenols, tannins, saponins, alkaloids, steroids, and terpenoids. In addition, a secondary metabolite was found and classified into metabolite groups including alcohol, amine, carboxylic acid, alkane, alkene, aldehyde, phenol, ether, sulfur, halogen, benzene, nitrogen, sterol, amino acid, carbohydrate, and nitrogen.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">FTIR</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">TLC</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Spectrophotometry</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">
+                  <ce:sup loc="post">1</ce:sup>H-NMR</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Metabolite profiling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">EEOS</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

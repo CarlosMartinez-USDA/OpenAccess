@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107678">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Common writings of baby names in Japan, 1989–2003: Explanation of survey data</dct:title>
+         <dct:creator>Yuji Ogihara</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Name</rdf:li>
+               <rdf:li>Baby</rdf:li>
+               <rdf:li>Writing</rdf:li>
+               <rdf:li>Chinese character</rdf:li>
+               <rdf:li>Hiragana</rdf:li>
+               <rdf:li>Survey</rdf:li>
+               <rdf:li>Sample size</rdf:li>
+               <rdf:li>Japan</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107678</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107678</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107678</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107678</dct:identifier>
+         <bam:articleNumber>107678</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-02T14:59:01Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Japan:LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107678</ja:aid>
+         <ce:article-number>107678</ce:article-number>
+         <ce:pii>S2352-3409(21)00953-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107678</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Common writings of baby names in Japan, 1989–2003: Explanation of survey data</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009537-bda27b016b8c822955f648748928c7f0"
+                       orcid="0000-0001-6434-4265">
+               <ce:given-name>Yuji</ce:given-name>
+               <ce:surname>Ogihara</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:yogihara@rs.tus.ac.jp">yogihara@rs.tus.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009537-73572767dd16529630faf4a56fcae869">
+               <ce:textfn id="cetextfn0001">Institute of Arts and Sciences, Tokyo University of Science, Kagurazaka, Shinjuku-ku, Tokyo, 162-8601, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Arts and Sciences</sa:organization>
+                  <sa:organization>Tokyo University of Science</sa:organization>
+                  <sa:organization>Kagurazaka, Shinjuku-ku</sa:organization>
+                  <sa:city>Tokyo</sa:city>
+                  <sa:postal-code>162-8601</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Institute of Arts and Sciences, Tokyo University of Science, Kagurazaka, Shinjuku-ku, Tokyo, 162-8601, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author: Yuji Ogihara, Tokyo University of Science, Institute of Arts and Sciences, Kagurazaka, Shinjuku-ku, Tokyo, 162-8601, Japan.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Institute of Arts and Sciences</sa:organization>
+                  <sa:organization>Tokyo University of Science</sa:organization>
+                  <sa:organization>Kagurazaka, Shinjuku-ku</sa:organization>
+                  <sa:city>Tokyo</sa:city>
+                  <sa:postal-code>162-8601</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="26" month="10" year="2021"/>
+         <ce:date-revised day="30" month="11" year="2021"/>
+         <ce:date-accepted day="1" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">Previous research on Japanese names has analyzed the surveys on baby names conducted by Meiji Yasuda Life Insurance Company. The company displayed the yearly top 10 common writings of baby names between 1989 and 2003. However, it was unclear how the surveys for those 15 years were conducted. The data are necessary to evaluate the usableness of the surveys and conduct empirical research. Therefore, I asked the company for further data about the surveys. The methods of the surveys were consistent not only between 1989 and 2003, but also consistent with those between 2004 and 2018. The analyses on the annual sample sizes by gender showed that the surveys between 1989 and 2003 are comparable to the surveys between 2004 and 2018. The company is unable to access the raw data of these surveys, which makes it impossible to provide results other than the top 10 most common writings.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Name</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Baby</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Writing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Chinese character</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Hiragana</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Survey</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Sample size</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Japan</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Molecular docking and network pharmacology-based approaches to explore the potential of terpenoids for Mycobacterium tuberculosis</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">K.</namePart>
+      <namePart type="family">Kalaimathi</namePart>
+      <displayForm>Kalaimathi, K.</displayForm>
+      <affiliation>Department of Chemistry Government College of Engineering, Sengipatti, Thanjavur-613 402, Tamil Nadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">G.</namePart>
+      <namePart type="family">Thiyagarajan</namePart>
+      <displayForm>Thiyagarajan, G.</displayForm>
+      <affiliation>Department of Botany Government Arts College, (Autonomous), Affiliated to Bharathidasan University, Kumbakonam-612 002, Tamil Nadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Vijayakumar</namePart>
+      <displayForm>Vijayakumar, S.</displayForm>
+      <affiliation>PG and Research Department of Botany V. V. M Sri Pushpam College (Autonomous), Affiliated to Bharathidasan University, Poondi-613 503, Thanjavur, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">K.</namePart>
+      <namePart type="family">Bhavani</namePart>
+      <displayForm>Bhavani, K.</displayForm>
+      <affiliation>Department of Zoology Government College for Women (Autonomous), Affiliated to Bharathidasan University, Kumbakonam-612 001, Tamil Nadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">K.</namePart>
+      <namePart type="family">Karthikeyan</namePart>
+      <displayForm>Karthikeyan, K.</displayForm>
+      <affiliation>Department of Botany Government Arts College, (Autonomous), Affiliated to Bharathidasan University, Kumbakonam-612 002, Tamil Nadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">J.</namePart>
+      <namePart type="family">Maria Jancy Rani</namePart>
+      <displayForm>Maria Jancy Rani, J.</displayForm>
+      <affiliation>Department of Chemistry Annai Vailankanni Arts and Science College (Affiliated to Bharathidasan University), Bishop Sundaram Campus, Thanjavur-613 007, Tamil Nadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">K.</namePart>
+      <namePart type="family">Dass</namePart>
+      <displayForm>Dass, K.</displayForm>
+      <affiliation>Department of Zoology Annai Vailankanni Arts and Science College (Affiliated to Bharathidasan University), Bishop Sundaram Campus, Thanjavur-613 007, Tamil Nadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">J.</namePart>
+      <namePart type="family">Sureshkumar</namePart>
+      <displayForm>Sureshkumar, J.</displayForm>
+      <affiliation>Department of Botany Annai Vailankanni Arts and Science College (Affiliated to Bharathidasan University), Bishop Sundaram Campus, Thanjavur-613 007, Tamil Nadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Prabhu</namePart>
+      <displayForm>Prabhu, S.</displayForm>
+      <affiliation>Department of Botany Annai Vailankanni Arts and Science College (Affiliated to Bharathidasan University), Bishop Sundaram Campus, Thanjavur-613 007, Tamil Nadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Mycobacterium tuberculosis (Mtb) infection is quickly countered by the host immune system; but, the pathogen is never eradicated. In this infection, 10% of infections are considered as open tuberculosis, while the remaining 90% are becoming latent, a state that can persist in the host for decades until immune control is lost. To date, more than 350 plant species have been studied in mycobacterial research. In this research, we used a mixture of software and database explorations to find the anti-mycobacterial possibilities of phytoconstituents. Maestro v12.7 and Cytoscape v3.8.0 were applied as software. In addition, the String v11.0, KEGG, Reactome and Pass Server databases assisted us in understanding TB cellular processes and phytoconstituent drug possibilities. The racemosol and pacharin have registered higher docking scores of 7.823 and -7.715 respectively. Furthermore, these compounds have substantial binding affinities in the active pocket of Mtb, and their docking metrics have consisted close to that of an approved drug (Rifampin). The network pharmacological exploration is also revealed possible connections with all of the TB-associated genes and other important signaling pathways. This computational study found that racemosol and pacharin were the safest anti-mycobacterial drugs for tuberculosis. Following comprehensive research of the pharmacological properties of racemosol and pacharin, we decided that this would be the first study to focus on anti-mycobacterial activity utilizing those compounds. Also, we believe that racemsosol and pacharin compounds will reveal potential actions when used in mycobacterial research. Furthermore, the derivatives of these compounds will be acted as possible drugs for tuberculosis and associated diseases. More pharmacological and toxicological explorations are required to have a better understanding of these compounds. </abstract>
+   <subject>
+      <topic>Racemosol</topic>
+   </subject>
+   <subject>
+      <topic>Pacharin</topic>
+   </subject>
+   <subject>
+      <topic>Mtb</topic>
+   </subject>
+   <subject>
+      <topic>Molecular docking</topic>
+   </subject>
+   <subject>
+      <topic>Network pharmacology</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Pharmacological Research - Modern Chinese Medicine</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1425</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>100002</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.prmcm.2021.100002</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.prmcm.2021.100002</url>
+   </location>
+   <identifier type="pii">S2667-1425(21)00001-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-08-11"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1425/S2667142521X00024/S2667142521000014/S2667142521000014.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

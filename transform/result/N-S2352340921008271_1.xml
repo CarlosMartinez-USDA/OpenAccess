@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Metagenome-assembled genomes recovered from the datasets of a high-altitude Himalayan hot spring Khirganga, Himachal Pradesh, India</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Shekhar</namePart>
+      <namePart type="family">Nagar</namePart>
+      <displayForm>Nagar, Shekhar</displayForm>
+      <affiliation>Department of Zoology, University of Delhi, Delhi 110007, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Chandni</namePart>
+      <namePart type="family">Talwar</namePart>
+      <displayForm>Talwar, Chandni</displayForm>
+      <affiliation>Department of Zoology, University of Delhi, Delhi 110007, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Meghali</namePart>
+      <namePart type="family">Bharti</namePart>
+      <displayForm>Bharti, Meghali</displayForm>
+      <affiliation>Department of Zoology, University of Delhi, Delhi 110007, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sheetal</namePart>
+      <namePart type="family">Yadav</namePart>
+      <displayForm>Yadav, Sheetal</displayForm>
+      <affiliation>Department of Zoology, University of Delhi, Delhi 110007, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sneha</namePart>
+      <namePart type="family">Siwach</namePart>
+      <displayForm>Siwach, Sneha</displayForm>
+      <affiliation>Department of Zoology, University of Delhi, Delhi 110007, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ram Krishan</namePart>
+      <namePart type="family">Negi</namePart>
+      <displayForm>Negi, Ram Krishan</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Khirganga, a pristine hot spring that lies in the Parvati Valley within the Northern Himalayas characterised with unique white colour microbial mat and divine water with healing abilities. Here, we report 41 metagenome-assembled genomes (MAGs) reconstructed from the microbial mat, sediment and water samples of hot spring passed through Genome Standards Consortium (GSC) and Minimum Information of Metagenome-assembled Genome (MIMAG). </abstract>
+   <subject>
+      <topic>Hot spring</topic>
+   </subject>
+   <subject>
+      <topic>Himalayas</topic>
+   </subject>
+   <subject>
+      <topic>Microbes</topic>
+   </subject>
+   <subject>
+      <topic>Metagenome-assembled genomes</topic>
+   </subject>
+   <subject>
+      <topic>Khirganga</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107551</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107551</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107551</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00827-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-02"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008271/S2352340921008271.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

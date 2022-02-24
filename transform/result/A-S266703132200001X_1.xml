@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2022.100215">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Chemical constituents and antibacterial activity of Bromelia laciniosa (Bromeliaceae): Identification and structural characterization</dct:title>
+         <dct:creator>Michelle Cruz Pontes</dct:creator>
+         <dct:creator>Noelly Bastos Cavalcante</dct:creator>
+         <dct:creator>Ana Ediléia Barbosa Pereira Leal</dct:creator>
+         <dct:creator>Ana Paula de Oliveira</dct:creator>
+         <dct:creator>Henrique Douglas Melo Coutinho</dct:creator>
+         <dct:creator>Irwin Rose Alencar de Menezes</dct:creator>
+         <dct:creator>David Marrero Delange</dct:creator>
+         <dct:creator>Izabel Cristina Casanova Turatti</dct:creator>
+         <dct:creator>Gibson Gomes de Oliveira</dct:creator>
+         <dct:creator>Fausto Carnevale Neto</dct:creator>
+         <dct:creator>José Carlos Tomaz</dct:creator>
+         <dct:creator>Norberto Peporine Lopes</dct:creator>
+         <dct:creator>Jackson Roberto Guedes da Silva Almeida</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Bromelia laciniosa</rdf:li>
+               <rdf:li>Molecular networking</rdf:li>
+               <rdf:li>Staphylococcus aureus</rdf:li>
+               <rdf:li>Phenylpropanoids</rdf:li>
+               <rdf:li>Caatinga</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2022.100215</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2022.100215</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2022.100215</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2022.100215</dct:identifier>
+         <bam:articleNumber>100215</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-04T07:34:19Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100215</ja:aid>
+         <ce:article-number>100215</ce:article-number>
+         <ce:pii>S2667-0313(22)00001-X</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2022.100215</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Chemical constituents and antibacterial activity of <ce:italic>Bromelia laciniosa</ce:italic> (Bromeliaceae): Identification and structural characterization</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S266703132200001X-fe386754e80f2dbfda49b8dddfed335c">
+               <ce:given-name>Michelle Cruz</ce:given-name>
+               <ce:surname>Pontes</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S266703132200001X-a3f1810dc1eae2ef342f6354e1f511dd">
+               <ce:given-name>Noelly Bastos</ce:given-name>
+               <ce:surname>Cavalcante</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S266703132200001X-cc60bb35d451788f1dd6e67a39a9c69e">
+               <ce:given-name>Ana Ediléia Barbosa Pereira</ce:given-name>
+               <ce:surname>Leal</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S266703132200001X-a0f9ce524a55ff361d84a86001728847">
+               <ce:given-name>Ana Paula de</ce:given-name>
+               <ce:surname>Oliveira</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S266703132200001X-e46487a1d5d9c236ac1030d0f7ad47ee">
+               <ce:given-name>Henrique Douglas Melo</ce:given-name>
+               <ce:surname>Coutinho</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S266703132200001X-d29db4487423c18332f90535e965d29a">
+               <ce:given-name>Irwin Rose Alencar de</ce:given-name>
+               <ce:surname>Menezes</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S266703132200001X-e890b9ed4f9b2608b385d8261ab5aeef">
+               <ce:given-name>David Marrero</ce:given-name>
+               <ce:surname>Delange</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S266703132200001X-d3b166c25c52fab545714828dbff4b16">
+               <ce:given-name>Izabel Cristina Casanova</ce:given-name>
+               <ce:surname>Turatti</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S266703132200001X-31bd8faf546ff476fde765b4aa217777">
+               <ce:given-name>Gibson Gomes de</ce:given-name>
+               <ce:surname>Oliveira</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="PC_affvvqvmtG46k">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S266703132200001X-6add069ce5b75502aedc63ffe0ceeed3">
+               <ce:given-name>Fausto Carnevale</ce:given-name>
+               <ce:surname>Neto</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="PC_afflSSPf3k3XH">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S266703132200001X-88a7efb7b85663909c45e990a4194997">
+               <ce:given-name>José Carlos</ce:given-name>
+               <ce:surname>Tomaz</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0012"
+                       author-id="S266703132200001X-890082a0e1b375b758ff2da3fe2f54c7">
+               <ce:given-name>Norberto Peporine</ce:given-name>
+               <ce:surname>Lopes</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0013"
+                       author-id="S266703132200001X-808adb321c21008b49aad8923a69ee73">
+               <ce:given-name>Jackson Roberto Guedes da Silva</ce:given-name>
+               <ce:surname>Almeida</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:jackson.guedes@univasf.edu.br">jackson.guedes@univasf.edu.br</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S266703132200001X-531ea3e75d25620f053d8d7e499b5753">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Center for Studies and Research of Medicinal Plants (NEPLAME), Federal University of Vale do São Francisco, Petrolina, Pernambuco, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Center for Studies and Research of Medicinal Plants (NEPLAME)</sa:organization>
+                  <sa:organization>Federal University of Vale do São Francisco</sa:organization>
+                  <sa:city>Petrolina</sa:city>
+                  <sa:state>Pernambuco</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aCenter for Studies and Research of Medicinal Plants (NEPLAME), Federal University of Vale do São Francisco, Petrolina, Pernambuco, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S266703132200001X-f8a60204a07b11741688a8376efb8bc3">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Regional University of Cariri (URCA), Crato, Ceará, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Regional University of Cariri (URCA)</sa:organization>
+                  <sa:city>Crato</sa:city>
+                  <sa:state>Ceará</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bRegional University of Cariri (URCA), Crato, Ceará, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S266703132200001X-359444544ccb18c692dbb9dde787e1e0">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Centro de Bioproductos Marinos (CEBIMAR), La Habana, Cuba</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Centro de Bioproductos Marinos (CEBIMAR)</sa:organization>
+                  <sa:city>La Habana</sa:city>
+                  <sa:country>Cuba</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cCentro de Bioproductos Marinos (CEBIMAR), La Habana, Cuba</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S266703132200001X-f8ae9605b00ff9f88bb738d62fe0005f">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Faculty of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo, Ribeirão Preto, São Paulo, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Pharmaceutical Sciences of Ribeirão Preto</sa:organization>
+                  <sa:organization>University of São Paulo</sa:organization>
+                  <sa:city>Ribeirão Preto, São Paulo</sa:city>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dFaculty of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo, Ribeirão Preto, São Paulo, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="PC_affvvqvmtG46k"
+                            affiliation-id="S266703132200001X-6e4ba012f0b5bd7e93f8bb5f574c447c">
+               <ce:label>e</ce:label>
+               <ce:textfn>Universitary Center FACOL-UNIFACOL-CINTEP, Vitória de Santo Antão, Pernambuco, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Universitary Center FACOL-UNIFACOL-CINTEP</sa:organization>
+                  <sa:organization>Vitória de Santo Antão</sa:organization>
+                  <sa:city>Pernambuco</sa:city>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srctPC_affvvqvmtG46k">eUniversitary Center FACOL-UNIFACOL-CINTEP, Vitória de Santo Antão, Pernambuco, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="PC_afflSSPf3k3XH"
+                            affiliation-id="S266703132200001X-352ebba9bffdd79db1aa74f5d53d2bb4">
+               <ce:label>f</ce:label>
+               <ce:textfn>Department of Anesthesiology and Pain Medicine, University of Washington, Seattle, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Anesthesiology and Pain Medicine</sa:organization>
+                  <sa:organization>University of Washington, Seattle</sa:organization>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srctPC_afflSSPf3k3XH">fDepartment of Anesthesiology and Pain Medicine, University of Washington, Seattle, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Núcleo de Estudos e Pesquisas de Plantas Medicinais (NEPLAME), Universidade Federal do Vale do São Francisco, 56.304-205, Petrolina, Pernambuco, Brazil</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Núcleo de Estudos e Pesquisas de Plantas Medicinais (NEPLAME)</sa:organization>
+                  <sa:organization>Universidade Federal do Vale do São Francisco</sa:organization>
+                  <sa:city>Petrolina</sa:city>
+                  <sa:state>Pernambuco</sa:state>
+                  <sa:postal-code>56.304-205</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="16" month="8" year="2021"/>
+         <ce:date-revised day="12" month="12" year="2021"/>
+         <ce:date-accepted day="4" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara011" view="all">
+                  <ce:italic>Bromelia laciniosa</ce:italic> Mart. ex Schult. &amp; Schult.f. is a Bromeliaceae plant species from the Brazilian Caatinga, popularly used for the treatment of childhood colic, diarrhea, fever, jaundice, dandruff and hepatitis. The objective of this work was to evaluate the chemical composition and antimicrobial activity of the species <ce:italic>B. laciniosa</ce:italic>.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Method</ce:section-title>
+               <ce:simple-para id="spara012" view="all">In this study, we evaluated the antimicrobial activity of ethanolic extract from the leaves of <ce:italic>B. laciniosa</ce:italic> by microdilution MIC method, and provided a comprehensive panel of <ce:italic>B. laciniosa</ce:italic>’s metabolite composition through mass spectrometry (MS) coupled to gas chromatography (GC–MS) and liquid chromatography (LC-MS).</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara013" view="all">
+                  <ce:italic>B. laciniosa</ce:italic> ethanolic extract inhibited <ce:italic>Staphylococcus aureus</ce:italic> growth at the lowest concentration tested. The GC–MS analysis revealed 45 non-polar metabolites, including campesterol, palmitic acid, oleic acid and <ce:italic>α</ce:italic>-tocopherol. Isolation and structural elucidation by NMR experiments supported the identification of cirsilineol (<ce:bold>1</ce:bold>), and the mixture of steroids <ce:italic>β</ce:italic>-sitosterol (<ce:bold>2</ce:bold>) and stigmasterol (<ce:bold>3</ce:bold>). The LC-MS metabolite profiling was assisted by Global Natural Product Social Molecular Networking (GNPS) and led to the putative annotation of 22 metabolites, consisting of phenylpropanoids, <ce:italic>C</ce:italic>- and <ce:italic>O</ce:italic>-glycosyl-flavonoids and fatty acids. In total, 39 chemical constituents are being described for the first time in <ce:italic>B. laciniosa</ce:italic>.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusions</ce:section-title>
+               <ce:simple-para id="spara014" view="all">The results show the diversity of secondary metabolites in the species <ce:italic>B. laciniosa</ce:italic> as well as antibacterial activity against <ce:italic>S. aureus</ce:italic>.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Bromelia laciniosa</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Molecular networking</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">
+                  <ce:italic>Staphylococcus aureus</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Phenylpropanoids</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Caatinga</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

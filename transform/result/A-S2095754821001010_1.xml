@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.jtcms.2021.12.003">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Elucidation of the hepatoprotective effect and mechanism of Melastoma dodecandrum Lour. based on network pharmacology and experimental validation</dct:title>
+         <dct:creator>Jinfeng Wang</dct:creator>
+         <dct:creator>Linyuan Wang</dct:creator>
+         <dct:creator>Zhihao Zhang</dct:creator>
+         <dct:creator>Min Wu</dct:creator>
+         <dct:creator>Wenting Fei</dct:creator>
+         <dct:creator>Zhihui Yang</dct:creator>
+         <dct:creator>Jianjun Zhang</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Melastoma dodecandrum Lour.</rdf:li>
+               <rdf:li>Concanavalin A</rdf:li>
+               <rdf:li>Hepatitis</rdf:li>
+               <rdf:li>Network pharmacology</rdf:li>
+               <rdf:li>Inflammation</rdf:li>
+               <rdf:li>Mechanism</rdf:li>
+               <rdf:li>Phosphoinositide 3-kinase (PI3K)/protein kinase B</rdf:li>
+               <rdf:li>Nuclear factor-kappa B</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Journal of Traditional Chinese Medical Sciences 9 (2022) 47-58. doi:10.1016/j.jtcms.2021.12.003</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Journal of Traditional Chinese Medical Sciences</prism:publicationName>
+         <prism:copyright>© 2022 Beijing University of Chinese Medicine. Production and hosting by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2095-7548</prism:issn>
+         <prism:volume>9</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>January 2022</prism:coverDisplayDate>
+         <prism:pageRange>47-58</prism:pageRange>
+         <prism:startingPage>47</prism:startingPage>
+         <prism:endingPage>58</prism:endingPage>
+         <prism:doi>10.1016/j.jtcms.2021.12.003</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.jtcms.2021.12.003</prism:url>
+         <dct:identifier>doi:10.1016/j.jtcms.2021.12.003</dct:identifier>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-31T01:09:08Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Beijing University of Chinese Medicine</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>JTCMS</ja:jid>
+         <ja:aid>354</ja:aid>
+         <ce:pii>S2095-7548(21)00101-0</ce:pii>
+         <ce:doi>10.1016/j.jtcms.2021.12.003</ce:doi>
+         <ce:copyright type="society" year="2022">Beijing University of Chinese Medicine</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:article-footnote>
+            <ce:note-para id="ntpara0010" view="all">Peer review under responsibility of Beijing University of Chinese Medicine.</ce:note-para>
+         </ce:article-footnote>
+         <ce:title id="title0010">Elucidation of the hepatoprotective effect and mechanism of <ce:italic>Melastoma dodecandrum</ce:italic> Lour. based on network pharmacology and experimental validation</ce:title>
+         <ce:author-group id="augrp0010">
+            <ce:author id="au1"
+                       orcid="0000-0002-3431-3641"
+                       author-id="S2095754821001010-de10a8e9b2b1608ce740b0745b49637e">
+               <ce:given-name>Jinfeng</ce:given-name>
+               <ce:surname>Wang</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au2" author-id="S2095754821001010-5394fb46655c8626909ec5f66ac30f5e">
+               <ce:given-name>Linyuan</ce:given-name>
+               <ce:surname>Wang</ce:surname>
+               <ce:cross-ref refid="aff2">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au3" author-id="S2095754821001010-2128996e2933f8d274d8a3fe950dd43f">
+               <ce:given-name>Zhihao</ce:given-name>
+               <ce:surname>Zhang</ce:surname>
+               <ce:cross-ref refid="aff3">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au4" author-id="S2095754821001010-209ee3c5ef88cf7bc4643bcf7fab4e88">
+               <ce:given-name>Min</ce:given-name>
+               <ce:surname>Wu</ce:surname>
+               <ce:cross-ref refid="aff4">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au5" author-id="S2095754821001010-c45a39bf3035c32ab8fab40def5ce1d7">
+               <ce:given-name>Wenting</ce:given-name>
+               <ce:surname>Fei</ce:surname>
+               <ce:cross-ref refid="aff2">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au6" author-id="S2095754821001010-f53facc25e0e014785f544a0e62975fe">
+               <ce:given-name>Zhihui</ce:given-name>
+               <ce:surname>Yang</ce:surname>
+               <ce:cross-ref refid="aff5">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au7" author-id="S2095754821001010-cb85d40f0c617a4fd9fabd8eca60a284">
+               <ce:given-name>Jianjun</ce:given-name>
+               <ce:surname>Zhang</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor1">
+                  <ce:sup loc="post">∗</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:zhangjianjun@bucm.edu.cn"
+                             id="eadd0010">zhangjianjun@bucm.edu.cn</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff1"
+                            affiliation-id="S2095754821001010-29f50aacc4c7baeccc720469ddc001e2">
+               <ce:label>a</ce:label>
+               <ce:textfn>School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, 102488, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Traditional Chinese Medicine</sa:organization>
+                  <sa:organization>Beijing University of Chinese Medicine</sa:organization>
+                  <sa:city>Beijing</sa:city>
+                  <sa:postal-code>102488</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0010">School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing 102488, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff2"
+                            affiliation-id="S2095754821001010-11d1f9dde1a1c3b5aeb424c817c1ae4f">
+               <ce:label>b</ce:label>
+               <ce:textfn>School of Chinese Materia Medica, Beijing University of Chinese Medicine, Beijing, 102488, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Chinese Materia Medica</sa:organization>
+                  <sa:organization>Beijing University of Chinese Medicine</sa:organization>
+                  <sa:city>Beijing</sa:city>
+                  <sa:postal-code>102488</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0015">School of Chinese Materia Medica, Beijing University of Chinese Medicine, Beijing 102488, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff3"
+                            affiliation-id="S2095754821001010-7665ac9ea0d93fe5fa48e8672a0f9239">
+               <ce:label>c</ce:label>
+               <ce:textfn>School of Traditional Chinese Pharmacy, China Pharmaceutical University, Nanjing, 211198, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Traditional Chinese Pharmacy</sa:organization>
+                  <sa:organization>China Pharmaceutical University</sa:organization>
+                  <sa:city>Nanjing</sa:city>
+                  <sa:postal-code>211198</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0020">School of Traditional Chinese Pharmacy, China Pharmaceutical University, Nanjing 211198, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff4"
+                            affiliation-id="S2095754821001010-7a3953df6fca3403d5588c2926e5c8a2">
+               <ce:label>d</ce:label>
+               <ce:textfn>Medical College, Yangzhou University, Yangzhou, 225001, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Medical College</sa:organization>
+                  <sa:organization>Yangzhou University</sa:organization>
+                  <sa:city>Yangzhou</sa:city>
+                  <sa:postal-code>225001</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0025">Medical College, Yangzhou University, Yangzhou 225001, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff5"
+                            affiliation-id="S2095754821001010-3ea052f962375a16d0971ef58c69598d">
+               <ce:label>e</ce:label>
+               <ce:textfn>Department of Emergency Medicine, University of Florida, Gainesville, 32611, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Emergency Medicine</sa:organization>
+                  <sa:organization>University of Florida</sa:organization>
+                  <sa:city>Gainesville</sa:city>
+                  <sa:postal-code>32611</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0030">Department of Emergency Medicine, University of Florida, Gainesville 32611, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor1">
+               <ce:label>∗</ce:label>
+               <ce:text>Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="22" month="4" year="2021"/>
+         <ce:date-revised day="30" month="12" year="2021"/>
+         <ce:date-accepted day="30" month="12" year="2021"/>
+         <ce:abstract xml:lang="en" id="abs0010" view="all" class="author">
+            <ce:section-title id="sectitle0010">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0010" view="all">
+               <ce:section-title id="sectitle0015">Objective</ce:section-title>
+               <ce:simple-para id="abspara0010" view="all">To systematically explore the effect and mechanism of melastomatis dodecandri herba (<ce:italic>Melastoma dodecandrum</ce:italic> Lour.) in the treatment of hepatitis based on network pharmacology.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abssec0015" view="all">
+               <ce:section-title id="sectitle0020">Method</ce:section-title>
+               <ce:simple-para id="abspara0015" view="all">We evaluated the hepatoprotective effects of <ce:italic>M. dodecandrum</ce:italic> in concanavalin A (Con A)-induced hepatitis in mice by assessing survival rate, histological analysis, serum transaminases, and related cytokines. Then the mechanism of action was predicted by a network pharmacology-based strategy. Based on the results, we measured the hepatic expression of related genes at mRNA level and proteins related to the phosphoinositide 3-kinase (PI3K)/protein kinase B (Akt) and nuclear factor-kappa B (NF-кB) pathways.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec role="results" id="abssec0020" view="all">
+               <ce:section-title id="sectitle0025">Results</ce:section-title>
+               <ce:simple-para id="abspara0020" view="all">Our study results clearly demonstrated that <ce:italic>M. dodecandrum</ce:italic> pretreatment significantly alleviated liver injury. This was demonstrated by an increase in survival rate, decreased severity of liver damage, and reduced serum transaminase levels compared with those in the Con A group. Moreover, <ce:italic>M. dodecandrum</ce:italic> significantly reduced the serum levels of tumor necrosis factor-α, interleukin-6, and interferon-γ and increased the liver levels of superoxide dismutase, which indicated that <ce:italic>M. dodecandrum</ce:italic> exhibits anti-inflammatory and antioxidant activities. On the basis of network pharmacology, 50 nodes were selected as major hubs based on their topological importance. Pathway enrichment analyses indicated that the putative targets of <ce:italic>M. dodecandrum</ce:italic> mostly participate in various pathways associated with the anti-inflammation response, which implies the underlying mechanism by which <ce:italic>M. dodecandrum</ce:italic> acts on hepatitis. Real-time fluorescent quantitative PCR analysis showed that <ce:italic>M. dodecandrum</ce:italic> downregulates the mRNA expression of interleukin-6, Toll-like receptor 7, interleukin-1 receptor-associated kinase-4, NF-кB and tumor necrosis factor-α in liver tissues. Western blotting showed that <ce:italic>M. dodecandrum</ce:italic> pretreatment protected against inflammation through activating the PI3K-Akt pathway by upregulating phosphorylated Akt (p-Akt) expression and suppressing NF-кB activation by inhibiting the phosphorylation of IKK, IκBα, and p65.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec role="conclusion" id="abssec0025" view="all">
+               <ce:section-title id="sectitle0030">Conclusion</ce:section-title>
+               <ce:simple-para id="abspara0025" view="all">The present work demonstrated the hepatoprotective effects of <ce:italic>M. dodecandrum</ce:italic> by regulating the PI3K/Akt and NF-кB pathways in Con A-induced mice, which provide insights into the treatment of hepatitis using <ce:italic>M. dodecandrum</ce:italic>.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+            <ce:section-title id="sectitle0035">Keywords</ce:section-title>
+            <ce:keyword id="kwrd0010">
+               <ce:text>
+                  <ce:italic>Melastoma dodecandrum</ce:italic> Lour.</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0015">
+               <ce:text>Concanavalin A</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0020">
+               <ce:text>Hepatitis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0025">
+               <ce:text>Network pharmacology</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0030">
+               <ce:text>Inflammation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0035">
+               <ce:text>Mechanism</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0040">
+               <ce:text>Phosphoinositide 3-kinase (PI3K)/protein kinase B</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0045">
+               <ce:text>Nuclear factor-kappa B</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

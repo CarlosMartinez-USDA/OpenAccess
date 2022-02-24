@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2022.100217">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Anti-neuroinflammatory properties of Waltheria americana L. leaf in experimental animals</dct:title>
+         <dct:creator>Idowu Olumorin Owemidu</dct:creator>
+         <dct:creator>Abayomi M Ajayi</dct:creator>
+         <dct:creator>Samuel Adetunji Onasanwo</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Waltheria americana</rdf:li>
+               <rdf:li>Neuroinflammation</rdf:li>
+               <rdf:li>Striatum</rdf:li>
+               <rdf:li>Prefrontal cortex and hippocampus</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2022.100217</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2022.100217</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2022.100217</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2022.100217</dct:identifier>
+         <bam:articleNumber>100217</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-07T13:08:10Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100217</ja:aid>
+         <ce:article-number>100217</ce:article-number>
+         <ce:pii>S2667-0313(22)00003-3</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2022.100217</ce:doi>
+         <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Anti-neuroinflammatory properties of Waltheria americana L. leaf in experimental animals</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031322000033-fc5493dd3ed92bfd8a546ff5249685c9">
+               <ce:given-name>Idowu Olumorin</ce:given-name>
+               <ce:surname>Owemidu</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:owemidu.io@ksu.edu.ng">owemidu.io@ksu.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031322000033-27569ac618e25ea1f7f53edb5097106d">
+               <ce:given-name>Abayomi M</ce:given-name>
+               <ce:surname>Ajayi</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031322000033-eed600a5d32cca9a187fbecea3f3e2a5">
+               <ce:given-name>Samuel Adetunji</ce:given-name>
+               <ce:surname>Onasanwo</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031322000033-53a7571c1b45b36d73ad607bf5fc7030">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Neurosciences and Oral Physiology Unit, Department of Physiology, Faculty of Basic Medical Sciences, University of Ibadan, Ibadan, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Neurosciences and Oral Physiology Unit, Department of Physiology</sa:organization>
+                  <sa:organization>Faculty of Basic Medical Sciences, University of Ibadan</sa:organization>
+                  <sa:city>Ibadan</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aNeurosciences and Oral Physiology Unit, Department of Physiology, Faculty of Basic Medical Sciences, University of Ibadan, Ibadan, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031322000033-c4d3deef604dd34ea2074a3bd7c3bc31">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Physiology, Faculty of Basic Medical Sciences, Kogi State University, Anyigba, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Physiology</sa:organization>
+                  <sa:organization>Faculty of Basic Medical Sciences, Kogi State University</sa:organization>
+                  <sa:city>Anyigba</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Physiology, Faculty of Basic Medical Sciences, Kogi State University, Anyigba, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031322000033-c2ba42fc1c2aa844cb9b3a7b0756c12c">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Departments of Pharmacology &amp; Therapeutics, University of Ibadan, Ibadan, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Departments of Pharmacology &amp; Therapeutics</sa:organization>
+                  <sa:organization>University of Ibadan</sa:organization>
+                  <sa:city>Ibadan</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartments of Pharmacology &amp; Therapeutics, University of Ibadan, Ibadan, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="14" month="8" year="2021"/>
+         <ce:date-revised day="29" month="12" year="2021"/>
+         <ce:date-accepted day="7" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara009" view="all">:Lipopolysaccharides (LPS) is an agent that is used to initiate neuroinflammation in animal experimental model. Thus, leading to neurotoxicity and behavioral deficit. These effects are thought to be caused by significant increase in the level of pro-inflammatory mediators in the Central nervous system. However, not much is known about the anti-neuroinflammatory properties of Waltheria americana leaf in LPS- induced neuroinflammation. Thus, the purpose of this study was to evaluate the anti-neuroinflammatory properties of the methanol extract of Waltheria americana leaf (MEWA) in experimental animals.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Methods</ce:section-title>
+               <ce:simple-para id="spara010" view="all">: Leaves of W. americana were collected at the College of Agriculture, Kabba, Kogi State, and authenticated at the Herbarium, Forest Research Institute of Nigeria (FRIN), Ibadan (FHI:111,064). The leaves were extracted by maceration in methanol. The components of MEWA were analysed using the Gas chromatography and mass spectrometry (GC–MS). The study had four groups (<ce:italic>n</ce:italic> = 5) of rats: Normal Control and groups that received vehicle (Veh) (10 mL/kg p.o), MEWA (200 mg/kg p.o) and Quercetin (50 mg/kg p.o) for 30 days after a single intra-peritoneal administration of 2 mg/kg Lipopolysaccharide (LPS). Memory was assessed using the Morris Water Maze test. During sacrifice, Striatum (STR), Prefrontal cortex (PFC) and Hippocampus (HPC) were sectioned. The ELISA method was used for IL-6 and TNF-<ce:italic>α</ce:italic>. Golgi stain was used for neuronal morphology. Data were analysed using ANOVA at <ce:italic>α</ce:italic>0.05.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara011" view="all">: The GC–MS analysis revealed fatty acids and methyl esters as the most abundant constituents in Waltheria americana leaf extract. The extract significantly increased the time spent in quadrant area in the probe trial during the Morris Water Maze test. More so, the extract significantly decreased IL-6 and TNF-α in the Striatum, Prefrontal cortex and Hippocampus. Dendritic arborization was also preserved by the extract.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusions</ce:section-title>
+               <ce:simple-para id="spara012" view="all">: This finding demonstrates the neurotoxic effect of Lipopolysaccharides to neurons in the Prefrontal cortex, striatum and hippocampus and its ability to cause behavioral deficits, and how Waltheria americana leaf extract administration was able to prevent neurotoxic damage and behavioural deficits.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Waltheria americana</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Neuroinflammation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Striatum</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Prefrontal cortex and hippocampus</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

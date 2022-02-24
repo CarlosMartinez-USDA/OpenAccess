@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Alpha-glucosidase activity of phytochemicals from Phyllanthus amarus leaves via in-silico approaches</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Abel K.</namePart>
+      <namePart type="family">Oyebamiji</namePart>
+      <displayForm>Oyebamiji, Abel K.</displayForm>
+      <affiliation>Department of Basic Sciences, Adeleke University, P.M.B. 250, Ede, Osun, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Emmanuel A.</namePart>
+      <namePart type="family">Soetan</namePart>
+      <displayForm>Soetan, Emmanuel A.</displayForm>
+      <affiliation>Department of Basic Sciences, Adeleke University, P.M.B. 250, Ede, Osun, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sunday A.</namePart>
+      <namePart type="family">Akintelu</namePart>
+      <displayForm>Akintelu, Sunday A.</displayForm>
+      <affiliation>School of Chemistry and Chemical Engineering, Beijing Institute of Technology, Beijing 100811, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ademola O.</namePart>
+      <namePart type="family">Ayeleso</namePart>
+      <displayForm>Ayeleso, Ademola O.</displayForm>
+      <affiliation>Department of Biochemistry, Faculty of Science, Adeleke University, Osun, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Emmanuel</namePart>
+      <namePart type="family">Mukwevho</namePart>
+      <displayForm>Mukwevho, Emmanuel</displayForm>
+      <affiliation>Department of Biochemistry, Faculty of Natural and Agricultural Science, Mafikeng Campus, North West University, Mmabatho 2735, South Africa</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Diabetes mellitus is a metabolic disease that poses a serious global health challenge. The provision of alternative and complementary medicine to combat the disease has attracted the attention of numerous scientists. In this study, anti- α-glucosidase activities of selected seven compounds obtained from Phyllanthus amarus leaves were explored using computational chemistry approach. The absorption, distribution, metabolism and excretion (ADME) properties of the compound with the best binding affinity and metformin were examined. The descriptors obtained from the optimized compounds accurately describe anti- α-glucosidase activities of the studied compounds. The results showed that Compound 1[(1S,19R,21S,22R,23R)-6,7,8,11,12,13,22,23-octahydroxy-3,16-dioxo-2,17,20-trioxatetracyclo[17.3.1.0⁴,⁹.0¹⁰,¹⁵] tricosa-4,6,8,10,12,14-hexaen-21-yl] 3,4,5-trihydroxybenzoate possesses greater capacity to inhibit α-glucosidase than other studied compounds selected from Phyllanthus amarus leaves as well as Metformin. </abstract>
+   <subject>
+      <topic>α-glucosidase</topic>
+   </subject>
+   <subject>
+      <topic>Phyllanthus amarus</topic>
+   </subject>
+   <subject>
+      <topic>Diabetes</topic>
+   </subject>
+   <subject>
+      <topic>Docking</topic>
+   </subject>
+   <subject>
+      <topic>ADME</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Pharmacological Research - Modern Chinese Medicine</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1425</identifier>
+      <part>
+         <detail type="volume">
+            <number>2</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">March 2022</text>
+         <text type="year">2022</text>
+         <text type="month">March</text>
+         <extent unit="pages">
+            <start>100054</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.prmcm.2022.100054</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.prmcm.2022.100054</url>
+   </location>
+   <identifier type="pii">S2667-1425(22)00015-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-23"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/123176916641762791-00001/2667-1425/S2667142521X00036/S266714252200015X/S266714252200015X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

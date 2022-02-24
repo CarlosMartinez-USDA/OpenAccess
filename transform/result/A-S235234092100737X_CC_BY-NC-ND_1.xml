@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107471">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset of human EDEM2 melanoma cells proteomics, affinity proteomics and
+                deglycoproteomics</dct:title>
+         <dct:creator>Gabriela N. Chirițoiu</dct:creator>
+         <dct:creator>Marioara Chirițoiu</dct:creator>
+         <dct:creator>Cristian V.A. Munteanu</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Endoplasmic reticulum associated degradation (ERAD)</rdf:li>
+               <rdf:li>Stable isotope labeling by amino acids in cell culture (SILAC)</rdf:li>
+               <rdf:li>Cancer</rdf:li>
+               <rdf:li>Mass spectrometry</rdf:li>
+               <rdf:li>liquid chromatography</rdf:li>
+               <rdf:li>ITGA1</rdf:li>
+               <rdf:li>Tyrosinase</rdf:li>
+               <rdf:li>Proteasome</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021).
+                doi:10.1016/j.dib.2021.107471</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107471</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107471</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107471</dct:identifier>
+         <bam:articleNumber>107471</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-06T01:43:54Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open
+                access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107471</ja:aid>
+         <ce:article-number>107471</ce:article-number>
+         <ce:pii>S2352-3409(21)00737-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107471</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset of human EDEM2 melanoma cells proteomics, affinity
+                proteomics and deglycoproteomics</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092100737X-e67b1227383cbe5495877c647cfbef59">
+               <ce:given-name>Gabriela N.</ce:given-name>
+               <ce:surname>Chirițoiu</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/GabiNChiritoiu">@GabiNChiritoiu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092100737X-486b81f9f826504215fb6df989f62102"
+                       orcid="0000-0003-2064-2003">
+               <ce:given-name>Marioara</ce:given-name>
+               <ce:surname>Chirițoiu</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea3a"
+                             type="social-media"
+                             xlink:href="https://twitter.com/ChiritoiuMari">@ChiritoiuMari</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092100737X-28a89e12af85ca1996b11124632e7105"
+                       orcid="0000-0002-2998-0458">
+               <ce:given-name>Cristian V.A.</ce:given-name>
+               <ce:surname>Munteanu</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:cristian.munteanu@biochim.ro">cristian.munteanu@biochim.ro</ce:e-address>
+               <ce:e-address id="ea3b"
+                             type="social-media"
+                             xlink:href="https://twitter.com/CristiVMunteanu">@CristiVMunteanu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092100737X-a87d8bb6a6b4e6373b69b0d1b3314db2">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Molecular Cell Biology, Institute of
+                        Biochemistry, Splaiul Independenței 296, Bucharest 060031,
+                        Romania</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Molecular Cell Biology</sa:organization>
+                  <sa:organization>Institute of Biochemistry</sa:organization>
+                  <sa:address-line>Splaiul Independenței 296</sa:address-line>
+                  <sa:city>Bucharest</sa:city>
+                  <sa:postal-code>060031</sa:postal-code>
+                  <sa:country>Romania</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Molecular Cell Biology, Institute
+                        of Biochemistry, Splaiul Independenței 296, Bucharest 060031,
+                        Romania</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092100737X-ecae40dc050f1ee2a7718ad9c72be5c7">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Bioinformatics and Structural
+                        Biochemistry, Institute of Biochemistry, Splaiul Independenței 296,
+                        Bucharest 060031, Romania</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Bioinformatics and Structural
+                            Biochemistry</sa:organization>
+                  <sa:organization>Institute of Biochemistry</sa:organization>
+                  <sa:address-line>Splaiul Independenței 296</sa:address-line>
+                  <sa:city>Bucharest</sa:city>
+                  <sa:postal-code>060031</sa:postal-code>
+                  <sa:country>Romania</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Bioinformatics and Structural
+                        Biochemistry, Institute of Biochemistry, Splaiul Independenței 296,
+                        Bucharest 060031, Romania</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="2" month="9" year="2021"/>
+         <ce:date-revised day="2" month="10" year="2021"/>
+         <ce:date-accepted day="4" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara004" view="all">EDEM2 (Endoplasmic reticulum
+                        Degradation-Enhancing alpha-Mannosidase-like protein 2) is one of the
+                        key-proteins suggested to be involved in the selection and degradation of
+                        misfolded proteins from the endoplasmic reticulum. The datasets discussed in
+                        this article are related to experiments covering affinity proteomics,
+                        label-free quantitative proteomics, deglycoproteomics and SILAC (Stable
+                        Isotope Labeling by Amino Acids in Cell Culture) proteomics data of A375
+                        melanoma cells with modified expression of EDEM2. Our first aim was to
+                        affinity-enrich EDEM2 alongside its potential interaction partners and
+                        analyse the obtained samples by nanoLC-MS/MS to identify novel EDEM2
+                        associated proteins. The dataset was substantiated by SDF (Sucrose Density
+                        Fractionation)-nanoLC-MS/MS experiments, in an integrated workflow to
+                        validate EDEM2 identified partners and corroborate these with previous data.
+                        Our second aim was to delineate novel EDEM2 substrate candidates using a
+                        two-step strategy. The first one refers to the deglycoproteomics dataset,
+                        which covers nanoLC-MS/MS analysis of Concanavalin A enriched glycopeptides
+                        released by endoglycosidase digestion from A375 melanoma cell lysates. This
+                        allowed us to map the fraction of glycoproteins with non-matured N-glycans
+                        from A375 melanoma cells and find or validate
+                        <ce:italic>N</ce:italic>-glycosylation sites of proteins from the secretory
+                        pathway. The same dataset was also used to define glycoproteins altered by
+                        the down-regulation of endogenous EDEM2, which should contain its
+                        candidate-substrates. In a second step we delineate the degradation kinetics
+                        of some of these proteins using a pulse SILAC strategy (pSILAC) thus
+                        complementing our initial findings with a fourth dataset. Beside
+                        nanoLC-MS/MS analysis our findings were also validated by various
+                        biochemical experiments. All the data described are associated with a
+                        research article published in Molecular and Cellular Proteomics
+                        [1].</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Endoplasmic reticulum associated degradation
+                        (ERAD)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Stable isotope labeling by amino acids in cell culture
+                        (SILAC)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Cancer</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Mass spectrometry</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">liquid chromatography</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">ITGA1</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Tyrosinase</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Proteasome</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

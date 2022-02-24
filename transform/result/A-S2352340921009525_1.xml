@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107677">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data set showing the development of a hyperspectral imaging technique using LA-ICP-MS to determine the spatial distribution of nutrients in soil cores</dct:title>
+         <dct:creator>Muhammad Zaeem</dct:creator>
+         <dct:creator>Muhammad Nadeem</dct:creator>
+         <dct:creator>Thu Huong Pham</dct:creator>
+         <dct:creator>Waqar Ashiq</dct:creator>
+         <dct:creator>Waqas Ali</dct:creator>
+         <dct:creator>Syed Shah Mohioudin Gillani</dct:creator>
+         <dct:creator>Eric R.D. Moise</dct:creator>
+         <dct:creator>Heather Leier</dct:creator>
+         <dct:creator>Vanessa Kavanagh</dct:creator>
+         <dct:creator>Lakshman Galagedara</dct:creator>
+         <dct:creator>Mumtaz Cheema</dct:creator>
+         <dct:creator>Raymond Thomas</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Elemental imaging</rdf:li>
+               <rdf:li>Soil core nutrient imaging</rdf:li>
+               <rdf:li>Nutrient mapping</rdf:li>
+               <rdf:li>Spatial mineral distribution</rdf:li>
+               <rdf:li>Imaging mass spectrometry</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107677</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>Crown Copyright © 2021 Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107677</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107677</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107677</dct:identifier>
+         <bam:articleNumber>107677</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-02T16:28:15Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Canada: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107677</ja:aid>
+         <ce:article-number>107677</ce:article-number>
+         <ce:pii>S2352-3409(21)00952-5</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107677</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0016-7061(20)32586-6</ce:pii>
+               <ce:doi>10.1016/j.geoderma.2020.114831</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data set showing the development of a hyperspectral imaging technique using LA-ICP-MS to determine the spatial distribution of nutrients in soil cores</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009525-54abddbb41991bc18a3a89e52348859e">
+               <ce:given-name>Muhammad</ce:given-name>
+               <ce:surname>Zaeem</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:mzaeem@grenfell.mun.ca">mzaeem@grenfell.mun.ca</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009525-7d35701dc010c1c0c1dbaa95985542cb"
+                       orcid="0000-0002-7426-1196">
+               <ce:given-name>Muhammad</ce:given-name>
+               <ce:surname>Nadeem</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0002">
+                  <ce:sup loc="post">⁎⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:muha.nadeem@gmail.com">muha.nadeem@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009525-4b4de5641264e1f193a9ce171c6a860d">
+               <ce:given-name>Thu Huong</ce:given-name>
+               <ce:surname>Pham</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009525-8e9011763f72a7a39da53163e2a5fdd9">
+               <ce:given-name>Waqar</ce:given-name>
+               <ce:surname>Ashiq</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="PC_affLgooDFyoWC">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921009525-bf7bd4e8b4d09239015d30c99ef1ff25">
+               <ce:given-name>Waqas</ce:given-name>
+               <ce:surname>Ali</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921009525-0082fca57e9eb2dd0d53049f3aa3028b">
+               <ce:given-name>Syed Shah Mohioudin</ce:given-name>
+               <ce:surname>Gillani</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921009525-02d02de2535bcb6e121a64ae0b4deb44">
+               <ce:given-name>Eric R.D.</ce:given-name>
+               <ce:surname>Moise</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921009525-9b868e3f214c8bd52f8107d64e6ae431">
+               <ce:given-name>Heather</ce:given-name>
+               <ce:surname>Leier</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921009525-488fd9514c46549366f01291053d3e80"
+                       orcid="0000-0002-5430-5569">
+               <ce:given-name>Vanessa</ce:given-name>
+               <ce:surname>Kavanagh</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2352340921009525-7825ac12b010240ef3fb24d20e39cb0a"
+                       orcid="0000-0003-1882-3024">
+               <ce:given-name>Lakshman</ce:given-name>
+               <ce:surname>Galagedara</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S2352340921009525-6b22745d2361d61dd9b6212f6cf667d1">
+               <ce:given-name>Mumtaz</ce:given-name>
+               <ce:surname>Cheema</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0003">
+                  <ce:sup loc="post">⁎⁎⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0004"
+                             type="email"
+                             xlink:href="mailto:mcheema@grenfell.mun.ca">mcheema@grenfell.mun.ca</ce:e-address>
+            </ce:author>
+            <ce:author id="au0012"
+                       author-id="S2352340921009525-540f10d38468da8218f8ce463abfc676">
+               <ce:given-name>Raymond</ce:given-name>
+               <ce:surname>Thomas</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0004">
+                  <ce:sup loc="post">⁎⁎⁎⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0005"
+                             type="email"
+                             xlink:href="mailto:rthomas@grenfell.mun.ca">rthomas@grenfell.mun.ca</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009525-ae46e31d62a45e37f51844a63e9f242b">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">School of Science and the Environment, Grenfell Campus, Memorial University of Newfoundland, Corner Brook, A2H 5G4, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Science and the Environment</sa:organization>
+                  <sa:organization>Grenfell Campus</sa:organization>
+                  <sa:organization>Memorial University of Newfoundland</sa:organization>
+                  <sa:city>Corner Brook</sa:city>
+                  <sa:postal-code>A2H 5G4</sa:postal-code>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aSchool of Science and the Environment, Grenfell Campus, Memorial University of Newfoundland, Corner Brook, A2H 5G4, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009525-8883e49f879617a61d0aa2c5c3752db5">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Natural Resources Canada, Canadian Forest Service - Atlantic Forestry Centre, 26 University Drive, Corner Brook, Newfoundland and Labrador, Canada, A2H 5G4</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Natural Resources Canada</sa:organization>
+                  <sa:organization>Canadian Forest Service - Atlantic Forestry Centre</sa:organization>
+                  <sa:organization>26 University Drive</sa:organization>
+                  <sa:city>Corner Brook</sa:city>
+                  <sa:state>Newfoundland and Labrador</sa:state>
+                  <sa:postal-code>A2H 6J3</sa:postal-code>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bNatural Resources Canada, Canadian Forest Service - Atlantic Forestry Centre, 26 University Drive, Corner Brook, Newfoundland and Labrador, A2H 6J3 Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921009525-a8530f7887c3ae6ccd1c55c99bc43652">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Art, University of Calgary Alberta, Canada, T2N 1N4</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Art</sa:organization>
+                  <sa:organization>University of Calgary Alberta</sa:organization>
+                  <sa:postal-code>T2N 1N4</sa:postal-code>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Art, University of Calgary Alberta, T2N 1N4 Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921009525-7cbcb428ea518ee38b60ed526854281e">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Fisheries, and Land Resources, Government of Newfoundland and Labrador, A0L 1K0, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Fisheries, and Land Resources</sa:organization>
+                  <sa:organization>Government of Newfoundland and Labrador</sa:organization>
+                  <sa:postal-code>A0L 1K0</sa:postal-code>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Fisheries, and Land Resources, Government of Newfoundland and Labrador, A0L 1K0, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="PC_affLgooDFyoWC"
+                            affiliation-id="S2352340921009525-2edf2958166561c5c08cd228e53bbcdc">
+               <ce:label>e</ce:label>
+               <ce:textfn>School of Environmental Sciences, University of Guelph, N1G 2W1, Guelph, Ontario, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Environmental Sciences</sa:organization>
+                  <sa:organization>University of Guelph</sa:organization>
+                  <sa:city>Guelph</sa:city>
+                  <sa:state>Ontario</sa:state>
+                  <sa:postal-code>N1G 2W1</sa:postal-code>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srctPC_affLgooDFyoWC">School of Environmental Sciences, University of Guelph, N1G 2W1, Guelph, Ontario, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author(s): Muhammad Zaeem.</ce:text>
+            </ce:correspondence>
+            <ce:correspondence id="cor0002">
+               <ce:label>⁎⁎</ce:label>
+               <ce:text id="cetext0002">Corresponding author(s): Dr. Muhammad Nadeem.</ce:text>
+            </ce:correspondence>
+            <ce:correspondence id="cor0003">
+               <ce:label>⁎⁎⁎</ce:label>
+               <ce:text id="cetext0003">Corresponding author(s): Dr. Mumtaz Cheema.</ce:text>
+            </ce:correspondence>
+            <ce:correspondence id="cor0004">
+               <ce:label>⁎⁎⁎⁎</ce:label>
+               <ce:text id="cetext0004">Corresponding author(s): Dr. Raymond Thomas.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="28" month="11" year="2020"/>
+         <ce:date-revised day="8" month="11" year="2021"/>
+         <ce:date-accepted day="1" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">This data in brief article represents the data set associated with a research article published in Geoderma [1]. The data set represents figures showing the spatial distribution of selected macro and micronutrients, and their quantification in different crop or nutrient management systems practiced in the boreal ecosystem. Spatial distribution of nutrients was measured by laser ablation inductively coupled plasma mass spectrometry (LA‒ICP‒MS), using the new techniques we developed to visualize nutrient distribution in intact soil cores representative of the root rhizosphere. This data article supports the findings published in the main article [1]. This work also demonstrates that LA-ICP-MS is a valuable technique to image the spatial distribution of macro and micronutrients in intact soil cores as affected by different crop management practices.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0005">Elemental imaging</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0006">Soil core nutrient imaging</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0007">Nutrient mapping</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0008">Spatial mineral distribution</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0009">Imaging mass spectrometry</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

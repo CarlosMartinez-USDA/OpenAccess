@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Geographical information dataset “geosynthetics in coastal protection of the South-East Baltic”</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Dmitry</namePart>
+      <namePart type="family">Domnin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8627-2055</nameIdentifier>
+      <displayForm>Domnin, Dmitry</displayForm>
+      <affiliation>Shirshov Institute of Oceanology, Russian Academy of Sciences, Moscow 117997, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Eugeny</namePart>
+      <namePart type="family">Burnashov</namePart>
+      <displayForm>Burnashov, Eugeny</displayForm>
+      <affiliation>SBI KO “Baltberegozashchita”, Svetlogorsk 238560, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The database provides information on coastal protection structures (containing geosynthetic materials) located on the coast of the South-East Baltic, in the Kaliningrad Oblast (Russia) and the Pomeranian Voivodeship (Poland). The fragments of geosynthetics may enter the environment due to partial destruction and operational losses and become a new type of coastal pollution. The database contains the following sections: the tabular data about coastal protecting structures [ProtectingStructures_tab.xlsx]; the point vector geodata about these structures [ProtectingStructures_pnt.kmz] and used geosynthetic materials; the satellite images and photos [ProtectingStructures_images.pdf] demonstrated the general and close-up location of the coastal protecting structures in the satellite image, as well as their seeming. Information was collected during the ERANET-RUS_Plus joint project EI-GEO, ID 212 (RFBR 18-55-76002 ERA_a, BMBF 01DJ18005). </abstract>
+   <subject>
+      <topic>Geosynthetics</topic>
+   </subject>
+   <subject>
+      <topic>Geotextiles</topic>
+   </subject>
+   <subject>
+      <topic>Coastal protection</topic>
+   </subject>
+   <subject>
+      <topic>GIS</topic>
+   </subject>
+   <subject>
+      <topic>Remote data</topic>
+   </subject>
+   <subject>
+      <topic>Baltic Sea</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107693</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107693</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107693</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00968-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-07"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009689/S2352340921009689.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

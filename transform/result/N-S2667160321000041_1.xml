@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Origin of the Phosphoprotein Phosphatase (PPP) sequence family in Bacteria: Critical ancestral sequence changes, radiation patterns and substrate binding features</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">David</namePart>
+      <namePart type="family">Kerk</namePart>
+      <displayForm>Kerk, David</displayForm>
+      <affiliation>Department of Biological Sciences, University of Calgary, 2500 University Dr. NW Calgary, Alberta, Canada T2N 1N4</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mario E.</namePart>
+      <namePart type="family">Valdés-Tresanco</namePart>
+      <displayForm>Valdés-Tresanco, Mario E.</displayForm>
+      <affiliation>Department of Biological Sciences, University of Calgary, 2500 University Dr. NW Calgary, Alberta, Canada T2N 1N4</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ryan</namePart>
+      <namePart type="family">Toth</namePart>
+      <displayForm>Toth, Ryan</displayForm>
+      <affiliation>Department of Biological Sciences, University of Calgary, 2500 University Dr. NW Calgary, Alberta, Canada T2N 1N4</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sergei Yu.</namePart>
+      <namePart type="family">Noskov</namePart>
+      <displayForm>Noskov, Sergei Yu.</displayForm>
+      <affiliation>Department of Biological Sciences, University of Calgary, 2500 University Dr. NW Calgary, Alberta, Canada T2N 1N4</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kenneth K.-S.</namePart>
+      <namePart type="family">Ng</namePart>
+      <displayForm>Ng, Kenneth K.-S.</displayForm>
+      <affiliation>Department of Biological Sciences, University of Calgary, 2500 University Dr. NW Calgary, Alberta, Canada T2N 1N4</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Greg B.</namePart>
+      <namePart type="family">Moorhead</namePart>
+      <displayForm>Moorhead, Greg B.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Phosphoprotein phosphatases (PPP) belong to the PPP Sequence family, which in turn belongs to the broader metallophosphoesterase (MPE) superfamily. The relationship between the PPP Sequence family and other members of the MPE superfamily remains unresolved, in particular what transitions took place in an ancestral MPE to ultimately produce the phosphoprotein specific phosphatases (PPPs). We use structural and sequence alignment data, phylogenetic tree analysis, sequence signature (Weblogo) analysis, in silico protein-peptide modeling data, and in silico mutagenesis to trace a likely route of evolution from MPEs to the PPP Sequence family. Hidden Markov Model (HMM) based iterative database search strategies were utilized to identify PPP Sequence Family members from numerous bacterial groups. Using Mre11 as proxy for an ancestral nuclease-like MPE we trace a possible evolutionary route that alters a single active site substrate binding His-residue to yield a new substrate binding accessory, the “2-Arg-Clamp”. The 2-Arg-Clamp is not found in MPEs, but is present in all PPP Sequence family members, where the phosphomonesterase reaction predominates. Variation in position of the clamp arginines and a supplemental sequence loop likely provide substrate specificity for each PPP Sequence family group. Loss of a key substrate binding His-in MPEs opened the path to bind novel substrates and evolution of the 2-Arg-Clamp, a sequence change seen in both bacterial and eukaryotic phosphoprotein phosphatases. General significance: We establish a likely evolutionary route from nuclease-like MPE to PPP Sequence family enzymes, that includes the phosphoprotein phosphatases. </abstract>
+   <subject>
+      <topic>Protein phosphatase</topic>
+   </subject>
+   <subject>
+      <topic>Metallophosphoesterase</topic>
+   </subject>
+   <subject>
+      <topic>Phylogenetic analysis</topic>
+   </subject>
+   <subject>
+      <topic>Molecular dynamics simulation</topic>
+   </subject>
+   <subject>
+      <topic>Bacterial origin</topic>
+   </subject>
+   <subject>
+      <topic>Phosphomonoesterase</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100005</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100005</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100005</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00004-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-02-09"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S2667160321000041/S2667160321000041.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

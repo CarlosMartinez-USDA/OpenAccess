@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Intra-hospital transport of newborn infants dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Romaine</namePart>
+      <namePart type="family">Delacrétaz</namePart>
+      <displayForm>Delacrétaz, Romaine</displayForm>
+      <affiliation>Department of Pediatrics, eHnv Yverdon-les-Bains, Switzerland</affiliation>
+      <affiliation>Department Mother-Woman-Child, clinic of Neonatology, Lausanne University Hospital and University of Lausanne, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Céline J. Fischer</namePart>
+      <namePart type="family">Fumeaux</namePart>
+      <displayForm>Fumeaux, Céline J. Fischer</displayForm>
+      <affiliation>Department Mother-Woman-Child, clinic of Neonatology, Lausanne University Hospital and University of Lausanne, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Corinne</namePart>
+      <namePart type="family">Stadelmann</namePart>
+      <displayForm>Stadelmann, Corinne</displayForm>
+      <affiliation>Department Mother-Woman-Child, clinic of Neonatology, Lausanne University Hospital and University of Lausanne, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Adriana</namePart>
+      <namePart type="family">Rodriguez Trejo</namePart>
+      <displayForm>Rodriguez Trejo, Adriana</displayForm>
+      <affiliation>Department Mother-Woman-Child, Mother-Child Research Unit, Lausanne University Hospital and University of Lausanne, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alice</namePart>
+      <namePart type="family">Destaillats</namePart>
+      <displayForm>Destaillats, Alice</displayForm>
+      <affiliation>Department Mother-Woman-Child, Mother-Child Research Unit, Lausanne University Hospital and University of Lausanne, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Eric</namePart>
+      <namePart type="family">Giannoni</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0897-6529</nameIdentifier>
+      <displayForm>Giannoni, Eric</displayForm>
+      <affiliation>Department Mother-Woman-Child, clinic of Neonatology, Lausanne University Hospital and University of Lausanne, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article presents a dataset on intra-hospital transport of newborn infants. We collected prospectively data from patients hospitalized between 1.6.2015 and 31.5.2017 at the tertiary care neonatal unit of the University Hospital of Lausanne, Switzerland. An intra-hospital transport was defined as a transport for a diagnostic or a therapeutic intervention outside the neonatal unit, but within the hospital. Healthcare professionals present during the transport collected data in a case report form. We obtained additional data from electronic medical charts and through the clinical information system Metavision®. We recorded information on patients’ demographics and clinical characteristics, transports (indication, date, duration, destination, number and type of staff involved, medical devices and treatments), adverse events and interventions. Heart rate, peripheral oxygen saturation and fraction of inspired oxygen were recorded within 5 min before and after the transport, with an additional measure during transport for patients that had continuous monitoring of vital signs. This dataset will be of use to clinicians, researchers and policy makers, to inform clinical practice, for benchmarking, and for the development of future guidelines. These data have been further analyzed and interpreted in the article “Adverse events and associated factors during intra-hospital transport of newborn infants” (Delacrétaz et al, 2021). </abstract>
+   <subject>
+      <topic>Neonate</topic>
+   </subject>
+   <subject>
+      <topic>Infant</topic>
+   </subject>
+   <subject>
+      <topic>Transport</topic>
+   </subject>
+   <subject>
+      <topic>Intra-hospital</topic>
+   </subject>
+   <subject>
+      <topic>Adverse event</topic>
+   </subject>
+   <subject>
+      <topic>Safety</topic>
+   </subject>
+   <subject>
+      <topic>Intensive care</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107510</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107510</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107510</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00788-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-21"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007885/S2352340921007885.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

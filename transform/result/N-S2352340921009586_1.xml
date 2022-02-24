@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A data set of a Norwegian energy community</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Kjersti</namePart>
+      <namePart type="family">Berg</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9188-618X</nameIdentifier>
+      <displayForm>Berg, Kjersti</displayForm>
+      <affiliation>Dept. of Electric Power Engineering, NTNU, O.S. Bragstads plass 2E, Trondheim 7034, Norway</affiliation>
+      <affiliation>Dept. of Energy Systems, SINTEF Energy Research, Sem Sælands vei 11, Trondheim 7034, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Markus</namePart>
+      <namePart type="family">Löschenbrand</namePart>
+      <displayForm>Löschenbrand, Markus</displayForm>
+      <affiliation>Dept. of Energy Systems, SINTEF Energy Research, Sem Sælands vei 11, Trondheim 7034, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper presents a data set designed to represent Norwegian energy communities. As such it includes household consumption data collected from smart meter measurements and divided into consumer groups, appliance consumption data collected from Norwegian households, electric vehicle data regarding charging patterns, simulated photovoltaic power generation data based on temperature and irradiance data sets and wholesale electricity prices. All data sets are further filtered by season, weekday/weekend and time segment, and then fitted to either a normal, exponential or log-normal distribution. The reason for this specific segmentation is the intention to provide a suitable data set for case studies and experiments on energy communities that consider uncertainty, a main challenge to be overcome in the practical implementation of energy community projects. In addition to this filtered version, the previously unpublished raw data sets on household consumption and photovoltaic power generation are also provided. </abstract>
+   <subject>
+      <topic>Energy community</topic>
+   </subject>
+   <subject>
+      <topic>Electric vehicles</topic>
+   </subject>
+   <subject>
+      <topic>Electrical power system</topic>
+   </subject>
+   <subject>
+      <topic>Household appliances</topic>
+   </subject>
+   <subject>
+      <topic>Local energy community</topic>
+   </subject>
+   <subject>
+      <topic>Photovoltaics</topic>
+   </subject>
+   <subject>
+      <topic>Scandinavia</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107683</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107683</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107683</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00958-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-04"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009586/S2352340921009586.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

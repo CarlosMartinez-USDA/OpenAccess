@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Statistical analysis of the swelling process of casein microparticles based on single particle measurements</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jann</namePart>
+      <namePart type="family">Schulte</namePart>
+      <displayForm>Schulte, Jann</displayForm>
+      <affiliation>RWTH Aachen University, Soft Matter Process Engineering (AVT.SMP), Forckenbeckstraße 51, 52074 Aachen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Thomas</namePart>
+      <namePart type="family">Pütz</namePart>
+      <displayForm>Pütz, Thomas</displayForm>
+      <affiliation>RWTH Aachen University, Soft Matter Process Engineering (AVT.SMP), Forckenbeckstraße 51, 52074 Aachen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ronald</namePart>
+      <namePart type="family">Gebhardt</namePart>
+      <displayForm>Gebhardt, Ronald</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Film drying is used for the gentle production of casein microparticles. These result from aggregates that have previously formed in solution from micellar caseins in the presence of pectin under neutral pH conditions. The particles are stabilized by hydrophobic interactions and have a spherical shape. Their swelling behavior, which is enhanced with increasing pH, could be of interest for future applications in the field of drug encapsulation and release. The swelling of the microparticles occurs within minutes at pH 11, making it possible to perform a total of 46 consecutive individual tests. The analysis of the results showed that the microparticles keep their spherical shape during swelling. Furthermore, the swelling process proceeds in two steps, the rates of which are independent of the initial size of the casein microparticles. The values of the five parameters of the dynamic swelling model, which is used for the analysis of the kinetics, are examined with the Bravais-Pearson coefficient for pairwise linear correlations. Both swelling steps can be clearly distinguished with regard to rate and characteristic time, whereby the second swelling step at pH 11 consequently has a larger characteristic initial time but also a larger rate. For the first swelling step, the characteristic time and the rate coefficient are uncorrelated, while the rate for swelling step 2, which ends with the disintegration of the casein microparticles, is smaller the later it begins. Since there is a positive correlation between the characteristic times of the two swelling steps, it can be concluded that those particles are most stable for which the swelling process starts the latest. It seems plausible that a different degree of hydration of the microparticles after preparation is the cause of the observed stability differences. </abstract>
+   <subject>
+      <topic>Casein micelles</topic>
+   </subject>
+   <subject>
+      <topic>Microparticles</topic>
+   </subject>
+   <subject>
+      <topic>Swelling</topic>
+   </subject>
+   <subject>
+      <topic>Dynamic modelling</topic>
+   </subject>
+   <subject>
+      <topic>Correlation coefficient</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Food Hydrocolloids for Health</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-0259</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100014</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.fhfh.2021.100014</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.fhfh.2021.100014</url>
+   </location>
+   <identifier type="pii">S2667-0259(21)00006-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-07-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-0259/S2667025921X00027/S2667025921000066/S2667025921000066.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

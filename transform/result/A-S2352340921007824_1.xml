@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107517">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Proteome dataset of liver from dairy cows experiencing negative or positive energy balance at early lactation</dct:title>
+         <dct:creator>Turner H. Swartz</dct:creator>
+         <dct:creator>Uzi Moallem</dct:creator>
+         <dct:creator>Hadar Kamer</dct:creator>
+         <dct:creator>Gitit Kra</dct:creator>
+         <dct:creator>Yishai Levin</dct:creator>
+         <dct:creator>Laman K. Mamedova</dct:creator>
+         <dct:creator>Barry J. Bradford</dct:creator>
+         <dct:creator>Maya Zachut</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Postpartum</rdf:li>
+               <rdf:li>Proteomics</rdf:li>
+               <rdf:li>Metabolism</rdf:li>
+               <rdf:li>Hepatic</rdf:li>
+               <rdf:li>Bovine</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107517</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107517</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107517</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107517</dct:identifier>
+         <bam:articleNumber>107517</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-20T01:17:37Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107517</ja:aid>
+         <ce:article-number>107517</ce:article-number>
+         <ce:pii>S2352-3409(21)00782-4</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107517</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1874-3919(21)00207-4</ce:pii>
+               <ce:doi>10.1016/j.jprot.2021.104308</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="doc001">
+            <ce:textfn id="cetextfn0001aa">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Proteome dataset of liver from dairy cows experiencing negative or positive energy balance at early lactation</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007824-bf15a4c5d91f88a78624f7b3e91dabb1"
+                       orcid="0000-0002-9457-2418">
+               <ce:given-name>Turner H.</ce:given-name>
+               <ce:surname>Swartz</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007824-8bffa32be53e57fa7a39d9240405b163">
+               <ce:given-name>Uzi</ce:given-name>
+               <ce:surname>Moallem</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007824-0e50f0de9c227115fa2d1cbd6b029912">
+               <ce:given-name>Hadar</ce:given-name>
+               <ce:surname>Kamer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007824-d6f61ce9952571528ab16498983b2140">
+               <ce:given-name>Gitit</ce:given-name>
+               <ce:surname>Kra</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921007824-9f9bf79b556bce37bde100c81ecceb9a">
+               <ce:given-name>Yishai</ce:given-name>
+               <ce:surname>Levin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921007824-3b71a16cfebba65770373fca0ad64e78"
+                       orcid="0000-0003-3612-0381">
+               <ce:given-name>Laman K.</ce:given-name>
+               <ce:surname>Mamedova</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921007824-262f04797b96305acabc919b6fb7ff05"
+                       orcid="0000-0002-6775-4961">
+               <ce:given-name>Barry J.</ce:given-name>
+               <ce:surname>Bradford</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921007824-c665627224c755d04c3f09be1fd5e541"
+                       orcid="0000-0002-9644-6028">
+               <ce:given-name>Maya</ce:given-name>
+               <ce:surname>Zachut</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:mayak@volcani.agri.gov.il">mayak@volcani.agri.gov.il</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007824-670bde2c680fb3a39c23a3c2bd430d4e">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Animal Sciences, Michigan State University, East Lansing, MI 48824, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Animal Sciences</sa:organization>
+                  <sa:organization>Michigan State University</sa:organization>
+                  <sa:city>East Lansing</sa:city>
+                  <sa:state>MI</sa:state>
+                  <sa:postal-code>48824</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Animal Sciences, Michigan State University, East Lansing, MI 48824, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007824-35f3e903876806fc2bcbd96a89680d02">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Ruminant Sciences, Institute of Animal Science, ARO Volcani Center, 68 HaMaccabim Road, P.O.B 15159, Rishon Lezion 7505101, Israel</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Ruminant Sciences</sa:organization>
+                  <sa:organization>Institute of Animal Science</sa:organization>
+                  <sa:organization>ARO Volcani Center</sa:organization>
+                  <sa:address-line>68 HaMaccabim Road, P.O.B 15159</sa:address-line>
+                  <sa:city>Rishon Lezion</sa:city>
+                  <sa:postal-code>7505101</sa:postal-code>
+                  <sa:country>Israel</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Ruminant Sciences, Institute of Animal Science, ARO Volcani Center, 68 HaMaccabim Road, P.O.B 15159, Rishon Lezion 7505101, Israel</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921007824-11ec34d1668981802c01a9f602689f45">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Animal Science, the Robert H. Smith Faculty of Agriculture, Food and Environment, the Hebrew University of Jerusalem, Rehovot 76100, Israel</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Animal Science</sa:organization>
+                  <sa:organization>the Robert H. Smith Faculty of Agriculture</sa:organization>
+                  <sa:organization>Food and Environment</sa:organization>
+                  <sa:organization>the Hebrew University of Jerusalem</sa:organization>
+                  <sa:city>Rehovot</sa:city>
+                  <sa:postal-code>76100</sa:postal-code>
+                  <sa:country>Israel</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Animal Science, the Robert H. Smith Faculty of Agriculture, Food and Environment, the Hebrew University of Jerusalem, Rehovot 76100, Israel</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921007824-e75bde7268bba3c0c769ab48c22a1f2f">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">The Nancy and Stephen Grand Israel National Center for Personalized Medicine, Weizmann Institute of Science, Rehovot 7610001, Israel</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>The Nancy and Stephen Grand Israel National Center for Personalized Medicine</sa:organization>
+                  <sa:organization>Weizmann Institute of Science</sa:organization>
+                  <sa:city>Rehovot</sa:city>
+                  <sa:postal-code>7610001</sa:postal-code>
+                  <sa:country>Israel</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dThe Nancy and Stephen Grand Israel National Center for Personalized Medicine, Weizmann Institute of Science, Rehovot 7610001, Israel</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="29" month="7" year="2021"/>
+         <ce:date-revised day="13" month="10" year="2021"/>
+         <ce:date-accepted day="18" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara001" view="all">This article contains raw and processed data related to research published by Swartz et al. [1]. We present proteomics data from liver of postpartum dairy cows that were obtained by liquid chromatography-mass spectrometry following protein extraction. Differential abundance between liver of cows experiencing either negative energy balance (NEB, <ce:italic>n</ce:italic> = 6) or positive energy balance (PEB, <ce:italic>n</ce:italic> = 4) at 17 ± 3 days in lactation was quantified using MS1 intensity based label-free. There is a paucity of studies examining the associations of NEB with the liver proteome in early lactation dairy cows. Therefore, our objective was to examine the differences in the liver proteome in periparturient dairy cows experiencing naturally occurring NEB compared to cows in PEB. In this study, multiparous Holstein dairy cows were milked either 2 or 3 times daily for the first 30 days in milk (DIM) to alter energy balance, and were classified retrospectively as NEB (<ce:italic>n</ce:italic> = 18) or PEB (<ce:italic>n</ce:italic> = 22). We collected liver biopsies from 10 cows (<ce:italic>n</ce:italic> = 5 from each milking frequency), that were retrospectively classified according to their energy balance (NEB, <ce:italic>n</ce:italic> = 6; PEB, <ce:italic>n</ce:italic> = 4). The liver proteome was characterized using label-free quantitative shotgun proteomics. This novel dataset contains 2,741 proteins were identified, and 68 of those were differentially abundant between NEB and PEB (<ce:italic>P ≤</ce:italic> 0.05 and FC± 1.5); these findings are discussed in our recent research article [1]. The present dataset of liver proteome can be used as either biological markers for disease or therapeutic targets to improve metabolic adaptations to lactation in postpartum dairy cattle. Data are available via ProteomeXchange with identifier PXD028124.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Postpartum</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Proteomics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Metabolism</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Hepatic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Bovine</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

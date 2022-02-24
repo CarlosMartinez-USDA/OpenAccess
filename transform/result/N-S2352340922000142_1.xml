@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Direct current geared motor data: Voltage, current, and speed measured under different experimental conditions</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Wallace Pereira Neves</namePart>
+      <namePart type="family">dos Reis</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5184-7848</nameIdentifier>
+      <displayForm>dos Reis, Wallace Pereira Neves</displayForm>
+      <affiliation>Federal Institute of Education, Science, and Tehcnology of Rio de Janeiro (IFRJ), Volta Redonda campus, Volta Redonda - 27215-350, Rio de Janeiro, Brazil</affiliation>
+      <affiliation>Computing Department, Federal University of São Carlos (UFSCar), São Carlos - 13565-905, São Paulo, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Giselle Elias</namePart>
+      <namePart type="family">Couto</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9248-6447</nameIdentifier>
+      <displayForm>Couto, Giselle Elias</displayForm>
+      <affiliation>Federal Center for Technological Education Celso Suckow da Fonseca (CEFET-RJ), Itaguaí Campus, Itaguaí - 23812-101, Rio de Janeiro, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Orides</namePart>
+      <namePart type="family">Morandin Junior</namePart>
+      <displayForm>Morandin Junior, Orides</displayForm>
+      <affiliation>Computing Department, Federal University of São Carlos (UFSCar), São Carlos - 13565-905, São Paulo, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This data article describes eleven datasets collected from laboratory individual tests with two DC motors of the same model. The motors are proposed to be used as the actuators of an Automated Guided Vehicle (AGV). Each dataset shares the same structure, with the measurement of twelve variables: instant of measurement, encoder pulse counts, calculated motor velocity, raw current, calculated current, raw voltage from output A1, raw voltage from output B1, calculated voltage from output A1, calculated voltage from output B1, potential difference applied to the motor terminals, motor status, and the Arduino analog output value in pulse width modulation (PWM). The data are helpful to model and identify the system considering its dynamics. Such consideration on control systems design, specifically on AGV position control, can improve the controller accuracy. It also can be useful to study robot design, and mobile robot and AGV simulation. </abstract>
+   <subject>
+      <topic>DC motor</topic>
+   </subject>
+   <subject>
+      <topic>Modeling</topic>
+   </subject>
+   <subject>
+      <topic>System Identification</topic>
+   </subject>
+   <subject>
+      <topic>Motor dynamics</topic>
+   </subject>
+   <subject>
+      <topic>Automated Guided Vehicle</topic>
+   </subject>
+   <subject>
+      <topic>Position control</topic>
+   </subject>
+   <subject>
+      <topic>Mobile robot</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107802</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107802</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107802</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00014-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-05"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000142/S2352340922000142.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

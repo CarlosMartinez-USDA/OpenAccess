@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on one-dimensional vertical free swelling potential of soils and related soil properties</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Eyo E.</namePart>
+      <namePart type="family">U</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8589-6867</nameIdentifier>
+      <displayForm>U, Eyo E.</displayForm>
+      <affiliation>Department of Geography and Environmental Management, Faculty of Environment and Technology, Civil Engineering Cluster, University of the West of England, Bristol, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Uche</namePart>
+      <namePart type="family">Onyekpe</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8033-9394</nameIdentifier>
+      <displayForm>Onyekpe, Uche</displayForm>
+      <affiliation>Department of Data Science, School of Science, Technology and Health, York St. John University, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Most of the damaging geo-hazards recorded in modern history are caused by soil swelling or expansion. Therefore, proper evaluation of a soil's capacity to swell is very crucial for the achievement of a secure and safe ground for civil infrastructures and related land developments which are founded on the soil. In order to simulate as well as estimate the heave that can occur under field conditions, laboratory one-dimensional oedometer vertical swell-strain testing are most frequently used. Hence, in this brief, one-dimensional swelling tests adopted to measure soil swelling on laboratory-engineered and natural soils covering various regions on the globe are reported. The testing standards and procedures followed in the measurement of one-dimensional swelling are those enumerated in the American Standards for Testing of Materials (ASTM), and American Association of State Highways Transport Officials (AASHTO). Slight modifications to the measurement procedures (such as the use of different surcharge loading and custom-made consolidation rings) reflecting special laboratory testing conditions and for the purposes of comparisons, are also reported. Corresponding soil properties characterising the dataset includes moisture content, void ratio, specific gravity, unit weight, liquid limit, plastic limit, plasticity index, clay content, silt content, maximum dry unit weight, optimum moisture content, and soil activity index, all of which are known to bear either direct or indirect influences on soil. Determination of the state of compaction of the soils where applicable, are carried out based on the American Standards for Testing of Materials (ASTM), Turkish Standards (TS), American Association of State Highways Transport Officials (AASHTO)and a combination of both standard and modified efforts. A total of 395 data samples on soil swelling potential are reported. With regards to the corresponding soil properties, a total of 219 data records of soil specific gravity, 321 data records of initial moisture content, 163 data records of void ratio, 273 data records of dry unit weight, 347 data records of liquid limit, 347 data records of plastic limit, 395 data records of plasticity index, 209 data records of activity index, 339 data records of clay content, 174 data records of silt content, 246 data records of optimum moisture content, 228 data records of maximum dry density and 347 data records of Unified Soil Classification System (USCS) are presented. Finally, the dataset of one-dimensional soil swelling described herein are intended to aid geotechnical engineers and researchers who are involved in statistical correlation studies, data analytics, and machine learning predictions using soft computing methods mostly aimed at evaluating soil expansion especially during the preliminary phases of soil investigation and foundation design. </abstract>
+   <subject>
+      <topic>Swelling</topic>
+   </subject>
+   <subject>
+      <topic>Soil expansion</topic>
+   </subject>
+   <subject>
+      <topic>One-dimensional swelling</topic>
+   </subject>
+   <subject>
+      <topic>Soil index properties</topic>
+   </subject>
+   <subject>
+      <topic>Moisture content</topic>
+   </subject>
+   <subject>
+      <topic>Surcharge load</topic>
+   </subject>
+   <subject>
+      <topic>Ground movement</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107608</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107608</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107608</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00883-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008830/S2352340921008830.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

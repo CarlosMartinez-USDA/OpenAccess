@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100013">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Urinary exosome proteomic profiling defines stage-specific rapid progression of autosomal dominant polycystic kidney disease and tolvaptan efficacy</dct:title>
+         <dct:creator>Katie L. Raby</dct:creator>
+         <dct:creator>Harry Horsely</dct:creator>
+         <dct:creator>Aidan McCarthy-Boxer</dct:creator>
+         <dct:creator>Jill T. Norman</dct:creator>
+         <dct:creator>Patricia D. Wilson</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>ADPKD progression</rdf:li>
+               <rdf:li>Urinary biomarkers</rdf:li>
+               <rdf:li>Exosomes</rdf:li>
+               <rdf:li>Proteomics</rdf:li>
+               <rdf:li>Tolvaptan effects</rdf:li>
+               <rdf:li>Vesicular trafficking</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100013</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100013</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100013</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100013</dct:identifier>
+         <bam:articleNumber>100013</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-04-28T07:53:02Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100013</ja:aid>
+         <ce:article-number>100013</ce:article-number>
+         <ce:pii>S2667-1603(21)00012-0</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100013</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Urinary exosome proteomic profiling defines stage-specific rapid progression of autosomal dominant polycystic kidney disease and tolvaptan efficacy</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000120-6281728361fdec678a547dc803377b6e">
+               <ce:given-name>Katie L.</ce:given-name>
+               <ce:surname>Raby</ce:surname>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:katie.raby.15@alumni.ucl.ac.uk">katie.raby.15@alumni.ucl.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000120-b4544e0da8829d0e202c2835534946b4">
+               <ce:given-name>Harry</ce:given-name>
+               <ce:surname>Horsely</ce:surname>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:h.horsely@ucl.ac.uk">h.horsely@ucl.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667160321000120-02ee8e83d40dfa3f34ba4a54caee3e9c">
+               <ce:given-name>Aidan</ce:given-name>
+               <ce:surname>McCarthy-Boxer</ce:surname>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667160321000120-45b1ee9a0c1a68b2bff2fa4e99a2e5a4"
+                       orcid="0000-0001-5293-4823">
+               <ce:given-name>Jill T.</ce:given-name>
+               <ce:surname>Norman</ce:surname>
+               <ce:e-address id="ead0003" type="email" xlink:href="mailto:j.norman@ucl.ac.uk">j.norman@ucl.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667160321000120-cafa8eda3f3622a8acc0c8b6dc8cff0b"
+                       orcid="0000-0003-0902-188X">
+               <ce:given-name>Patricia D.</ce:given-name>
+               <ce:surname>Wilson</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0004"
+                             type="email"
+                             xlink:href="mailto:patricia.wilson@ucl.ac.uk">patricia.wilson@ucl.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000120-431251cf5b46da58ac8ff142b477361b">
+               <ce:textfn id="cetextfn0001">University College London, Department of Renal Medicine, Royal Free Hospital, LondonNW3 2PF, United Kingdom</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University College London</sa:organization>
+                  <sa:organization>Department of Renal Medicine</sa:organization>
+                  <sa:organization>Royal Free Hospital</sa:organization>
+                  <sa:city>London</sa:city>
+                  <sa:postal-code>NW3 2PF</sa:postal-code>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">University College London, Department of Renal Medicine, Royal Free Hospital, LondonNW3 2PF, United Kingdom</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: University College London, Department of Renal Medicine, 2<ce:sup loc="post">nd</ce:sup> Floor, Royal Free Hospital, Rowland Hill Street, London NW3 2PF, United Kingdom.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>University College London</sa:organization>
+                  <sa:organization>Department of Renal Medicine</sa:organization>
+                  <sa:address-line>2nd Floor, Royal Free Hospital, Rowland Hill Street</sa:address-line>
+                  <sa:city>London</sa:city>
+                  <sa:postal-code>NW3 2PF</sa:postal-code>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="15" month="1" year="2021"/>
+         <ce:date-revised day="27" month="4" year="2021"/>
+         <ce:date-accepted day="27" month="4" year="2021"/>
+         <ce:abstract class="author-highlights" id="abs0001" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara013" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Proteomic profiling of urinary exosomes distinguishes between rapidly and slowly progressing ADPKD.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Proteomic profiling of urinary exosomes distinguishes between good and poor responders to Tolvaptan therapy.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">ADPKD exosomes show stage-dependent changes in donor cell secretion, recipient cell uptake and endosomal vesicular trafficking.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Urinary exosome profiling offers potential for personalised ADPKD patient management.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="author" id="abs0002" view="all">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara014" view="all">ADPKD is the most common genetic disease of the kidney leading to end-stage renal disease necessitating renal replacement therapy at any time between the 1<ce:sup loc="post">st</ce:sup> and 8<ce:sup loc="post">th</ce:sup> decades of life due to widely variable rates of disease progression. This presents significant patient anxiety and a significant prognostic and therapeutic challenge. Tolvaptan is the only approved drug licensed to slow ADPKD progression by reducing renal cystic expansion but side-effects can limit its efficacy.</ce:simple-para>
+               <ce:simple-para id="spara015" view="all">To address the need to identify new biomarkers to monitor progression of ADPKD and to evaluate the therapeutic effects of Tolvaptan, proteomic analysis was conducted on defined (40-100nm) urinary exosomes isolated from ADPKD patients phenotyped and clinically monitored over a 10-year period. Comparative Gene Ontology analysis of Tandem Mass Tag labelled mass spectrometry-derived protein profiles from urinary exosomes from ADPKD patients with rapid (&gt;10ml/min/5 years decline in estimated glomerular filtration rate) versus slow progression showed distinctive patterns of pathway up-regulation. Clear discrimination between rapid and slowly-progressive profiles were seen in all stages functional decline in ADPKD patients whether with mild (&gt;70ml/min), moderate (50-69ml/min) or severe (&lt;49ml/min) disease at onset. Discriminatory pathways and proteins included Notch-, integrin- and growth factor-signalling; microtubular kinase, vesicular proteins and epidermal growth factor substrates.</ce:simple-para>
+               <ce:simple-para id="spara016" view="all">Confocal microscopy of fluorescently-labelled normal versus ADPKD epithelial cell-derived exosomes <ce:italic>in vitro</ce:italic> also identified ADPKD-dependent abnormalities in intracellular vesicular trafficking and implicated changes in ADPKD-dependent exosome secretion and target cell uptake as factors underlying urinary exosome excretion biomarker properties.</ce:simple-para>
+               <ce:simple-para id="spara017" view="all">Comparative proteomic analysis of urinary exosomal proteins in individual patients before and after treatment with Tolvaptan for 4 years also identified distinct patterns of pathway modification dependent on the degree of effectiveness of the therapeutic response. Up-regulation of Wnt-pathway and vesicular proteins were characteristic of urinary exosomes from ADPKD patients with good responses to Tolvaptan while upregulation of angiogenesis pathways and additional molecular forms of vasopressin receptor AVPR2 were characteristic in urinary exosomes of ADPKD patients with poor responses.</ce:simple-para>
+               <ce:simple-para id="spara018" view="all">Taken together, these studies conclude that proteomic profiling of urinary exosome biomarkers provides a specific, sensitive and practical non-invasive method to identify and monitor the rate of disease progression and the effects of Tolvaptan therapy in individual ADPKD patients. This provides a means to identify those patients most likely to benefit maximally from therapy and to progress towards a personalization of ADPKD prognosis and management.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="graphical" id="abs0003" view="all">
+            <ce:section-title id="cesectitle0003">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara019" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="keyword" id="keys0001" view="all">
+            <ce:section-title id="cesectitle0004">Key words</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">ADPKD progression</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Urinary biomarkers</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Exosomes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Proteomics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Tolvaptan effects</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Vesicular trafficking</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

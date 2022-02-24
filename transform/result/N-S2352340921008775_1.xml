@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Cockpit voice recorder transcript data: Capturing safety voice and safety listening during historic aviation accidents</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Mark C.</namePart>
+      <namePart type="family">Noort</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3741-0068</nameIdentifier>
+      <displayForm>Noort, Mark C.</displayForm>
+      <affiliation>Leiden University, Law School, the Netherland</affiliation>
+      <affiliation>London School of Economics and Political Science, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tom W.</namePart>
+      <namePart type="family">Reader</namePart>
+      <displayForm>Reader, Tom W.</displayForm>
+      <affiliation>London School of Economics and Political Science, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alex</namePart>
+      <namePart type="family">Gillespie</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0162-1269</nameIdentifier>
+      <displayForm>Gillespie, Alex</displayForm>
+      <affiliation>London School of Economics and Political Science, United Kingdom</affiliation>
+      <affiliation>Bjørknes University College, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Cockpit Voice Recorder (CVR) transcripts capture audio data within cockpit environments. This aids the investigation of causal factors contributing to aviation accidents by revealing communication and other sounds prior to aviation accidents. This dataset contains 172 unique CVR transcripts (with 21,626 lines of transcript: averaging: 106.001 conversational turns; SD = 51.727, range: 1-641), and capturing approximately 15% of historic aviation fatalities in commercial and corporate aviation between 1962 and 2018. CVR transcripts involved airlines registered across 42 countries, with accidents occurring across 50 countries. The dataset was compiled by extracting CVR transcripts from three primary data sources and excluding duplicate and non-English entries. The data contains variables describing the (i) raw data, (ii) content and characteristics of the CVR transcripts, and (iii) behaviours coded by research assistants in support of the associated research article. The data existed of conversational turns amongst flight crew (total = 19,393; within transcripts: m = 112.750; SD = 124.829) and other data (n = 2213; within transcripts: m = 12.866; SD = 14.452; e.g., background sounds, transcriber notes). Conversational turns were uttered by junior (39.00%) and senior (35.44%) flight crew, and others (25.56%). The dataset enables future research through providing the first integrated dataset on communication behaviours prior to historic aviation accidents. Moreover, the dataset may support safety management through enabling the identification of communication behaviours contributing to accidents and the design of novel interventions. This data-in-brief is a co-submission associated with the research article: M. C. Noort, T.W. Reader, A. Gillespie. (2021). Safety voice and safety listening during aviation accidents: Cockpit voice recordings reveal that speaking-up to power is not enough. Safety Science. </abstract>
+   <subject>
+      <topic>CRM</topic>
+   </subject>
+   <subject>
+      <topic>Cockpit voice recorders</topic>
+   </subject>
+   <subject>
+      <topic>Safety voice</topic>
+   </subject>
+   <subject>
+      <topic>Safety listening</topic>
+   </subject>
+   <subject>
+      <topic>Aviation accidents</topic>
+   </subject>
+   <subject>
+      <topic>CRM</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107602</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107602</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107602</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00877-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008775/S2352340921008775.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

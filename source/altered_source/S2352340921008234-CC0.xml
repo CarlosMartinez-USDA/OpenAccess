@@ -1,0 +1,154 @@
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+    xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+    xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+    xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+    xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+    xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+    xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+    xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+    xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+    xmlns:ce="http://www.elsevier.com/xml/common/schema"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML"
+    xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+    xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+    xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+    xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <rdf:RDF>
+        <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107547">
+            <dct:format>application/xml</dct:format>
+            <dct:title>Dataset on human rights awareness in Northwest Nigeria</dct:title>
+            <dct:creator>Kasim Balarabe</dct:creator>
+            <dct:subject>
+                <rdf:Bag>
+                    <rdf:li>Human rights</rdf:li>
+                    <rdf:li>Human rights claim</rdf:li>
+                    <rdf:li>Human rights awareness</rdf:li>
+                    <rdf:li>Human rights complaints</rdf:li>
+                    <rdf:li>Comfortability in litigating</rdf:li>
+                    <rdf:li>Northwest Nigeria</rdf:li>
+                </rdf:Bag>
+            </dct:subject>
+            <dct:description>Data in Brief 39 (2021).
+                doi:10.1016/j.dib.2021.107547</dct:description>
+            <prism:aggregationType>journal</prism:aggregationType>
+            <prism:publicationName>Data in Brief</prism:publicationName>
+            <prism:copyright>&#169; 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+            <dct:publisher>Elsevier Inc.</dct:publisher>
+            <prism:issn>2352-3409</prism:issn>
+            <prism:volume>39</prism:volume>
+            <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+            <prism:doi>10.1016/j.dib.2021.107547</prism:doi>
+            <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107547</prism:url>
+            <dct:identifier>doi:10.1016/j.dib.2021.107547</dct:identifier>
+            <bam:articleNumber>107547</bam:articleNumber>
+            <oa:openAccessInformation>
+                <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    >http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+                <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    >2021-11-02T15:25:52Z</oa:openAccessEffective>
+                <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+                </oa:sponsor>
+                <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    >https://creativecommons.org/publicdomain/zero/1.0/</oa:userLicense>
+            </oa:openAccessInformation>
+            <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open
+                access article under the CC0 license.</cp:licenseLine>
+        </rdf:Description>
+    </rdf:RDF>
+    <dp:document-properties>
+        <dp:aggregation-type>Journals</dp:aggregation-type>
+        <dp:version-number>S300.1</dp:version-number>
+    </dp:document-properties>
+    <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+        <ja:item-info>
+            <ja:jid>DIB</ja:jid>
+            <ja:aid>107547</ja:aid>
+            <ce:article-number>107547</ce:article-number>
+            <ce:pii>S2352-3409(21)00823-4</ce:pii>
+            <ce:doi>10.1016/j.dib.2021.107547</ce:doi>
+            <ce:copyright type="unknown" year="2021"/>
+        </ja:item-info>
+        <ja:head>
+            <ce:dochead id="dchd0001">
+                <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">Dataset on human rights awareness in Northwest Nigeria</ce:title>
+            <ce:author-group id="aut0001">
+                <ce:author id="au0001"
+                    author-id="S2352340921008234-280c05ad04e438fa2617a783454107a2"
+                    orcid="0000-0003-4681-2824">
+                    <ce:given-name>Kasim</ce:given-name>
+                    <ce:surname>Balarabe</ce:surname>
+                    <ce:e-address id="ead0001" type="email" xlink:href="mailto:kbalarabe@jgu.edu.in"
+                        >kbalarabe@jgu.edu.in</ce:e-address>
+                    <ce:e-address id="ea3" type="social-media"
+                        xlink:href="https://twitter.com/DrKasimB">@DrKasimB</ce:e-address>
+                </ce:author>
+                <ce:affiliation id="aff0001"
+                    affiliation-id="S2352340921008234-b6ac29a3d38bdf4fee496b4d8f59e9a0">
+                    <ce:textfn id="cetextfn0001">O. P. Jindal Global University, Sonipat,
+                        India</ce:textfn>
+                    <sa:affiliation>
+                        <sa:organization>O. P. Jindal Global University</sa:organization>
+                        <sa:city>Sonipat</sa:city>
+                        <sa:country>India</sa:country>
+                    </sa:affiliation>
+                    <ce:source-text id="staff0001">O. P. Jindal Global University, Sonipat,
+                        India</ce:source-text>
+                </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="2" month="7" year="2021"/>
+            <ce:date-revised day="29" month="10" year="2021"/>
+            <ce:date-accepted day="1" month="11" year="2021"/>
+            <ce:abstract id="abs0001" view="all" class="author">
+                <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+                <ce:abstract-sec id="abss0001" view="all">
+                    <ce:simple-para id="spara009" view="all">The data in this article investigated
+                        the extent of human rights awareness in the seven States comprising the
+                        Northwest geopolitical zone of Nigeria and its relationship with the
+                        characteristics of the population in the light of limited human rights
+                        claims in the region. The data was obtained from 780 respondents using
+                        stratified and systematic random sampling techniques using with the help of
+                        a structured questionnaire. It is aimed at ascertaining, among others, the
+                        extent to which the population in the region is aware of human rights and
+                        the meaning of the terms &#x2018;marginalisation' and
+                        &#x2018;discrimination', whether the population is aware of how to claim
+                        human rights and whether the population is comfortable approaching the
+                        courts for human rights claims. The questionnaire also sought information on
+                        the most utilised sources of information, formal and informal factors that
+                        influence a decision to litigate human rights violations, and the most
+                        common complaint mechanisms employed by the population concerning human
+                        rights violations. The responses were analysed using Qualtrics software, and
+                        the data was presented using statistical representations. The data shows an
+                        appreciable level of human rights understanding in the
+                        region.</ce:simple-para>
+                </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+                <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+                <ce:keyword id="key0001">
+                    <ce:text id="cetext0001">Human rights</ce:text>
+                </ce:keyword>
+                <ce:keyword id="key0002">
+                    <ce:text id="cetext0002">Human rights claim</ce:text>
+                </ce:keyword>
+                <ce:keyword id="key0003">
+                    <ce:text id="cetext0003">Human rights awareness</ce:text>
+                </ce:keyword>
+                <ce:keyword id="key0004">
+                    <ce:text id="cetext0004">Human rights complaints</ce:text>
+                </ce:keyword>
+                <ce:keyword id="key0005">
+                    <ce:text id="cetext0005">Comfortability in litigating</ce:text>
+                </ce:keyword>
+                <ce:keyword id="key0006">
+                    <ce:text id="cetext0006">Northwest Nigeria</ce:text>
+                </ce:keyword>
+            </ce:keywords>
+        </ja:head>
+    </ja:article>
+</doc:document>

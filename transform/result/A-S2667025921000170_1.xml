@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100025">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Novel formulation of liposomal lutein using nanofiber weaving (NFW) technology: Antioxidant property and in vitro release studies</dct:title>
+         <dct:creator>Karthik Varma</dct:creator>
+         <dct:creator>Shintu Jude</dct:creator>
+         <dct:creator>Reshma Vijayakumari Raveendran Nair</dct:creator>
+         <dct:creator>Bincicil Annie Varghese</dct:creator>
+         <dct:creator>Joby Jacob</dct:creator>
+         <dct:creator>Augustine Amalraj</dct:creator>
+         <dct:creator>Sasikumar Kuttappan</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Lutein</rdf:li>
+               <rdf:li>Liposomal lutein</rdf:li>
+               <rdf:li>Liposomal powder formulation</rdf:li>
+               <rdf:li>Nanofiber weaving technology</rdf:li>
+               <rdf:li>Zeal technology</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health 1 (2021). doi:10.1016/j.fhfh.2021.100025</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fhfh.2021.100025</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100025</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100025</dct:identifier>
+         <bam:articleNumber>100025</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-08-21T04:24:06Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100025</ja:aid>
+         <ce:article-number>100025</ce:article-number>
+         <ce:pii>S2667-0259(21)00017-0</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100025</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Novel formulation of liposomal lutein using nanofiber weaving (NFW) technology: Antioxidant property and <ce:italic>in vitro</ce:italic> release studies</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025921000170-e64381b3c398c31651514de5a9e10e29">
+               <ce:given-name>Karthik</ce:given-name>
+               <ce:surname>Varma</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025921000170-b9c98a219ad93377f2b6ae1a95edeaa0">
+               <ce:given-name>Shintu</ce:given-name>
+               <ce:surname>Jude</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667025921000170-90af69ad0c6805a5ddd793677e0ca150">
+               <ce:given-name>Reshma Vijayakumari Raveendran</ce:given-name>
+               <ce:surname>Nair</ce:surname>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667025921000170-3200cdcb3ced075713792357d3dfc816">
+               <ce:given-name>Bincicil Annie</ce:given-name>
+               <ce:surname>Varghese</ce:surname>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667025921000170-f9c5e9283d018fae94940b906672adb1">
+               <ce:given-name>Joby</ce:given-name>
+               <ce:surname>Jacob</ce:surname>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667025921000170-e245489829e7a47ec2a524c0ebd683b4">
+               <ce:given-name>Augustine</ce:given-name>
+               <ce:surname>Amalraj</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:amalraj.a@plantlipids.com">amalraj.a@plantlipids.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667025921000170-90d4684430d25f8c032a7b27fa26827d">
+               <ce:given-name>Sasikumar</ce:given-name>
+               <ce:surname>Kuttappan</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:sasikumar.kuttappan@plantlipids.com">sasikumar.kuttappan@plantlipids.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025921000170-6a6f97c0b1ddbb85ab83bf70065c9007">
+               <ce:textfn id="cetextfn0001">R&amp;D Centre, Aurea Biolabs (P) Ltd, Kolenchery, Cochin, 682 311, Kerala, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>R&amp;D Centre, Aurea Biolabs (P) Ltd, Kolenchery</sa:organization>
+                  <sa:city>Cochin</sa:city>
+                  <sa:state>Kerala</sa:state>
+                  <sa:postal-code>682 311</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">R&amp;D Centre, Aurea Biolabs (P) Ltd, Kolenchery, Cochin, 682 311, Kerala, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding authors.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="26" month="2" year="2021"/>
+         <ce:date-revised day="13" month="8" year="2021"/>
+         <ce:date-accepted day="20" month="8" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara014" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Liposomal lutein (LL) was designed and formulated in powder form.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">LL fabricated by nanofiber weaving (NFW) technology, commercially Zeal technology.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">LL was characterized and confirmed by TEM, XRD, IR and DSC.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">LL exhibited high stability and enhanced bioavailability than free lutein.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara015" view="all">Lutein is a xanthophyll carotenoid found in dark green leafy vegetables, fruits and flowers and displays potent biological properties many of which are believed to be related to its antioxidant properties. The application of lutein as a nutraceutical is limited by its low oral bioavailability, likely due to low water-solubility and poor chemical-stability. In this study, liposomal lutein (LL) was formulated in powder form via nanofiber weaving (NFW) technology, commercially known as Zeal Technology, to improve the oral bioavailability of lutein through enhanced chemical stability. LL has a particle size range of 70–200 nm with smooth surface, spherical shaped and an encapsulation efficiency of 85.96±2.41%, loading capacity 7.96±1.18%, and zeta potential -17.8±0.74 mV. The appearance of the identical X-ray diffraction pattern of lutein in LL with lower intensities and the reduced endothermic peak of lutein in LL and the shift to lower temperature indicate the optimum encapsulation of lutein onto the liposomal matrix by NFW technology. Chemical stability of LL was compared with purified lutein. LL illustrated stability while purified lutein was not stable after a 35-day stability study. It was also demonstrated that the antioxidant potential was enhanced by the complex with phospholipids via NFW technology. The release rate of LL was greater than that of purified lutein indicating that LL had a good sustainable release profile. These results reveal that LL could be a promising delivery system for lutein. Preparation of lutein by NFW technology may enable development of nutraceuticals with improved functional properties.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara016" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0004">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Lutein</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Liposomal lutein</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Liposomal powder formulation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Nanofiber weaving technology</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Zeal technology</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

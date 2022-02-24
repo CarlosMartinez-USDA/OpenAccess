@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Enhanced visible/near-infrared spectroscopic data for prediction of quality attributes in Cucurbitaceae commodities</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Kusumiyati</namePart>
+      <namePart type="family">Kusumiyati</namePart>
+      <displayForm>Kusumiyati, Kusumiyati</displayForm>
+      <affiliation>Department of Agronomy, Faculty of Agriculture,
+                        Universitas Padjadjaran, Sumedang 45363, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yuda</namePart>
+      <namePart type="family">Hadiwijaya</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7808-2494</nameIdentifier>
+      <displayForm>Hadiwijaya, Yuda</displayForm>
+      <affiliation>Department of Agronomy, Faculty of Agriculture,
+                        Universitas Padjadjaran, Sumedang 45363, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ine Elisa</namePart>
+      <namePart type="family">Putri</namePart>
+      <displayForm>Putri, Ine Elisa</displayForm>
+      <affiliation>Department of Agronomy, Faculty of Agriculture,
+                        Universitas Padjadjaran, Sumedang 45363, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Agus Arip</namePart>
+      <namePart type="family">Munawar</namePart>
+      <displayForm>Munawar, Agus Arip</displayForm>
+      <affiliation>Department of Agricultural Engineering, Faculty of
+                        Agriculture, Universitas Syiah Kuala, Banda Aceh 23111,
+                        Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Spectra data of 300 samples from 6 Cucurbitaceae commodities, including zucchini, bitter gourd, ridge gourd, melon, chayote, and cucumber, were recorded using a handheld visible/near-infrared (Vis/NIR) instrument. Vis/NIR data were obtained in the form of absorbance spectra data at a wavelength of 381–1065 nm. The spectral data has the potential to be reused to predict quality attributes in the form of soluble solids and water content on several Cucurbitaceae commodities. The accuracy of the Vis/NIR calibration model can be increased by applying spectra preprocessing, for example, second derivative savitzky-golay (dg2). The calibration model was developed using the principal component regression (PCR) method on RAW and dg2 spectra. The enhanced Vis/NIR dataset can be used to evaluate the inner quality attributes of intact fruits in a rapid, non-destructive manner. </abstract>
+   <subject>
+      <topic>Calibration model</topic>
+   </subject>
+   <subject>
+      <topic>Post-harvest</topic>
+   </subject>
+   <subject>
+      <topic>Prediction</topic>
+   </subject>
+   <subject>
+      <topic>Spectral data</topic>
+   </subject>
+   <subject>
+      <topic>Spectroscopy</topic>
+   </subject>
+   <subject>
+      <topic>Technology</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107458</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107458</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107458</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00740-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-SA 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-05"/>
+         <licence_ref>http://creativecommons.org/licenses/by-sa/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/source/altered_source/S235234092100740X_CC_BY-SA.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

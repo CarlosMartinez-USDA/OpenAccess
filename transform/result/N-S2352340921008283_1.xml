@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on the genome of Bacillus subtilis A1- Midalam from beach soil</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Sneha</namePart>
+      <namePart type="family">Pramod</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9282-3332</nameIdentifier>
+      <displayForm>Pramod, Sneha</displayForm>
+      <affiliation>Biochemistry and Molecular Biology Department, Johns Hopkins University, Bloomberg School of Public Health, Baltimore, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rhea Thomas</namePart>
+      <namePart type="family">Thommana</namePart>
+      <displayForm>Thommana, Rhea Thomas</displayForm>
+      <affiliation>Department of Food and Bioproduct Sciences, College of Agriculture and Bioresources, University of Saskatchewan, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Harini</namePart>
+      <namePart type="family">Kulanthaivelu Kanagam</namePart>
+      <displayForm>Kulanthaivelu Kanagam, Harini</displayForm>
+      <affiliation>College of science, Northeastern University, 360 Huntington Ave, Boston, Massachusetts 02115, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ashmitha</namePart>
+      <namePart type="family">Suresh Kumar</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6374-1530</nameIdentifier>
+      <displayForm>Suresh Kumar, Ashmitha</displayForm>
+      <affiliation>Department of Cancer Biology, Wake Forest School of Medicine, North Carolina, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Santha Kalaikumari</namePart>
+      <namePart type="family">S</namePart>
+      <displayForm>S, Santha Kalaikumari</displayForm>
+      <affiliation>Department of Genetics, School of Biological Sciences, Madurai Kamaraj University, Madurai, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Elavarashi</namePart>
+      <namePart type="family">Elangovan</namePart>
+      <displayForm>Elangovan, Elavarashi</displayForm>
+      <affiliation>Department of Biotechnology, Sri Ramachandra Institute of Higher Education and Research, Porur, Tamilnadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kumar</namePart>
+      <namePart type="family">Perumal</namePart>
+      <displayForm>Perumal, Kumar</displayForm>
+      <affiliation>Department of Biotechnology, Sri Ramachandra Institute of Higher Education and Research, Porur, Tamilnadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The draft genome sequence of Bacillus subtilis A1, isolated from beach soil, has been shown to produce biofilm. The genome size is 4,215,114 bp with an average G+C content of 43.5%. The genome of Bacillus subtilis A1 has 4413 total genes which include 4166 protein-coding sequences, 126 pseudo genes, 10 rRNA genes with 3 operons (5S, 16S and 23S), 86 tRNA genes and 5 noncoding RNA (ncRNA) genes. The genome contains genes coding for surfactin, fengycin, bacillaene, sublancin 168, bacillibactin, subtilosin A, bacilysin. The whole genome project has been deposited in GenBank under the accession number CP075344.1. The raw data is available at https://www.ncbi.nlm.nih.gov/nuccore/CP075344.1. </abstract>
+   <subject>
+      <topic>Genome sequencing</topic>
+   </subject>
+   <subject>
+      <topic>Biofilm</topic>
+   </subject>
+   <subject>
+      <topic>Antimicrobial peptide</topic>
+   </subject>
+   <subject>
+      <topic>Phylogenetic analysis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107552</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107552</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107552</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00828-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-02"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008283/S2352340921008283.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

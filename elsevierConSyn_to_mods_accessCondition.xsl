@@ -1,41 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="2.0" xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xlink="http://www.w3.org/1999/xlink"
+<xsl:stylesheet version="2.0" 
+    xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+    xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+    xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+    xmlns:ce="http://www.elsevier.com/xml/common/schema"
+    xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+    xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+    xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+    xmlns:dct="http://purl.org/dc/terms/"
     xmlns:doc="http://www.elsevier.com/xml/document/schema"
     xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
-    xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/"
-    xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
-    xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
-    xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
-    xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+    xmlns:f="http://functions"
+    xmlns:fn="http://www.w3.org/2005/xpath-functions"
     xmlns:ja="http://www.elsevier.com/xml/ja/schema"
-    xmlns:bk="http://www.elsevier.com/xml/bk/schema"
-    xmlns:ce="http://www.elsevier.com/xml/common/schema"
-    xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
     xmlns:mml="http://www.w3.org/1998/Math/MathML"
-    xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
-    xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+    xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+    xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
     xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+    xmlns:saxon="http://saxon.sf.net/"
     xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
-    xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:f="http://functions"
-    xmlns:saxon="http://saxon.sf.net/" xmlns:fn="http://www.w3.org/2005/xpath-functions"
-    exclude-result-prefixes="doc ja ce dp cps rdf prism oa cp cja bk mml cals tb sa sb dct f xd saxon fn xlink bam">
-    <xsl:output method="xml" indent="yes" encoding="UTF-8" saxon:next-in-chain="fix_characters.xsl"/>
+    xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+    xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    exclude-result-prefixes="bam bk cals ce cja cp cps dct doc dp f fn ja mml oa prism rdf sa saxon sb tb xd xlink xsi xsl">
+    <xsl:output method="xml" indent="yes" encoding="UTF-8" saxon:next-in-chain="fix_characters.xsl"/>    
     <xsl:output method="xml" indent="yes" encoding="UTF-8" name="archive-original"/>
-
+    
     <xd:doc scope="stylesheet">
         <xd:desc>
-            <xd:p><xd:b>Last modified on:</xd:b>February 15, 2022</xd:p>
+            <xd:p><xd:b>Last modified on:</xd:b>February 18, 2022</xd:p>
             <xd:p><xd:b>Original author:</xd:b> Jennifer Gilbert</xd:p>
             <xd:p><xd:b>Modified by:</xd:b> Emily Somach, Amanda Xu and Carlos Martinez</xd:p>
             <xd:p>This stylesheet was refactored in July 2017.</xd:p>
-            <xd:p><xd:b>Modification detail:</xd:b>Added template to create mods:accessCondition
-                -cm3, 2022-02-15 statements</xd:p>
+            <xd:p><xd:b>Modification detail:</xd:b>
+                Added template to create NAL standard mods:accessCondition statements, cm3, 2022-02-18
+               </xd:p>
         </xd:desc>
     </xd:doc>
-
+    
     <xd:doc scope="component">
         <xd:desc>
             <xd:p>Include external stylesheets.</xd:p>
@@ -47,78 +52,67 @@
         </xd:desc>
     </xd:doc>
     <xsl:include href="commons/common.xsl"/>
-    <xsl:include href="commons/params.xsl"/>
+    <xsl:include href="commons/params.xsl"/>    
     <xsl:include href="commons/functions.xsl"/>
-
+    
     <xsl:strip-space elements="*"/>
-
+    
     <xd:doc>
         <xd:desc>
             <xd:p>Build MODS document</xd:p>
         </xd:desc>
     </xd:doc>
     <xsl:template match="/">
-
-        <xsl:result-document method="xml" encoding="UTF-8" indent="yes"
-            href="file:///{$workingDir}A-{replace($originalFilename, '(.*/)(.*)(\.xml)', '$2')}_{position()}.xml"
-            format="archive-original">
-            <xsl:copy-of select="."/>
+        
+        <xsl:result-document method="xml" encoding="UTF-8" indent="yes" href="file:///{$workingDir}A-{replace($originalFilename, '(.*/)(.*)(\.xml)', '$2')}_{position()}.xml" format="archive-original">    
+            <xsl:copy-of select="."/>            
         </xsl:result-document>
-        <xsl:result-document method="xml" encoding="UTF-8" indent="yes"
-            href="file:///{$workingDir}N-{replace($originalFilename, '(.*/)(.*)(\.xml)', '$2')}_{position()}.xml"
-            format="archive-original">
+        <xsl:result-document method="xml" encoding="UTF-8" indent="yes" href="file:///{$workingDir}N-{replace($originalFilename, '(.*/)(.*)(\.xml)', '$2')}_{position()}.xml" format="archive-original">    
+            
+        <mods version="3.7">
+            <xsl:namespace name="xsi">http://www.w3.org/2001/XMLSchema-instance</xsl:namespace>
+            <xsl:attribute name="xsi:schemaLocation">http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd</xsl:attribute>
+            
+            <xsl:apply-templates select="//doc:document/rdf:RDF[1]/rdf:Description[1]/dct:title[1]"/>            
+                        
+            <!-- Account for variety of author formats -->
+            <xsl:apply-templates select="/doc:document/(ja:article|ja:simple-article)/(ja:head|ja:simple-head)/ce:author-group/ce:collaboration/ce:text"/>
+            <xsl:apply-templates select="/doc:document/(ja:article|ja:simple-article)/(ja:head|ja:simple-head)/ce:author-group/(.|ce:collaboration/ce:author-group)"/>
+            <xsl:apply-templates select="/doc:document/cja:converted-article/cja:head/ce:author-group"/>
 
-            <mods version="3.7">
-                <xsl:namespace name="xsi">http://www.w3.org/2001/XMLSchema-instance</xsl:namespace>
-                <xsl:attribute name="xsi:schemaLocation">http://www.loc.gov/mods/v3
-                    http://www.loc.gov/standards/mods/v3/mods-3-7.xsd</xsl:attribute>
+            <!-- Default -->
+            <typeOfResource>text</typeOfResource>
+            <genre>article</genre>
 
-                <xsl:apply-templates
-                    select="//doc:document/rdf:RDF[1]/rdf:Description[1]/dct:title[1]"/>
-
-                <!-- Account for variety of author formats -->
-                <xsl:apply-templates
-                    select="/doc:document/(ja:article | ja:simple-article)/(ja:head | ja:simple-head)/ce:author-group/ce:collaboration/ce:text"/>
-                <xsl:apply-templates
-                    select="/doc:document/(ja:article | ja:simple-article)/(ja:head | ja:simple-head)/ce:author-group/(. | ce:collaboration/ce:author-group)"/>
-                <xsl:apply-templates
-                    select="/doc:document/cja:converted-article/cja:head/ce:author-group"/>
-
-                <!-- Default -->
-                <typeOfResource>text</typeOfResource>
-                <genre>article</genre>
-
-                <xsl:call-template name="modsOriginDate"/>
-
-                <!-- Default language -->
-                <language>
-                    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-                    <languageTerm type="text">English</languageTerm>
-                </language>
-                <xsl:apply-templates
-                    select="/doc:document/(ja:article | ja:simple-article)/(ja:head | ja:simple-head)/ce:abstract[@class = 'author']"/>
-                <xsl:apply-templates
-                    select="/doc:document/cja:converted-article/cja:head/ce:abstract[@class = 'author']"/>
-                <xsl:call-template name="admin-note"/>
-                <xsl:apply-templates select="/doc:document/ja:article/ja:head/ce:keywords"/>
-                <xsl:apply-templates select="/doc:document/rdf:RDF/rdf:Description"/>
-                <xsl:apply-templates select="/doc:document/ja:article/ja:item-info"/>
-
-                <xsl:apply-templates select="/doc:document/rdf:RDF/rdf:Description/cp:licenseLine"/>
-
-                <xsl:call-template name="extension"/>
-            </mods>
+            <xsl:call-template name="modsOriginDate"/>
+            
+            <!-- Default language -->
+            <language>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                <languageTerm type="text">English</languageTerm>
+            </language>
+            <xsl:apply-templates select="/doc:document/(ja:article|ja:simple-article)/(ja:head|ja:simple-head)/ce:abstract[@class='author']"/>
+            <xsl:apply-templates select="/doc:document/cja:converted-article/cja:head/ce:abstract[@class='author']"/>
+            <xsl:call-template name="admin-note"/>
+            <xsl:apply-templates select="/doc:document/ja:article/ja:head/ce:keywords"/>
+            <xsl:apply-templates select="/doc:document/rdf:RDF/rdf:Description"/>
+            <xsl:apply-templates select="/doc:document/ja:article/ja:item-info"/>
+            
+            <xsl:apply-templates select="/doc:document/rdf:RDF/rdf:Description/cp:licenseLine"/>
+            
+            <xsl:call-template name="extension"/>
+        </mods>
         </xsl:result-document>
-
+        
     </xsl:template>
 
-
+   
     <xd:doc>
         <xd:desc>
             <xd:p>Get title from RDF block</xd:p>
         </xd:desc>
     </xd:doc>
-
+        
     <xsl:template match="dct:title">
         <titleInfo>
             <title>
@@ -126,18 +120,16 @@
             </title>
         </titleInfo>
     </xsl:template>
-
+    
 
 
 
     <xd:doc>
         <xd:desc>
-            <xd:p>Add author names and affiliations; set usage attribute to "primary" if it's the
-                first author.</xd:p>
-        </xd:desc>
+            <xd:p>Add author names and affiliations; set usage attribute to "primary" if it's the first author.</xd:p>
+        </xd:desc>        
     </xd:doc>
-    <xsl:template
-        match="ja:head/ce:author-group | cja:head/ce:author-group | ja:simple-head/ce:author-group">
+    <xsl:template match="ja:head/ce:author-group|cja:head/ce:author-group|ja:simple-head/ce:author-group">
         <xsl:for-each select="ce:author">
             <name type="personal">
                 <xsl:if test="position() = 1 and count(../preceding-sibling::ce:author-group) = 0">
@@ -148,24 +140,19 @@
         </xsl:for-each>
     </xsl:template>
 
-    <xsl:template
-        match="ja:head/ce:author-group/ce:collaboration/ce:text | ja:simple-head/ce:author-group/ce:collaboration/ce:text">
+    <xsl:template match="ja:head/ce:author-group/ce:collaboration/ce:text|ja:simple-head/ce:author-group/ce:collaboration/ce:text">
         <name type="corporate">
             <xsl:if test="position() = 1 and not(../../ce:author)">
                 <xsl:attribute name="usage">primary</xsl:attribute>
             </xsl:if>
-            <namePart>
-                <xsl:value-of select="."/>
-            </namePart>
-            <displayForm>
-                <xsl:value-of select="."/>
-            </displayForm>
+            <namePart><xsl:value-of select="."/></namePart>
+            <displayForm><xsl:value-of select="."/></displayForm> 
             <role>
                 <roleTerm type="text">author</roleTerm>
             </role>
         </name>
     </xsl:template>
-
+    
     <xsl:template match="ce:author-group/ce:collaboration/ce:author-group">
         <xsl:for-each select="ce:author">
             <name type="personal">
@@ -207,7 +194,7 @@
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
-    </xsl:template>
+    </xsl:template>    
 
     <xd:doc scope="component">
         <xd:desc>
@@ -236,11 +223,10 @@
     <xsl:template match="ce:label | ce:sup" mode="affiliation"/>
 
     <!-- date Issued -->
-
+    
     <xd:doc>
         <xd:desc>
-            <xd:p><xd:b>modsOriginDate:</xd:b> this template sets up the order of precedence when
-                choosing a value for originInfo/dateIssued.</xd:p>
+            <xd:p><xd:b>modsOriginDate:</xd:b> this template sets up the order of precedence when choosing a value for originInfo/dateIssued.</xd:p>
             <xd:p>The templates following it construct dateIssued.</xd:p>
         </xd:desc>
     </xd:doc>
@@ -248,37 +234,27 @@
         <originInfo>
             <xsl:choose>
                 <xsl:when test="/doc:document/rdf:RDF/rdf:Description/prism:coverDate">
-                    <xsl:apply-templates
-                        select="/doc:document/rdf:RDF/rdf:Description/prism:coverDate" mode="origin"
-                    />
+                    <xsl:apply-templates select="/doc:document/rdf:RDF/rdf:Description/prism:coverDate" mode="origin"/>
                 </xsl:when>
                 <xsl:when test="/doc:document/rdf:RDF/rdf:Description/prism:coverDisplayDate">
-                    <xsl:apply-templates
-                        select="/doc:document/rdf:RDF/rdf:Description/prism:coverDisplayDate"
-                        mode="origin"/>
+                    <xsl:apply-templates select="/doc:document/rdf:RDF/rdf:Description/prism:coverDisplayDate" mode="origin"/>
                 </xsl:when>
-                <xsl:when
-                    test="/doc:document/(ja:article | ja:simple-article)/(ja:head | ja:simple-head)/ce:date-accepted">
-                    <xsl:apply-templates
-                        select="/doc:document/(ja:article | ja:simple-article)/(ja:head | ja:simple-head)/ce:date-accepted"
-                        mode="origin"/>
-                </xsl:when>
-                <xsl:when
-                    test="/doc:document/(ja:article | ja:simple-article)/ja:item-info/ce:copyright">
-                    <xsl:apply-templates
-                        select="/doc:document/(ja:article | ja:simple-article)/ja:item-info/ce:copyright"
-                        mode="origin"/>
+                <xsl:when test="/doc:document/(ja:article|ja:simple-article)/(ja:head|ja:simple-head)/ce:date-accepted">
+                    <xsl:apply-templates select="/doc:document/(ja:article|ja:simple-article)/(ja:head|ja:simple-head)/ce:date-accepted" mode="origin"/>
+                </xsl:when> 
+                <xsl:when test="/doc:document/(ja:article|ja:simple-article)/ja:item-info/ce:copyright">
+                    <xsl:apply-templates select="/doc:document/(ja:article|ja:simple-article)/ja:item-info/ce:copyright" mode="origin"/>
                 </xsl:when>
             </xsl:choose>
         </originInfo>
     </xsl:template>
-
+    
     <xsl:template match="prism:coverDate" mode="origin">
         <dateIssued encoding="w3cdtf" keyDate="yes">
             <xsl:value-of select="."/>
         </dateIssued>
-    </xsl:template>
-
+    </xsl:template>   
+    
     <xsl:template match="prism:coverDisplayDate" mode="origin">
         <xsl:variable name="build-year">
             <xsl:analyze-string
@@ -311,35 +287,30 @@
             </xsl:choose>
         </dateIssued>
     </xsl:template>
-
+    
     <xsl:template match="ce:date-accepted" mode="origin">
         <dateIssued encoding="w3cdtf" keyDate="yes">
-            <xsl:value-of
-                select="concat(./@year, '-', f:checkMonthType(./@month), '-', f:checkTwoDigitDay(./@day))"
-            />
+            <xsl:value-of select="concat(./@year, '-', f:checkMonthType(./@month), '-', f:checkTwoDigitDay(./@day))"/>
         </dateIssued>
     </xsl:template>
 
     <xsl:template match="ce:copyright" mode="origin">
         <dateIssued encoding="w3cdtf" keyDate="yes">
-            <xsl:value-of
-                select="/doc:document/(ja:article | ja:simple-article)/ja:item-info/ce:copyright/@year"
-            />
+            <xsl:value-of select="/doc:document/(ja:article|ja:simple-article)/ja:item-info/ce:copyright/@year"/>
         </dateIssued>
     </xsl:template>
 
-
+    
     <xd:doc>
         <xd:desc>
             <xd:p>Construct the abstract.</xd:p>
         </xd:desc>
     </xd:doc>
-    <xsl:template
-        match="ja:head/ce:abstract[@class = 'author'] | ja:simple-head/ce:abstract[@class = 'author'] | cja:head/ce:abstract[@class = 'author']">
+    <xsl:template match="ja:head/ce:abstract[@class = 'author']| ja:simple-head/ce:abstract[@class = 'author']|cja:head/ce:abstract[@class = 'author']">
         <abstract>
             <xsl:apply-templates select="ce:abstract-sec/ce:simple-para"/>
         </abstract>
-    </xsl:template>
+    </xsl:template>  
 
     <xd:doc>
         <xd:desc>
@@ -347,12 +318,9 @@
         </xd:desc>
     </xd:doc>
     <xsl:template match="ce:abstract-sec/ce:simple-para">
-        <xsl:variable name="this">
-            <xsl:apply-templates/>
-        </xsl:variable>
-        <xsl:value-of select="normalize-space($this)"/>
-        <xsl:text>&#160;</xsl:text>
-    </xsl:template>
+        <xsl:variable name="this"><xsl:apply-templates/></xsl:variable>
+        <xsl:value-of select="normalize-space($this)"/><xsl:text>&#160;</xsl:text>
+    </xsl:template> 
 
     <xd:doc>
         <xd:desc>
@@ -362,7 +330,7 @@
     <xsl:template match="ce:list/ce:list-item/ce:label" mode="abstract">
         <xsl:value-of select="replace(., '•', ' ')"/>
     </xsl:template>
-
+    
     <xd:doc>
         <xd:desc>
             <xd:p>Keywords to topical subjects</xd:p>
@@ -379,7 +347,7 @@
     </xsl:template>
 
 
-
+    
     <xd:doc>
         <xd:desc>
             <xd:p>The following templates build the <xd:b>relatedItem</xd:b> element.</xd:p>
@@ -388,10 +356,8 @@
     <xsl:template match="rdf:Description">
         <relatedItem type="host">
             <xsl:apply-templates select="prism:publicationName"/>
-            <xsl:apply-templates
-                select="/doc:document/ja:article/ja:item-info/ce:copyright[@type = 'society']"/>
-            <xsl:apply-templates
-                select="/doc:document/ja:article/ja:item-info/ce:copyright[@type = 'limited-transfer']"/>
+            <xsl:apply-templates select="/doc:document/ja:article/ja:item-info/ce:copyright[@type='society']"/>
+            <xsl:apply-templates select="/doc:document/ja:article/ja:item-info/ce:copyright[@type='limited-transfer']"/>
             <xsl:apply-templates select="dct:publisher"/>
             <xsl:apply-templates select="prism:issn"/>
 
@@ -401,20 +367,19 @@
                 <xsl:call-template name="modsDatePart"/>
                 <xsl:call-template name="modsPages"/>
             </part>
-
-        </relatedItem>
-        <xsl:apply-templates select="prism:doi"/>
-        <xsl:apply-templates select="prism:url"/>
+            
+        </relatedItem>        
+            <xsl:apply-templates select="prism:doi"/>
+            <xsl:apply-templates select="prism:url"/>   
     </xsl:template>
-
+    
     <xd:doc>
         <xd:desc>
             <xd:p>Builds start, end, total page tags for relatedItem/part</xd:p>
         </xd:desc>
     </xd:doc>
     <xsl:template name="modsPages">
-        <xsl:variable name="totalEndPages"
-            select="number(substring-before(prism:endingPage, '.')) + number(substring-after(prism:endingPage, 'e'))"/>
+        <xsl:variable name="totalEndPages" select="number(substring-before(prism:endingPage, '.')) + number(substring-after(prism:endingPage, 'e'))"/>
         <extent unit="pages">
             <xsl:apply-templates select="prism:startingPage"/>
             <xsl:apply-templates select="prism:endingPage"/>
@@ -423,34 +388,27 @@
                     <xsl:sequence select="f:calculateTotalPgs(prism:startingPage, $totalEndPages)"/>
                 </xsl:when>
                 <xsl:otherwise>
-                    <xsl:sequence select="f:calculateTotalPgs(prism:startingPage, prism:endingPage)"
-                    />
+                    <xsl:sequence select="f:calculateTotalPgs(prism:startingPage, prism:endingPage)"/>
                 </xsl:otherwise>
             </xsl:choose>
             <xsl:if test="(bam:articleNumber and not(prism:startingPage))">
-                <start>
-                    <xsl:value-of select="bam:articleNumber"/>
-                </start>
+                <start><xsl:value-of select="bam:articleNumber"/></start>
             </xsl:if>
         </extent>
     </xsl:template>
-
+    
     <xsl:template match="prism:startingPage">
-        <start>
-            <xsl:value-of select="."/>
-        </start>
+        <start><xsl:value-of select="."/></start>
     </xsl:template>
-
+    
     <xsl:template match="prism:endingPage">
-        <end>
-            <xsl:value-of select="."/>
-        </end>
+        <end><xsl:value-of select="."/></end>
     </xsl:template>
-
+    
     <xsl:template match="ja:item-info">
         <xsl:apply-templates select="ce:pii"/>
     </xsl:template>
-
+    
     <xsl:template match="prism:volume">
         <detail type="volume">
             <number>
@@ -459,7 +417,7 @@
             <caption>v.</caption>
         </detail>
     </xsl:template>
-
+    
     <xsl:template match="prism:number">
         <detail type="issue">
             <number>
@@ -468,7 +426,7 @@
             <caption>no.</caption>
         </detail>
     </xsl:template>
-
+    
     <xd:doc>
         <xd:desc>
             <xd:p>Builds &lt;text&gt; tags for the <xd:b>part</xd:b> element.</xd:p>
@@ -514,42 +472,31 @@
                     </text>
                 </xsl:matching-substring>
             </xsl:analyze-string>
-        </xsl:if>
-        <xsl:if
-            test="/doc:document/(ja:article | ja:simple-article)/(ja:head | ja:simple-head)/ce:date-accepted and not(prism:coverDisplayDate) and not(prism:coverDate)">
+        </xsl:if>  
+        <xsl:if test="/doc:document/(ja:article|ja:simple-article)/(ja:head|ja:simple-head)/ce:date-accepted and not(prism:coverDisplayDate) and not(prism:coverDate)">
             <text type="year">
-                <xsl:value-of
-                    select="/doc:document/(ja:article | ja:simple-article)/(ja:head | ja:simple-head)/ce:date-accepted/@year"
-                />
+                <xsl:value-of select="/doc:document/(ja:article|ja:simple-article)/(ja:head|ja:simple-head)/ce:date-accepted/@year"/>
             </text>
             <text type="month">
-                <xsl:value-of
-                    select="f:checkMonthType(/doc:document/(ja:article | ja:simple-article)/(ja:head | ja:simple-head)/ce:date-accepted/@month)"
-                />
+                <xsl:value-of select="f:checkMonthType(/doc:document/(ja:article|ja:simple-article)/(ja:head|ja:simple-head)/ce:date-accepted/@month)"/>
             </text>
             <text type="day">
-                <xsl:value-of
-                    select="f:checkTwoDigitDay(/doc:document/(ja:article | ja:simple-article)/(ja:head | ja:simple-head)/ce:date-accepted/@day)"
-                />
+                <xsl:value-of select="f:checkTwoDigitDay(/doc:document/(ja:article|ja:simple-article)/(ja:head|ja:simple-head)/ce:date-accepted/@day)"/>
             </text>
         </xsl:if>
-        <xsl:if
-            test="not(prism:coverDisplayDate) and not(prism:coverDate) and not(/doc:document/(ja:article | ja:simple-article)/(ja:head | ja:simple-head)/ce:date-accepted)">
+        <xsl:if test="not(prism:coverDisplayDate) and not(prism:coverDate) and not(/doc:document/(ja:article|ja:simple-article)/(ja:head|ja:simple-head)/ce:date-accepted)">
             <text type="year">
-                <xsl:value-of
-                    select="/doc:document/(ja:article | ja:simple-article)/ja:item-info/ce:copyright/@year"
-                />
+                <xsl:value-of select="/doc:document/(ja:article|ja:simple-article)/ja:item-info/ce:copyright/@year"/>
             </text>
         </xsl:if>
     </xsl:template>
-
+    
     <xd:doc>
         <xd:desc>
             <xd:p>Show the copyright holder if it's diffrrent from the publisher.</xd:p>
         </xd:desc>
     </xd:doc>
-    <xsl:template
-        match="/doc:document/ja:article/ja:item-info/ce:copyright[@type = 'society'] | /doc:document/ja:article/ja:item-info/ce:copyright[@type = 'limited-transfer']">
+    <xsl:template match="/doc:document/ja:article/ja:item-info/ce:copyright[@type='society']|/doc:document/ja:article/ja:item-info/ce:copyright[@type='limited-transfer']">
         <name type="corporate">
             <namePart>
                 <xsl:value-of select="normalize-space(.)"/>
@@ -559,15 +506,15 @@
             </role>
         </name>
     </xsl:template>
-
+    
     <xsl:template match="prism:publicationName">
         <titleInfo>
             <title>
                 <xsl:value-of select="normalize-space(.)"/>
             </title>
-        </titleInfo>
+        </titleInfo>        
     </xsl:template>
-
+    
     <xsl:template match="dct:publisher">
         <originInfo>
             <publisher>
@@ -575,18 +522,16 @@
             </publisher>
         </originInfo>
     </xsl:template>
-
+    
     <xd:doc>
         <xd:desc>
             <xd:p>Constructs identifiers for ISSN, DOI, PII</xd:p>
         </xd:desc>
     </xd:doc>
-    <xsl:template match="prism:issn | prism:doi | ce:pii">
-        <identifier type="{fn:replace(name(), '([a-z]*)(:)([A-z]*)','$3')}">
-            <xsl:value-of select="."/>
-        </identifier>
+    <xsl:template match="prism:issn|prism:doi|ce:pii">        
+        <identifier type="{fn:replace(name(), '([a-z]*)(:)([A-z]*)','$3')}"><xsl:value-of select="."/></identifier>
     </xsl:template>
-
+    
     <xsl:template match="prism:url">
         <location>
             <url>
@@ -594,11 +539,10 @@
             </url>
         </location>
     </xsl:template>
-
+   
     <xd:doc>
         <xd:desc>
-            <xd:p>This is a legacy template--can we really be sure that the absence of a volume
-                number indicates a pre-press version?</xd:p>
+            <xd:p>This is a legacy template--can we really be sure that the absence of a volume number indicates a pre-press version?</xd:p>
         </xd:desc>
     </xd:doc>
     <xsl:template name="admin-note">
@@ -608,7 +552,7 @@
             </note>
         </xsl:if>
     </xsl:template>
-
+  
     <!--accessCondition-->
     <xd:doc>
         <xd:desc>
@@ -617,120 +561,83 @@
                 attribute</xd:p>
             <xd:p>The analzye-string instruction allows for the group matches found within the
                 string and referernce that group to produce the result.</xd:p>
-            <xd:p>The following licenses are produced by these respectieve regex-groups seen
-                below:</xd:p>
-            <xd:ul>
-                <xd:li>
-                    <xd:p><xd:b>regex-group(1)</xd:b>: matches CC By License. The result is produced
-                        by a literal string "Creative Commons Attribution 2.0 Generic (CC BY
-                        2.0)"</xd:p>
-                </xd:li>
-                <xd:li>
-                    <xd:p><xd:b>regex-group(2,3,4)</xd:b>: matches -NC, -ND, -SA. The statement is
-                        constructed by a string literal containing "Creative Commons Attribution
-                        `4.0 Generic", then concatenatates "CC BY", regex-group(3), 4.0".</xd:p>
-                </xd:li>
-                <xd:li>
-                    <xd:p><xd:b>regex-group(5,6,7)</xd:b>: matches -NC-ND or -NC-SA. The statement
-                        is constructed by a string literal containing "Creative Commons Attribution
-                        `4.0 Generic", then concatenates "CC BY", regex-group(6), 4.0"</xd:p>
-                </xd:li>
-                <xd:li>
-                    <xd:p>If none of the aformentioned is match, the conditional statement utilizes
-                        "xsl:otherwise" instruction to plugin the general CC BY statement (i.e.,
-                        referenced by regex-group(1)</xd:p>
-                </xd:li>
-                <xd:li>
-                    <xd:p>Since the primary instruction allows for the use of
-                        <![CDATA[<matching-substring> and <non-matching-substring>]]>. The latter
-                        applies the CC0 license option.</xd:p>
-                </xd:li>
-                <!--license_ref-->
-                <xd:li>
-                    <xd:p>The same logic is applied to the construction of the Creative Commons URL
-                        found in the license_ref tag</xd:p>
-                </xd:li>
-                <xd:li>
-                    <xd:p/>
-                </xd:li>
-                <xd:li>
-                    <xd:p/>
-                </xd:li>
-            </xd:ul>
-
+            <xd:p>The following licenses are produced by these respectieve regex-groups seen below:</xd:p>
+          <xd:ul>
+              <xd:li><xd:p><xd:b>regex-group(1)</xd:b>: matches CC BY License. The result is produced by a literal string
+                        "Creative Commons Attribution 2.0 Generic (CC BY 2.0)"</xd:p></xd:li>
+              <xd:li><xd:p><xd:b>regex-group(2,3,4)</xd:b>: matches \][
+                  p"|klz-NC, -ND, -SA. The statement is constructed by a
+                        string literal containing "Creative Commons Attribution `4.0 Generic", then
+                        concatenatates "CC BY", regex-group(3), 4.0".</xd:p></xd:li>
+              <xd:li><xd:p><xd:b>regex-group(5,6,7)</xd:b>: matches -NC-ND or -NC-SA. The statement is constructed by a
+                        string literal containing "Creative Commons Attribution `4.0 Generic", then
+                        concatenates "CC BY", regex-group(6), 4.0"</xd:p></xd:li>
+              <xd:li><xd:p>If none of the aformentioned is match, the conditional statement utilizes "xsl:otherwise" instruction to plugin the general CC BY statement (i.e., referenced by regex-group(1)</xd:p></xd:li>          
+              <xd:li><xd:p>Since the primary instruction allows for the use of <![CDATA[<matching-substring> and <non-matching-substring>]]>. The latter applies the CC0 license option.</xd:p></xd:li>
+             <!--license_ref-->
+              <xd:li><xd:p>The same logic is applied to the construction of the Creative Commons URL found in the license_ref tag</xd:p></xd:li>
+              <xd:li><xd:p></xd:p></xd:li>
+              <xd:li><xd:p></xd:p></xd:li>
+          </xd:ul>
+            
         </xd:desc>
+        <xd:param name="licenseURL"/>
     </xd:doc>
     <xsl:template match="cp:licenseLine">
-        <xsl:variable name="startDate"
-            select="/doc:document/rdf:RDF/rdf:Description/oa:openAccessInformation/oa:openAccessEffective"
-            as="node()"/>
-        <xsl:analyze-string select="."
-            regex="(.* CC BY license\.)|(.*CC BY)(\-[A-Z]+)(\slicense\.)|(.*CC BY)(\-[A-Z]+?\-[A-Z]+)(\slicense\.)|(.*)(CC0)(\slicense\.$)">
+        <xsl:param name="licenseURL" select="/doc:document/rdf:RDF/rdf:Description/oa:openAccessInformation/oa:userLicense"/>      
+        <xsl:variable name="startDate" select="/doc:document/rdf:RDF/rdf:Description/oa:openAccessInformation/oa:openAccessEffective"/>
+        <xsl:variable name="getVersion" select="tokenize($licenseURL, '/')[.][last()]"/>
+        <xsl:analyze-string select="normalize-space(.)" regex="(.* CC BY license\.)|(.*CC BY)(\-[A-Z]+)(\slicense\.)|(.*CC BY)(\-[A-Z]+?\-[A-Z]+)(\slicense\.)|(.*)(CC0)(\slicense\.$)">
             <xsl:matching-substring>
+                <!--Creative Commons Licenses-->
                 <accessCondition type="use and reproduction">
                     <xsl:attribute name="displayLabel">
                         <xsl:choose>
+                            <!--CC BY-->
                             <xsl:when test="regex-group(1)">
-                                <xsl:text>Creative Commons Attribution 4.0 Generic (CC BY 4.0)</xsl:text>
+                                <xsl:value-of select="concat('Creative Commons Attribution&#160;', $getVersion, '&#160;','Generic (CC BY ', $getVersion,')')"/>
                             </xsl:when>
+                            <!--CC BY-SA, CC BY-NC, CC BY-ND--> 
                             <xsl:when test="regex-group(2) and regex-group(3) and regex-group(4)">
-                                <xsl:text>Creative Commons Attribution 4.0 Generic&#160;</xsl:text>
-                                <xsl:value-of select="concat('(CC BY', regex-group(3), ' 4.0)')"/>
+                                <xsl:value-of select="concat('Creative Commons Attribution&#160;', $getVersion, '&#160;', 'Generic (CC BY',regex-group(3),'&#160;' ,$getVersion,')')"/>
                             </xsl:when>
+                            <!--CC BY-SA-ND, CC BY-NC-ND-->
                             <xsl:when test="regex-group(5) and regex-group(6) and regex-group(7)">
-                                <xsl:text>Creative Commons Attribution 4.0 Generic&#160;</xsl:text>
-                                <xsl:value-of select="concat('(CC BY', regex-group(6), ' 4.0)')"/>
+                                <xsl:value-of select="concat('Creative Commons Attribution&#160;', $getVersion, '&#160;', 'Generic (CC BY',regex-group(6),'&#160;' ,$getVersion,')')"/>
                             </xsl:when>
+                            <!--CC0-->
+                            <xsl:when test="regex-group(8) and regex-group(9) and regex-group(10)">
+                                <xsl:value-of select="concat('Creative Commons Attribution&#160;', $getVersion, '&#160;', 'Generic (',regex-group(9),')')"/>    
+                            </xsl:when>
+                            <!--Default CC BY license (most common)-->
                             <xsl:otherwise>
-                                <xsl:text>Creative Commons Attribution 4.0 Generic (CC BY 4.0)</xsl:text>
+                                <xsl:value-of select="concat('Creative Commons Attribution&#160;', $getVersion, '&#160;','Generic (CC BY ', $getVersion,')')"/>
                             </xsl:otherwise>
                         </xsl:choose>
                     </xsl:attribute>
-
                     <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
-                        <license_ref>
-                            <xsl:attribute name="applies_to">
-                                <xsl:value-of select="'reuse'"/>
-                            </xsl:attribute>
-                            <!--variable matches oa:openAcceesEffective date-->
-                            <xsl:attribute name="start_date">
-                                <xsl:value-of select="substring-before($startDate, 'T')"/>
-                            </xsl:attribute>
-                        </license_ref>
-                        <license_ref>
-                            <xsl:choose>
-                                <xsl:when test="regex-group(1)">
-                                    <xsl:text>https://creativecommons.org/licenses/by/4.0/</xsl:text>
-                                </xsl:when>
-                                <xsl:when
-                                    test="regex-group(2) and regex-group(3) and regex-group(4)">
-                                    <xsl:text>https://creativecommons.org/licenses/by</xsl:text>
-                                    <xsl:value-of
-                                        select="concat(lower-case(regex-group(3)), '/4.0/')"/>
-                                </xsl:when>
-                                <xsl:when
-                                    test="regex-group(5) and regex-group(6) and regex-group(7)">
-                                    <xsl:text>https://creativecommons.org/licenses/by</xsl:text>
-                                    <xsl:value-of
-                                        select="concat(lower-case(regex-group(6)), '/4.0/')"/>
-
-                                </xsl:when>
-                            </xsl:choose>
-                        </license_ref>
-                    </program>
+                        <licence_ref>
+                            <xsl:attribute name="applies_to">reuse</xsl:attribute>
+                            <xsl:attribute name="start_date" select="substring-before($startDate, 'T')"/>
+                        </licence_ref>
+                        <licence_ref>                           
+                         <xsl:value-of select="$licenseURL"/>
+                        </licence_ref>
+                   </program>
                 </accessCondition>
             </xsl:matching-substring>
             <xsl:non-matching-substring>
-                <accessCondition type="use and reproduction"
-                    displayLabel="Creative Commons Attribution 1.0 Generic (CC0)">
-                    <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
-                        <license_ref>https://creativecommons.org/publicdomain/zero/1.0/</license_ref>
-                    </program>
-                </accessCondition>
+                <!-- NAL Generic Open Access. -->
+                <accessCondition type="use and reproduction" displayLabel="Resource is Open Access">	
+                    <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">                	
+                        <license_ref>http://purl.org/eprint/accessRights/OpenAccess</license_ref>                	
+                    </program>	
+                </accessCondition>	
             </xsl:non-matching-substring>
         </xsl:analyze-string>
     </xsl:template>
-
+    
+   
     <xd:doc>
         <xd:desc>
             <xd:p>Extension for PDF file location and vendor name.</xd:p>

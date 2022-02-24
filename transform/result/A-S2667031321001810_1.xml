@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100199">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Phytochemistry and pharmacological aspects of Tridax procumbens (L.): A systematic and comprehensive review</dct:title>
+         <dct:creator>Varsharani V. Ingole</dct:creator>
+         <dct:creator>Pravin C. Mhaske</dct:creator>
+         <dct:creator>Sushma R. Katade</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Tridax procumbens l.</rdf:li>
+               <rdf:li>Phytochemicals</rdf:li>
+               <rdf:li>Anticancer activity</rdf:li>
+               <rdf:li>Antibacterial activity</rdf:li>
+               <rdf:li>Wound healing activity</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100199</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100199</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100199</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100199</dct:identifier>
+         <bam:articleNumber>100199</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-10T21:34:21Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100199</ja:aid>
+         <ce:article-number>100199</ce:article-number>
+         <ce:pii>S2667-0313(21)00181-0</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100199</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Phytochemistry and pharmacological aspects of <ce:italic>Tridax procumbens</ce:italic> (L.): A systematic and comprehensive review</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001810-f56d68a813f14f190f50cee9e92b133c">
+               <ce:given-name>Varsharani V.</ce:given-name>
+               <ce:surname>Ingole</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001810-c72f448e6374fb50bd93a69778657f70">
+               <ce:given-name>Pravin C.</ce:given-name>
+               <ce:surname>Mhaske</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001810-1a070f6163ae29d820beaf689202519c">
+               <ce:given-name>Sushma R.</ce:given-name>
+               <ce:surname>Katade</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:sushmarkatade@gmail.com">sushmarkatade@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001810-dacacc568da46b5ce6edc4177b612c54">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Savitribai Phule Pune University, Post-Graduate Department of Chemistry, S. P. Mandali's, Sir Parashurambhau College, Tilak Road, Pune, 411030 India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Savitribai Phule Pune University, Post-Graduate Department of Chemistry, S. P. Mandali's, Sir Parashurambhau College</sa:organization>
+                  <sa:address-line>Tilak Road</sa:address-line>
+                  <sa:city>Pune</sa:city>
+                  <sa:postal-code>411030</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aSavitribai Phule Pune University, Post-Graduate Department of Chemistry, S. P. Mandali's, Sir Parashurambhau College, Tilak Road, Pune, 411030 India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001810-4437a22f10fd0797010a7ce3a25aa934">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Savitribai Phule Pune University, Department of chemistry, Sinhgad College of Science, Ambegaon (Bk), Pune, 411046 India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Savitribai Phule Pune University, Department of chemistry, Sinhgad College of Science</sa:organization>
+                  <sa:city>Pune</sa:city>
+                  <sa:state>Ambegaon (Bk)</sa:state>
+                  <sa:postal-code>411046</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bSavitribai Phule Pune University, Department of chemistry, Sinhgad College of Science, Ambegaon (Bk), Pune, 411046 India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001810-90e5528d5ae79e57b14a8198f57b2a95">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Savitribai Phule Pune University, Department of chemistry, Modern College of Arts, Science and Commerce, Ganeshkhind, Pune, 411016 India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Savitribai Phule Pune University, Department of chemistry, Modern College of Arts, Science and Commerce</sa:organization>
+                  <sa:city>Pune</sa:city>
+                  <sa:state>Ganeshkhind</sa:state>
+                  <sa:postal-code>411016</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cSavitribai Phule Pune University, Department of chemistry, Modern College of Arts, Science and Commerce, Ganeshkhind, Pune, 411016 India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="28" month="8" year="2021"/>
+         <ce:date-revised day="10" month="11" year="2021"/>
+         <ce:date-accepted day="10" month="12" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Chemical constituents and Pharmacological activities of <ce:italic>T.procumbens</ce:italic> have been classified according to the research in between 1965 and 2021.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Flavonoids and terpenoids are major bioactive constituents present in <ce:italic>T. procumbens</ce:italic> l.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Extracts and isolated compounds of <ce:italic>T.procumbens</ce:italic> showed antibacterial, antioxidant, anticancer, wound healing activities.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara009" view="all">
+                  <ce:italic>Tridax procumbens</ce:italic> L. (<ce:italic>T. procumbens</ce:italic>) belongs to the <ce:italic>Asteraceae</ce:italic> family, is an Ayurvedic herb of Asia with a history of traditional use. <ce:italic>T. procumbens</ce:italic> have been used from ancient times to treat wounds, skin diseases and to stop blood clotting in folk medicine. It possesses anticoagulant, antileishmanial, antioxidants, anticancer, immunomodulatory agent, insecticidal, anthelmintic cardiovascular, antiseptic, antimicrobial, and insecticidal properties.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" view="all">
+               <ce:section-title id="cesectitle0004">Purpose</ce:section-title>
+               <ce:simple-para id="spara010" view="all">This review article aims to collate past and present updated information on traditional uses, morphology, chemical constituents and pharmacological activities, miscellaneous activities, and relevant patents of this plant, thereby providing useful data for researchers and pharmaceutical, cosmetics-related industries.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0005">Methods</ce:section-title>
+               <ce:simple-para id="spara011" view="all">A review was collected from various platforms, including Science Direct, Google Scholar, Google patents, PubMed, ACS, Tayler and Francis, Mendeley Desktop databases on traditional uses, morphology, phytochemicals, pharmacological activities, and patents of <ce:italic>T. procumbens</ce:italic>. The literature search covers original research articles and reviews articles in peer review journals, published up to 2021 using relevant keywords. Chemical structures were drawn using Chem draw ultra 8.0. Total number of 101 references were used in the present review.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="results" view="all">
+               <ce:section-title id="cesectitle0006">Results</ce:section-title>
+               <ce:simple-para id="spara012" view="all">This review yielded 839 Papers. After the screening method, 101 papers were potentially discussed. Phytochemical investigation revealed more than 138 chemical compounds have been isolated or identified from <ce:italic>T. procumbens</ce:italic> plant, including 75 isolated and other identified compounds. This plant possesses a variety of chemical compounds including flavonoids, essential oils, saponins, and terpenoids as main secondary metabolites. Diverse pharmacological activities of <ce:italic>T. procumbens</ce:italic> have a wide range of bioactivities including antimicrobial, antioxidant, anticancer, anti-inflammatory, and wound healing properties. Toxicological knowledge is scarce at this time, and more research is needed on this plant.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0007" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0007">Conclusions</ce:section-title>
+               <ce:simple-para id="spara013" view="all">
+                  <ce:italic>T. procumbens</ce:italic> predominantly shows wound healing, antimicrobial, anti-inflammatory properties traditionally. It is not further supported by the isolation of chemical compounds i.e. lack of bioassay-guided isolation strategies is observed. Several main active chemical compounds are present in the <ce:italic>T. procumbens</ce:italic>. The pharmacological effects of plant active secondary metabolites of this plant may help to defeat dangerous diseases such as diabetics, cancers, respiratory disorders like the current corona virus COVID -19 upsurge. The present treasury of traditional uses, chemical compounds, and pharmacological activities will be helpful in the future for researchers on <ce:italic>T. procumbens</ce:italic> in the search for new leads for drug discovery.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0008">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0008" view="all">
+               <ce:simple-para id="spara014" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0009">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Tridax procumbens l.</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Phytochemicals</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Anticancer activity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Antibacterial activity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Wound healing activity</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

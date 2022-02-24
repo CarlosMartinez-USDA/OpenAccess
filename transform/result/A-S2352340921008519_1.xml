@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107576">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset for Bluetooth 5.1 Direction of Arrival with non Uniform Rectangular Arrays</dct:title>
+         <dct:creator>Nicolò Ivan Piazzese</dct:creator>
+         <dct:creator>Michele Perrone</dct:creator>
+         <dct:creator>Danilo Pietro Pau</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Direction of arrival</rdf:li>
+               <rdf:li>Bluetooth 5.1</rdf:li>
+               <rdf:li>Rectangular antenna arrays</rdf:li>
+               <rdf:li>URA8</rdf:li>
+               <rdf:li>MUSIC</rdf:li>
+               <rdf:li>Pseudo-spectrum</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107576</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107576</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107576</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107576</dct:identifier>
+         <bam:articleNumber>107576</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-10T11:50:01Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107576</ja:aid>
+         <ce:article-number>107576</ce:article-number>
+         <ce:pii>S2352-3409(21)00851-9</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107576</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">Dataset for Bluetooth 5.1 Direction of Arrival with non Uniform Rectangular Arrays</ce:title>
+         <ce:short-title id="stitle0010">Dataset for Bluetooth 5.1 Direction of Arrival with non Uniform Rectangular Arrays</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008519-7660aa28f5d3984a806e5776e69f7ed1">
+               <ce:given-name>Nicolò Ivan</ce:given-name>
+               <ce:surname>Piazzese</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:nicolo.piazzese@st.com"
+                             id="ead0001">nicolo.piazzese@st.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008519-80673eb95b8095bff085113d658d53b4"
+                       orcid="0000-0002-6723-9214">
+               <ce:given-name>Michele</ce:given-name>
+               <ce:surname>Perrone</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:perrone.michele@outlook.com"
+                             id="ead0002">perrone.michele@outlook.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008519-a70a331631cdffe25552d19151278112"
+                       orcid="0000-0003-1585-2313">
+               <ce:given-name>Danilo Pietro</ce:given-name>
+               <ce:surname>Pau</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:danilo.pau@st.com" id="ead0003">danilo.pau@st.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008519-917a594f18265a7f80b496ca1e92db56">
+               <ce:label>a</ce:label>
+               <ce:textfn id="textfn0002">STMicroelectronics, Catania, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>STMicroelectronics</sa:organization>
+                  <sa:city>Catania</sa:city>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">STMicroelectronics, Catania, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008519-40b103232da9ae9e48c8ca820362271b">
+               <ce:label>b</ce:label>
+               <ce:textfn id="textfn0003">STMicroelectronics, Agrate Brianza, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>STMicroelectronics</sa:organization>
+                  <sa:city>Agrate Brianza</sa:city>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0002">STMicroelectronics, Agrate Brianza, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="11" month="6" year="2021"/>
+         <ce:date-revised day="4" month="11" year="2021"/>
+         <ce:date-accepted day="9" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">This paper presents a dataset for Bluetooth 5.1 direction of arrival (DoA). The dataset was generated with a specifically designed mathematical model of a non-uniform rectangular antenna array. The Python source files that generated the dataset are also provided. The dataset was conceived as a starting point for developing and validating DoA algorithms for real-life scenarios. Unlike other datasets, it contains Bluetooth signals with not only varying intensity of additive white Gaussian noise, but also coherent interfering signals with random DoA coordinates. The dataset is divided into two branches, one consisting of pure sinusoidal tones and the second comprised of baseband Bluetooth signals. Since the codebase which generates the data is included, this dataset has a high reuse potential, and it can be modified to suit also other types of signals or different array topologies.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">Direction of arrival</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Bluetooth 5.1</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Rectangular antenna arrays</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">URA8</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">MUSIC</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="txt0006">Pseudo-spectrum</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

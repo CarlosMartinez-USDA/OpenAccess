@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>First Apatite (U-Th)/He and apatite fission-track thermochronology dataset from the Abancay Deflection (Eastern Cordillera, Southern Peru).</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Benjamin</namePart>
+      <namePart type="family">Gérard</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8143-8343</nameIdentifier>
+      <displayForm>Gérard, Benjamin</displayForm>
+      <affiliation>GET, Université de Toulouse, CNRS, IRD, UPS, Toulouse, France</affiliation>
+      <affiliation>Université Grenoble Alpes, Université Savoie Mont Blanc, CNRS, IRD, IFSTTAR, ISTerre, Grenoble, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Xavier</namePart>
+      <namePart type="family">Robert</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0567-7497</nameIdentifier>
+      <displayForm>Robert, Xavier</displayForm>
+      <affiliation>Université Grenoble Alpes, Université Savoie Mont Blanc, CNRS, IRD, IFSTTAR, ISTerre, Grenoble, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Laurence</namePart>
+      <namePart type="family">Audin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4510-479X</nameIdentifier>
+      <displayForm>Audin, Laurence</displayForm>
+      <affiliation>Université Grenoble Alpes, Université Savoie Mont Blanc, CNRS, IRD, IFSTTAR, ISTerre, Grenoble, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cécile</namePart>
+      <namePart type="family">Gautheron</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7068-9868</nameIdentifier>
+      <displayForm>Gautheron, Cécile</displayForm>
+      <affiliation>Université Paris-Saclay, CNRS, GEOPS, Orsay, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Matthias</namePart>
+      <namePart type="family">Bernet</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5046-7520</nameIdentifier>
+      <displayForm>Bernet, Matthias</displayForm>
+      <affiliation>Université Grenoble Alpes, Université Savoie Mont Blanc, CNRS, IRD, IFSTTAR, ISTerre, Grenoble, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>According to their respective temperature sensitivities, Apatite (U-Th)/He (AHe) and apatite fission-track (AFT) thermochronology records the thermal evolution of the upper crust (&lt;5 km) and is a key for distinguishing between different exhumation mechanisms through time-evolving rock uplift, and landscape evolution. We applied these methods to extract the thermal evolution of the upper crust in the Abancay Deflection at the northern edge of the Altiplano (southern Peru). We present 120 single-crystal AHe ages (from 31 samples) and 27 AFT central ages obtained from magmatic bodies across the study area. AHe ages range from 0.6 ± 0.1 to 35.8 ± 2.9 Ma with a satisfactory reproducibility of single-crystal AHe ages with less than 10% averaged dispersion. AFT ages range from 2.6 ± 1.9 to 38.2 ± 4.4 Ma with P(χ²) values &gt;5%. This dataset allows exploring the crust evolution from the late-Eocene to the Quaternary. Data processed and interpreted in the related article published in Tectonics[6] are stored in PANGAEA repository (108 AHe single-grain ages and 27 AFT ages). We furthermore present in this article 12 extra single-grain AHe ages obtained after the related article publication. We also present the details of fission-track length measurements published in the related article. Thermochronological ages could be reused for testing He diffusion or fission track annealing processes or investigating the broader tectonic/geodynamic evolution of the Andes. </abstract>
+   <subject>
+      <topic>In-situ apatite</topic>
+   </subject>
+   <subject>
+      <topic>Abancay Deflection magmatic bodies</topic>
+   </subject>
+   <subject>
+      <topic>(U-Th)/He data</topic>
+   </subject>
+   <subject>
+      <topic>Fission-track data</topic>
+   </subject>
+   <subject>
+      <topic>Peru</topic>
+   </subject>
+   <subject>
+      <topic>Eastern Cordillera</topic>
+   </subject>
+   <subject>
+      <topic>Altiplano</topic>
+   </subject>
+   <subject>
+      <topic>Upper crust cooling dynamic</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107748</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107748</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107748</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01023-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-21"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010234/S2352340921010234.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

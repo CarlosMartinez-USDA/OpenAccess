@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Experimental dataset for the macro-scale compression of Norway Spruce perpendicular to grain direction</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Tito</namePart>
+      <namePart type="family">Adibaskoro</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3606-8077</nameIdentifier>
+      <displayForm>Adibaskoro, Tito</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wojciech</namePart>
+      <namePart type="family">Sołowski</namePart>
+      <displayForm>Sołowski, Wojciech</displayForm>
+      <affiliation>Aalto University School of Engineering, Department of Civil Engineering, Rakentajanaukio 4A, 02150 Espoo, P.O. Box 12100, Aalto 00076, Finland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Simo</namePart>
+      <namePart type="family">Hostikka</namePart>
+      <displayForm>Hostikka, Simo</displayForm>
+      <affiliation>Aalto University School of Engineering, Department of Civil Engineering, Rakentajanaukio 4A, 02150 Espoo, P.O. Box 12100, Aalto 00076, Finland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article presents load and displacement data of Norway Spruce quasi-static compression test as well as video recordings of the experiment using the Universal Testing Machine (UTM). The specimens are 4 cm × 4 cm × 8 cm clear-wood cuboids with grain direction perpendicular to and loading direction parallel to the long axis. Due to the radially-arranged annual ring at such scale of the specimens, the plane of interest features significantly-varying orientation of the weak axes, namely the radial (R) and tangential (T) directions. A hemispherical knee joint underneath the specimen were fine-adjusted under preload before each experiment to ensure evenly-distributed load. Additionally, grids of 5 mm spacing were drawn on the plane of interest for better clarity of the deformed shape. Both load and displacement history recorded by the UTM as well as the deformation process recorded as video may provide valuable information for validation of wood material models or simulation methods with wood material implementations. </abstract>
+   <subject>
+      <topic>Load-displacement history</topic>
+   </subject>
+   <subject>
+      <topic>Orthotropic</topic>
+   </subject>
+   <subject>
+      <topic>Post-failure</topic>
+   </subject>
+   <subject>
+      <topic>Quasi-static</topic>
+   </subject>
+   <subject>
+      <topic>Transverse</topic>
+   </subject>
+   <subject>
+      <topic>Universal testing machine</topic>
+   </subject>
+   <subject>
+      <topic>Video</topic>
+   </subject>
+   <subject>
+      <topic>Wood material</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107742</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107742</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107742</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01017-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-21"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010179/S2352340921010179.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

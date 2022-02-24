@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Human electrocortical, electromyographical, ocular, and kinematic data during perturbed walking and standing</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Steven M.</namePart>
+      <namePart type="family">Peterson</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0782-5788</nameIdentifier>
+      <displayForm>Peterson, Steven M.</displayForm>
+      <affiliation>Department of Biology, University of Washington, Seattle 98195, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Daniel P.</namePart>
+      <namePart type="family">Ferris</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6373-6021</nameIdentifier>
+      <displayForm>Ferris, Daniel P.</displayForm>
+      <affiliation>Department of Biomedical Engineering, University of Florida, J. Crayton Pruitt Family, Gainesville 32611, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Active balance control is critical for performing many of our everyday activities. Our nervous systems rely on multiple sensory inputs to inform cortical processing, leading to coordinated muscle actions that maintain balance. However, such cortical processing can be challenging to record during mobile balance tasks due to limitations in noninvasive neuroimaging and motion artifact contamination. Here, we present a synchronized, multi-modal dataset from 30 healthy, young human participants during standing and walking while undergoing brief sensorimotor perturbations. Our dataset includes 20 total hours of high-density electroencephalography (EEG) recorded from 128 scalp electrodes, along with surface electromyography (EMG) from 10 neck and leg electrodes, electrooculography (EOG) recorded from 3 electrodes, and 3D body position from 2 sensors. In addition, we include ∼18000 total balance perturbation events across participants. To facilitate data reuse, we share this dataset in the Brain Imaging Data Structure (BIDS) data standard and publicly release code that replicates our previous event-related findings. </abstract>
+   <subject>
+      <topic>Mobile brain/body imaging</topic>
+   </subject>
+   <subject>
+      <topic>Electroencephalography</topic>
+   </subject>
+   <subject>
+      <topic>Electromyography</topic>
+   </subject>
+   <subject>
+      <topic>Electrooculography</topic>
+   </subject>
+   <subject>
+      <topic>Motion capture</topic>
+   </subject>
+   <subject>
+      <topic>Independent component analysis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107635</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107635</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107635</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00910-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-23"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009100/S2352340921009100.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

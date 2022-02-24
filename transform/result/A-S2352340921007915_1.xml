@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107513">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Measured and forecasted weather and power dataset for management of an island and grid-connected microgrid</dct:title>
+         <dct:creator>Danilo P. e Silva</dct:creator>
+         <dct:creator>José L. Félix Salles</dct:creator>
+         <dct:creator>Jussara F. Fardin</dct:creator>
+         <dct:creator>Maxsuel M. Rocha Pereira</dct:creator>
+         <dct:creator>Vinícius C. Ottz</dct:creator>
+         <dct:creator>Flavio B.B. da Silva</dct:creator>
+         <dct:creator>Eduardo G. Pignaton</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Measured weather data</rdf:li>
+               <rdf:li>Forecasting weather data</rdf:li>
+               <rdf:li>WRF</rdf:li>
+               <rdf:li>Renewable energy sources</rdf:li>
+               <rdf:li>Microgrid management</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107513</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107513</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107513</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107513</dct:identifier>
+         <bam:articleNumber>107513</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-21T19:46:52Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107513</ja:aid>
+         <ce:article-number>107513</ce:article-number>
+         <ce:pii>S2352-3409(21)00791-5</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107513</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0306-2619(20)31091-6</ce:pii>
+               <ce:doi>10.1016/j.apenergy.2020.115581</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Measured and forecasted weather and power dataset for management of an island and grid-connected microgrid</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007915-762fdb135513da6a67bb6359e8d12d1b"
+                       orcid="0000-0001-5800-1418">
+               <ce:given-name>Danilo P.</ce:given-name>
+               <ce:surname>e Silva</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:danilo.silva@ifes.edu.br">danilo.silva@ifes.edu.br</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007915-7a3b78837b5f8040542d635edd6720c8"
+                       orcid="0000-0002-3417-6544">
+               <ce:given-name>José L. Félix</ce:given-name>
+               <ce:surname>Salles</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007915-7908997cb48ad86d25a3c90cbd827eaa">
+               <ce:given-name>Jussara F.</ce:given-name>
+               <ce:surname>Fardin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007915-2fbf6108f2237adc40249756d3cd389f">
+               <ce:given-name>Maxsuel M. Rocha</ce:given-name>
+               <ce:surname>Pereira</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921007915-c3fa0ad2bc8899762b64bcb0f6af9dfa">
+               <ce:given-name>Vinícius C.</ce:given-name>
+               <ce:surname>Ottz</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921007915-112d64b91c5c773681c213950b03fc33">
+               <ce:given-name>Flavio B.B.</ce:given-name>
+               <ce:surname>da Silva</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921007915-1d3efb03fd7af5fe0aba660e3cbac432"
+                       orcid="0000-0001-5699-4911">
+               <ce:given-name>Eduardo G.</ce:given-name>
+               <ce:surname>Pignaton</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007915-89f302b5b61783625cdc067c3fc79118">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Federal Institute of Education, Science and Technology of Espírito Santo (IFES), Serra, E.S., Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Federal Institute of Education, Science and Technology of Espírito Santo (IFES)</sa:organization>
+                  <sa:city>Serra</sa:city>
+                  <sa:state>E.S.</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aFederal Institute of Education, Science and Technology of Espírito Santo (IFES), Serra, E.S., Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007915-6301bd13fdb52bfc77428b0ea9751d49">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Electrical Eng. Department, Federal University of Espírito Santo (UFES), Vitória, E.S., Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Electrical Eng. Department</sa:organization>
+                  <sa:organization>Federal University of Espírito Santo (UFES)</sa:organization>
+                  <sa:city>Vitória</sa:city>
+                  <sa:state>E.S.</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bElectrical Eng. Department, Federal University of Espírito Santo (UFES), Vitória, E.S., Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921007915-ff3891e5391c2be3825142275a1ac1ab">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Industrial Technology Department, Federal University of Espírito Santo, Vitória, E.S., Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Industrial Technology Department</sa:organization>
+                  <sa:organization>Federal University of Espírito Santo</sa:organization>
+                  <sa:city>Vitória</sa:city>
+                  <sa:state>E.S.</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cIndustrial Technology Department, Federal University of Espírito Santo, Vitória, E.S., Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921007915-af4e9e29d2f751dc3e40fad7aa3dfc8c">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Professional Master Program in Control and Automation Engineering of the Federal Institute of Education, Science, and Technology of Espirito Santo, Serra, E.S., Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Professional Master Program in Control and Automation Engineering of the Federal Institute of Education, Science, and Technology of Espirito Santo</sa:organization>
+                  <sa:city>Serra</sa:city>
+                  <sa:state>E.S.</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dProfessional Master Program in Control and Automation Engineering of the Federal Institute of Education, Science, and Technology of Espirito Santo, Serra, E.S., Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="30" month="6" year="2021"/>
+         <ce:date-revised day="15" month="10" year="2021"/>
+         <ce:date-accepted day="20" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">This article presents the weather and power data files from renewable sources used to solve the economic dispatch problem of a microgrid that operates in the isolated and grid-connected modes. Methodology is used in the research article “Management of an island and grid-connected microgrid using hybrid economic model predictive control with weather data” (Silva et al., 2020). Automatic stations located in the Brazil's south and northeast furnished the weather data (global horizontal irradiance, temperature, and wind speed). A script generates files containing weather forecasts from one-day ahead using the geographical coordinates of the weather stations. Hybrid models, characterized by real and binary variables, use the weather forecasting data to calculate the photovoltaic and wind power forecasts. A microgrid management algorithm uses these forecasts to solve the optimal economic dispatch problem. This data-in-brief paper presents five datasets for each weather station: (i) Weather dataset downloaded from the website of the National Meteorological Institute, (ii) Weather research and forecasting (WRF) dataset derived from the raw data generated by the weather research and forecasting model, (iii) Weather dataset that joins the forecasted data with the measured data in a single file, (iv) Handled dataset that treats some gaps in the weather dataset and converts it to other formats, (v) Files containing only the temperature, global horizontal irradiance, and wind speed data, (vi) Files containing the measured and forecasted wind and solar power.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Measured weather data</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001a">
+               <ce:text id="cetext0003">Forecasting weather data</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001b">
+               <ce:text id="cetext0004">WRF</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001c">
+               <ce:text id="cetext0005">Renewable energy sources</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001d">
+               <ce:text id="cetext0006">Microgrid management</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

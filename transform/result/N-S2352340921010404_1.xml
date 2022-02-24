@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>QTAIM analysis dataset for non-covalent interactions in furan clusters</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Alhadji</namePart>
+      <namePart type="family">Malloum</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3013-3029</nameIdentifier>
+      <displayForm>Malloum, Alhadji</displayForm>
+      <affiliation>Department of Chemistry, University of the Free State, PO BOX 339, Bloemfontein 9300, South Africa</affiliation>
+      <affiliation>Department of Physics, Faculty of Science, University of Maroua, PO BOX 46, Maroua, Cameroon</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jeanet</namePart>
+      <namePart type="family">Conradie</namePart>
+      <displayForm>Conradie, Jeanet</displayForm>
+      <affiliation>Department of Chemistry, University of the Free State, PO BOX 339, Bloemfontein 9300, South Africa</affiliation>
+      <affiliation>Department of Chemistry, UiT - The Arctic University of Norway, N-9037 Tromsø, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Furan clusters are very important to understand the dynamics and properties of the furan solvent. They can be used combined with quantum cluster equilibrium theory to theoretically determine the thermodynamics properties of the furan solvent. To understand the structures of the furan clusters, one needs to understand the non-covalent interactions that hold the furan molecules together. In this paper, we have provided the data necessary to understand the non-covalent interactions in furan clusters. Firstly, the structures of the furan clusters have been generated using classical molecular dynamics as implemented in the ABCluster code. Secondly, the generated structures have been fully optimized at the MP2/aug-cc-pVDZ level of theory. The optimized Cartesian coordinates of all the investigated structures are reported in this work to enable further investigations of the furan clusters. These Cartesian coordinates will save computational time for all further investigations involving the furan clusters. Thirdly, to understand the nature of the non-covalent interactions in furan clusters, we have performed a quantum theory of atoms in molecule (QTAIM) analysis using AIMAll program. Using QTAIM, we have provided the critical points, bond paths and their related properties for all the investigated structures. These data can be used to identify and classify the non-covalent interactions in furan clusters. The reader can refer to the original article for further information and discussion of the data provided herein Malloum and Conradie (2022) [1]. </abstract>
+   <subject>
+      <topic>Furan clusters</topic>
+   </subject>
+   <subject>
+      <topic>Non-covalent interactions</topic>
+   </subject>
+   <subject>
+      <topic>QTAIM analysis</topic>
+   </subject>
+   <subject>
+      <topic>Heterocyclic molecules</topic>
+   </subject>
+   <subject>
+      <topic>Benzene clusters</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107766</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107766</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107766</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01040-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-23"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010404/S2352340921010404.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

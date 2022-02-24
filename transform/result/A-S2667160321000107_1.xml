@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100011">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A native cell membrane nanoparticles system allows for high-quality functional proteoliposome reconstitution</dct:title>
+         <dct:creator>Limin Yang</dct:creator>
+         <dct:creator>Claudio Catalano</dct:creator>
+         <dct:creator>Yunyao Xu</dct:creator>
+         <dct:creator>Weihua Qiu</dct:creator>
+         <dct:creator>Dongyu Zhang</dct:creator>
+         <dct:creator>Ann McDermott</dct:creator>
+         <dct:creator>Youzhong Guo</dct:creator>
+         <dct:creator>Paul Blount</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>KcsA</rdf:li>
+               <rdf:li>MscL</rdf:li>
+               <rdf:li>MscS</rdf:li>
+               <rdf:li>Triggered-release</rdf:li>
+               <rdf:li>NCMN</rdf:li>
+               <rdf:li>Proteoliposome</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100011</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100011</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100011</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100011</dct:identifier>
+         <bam:articleNumber>100011</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-03-29T09:52:28Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100011</ja:aid>
+         <ce:article-number>100011</ce:article-number>
+         <ce:pii>S2667-1603(21)00010-7</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100011</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">A native cell membrane nanoparticles system allows for high-quality functional proteoliposome reconstitution</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000107-cf71d878bd5c49988a862359373945c8">
+               <ce:given-name>Limin</ce:given-name>
+               <ce:surname>Yang</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000107-400089c4685b78c174025005473dc0eb"
+                       orcid="0000-0002-2437-6235">
+               <ce:given-name>Claudio</ce:given-name>
+               <ce:surname>Catalano</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667160321000107-38c83831f197ef5eea0a5fd43282567a">
+               <ce:given-name>Yunyao</ce:given-name>
+               <ce:surname>Xu</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667160321000107-7d5333aa9016273e205a01450b3b972f">
+               <ce:given-name>Weihua</ce:given-name>
+               <ce:surname>Qiu</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667160321000107-c3aeff641d2a22cf94cf39e86123e6ef">
+               <ce:given-name>Dongyu</ce:given-name>
+               <ce:surname>Zhang</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667160321000107-065a8257ad6ddbb91571c21ee32c0e2b">
+               <ce:given-name>Ann</ce:given-name>
+               <ce:surname>McDermott</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:aem5@columbia.edu">aem5@columbia.edu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667160321000107-b6cc146c2f9308eb4fe9d66016fb371f"
+                       orcid="0000-0001-7177-9603">
+               <ce:given-name>Youzhong</ce:given-name>
+               <ce:surname>Guo</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:yguo4@vcu.edu">yguo4@vcu.edu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667160321000107-787e421fc8058fbe4ce0ef08de230742"
+                       orcid="0000-0001-5259-4881">
+               <ce:given-name>Paul</ce:given-name>
+               <ce:surname>Blount</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0003"
+                             type="email"
+                             xlink:href="mailto:paul.blount@utsouthwestern.edu">paul.blount@utsouthwestern.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000107-a2c3b10b388889a42c7146d5715e8509">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Physiology, University of Texas Southwestern Medical Center, Dallas, TX 75390-9040, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Physiology</sa:organization>
+                  <sa:organization>University of Texas Southwestern Medical Center</sa:organization>
+                  <sa:city>Dallas</sa:city>
+                  <sa:state>TX</sa:state>
+                  <sa:postal-code>75390-9040</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Physiology, University of Texas Southwestern Medical Center, Dallas, TX 75390-9040, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667160321000107-94cfea6ade60a6231599579ab996d6b8">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Medicinal Chemistry, Virginia Commonwealth University, Richmond, VA 23298-0540, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Medicinal Chemistry</sa:organization>
+                  <sa:organization>Virginia Commonwealth University</sa:organization>
+                  <sa:city>Richmond</sa:city>
+                  <sa:state>VA</sa:state>
+                  <sa:postal-code>23298-0540</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Medicinal Chemistry, Virginia Commonwealth University, Richmond, VA 23298-0540, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667160321000107-d721f1e71e41464a33dc0719560eba68">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Institute for Structural Biology, Drug Discovery and Development, Virginia Commonwealth University, Richmond, VA 23298-0133, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute for Structural Biology, Drug Discovery and Development</sa:organization>
+                  <sa:organization>Virginia Commonwealth University</sa:organization>
+                  <sa:city>Richmond</sa:city>
+                  <sa:state>VA</sa:state>
+                  <sa:postal-code>23298-0133</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cInstitute for Structural Biology, Drug Discovery and Development, Virginia Commonwealth University, Richmond, VA 23298-0133, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667160321000107-40cb8c1c60b0241d859bd401fe1fbc95">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Chemistry, Columbia University, New York, NY 10027, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>Columbia University</sa:organization>
+                  <sa:city>New York</sa:city>
+                  <sa:state>NY</sa:state>
+                  <sa:postal-code>10027</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Chemistry, Columbia University, New York, NY 10027, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding authors.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">The first two authors contributed equally.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="17" month="12" year="2020"/>
+         <ce:date-revised day="3" month="3" year="2021"/>
+         <ce:date-accepted day="27" month="3" year="2021"/>
+         <ce:abstract class="author-highlights" id="abs0001" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">A detergent-free method for membrane protein functional reconstitution is described.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">A library of polymers allows for tailoring the system for specific membrane proteins.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">This detergent-free reconstitution can be used for functional characterization of membrane proteins or for the assembly of nanodevices.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="author" id="abs0002" view="all">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara007" view="all">Proteoliposomes mimic the cell membrane environment allowing for structural and functional membrane protein analyses as well as antigen presenting and drug delivery devices. To make proteoliposomes, purified functional membrane proteins are required. Detergents have traditionally been used for the first step in this process. However, they can irreversibly denature or render membrane proteins unstable, and the necessary removal of detergents after reconstitution can decrease proteoliposome yields. The recently developed native cell membrane nanoparticles (NCMN) system has provided a variety of detergent-free alternatives for membrane protein preparation for structural biology research. Here we attempt to employ the MCMN system for the functional reconstitution of channels into proteoliposomes. NCMN polymers NCMNP1-1 and NCMNP7-1, members of a NCMN polymer library that have been successful in extraction and affinity purification of a number of intrinsic membrane proteins, were selected for the purification and subsequent reconstitution of three bacterial channels: KcsA and the mechanosensitive channels of large and small conductance (MscL and MscS). We found that channels in NCMN particles, which appeared to be remarkably stable when stored at 4 °C, can be reconstituted into bilayers by simply incubating with lipids. We show that the resulting proteoliposomes can be patched for electrophysiological studies or used for the generation of liposome-based nanodevices. In sum, the findings demonstrate that the NCMN system is a simple and robust membrane protein extraction and reconstitution approach for making high-quality functional proteoliposomes that could significantly impact membrane protein research and the development of nanodevices.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="keyword" id="keys0001" view="all">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">KcsA</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">MscL</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">MscS</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Triggered-release</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">NCMN</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Proteoliposome</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords class="abr" id="keys0002" view="all">
+            <ce:section-title id="cesectitle0004">Abbreviations</ce:section-title>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">NCMN</ce:text>
+               <ce:keyword id="key8a">
+                  <ce:text id="cetext8a">native cell membrane nanoparticles</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">SMALP</ce:text>
+               <ce:keyword id="key9a">
+                  <ce:text id="cetext9a">styrene maleic acid lipid particles</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Genome sequence data of the antagonistic soil-borne yeast Cyberlindnera sargentensis (SHA 17.2)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Maria Paula</namePart>
+      <namePart type="family">Rueda-Mejia</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5719-166X</nameIdentifier>
+      <displayForm>Rueda-Mejia, Maria Paula</displayForm>
+      <affiliation>Agroscope, Research Division Plant Protection, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lukas</namePart>
+      <namePart type="family">Nägeli</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7152-3605</nameIdentifier>
+      <displayForm>Nägeli, Lukas</displayForm>
+      <affiliation>Agroscope, Research Division Plant Protection, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Stefanie</namePart>
+      <namePart type="family">Lutz</namePart>
+      <displayForm>Lutz, Stefanie</displayForm>
+      <affiliation>Agroscope, Competence Division Method Development and Analytics, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Raúl A.</namePart>
+      <namePart type="family">Ortiz-Merino</namePart>
+      <displayForm>Ortiz-Merino, Raúl A.</displayForm>
+      <affiliation>Conway Institute, University College Dublin, Dublin 4, Ireland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Daniel</namePart>
+      <namePart type="family">Frei</namePart>
+      <displayForm>Frei, Daniel</displayForm>
+      <affiliation>Agroscope, Competence Division Method Development and Analytics, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jürg E.</namePart>
+      <namePart type="family">Frey</namePart>
+      <displayForm>Frey, Jürg E.</displayForm>
+      <affiliation>Agroscope, Competence Division Method Development and Analytics, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kenneth H.</namePart>
+      <namePart type="family">Wolfe</namePart>
+      <displayForm>Wolfe, Kenneth H.</displayForm>
+      <affiliation>Conway Institute, University College Dublin, Dublin 4, Ireland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christian H.</namePart>
+      <namePart type="family">Ahrens</namePart>
+      <displayForm>Ahrens, Christian H.</displayForm>
+      <affiliation>Agroscope, Competence Division Method Development and Analytics, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</affiliation>
+      <affiliation>SIB, Swiss Institute of Bioinformatics, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Florian M.</namePart>
+      <namePart type="family">Freimoser</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7607-3108</nameIdentifier>
+      <displayForm>Freimoser, Florian M.</displayForm>
+      <affiliation>Agroscope, Research Division Plant Protection, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Cyberlindnera sargentensis strain SHA 17.2, isolated from a Swiss soil sample, exhibited strong antagonistic activity against several plant pathogenic fungi in vitro and was highly competitive against other yeasts in soil. As a basis for identifying the mechanisms underlying its strong antagonistic activity, we have sequenced the genome of C. sargentensis (SHA 17.2) by long- and short read sequencing, de novo assembled them into seven contigs/chromosomes and a mitogenome (total genome size 11.4 Mbp), and annotated 5455 genes. This high-quality genome is the reference for transcriptome and proteome analyses aiming at elucidating the mode of action of C. sargentensis against fungal plant pathogens. It will thus serve as a resource for identifying potential biocontrol genes and performing comparative genomics analyses of yeast genomes. </abstract>
+   <subject>
+      <topic>Antagonism</topic>
+   </subject>
+   <subject>
+      <topic>Biocontrol</topic>
+   </subject>
+   <subject>
+      <topic>Genome assembly and annotation</topic>
+   </subject>
+   <subject>
+      <topic>Mechanism</topic>
+   </subject>
+   <subject>
+      <topic>Plant protection</topic>
+   </subject>
+   <subject>
+      <topic>Yeast</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107799</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107799</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107799</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00011-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-04"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000117/S2352340922000117.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

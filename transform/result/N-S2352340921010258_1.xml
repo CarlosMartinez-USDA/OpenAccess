@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of endodontic microorganisms killed at 265 nm wavelength by an ultraviolet C light emitting diode in root canals of extracted, instrumented teeth</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Kimberly A.</namePart>
+      <namePart type="family">Morio</namePart>
+      <displayForm>Morio, Kimberly A.</displayForm>
+      <affiliation>Apex Endodontics, Hiawatha, IA United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Robert H.</namePart>
+      <namePart type="family">Sternowski</namePart>
+      <displayForm>Sternowski, Robert H.</displayForm>
+      <affiliation>Softronics, Ltd., Marion, IA United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kim A.</namePart>
+      <namePart type="family">Brogden</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3296-3867</nameIdentifier>
+      <displayForm>Brogden, Kim A.</displayForm>
+      <affiliation>College of Dentistry, Iowa Institute for Oral Health Research, the University of Iowa, Iowa City, IA United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Ultraviolet C (UVC) light emitting diode (LED) can kill the endodontic pathogen Enterococcus faecalis and has the potential to kill other oral microorganisms associated with endodontic infections. This same bacteriocidal device shows great promise in the stimulation of periapical healing and pain reduction resulting from inflammation in root canals. Previously, we found that 255 nm UVC LED killed E. faecalis and induced the production of cellular biomarkers in HEPM cells and gingival fibroblasts (Morio et al., 2019). Here, we extend those findings and hypothesize that UVC LED at other wavelengths and power levels kill microorganisms associated with root canal infections. Units emitting UVC LED at 265 nm (12 mW), 265 nm (22.5 mW), and 280 nm (8 mW) wavelenths were assembled and the energy levels of their emissions were measured. The energy doses in millijoules (mJ) were calculated from the power readings of the meter (µW) × time of exposure (seconds). Ex vivo models of root canals were prepared in extracted, instrumented, single canal human premolars. Five cultures of microorganisms were treated with 265 nm (12 mW), 265 nm (22.5 mW), or 280 nm (8 mW) UVC LED on discs in laboratory assays and 4 cultures of microorganisms were treated with 265 nm (22.5 mW) UVC LED in root canals of extracted, instrumented teeth. After UVC LED treatment, all microorganisms were cultivated on microbiological media. Colony forming units (CFU) of viable microorganisms treated with UVC LED were counted and compared with those of viable microorganisms not treated with UVC LED as controls. Tukey's Honestly Significant Difference was used to determine statistical significances (0.05). Units emitting UVC LED at 265 nm (12 mW), 265 nm (22.5 mW), and 280 nm (8 mW) killed Candida albicans, Staphylococcus aureus, methicillin-resistant S. aureus (MRSA), E. faecalis, and Streptococcus sanguinis after 30-90 seconds of exposure in laboratory assays (p &lt; 0.05). Microbial killing differed among treatment times, UVC LED wavelengths, power levels of each unit, and specific microorganism. The unit emitting UVC LED at 265 nm (22.5 mW) killed C. albicans, S. aureus, MRSA, and E. faecalis in 30 s in root canals of extracted, instrumented teeth (p &lt; 0.05). This dataset can be reused to assess the ability of other wavelengths and power levels to kill microorganisms as well as improve procedures for treating endodontic infections and inflammation in root canals. </abstract>
+   <subject>
+      <topic>Ultraviolet C</topic>
+   </subject>
+   <subject>
+      <topic>UVC</topic>
+   </subject>
+   <subject>
+      <topic>Light emitting diode</topic>
+   </subject>
+   <subject>
+      <topic>LED</topic>
+   </subject>
+   <subject>
+      <topic>Antimicrobial</topic>
+   </subject>
+   <subject>
+      <topic>Root canal infection</topic>
+   </subject>
+   <subject>
+      <topic>Endodontic infection</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107750</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107750</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107750</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01025-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-22"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010258/S2352340921010258.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

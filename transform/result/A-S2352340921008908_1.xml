@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107615">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset on microclimate and drone-based thermal patterns within an oil palm agroforestry system</dct:title>
+         <dct:creator>Laura Somenguem Donfack</dct:creator>
+         <dct:creator>Alexander Röll</dct:creator>
+         <dct:creator>Florian Ellsäßer</dct:creator>
+         <dct:creator>Martin Ehbrecht</dct:creator>
+         <dct:creator>Bambang Irawan</dct:creator>
+         <dct:creator>Dirk Hölscher</dct:creator>
+         <dct:creator>Alexander Knohl</dct:creator>
+         <dct:creator>Holger Kreft</dct:creator>
+         <dct:creator>Eduard J. Siahaan</dct:creator>
+         <dct:creator>Leti Sundawati</dct:creator>
+         <dct:creator>Christian Stiegler</dct:creator>
+         <dct:creator>Clara Delphine Zemp</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Microclimate</rdf:li>
+               <rdf:li>Land surface temperature</rdf:li>
+               <rdf:li>iButton</rdf:li>
+               <rdf:li>Drone-based thermography</rdf:li>
+               <rdf:li>Oil palm</rdf:li>
+               <rdf:li>Agroforestry</rdf:li>
+               <rdf:li>Vegetation structure</rdf:li>
+               <rdf:li>Biodiversity</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107615</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107615</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107615</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107615</dct:identifier>
+         <bam:articleNumber>107615</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-18T17:43:43Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107615</ja:aid>
+         <ce:article-number>107615</ce:article-number>
+         <ce:pii>S2352-3409(21)00890-8</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107615</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0378-1127(21)00569-7</ce:pii>
+               <ce:doi>10.1016/j.foreco.2021.119480</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset on microclimate and drone-based thermal patterns within an oil palm agroforestry system</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008908-e6222c20734c92bd6999a98948490936">
+               <ce:given-name>Laura Somenguem</ce:given-name>
+               <ce:surname>Donfack</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:laura.ds@uni-goettingen.de">laura.ds@uni-goettingen.de</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008908-6c2b62ccf3d80db2949b964f32e7c81f"
+                       orcid="0000-0001-9457-4459">
+               <ce:given-name>Alexander</ce:given-name>
+               <ce:surname>Röll</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008908-12d1c00f672e47905205a3fcdc9a2bf0">
+               <ce:given-name>Florian</ce:given-name>
+               <ce:surname>Ellsäßer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008908-388bee8650d94d51b0da3e7b1af36350">
+               <ce:given-name>Martin</ce:given-name>
+               <ce:surname>Ehbrecht</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008908-542d2e6ce44cf984165115ffcf2177a0">
+               <ce:given-name>Bambang</ce:given-name>
+               <ce:surname>Irawan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008908-ecaf8b399c0908bdd4d169a76ee10c85">
+               <ce:given-name>Dirk</ce:given-name>
+               <ce:surname>Hölscher</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921008908-b67ed03433c4eccb981ad9c71f68aff9"
+                       orcid="0000-0002-7615-8870">
+               <ce:given-name>Alexander</ce:given-name>
+               <ce:surname>Knohl</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921008908-ea9c08a0de0fb21a4414f4f49bd1e8ac"
+                       orcid="0000-0003-4471-8236">
+               <ce:given-name>Holger</ce:given-name>
+               <ce:surname>Kreft</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921008908-1e4e5d354423a99e067d421763a1b43b">
+               <ce:given-name>Eduard J.</ce:given-name>
+               <ce:surname>Siahaan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2352340921008908-fe975b94b617b9e37fcb2aad2525a948">
+               <ce:given-name>Leti</ce:given-name>
+               <ce:surname>Sundawati</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0007">
+                  <ce:sup loc="post">g</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S2352340921008908-18be621e496f48b65946d6bfc98c2063"
+                       orcid="0000-0002-0130-2401">
+               <ce:given-name>Christian</ce:given-name>
+               <ce:surname>Stiegler</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0012"
+                       author-id="S2352340921008908-30b7b1b2813c0e37003915eb5864e4a6"
+                       orcid="0000-0002-2239-2995">
+               <ce:given-name>Clara Delphine</ce:given-name>
+               <ce:surname>Zemp</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0008">
+                  <ce:sup loc="post">h</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008908-a7e67de15d520088f27cef2b7d3d70e4">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">University of Goettingen, Silviculture and Forest Ecology of the Temperate Zones, Büsgenweg 1, Göttingen 37077, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Goettingen</sa:organization>
+                  <sa:organization>Silviculture and Forest Ecology of the Temperate Zones</sa:organization>
+                  <sa:address-line>Büsgenweg 1</sa:address-line>
+                  <sa:city>Göttingen</sa:city>
+                  <sa:postal-code>37077</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aUniversity of Goettingen, Silviculture and Forest Ecology of the Temperate Zones, Büsgenweg 1, Göttingen 37077, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008908-60b57123a92e6f2c7adf5b2cffaf7b8a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">University of Goettingen, Tropical Silviculture and Forest Ecology, Büsgenweg 1, Göttingen 37077, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Goettingen</sa:organization>
+                  <sa:organization>Tropical Silviculture and Forest Ecology</sa:organization>
+                  <sa:address-line>Büsgenweg 1</sa:address-line>
+                  <sa:city>Göttingen</sa:city>
+                  <sa:postal-code>37077</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bUniversity of Goettingen, Tropical Silviculture and Forest Ecology, Büsgenweg 1, Göttingen 37077, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008908-3d4b01a04f9c30c6633e365581188396">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">University of Goettingen, Biodiversity, Macroecology and Biogeography, Büsgenweg 1, Göttingen 37077, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Goettingen</sa:organization>
+                  <sa:organization>Biodiversity</sa:organization>
+                  <sa:organization>Macroecology and Biogeography</sa:organization>
+                  <sa:address-line>Büsgenweg 1</sa:address-line>
+                  <sa:city>Göttingen</sa:city>
+                  <sa:postal-code>37077</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cUniversity of Goettingen, Biodiversity, Macroecology and Biogeography, Büsgenweg 1, Göttingen 37077, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921008908-865a803b1781d7e54b1ed6de35333e0c">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">University of Jambi, Faculty of Forestry, Jln Raya Jambi, Jambi 36361, Indonesia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Jambi</sa:organization>
+                  <sa:organization>Faculty of Forestry</sa:organization>
+                  <sa:organization>Jln Raya Jambi</sa:organization>
+                  <sa:city>Jambi</sa:city>
+                  <sa:postal-code>36361</sa:postal-code>
+                  <sa:country>Indonesia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dUniversity of Jambi, Faculty of Forestry, Jln Raya Jambi, Jambi 36361, Indonesia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921008908-a90b6f3f5861416c1ad819a63e8b9ec2">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">University of Goettingen, Centre of Biodiversity and Sustainable Land Use, Büsgenweg 1, Göttingen 37077, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Goettingen</sa:organization>
+                  <sa:organization>Centre of Biodiversity and Sustainable Land Use</sa:organization>
+                  <sa:address-line>Büsgenweg 1</sa:address-line>
+                  <sa:city>Göttingen</sa:city>
+                  <sa:postal-code>37077</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eUniversity of Goettingen, Centre of Biodiversity and Sustainable Land Use, Büsgenweg 1, Göttingen 37077, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2352340921008908-740423698c22b94dd87979bfc2ed32d7">
+               <ce:label>f</ce:label>
+               <ce:textfn id="cetextfn0006">University of Goettingen, Bioclimatology, Büsgenweg 2, Göttingen 37077 Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Goettingen</sa:organization>
+                  <sa:organization>Bioclimatology</sa:organization>
+                  <sa:address-line>Büsgenweg 2</sa:address-line>
+                  <sa:city>Göttingen</sa:city>
+                  <sa:postal-code>37077</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0006">fUniversity of Goettingen, Bioclimatology, Büsgenweg 2, Göttingen 37077 Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0007"
+                            affiliation-id="S2352340921008908-78bf90e5d7686f4e6f86d863f3794607">
+               <ce:label>g</ce:label>
+               <ce:textfn id="cetextfn0007">Department of Forest Management, Bogor Agricultural University, Kampus IPB Darmaga, Bogor 16680, Indonesia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Forest Management</sa:organization>
+                  <sa:organization>Bogor Agricultural University</sa:organization>
+                  <sa:address-line>Kampus IPB Darmaga</sa:address-line>
+                  <sa:city>Bogor</sa:city>
+                  <sa:postal-code>16680</sa:postal-code>
+                  <sa:country>Indonesia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0007">gDepartment of Forest Management, Bogor Agricultural University, Kampus IPB Darmaga, Bogor 16680, Indonesia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0008"
+                            affiliation-id="S2352340921008908-885dccb2f10ae4de97a04af0cad054c6">
+               <ce:label>h</ce:label>
+               <ce:textfn id="cetextfn0008">University of Neuchâtel, Institute of Biology, Conservation Biology Lab, Rue Emilie-Argand 11, Neuchâtel CH-2000, Switzerland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Neuchâtel</sa:organization>
+                  <sa:organization>Institute of Biology</sa:organization>
+                  <sa:organization>Conservation Biology Lab</sa:organization>
+                  <sa:address-line>Rue Emilie-Argand 11</sa:address-line>
+                  <sa:city>Neuchâtel</sa:city>
+                  <sa:postal-code>CH-2000</sa:postal-code>
+                  <sa:country>Switzerland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0008">hUniversity of Neuchâtel, Institute of Biology, Conservation Biology Lab, Rue Emilie-Argand 11, Neuchâtel CH-2000, Switzerland</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: University of Goettingen, Silviculture and Forest Ecology of the Temperate Zones, Büsgenweg 1, Göttingen 37077, Germany.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>University of Goettingen</sa:organization>
+                  <sa:organization>Silviculture and Forest Ecology of the Temperate Zones</sa:organization>
+                  <sa:address-line>Büsgenweg 1</sa:address-line>
+                  <sa:city>Göttingen</sa:city>
+                  <sa:postal-code>37077</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="21" month="9" year="2021"/>
+         <ce:date-revised day="23" month="10" year="2021"/>
+         <ce:date-accepted day="17" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">Microclimate and Land Surface Temperature (LST) are important analytical variables used to understand complex oil palm agroforestry systems and their effects on biodiversity and ecosystem functions. In order to examine experimental effects of tree species richness (0, 1, 2, 3 or 6), plot size (25 m<ce:sup loc="post">2</ce:sup>, 100 m<ce:sup loc="post">2</ce:sup>, 400 m<ce:sup loc="post">2</ce:sup>, 1600 m<ce:sup loc="post">2</ce:sup>) and stand structural complexity on microclimate and Land Surface Temperature, related data were collected following a strict design. The experiment was carried out in the Jambi province, in Sumatra (Indonesia), as part of the collaborative project EFForTS [Ecological and Socioeconomic Functions of Tropical Lowland Rainforest Transformation Systems]. Microclimate data collected using miniaturized data loggers combined with drone-based thermal data were considered within an oil palm plantation enriched with six target tree species. The timeframe considered for data analysis was 20th September 2017 to 26th September 2017. The experiment data can be used for comparison with data from conventional oil palm agroforestry systems in the tropics. They can more specifically be used as reference to assess microclimate and Land Surface Temperature patterns within similar agroforestry systems.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Microclimate</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001a">
+               <ce:text id="cetext0002a">Land surface temperature</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001b">
+               <ce:text id="cetext0002b">iButton</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001c">
+               <ce:text id="cetext0002c">Drone-based thermography</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001d">
+               <ce:text id="cetext0002d">Oil palm</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001e">
+               <ce:text id="cetext0002e">Agroforestry</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001f">
+               <ce:text id="cetext0002f">Vegetation structure</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001g">
+               <ce:text id="cetext0002g">Biodiversity</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Use of dielectric mixture equations for the characterization of uncleaned peanuts</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Sakol</namePart>
+      <namePart type="family">Julrat</namePart>
+      <displayForm>Julrat, Sakol</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Samir</namePart>
+      <namePart type="family">Trabelsi</namePart>
+      <displayForm>Trabelsi, Samir</displayForm>
+      <affiliation>U.S. Department of Agriculture, Agricultural Research Service, US National Poultry Research Center, 950 College Station Rd, Athens, GA 30605, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Dielectric properties measurement plays an important role for peanut quality assessment as it offers a unique characterization for each sample condition. In this study, four dielectric mixture models including linear, quadratic, cubic, and logarithmic equations, were used to characterize the dielectric properties of mixtures of cleaned peanuts and foreign materials. The peanut samples consisted of mixtures of cleaned unshelled peanuts mixed with a single type or multiple types of foreign materials (peanut shells, sticks, raisins (shriveled undeveloped kernels), and stones). The effective dielectric constants of these mixtures of cleaned unshelled peanuts and foreign materials were measured by a free-space-transmission technique at 10 GHz and 23 °C. The effective dielectric constants obtained from the measurements for the mixtures were compared to those calculated by using the four mixture equations. Results for the logarithmic equation provided the best estimates for the dielectric constants of mixtures of unshelled peanuts and foreign materials with a standard error of performance of 2.7%. Therefore, the logarithmic dielectric mixture model can be useful in developing dielectric-based algorithm for foreign material determination. </abstract>
+   <subject>
+      <topic>Dielectric properties</topic>
+   </subject>
+   <subject>
+      <topic>Dielectric mixture equations</topic>
+   </subject>
+   <subject>
+      <topic>Foreign materials</topic>
+   </subject>
+   <subject>
+      <topic>Microwave sensing</topic>
+   </subject>
+   <subject>
+      <topic>Unshelled peanuts</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Measurement: Food</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Ltd</publisher>
+      </originInfo>
+      <identifier type="issn">2772-2759</identifier>
+      <part>
+         <detail type="volume">
+            <number>5</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>100022</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.meafoo.2022.100022</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.meafoo.2022.100022</url>
+   </location>
+   <identifier type="pii">S2772-2759(22)00001-6</identifier>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/333921349383348651-00001/2772-2759/S2772275921X00068/S2772275922000016/S2772275922000016.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

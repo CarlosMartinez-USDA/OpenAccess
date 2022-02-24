@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100026">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Membrane dynamics are slowed for Alexa594-labeled membrane proteins due to substrate interactions</dct:title>
+         <dct:creator>Alan W. Weisgerber</dct:creator>
+         <dct:creator>Michelle K. Knowles</dct:creator>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100026</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100026</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100026</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100026</dct:identifier>
+         <bam:articleNumber>100026</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-09-17T09:46:34Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100026</ja:aid>
+         <ce:article-number>100026</ce:article-number>
+         <ce:pii>S2667-1603(21)00025-9</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100026</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Membrane dynamics are slowed for Alexa594-labeled membrane proteins due to substrate interactions</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000259-f287981277ddd90f4159d0768239594f">
+               <ce:given-name>Alan W.</ce:given-name>
+               <ce:surname>Weisgerber</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000259-52511096a2afaa30152a1ccddce4ab62">
+               <ce:given-name>Michelle K.</ce:given-name>
+               <ce:surname>Knowles</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:michelle.knowles@du.edu">michelle.knowles@du.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000259-5c9291fb15fb05ed34e6ff666979def4">
+               <ce:textfn id="cetextfn0001">Department of Chemistry and Biochemistry, University of Denver, Denver, CO 80210, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry and Biochemistry</sa:organization>
+                  <sa:organization>University of Denver</sa:organization>
+                  <sa:city>Denver</sa:city>
+                  <sa:state>CO</sa:state>
+                  <sa:postal-code>80210</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Chemistry and Biochemistry, University of Denver, Denver, CO 80210, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Chemistry and Biochemistry, University of Denver, Denver, CO 80210, USA</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry and Biochemistry</sa:organization>
+                  <sa:organization>University of Denver</sa:organization>
+                  <sa:city>Denver</sa:city>
+                  <sa:state>CO</sa:state>
+                  <sa:postal-code>80210</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">The addition of fluorescent dyes to proteins, lipids and other biological molecules can affect a range of processes such as mobility, molecular interactions, localization, and, ultimately, function. The dynamics of a protein can be dramatically affected if the label interacts non-specifically with the substrate or with other molecules in the system. To test how dye-substrate interactions affect protein diffusion, fluorescence recovery after photobleaching (FRAP) measurements were designed to explicitly determine the role of the dye on the diffusion of a transmembrane protein, Syntaxin1a, expressed on the cell surface. Syntaxin1a, was tagged with EGFP on the extracellular side and an EGFP nanobody with or without a dye label was attached. FRAP was performed on Syx1a-EGFP and the choice of cell growth substrate affected mobility in the presence of a dye labeled nanobody. This work provides evidence for choosing fibronectin (Fn) over poly-L-lysine (PLL) in FRAP and single molecule tracking measurements when using Alexa594, a common probe for red fluorescent measurements. Alexa594-labeled nanobody but not unlabeled nanobody, dramatically reduced the mobility of Syx1a-EGFP when cells were cultured on PLL. However, when Fn was used, the mobility returned. Mobility measured by single molecule tracking measurements align with the FRAP measurements with Fn coated surfaces being more mobile than PLL.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0002">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara007" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Alexa594 labeling immobilizes membrane proteins on cells grown on poly-L-lysine.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Fibronectin coating alleviates the interaction between the substrate and dye.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">A new method is described that can directly measure the effect of dyes on dynamics.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara008" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A dataset describing glycolytic inhibitors overcoming the underestimation of maximal mitochondrial oxygen consumption rate in oligomycin-treated cells</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Juliana S.</namePart>
+      <namePart type="family">Ruas</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5967-5235</nameIdentifier>
+      <displayForm>Ruas, Juliana S.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Edilene S.</namePart>
+      <namePart type="family">Siqueira-Santos</namePart>
+      <displayForm>Siqueira-Santos, Edilene S.</displayForm>
+      <affiliation>Department of Pathology, Faculty of Medical Sciences, University of Campinas (UNICAMP), Campinas, SP 13083-887, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Claudia D.C.</namePart>
+      <namePart type="family">Navarro</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2393-7512</nameIdentifier>
+      <displayForm>Navarro, Claudia D.C.</displayForm>
+      <affiliation>Department of Pathology, Faculty of Medical Sciences, University of Campinas (UNICAMP), Campinas, SP 13083-887, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Roger F.</namePart>
+      <namePart type="family">Castilho</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2338-8717</nameIdentifier>
+      <displayForm>Castilho, Roger F.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Determination of oxygen consumption is one of the most valuable methodologies to evaluate mitochondrial (dys)function. Previous studies demonstrated that a widely used protocol, consisting of adding the ATP synthase inhibitor oligomycin before mitochondrial respiratory uncoupling by sequential addition of a protonophore (e.g., carbonyl cyanide 3-chlorophenyl hydrazone [CCCP]), may lead to underestimation of maximal oxygen consumption rate (OCRₘₐₓ) and spare respiratory capacity (SRC) parameters in highly glycolytic tumor cell lines. In this dataset, we report the effects of the glycolytic inhibitors 2-deoxy-D-glucose, iodoacetic acid, and lonidamine on overcoming the underestimation of OCRₘₐₓ and SRC in oligomycin-treated cells. We propose a protocol in which 2-deoxy-D-glucose is added after oligomycin and just before the sequential addition of CCCP to avoid underestimation of OCRₘₐₓ and SRC parameters in A549, C2C12, and T98G cells. The oxygen consumption rates were determined in intact suspended cell lines using a high-resolution oxygraph device. The data can be used in several fields of research that require characterization of mitochondrial respiratory parameters in intact cells. </abstract>
+   <subject>
+      <topic>2-Deoxi-D-glucose</topic>
+   </subject>
+   <subject>
+      <topic>Oxygen consumption</topic>
+   </subject>
+   <subject>
+      <topic>Mitochondria</topic>
+   </subject>
+   <subject>
+      <topic>Mitochondrial membrane potential</topic>
+   </subject>
+   <subject>
+      <topic>Oligomycin</topic>
+   </subject>
+   <subject>
+      <topic>Spare respiratory capacity</topic>
+   </subject>
+   <subject>
+      <topic>Tumor cell</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107739</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107739</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107739</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01014-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-21"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010143/S2352340921010143.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Case study data for joint modeling of insurance claims and lapsation</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Montserrat</namePart>
+      <namePart type="family">Guillen</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2644-6268</nameIdentifier>
+      <displayForm>Guillen, Montserrat</displayForm>
+      <affiliation>Universitat de Barcelona, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Catalina</namePart>
+      <namePart type="family">Bolancé</namePart>
+      <displayForm>Bolancé, Catalina</displayForm>
+      <affiliation>University of Connecticut, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Edward W.</namePart>
+      <namePart type="family">Frees</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9605-9776</nameIdentifier>
+      <displayForm>Frees, Edward W.</displayForm>
+      <affiliation>University of Wisconsin-Madison and Australian National University, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Emiliano A.</namePart>
+      <namePart type="family">Valdez</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4037-8385</nameIdentifier>
+      <displayForm>Valdez, Emiliano A.</displayForm>
+      <affiliation>University of Connecticut, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The dataset tracks 40,284 insurance clients over five years, between 2010 and 2015, who subscribed to both automobile and homeowners insurance. We have combined information on these customers. First, the characteristics including age, gender or driving experience, among others and dates of renewal for the two types of policies considered here. Note that we have only considered clients corresponding to persons and not commercial firms that can also underwrite home and motor insurance policies. Second, the policy data file for motor vehicle insurance consists of all vehicle insurance coverage including power, driving area or whether there is a second driver that drives the car occasionally. Third, the policy data file for homeowners insurance has information on the property such as value of the building (essentially the value of the home without any furniture, apparel and personal items), location and type of dwelling. Besides these three sources, we have access to data containing information on the number of claims and total cost of those claims per year and per policy type. So, for all policies that are in force, we finally have up to a five year record of the yearly cost of claims in the motor insurance and in the home coverage. If the customer does not renew one of those two policies or both, we do not have more information after this lapse occurs. After summarizing the data, we provide the usual marginal analysis, where we fit regression models using Tweedie distributions for claims and a logistic model for lapse. Data can be used for joint analysis of insurance policyholders with more than one product. </abstract>
+   <subject>
+      <topic>Motor insurance</topic>
+   </subject>
+   <subject>
+      <topic>Homeowners insurance</topic>
+   </subject>
+   <subject>
+      <topic>Customer retention</topic>
+   </subject>
+   <subject>
+      <topic>Loyalty</topic>
+   </subject>
+   <subject>
+      <topic>Ratemaking</topic>
+   </subject>
+   <subject>
+      <topic>Premium</topic>
+   </subject>
+   <subject>
+      <topic>Loss data</topic>
+   </subject>
+   <subject>
+      <topic>Dependence</topic>
+   </subject>
+   <subject>
+      <topic>Heavy tails</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107639</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107639</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107639</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00914-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-23"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009148/S2352340921009148.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

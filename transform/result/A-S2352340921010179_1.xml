@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107742">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Experimental dataset for the macro-scale compression of Norway Spruce perpendicular to grain direction</dct:title>
+         <dct:creator>Tito Adibaskoro</dct:creator>
+         <dct:creator>Wojciech Sołowski</dct:creator>
+         <dct:creator>Simo Hostikka</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Load-displacement history</rdf:li>
+               <rdf:li>Orthotropic</rdf:li>
+               <rdf:li>Post-failure</rdf:li>
+               <rdf:li>Quasi-static</rdf:li>
+               <rdf:li>Transverse</rdf:li>
+               <rdf:li>Universal testing machine</rdf:li>
+               <rdf:li>Video</rdf:li>
+               <rdf:li>Wood material</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107742</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107742</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107742</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107742</dct:identifier>
+         <bam:articleNumber>107742</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-21T17:54:25Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107742</ja:aid>
+         <ce:article-number>107742</ce:article-number>
+         <ce:pii>S2352-3409(21)01017-9</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107742</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0020-7683(21)00411-X</ce:pii>
+               <ce:doi>10.1016/j.ijsolstr.2021.111333</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Experimental dataset for the macro-scale compression of Norway Spruce perpendicular to grain direction</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010179-6bb3da244fe16412e5ded8c3622b0cdf"
+                       orcid="0000-0003-3606-8077">
+               <ce:given-name>Tito</ce:given-name>
+               <ce:surname>Adibaskoro</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:tito.adibaskoro@aalto.fi">tito.adibaskoro@aalto.fi</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010179-2de0e9541740c0a3794e7fe68075a846">
+               <ce:given-name>Wojciech</ce:given-name>
+               <ce:surname>Sołowski</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010179-db0d121f67b64d98ee61aceac702b76b">
+               <ce:given-name>Simo</ce:given-name>
+               <ce:surname>Hostikka</ce:surname>
+               <ce:e-address id="ea3a"
+                             type="social-media"
+                             xlink:href="https://twitter.com/HostikkaSimo">@HostikkaSimo</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010179-0d691f7080dc90897f8ac81c939252c0">
+               <ce:textfn id="cetextfn0001">Aalto University School of Engineering, Department of Civil Engineering, Rakentajanaukio 4A, 02150 Espoo, P.O. Box 12100, Aalto 00076, Finland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Aalto University School of Engineering</sa:organization>
+                  <sa:organization>Department of Civil Engineering</sa:organization>
+                  <sa:address-line>Rakentajanaukio 4A, 02150 Espoo, P.O. Box 12100</sa:address-line>
+                  <sa:city>Aalto</sa:city>
+                  <sa:postal-code>00076</sa:postal-code>
+                  <sa:country>Finland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Aalto University School of Engineering, Department of Civil Engineering, Rakentajanaukio 4A, 02150 Espoo, P.O. Box 12100, Aalto 00076, Finland</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="7" month="12" year="2021"/>
+         <ce:date-accepted day="20" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">This article presents load and displacement data of <ce:italic>Norway Spruce</ce:italic> quasi-static compression test as well as video recordings of the experiment using the <ce:italic>Universal Testing Machine</ce:italic> (UTM). The specimens are 4 cm × 4 cm × 8 cm clear-wood cuboids with grain direction perpendicular to and loading direction parallel to the long axis. Due to the radially-arranged annual ring at such scale of the specimens, the plane of interest features significantly-varying orientation of the weak axes, namely the <ce:italic>radial</ce:italic> (R) and <ce:italic>tangential</ce:italic> (T) directions. A hemispherical knee joint underneath the specimen were fine-adjusted under preload before each experiment to ensure evenly-distributed load. Additionally, grids of 5 mm spacing were drawn on the plane of interest for better clarity of the deformed shape. Both load and displacement history recorded by the UTM as well as the deformation process recorded as video may provide valuable information for validation of wood material models or simulation methods with wood material implementations.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Load-displacement history</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Orthotropic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Post-failure</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Quasi-static</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Transverse</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Universal testing machine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Video</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Wood material</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>RGB camera-based image technique for color measurement of flavored milk</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Prashant Saurabh</namePart>
+      <namePart type="family">Minz</namePart>
+      <displayForm>Minz, Prashant Saurabh</displayForm>
+      <affiliation>Dairy Engineering Division, ICAR - National Dairy Research Institute, Karnal-132001, Haryana, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Charanjiv Singh</namePart>
+      <namePart type="family">Saini</namePart>
+      <displayForm>Saini, Charanjiv Singh</displayForm>
+      <affiliation>Department of Food Engineering and Technology, Sant Longowal Institute of Engineering and Technology, Longowal 148106, Punjab, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The potential of RGB cameras to extract and measure the color of flavored milk was assessed using the image analysis technique. A simple procedure has been proposed using RGB camera for the color measurement of flavored milk samples. The color measurement algorithm involved the transformation of device-dependent RGB color values into device-independent CIE L*a*b* color values. The study helped to determine the variation in colorimetric results when a computer vision system (CVS) was evaluated using five different cameras (C1-C5). CCD (charge-coupled device) and CMOS (complementary metal-oxide-semiconductor) cameras yielded similar results. The variability in colorimetric results due to the effect of light source and camera specifications can be minimized by a combination of calibration, color measurement, and correction algorithms. The total color difference (ΔE) was in the range of 0.20 – 6.42 and can be used as a parameter to characterize cameras for color measurement accuracy. C1-C4 based CVS accurately measured color compared to C5. The study established that the computer vision method based on RGB camera is a useful tool for rapid color assessment of flavored milk samples. </abstract>
+   <subject>
+      <topic>Color measurement</topic>
+   </subject>
+   <subject>
+      <topic>Computer vision system</topic>
+   </subject>
+   <subject>
+      <topic>Image analysis</topic>
+   </subject>
+   <subject>
+      <topic>Flavored milk</topic>
+   </subject>
+   <subject>
+      <topic>RGB camera</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Measurement: Food</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Ltd</publisher>
+      </originInfo>
+      <identifier type="issn">2772-2759</identifier>
+      <part>
+         <detail type="volume">
+            <number>4</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>100012</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.meafoo.2021.100012</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.meafoo.2021.100012</url>
+   </location>
+   <identifier type="pii">S2772-2759(21)00009-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-01"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2772-2759/S2772275921X00056/S2772275921000095/S2772275921000095.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

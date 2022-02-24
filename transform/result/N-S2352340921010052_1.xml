@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset for dynamics and conformational changes in human NEIL2 protein analyzed by integrative structural biology approach</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Polina V.</namePart>
+      <namePart type="family">Zhdanova</namePart>
+      <displayForm>Zhdanova, Polina V.</displayForm>
+      <affiliation>Institute of Chemical Biology and Fundamental Medicine SB RAS, Novosibisk, Russia</affiliation>
+      <affiliation>Novosibirsk State University, Novosibisk, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander A.</namePart>
+      <namePart type="family">Ishchenko</namePart>
+      <displayForm>Ishchenko, Alexander A.</displayForm>
+      <affiliation>Groupe «Réparation de l'ADN», Equipe Labellisée par la Ligue Nationale contre le Cancer, CNRS UMR 8200, Univ. Paris-Sud, Université Paris-Saclay, Villejuif F-94805, France</affiliation>
+      <affiliation>Gustave Roussy, Université Paris-Saclay, Villejuif F-94805, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander A.</namePart>
+      <namePart type="family">Chernonosov</namePart>
+      <displayForm>Chernonosov, Alexander A.</displayForm>
+      <affiliation>Institute of Chemical Biology and Fundamental Medicine SB RAS, Novosibisk, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dmitry O.</namePart>
+      <namePart type="family">Zharkov</namePart>
+      <displayForm>Zharkov, Dmitry O.</displayForm>
+      <affiliation>Institute of Chemical Biology and Fundamental Medicine SB RAS, Novosibisk, Russia</affiliation>
+      <affiliation>Novosibirsk State University, Novosibisk, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vladimir V.</namePart>
+      <namePart type="family">Koval</namePart>
+      <displayForm>Koval, Vladimir V.</displayForm>
+      <affiliation>Institute of Chemical Biology and Fundamental Medicine SB RAS, Novosibisk, Russia</affiliation>
+      <affiliation>Novosibirsk State University, Novosibisk, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This work presents new data on human endonuclease VIII-like 2 protein (hNEIL2), a part of DNA glycosylases of the helix–two-turn–helix structural superfamily. While X-ray structure of oNEIL2 (opossum Monodelphis) was resolved partially [1], the structure of hNEIL2 has not yet been determined. This data article describes a powerful combination of hydrogen-deuterium exchange mass spectrometry, homology modeling, and molecular dynamics simulations for protein conformational dynamics analysis. The data supplied in this work are related to the research article entitled “Dynamics and Conformational Changes in Human NEIL2 DNA Glycosylase Analyzed by Hydrogen/Deuterium Exchange Mass Spectrometry”. </abstract>
+   <subject>
+      <topic>DNA damage</topic>
+   </subject>
+   <subject>
+      <topic>DNA repair</topic>
+   </subject>
+   <subject>
+      <topic>Base excision repair</topic>
+   </subject>
+   <subject>
+      <topic>DNA glycosylases</topic>
+   </subject>
+   <subject>
+      <topic>NEIL2</topic>
+   </subject>
+   <subject>
+      <topic>HDX-MS</topic>
+   </subject>
+   <subject>
+      <topic>Molecular dynamics</topic>
+   </subject>
+   <subject>
+      <topic>Structural dynamics</topic>
+   </subject>
+   <subject>
+      <topic>hNEIL2</topic>
+   </subject>
+   <subject>
+      <topic>HDX-MS</topic>
+   </subject>
+   <subject>
+      <topic>MD</topic>
+   </subject>
+   <subject>
+      <topic>CD</topic>
+   </subject>
+   <subject>
+      <topic>LC-MS</topic>
+   </subject>
+   <subject>
+      <topic>ESI</topic>
+   </subject>
+   <subject>
+      <topic>SDS-PAGE</topic>
+   </subject>
+   <subject>
+      <topic>PDB</topic>
+   </subject>
+   <subject>
+      <topic>MDTRA</topic>
+   </subject>
+   <subject>
+      <topic>DTT</topic>
+   </subject>
+   <subject>
+      <topic>HEPES</topic>
+   </subject>
+   <subject>
+      <topic>TCEP</topic>
+   </subject>
+   <subject>
+      <topic>RMSD</topic>
+   </subject>
+   <subject>
+      <topic>LB</topic>
+   </subject>
+   <subject>
+      <topic>IPTG</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107760</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107760</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107760</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01005-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-16"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010052/S2352340921010052.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

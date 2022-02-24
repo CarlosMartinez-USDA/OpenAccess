@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100206">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Revisiting liquorice (Glycyrrhiza glabra L.) as anti-inflammatory, antivirals and immunomodulators: Potential pharmacological applications with mechanistic insight.</dct:title>
+         <dct:creator>Dheeraj Bisht</dct:creator>
+         <dct:creator>Mohmmad Rashid</dct:creator>
+         <dct:creator>Rajeshwar Kamal Kant Arya</dct:creator>
+         <dct:creator>Deepak Kumar</dct:creator>
+         <dct:creator>Sushil Kumar Chaudhary</dct:creator>
+         <dct:creator>Vijay Singh Rana</dct:creator>
+         <dct:creator>Neeraj K. Sethiya</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Glycyrrhiza glabra</rdf:li>
+               <rdf:li>Glycyrrhizin</rdf:li>
+               <rdf:li>Flavonoids</rdf:li>
+               <rdf:li>Phytoconstituents</rdf:li>
+               <rdf:li>Antiinflammatory</rdf:li>
+               <rdf:li>Immunomodulatory</rdf:li>
+               <rdf:li>Antiviral and COVID-19</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100206</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100206</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100206</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100206</dct:identifier>
+         <bam:articleNumber>100206</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-16T16:45:44Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100206</ja:aid>
+         <ce:article-number>100206</ce:article-number>
+         <ce:pii>S2667-0313(21)00188-3</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100206</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Revisiting liquorice (<ce:italic>Glycyrrhiza glabra</ce:italic> L.) as anti-inflammatory, antivirals and immunomodulators: Potential pharmacological applications with mechanistic insight.</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001883-c8ec53458cb37f129ea433f48c849174">
+               <ce:given-name>Dheeraj</ce:given-name>
+               <ce:surname>Bisht</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn2">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001883-8a415873bb2568474229fb78787d80b1">
+               <ce:given-name>Mohmmad</ce:given-name>
+               <ce:surname>Rashid</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn2">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001883-ad7017c6499c12b542e0bbfef9536326">
+               <ce:given-name>Rajeshwar Kamal Kant</ce:given-name>
+               <ce:surname>Arya</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn2">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001883-5604925a5cc862849451937fc2518f3a">
+               <ce:given-name>Deepak</ce:given-name>
+               <ce:surname>Kumar</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn2">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001883-3e9847bf4b16b9f55c5736322fa3b230">
+               <ce:given-name>Sushil Kumar</ce:given-name>
+               <ce:surname>Chaudhary</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn2">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031321001883-92eb378d52efb1b9f10a94c09aa673e4">
+               <ce:given-name>Vijay Singh</ce:given-name>
+               <ce:surname>Rana</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667031321001883-4573a4a6ac18d681cc7a600538d0e2be">
+               <ce:given-name>Neeraj K.</ce:given-name>
+               <ce:surname>Sethiya</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn2">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001883-369fcae917ea4a89a817b3506fbbdbe6">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Pharmaceutical Sciences, Sir J. C. Bose Technical Campus Bhimtal, Kumaun University Nainital, Uttarakhand, 263136, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutical Sciences</sa:organization>
+                  <sa:organization>Sir J. C. Bose Technical Campus Bhimtal, Kumaun University Nainital</sa:organization>
+                  <sa:state>Uttarakhand</sa:state>
+                  <sa:postal-code>263136</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Pharmaceutical Sciences, Sir J. C. Bose Technical Campus Bhimtal, Kumaun University Nainital, Uttarakhand, 263136 India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001883-f1562f260eda45e20a4b099dd2918113">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Pharmaceutical Chemistry and Pharmacognosy, College of Dentistry and Pharmacy, Buraydah Colleges, Al-Qassim, 31717, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutical Chemistry and Pharmacognosy</sa:organization>
+                  <sa:organization>College of Pharmacy and Dentistry, Buraydah Colleges</sa:organization>
+                  <sa:state>Al-Qassim</sa:state>
+                  <sa:postal-code>31717</sa:postal-code>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Pharmaceutical Chemistry and Pharmacognosy, College of Pharmacy and Dentistry, Buraydah Colleges, Al-Qassim, 31717 Saudi Arabia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001883-53c2c410f08d3b8c6d2cb49de7b286b5">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Pharmaceutical Chemistry, School of Pharmaceutical Sciences, Shoolini University, Solan, Himachal Pradesh, 173 229, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutical Chemistry</sa:organization>
+                  <sa:organization>School of Pharmaceutical Sciences, Shoolini University</sa:organization>
+                  <sa:city>Solan</sa:city>
+                  <sa:state>Himachal Pradesh</sa:state>
+                  <sa:postal-code>173 229</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Pharmaceutical Chemistry, School of Pharmaceutical Sciences, Shoolini University, Solan, Himachal Pradesh, 173 229, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031321001883-18d6e1990c385b697cf00381605c3e08">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Institute of Bioresources and Sustainable Development, Imphal, Manipur, 795001, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Bioresources and Sustainable Development</sa:organization>
+                  <sa:city>Imphal</sa:city>
+                  <sa:state>Manipur</sa:state>
+                  <sa:postal-code>795001</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dInstitute of Bioresources and Sustainable Development, Imphal, Manipur, 795001, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667031321001883-81d7001eab92457d5c22ff926a5c35f9">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Faculty of Pharmacy, DIT University, Dehradun, Uttarakhand, 248009, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Pharmacy, DIT University Dehradun</sa:organization>
+                  <sa:state>Uttarakhand</sa:state>
+                  <sa:postal-code>248009</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eFaculty of Pharmacy, DIT University Dehradun, Uttarakhand, 248009, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn2">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0002" view="all">PhD</ce:note-para>
+            </ce:footnote>
+            <ce:footnote id="fn1">
+               <ce:label>2</ce:label>
+               <ce:note-para id="notep0001" view="all">M.Pharm</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="19" month="9" year="2021"/>
+         <ce:date-revised day="11" month="12" year="2021"/>
+         <ce:date-accepted day="16" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara009" view="all">
+                  <ce:italic>Glycyrrhiza glabra</ce:italic> L. (<ce:italic>G. glabra</ce:italic>) commonly known as liquorice is one of the highly exploited and utilized medicinal plant of the world. Since ancient times liquorice is considered as an auspicious and valuable traditional medicine across the world for treatment of various ailments.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Method</ce:section-title>
+               <ce:simple-para id="spara010" view="all">Several electronic online scientific databases such as Science Direct, PubMed, Scopus, Scifinder, Google Scholar, online books and reports were assessed for collecting information. All the collected information was classified into different sections to meet the objective of the paper.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara011" view="all">The electronic database search yielded 3908 articles from different countries. Out of them one ninety-eight articles published between 1956 and 2021 were included, corresponding to all detailed review on <ce:italic>G. glabra</ce:italic> and research on anti-inflammatories, antivirals and immunomodulatory through pre-clinical and clinical models. From all selective area of studies on <ce:italic>G. glabra</ce:italic> and its bioactive components it was established (including molecular mechanisms) as a suitable remedy as per the current requirement of pandemic situation arise through respiratory tract infection.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusion</ce:section-title>
+               <ce:simple-para id="spara012" view="all">Different relevant studies have been thoroughly reviewed to gain an insight on utility of liquorice and its bioactive constituents for anti-inflammatories, antivirals and immunomodulatory effects with special emphasized for prevention and treatment of COVID-19 infection with possible mechanism of action at molecular level. Proposed directions for future research are also outlined to encourage researchers to find out various mechanistic targets and useful value added products of liquorice in future investigations.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Key-Words</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Glycyrrhiza glabra</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Glycyrrhizin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Flavonoids</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Phytoconstituents</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Antiinflammatory</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Immunomodulatory</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Antiviral and COVID-19</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

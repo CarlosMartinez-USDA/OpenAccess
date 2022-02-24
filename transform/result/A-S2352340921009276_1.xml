@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107652">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset of bond enthalpies (εAA, εAB, εBB) in 975 binary intermetallic compounds</dct:title>
+         <dct:creator>Daniel Miracle</dct:creator>
+         <dct:creator>Amanda Dahlman</dct:creator>
+         <dct:creator>Garth Wilks</dct:creator>
+         <dct:creator>James E. Dahlman</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Thermodynamics</rdf:li>
+               <rdf:li>bond strength</rdf:li>
+               <rdf:li>metals and alloys</rdf:li>
+               <rdf:li>regular solution model</rdf:li>
+               <rdf:li>chemical bond strength</rdf:li>
+               <rdf:li>coordination number</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107652</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107652</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107652</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107652</dct:identifier>
+         <bam:articleNumber>107652</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-27T09:20:07Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107652</ja:aid>
+         <ce:article-number>107652</ce:article-number>
+         <ce:pii>S2352-3409(21)00927-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107652</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1359-6454(11)00630-6</ce:pii>
+               <ce:doi>10.1016/j.actamat.2011.09.003</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset of bond enthalpies (ε<ce:inf loc="post">AA</ce:inf>, ε<ce:inf loc="post">AB</ce:inf>, ε<ce:inf loc="post">BB</ce:inf>) in 975 binary intermetallic compounds</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009276-eebc87797edb005d113b921cf879cfde"
+                       orcid="0000-0002-7473-0351">
+               <ce:given-name>Daniel</ce:given-name>
+               <ce:surname>Miracle</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:daniel.miracle@afresearchlab.com">daniel.miracle@afresearchlab.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009276-7a07311801e877ada71277e90f19c19e">
+               <ce:given-name>Amanda</ce:given-name>
+               <ce:surname>Dahlman</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009276-a3409c26180b9a2832fd430492ad23fc">
+               <ce:given-name>Garth</ce:given-name>
+               <ce:surname>Wilks</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009276-e9f1fc4401143ac2a7ed0d6ca5bd3d1c"
+                       orcid="0000-0001-7580-436X">
+               <ce:given-name>James E.</ce:given-name>
+               <ce:surname>Dahlman</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009276-c3799f94a0d773b05dbba349b0ceecb3">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">AF Research Laboratory, Materials and Manufacturing Directorate, Wright-Patterson AFB, OH USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>AF Research Laboratory</sa:organization>
+                  <sa:organization>Materials and Manufacturing Directorate</sa:organization>
+                  <sa:city>Wright-Patterson AFB</sa:city>
+                  <sa:state>OH</sa:state>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aAF Research Laboratory, Materials and Manufacturing Directorate, Wright-Patterson AFB, OH USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009276-e94c4dcc13d5442b5da27d07b2deb11d">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Independent Sales Director, Dayton, OH USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Independent Sales Director</sa:organization>
+                  <sa:city>Dayton</sa:city>
+                  <sa:state>OH</sa:state>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bIndependent Sales Director, Dayton, OH USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Present address: Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University School of Medicine, Atlanta, GA 30332, USA.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="12" month="10" year="2021"/>
+         <ce:date-revised day="11" month="11" year="2021"/>
+         <ce:date-accepted day="26" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">The concept of a bond energy between a pair of atoms is well-established in chemistry and physics. In materials science, it is a fundamental parameter in the development of thermodynamic models such as the regular, quasi-chemical and sub-regular solution models, as well as the central atoms model. Accurate bond dissociation enthalpies are available for gaseous molecular compounds, but these values are likely to differ significantly from single bond strengths between atoms in liquids and solids. While interatomic potential functions have been developed for atomic pairs by fitting to observed quantities, these functions often contain invariant transformations that yield bond energies that differ by up to a factor of four from values provided by other potentials for the same system, even though both may produce the same physical properties. Moreover, there is presently no widely used approach to determine bond enthalpies in condensed phases. An approach has been developed earlier to calculate bond enthalpies in solid and liquid phases using classical thermodynamic concepts, measured enthalpies for compound formation and elemental sublimation, and by counting bonds in the thermodynamically stable product and reactant phases (Miracle et al., 2011). That work reported bond enthalpies for essentially all stable solid and liquid elements, as well as bond strengths between unlike atoms for 71 different intermetallic compounds in 15 binary systems. This earlier work was validated by estimating elemental fusion enthalpies and surface energies, as well as formation enthalpies for ternary intermetallic compounds. Given the utility of this approach, the present dataset applies this earlier methodology to produce bond enthalpies between unlike atom pairs in an additional 904 binary intermetallic compounds from 443 systems, giving a total dataset of 975 bond enthalpies from 458 binary systems. Typical errors in the values reported here (from enthalpy measurements) are ±4%, and larger errors of about ±10-30% occur for a small subset of values where the number of bonds in the structure are difficult to establish. Used appropriately, these bond enthalpies enable classical approximations that—to first order—can capture critical material properties. A wide range of such estimates are possible, including the energies of vacancies and other atomic defects, solution enthalpies for complex, concentrated solid solution alloys (CCAs), formation enthalpies of higher-order compounds, and metallic glass stability. These bond enthalpies may also be useful for establishing trends in systematic studies that cover many systems, thus narrowing the scope of subsequent experimental measurements or computations which are more accurate, but are also more difficult and time consuming.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Thermodynamics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">bond strength</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">metals and alloys</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">regular solution model</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">chemical bond strength</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">coordination number</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

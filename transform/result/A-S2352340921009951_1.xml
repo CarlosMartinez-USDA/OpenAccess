@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107720">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Experimental data of cathodes manufactured in a convective dryer at the pilot-plant scale, and charge and discharge capacities of half-coin lithium-ion cells</dct:title>
+         <dct:creator>Luis A. Román-Ramírez</dct:creator>
+         <dct:creator>Geanina Apachitei</dct:creator>
+         <dct:creator>Mona Faraji-Niri</dct:creator>
+         <dct:creator>Michael Lain</dct:creator>
+         <dct:creator>Dhammika Widanage</dct:creator>
+         <dct:creator>James Marco</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Lithium-ion battery</rdf:li>
+               <rdf:li>Manufacturing</rdf:li>
+               <rdf:li>Cathode</rdf:li>
+               <rdf:li>Coating</rdf:li>
+               <rdf:li>Drying</rdf:li>
+               <rdf:li>Electrochemical testing</rdf:li>
+               <rdf:li>Capacity</rdf:li>
+               <rdf:li>Experimental data</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107720</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107720</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107720</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107720</dct:identifier>
+         <bam:articleNumber>107720</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-14T16:27:01Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107720</ja:aid>
+         <ce:article-number>107720</ce:article-number>
+         <ce:pii>S2352-3409(21)00995-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107720</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0378-7753(21)01184-8</ce:pii>
+               <ce:doi>10.1016/j.jpowsour.2021.230689</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Experimental data of cathodes manufactured in a convective dryer at the pilot-plant scale, and charge and discharge capacities of half-coin lithium-ion cells</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009951-043397959df10ac3ebfab4afd3c2b752"
+                       orcid="0000-0001-9283-7382">
+               <ce:given-name>Luis A.</ce:given-name>
+               <ce:surname>Román-Ramírez</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:romanral@lsbu.ac.uk">romanral@lsbu.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009951-23b0fd99dde5947048749666e18dd6a4">
+               <ce:given-name>Geanina</ce:given-name>
+               <ce:surname>Apachitei</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009951-58b37ecbe4157d1c85d5761b53166d16">
+               <ce:given-name>Mona</ce:given-name>
+               <ce:surname>Faraji-Niri</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009951-823bdff47e171ca5516e738432de133a">
+               <ce:given-name>Michael</ce:given-name>
+               <ce:surname>Lain</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921009951-97f9e07cc5230edf6b64b8ec6fc8919d">
+               <ce:given-name>Dhammika</ce:given-name>
+               <ce:surname>Widanage</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921009951-8fd57f30fc801065773028eecd0b21c2">
+               <ce:given-name>James</ce:given-name>
+               <ce:surname>Marco</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:James.Marco@warwick.ac.uk">James.Marco@warwick.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009951-3b3e20b215f84a411a91a0ffc953b78a">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Warwick Manufacturing Group, University of Warwick, Coventry CV4 7AL, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Warwick Manufacturing Group</sa:organization>
+                  <sa:organization>University of Warwick</sa:organization>
+                  <sa:city>Coventry</sa:city>
+                  <sa:postal-code>CV4 7AL</sa:postal-code>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aWarwick Manufacturing Group, University of Warwick, Coventry CV4 7AL, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009951-c86b0760ce985e349b544e9e4d7dccbc">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">London South Bank University, 103 Borough Road, London, SE1 0AA, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>London South Bank University</sa:organization>
+                  <sa:address-line>103 Borough Road</sa:address-line>
+                  <sa:city>London</sa:city>
+                  <sa:postal-code>SE1 0AA</sa:postal-code>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bLondon South Bank University, 103 Borough Road, London, SE1 0AA, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921009951-f2da30d1135d90a39d544ca33d7b0bc1">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">The Faraday Institution, Quad One, Harwell Science and Innovation Campus, Didcot, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>The Faraday Institution</sa:organization>
+                  <sa:organization>Quad One</sa:organization>
+                  <sa:organization>Harwell Science and Innovation Campus</sa:organization>
+                  <sa:city>Didcot</sa:city>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cThe Faraday Institution, Quad One, Harwell Science and Innovation Campus, Didcot, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding authors at: Warwick Manufacturing Group, University of Warwick, Coventry CV4 7AL, UK.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Warwick Manufacturing Group</sa:organization>
+                  <sa:organization>University of Warwick</sa:organization>
+                  <sa:city>Coventry</sa:city>
+                  <sa:postal-code>CV4 7AL</sa:postal-code>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="8" month="12" year="2021"/>
+         <ce:date-accepted day="13" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara001" view="all">Megtec Systems pilot-plant scale continuous convective coater. The data was generated as part of an experimental design involving the following coating-drying process variables and ranges: comma bar gap, 80–140 µm; web speed, 0.5–1.5 m/min; coating ratio, 110–150%; drying temperature, 85–110 °C and drying air speed, 5–15 m/s. The manufacturing data include pre-calendered coating thickness, mass loading dry and wet, pre-calendered porosity, spatial autocorrelation and join counting (SAJC) <ce:italic>Z</ce:italic>-score for carbon and for fluorine, cell thickness, coating weight and porosity of 15 different electrode coatings and 45 half-coin cells. The electrochemical data was obtained at 25 °C in a Maccor 4000 series battery cycler and consists of charge and discharge capacities at C/20, C/5, C/2, 1C, 2C, 5C and 10C C-rates. Discharge gravimetric and volumetric capacities, rate performance (at 5C:0.2C) and first cycle loss data is also reported. Details of the experimental design and a comprehensive analysis of the data can be found in the co-submitted manuscript (Román-Ramírez et al., 2021). Additional collected data not used in Román-Ramírez et al. (2021) is reported in the present manuscript and include visual observations of coating defects, rheological properties of the electrode slurries (solid content, viscosity, coating shear rate and viscosity at coating shear rate), room temperature and room humidity during the coatings and first cycle loss of the coin cells. Raw and analyzed data is made available. The reported data can be used to extend the analysis reported in Román-Ramírez et al. (2021), and for the comparison of relevant data obtained at different manufacturing scales.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Lithium-ion battery</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Manufacturing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Cathode</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Coating</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Drying</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Electrochemical testing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Capacity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Experimental data</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

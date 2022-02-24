@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset for chemorheological and rheokinetic analysis of carbohydrate-HMF-amine adhesives</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Catherine</namePart>
+      <namePart type="family">Thoma</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2061-5400</nameIdentifier>
+      <displayForm>Thoma, Catherine</displayForm>
+      <affiliation>Wood K plus – Competence Center of Wood Composites and Wood Chemistry, Kompetenzzentrum Holz GmbH, Altenberger Str.69, Linz A-4040, Austria</affiliation>
+      <affiliation>Department of Material Science and Process Engineering, Institute of Wood Technology and Renewable Materials, BOKU-University of Natural Resources and Life Sciences-Vienna, Konrad-Lorenz Str. 24, Tulln A-3430, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Pia</namePart>
+      <namePart type="family">Solt</namePart>
+      <displayForm>Solt, Pia</displayForm>
+      <affiliation>Wood K plus – Competence Center of Wood Composites and Wood Chemistry, Kompetenzzentrum Holz GmbH, Altenberger Str.69, Linz A-4040, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wilfried</namePart>
+      <namePart type="family">Sailer-Kronlachner</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7463-4853</nameIdentifier>
+      <displayForm>Sailer-Kronlachner, Wilfried</displayForm>
+      <affiliation>Wood K plus – Competence Center of Wood Composites and Wood Chemistry, Kompetenzzentrum Holz GmbH, Altenberger Str.69, Linz A-4040, Austria</affiliation>
+      <affiliation>Department of Material Science and Process Engineering, Institute of Wood Technology and Renewable Materials, BOKU-University of Natural Resources and Life Sciences-Vienna, Konrad-Lorenz Str. 24, Tulln A-3430, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Thomas</namePart>
+      <namePart type="family">Rosenau</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6636-9260</nameIdentifier>
+      <displayForm>Rosenau, Thomas</displayForm>
+      <affiliation>Institute of Chemistry of Renewable Resources, BOKU-University of Natural Resources and Life Sciences-Vienna, Muthgasse 18, Vienna A-1190, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Antje</namePart>
+      <namePart type="family">Potthast</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1981-2271</nameIdentifier>
+      <displayForm>Potthast, Antje</displayForm>
+      <affiliation>Institute of Chemistry of Renewable Resources, BOKU-University of Natural Resources and Life Sciences-Vienna, Muthgasse 18, Vienna A-1190, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Johannes</namePart>
+      <namePart type="family">Konnerth</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3826-8566</nameIdentifier>
+      <displayForm>Konnerth, Johannes</displayForm>
+      <affiliation>Department of Material Science and Process Engineering, Institute of Wood Technology and Renewable Materials, BOKU-University of Natural Resources and Life Sciences-Vienna, Konrad-Lorenz Str. 24, Tulln A-3430, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alessandro</namePart>
+      <namePart type="family">Pellis</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3711-3087</nameIdentifier>
+      <displayForm>Pellis, Alessandro</displayForm>
+      <affiliation>Department of Agrobiotechnology IFA-Tulln, Institute of Environmental Biotechnology, BOKU-University of Natural Resources and Life Sciences-Vienna, Konrad-Lorenz Str. 20, Tulln A-3430, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hendrikus W.G.</namePart>
+      <namePart type="family">van Herwijnen</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4349-2821</nameIdentifier>
+      <displayForm>van Herwijnen, Hendrikus W.G.</displayForm>
+      <affiliation>Wood K plus – Competence Center of Wood Composites and Wood Chemistry, Kompetenzzentrum Holz GmbH, Altenberger Str.69, Linz A-4040, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The work consists of primary and analysed data from rheological measurements of carbohydrate-hydroxymethylfurfural-amine adhesives. The studied adhesives are a bio-based alternative to conventional wood adhesives. The rheological properties were studied at different temperatures in isothermal (80, 90, 95 °C) and non-isothermal (20–120 °C) oscillatory measurements. Non-isothermal rheological measurements were used for the determination of the activation energy based on Vyazovskin's isoconversional method. The viscosity profile of the adhesives, determined from isothermal measurements, was fitted by an empirical model. The viscosity kinetic constant can be obtained from this empirical model and used in further rheokinetic analysis. Data from density and swelling experiments was measured for the characterization of the adhesive network. The determined polymer-solvent interaction parameter is included in the collected data. The provided datasets were used in the investigation of the reactivity and curing reaction of the studied adhesives. A discussion and interpretation of the data can be found in the previous publication [1]. </abstract>
+   <subject>
+      <topic>Hydroxymethylfurfural</topic>
+   </subject>
+   <subject>
+      <topic>Curing</topic>
+   </subject>
+   <subject>
+      <topic>Rheology</topic>
+   </subject>
+   <subject>
+      <topic>Rheokinetics carbohydrates</topic>
+   </subject>
+   <subject>
+      <topic>Adhesives</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107465</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107465</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107465</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00747-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-06"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007472/S2352340921007472.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100182">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Phytochemical characterization, antihyperglycaemic and antihyperlipidemic activities of Setaria megaphylla in alloxan-induced diabetic rats</dct:title>
+         <dct:creator>Jude E. Okokon</dct:creator>
+         <dct:creator>Koofreh Davies</dct:creator>
+         <dct:creator>Lekara John</dct:creator>
+         <dct:creator>Klinton Iwara</dct:creator>
+         <dct:creator>Wen-Wu Li</dct:creator>
+         <dct:creator>Paul S. Thomas</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Diabetes mellitus</rdf:li>
+               <rdf:li>Medicinal plants</rdf:li>
+               <rdf:li>Hypoglycaemic agents</rdf:li>
+               <rdf:li>Insulin</rdf:li>
+               <rdf:li>1-Triacontanol</rdf:li>
+               <rdf:li>Stigmasterol</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100182</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100182</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100182</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100182</dct:identifier>
+         <bam:articleNumber>100182</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-27T20:18:01Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100182</ja:aid>
+         <ce:article-number>100182</ce:article-number>
+         <ce:pii>S2667-0313(21)00164-0</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100182</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Phytochemical characterization, antihyperglycaemic and antihyperlipidemic activities of <ce:italic>Setaria megaphylla</ce:italic> in alloxan-induced diabetic rats</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001640-897f9ac07b9f03df8f4eba6aa6ab3866">
+               <ce:given-name>Jude E.</ce:given-name>
+               <ce:surname>Okokon</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:judeokokon@uniuyo.edu.ng"
+                             id="ead0001">judeokokon@uniuyo.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001640-3dd5e5c3ed7392082da609f5ccf15519">
+               <ce:given-name>Koofreh</ce:given-name>
+               <ce:surname>Davies</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn3">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001640-edee2b26eede34267069bb1f40a4f43b">
+               <ce:given-name>Lekara</ce:given-name>
+               <ce:surname>John</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn2">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001640-ad0a2e690eb91a58465df33a2cbf1365">
+               <ce:given-name>Klinton</ce:given-name>
+               <ce:surname>Iwara</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn2">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001640-c19de641471adf475e0640a605785abc">
+               <ce:given-name>Wen-Wu</ce:given-name>
+               <ce:surname>Li</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn5">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031321001640-a574698d5af94275465f15009bbf41e6">
+               <ce:given-name>Paul S.</ce:given-name>
+               <ce:surname>Thomas</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn4">
+                  <ce:sup loc="post">4</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001640-b435617ae8743dd219215ba56c70bd8b">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Pharmacology and Toxicology Faculty of Pharmacy, University of Uyo, Uyo, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacology and Toxicology Faculty of Pharmacy</sa:organization>
+                  <sa:organization>University of Uyo</sa:organization>
+                  <sa:city>Uyo</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Pharmacology and Toxicology Faculty of Pharmacy, University of Uyo, Uyo, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001640-a38813bb281560f843fc264ef77d9316">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Physiology, Faculty of Basic Medical Sciences, University of Uyo, Uyo, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Physiology, Faculty of Basic Medical Sciences</sa:organization>
+                  <sa:organization>University of Uyo</sa:organization>
+                  <sa:city>Uyo</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Physiology, Faculty of Basic Medical Sciences, University of Uyo, Uyo, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001640-f9bbfc5bee7ee0733a1a674a489702b8">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">School of Pharmacy and Bioengineering, Faculty of Medicine and Health Science, Keele University, Stoke-on-Trent, ST4 7QB, United Kingdom</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Pharmacy and Bioengineering, Faculty of Medicine and Health Science, Keele University</sa:organization>
+                  <sa:city>Stoke-on-Trent</sa:city>
+                  <sa:postal-code>ST4 7QB</sa:postal-code>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cSchool of Pharmacy and Bioengineering, Faculty of Medicine and Health Science, Keele University, Stoke-on-Trent, ST4 7QB, United Kingdom</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031321001640-9f27c648b2160923acf46ab5a4a770a3">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Pharmacognosy and Natural Medicine, Faculty of Pharmacy, University of Uyo, Uyo, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacognosy and Natural Medicine, Faculty of Pharmacy</sa:organization>
+                  <sa:organization>University of Uyo</sa:organization>
+                  <sa:city>Uyo</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Pharmacognosy and Natural Medicine, Faculty of Pharmacy, University of Uyo, Uyo, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Jude E. Okokon designed and supervised the work</ce:note-para>
+            </ce:footnote>
+            <ce:footnote id="fn2">
+               <ce:label>2</ce:label>
+               <ce:note-para id="notep0002" view="all">Lekara John and Klinton Iwara carried the animal studies</ce:note-para>
+            </ce:footnote>
+            <ce:footnote id="fn3">
+               <ce:label>3</ce:label>
+               <ce:note-para id="notep0003" view="all">Koofreh Davies did the statistical analysis</ce:note-para>
+            </ce:footnote>
+            <ce:footnote id="fn4">
+               <ce:label>4</ce:label>
+               <ce:note-para id="notep0004" view="all">Paul S. Thomas carried out the isolation and purification of the compounds</ce:note-para>
+            </ce:footnote>
+            <ce:footnote id="fn5">
+               <ce:label>5</ce:label>
+               <ce:note-para id="notep0005" view="all">Li Wen Wu did the GC–MS and NMR analysis and interpretation of the spectra and also edited the work.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="19" month="10" year="2021"/>
+         <ce:date-revised day="15" month="11" year="2021"/>
+         <ce:date-accepted day="27" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara015" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0006" view="all">
+                           <ce:italic>Setaria megaphylla</ce:italic> is used by herbalists to treat diabetes and other diseases.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0007" view="all">Leaf fractions were tested for antidiabetic and hypolipidemic potentials in rats.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0008" view="all">Treatment of diabetic rats with leaf fractions reduced FBG and Hb1Ac levels of rats.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0009" view="all">The leaf fractions reduced lipid indices and elevated insulin levels of diabetic rats.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0010" view="all">1-Triacontanal, 1-triacontanol, 1-triacontyl cerotate, and stigmasterol were isolated and identified.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara016" view="all">
+                  <ce:italic>Setaria megaphylla</ce:italic> (Steud) Dur &amp; Schinz (Poaceae), a grass used ethnomedically by herbalists in Nigeria for the treatment of diabetes was evaluated for antidiabetic, hypolipidemic and pancreas protective potentials in rats.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Methods</ce:section-title>
+               <ce:simple-para id="spara017" view="all">Solvents fractions (hexane, dichloromethane (DCM), ethyl acetate (EA) and methanol ) were investigated for antidiabetic, hypolipidemic and pancreas protective potentials in alloxan-induced diabetic rats. Glibenclamide was used as positive control. The fasting blood glucose (FBG) level, serum insulin, glycosylated hemoglobin (Hb1Ac), oral glucose tolerance test (OGTT) and lipids levels were determined. Histopathological study of the pancreas was done. Isolation of phytochemicals and their subsequent identification using Fourier transform infrared spectroscopy, gas chromatography-mass spectrometry and nuclear magnetic resonance spectroscopy were carried out.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara018" view="all">Treatment of alloxan-induced diabetic rats with the leaf fractions caused significant (<ce:italic>p</ce:italic> &lt; 0.05–0.001) reduction in FBG of treated diabetic rats in acute and prolonged studies as well as OGTT with DCM, EA and hexane fractions having pronounced activities. The leaf fractions also caused significant (<ce:italic>p</ce:italic> &lt; 0.01) decreases in Hb1Ac levels and increases in serum insulin levels. The leaf fractions further caused lowering of serum total cholesterol, triglycerides, low density lipoprotein (LDL), very low density lipoprotein (VLDL) with increased high density lipoprotein (HDL) level in the treated diabetic rats. Histopathological study of pancreas revealed protective effect by the leaf fractions. 1-Triacontanal, 1-triacontanol, 1-dotriacontanol, 1-triacontyl cerotate, and stigmasterol were isolated and identified from the active DCM and EA fractions of this plant for the first time .</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusion</ce:section-title>
+               <ce:simple-para id="spara019" view="all">The leaf fractions of <ce:italic>S.megaphylla</ce:italic> possess hypoglycemic, insulin secretion stimulatory, hypolipidemic, and pancreas protective potentials which may be due to the activities of the phytochemical constituents.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0007">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0007" view="all">
+               <ce:simple-para id="spara020" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="abr" id="pc_e20tzjEZHnTag4sId2JTydWzqsiLMtPc" view="all">
+            <ce:keyword id="pc_IcD76HDg8X">
+               <ce:text>ATR</ce:text>
+               <ce:keyword id="pc_QuH1uwCZcU">
+                  <ce:text>Attenuated total reflection</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_7VUcrdlYVp">
+               <ce:text>FT-IR</ce:text>
+               <ce:keyword id="pc_RbFb8j5mer">
+                  <ce:text>Fourier transform infrared spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_qGeectg59g">
+               <ce:text>ROS</ce:text>
+               <ce:keyword id="pc_wl3g8Yue0g">
+                  <ce:text>Reactive oxygen species</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0008">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Diabetes mellitus</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Medicinal plants</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Hypoglycaemic agents</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Insulin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">1-Triacontanol</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Stigmasterol</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

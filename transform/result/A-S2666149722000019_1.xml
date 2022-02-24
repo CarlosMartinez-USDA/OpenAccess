@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.hnm.2022.200138">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Prevalence of vitamin B12 deficiency and its association with metformin-treated type 2 diabetic patients: A cross sectional study</dct:title>
+         <dct:creator>Shaimaa B. Almatrafi</dct:creator>
+         <dct:creator>El-Sayed H. Bakr</dct:creator>
+         <dct:creator>Asem A. Almatrafi</dct:creator>
+         <dct:creator>Manal M. Altayeb</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Type 2 diabetes mellitus</rdf:li>
+               <rdf:li>Metformin</rdf:li>
+               <rdf:li>Vitamin B12 dietary intake</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Human Nutrition &amp; Metabolism 27 (2022). doi:10.1016/j.hnm.2022.200138</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Human Nutrition &amp; Metabolism</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2666-1497</prism:issn>
+         <prism:volume>27</prism:volume>
+         <prism:coverDisplayDate>March 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.hnm.2022.200138</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.hnm.2022.200138</prism:url>
+         <dct:identifier>doi:10.1016/j.hnm.2022.200138</dct:identifier>
+         <bam:articleNumber>200138</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-09T00:56:39Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Saudi Arabia: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>HNM</ja:jid>
+         <ja:aid>200138</ja:aid>
+         <ce:article-number>200138</ce:article-number>
+         <ce:pii>S2666-1497(22)00001-9</ce:pii>
+         <ce:doi>10.1016/j.hnm.2022.200138</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="title0010">Prevalence of vitamin B<ce:inf loc="post">12</ce:inf> deficiency and its association with metformin-treated type 2 diabetic patients: A cross sectional study</ce:title>
+         <ce:author-group id="augrp0010">
+            <ce:author id="au1"
+                       orcid="0000-0002-3714-8119"
+                       author-id="S2666149722000019-0ae6782f8af3d31608e0fa0c8198b71b">
+               <ce:given-name>Shaimaa B.</ce:given-name>
+               <ce:surname>Almatrafi</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor1">
+                  <ce:sup loc="post">∗</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:Shaimaam13@hotmail.com"
+                             id="eadd0010">Shaimaam13@hotmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au2" author-id="S2666149722000019-b0fc81fb3245badb9c7f66c0dcd3b3ae">
+               <ce:given-name>El-Sayed H.</ce:given-name>
+               <ce:surname>Bakr</ce:surname>
+               <ce:cross-ref refid="aff2">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff3">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:ehbakr@uqu.edu.sa" id="eadd0015">ehbakr@uqu.edu.sa</ce:e-address>
+            </ce:author>
+            <ce:author id="au3" author-id="S2666149722000019-ea39c26add98d6a0941a796e08dc7328">
+               <ce:given-name>Asem A.</ce:given-name>
+               <ce:surname>Almatrafi</ce:surname>
+               <ce:cross-ref refid="aff4">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:asem1311@gmail.com" id="eadd0020">asem1311@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au4" author-id="S2666149722000019-11b8356d9cb3cbd038594e064e923dea">
+               <ce:given-name>Manal M.</ce:given-name>
+               <ce:surname>Altayeb</ce:surname>
+               <ce:cross-ref refid="aff5">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:aatayeb@moh.gov.sa" id="eadd0025">aatayeb@moh.gov.sa</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff1"
+                            affiliation-id="S2666149722000019-6baa91c79f3dc4c615bd800962962630">
+               <ce:label>a</ce:label>
+               <ce:textfn>MSc Clinical Nutrition, Faculty of Applied Medical Science, Umm Al-Qura University, Makkah, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>MSc Clinical Nutrition</sa:organization>
+                  <sa:organization>Faculty of Applied Medical Science</sa:organization>
+                  <sa:organization>Umm Al-Qura University</sa:organization>
+                  <sa:city>Makkah</sa:city>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0010">Clinical Nutrition Department, Faculty of Applied Medical Sciences, Umm Al-Qura University, Makkah, Saudi Arabia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation affiliation-id="S2666149722000019-e24381e15dcf31371c3c3cc8ca49cc61"
+                            id="aff2">
+               <ce:label>b</ce:label>
+               <ce:textfn>Clinical Nutrition Department, Faculty of Applied Medical Sciences, Umm Al-Qura University, Makkah, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Clinical Nutrition Department</sa:organization>
+                  <sa:organization>Faculty of Applied Medical Sciences</sa:organization>
+                  <sa:organization>Umm Al-Qura University</sa:organization>
+                  <sa:city>Makkah</sa:city>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srctPC_affsJWmYvmUZO">Clinical Nutrition Department, Faculty of Applied Medical Sciences, Umm Al-Qura University, Makkah, Saudi Arabia.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation affiliation-id="S2666149722000019-ef1b0eda0a3d55f6ba678b6cb8d94f53"
+                            id="aff3">
+               <ce:label>c</ce:label>
+               <ce:textfn>Nutrition and Food Science Department, Faculty of Home Economics, Menoufia University, Eygpt</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Nutrition and Food Science Department</sa:organization>
+                  <sa:organization>Faculty of Home Economics</sa:organization>
+                  <sa:organization>Menoufia University</sa:organization>
+                  <sa:country>Eygpt</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srctPC_affC9BmeSSVK0">Nutrition and Food Science Department, Faculty of Home Economics, Menoufia University, Eygpt.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation affiliation-id="S2666149722000019-9964a4a05156984124a8cbbca94debef"
+                            id="aff4">
+               <ce:label>d</ce:label>
+               <ce:textfn>Endocrinology Department, King Abdullah Medical City, Makkah, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Endocrinology Department</sa:organization>
+                  <sa:organization>King Abdullah Medical City</sa:organization>
+                  <sa:city>Makkah</sa:city>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srctPC_affGeVWCC4Ny5">Endocrinology Department, King Abdullah Medical City, Makkah, Saudi Arabia.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation affiliation-id="S2666149722000019-b4dbc933d5f79533a5b8e902af81d192"
+                            id="aff5">
+               <ce:label>e</ce:label>
+               <ce:textfn>Clinical Nutrition Department, Al Noor Specialist Hospital, Makkah, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Clinical Nutrition Department</sa:organization>
+                  <sa:organization>Al Noor Specialist Hospital</sa:organization>
+                  <sa:city>Makkah</sa:city>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srctPC_affsAZJXVKOQp">Clinical Nutrition Department, Al Noor Specialist Hospital, Makkah, Saudi Arabia.</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor1">
+               <ce:label>∗</ce:label>
+               <ce:text>Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="27" month="7" year="2021"/>
+         <ce:date-revised day="7" month="12" year="2021"/>
+         <ce:date-accepted day="8" month="1" year="2022"/>
+         <ce:abstract xml:lang="en" id="abs0010" view="all" class="author">
+            <ce:section-title id="sectitle0010">Abstract</ce:section-title>
+            <ce:abstract-sec role="background" id="abssec0010" view="all">
+               <ce:section-title id="sectitle0015">Background</ce:section-title>
+               <ce:simple-para id="abspara0010" view="all">Metformin is the most-used drug in type 2 diabetes mellitus (T2DM) management, but it may lower B<ce:inf loc="post">12</ce:inf> status as a use consequence. However, few studies in Saudi Arabia have assessed this risk.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abssec0015" view="all">
+               <ce:section-title id="sectitle0020">Aim</ce:section-title>
+               <ce:simple-para id="abspara0015" view="all">This study aimed to estimate the prevalence of vitamin B<ce:inf loc="post">12</ce:inf> deficiency in metformin-treated type 2 diabetic patients and its association with drug duration and dose with relation to B<ce:inf loc="post">12</ce:inf> dietary intake.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abssec0020" view="all">
+               <ce:section-title id="sectitle0025">Method</ce:section-title>
+               <ce:simple-para id="abspara0020" view="all">A cross sectional study was conducted with 206 patients with type 2 diabetic patients using metformin for 6 months or more and attending the diabetic clinics at Al-Noor Specialist Hospital in Holy Makkah. Serum B<ce:inf loc="post">12</ce:inf> levels were estimated, and biochemical B<ce:inf loc="post">12</ce:inf> deficiency was defined as serum levels &lt;243 nmol/L. Demographic, medical history, dietary assessment for B<ce:inf loc="post">12</ce:inf> intake, and data on metformin use were collected using an online survey. Statistical package for the social sciences (SPSS) version 25 was used for statistical analysis.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec role="results" id="abssec0025" view="all">
+               <ce:section-title id="sectitle0030">Results</ce:section-title>
+               <ce:simple-para id="abspara0025" view="all">Vitamin B<ce:inf loc="post">12</ce:inf> deficiency occurred in 17.5% of the patients using metformin. Significant differences existed according to diabetes duration (<ce:italic>p</ce:italic> = 0.002) between patients showing deficiencies and normal ranges of vitamin B<ce:inf loc="post">12</ce:inf>. No significant differences were found according to metformin dose, duration, and vitamin B<ce:inf loc="post">12</ce:inf> intake.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec role="conclusion" id="abssec0030" view="all">
+               <ce:section-title id="sectitle0035">Conclusion</ce:section-title>
+               <ce:simple-para id="abspara0030" view="all">The prevalence of B<ce:inf loc="post">12</ce:inf> deficiency in patients with type 2 diabetic patients using metformin was 17.5%. The risk of this relationship might increase with longer metformin use and is influenced by the occurrence and duration of diabetes<ce:bold>.</ce:bold>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+            <ce:section-title id="sectitle0040">Keywords</ce:section-title>
+            <ce:keyword id="kwrd0010">
+               <ce:text>Type 2 diabetes mellitus</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0015">
+               <ce:text>Metformin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0020">
+               <ce:text>Vitamin B<ce:inf loc="post">12</ce:inf> dietary intake</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

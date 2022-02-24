@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>The simulation dataset of each model for the circle antipode experiment</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Maosheng</namePart>
+      <namePart type="family">Li</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2799-4490</nameIdentifier>
+      <displayForm>Li, Maosheng</displayForm>
+      <affiliation>School of Traffic and Transportation Engineering, Central South University, Changsha 410075, China</affiliation>
+      <affiliation>Rail Data Research and Application Key Laboratory of Hunan Province, Central South University, 22 South Shaoshan Road, Changsha, Hunan 410075, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Qingyan</namePart>
+      <namePart type="family">Ning</namePart>
+      <displayForm>Ning, Qingyan</displayForm>
+      <affiliation>School of Traffic and Transportation Engineering, Central South University, Changsha 410075, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Panpan</namePart>
+      <namePart type="family">Shu</namePart>
+      <displayForm>Shu, Panpan</displayForm>
+      <affiliation>School of Traffic and Transportation Engineering, Central South University, Changsha 410075, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This dataset includes trajectory data and video data produced by different models (including the traditional social force model, the Voronoi-based detour social force model and double-layer detour decision model) simulating the circle antipode experiment. During the simulation process, the coordinates of each pedestrian in each simulation step are recorded to form trajectory data, and each frame is recorded to form simulation video data. This data can provide an intuitive gap in the description of pedestrian detour behaviour among these pedestrian simulation models, and can be used as the comparative data when modify model to better describe pedestrian detour behaviour in the circle antipode experiment. </abstract>
+   <subject>
+      <topic>Double-layer decision model</topic>
+   </subject>
+   <subject>
+      <topic>Detour decision</topic>
+   </subject>
+   <subject>
+      <topic>Voronoi diagram</topic>
+   </subject>
+   <subject>
+      <topic>Pedestrian dynamic</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107661</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107661</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107661</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00936-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-30"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009367/S2352340921009367.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

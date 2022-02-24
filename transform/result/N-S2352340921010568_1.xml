@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>The Piraeus AIS dataset for large-scale maritime data analytics</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Andreas</namePart>
+      <namePart type="family">Tritsarolis</namePart>
+      <displayForm>Tritsarolis, Andreas</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yannis</namePart>
+      <namePart type="family">Kontoulis</namePart>
+      <displayForm>Kontoulis, Yannis</displayForm>
+      <affiliation>Data Science Laboratory, Department of Informatics, University of Piraeus, Piraeus, Greece</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yannis</namePart>
+      <namePart type="family">Theodoridis</namePart>
+      <displayForm>Theodoridis, Yannis</displayForm>
+      <affiliation>Data Science Laboratory, Department of Informatics, University of Piraeus, Piraeus, Greece</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The advent of Big Data and streaming technologies has resulted in a swarm of voluminous, heterogeneous information, especially in the domains of Internet of Things (IoT) and transportation. Focusing on the maritime field, in this paper, we present a dataset that contains vessel position information transmitted by vessels of different types and collected via the Automatic Identification System (AIS). The AIS dataset comes along with spatially and temporally correlated data about the vessels and the area of interest, including weather information. It covers a time span of over 2.5 years, from May 9th, 2017 to December 26th, 2019 and provides anonymised vessel positions within the wider area of the port of Piraeus (Greece), one of the busiest ports in Europe and worldwide. The dataset consists of over 244 million AIS records, an average of more than 10,000 records per hour, which makes it, to our knowledge, perhaps the largest and densest, to this extent of time, open AIS dataset to date, an ideal input for large-scale mobility data processing and analytics purposes. </abstract>
+   <subject>
+      <topic>AIS data</topic>
+   </subject>
+   <subject>
+      <topic>Maritime</topic>
+   </subject>
+   <subject>
+      <topic>Piraeus</topic>
+   </subject>
+   <subject>
+      <topic>Big data analytics</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107782</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107782</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107782</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01056-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-30"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010568/S2352340921010568.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107641">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on nearly zero energy buildings (NZEBs) projects and best practices in Europe</dct:title>
+         <dct:creator>Delia D'Agostino</dct:creator>
+         <dct:creator>Sofia Tsemekidi Tzeiranaki</dct:creator>
+         <dct:creator>Paolo Zangheri</dct:creator>
+         <dct:creator>Paolo Bertoldi</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>European energy policy</rdf:li>
+               <rdf:li>Nearly zero energy buildings (NZEBs)</rdf:li>
+               <rdf:li>Technologies</rdf:li>
+               <rdf:li>Energy efficiency in buildings</rdf:li>
+               <rdf:li>Renewable sources</rdf:li>
+               <rdf:li>Costs</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107641</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107641</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107641</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107641</dct:identifier>
+         <bam:articleNumber>107641</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-25T01:41:40Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Joint Research Centre with PMC deposit</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107641</ja:aid>
+         <ce:article-number>107641</ce:article-number>
+         <ce:pii>S2352-3409(21)00916-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107641</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S2211-467X(21)00066-3</ce:pii>
+               <ce:doi>10.1016/j.esr.2021.100680</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data on nearly zero energy buildings (NZEBs) projects and best practices in Europe</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       orcid="0000-0002-2154-7422"
+                       author-id="S2352340921009161-bb17daf78f5a90a4aed4fb8ae61b3af8">
+               <ce:given-name>Delia</ce:given-name>
+               <ce:surname>D'Agostino</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:delia.dagostino@ec.europa.eu">delia.dagostino@ec.europa.eu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009161-e82fdfa82c654275f2e3c98ec010d394">
+               <ce:given-name>Sofia Tsemekidi</ce:given-name>
+               <ce:surname>Tzeiranaki</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009161-0e9153ab3f5848ce6687a624fa952754">
+               <ce:given-name>Paolo</ce:given-name>
+               <ce:surname>Zangheri</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009161-b56aaf0a454e12b5544b0e6003866e20">
+               <ce:given-name>Paolo</ce:given-name>
+               <ce:surname>Bertoldi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009161-314ea0b0b72bd48f91182c9dbd3c1d38">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">European Commission, Joint Research Centre (JRC), Ispra, VA, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>European Commission, Joint Research Centre (JRC)</sa:organization>
+                  <sa:city>Ispra</sa:city>
+                  <sa:state>VA</sa:state>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aEuropean Commission, Joint Research Centre (JRC), Ispra, VA, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009161-1e604f2cb4f701994f100281cb954031">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Enea, Ispra, VA, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Enea</sa:organization>
+                  <sa:city>Ispra</sa:city>
+                  <sa:state>VA</sa:state>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bEnea, Ispra, VA, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="28" month="7" year="2021"/>
+         <ce:date-revised day="2" month="11" year="2021"/>
+         <ce:date-accepted day="23" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">This data article refers to the paper “Assessing Nearly zero energy buildings (NZEBs) development in Europe” [1]. Data linked with this article relate to collected best practices NZEBs throughout Europe. Data on building geometry, year of construction or renovation, primary energy consumption, saving percentages, renewable production, heating demand are provided.</ce:simple-para>
+               <ce:simple-para id="spara009" view="all">Data allow an overview of the status of most commonly implemented efficiency measures and renewables in NZEBs. In particular, data are available in relation technologies, such as heating, domestic hot water, lighting, renewable sources, ventilation, cooling. Heat recovery efficiency data are also collected. U-values are detailed for roofs, walls, floors, windows. Further data can be visualized in relation to technologies costs, cost of construction and maintenance.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">European energy policy</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Nearly zero energy buildings (NZEBs)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Technologies</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Energy efficiency in buildings</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Renewable sources</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Costs</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0002" class="abr" view="all">
+            <ce:section-title id="cesectitle0003">Abbreviations</ce:section-title>
+            <ce:keyword id="dt0001">
+               <ce:text id="cetext0011a">NZEBs</ce:text>
+               <ce:keyword id="dd0001">
+                  <ce:text id="para0084">Nearly zero energy buildings</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0002">
+               <ce:text id="cetext0011b">MS</ce:text>
+               <ce:keyword id="dd0002">
+                  <ce:text id="para0085">Member States</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0003">
+               <ce:text id="cetext0011c">EU</ce:text>
+               <ce:keyword id="dd0003">
+                  <ce:text id="para0086">European Union</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0004">
+               <ce:text id="cetext0011d">EPBD</ce:text>
+               <ce:keyword id="dd0004">
+                  <ce:text id="para0087">Energy Performance of Building Directive</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0005">
+               <ce:text id="cetext0011e">EPC</ce:text>
+               <ce:keyword id="dd0005">
+                  <ce:text id="para0088">Energy performance certificate</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0006">
+               <ce:text id="cetext0011f">LTRS</ce:text>
+               <ce:keyword id="dd0006">
+                  <ce:text id="para0089">Long term renovation strategy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0007">
+               <ce:text id="cetext0011g">RES</ce:text>
+               <ce:keyword id="dd0007">
+                  <ce:text id="para0090">Renewable Energy Sources</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0008">
+               <ce:text id="cetext0011h">PED</ce:text>
+               <ce:keyword id="dd0008">
+                  <ce:text id="para0091">Primary Energy Demand</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0009">
+               <ce:text id="cetext0011i">c-o</ce:text>
+               <ce:keyword id="dd0009">
+                  <ce:text id="para0092">Cost-optimal</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0010">
+               <ce:text id="cetext0011j">AT</ce:text>
+               <ce:keyword id="dd0010">
+                  <ce:text id="para0093">Austria</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0011">
+               <ce:text id="cetext0011k">BE-BRU</ce:text>
+               <ce:keyword id="dd0011">
+                  <ce:text id="para0094">Belgium-Brussels region</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0012">
+               <ce:text id="cetext0011l">BE-FLA</ce:text>
+               <ce:keyword id="dd0012">
+                  <ce:text id="para0095">Belgium- Flemish region</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0013">
+               <ce:text id="cetext0011m">BE-WA</ce:text>
+               <ce:keyword id="dd0013">
+                  <ce:text id="para0096">Belgium- Wallonia</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0014">
+               <ce:text id="cetext0011n">BG</ce:text>
+               <ce:keyword id="dd0014">
+                  <ce:text id="para0097">Bulgaria</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0015">
+               <ce:text id="cetext0011o">CY</ce:text>
+               <ce:keyword id="dd0015">
+                  <ce:text id="para0098">Cyprus</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0016">
+               <ce:text id="cetext0011p">CZ</ce:text>
+               <ce:keyword id="dd0016">
+                  <ce:text id="para0099">Czech Republic</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0017">
+               <ce:text id="cetext0011q">DE</ce:text>
+               <ce:keyword id="dd0017">
+                  <ce:text id="para0100">Germany</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0018">
+               <ce:text id="cetext0011r">DK</ce:text>
+               <ce:keyword id="dd0018">
+                  <ce:text id="para0101">Denmark</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0019">
+               <ce:text id="cetext0011s">EE</ce:text>
+               <ce:keyword id="dd0019">
+                  <ce:text id="para0102">Estonia</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0020">
+               <ce:text id="cetext0011t">EL</ce:text>
+               <ce:keyword id="dd0020">
+                  <ce:text id="para0103">Greece</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0021">
+               <ce:text id="cetext0011u">ES</ce:text>
+               <ce:keyword id="dd0021">
+                  <ce:text id="para0104">Spain</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0022">
+               <ce:text id="cetext0011v">FI</ce:text>
+               <ce:keyword id="dd0022">
+                  <ce:text id="para0105">Finland</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0023">
+               <ce:text id="cetext0011w">FR</ce:text>
+               <ce:keyword id="dd0023">
+                  <ce:text id="para0106">France</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0024">
+               <ce:text id="cetext0011x">HR</ce:text>
+               <ce:keyword id="dd0024">
+                  <ce:text id="para0107">Croatia</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0025">
+               <ce:text id="cetext0011y">HU</ce:text>
+               <ce:keyword id="dd0025">
+                  <ce:text id="para0108">Hungary</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0026">
+               <ce:text id="cetext0011z">IE</ce:text>
+               <ce:keyword id="dd0026">
+                  <ce:text id="para0109">Ireland</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0027">
+               <ce:text id="cetext0011aa">IT</ce:text>
+               <ce:keyword id="dd0027">
+                  <ce:text id="para0110">Italy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0028">
+               <ce:text id="cetext0011bb">LT</ce:text>
+               <ce:keyword id="dd0028">
+                  <ce:text id="para0111">Lithuania</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0029">
+               <ce:text id="cetext0011cc">LU</ce:text>
+               <ce:keyword id="dd0029">
+                  <ce:text id="para0112">Luxemburg</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0030">
+               <ce:text id="cetext0011dd">LV</ce:text>
+               <ce:keyword id="dd0030">
+                  <ce:text id="para0113">Latvia</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0031">
+               <ce:text id="cetext0011ee">MT</ce:text>
+               <ce:keyword id="dd0031">
+                  <ce:text id="para0114">Malta</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0032">
+               <ce:text id="cetext0011ff">NL</ce:text>
+               <ce:keyword id="dd0032">
+                  <ce:text id="para0115">Netherlands</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0033">
+               <ce:text id="cetext0011gg">PL</ce:text>
+               <ce:keyword id="dd0033">
+                  <ce:text id="para0116">Poland</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0034">
+               <ce:text id="cetext0011hh">PT</ce:text>
+               <ce:keyword id="dd0034">
+                  <ce:text id="para0117">Portugal</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0035">
+               <ce:text id="cetext0011ii">RO</ce:text>
+               <ce:keyword id="dd0035">
+                  <ce:text id="para0118">Romania</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0036">
+               <ce:text id="cetext0011jj">SE</ce:text>
+               <ce:keyword id="dd0036">
+                  <ce:text id="para0119">Sweden</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0037">
+               <ce:text id="cetext0011kk">SI</ce:text>
+               <ce:keyword id="dd0037">
+                  <ce:text id="para0120">Slovenia</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0038">
+               <ce:text id="cetext0011ll">SK</ce:text>
+               <ce:keyword id="dd0038">
+                  <ce:text id="para0121">Slovakia</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="dt0039">
+               <ce:text id="cetext0011mm">UK</ce:text>
+               <ce:keyword id="dd0039">
+                  <ce:text id="para0122">United Kingdom</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

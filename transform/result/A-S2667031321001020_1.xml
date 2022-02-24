@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100120">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Updated ethnobotanical notes, phytochemistry and phytopharmacology of plants belonging to the genus Morus (Family: Moraceae)</dct:title>
+         <dct:creator>Sonam Yadav</dct:creator>
+         <dct:creator>Nisha Nair</dct:creator>
+         <dct:creator>Avadh Biharee</dct:creator>
+         <dct:creator>Vivek Morris Prathap</dct:creator>
+         <dct:creator>Jaseela Majeed</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Mulberry</rdf:li>
+               <rdf:li>Phytochemicals</rdf:li>
+               <rdf:li>Traditional uses</rdf:li>
+               <rdf:li>Drug toxicity</rdf:li>
+               <rdf:li>Biological activity</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100120</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100120</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100120</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100120</dct:identifier>
+         <bam:articleNumber>100120</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-09-12T21:48:23Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100120</ja:aid>
+         <ce:article-number>100120</ce:article-number>
+         <ce:pii>S2667-0313(21)00102-0</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100120</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Updated ethnobotanical notes, phytochemistry and phytopharmacology of plants belonging to the genus Morus (Family: Moraceae)</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0002"
+                       author-id="S2667031321001020-a7081ae4e204bc47455bc45eb982a3e4">
+               <ce:given-name>Sonam</ce:given-name>
+               <ce:surname>Yadav</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0001"
+                       author-id="S2667031321001020-014c96df91d3ad4660823128e29abe8b">
+               <ce:given-name>Nisha</ce:given-name>
+               <ce:surname>Nair</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001020-a375c81fe75f1bcf40bbfa45c459c160">
+               <ce:given-name>Avadh</ce:given-name>
+               <ce:surname>Biharee</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001020-0d11c8713010547c9a1232b8e942b29d">
+               <ce:given-name>Vivek Morris</ce:given-name>
+               <ce:surname>Prathap</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001020-d837d47b6fcd23c14b14d15a259d0cd9">
+               <ce:given-name>Jaseela</ce:given-name>
+               <ce:surname>Majeed</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:jaseelapharma2017@gmail.com">jaseelapharma2017@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001020-741d49850f230e2e57ac82beccaa6eb5">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Pharmaceutical Chemistry, Delhi Pharmaceutical Sciences and Research University (DPSRU), Pushpvihar, New Delhi, 110017, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutical Chemistry</sa:organization>
+                  <sa:organization>Delhi Pharmaceutical Sciences and Research University (DPSRU)</sa:organization>
+                  <sa:city>Pushpvihar</sa:city>
+                  <sa:state>New Delhi</sa:state>
+                  <sa:postal-code>110017</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Pharmaceutical Chemistry, School of Allied Health Sciences, Delhi Pharmaceutical Sciences and Research University (DPSRU), Pushpvihar, New Delhi 110017, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001020-25ff17c85c3419a842ba5e4559212c29">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Laboratory of Natural Product Chemistry, Department of Pharmaceutical Sciences and Natural Products, Central University of Punjab, Bathinda, Punjab 151001, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Natural Product Chemistry, Department of Pharmaceutical Sciences and Natural Products</sa:organization>
+                  <sa:organization>Central University of Punjab</sa:organization>
+                  <sa:city>Bathinda</sa:city>
+                  <sa:state>Punjab</sa:state>
+                  <sa:postal-code>151001</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bLaboratory of Natural Product Chemistry, Department of Pharmaceutical Sciences and Natural Products, Central University of Punjab, Bathinda, Punjab 151001, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001020-76ee23c597c9720f982c23d3ed3b5417">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Monoclonal Antibodies Laboratory, National Institute of Biologicals (Ministry of Health &amp; Family Welfare), Government of India, Institutional Area, Noida, 201 309 U.P., India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Monoclonal Antibodies Laboratory</sa:organization>
+                  <sa:organization>National Institute of Biologicals (Ministry of Health &amp; Family Welfare), Government of India</sa:organization>
+                  <sa:address-line>Institutional Area</sa:address-line>
+                  <sa:city>Noida</sa:city>
+                  <sa:state>U.P.</sa:state>
+                  <sa:postal-code>201 309</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cMonoclonal Antibodies Laboratory, National Institute of Biologicals (Ministry of Health &amp; Family Welfare), Government of India, Institutional Area, Noida, 201 309 U.P., India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031321001020-cd3c1a6d18fcf0bb642d1b3b418c7d52">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">School of Allied Health Sciences, Delhi Pharmaceutical Sciences and Research University, Pushp Vihar, Sector-3, M.B. Road, New Delhi 110017, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Allied Health Sciences</sa:organization>
+                  <sa:organization>Delhi Pharmaceutical Sciences and Research University</sa:organization>
+                  <sa:address-line>Pushp Vihar, Sector-3, M.B. Road</sa:address-line>
+                  <sa:city>New Delhi</sa:city>
+                  <sa:postal-code>110017</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dSchool of Allied Health Sciences, Delhi Pharmaceutical Sciences and Research University, Pushp Vihar, Sector-3, M.B. Road, New Delhi 110017, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="15" month="5" year="2021"/>
+         <ce:date-revised day="8" month="9" year="2021"/>
+         <ce:date-accepted day="12" month="9" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara009" view="all">: Mulberry (Genus: Morus, Family: Moraceae) is a flowering plant utilized in Traditional Chinese Medicine (TCM) and Ayurveda for its ethnobotanical uses in fever, liver protection, diuretics, management of appropriate blood pressure, improving eyesight, and management of cardiovascular disease. Being a plant of multiple ethnobotanical prospects, it is used to prevent kidney diseases, hair problems, weakness, fatigue, constipation, blood disorders, anemia, and premature greying of hair, among few other ailments. This review aims to systematically organize information on the ethnobotanical uses, phytochemical constituents, phytopharmacological actions, and toxicity of the Morus genus as the information shall serve towards future research in drug discovery and help in unearthing molecular basis of pharmacological activity of Mulberry.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Method</ce:section-title>
+               <ce:simple-para id="spara010" view="all">: Many relevant information sources, such as Elsevier, Science Direct, PubMed, ACS Publications, SciFinder, Wiley, and Google Scholar, Chinese Pharmacopoeia 2015, Chinese and Indian herbal classic texts, and Ph.D. dissertation, were used to gather relevant publications till February 2021 on the Morus genus.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara011" view="all">: Many phytochemicals that are isolated from Morus genus such as Mulberrin, Morin, Deoxynojirimycin (DNJ), Epicatechin, Gallic acid, Vanillic acid, Oxyresveratrol, Quercetin, Flavone A, B and C, are proven to be pharmacologically important and have comprehensive biological actions such as anti-inflammatory, anticancer, antibacterial, anti-obesity, antidopaminergic, antioxidant activity, as well as skin whitening properties making the plants of Morus genus therapeutically important.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusions</ce:section-title>
+               <ce:simple-para id="spara012" view="all">: Plants of Morus genus are valuable and are popular in ancient herbal medicine with the extensive pharmacological potential to cure various ailments. While phytochemicals from plants of Morus genus have already been extensively analysed, there may still be unknown compounds that play a role in the plant's biological function which needs to be elucidated. There are significant gaps in our understanding of biological processes involved in activities of these phytochemicals that need more investigation.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Mulberry</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Phytochemicals</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Traditional uses</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Drug toxicity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Biological activity</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

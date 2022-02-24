@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100049">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Using Pure Fucoidan and Radiolabeled Fucoidan (99mTc-Fucoidan) as a New Agent for Inflammation Diagnosis and Therapy</dct:title>
+         <dct:creator>Bianca Costa</dct:creator>
+         <dct:creator>Luana Barbosa Correa</dct:creator>
+         <dct:creator>Patrícia Machado Rodrigues e Silva</dct:creator>
+         <dct:creator>Yago Amigo Pinho Jannini de Sá</dct:creator>
+         <dct:creator>Fernanda Verdini Guimarães</dct:creator>
+         <dct:creator>Luciana Magalhães Rebelo Alencar</dct:creator>
+         <dct:creator>Rafael Loureiro Simões</dct:creator>
+         <dct:creator>Edward Helal-Neto</dct:creator>
+         <dct:creator>Eduardo Ricci-Junior</dct:creator>
+         <dct:creator>Maria das Graças Muller de Oliveira Henriques</dct:creator>
+         <dct:creator>Elaine Cruz Rosas</dct:creator>
+         <dct:creator>Ralph Santos-Oliveira</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Inflammation</rdf:li>
+               <rdf:li>therapy</rdf:li>
+               <rdf:li>radionuclide therapy, radiopharmacy</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health, Journal Pre-proof. doi:10.1016/j.fhfh.2021.100049</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:doi>10.1016/j.fhfh.2021.100049</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100049</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100049</dct:identifier>
+         <bam:articleNumber>100049</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-10T20:32:48Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100049</ja:aid>
+         <ce:article-number>100049</ce:article-number>
+         <ce:pii>S2667-0259(21)00041-8</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100049</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Using Pure Fucoidan and Radiolabeled Fucoidan (99mTc-Fucoidan) as a New Agent for Inflammation Diagnosis and Therapy</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025921000418-5645c1fb482a9bc783e3b0f319b68d6d">
+               <ce:given-name>Bianca</ce:given-name>
+               <ce:surname>Costa</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025921000418-2f4d7e60131f5cd05423e8384500986c">
+               <ce:given-name>Luana Barbosa</ce:given-name>
+               <ce:surname>Correa</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667025921000418-db26f38c104d6f06d6f80c5a40a8e0ec">
+               <ce:given-name>Patrícia Machado</ce:given-name>
+               <ce:surname>Rodrigues e Silva</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">4</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667025921000418-f59f533cd483f192db19d73b426387a1">
+               <ce:given-name>Yago Amigo Pinho</ce:given-name>
+               <ce:surname>Jannini de Sá</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">4</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667025921000418-6861069e3959cdc451406e0246fbf391">
+               <ce:given-name>Fernanda Verdini</ce:given-name>
+               <ce:surname>Guimarães</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">4</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667025921000418-55d433c82c8b8e56455508b1dd8ed364">
+               <ce:given-name>Luciana Magalhães Rebelo</ce:given-name>
+               <ce:surname>Alencar</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667025921000418-102e4feb0486ed87d84f470be555269d">
+               <ce:given-name>Rafael Loureiro</ce:given-name>
+               <ce:surname>Simões</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667025921000418-09be90e9c5a6dcab4d4312e593f798fe">
+               <ce:given-name>Edward</ce:given-name>
+               <ce:surname>Helal-Neto</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667025921000418-20b9d61687a5026a99f1182f0f665263">
+               <ce:given-name>Eduardo</ce:given-name>
+               <ce:surname>Ricci-Junior</ce:surname>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">6</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2667025921000418-89474340a3d0265b6229de4ced4a2031">
+               <ce:given-name>Maria das Graças</ce:given-name>
+               <ce:surname>Muller de Oliveira Henriques</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:roliveira@ien.gov.br">roliveira@ien.gov.br</ce:e-address>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S2667025921000418-5770c00364f48c859b2666483200324a">
+               <ce:given-name>Elaine Cruz</ce:given-name>
+               <ce:surname>Rosas</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0012"
+                       author-id="S2667025921000418-e419c38032dbb59c52c59c34517f022a">
+               <ce:given-name>Ralph</ce:given-name>
+               <ce:surname>Santos-Oliveira</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0007">
+                  <ce:sup loc="post">7</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025921000418-80597eaddde771c76794fd8c9be596e9">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">Brazilian Nuclear Energy Commission, Nuclear Engineering Institute, Laboratory of Nanoradiopharmaceuticals and Synthesis of Novel Radiopharmaceuticals, Rio de Janeiro, 21941906, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Brazilian Nuclear Energy Commission</sa:organization>
+                  <sa:organization>Nuclear Engineering Institute</sa:organization>
+                  <sa:organization>Laboratory of Nanoradiopharmaceuticals and Synthesis of Novel Radiopharmaceuticals</sa:organization>
+                  <sa:city>Rio de Janeiro</sa:city>
+                  <sa:postal-code>21941906</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1Brazilian Nuclear Energy Commission, Nuclear Engineering Institute, Laboratory of Nanoradiopharmaceuticals and Synthesis of Novel Radiopharmaceuticals, Rio de Janeiro, 21941906, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667025921000418-263b698727905e34d9b0b68b18084b8d">
+               <ce:label>2</ce:label>
+               <ce:textfn id="cetextfn0002">National Institute for Science and Technology on Innovation on Diseases of Neglected Populations (INCT/IDPN), Oswaldo Cruz Foundation, Rio de Janeiro, 21041361, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>National Institute for Science and Technology on Innovation on Diseases of Neglected Populations (INCT/IDPN)</sa:organization>
+                  <sa:organization>Oswaldo Cruz Foundation</sa:organization>
+                  <sa:city>Rio de Janeiro</sa:city>
+                  <sa:postal-code>21041361</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2National Institute for Science and Technology on Innovation on Diseases of Neglected Populations (INCT/IDPN), Oswaldo Cruz Foundation, Rio de Janeiro, 21041361, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667025921000418-3b0b2425f80d254da86b44499a62b774">
+               <ce:label>3</ce:label>
+               <ce:textfn id="cetextfn0003">Laboratory of Applied Pharmacology, Farmanguinhos, Oswaldo Cruz Foundation, Rio de Janeiro, 21041361, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Applied Pharmacology</sa:organization>
+                  <sa:organization>Farmanguinhos, Oswaldo Cruz Foundation</sa:organization>
+                  <sa:city>Rio de Janeiro</sa:city>
+                  <sa:postal-code>21041361</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">3Laboratory of Applied Pharmacology, Farmanguinhos, Oswaldo Cruz Foundation, Rio de Janeiro, 21041361, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667025921000418-4de4e353786b0aba177a6a24b5fb36bc">
+               <ce:label>4</ce:label>
+               <ce:textfn id="cetextfn0004">Laboratory of Inflammation, Oswaldo Cruz Institute, Oswaldo Cruz Foundation, Rio de Janeiro 21040-360, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Inflammation</sa:organization>
+                  <sa:organization>Oswaldo Cruz Institute</sa:organization>
+                  <sa:organization>Oswaldo Cruz Foundation</sa:organization>
+                  <sa:city>Rio de Janeiro</sa:city>
+                  <sa:postal-code>21040-360</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">4Laboratory of Inflammation, Oswaldo Cruz Institute, Oswaldo Cruz Foundation, Rio de Janeiro 21040-360, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667025921000418-7a1fbffe05c62c065d09354f549365ed">
+               <ce:label>5</ce:label>
+               <ce:textfn id="cetextfn0005">Laboratory of Biophysics and Nanosystems, Federal University of Maranhão, Maranhão 65080-805, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Biophysics and Nanosystems</sa:organization>
+                  <sa:organization>Federal University of Maranhão</sa:organization>
+                  <sa:city>Maranhão</sa:city>
+                  <sa:postal-code>65080-805</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">5Laboratory of Biophysics and Nanosystems, Federal University of Maranhão, Maranhão 65080-805, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2667025921000418-e4dca4e391993f14beba77bc73cf4777">
+               <ce:label>6</ce:label>
+               <ce:textfn id="cetextfn0006">Faculty of Pharmacy, Federal University of Rio de Janeiro, Rio de Janeiro, Rio de Janeiro 21941000, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Pharmacy</sa:organization>
+                  <sa:organization>Federal University of Rio de Janeiro</sa:organization>
+                  <sa:address-line>Rio de Janeiro</sa:address-line>
+                  <sa:city>Rio de Janeiro</sa:city>
+                  <sa:postal-code>21941000</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0006">6Faculty of Pharmacy, Federal University of Rio de Janeiro, Rio de Janeiro, Rio de Janeiro 21941000, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0007"
+                            affiliation-id="S2667025921000418-5e826c4cbbe54bafb3cb8909759e5348">
+               <ce:label>7</ce:label>
+               <ce:textfn id="cetextfn0007">Zona Oeste State University, Laboratory of Radiopharmacy and Nanoradiopharmaceuticals, Rio de Janeiro, 23070200, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Zona Oeste State University</sa:organization>
+                  <sa:organization>Laboratory of Radiopharmacy and Nanoradiopharmaceuticals</sa:organization>
+                  <sa:city>Rio de Janeiro</sa:city>
+                  <sa:postal-code>23070200</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0007">7Zona Oeste State University, Laboratory of Radiopharmacy and Nanoradiopharmaceuticals, Rio de Janeiro, 23070200, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">
+                  <ce:bold>All correspondence to</ce:bold>: Prof. Dr. Ralph Santos-Oliveira, Laboratory of Radiopharmacy and Nanoradiopharmaceuticals, CNEN: Comissao Nacional de Energia Nuclear, Brazil</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Radiopharmacy and Nanoradiopharmaceuticals</sa:organization>
+                  <sa:organization>CNEN: Comissao Nacional de Energia Nuclear</sa:organization>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">Inflammation is a phenomenon responsible for the perturbation of homeostasis in several levels, with many sources, such as infection, injury, and exposure to contaminants. The necessity of new products that are effective in treating inflammation processes as can selectively imaging an inflammation site is a global issue. In this study, we have evaluated the applicability of Fucoidan as a therapeutic and imaging agent. We have assessed the Fucoidan in two inflammation models for therapeutic purposes: arthritis and lungs (LPS). In the case of use as an imaging agent, we evaluated the radiolabeled Fucoidan with 99mTc in inflamed lungs (LPS). The results demonstrated that Fucoidan has a therapeutic anti-inflammatory effect, especially in the lung model (LPS). Additionally, the imaging application demonstrated that radiolabeled Fucoidan (99mTc-Fucoidan) has an important chemoattraction for inflammation sites with very high bioaccumulation, which permits to think in an imaging application.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0002">Graphical Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara009" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Inflammation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">therapy</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">radionuclide therapy, radiopharmacy</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

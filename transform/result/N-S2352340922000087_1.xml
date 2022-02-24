@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset on the effects of environmentally relevant humic acid concentrations on the liver protein profile in Japanese medaka (Oryzias latipes)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Victoria V.</namePart>
+      <namePart type="family">Yurchenko</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8491-3621</nameIdentifier>
+      <displayForm>Yurchenko, Victoria V.</displayForm>
+      <affiliation>Papanin Institute for Biology of Inland Waters Russian Academy of Sciences, 109, IBIW RAS, Borok 152742 Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexey A.</namePart>
+      <namePart type="family">Morozov</namePart>
+      <displayForm>Morozov, Alexey A.</displayForm>
+      <affiliation>Papanin Institute for Biology of Inland Waters Russian Academy of Sciences, 109, IBIW RAS, Borok 152742 Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Roman A.</namePart>
+      <namePart type="family">Fedorov</namePart>
+      <displayForm>Fedorov, Roman A.</displayForm>
+      <affiliation>Papanin Institute for Biology of Inland Waters Russian Academy of Sciences, 109, IBIW RAS, Borok 152742 Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ludmila G.</namePart>
+      <namePart type="family">Bakina</namePart>
+      <displayForm>Bakina, Ludmila G.</displayForm>
+      <affiliation>St Petersburg Federal Research Center of the Russian Academy of Sciences, 14th Line, 39, SPC RAS, Saint Petersburg 199178 Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Victor G.</namePart>
+      <namePart type="family">Zgoda</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4532-4274</nameIdentifier>
+      <displayForm>Zgoda, Victor G.</displayForm>
+      <affiliation>Institute of Biomedical Chemistry, Pogodinskaya St., 10, IBMC, Moscow 119121 Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Olga V.</namePart>
+      <namePart type="family">Tikhonova</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2810-566X</nameIdentifier>
+      <displayForm>Tikhonova, Olga V.</displayForm>
+      <affiliation>Institute of Biomedical Chemistry, Pogodinskaya St., 10, IBMC, Moscow 119121 Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The data were obtained by a label-free quantification approach from a shotgun proteomics experiment, using STrap sample processing technique for protein digestion and high-performance liquid chromatography with tandem mass spectrometry (HPLC-MS/MS) for peptide analysis. MaxQuant data processing was used to obtain proteomics data. The dataset reflects changes in the liver protein profile of Japanese medaka exposed to 0, 5, 40 and 80 mg/L nominal concentrations of Sigma-Aldrich humic acid for 96 h. Actual concentrations of humic acid were measured using the potassium dichromate photometric method and reported in mg organic carbon/L. These proteomics data are relevant for further insights into fish stress responses to humic substances-related challenge. </abstract>
+   <subject>
+      <topic>Humic substances</topic>
+   </subject>
+   <subject>
+      <topic>Acute exposure</topic>
+   </subject>
+   <subject>
+      <topic>Japanese rice fish</topic>
+   </subject>
+   <subject>
+      <topic>Shotgun proteomics</topic>
+   </subject>
+   <subject>
+      <topic>LFQ</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107796</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107796</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107796</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00008-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-04"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000087/S2352340922000087.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

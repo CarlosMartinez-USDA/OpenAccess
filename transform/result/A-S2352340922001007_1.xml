@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107888">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Chromosome-level genome sequence data and analysis of the white koji fungus, Aspergillus luchuensis mut. kawachii IFO 4308</dct:title>
+         <dct:creator>Kazuki Mori</dct:creator>
+         <dct:creator>Chihiro Kadooka</dct:creator>
+         <dct:creator>Ken Oda</dct:creator>
+         <dct:creator>Kayu Okutsu</dct:creator>
+         <dct:creator>Yumiko Yoshizaki</dct:creator>
+         <dct:creator>Kazunori Takamine</dct:creator>
+         <dct:creator>Kosuke Tashiro</dct:creator>
+         <dct:creator>Masatoshi Goto</dct:creator>
+         <dct:creator>Hisanori Tamaki</dct:creator>
+         <dct:creator>Taiki Futagami</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Aspergillus luchuensis mut. kawachii</rdf:li>
+               <rdf:li>white koji fungus</rdf:li>
+               <rdf:li>shochu</rdf:li>
+               <rdf:li>chromosome-level genome assembly</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Journal Pre-proof. doi:10.1016/j.dib.2022.107888</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107888</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107888</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107888</dct:identifier>
+         <bam:articleNumber>107888</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-27T17:26:53Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Japan:LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107888</ja:aid>
+         <ce:article-number>107888</ce:article-number>
+         <ce:pii>S2352-3409(22)00100-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107888</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Chromosome-level genome sequence data and analysis of the white koji fungus, <ce:italic>Aspergillus luchuensis</ce:italic> mut. <ce:italic>kawachii</ce:italic> IFO 4308</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922001007-bca9442b57a401edd6423c86abb5e997"
+                       orcid="0000-0003-3238-2472">
+               <ce:given-name>Kazuki</ce:given-name>
+               <ce:surname>Mori</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922001007-6d61d05deba47cb1bc0d432cae7a3f82">
+               <ce:given-name>Chihiro</ce:given-name>
+               <ce:surname>Kadooka</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">4</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">#</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922001007-f4ce4976f3baba78d03535c3f959341f">
+               <ce:given-name>Ken</ce:given-name>
+               <ce:surname>Oda</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922001007-10f1de7715ba60d9bf3d8411b045ae2a">
+               <ce:given-name>Kayu</ce:given-name>
+               <ce:surname>Okutsu</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340922001007-82cfff3641a37343a0566006ff58314e"
+                       orcid="0000-0002-9582-7750">
+               <ce:given-name>Yumiko</ce:given-name>
+               <ce:surname>Yoshizaki</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">4</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340922001007-f57c99733c185db8db00e2b334182b9d">
+               <ce:given-name>Kazunori</ce:given-name>
+               <ce:surname>Takamine</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">4</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340922001007-393e15da482f9800ed2170946727c4b6">
+               <ce:given-name>Kosuke</ce:given-name>
+               <ce:surname>Tashiro</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340922001007-64d5ad99acd0138734af1b2ec8271e39"
+                       orcid="0000-0001-5677-2251">
+               <ce:given-name>Masatoshi</ce:given-name>
+               <ce:surname>Goto</ce:surname>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">6</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340922001007-49612b03dba7dc997fbad9c0a82a6b75">
+               <ce:given-name>Hisanori</ce:given-name>
+               <ce:surname>Tamaki</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">4</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2352340922001007-5f4ef6d300d573a8b4d1b2498d2947f2"
+                       orcid="0000-0002-4613-1300">
+               <ce:given-name>Taiki</ce:given-name>
+               <ce:surname>Futagami</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">4</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:futagami@agri.kagoshima-u.ac.jp">futagami@agri.kagoshima-u.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922001007-a023a00ffec2c8d653cb2df72f64a70b">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">Cell Innovator Co., Ltd., 3-1-1 Maidashi, Fukuoka, 812-8582, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Cell Innovator Co.</sa:organization>
+                  <sa:organization>Ltd.</sa:organization>
+                  <sa:address-line>3-1-1 Maidashi</sa:address-line>
+                  <sa:state>Fukuoka</sa:state>
+                  <sa:postal-code>812-8582</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1Cell Innovator Co., Ltd., 3-1-1 Maidashi, Fukuoka, 812-8582, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922001007-33b6b3084c3dacaf0a6a609b541f8e20">
+               <ce:label>2</ce:label>
+               <ce:textfn id="cetextfn0002">Laboratory of Molecular Gene Technology, Faculty of Agriculture, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka, 819-0395, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Molecular Gene Technology</sa:organization>
+                  <sa:organization>Faculty of Agriculture</sa:organization>
+                  <sa:organization>Kyushu University</sa:organization>
+                  <sa:address-line>744 Motooka</sa:address-line>
+                  <sa:city>Nishi-ku</sa:city>
+                  <sa:state>Fukuoka</sa:state>
+                  <sa:postal-code>819-0395</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2Laboratory of Molecular Gene Technology, Faculty of Agriculture, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka, 819-0395, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922001007-676704193b7f643d84e0ff4d22ce78f8">
+               <ce:label>3</ce:label>
+               <ce:textfn id="cetextfn0003">Education and Research Center for Fermentation Studies, Faculty of Agriculture, Kagoshima University, 1-21-24 Korimoto, Kagoshima, 890-0065, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Education and Research Center for Fermentation Studies</sa:organization>
+                  <sa:organization>Faculty of Agriculture</sa:organization>
+                  <sa:organization>Kagoshima University</sa:organization>
+                  <sa:address-line>1-21-24 Korimoto</sa:address-line>
+                  <sa:state>Kagoshima</sa:state>
+                  <sa:postal-code>890-0065</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">3Education and Research Center for Fermentation Studies, Faculty of Agriculture, Kagoshima University, 1-21-24 Korimoto, Kagoshima, 890-0065, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340922001007-f6945acc0edf5a2785e6316e78918688">
+               <ce:label>4</ce:label>
+               <ce:textfn id="cetextfn0004">United Graduate School of Agricultural Sciences, Kagoshima University, 1-21-24 Korimoto, Kagoshima 890-0065, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>United Graduate School of Agricultural Sciences</sa:organization>
+                  <sa:organization>Kagoshima University</sa:organization>
+                  <sa:address-line>1-21-24 Korimoto</sa:address-line>
+                  <sa:city>Kagoshima</sa:city>
+                  <sa:postal-code>890-0065</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">4United Graduate School of Agricultural Sciences, Kagoshima University, 1-21-24 Korimoto, Kagoshima 890-0065, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340922001007-ff1a8573ffceb316fe88e21af348503b">
+               <ce:label>5</ce:label>
+               <ce:textfn id="cetextfn0005">National Research Institute of Brewing, 3-7-1 Kagamiyama, Higashi-hiroshima, Hiroshima, 739-0046, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>National Research Institute of Brewing</sa:organization>
+                  <sa:address-line>3-7-1 Kagamiyama</sa:address-line>
+                  <sa:city>Higashi-hiroshima</sa:city>
+                  <sa:state>Hiroshima</sa:state>
+                  <sa:postal-code>739-0046</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">5National Research Institute of Brewing, 3-7-1 Kagamiyama, Higashi-hiroshima, Hiroshima, 739-0046, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2352340922001007-4fe3da463ec0b572bb1daa681aa4f8e7">
+               <ce:label>6</ce:label>
+               <ce:textfn id="cetextfn0006">Department of Applied Biochemistry and Food Science, Faculty of Agriculture, Saga University, Saga 840-8502, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Applied Biochemistry and Food Science</sa:organization>
+                  <sa:organization>Faculty of Agriculture</sa:organization>
+                  <sa:organization>Saga University</sa:organization>
+                  <sa:city>Saga</sa:city>
+                  <sa:postal-code>840-8502</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0006">6Department of Applied Biochemistry and Food Science, Faculty of Agriculture, Saga University, Saga 840-8502, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>#</ce:label>
+               <ce:note-para id="notep0001" view="all">Present address: Chihiro Kadooka, Department of Applied Microbial Technology, Faculty of Biotechnology and Life Science, Sojo University, Kumamoto 860-0082, Japan.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="10" month="12" year="2021"/>
+         <ce:date-revised day="19" month="1" year="2022"/>
+         <ce:date-accepted day="26" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">
+                  <ce:italic>Aspergillus luchuensis</ce:italic> mut. <ce:italic>kawachii</ce:italic> is used primarily in the production of shochu, a traditional Japanese distilled alcoholic beverage. Here, we report the chromosome-level genome sequence of <ce:italic>A. luchuensis</ce:italic> mut. <ce:italic>kawachii</ce:italic> IFO 4308 (NBRC 4308) and a comparison of the sequence with that of <ce:italic>A. luchuensis</ce:italic> RIB2601. The genome of strain IFO 4308 was assembled into nine contigs consisting of eight chromosomes and one mitochondrial DNA segment. The nearly complete genome of strain IFO 4308 comprises 37,287,730 bp with a GC content of 48.85% and 12,664 predicted coding sequences and 267 tRNAs. Comparison of the IFO 4308 and RIB2601 genomes revealed a highly conserved structure; however, the IFO 4308 genome is larger than that of RIB2601, which is primarily attributed to chromosome 5. The genome sequence of IFO 4308 was deposited in DDBJ/ENA/GenBank under accession numbers AP024425–AP024433.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Aspergillus luchuensis</ce:italic> mut. <ce:italic>kawachii</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">white koji fungus</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">shochu</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">chromosome-level genome assembly</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

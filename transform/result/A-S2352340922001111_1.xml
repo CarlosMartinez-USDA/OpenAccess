@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107899">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset on individual differences in self-reported personality and inferred emotional expression in profile pictures of Italian Facebook users</dct:title>
+         <dct:creator>Davide Marengo</dct:creator>
+         <dct:creator>Michele Settanni</dct:creator>
+         <dct:creator>Christian Montag</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Facebook</rdf:li>
+               <rdf:li>social media</rdf:li>
+               <rdf:li>emotional expression</rdf:li>
+               <rdf:li>image recognition</rdf:li>
+               <rdf:li>personality</rdf:li>
+               <rdf:li>Big Five</rdf:li>
+               <rdf:li>Impulsivity</rdf:li>
+               <rdf:li>Sensation Seeking</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Journal Pre-proof. doi:10.1016/j.dib.2022.107899</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107899</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107899</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107899</dct:identifier>
+         <bam:articleNumber>107899</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-28T18:05:21Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107899</ja:aid>
+         <ce:article-number>107899</ce:article-number>
+         <ce:pii>S2352-3409(22)00111-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107899</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0736-5853(20)30182-9</ce:pii>
+               <ce:doi>10.1016/j.tele.2020.101523</ce:doi>
+            </ce:refers-to-document>
+            <ce:refers-to-document id="ref0002">
+               <ce:pii>S0306-4603(19)30652-5</ce:pii>
+               <ce:doi>10.1016/j.addbeh.2019.106150</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset on individual differences in self-reported personality and inferred emotional expression in profile pictures of Italian Facebook users</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922001111-16b549590ad4e5b0bea5f367d745e7b0">
+               <ce:given-name>Davide</ce:given-name>
+               <ce:surname>Marengo</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922001111-9f35f5a8dc1504a995f2a6dd707a3773">
+               <ce:given-name>Michele</ce:given-name>
+               <ce:surname>Settanni</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:michele.settanni@unito.it">michele.settanni@unito.it</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922001111-e4884931396d64c5b631b8528a2104b9">
+               <ce:given-name>Christian</ce:given-name>
+               <ce:surname>Montag</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922001111-e50a7be9a32e531af3c59785275e7605">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Psychology, University of Turin, Via Verdi 10, 10124, Turin, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Psychology</sa:organization>
+                  <sa:organization>University of Turin</sa:organization>
+                  <sa:address-line>Via Verdi 10</sa:address-line>
+                  <sa:city>Turin</sa:city>
+                  <sa:postal-code>10124</sa:postal-code>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1Department of Psychology, University of Turin, Via Verdi 10, 10124, Turin, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922001111-231dea39d7832f28f1fecc648f775191">
+               <ce:label>2</ce:label>
+               <ce:textfn id="cetextfn0002">Institute of Psychology and Education, Dept. Molecular Psychology, Helmholtzstraße 8/1, 89081, Ulm, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Psychology and Education</sa:organization>
+                  <sa:organization>Dept. Molecular Psychology</sa:organization>
+                  <sa:address-line>Helmholtzstraße 8/1</sa:address-line>
+                  <sa:city>Ulm</sa:city>
+                  <sa:postal-code>89081</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2Institute of Psychology and Education, Dept. Molecular Psychology, Helmholtzstraße 8/1, 89081, Ulm, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author:</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="25" month="11" year="2021"/>
+         <ce:date-revised day="20" month="1" year="2022"/>
+         <ce:date-accepted day="28" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara012" view="all">We retrieved the current profile picture of 2234 Italian Facebook users who also answered self-report questionnaires on demographic variables and personality. Data were collected between March and June 2018 using a Facebook wep application. Profile pictures consisting of 200 × 200 resolution jpegs were obtained by sending a request via the Facebook Graph API and analyzed using online commercial services allowing for the scoring of facial expressions in image data, namely Microsoft Azure Face APIand MEGVII Face++ Detect API. Both services provide emotional expression scores if at least one (n = 1) face is successfully detected in the picture. Using the Microsoft Azure Face API we obtained scores for anger, contempt, disgust, fear, joy, sadness, surprise, and neutrality. Using the MEGVII Face++ API, pictures were scored for the presence of anger, disgust, fear, joy, sadness, and surprise, and neutrality. Higher scores on each emotion refer to a stronger expression of the respective emotion. The dataset presented here consists of data of N =728 Facebook users with a profile picture in which both APIs detected only one (N=1) face. Regarding self-report data, the dataset includes the following demographic information about the participants: gender and age. The dataset also includes participants’ personality scores based on a short validated assessment of Big Five traits (Ten Item Personality Inventory), and Impulsivity/Sensation Seeking (IMPSS8). A document including the questions administered in the online survey is attached to the dataset. This dataset can be useful to generate insights on the association between demographic variables, including age and gender, and personality (Big Five traits and Impulsivity/Sensation Seeking), and emotional expression as derived from social media pictures. It can be useful for researchers and data scientists who do research in social sciences, in particular <ce:italic>psychoinformatics</ce:italic>, to train models in order to infer personality of users of social media platforms from profile pictures.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Facebook</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">social media</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">emotional expression</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">image recognition</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">personality</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Big Five</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Impulsivity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Sensation Seeking</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

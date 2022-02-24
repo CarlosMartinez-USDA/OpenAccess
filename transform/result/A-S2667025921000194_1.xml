@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100027">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Gastric secretion rate and protein concentration impact intragastric pH and protein hydrolysis during dynamic in vitro gastric digestion</dct:title>
+         <dct:creator>Yamile A. Mennah-Govela</dct:creator>
+         <dct:creator>Clay Swackhamer</dct:creator>
+         <dct:creator>Gail M. Bornhorst</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Dynamic gastric digestion</rdf:li>
+               <rdf:li>Protein dispersions</rdf:li>
+               <rdf:li>Secretions</rdf:li>
+               <rdf:li>Intragastric pH</rdf:li>
+               <rdf:li>Buffering capacity</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health 1 (2021). doi:10.1016/j.fhfh.2021.100027</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fhfh.2021.100027</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100027</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100027</dct:identifier>
+         <bam:articleNumber>100027</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-08-30T11:08:46Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100027</ja:aid>
+         <ce:article-number>100027</ce:article-number>
+         <ce:pii>S2667-0259(21)00019-4</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100027</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Gastric secretion rate and protein concentration impact intragastric pH and protein hydrolysis during dynamic <ce:italic>in vitro</ce:italic> gastric digestion</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025921000194-093ee6a5a4dba5aa49fc050da5bbb851">
+               <ce:given-name>Yamile A.</ce:given-name>
+               <ce:surname>Mennah-Govela</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025921000194-ecd45808ae124054cedbe132da7e0c80">
+               <ce:given-name>Clay</ce:given-name>
+               <ce:surname>Swackhamer</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667025921000194-3f4a5931f5fb4b70c8f71a106c92a66e">
+               <ce:given-name>Gail M.</ce:given-name>
+               <ce:surname>Bornhorst</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:gbornhorst@ucdavis.edu">gbornhorst@ucdavis.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025921000194-fa1e33f5fc5e75f879fd06de95ba1cde">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Biological and Agricultural Engineering, University of California Davis, 1308 Bainer Hall, 1 Shields Avenue, Davis, CA 95616, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biological and Agricultural Engineering</sa:organization>
+                  <sa:organization>University of California Davis</sa:organization>
+                  <sa:address-line>1308 Bainer Hall1 Shields Avenue</sa:address-line>
+                  <sa:city>Davis</sa:city>
+                  <sa:state>CA</sa:state>
+                  <sa:postal-code>95616</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Biological and Agricultural Engineering, University of California Davis, 1308 Bainer Hall, 1 Shields Avenue, Davis, CA 95616, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667025921000194-e6c360f10df0375ebf11b08995161154">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Riddet Institute, Palmerston North, New Zealand</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Riddet Institute</sa:organization>
+                  <sa:city>Palmerston North</sa:city>
+                  <sa:country>New Zealand</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bRiddet Institute, Massey University, Palmerston North, New Zealand</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Biological and Agricultural Engineering, University of California Davis, 1308 Bainer Hall, 1 Shields Avenue, Davis, CA 95616, United States.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Biological and Agricultural Engineering</sa:organization>
+                  <sa:organization>University of California Davis</sa:organization>
+                  <sa:address-line>1308 Bainer Hall 1 Shields Avenue</sa:address-line>
+                  <sa:city>Davis</sa:city>
+                  <sa:state>CA</sa:state>
+                  <sa:postal-code>95616</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="12" month="5" year="2021"/>
+         <ce:date-revised day="24" month="8" year="2021"/>
+         <ce:date-accepted day="30" month="8" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara017" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Protein concentration, mixing and gastric emptying impact the intragastric pH.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Pepsin activity is impacted by intragastric pH, influencing protein digestibility.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Digestion model improvement is needed to study hydrocolloids properties on health.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Buffering capacity may be used to develop physiologically relevant digestion models.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara018" view="all">Gastric secretions are crucial for food breakdown during digestion. Changes in intragastric pH due to gastric secretions are influenced by meal properties, such as composition, particle size, structure, buffering capacity, and mixing of the meal with gastric secretions. The use of <ce:italic>in vitro</ce:italic> digestion models has increased recently, however more physiologically-relevant digestion models are needed to better mimic the gastrointestinal tract. The objective of this study was to examine different gastric secretion conditions using a dynamic <ce:italic>in vitro</ce:italic> digestion model to understand their impact on intragastric pH and protein digestion. Whey protein dispersions were made at two protein concentrations (10% w/v and 30% w/v) and were subjected to gastric digestion. Gastric secretions were set to be at constant rate (2.75 mL/min) or variable rate (1.5 – 9.0 mL/min; based on the intragastric pH). In digestions of 30% w/v dispersion, the digesta pH after 60 min was high (average 4.3 ± 0.3), resulting in low pepsin activity (5.6 ± 0.1% of the maximum) and protein degree of hydrolysis (0.3 ± 0.0% degree of hydrolysis), compared to digestions of 10% w/v dispersions. After 90 min of digestion, the pepsin activity in digesta of 30% w/v dispersions increased to 56.1 ± 0.2%, mainly due to the decrease in the emptied digesta pH (average 2.7 ± 0.2). Protein concentration and gastric emptying played an important role on intragastric pH. Further work is needed to develop a mechanistic understanding between food initial properties, gastric emptying rate, gastric secretions, pH changes, and nutrient digestibility during digestion to study the impact of hydrocolloid dispersions properties on human health.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003"> </ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara019" view="all"> [Display omitted] .</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0004">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Dynamic gastric digestion</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Protein dispersions</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Secretions</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Intragastric pH</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Buffering capacity</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

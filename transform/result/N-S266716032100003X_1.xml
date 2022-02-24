@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Changes in neurodegeneration-related miRNAs in brains from CAPN1−/− mice</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Wenyue</namePart>
+      <namePart type="family">Su</namePart>
+      <displayForm>Su, Wenyue</displayForm>
+      <affiliation>Graduate College of Biomedical Sciences, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Xiaoning</namePart>
+      <namePart type="family">Bi</namePart>
+      <displayForm>Bi, Xiaoning</displayForm>
+      <affiliation>College of Osteopathic Medicine of the Pacific, Western University of Health Sciences, Pomona, CA 91766, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yubin</namePart>
+      <namePart type="family">Wang</namePart>
+      <displayForm>Wang, Yubin</displayForm>
+      <affiliation>Graduate College of Biomedical Sciences, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michel</namePart>
+      <namePart type="family">Baudry</namePart>
+      <displayForm>Baudry, Michel</displayForm>
+      <affiliation>Graduate College of Biomedical Sciences, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Calpain-1 knock-out (KO) mice exhibit enhanced susceptibility to neurodegeneration due to the lack of the neuroprotective function of calpain-1. Dicer has been shown to play a fundamental role in the biogenesis of most miRNAs. Here, we identified 45 differentially expressed miRNAs (DE miRNAs) in the brain of calpain-1 KO mice, as compared to wild-type mice. In particular, among all the DE miRNAs, 7 neurodegeneration-related miRNAs were found to be down-regulated in calpain-1 KO mice. We also found that Dicer is cleaved by calpain-1 in mouse brain, which generates an active fragment of Dicer with RNAse III activity and increases miRNA formation. Levels of active Dicer were reduced in brain homogenates from calpain-1 KO mice and incubation with calpain-1 and calcium restored Dicer activity and miRNA expression. Our results indicate that calpain-1 deletion results in decreased levels of active Dicer and changes in neurodegenerative-related miRNAs. These findings could account for some of the pathological changes found in brain of various mammals, including humans, with calpain-1 mutations or down-regulation. </abstract>
+   <subject>
+      <topic>Calpain-1</topic>
+   </subject>
+   <subject>
+      <topic>Brain</topic>
+   </subject>
+   <subject>
+      <topic>Dicer</topic>
+   </subject>
+   <subject>
+      <topic>miRNA</topic>
+   </subject>
+   <subject>
+      <topic>Neurodegeneration</topic>
+   </subject>
+   <subject>
+      <topic>DE miRNA</topic>
+   </subject>
+   <subject>
+      <topic>WT</topic>
+   </subject>
+   <subject>
+      <topic>KO</topic>
+   </subject>
+   <subject>
+      <topic>CPM</topic>
+   </subject>
+   <subject>
+      <topic>DEG</topic>
+   </subject>
+   <subject>
+      <topic>RISC</topic>
+   </subject>
+   <subject>
+      <topic>TF</topic>
+   </subject>
+   <subject>
+      <topic>KEGG</topic>
+   </subject>
+   <subject>
+      <topic>PCA</topic>
+   </subject>
+   <subject>
+      <topic>PC1</topic>
+   </subject>
+   <subject>
+      <topic>PC2</topic>
+   </subject>
+   <subject>
+      <topic>AD</topic>
+   </subject>
+   <subject>
+      <topic>PD</topic>
+   </subject>
+   <subject>
+      <topic>HD</topic>
+   </subject>
+   <subject>
+      <topic>ALS</topic>
+   </subject>
+   <subject>
+      <topic>RT-qPCR</topic>
+   </subject>
+   <subject>
+      <topic>3’ UTR</topic>
+   </subject>
+   <subject>
+      <topic>5’ UTR</topic>
+   </subject>
+   <subject>
+      <topic>SNPs</topic>
+   </subject>
+   <subject>
+      <topic>poly-miRTSs</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100004</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100004</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100004</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00003-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-02-05"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S266716032100003X/S266716032100003X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset: COVID-19 epidemic policy and events timeline (Sweden)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Tobias</namePart>
+      <namePart type="family">Olofsson</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0289-1826</nameIdentifier>
+      <displayForm>Olofsson, Tobias</displayForm>
+      <affiliation>Department of Sociology, Lund University, Sweden</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andreas</namePart>
+      <namePart type="family">Vilhelmsson</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6635-8182</nameIdentifier>
+      <displayForm>Vilhelmsson, Andreas</displayForm>
+      <affiliation>Department of Laboratory Medicine, Division of Occupational and Environmental Medicine, Lund University, Sweden</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The Swedish approach to managing the 2020-2021 COVID-19 pandemic has received significant attention in international scholarly work and press. For this dataset, we have reviewed governmental and media archives to build a detailed timeline that chronicles significant policies, interventions, and events in the Swedish management of COVID-19. The dataset contains summary descriptions of what took place, when it happened, and who the principal actors involved were. Links to primary sources are provided for each entry. Because of the level of detail and saturation, the dataset offers a detailed account of Swedish pandemic governance and will benefit anyone working on Swedish pandemic management or doing comparative work between Sweden and other jurisdictions. </abstract>
+   <subject>
+      <topic>COVID-19</topic>
+   </subject>
+   <subject>
+      <topic>Sweden</topic>
+   </subject>
+   <subject>
+      <topic>Timeline</topic>
+   </subject>
+   <subject>
+      <topic>Qualitative data</topic>
+   </subject>
+   <subject>
+      <topic>Archival material</topic>
+   </subject>
+   <subject>
+      <topic>Swedish strategy</topic>
+   </subject>
+   <subject>
+      <topic>Pandemic governance</topic>
+   </subject>
+   <subject>
+      <topic>Public Health</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107698</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107698</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107698</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00973-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-09"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009732/S2352340921009732.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

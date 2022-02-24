@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Fitting of 2D WAXD data: Mesophases in polymer fibers</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Edith</namePart>
+      <namePart type="family">Perret</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7543-5875</nameIdentifier>
+      <displayForm>Perret, Edith</displayForm>
+      <affiliation>Laboratory for Advanced Fibers, Empa, Swiss Federal Laboratories for Materials Science and Technology, Lerchenfeldstrasse 5, St. Gallen 9014, Switzerland</affiliation>
+      <affiliation>Center for X-ray Analytics, Empa, Swiss Federal Laboratories for Materials Science and Technology, Überlandstrasse 129, Dübendorf 8600, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rudolf</namePart>
+      <namePart type="family">Hufenus</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8245-6620</nameIdentifier>
+      <displayForm>Hufenus, Rudolf</displayForm>
+      <affiliation>Laboratory for Advanced Fibers, Empa, Swiss Federal Laboratories for Materials Science and Technology, Lerchenfeldstrasse 5, St. Gallen 9014, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This data article presents fitting results of wide-angle x-ray diffraction (WAXD) patterns of melt-spun polymer fibers from amorphous materials (polycarbonate (PC), cyclo-olefin polymer (COP), copolyamide (coPA), polyethylene terephthalate glycol (PETG)) and semi-crystalline materials (polyethylene terephthalate (PET), poly-3-hydroxybutyrate(P3HB)). The data was fit using the fitting algorithms, previously described in the publication by Perret and Hufenus ‘Insights into strain-induced solid mesophases in melt-spun polymer fibers’ [1]. Fitting results of WAXD data and details about azimuthal, equatorial, meridional or off-axis profiles are presented in sections 1.1-1.2. SAXS patterns of fibers, melt-spun from amorphous materials, are shown in section 1.3. Fiber production parameters are given in section 2.1, and a description of the WAXD measurements and fitting details, e.g., the chosen fitting parameters, are given in section 2.2. </abstract>
+   <subject>
+      <topic>X-ray diffraction</topic>
+   </subject>
+   <subject>
+      <topic>Mesophases</topic>
+   </subject>
+   <subject>
+      <topic>WAXD fitting algorithms</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107466</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107466</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107466</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00748-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-06"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007484/S2352340921007484.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

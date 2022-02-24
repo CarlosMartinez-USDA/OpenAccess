@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107731">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset for Bitcoin arbitrage in different cryptocurrency exchanges</dct:title>
+         <dct:creator>Rasa Bruzgė</dct:creator>
+         <dct:creator>Alfreda Šapkauskienė</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Arbitrage dataset</rdf:li>
+               <rdf:li>High-frequency</rdf:li>
+               <rdf:li>Bitcoin</rdf:li>
+               <rdf:li>Network analysis</rdf:li>
+               <rdf:li>Cryptocurrency exchange</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107731</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107731</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107731</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107731</dct:identifier>
+         <bam:articleNumber>107731</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-16T17:38:13Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107731</ja:aid>
+         <ce:article-number>107731</ce:article-number>
+         <ce:pii>S2352-3409(21)01006-4</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107731</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1062-9408(21)00170-4</ce:pii>
+               <ce:doi>10.1016/j.najef.2021.101562</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset for Bitcoin arbitrage in different cryptocurrency exchanges</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010064-4377bda3d5b37d07aff0dbacc6c460b0"
+                       orcid="0000-0002-0510-7718">
+               <ce:given-name>Rasa</ce:given-name>
+               <ce:surname>Bruzgė</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010064-672215b194cbb4203e45c8e01006a0d1"
+                       orcid="0000-0002-0070-4097">
+               <ce:given-name>Alfreda</ce:given-name>
+               <ce:surname>Šapkauskienė</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:alfreda.sapkauskiene@evaf.vu.lt">alfreda.sapkauskiene@evaf.vu.lt</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/ASapkauskiene">@ASapkauskiene</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010064-078eed5489a05486017947b7b30e1b9d">
+               <ce:textfn id="cetextfn0001">Faculty of Economics and Business Administration, Vilnius University, Saulėtekio al. 9, Vilnius LT- 10222, Lithuania</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Economics and Business Administration</sa:organization>
+                  <sa:organization>Vilnius University</sa:organization>
+                  <sa:address-line>Saulėtekio al. 9</sa:address-line>
+                  <sa:city>Vilnius</sa:city>
+                  <sa:postal-code>LT- 10222</sa:postal-code>
+                  <sa:country>Lithuania</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Faculty of Economics and Business Administration, Vilnius University, Saulėtekio al. 9, Vilnius LT- 10222, Lithuania</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="15" month="11" year="2021"/>
+         <ce:date-revised day="14" month="12" year="2021"/>
+         <ce:date-accepted day="15" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">Bitcoin market's efficiency and liquidity questions are being comprehensively analyzed in scientific literature. This dataset serves academics for deeper analysis of these topics as well as it gives relevant information for spotting and evaluating risks in the market. Moreover, practitioners can benefit from the dataset and use it to identify patterns in the market, discover potential earning capabilities, and create effective arbitrage trading strategies. This is the first publicly available dataset that provides unique arbitrage data about pairs of cryptocurrency exchanges. The raw dataset was received by the Bitlocus LT, UAB. Using <ce:italic>dplyr, reshape2, plyr</ce:italic> packages in R we transformed dataset to show the amount of arbitrage which could be earned in 13 different cryptocurrency exchanges from 2019-01-01 to 2020-04-01. We used this dataset to create matrices for each day from 2019-01-01 to 2020-04-01 in order to perform network analysis on Bitcoin arbitrage opportunities (Bruzgė and Šapkauskienė [1]). However, this dataset is beneficial for other purposes such as the evaluation of market's seasonality and day of week effects. The dataset provides values in high-frequency intervals but it is possible to convert data to a suitable data format depending on the research question.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Arbitrage dataset</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">High-frequency</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Bitcoin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Network analysis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Cryptocurrency exchange</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

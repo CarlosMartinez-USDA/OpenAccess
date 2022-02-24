@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Analysis of the assembly pathway for membrane subunits of Complex I reveals that subunit L (ND5) can assemble last in E. coli</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Fang</namePart>
+      <namePart type="family">Zhang</namePart>
+      <displayForm>Zhang, Fang</displayForm>
+      <affiliation>Department of Biological Sciences, Southern Methodist University, Dallas, TX 75275-0376 USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Steven B.</namePart>
+      <namePart type="family">Vik</namePart>
+      <displayForm>Vik, Steven B.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Respiratory Complex I, a multi-subunit, membrane-bound enzyme, oxidizes NADH in the electron transport chains of mammalian mitochondria, and many bacterial species. We have examined in vivo assembly of the membrane subunits of Complex I from E. coli. Complexes of J-K, L-M, M-N, and J-K-L-M-N were observed by both native gel electrophoresis and co-immunoprecipitation, when subsets of the genes were expressed. Subunit L (ND5 in humans), the most distal membrane subunit, with an unusual extended C-terminal segment, did not join with M-N, and but could join with J-K-M-N. When the genes were split between two plasmids, with L, M, and N subunits expressed in various combinations from one plasmid, the resulting enzyme activity in membrane vesicles dropped to 19–60% relative to expression from the whole operon encoded on one plasmid. When L was expressed after a time-delay, rather than simultaneously, the activity increased from 28% to 100%, indicating that it can efficiently join a pre-formed complex lacking L. In contrast, when larger groups of membrane subunits were expressed last, LMN or JKLMN, assembly was much less efficient. The two-plasmid expression system was used to re-analyze C-terminal mutations in subunit K (ND4L), which occur near the overlapping nuoK and L genes. These mutations were found to disrupt assembly, indicating the importance of the junction of L, N and K subunits. The results highlight the temporal and spatial aspects of gene expression that allow efficient assembly of the membrane subunits of Complex I. </abstract>
+   <subject>
+      <topic>Complex I</topic>
+   </subject>
+   <subject>
+      <topic>Protein assembly</topic>
+   </subject>
+   <subject>
+      <topic>Membrane protein</topic>
+   </subject>
+   <subject>
+      <topic>Bioenergetics</topic>
+   </subject>
+   <subject>
+      <topic>NADH dehydrogenase</topic>
+   </subject>
+   <subject>
+      <topic>Native gel electrophoresis</topic>
+   </subject>
+   <subject>
+      <topic>Abbreviations: ACMA, 9-amino 3-chloro 2-methoxy acridine</topic>
+   </subject>
+   <subject>
+      <topic>BA14, nuoA-N deletion strain in E. coli</topic>
+   </subject>
+   <subject>
+      <topic>Dodecyl maltoside, n-dodecyl-(-D-maltopyranoside</topic>
+   </subject>
+   <subject>
+      <topic>FCCP, carbonyl cyanide p-(trifluoromethoxy) phenylhydrazone</topic>
+   </subject>
+   <subject>
+      <topic>dNADH, deamino-NADH</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100027</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100027</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100027</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00026-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-04"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S2667160321000260/S2667160321000260.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

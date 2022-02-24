@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of costs of the mitigation hierarchy and plant translocations in France</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Margaux</namePart>
+      <namePart type="family">Julien</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4105-5545</nameIdentifier>
+      <displayForm>Julien, Margaux</displayForm>
+      <affiliation>CEFE, CNRS, Univ Montpellier, EPHE, IRD, Montpellier, France</affiliation>
+      <affiliation>Ecotonia, 60 rue tourmaline, Eguilles 13510, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bruno</namePart>
+      <namePart type="family">Colas</namePart>
+      <displayForm>Colas, Bruno</displayForm>
+      <affiliation>Université Paris-Saclay, CNRS, AgroParisTech, Ecologie Systématique et Evolution, Orsay 91405, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Serge</namePart>
+      <namePart type="family">Muller</namePart>
+      <displayForm>Muller, Serge</displayForm>
+      <affiliation>Muséum National d'Histoire Naturelle, UMR 7205, MNHN-CNRS-UPMC-EPHE-UA, CP 39, 16 rue Buffon, Paris 75005, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bertrand</namePart>
+      <namePart type="family">Schatz</namePart>
+      <displayForm>Schatz, Bertrand</displayForm>
+      <affiliation>CEFE, CNRS, Univ Montpellier, EPHE, IRD, Montpellier, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>These data are coming from the derogation requests for the destruction of protected species in the context of construction or development work in France. These derogation requests include, among other things, the contents of an environmental impact assessment and the costs of the measures suggested to reduce the impact on the environment. In the article connected to this dataset, we studied the quality of the plant translocation protocols proposed in 95 derogation files (see Julien et al., 2022). We additionally collected during the reading of the files data that we make available here about the costs of (i) the total project, (ii) the mitigation hierarchy and (iii) the plant translocation operations and monitoring. These data complement our aforementioned paper by documenting how much translocations cost and in what proportion of the other costs reported in the projects we evaluated for quality. These data can be helpful for environmental stakeholders but also to further studies to determine the extent to which the environment is considered in land planning. </abstract>
+   <subject>
+      <topic>Environmental impact assessment</topic>
+   </subject>
+   <subject>
+      <topic>Offsets</topic>
+   </subject>
+   <subject>
+      <topic>Land planning</topic>
+   </subject>
+   <subject>
+      <topic>Mitigation translocation</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107722</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107722</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107722</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00997-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009975/S2352340921009975.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

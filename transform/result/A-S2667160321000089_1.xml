@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100009">
+         <dct:format>application/xml</dct:format>
+         <dct:title>The 1.3-Å resolution structure of bovine cytochrome c oxidase suggests a dimerization mechanism</dct:title>
+         <dct:creator>Kyoko Shinzawa-Itoh</dct:creator>
+         <dct:creator>Miki Hatanaka</dct:creator>
+         <dct:creator>Kazuya Fujita</dct:creator>
+         <dct:creator>Naomine Yano</dct:creator>
+         <dct:creator>Yumi Ogasawara</dct:creator>
+         <dct:creator>Jun Iwata</dct:creator>
+         <dct:creator>Eiki Yamashita</dct:creator>
+         <dct:creator>Tomitake Tsukihara</dct:creator>
+         <dct:creator>Shinya Yoshikawa</dct:creator>
+         <dct:creator>Kazumasa Muramoto</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Cytochrome c oxidase</rdf:li>
+               <rdf:li>X-ray crystallography</rdf:li>
+               <rdf:li>Cryoprotectant soaking</rdf:li>
+               <rdf:li>Lipid</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100009</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100009</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100009</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100009</dct:identifier>
+         <bam:articleNumber>100009</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-03-18T10:51:47Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100009</ja:aid>
+         <ce:article-number>100009</ce:article-number>
+         <ce:pii>S2667-1603(21)00008-9</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100009</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">The 1.3-Å resolution structure of bovine cytochrome <ce:italic>c</ce:italic> oxidase suggests a dimerization mechanism</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000089-03e96558d73378a38a056ece1e784a4c">
+               <ce:given-name>Kyoko</ce:given-name>
+               <ce:surname>Shinzawa-Itoh</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:shinzawa@sci.u-hyogo.ac.jp">shinzawa@sci.u-hyogo.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000089-c7c13d208712171da4f9fc33b4d6026f">
+               <ce:given-name>Miki</ce:given-name>
+               <ce:surname>Hatanaka</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667160321000089-2e33e54e7e3828b2909aa705ca7ae947">
+               <ce:given-name>Kazuya</ce:given-name>
+               <ce:surname>Fujita</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667160321000089-496a40a4ba57558053696b7ba24b4075">
+               <ce:given-name>Naomine</ce:given-name>
+               <ce:surname>Yano</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667160321000089-c6476d84c7fd2e0d110f86d0098f037d">
+               <ce:given-name>Yumi</ce:given-name>
+               <ce:surname>Ogasawara</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667160321000089-25e37d8508332a76dee3de7ca0a02727">
+               <ce:given-name>Jun</ce:given-name>
+               <ce:surname>Iwata</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667160321000089-5af797dbcf5cee56d2615ec3caf7da7e">
+               <ce:given-name>Eiki</ce:given-name>
+               <ce:surname>Yamashita</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667160321000089-35ea57400774f9f9eb501abbdfb4942a">
+               <ce:given-name>Tomitake</ce:given-name>
+               <ce:surname>Tsukihara</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667160321000089-ddf168185a8c5fdb2a9c60b6c1575623">
+               <ce:given-name>Shinya</ce:given-name>
+               <ce:surname>Yoshikawa</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2667160321000089-947cc5971f89e3340714f56a5b4829f9">
+               <ce:given-name>Kazumasa</ce:given-name>
+               <ce:surname>Muramoto</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:muramoto@sci.u-hyogo.ac.jp">muramoto@sci.u-hyogo.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000089-bd9b929458e8407f90c49befa6289aaf">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Graduate School of Life Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Graduate School of Life Science</sa:organization>
+                  <sa:organization>University of Hyogo</sa:organization>
+                  <sa:address-line>3-2-1 Kouto, Kamigori, Ako</sa:address-line>
+                  <sa:city>Hyogo</sa:city>
+                  <sa:postal-code>678-1297</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aGraduate School of Life Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667160321000089-dd10419adf223c55f847e6a6543ac66f">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">School of Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Science</sa:organization>
+                  <sa:organization>University of Hyogo</sa:organization>
+                  <sa:address-line>3-2-1 Kouto, Kamigori, Ako</sa:address-line>
+                  <sa:city>Hyogo</sa:city>
+                  <sa:postal-code>678-1297</sa:postal-code>
+                  <sa:country>Japan.</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bSchool of Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667160321000089-81bd1368e8ced409d3d8bacdba4b7aed">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Institute for Protein Research, Osaka University, 3-2 Yamada-oka, Suita, Osaka 565-0871, Japan.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute for Protein Research</sa:organization>
+                  <sa:organization>Osaka University</sa:organization>
+                  <sa:address-line>3-2 Yamada-oka</sa:address-line>
+                  <sa:city>Suita</sa:city>
+                  <sa:state>Osaka</sa:state>
+                  <sa:postal-code>565-0871</sa:postal-code>
+                  <sa:country>Japan.</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cInstitute for Protein Research, Osaka University, 3-2 Yamada-oka, Suita, Osaka 565-0871, Japan.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667160321000089-62a5a86796d5d2898d167c3c75507bae">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Picobiology Institute, School of Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Picobiology Institute, School of Science</sa:organization>
+                  <sa:organization>University of Hyogo</sa:organization>
+                  <sa:address-line>3-2-1 Kouto, Kamigori</sa:address-line>
+                  <sa:city>Ako</sa:city>
+                  <sa:state>Hyogo</sa:state>
+                  <sa:postal-code>678-1297</sa:postal-code>
+                  <sa:country>Japan.</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dPicobiology Institute, School of Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan.</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding authors.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Present address: Frontier Research Center for Applied Atomic Sciences, Ibaraki University, 162-1 Shirakata, Tokai, Ibaraki 319-1106, Japan.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:abstract class="author-highlights" id="abs0001" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara024" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Optimization of the cryoprotectant soaking method for protein crystals</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Improvement of the crystallographic resolution for cytochrome <ce:italic>c</ce:italic> oxidase dimer</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Remodeling of weakly bound detergents and lipids involving dimerization</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">A reversible monomer/dimer transition may contribute to enzymatic regulation</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="author" id="abs0002" view="all">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara025" view="all">Cytochrome <ce:italic>c</ce:italic> oxidase (CcO) in the respiratory chain catalyzes oxygen reduction by coupling electron and proton transfer through the enzyme and proton pumping across the membrane. Although the functional unit of CcO is monomeric, mitochondrial CcO forms a monomer and a dimer, as well as a supercomplex with respiratory complexes I and III. A recent study showed that dimeric CcO has lower activity than monomeric CcO and proposed that dimeric CcO is a standby form for enzymatic activation in the mitochondrial membrane. Other studies have suggested that the dimerization is dependent on specifically arranged lipid molecules, peptide segments, and post-translationally modified amino acid residues. To re-examine the structural basis of dimerization, we improved the resolution of the crystallographic structure to 1.3 Å by optimizing the method for cryoprotectant soaking. The observed electron density map revealed many weakly bound detergent and lipid molecules at the interface of the dimer. The dimer interface also contained hydrogen bonds with tightly bound cholate molecules, hydrophobic interactions between the transmembrane helices, and a Met–Met interaction between the extramembrane regions. These results imply that binding of physiological ligands structurally similar to cholate could trigger dimerization in the mitochondrial membrane and that non-specifically bound lipid molecules at the transmembrane surface between monomers support the stabilization of the dimer. The weak interactions involving the transmembrane helices and extramembrane regions may play a role in positioning each monomer at the correct orientation in the dimer.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="keyword" id="keys0001" view="all">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Cytochrome <ce:italic>c</ce:italic> oxidase</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">X-ray crystallography</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Cryoprotectant soaking</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Lipid</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords class="abr" id="keys0002" view="all">
+            <ce:section-title id="cesectitle0004">Abbreviations</ce:section-title>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">3OM</ce:text>
+               <ce:keyword id="key6a">
+                  <ce:text id="cetext6a">3-oxatridecyl-α-<ce:small-caps>d</ce:small-caps>-mannoside</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">AS fractionation</ce:text>
+               <ce:keyword id="key7a">
+                  <ce:text id="cetext7a">ammonium sulfate fractionation</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">BN-PAGE</ce:text>
+               <ce:keyword id="key8a">
+                  <ce:text id="cetext8a">blue native polyacrylamide gel electrophoresis</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">CcO</ce:text>
+               <ce:keyword id="key9a">
+                  <ce:text id="cetext9a">cytochrome <ce:italic>c</ce:italic> oxidase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0009">
+               <ce:text id="cetext0010">CH</ce:text>
+               <ce:keyword id="key10a">
+                  <ce:text id="cetext10a">cholate</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0010">
+               <ce:text id="cetext0011">CHAPS</ce:text>
+               <ce:keyword id="key11a">
+                  <ce:text id="cetext11a">3-[(3-cholamidopropyl)dimethylammonio]-1-propanesulfonate</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011">
+               <ce:text id="cetext0012">CL</ce:text>
+               <ce:keyword id="key12a">
+                  <ce:text id="cetext12a">cardiolipin</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0012">
+               <ce:text id="cetext0013">DDM</ce:text>
+               <ce:keyword id="key13a">
+                  <ce:text id="cetext13a">
+                     <ce:italic>n</ce:italic>-dodecyl-β-<ce:small-caps>d</ce:small-caps>-maltoside</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0013">
+               <ce:text id="cetext0014">DM</ce:text>
+               <ce:keyword id="key14a">
+                  <ce:text id="cetext14a">
+                     <ce:italic>n</ce:italic>-decyl-β-<ce:small-caps>d</ce:small-caps>-maltoside</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0014">
+               <ce:text id="cetext0015">EG</ce:text>
+               <ce:keyword id="key15a">
+                  <ce:text id="cetext15a">ethylene glycol</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0015">
+               <ce:text id="cetext0016">LMNG</ce:text>
+               <ce:keyword id="key16a">
+                  <ce:text id="cetext16a">lauryl maltose neopentyl glycol</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0016">
+               <ce:text id="cetext0017">Na-Pi buffer</ce:text>
+               <ce:keyword id="key17a">
+                  <ce:text id="cetext17a">sodium phosphate buffer</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0017">
+               <ce:text id="cetext0018">PC</ce:text>
+               <ce:keyword id="key18a">
+                  <ce:text id="cetext18a">phosphatidylcholine</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0018">
+               <ce:text id="cetext0019">PE</ce:text>
+               <ce:keyword id="key19a">
+                  <ce:text id="cetext19a">phosphatidylethanolamine</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0019">
+               <ce:text id="cetext0020">PEG</ce:text>
+               <ce:keyword id="key20a">
+                  <ce:text id="cetext20a">polyethylene glycol</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0020">
+               <ce:text id="cetext0021">PG</ce:text>
+               <ce:keyword id="key21a">
+                  <ce:text id="cetext21a">phosphatidylglycerol</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0021">
+               <ce:text id="cetext0022">PGP</ce:text>
+               <ce:keyword id="key22a">
+                  <ce:text id="cetext22a">phosphatidylglycerol phosphate</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0022">
+               <ce:text id="cetext0023">PI</ce:text>
+               <ce:keyword id="key23a">
+                  <ce:text id="cetext23a">phosphatidylinositol</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0023">
+               <ce:text id="cetext0024">PS</ce:text>
+               <ce:keyword id="key24a">
+                  <ce:text id="cetext24a">phosphatidylserine</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0024">
+               <ce:text id="cetext0025">PTM</ce:text>
+               <ce:keyword id="key25a">
+                  <ce:text id="cetext25a">post-translational modification</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0025">
+               <ce:text id="cetext0026">ROS</ce:text>
+               <ce:keyword id="key26a">
+                  <ce:text id="cetext26a">reactive oxygen species</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0026">
+               <ce:text id="cetext0027">TEG</ce:text>
+               <ce:keyword id="key27a">
+                  <ce:text id="cetext27a">triethylene glycol</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0027">
+               <ce:text id="cetext0028">TG</ce:text>
+               <ce:keyword id="key28a">
+                  <ce:text id="cetext28a">triglyceride</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

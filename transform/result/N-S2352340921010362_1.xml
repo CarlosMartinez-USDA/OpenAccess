@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Hydrogeophysical monitoring of intense rainfall infiltration in the karst critical zone: A unique electrical resistivity tomography data set</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Simon D.</namePart>
+      <namePart type="family">Carrière</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6998-4544</nameIdentifier>
+      <displayForm>Carrière, Simon D.</displayForm>
+      <affiliation>Sorbonne Université, UMR 7619 METIS (UPMC/CNRS/EPHE), 4 place Jussieu, Paris 75005, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Konstantinos</namePart>
+      <namePart type="family">Chalikakis</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6929-636X</nameIdentifier>
+      <displayForm>Chalikakis, Konstantinos</displayForm>
+      <affiliation>Avignon Université, UMR 1114 EMMAH (AU/INRAE), 301 rue Baruch de Spinoza, BP 21239 84911, Avignon Cedex 9, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The common hydrogeological concepts assume that water mostly enters and flows in fractured and karstified media through preferential pathways related to discontinuities. But it is difficult to locate discontinuities and even more to relate those to possible or effective water routes, particularly when soil or scree covers near surface features. When and where does water flow underground? How fast? Are we able to monitor the infiltration processes? A unique large scale Electrical Resistivity Tomography (ERT) surface based time-lapse experiment was carried out in fractured and karstified carbonate rock during a typical Mediterranean autumn rainy episode (230mm of rain over 17 days). 120 ERT time-lapse sections were measured over the same profile during and after this event (30 days). The gradient array was chosen for his robustness and rapidity. The site is covered by typical Mediterranean forest and is a good example of the surface conditions found in Mediterranean karst. There is no major karstification features (i.e. cave, sinkhole) or major tectonic accident (i.e. fault). In a previous paper, several commercial and research inversion software were tested on this dataset. This processing highlighted some limitations in inversion process. At the actual stage, apparent resistivity data provides insight about recharge/discharge processes that are almost valuable as the inverted resistivity results. Due to his quality, the availability of this unique dataset acquired under natural conditions will allow to the scientific and engineer community exploring advances and limits of ERT approach and to test new software or new data processing strategy. </abstract>
+   <subject>
+      <topic>Hydrogeophysics</topic>
+   </subject>
+   <subject>
+      <topic>Recharge monitoring</topic>
+   </subject>
+   <subject>
+      <topic>Critical zone</topic>
+   </subject>
+   <subject>
+      <topic>Karst</topic>
+   </subject>
+   <subject>
+      <topic>Mediterranean</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107762</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107762</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107762</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01036-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-23"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010362/S2352340921010362.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

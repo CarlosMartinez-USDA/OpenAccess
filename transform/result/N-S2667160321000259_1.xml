@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Membrane dynamics are slowed for Alexa594-labeled membrane proteins due to substrate interactions</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Alan W.</namePart>
+      <namePart type="family">Weisgerber</namePart>
+      <displayForm>Weisgerber, Alan W.</displayForm>
+      <affiliation>Department of Chemistry and Biochemistry, University of Denver, Denver, CO 80210, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michelle K.</namePart>
+      <namePart type="family">Knowles</namePart>
+      <displayForm>Knowles, Michelle K.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The addition of fluorescent dyes to proteins, lipids and other biological molecules can affect a range of processes such as mobility, molecular interactions, localization, and, ultimately, function. The dynamics of a protein can be dramatically affected if the label interacts non-specifically with the substrate or with other molecules in the system. To test how dye-substrate interactions affect protein diffusion, fluorescence recovery after photobleaching (FRAP) measurements were designed to explicitly determine the role of the dye on the diffusion of a transmembrane protein, Syntaxin1a, expressed on the cell surface. Syntaxin1a, was tagged with EGFP on the extracellular side and an EGFP nanobody with or without a dye label was attached. FRAP was performed on Syx1a-EGFP and the choice of cell growth substrate affected mobility in the presence of a dye labeled nanobody. This work provides evidence for choosing fibronectin (Fn) over poly-L-lysine (PLL) in FRAP and single molecule tracking measurements when using Alexa594, a common probe for red fluorescent measurements. Alexa594-labeled nanobody but not unlabeled nanobody, dramatically reduced the mobility of Syx1a-EGFP when cells were cultured on PLL. However, when Fn was used, the mobility returned. Mobility measured by single molecule tracking measurements align with the FRAP measurements with Fn coated surfaces being more mobile than PLL. </abstract>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100026</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100026</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100026</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00025-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-09-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S2667160321000259/S2667160321000259.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

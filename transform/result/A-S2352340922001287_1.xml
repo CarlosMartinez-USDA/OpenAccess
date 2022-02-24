@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107916">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Landing error scoring system: Data from youth volleyball players</dct:title>
+         <dct:creator>Weerawat Limroongreungrat</dct:creator>
+         <dct:creator>Christopher Mawhinney</dct:creator>
+         <dct:creator>Suthasinee Kongthongsung</dct:creator>
+         <dct:creator>Chatchadaporn Pitaksathienkul</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Youth volleyball</rdf:li>
+               <rdf:li>Landing error scoring system</rdf:li>
+               <rdf:li>Screening tool</rdf:li>
+               <rdf:li>Screening test</rdf:li>
+               <rdf:li>Sport injuries</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107916</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107916</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107916</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107916</dct:identifier>
+         <bam:articleNumber>107916</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-02-01T14:51:00Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107916</ja:aid>
+         <ce:article-number>107916</ce:article-number>
+         <ce:pii>S2352-3409(22)00128-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107916</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Landing error scoring system: Data from youth volleyball players</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922001287-6c8e5a5ec615ecf6f00b99cbfdd13df6"
+                       orcid="0000-0002-3431-1793">
+               <ce:given-name>Weerawat</ce:given-name>
+               <ce:surname>Limroongreungrat</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:weerawat.lim@mahidol.edu">weerawat.lim@mahidol.edu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922001287-88b954d18c9bbf801f4d3034fe04994e">
+               <ce:given-name>Christopher</ce:given-name>
+               <ce:surname>Mawhinney</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922001287-c5cda37020a35c8f4ea887ae32a02660">
+               <ce:given-name>Suthasinee</ce:given-name>
+               <ce:surname>Kongthongsung</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922001287-a3da1350b4f22e781539175af71c9904">
+               <ce:given-name>Chatchadaporn</ce:given-name>
+               <ce:surname>Pitaksathienkul</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922001287-fe0e7cd04a1ebd59124c45f1a5e4cce2">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">College of Sports Science and Technology, Mahidol University, Thailand</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>College of Sports Science and Technology</sa:organization>
+                  <sa:organization>Mahidol University</sa:organization>
+                  <sa:country>Thailand</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aCollege of Sports Science and Technology, Mahidol University, Thailand</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922001287-b237936f89cf95752782e7af58da2c72">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Sports Science Bureau, Department of Physical Education, Thailand</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Sports Science Bureau, Department of Physical Education</sa:organization>
+                  <sa:country>Thailand</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bSports Science Bureau, Department of Physical Education, Thailand</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="13" month="9" year="2021"/>
+         <ce:date-revised day="26" month="1" year="2022"/>
+         <ce:date-accepted day="31" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">The Landing Error Scoring system (LESS) is a reliable screening tool for Anterior Cruciate Ligament (ACL) injury. The test is focused on biomechanical errors of landing motion and is used to evaluate the risk of knee injuries in several sports, such as football and basketball, which involve repeated jumping demands. Presently, available LESS data from youth volleyball players is limited, thus screening for injury risk has not been comprehensively undertaken in this cohort. The LESS is typically performed by jumping from a box while video motion in 2 sagittal and frontal planes is recorded, with the jump landing rated against 17-items. A total of 233 players performed three jump landing trials resulting in a total of 1398 videos being recorded. Each LESS score item was rated by two physical therapists and one sports scientist and the data were separated into four separate LESS score categories: excellent (≤4), good (4 - 5), moderate (5 - 6), and poor (&gt;6). Descriptive analysis (percentage) was employed to describe the data, with scores subdivided by gender. The data may be applied to identify youth volleyball players at potential risk of sustaining a lower body injury from poor landing biomechanics.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Youth volleyball</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Landing error scoring system</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Screening tool</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Screening test</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Sport injuries</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

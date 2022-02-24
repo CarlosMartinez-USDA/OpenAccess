@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Tropical western and central Pacific marine heatwave data calculated from gridded sea surface temperature observations and CMIP6</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jules B.</namePart>
+      <namePart type="family">Kajtar</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0114-6610</nameIdentifier>
+      <displayForm>Kajtar, Jules B.</displayForm>
+      <affiliation>Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania, Australia</affiliation>
+      <affiliation>Australian Research Council Centre of Excellence for Climate Extremes, University of Tasmania, Hobart, Tasmania, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vanessa</namePart>
+      <namePart type="family">Hernaman</namePart>
+      <displayForm>Hernaman, Vanessa</displayForm>
+      <affiliation>Climate Science Centre, CSIRO Oceans and Atmosphere, Aspendale, Victoria, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Neil J.</namePart>
+      <namePart type="family">Holbrook</namePart>
+      <displayForm>Holbrook, Neil J.</displayForm>
+      <affiliation>Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania, Australia</affiliation>
+      <affiliation>Australian Research Council Centre of Excellence for Climate Extremes, University of Tasmania, Hobart, Tasmania, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Paola</namePart>
+      <namePart type="family">Petrelli</namePart>
+      <displayForm>Petrelli, Paola</displayForm>
+      <affiliation>Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania, Australia</affiliation>
+      <affiliation>Australian Research Council Centre of Excellence for Climate Extremes, University of Tasmania, Hobart, Tasmania, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Processed marine heatwave metrics are provided for the tropical western and central Pacific Ocean region (120°E-140°W, 40°S-15°N). The metrics are computed from daily sea surface temperature (SST) data, from both observations and models. The observed marine heatwave data are calculated from NOAA 0.25° daily Optimum Interpolation Sea Surface Temperature (OISST) over the period 1982–2019. The modelled marine heatwave data are from analysis of 18 model simulations as part of the Coupled Model Intercomparison Project, Phase 6 (CMIP6) over the period 1982–2100, where two future scenarios have been analysed. The marine heatwave data are provided on a grid point basis across the domain. Marine heatwave timeseries metrics are also provided for three case study regions: Fiji, Samoa, and Palau. </abstract>
+   <subject>
+      <topic>SST</topic>
+   </subject>
+   <subject>
+      <topic>MHW</topic>
+   </subject>
+   <subject>
+      <topic>OISST</topic>
+   </subject>
+   <subject>
+      <topic>CMIP6</topic>
+   </subject>
+   <subject>
+      <topic>Marine heatwave</topic>
+   </subject>
+   <subject>
+      <topic>Extreme event</topic>
+   </subject>
+   <subject>
+      <topic>Pacific ocean</topic>
+   </subject>
+   <subject>
+      <topic>Sea surface temperature</topic>
+   </subject>
+   <subject>
+      <topic>Observational</topic>
+   </subject>
+   <subject>
+      <topic>Model outputs</topic>
+   </subject>
+   <subject>
+      <topic>CMIP6</topic>
+   </subject>
+   <subject>
+      <topic>Projections</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107694</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107694</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107694</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00969-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-08"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009690/S2352340921009690.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

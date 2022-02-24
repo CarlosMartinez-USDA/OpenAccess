@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2021.100006">
+         <dct:format>application/xml</dct:format>
+         <dct:title>The inhibitory effect of dihydroartemisinin on non-small cells lung cancer</dct:title>
+         <dct:creator>Yan Li</dct:creator>
+         <dct:creator>Guijie Luan</dct:creator>
+         <dct:creator>Ping Guo</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Dihydroartemisinin</rdf:li>
+               <rdf:li>Non-small cells lung cancer</rdf:li>
+               <rdf:li>Inhibitory effect</rdf:li>
+               <rdf:li>Systematic review</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine 1 (2021). doi:10.1016/j.prmcm.2021.100006</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.prmcm.2021.100006</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2021.100006</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2021.100006</dct:identifier>
+         <bam:articleNumber>100006</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-08-24T11:39:32Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100006</ja:aid>
+         <ce:article-number>100006</ce:article-number>
+         <ce:pii>S2667-1425(21)00005-1</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2021.100006</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001k">Review</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">The inhibitory effect of dihydroartemisinin on non-small cells lung cancer</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667142521000051-bb459ec11dafa8b87add9aabd367ebfd">
+               <ce:given-name>Yan</ce:given-name>
+               <ce:surname>Li</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667142521000051-8b87750d17149caafa3a91aa707dc270">
+               <ce:given-name>Guijie</ce:given-name>
+               <ce:surname>Luan</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:luanguijie@sina.com">luanguijie@sina.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667142521000051-6640e1b45cdeaac5649d67dd1a82965d">
+               <ce:given-name>Ping</ce:given-name>
+               <ce:surname>Guo</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:guop86@163.com">guop86@163.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667142521000051-f91786c31599b6c4b151cd92bfd822c3">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">College of Traditional Chinese Medicine, Shandong University of Traditional Chinese Medicine, Jinan, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>College of Traditional Chinese Medicine</sa:organization>
+                  <sa:organization>Shandong University of Traditional Chinese Medicine</sa:organization>
+                  <sa:city>Jinan</sa:city>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aCollege of Traditional Chinese Medicine, Shandong University of Traditional Chinese Medicine, Jinan, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667142521000051-24171ab8b1a33ff6589096432f1e878b">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Shandong Center for Disease Control and Prevention, Jinan, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Shandong Center for Disease Control and Prevention</sa:organization>
+                  <sa:city>Jinan</sa:city>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bShandong Center for Disease Control and Prevention, Jinan, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding authors.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="2" month="7" year="2021"/>
+         <ce:date-revised day="11" month="8" year="2021"/>
+         <ce:date-accepted day="24" month="8" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">Dihydroartemisinin (DHA) is an artemisinin (ART) derivative used for the treatment of all kinds of malaria, especially for falciparum malaria and dangerous malaria. With the in-depth research, DHA has attracted more attentions in the field of anticancer. We aim to explore the inhibitory effect of DHA on non-small cells lung cancer (NSCLC), which includes lung squamous carcinoma (LUSC), lung adenocarcinoma (LUAD) and large cells lung carcinoma (LCLC). A comprehensive search was performed to identify all studies with the Preferred Reporting Items for Systematic Reviews and Meta Analyses (PRISMA) guidelines. We used the databases of PubMed and Web of Science to search the literature up to December 31, 2020, and there were no language restrictions to be imposed. Searches were conducted in PubMed and Web of Science using the keywords “dihydroartemisinin” and “non-small cells lung cancer” or “lung squamous carcinoma” or “lung adenocarcinoma” or “large cells lung carcinoma”. Literature search and selection, data assessment and reliability assessment were respectively performed by two independent review researchers. Thirty-six studies involving NSCLC, LUAD, and LUSC were included. The mean IC50 was 80.89 umol/L, the range was from 0.23 umol/L to 749.90 umol/L. When exposed to DHA at 24, 48, 72 and 96 h cell culture time, the mean IC50 were 54.80, 128.70, 83.70 and 12.60 umol/L respectively. There had higher inhibitory rate (IR) or apoptosis rate (AR) when exposed to higher DHA concentration and longer cell culture time. No evidence of publication bias was found. The finding suggested that DHA had an obvious inhibitory effect on NSCLC, which can provide further evidence in treatment of lung cancer.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Dihydroartemisinin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Non-small cells lung cancer</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Inhibitory effect</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Systematic review</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

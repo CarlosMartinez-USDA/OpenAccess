@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>An extensive dataset of handwritten central Kurdish isolated characters</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Rebin M.</namePart>
+      <namePart type="family">Ahmed</namePart>
+      <displayForm>Ahmed, Rebin M.</displayForm>
+      <affiliation>IT Department, Tishk International University, Erbil, Iraq</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tarik A.</namePart>
+      <namePart type="family">Rashid</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8661-258X</nameIdentifier>
+      <displayForm>Rashid, Tarik A.</displayForm>
+      <affiliation>Computer Science and Engineering Department, University of Kurdistan-Hawlêr, Erbil, Iraq</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Polla</namePart>
+      <namePart type="family">Fatah</namePart>
+      <displayForm>Fatah, Polla</displayForm>
+      <affiliation>Sallahadin University-Erbil, Erbil, Iraq</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Abeer</namePart>
+      <namePart type="family">Alsadoon</namePart>
+      <displayForm>Alsadoon, Abeer</displayForm>
+      <affiliation>School of Computer Data and Mathematical Sciences, Western Sydney University (WSU), Sydney, Australia</affiliation>
+      <affiliation>Kent Institute Australia, Sydney, Australia</affiliation>
+      <affiliation>Asia Pacific International College (APIC), Sydney, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Seyedali</namePart>
+      <namePart type="family">Mirjalili</namePart>
+      <displayForm>Mirjalili, Seyedali</displayForm>
+      <affiliation>Centre for Artificial Intelligence Research and Optimisation, Torrens University, Australia</affiliation>
+      <affiliation>Yonsei Frontier Lab, Yonsei University, Seoul, South Korea</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>To collect the handwritten format of separate Kurdish characters, each character has been printed on a grid of 14 × 9 of A4 paper. Each paper is filled with only one printed character so that the volunteers know what character should be written in each paper. Then each paper has been scanned, spliced, and cropped with a macro in photoshop to make sure the same process is applied for all characters. The grids of the characters have been filled mainly by volunteers of students from multiple universities in Erbil. </abstract>
+   <subject>
+      <topic>Handwritten characters</topic>
+   </subject>
+   <subject>
+      <topic>Central Kurdish</topic>
+   </subject>
+   <subject>
+      <topic>Kurdish character recognition</topic>
+   </subject>
+   <subject>
+      <topic>Images of characters</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107479</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107479</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107479</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00760-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-12"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007605/S2352340921007605.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

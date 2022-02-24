@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100147">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Effect of ethanol leaf extract of Clerodendrum splendens (G. Don) (Verbenaceae) on some biochemical parameters of Alloxan-induced diabetic Wistar rats</dct:title>
+         <dct:creator>Patrick Ebele Obi</dct:creator>
+         <dct:creator>Chukwuebuka C. Ezeorah</dct:creator>
+         <dct:creator>U.E. Odoh</dct:creator>
+         <dct:creator>Raymond O. Offiah</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Clerodendrum splendens</rdf:li>
+               <rdf:li>Alloxan monohydrate</rdf:li>
+               <rdf:li>Glibenclamide</rdf:li>
+               <rdf:li>Aspartate aminotransferase (AST)</rdf:li>
+               <rdf:li>Alkaline phosphatase (ALP)</rdf:li>
+               <rdf:li>Alanine aminotransferase (ALT)</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100147</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100147</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100147</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100147</dct:identifier>
+         <bam:articleNumber>100147</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-25T08:48:52Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100147</ja:aid>
+         <ce:article-number>100147</ce:article-number>
+         <ce:pii>S2667-0313(21)00129-9</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100147</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Effect of ethanol leaf extract of <ce:italic>Clerodendrum splendens</ce:italic> (G. Don) (Verbenaceae) on some biochemical parameters of Alloxan-induced diabetic Wistar rats</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001299-2e9d15207d84b714e9cb38ee1f4b183e">
+               <ce:given-name>Patrick Ebele</ce:given-name>
+               <ce:surname>Obi</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:patrick.obi@esut.edu.ng">patrick.obi@esut.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001299-ffd1a2e36e75936d8e310e911f594053">
+               <ce:given-name>Chukwuebuka C.</ce:given-name>
+               <ce:surname>Ezeorah</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001299-5c30c24bf79065657612b37ea7621465">
+               <ce:given-name>U.E.</ce:given-name>
+               <ce:surname>Odoh</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001299-386d43f8afb722e7e2178073b2e7c89f">
+               <ce:given-name>Raymond O.</ce:given-name>
+               <ce:surname>Offiah</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001299-e98df301b21fa031afedd9c70e2e3883">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Pharmacognosy, Faculty of Pharmaceutical Sciences, Enugu State University of Science and Technology, Enugu, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacognosy</sa:organization>
+                  <sa:organization>Faculty of Pharmaceutical Sciences</sa:organization>
+                  <sa:organization>Enugu State University of Science and Technology</sa:organization>
+                  <sa:city>Enugu</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Pharmacognosy, Faculty of Pharmaceutical Sciences, Enugu State University of Science and Technology, Enugu, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001299-b8e0ce3257151e96c0a776a54db99b5f">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Pharmacognosy and Environmental Medicines, Faculty of Pharmaceutical Sciences, University of Nigeria, Nsukka, Enugu, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacognosy and Environmental Medicines</sa:organization>
+                  <sa:organization>Faculty of Pharmaceutical Sciences</sa:organization>
+                  <sa:organization>University of Nigeria</sa:organization>
+                  <sa:city>Enugu</sa:city>
+                  <sa:state>Nsukka</sa:state>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Pharmacognosy and Environmental Medicines, Faculty of Pharmaceutical Sciences, University of Nigeria, Nsukka, Enugu, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001299-e415e560832aede579d41c5f190f11b8">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Pharmacology and Therapeutics, Faculty of Clinical Medicine, College of Medicine, Enugu State University of Science and Technology, Enugu, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacology and Therapeutics</sa:organization>
+                  <sa:organization>Faculty of Clinical Medicine</sa:organization>
+                  <sa:organization>College of Medicine</sa:organization>
+                  <sa:organization>Enugu State University of Science and Technology</sa:organization>
+                  <sa:city>Enugu</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Pharmacology and Therapeutics, Faculty of Clinical Medicine, College of Medicine, Enugu State University of Science and Technology, Enugu, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Pharmacognosy, Faculty of Pharmaceutical Sciences, Enugu, State University of Science and Technology, Enugu, Nigeria.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacognosy, Faculty of Pharmaceutical Sciences, Enugu</sa:organization>
+                  <sa:organization>State University of Science and Technology</sa:organization>
+                  <sa:city>Enugu</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="19" month="8" year="2021"/>
+         <ce:date-revised day="13" month="10" year="2021"/>
+         <ce:date-accepted day="25" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara017" view="all">The lack of significant breakthrough in the treatment of diabetes, a global threat has led to continuous search of herbs that contain bioactive constituents with hypoglycemic effect. The aim of this study was to evaluate the effects of ethanol leaf extract of <ce:italic>Clerodendrum splendens</ce:italic> on some biochemical parameters in alloxan-induced diabetic wistar rats.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Method</ce:section-title>
+               <ce:simple-para id="spara018" view="all">The induction of Diabetes to albino wistar rats was done intraperitoneally using 120 mg/kg body weight of Alloxan monohydrate and the diabetic rats were randomly divided into five groups of four rats each comprising Group I (Diabetic rats), Group II (normal control), group III (200 mg/kg of ethanol extract), group IV (400 mg/kg of ethanol extract) and group V (5 mg/kg Glibenclamide - standard drug). All treatments were administered orally once daily for 21 days. At the end of the treatment period, the blood sera of the blood samples from rats across the groups were collected and biochemical assays were carried out on them to evaluate their individual concentration of ALP, AST, ALT, TG, HDL, TC and LDL.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara019" view="all">A significant reduction (<ce:italic>p</ce:italic>&lt;0.05) in the serum TC, TG, LDL-C and increased HDL-C was recorded in alloxan-induced diabetic treated groups. The ethanol leaf extract of <ce:italic>Clerodendrum splendens</ce:italic> at 200 and 400 mg/kg showed improving activities of the tested biochemical parameters. However, the group treated with 400 mg/kg showed more significant reduction (<ce:italic>p</ce:italic>&lt;0.01) in the values of ALP (40.25±0.75), AST (25.25±3.84), ALT (3.25±0.25) and LDL (14.25±0.85).The 200 mg/kg showed more significant reduction in TC (67.25±2.59) than 400 mg/kg with TC value of 96.25±1.49. There was no significant effect on the TG value with 200 and 400 mg/kg while a significant increase (<ce:italic>p</ce:italic>&lt;0.01) in HDL was recorded in the group treated with 200 and 400 mg/kg for HDL with 200 mg/kg showing more significant increase.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusions</ce:section-title>
+               <ce:simple-para id="spara020" view="all">These findings revealed that <ce:italic>Clerodendrum splendens</ce:italic> has ameliorating activities on the lipid profile and liver function parameters of degenerating condition of diabetes mellitus associated secondary complications.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Clerodendrum splendens</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Alloxan monohydrate</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Glibenclamide</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Aspartate aminotransferase (AST)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Alkaline phosphatase (ALP)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Alanine aminotransferase (ALT)</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

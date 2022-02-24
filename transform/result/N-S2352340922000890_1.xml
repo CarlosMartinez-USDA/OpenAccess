@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Experimental data from ice basin tests with vertically sided cylindrical structures</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Hayo</namePart>
+      <namePart type="family">Hendrikse</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2252-4625</nameIdentifier>
+      <displayForm>Hendrikse, Hayo</displayForm>
+      <affiliation>Faculty of Civil Engineering and Geosciences, Department of Hydraulic Engineering, Delft University of Technology, Delft 2628 CN , the Netherland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tim C.</namePart>
+      <namePart type="family">Hammer</namePart>
+      <displayForm>Hammer, Tim C.</displayForm>
+      <affiliation>Faculty of Civil Engineering and Geosciences, Department of Hydraulic Engineering, Delft University of Technology, Delft 2628 CN , the Netherland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Marnix van den</namePart>
+      <namePart type="family">Berg</namePart>
+      <displayForm>Berg, Marnix van den</displayForm>
+      <affiliation>Faculty of Civil Engineering and Geosciences, Department of Hydraulic Engineering, Delft University of Technology, Delft 2628 CN , the Netherland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tom</namePart>
+      <namePart type="family">Willems</namePart>
+      <displayForm>Willems, Tom</displayForm>
+      <affiliation>Siemens Gamesa Renewable Energy, The Hague, the Netherland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cody C.</namePart>
+      <namePart type="family">Owen</namePart>
+      <displayForm>Owen, Cody C.</displayForm>
+      <affiliation>Faculty of Civil Engineering and Geosciences, Department of Hydraulic Engineering, Delft University of Technology, Delft 2628 CN , the Netherland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kees</namePart>
+      <namePart type="family">van Beek</namePart>
+      <displayForm>van Beek, Kees</displayForm>
+      <affiliation>Faculty of Civil Engineering and Geosciences, Department of Hydraulic Engineering, Delft University of Technology, Delft 2628 CN , the Netherland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nick J.J.</namePart>
+      <namePart type="family">Ebben</namePart>
+      <displayForm>Ebben, Nick J.J.</displayForm>
+      <affiliation>Faculty of Civil Engineering and Geosciences, Department of Hydraulic Engineering, Delft University of Technology, Delft 2628 CN , the Netherland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Otto</namePart>
+      <namePart type="family">Puolakka</namePart>
+      <displayForm>Puolakka, Otto</displayForm>
+      <affiliation>School of Engineering, Department of Mechanical Engineering, Aalto University, P.O. Box 14300, Aalto FI 00076, Finland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Arttu</namePart>
+      <namePart type="family">Polojärvi</namePart>
+      <displayForm>Polojärvi, Arttu</displayForm>
+      <affiliation>School of Engineering, Department of Mechanical Engineering, Aalto University, P.O. Box 14300, Aalto FI 00076, Finland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-25</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Basin tests were performed at the Aalto Ice Tank to gather data on ice-structure action and interaction from ice failing against a vertically sided cylindrical pile. The tests were performed with a real-time hybrid test setup, which combined physical and numerical components to simulate a range of test structures in real-time. The dataset includes results from tests with offshore wind turbine structures, structural models representing a series of single- and multi-degree-of-freedom oscillators, and scaled dynamic models of the Norströmsgrund lighthouse and the Molikpaq caisson structure. In addition, forced vibration tests and rigid structure tests were performed. Ice loads and structural response were measured with accelerometers, displacement sensors, potentiometers, strain gauges and load cells and the ice-structure interaction process was filmed from three different camera angles. The resulting raw data have been categorized and stored as unfiltered time series. A total of 259 different tests are included in the dataset. The model ice formation procedure and the test temperature were aimed at creating model ice that mimics the material behavior of full-scale saline ice during crushing failure, with a specific focus on the transition from brittle to ductile behavior. The data can be used for validation of models for dynamic ice-structure interaction. The offshore wind turbine data can be used to study the effect of wind loading on the interaction with ice and the effect of the specific dynamic properties of wind turbine structures with monopile foundations on the ice-structure interaction process. The forced-oscillation data can be used to quantify the time and speed dependant aspects of ice loading. The Norströmsgrund lighthouse and the Molikpaq data can be used as a reference comparison to full-scale data on ice loads. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Ice-induced vibration</topic>
+   </subject>
+   <subject>
+      <topic>Offshore wind turbine</topic>
+   </subject>
+   <subject>
+      <topic>Forced vibration test</topic>
+   </subject>
+   <subject>
+      <topic>Crushing</topic>
+   </subject>
+   <subject>
+      <topic>Intermittent crushing</topic>
+   </subject>
+   <subject>
+      <topic>Frequency lock-in</topic>
+   </subject>
+   <subject>
+      <topic>Real-time hybrid testing</topic>
+   </subject>
+   <subject>
+      <topic>Ice-structure interaction</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">25</text>
+         <extent unit="pages">
+            <start>107877</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107877</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107877</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00089-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-25"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922000890/S2352340922000890.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

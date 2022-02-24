@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data for evaluating mine roof stability via acoustic impact</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Travis</namePart>
+      <namePart type="family">Wiens</namePart>
+      <displayForm>Wiens, Travis</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shahriar</namePart>
+      <namePart type="family">Islam</namePart>
+      <displayForm>Islam, Shahriar</displayForm>
+      <affiliation>Department of Mechanical Engineering, University of Saskatchewan, Saskatoon, Sk, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-17</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The stability of underground mine roofs is critical to the safety of miners. They often assess the condition of the roof by striking it with a long bar and then interpret the sound of the impact as either “tight” (safe) or “drummy” (unsafe). This paper presents a dataset of a 3309 acoustic recordings of such impacts, labelled as by an expert miner as either drummy or tight. Data was recorded from a number of sites within 5 different underground mines, all potash mines in the Canadian province of Saskatchewan . </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>mining</topic>
+   </subject>
+   <subject>
+      <topic>safety</topic>
+   </subject>
+   <subject>
+      <topic>acoustics</topic>
+   </subject>
+   <subject>
+      <topic>impact</topic>
+   </subject>
+   <subject>
+      <topic>geology</topic>
+   </subject>
+   <subject>
+      <topic>rock mechanics</topic>
+   </subject>
+   <subject>
+      <topic>potash</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">17</text>
+         <extent unit="pages">
+            <start>107854</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107854</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107854</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00066-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-18"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/333921349383348651-00001/2352-3409/aip/S235234092200066X/S235234092200066X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

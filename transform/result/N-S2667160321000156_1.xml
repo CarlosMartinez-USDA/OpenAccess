@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Asymmetric dynamics of dimeric SARS-CoV-2 and SARS-CoV main proteases in an apo form: Molecular dynamics study on fluctuations of active site, catalytic dyad, and hydration water</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Shinji</namePart>
+      <namePart type="family">Iida</namePart>
+      <displayForm>Iida, Shinji</displayForm>
+      <affiliation>Technology Research Association for Next-Generation Natural Products Chemistry, 2-3-26, Aomi, Koto-ku, Tokyo, Japan 135-0064</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yoshifumi</namePart>
+      <namePart type="family">Fukunishi</namePart>
+      <displayForm>Fukunishi, Yoshifumi</displayForm>
+      <affiliation>Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), 2-3-26 Aomi, Koto-ku, Tokyo, Japan 135-0064</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been widely spread around the world. It is necessary to examine the viral proteins that play a notorious role in the invasion of our body. The main protease (3CLᵖʳᵒ) facilitates the maturation of the coronavirus. It is thought that the dimerization of 3CLᵖʳᵒ leads to its catalytic activity; the detailed mechanism has, however, not been suggested. Furthermore, the structural differences between the predecessor SARS-CoV 3CLᵖʳᵒ and SARS-CoV-2 3CLᵖʳᵒ have not been fully understood. Here, we show the structural and dynamical differences between the two main proteases, and demonstrate the relationship between the dimerization and the activity via atomistic molecular dynamics simulations. Simulating monomeric and dimeric 3CLᵖʳᵒ systems for each protease, we show that (i) global dynamics between the two different proteases are not conserved, (ii) the dimerization stabilizes the catalytic dyad and hydration water molecules behind the dyad, and (iii) the substrate-binding site (active site) and hydration water molecules in each protomer fluctuate asymmetrically. We then speculate the roles of hydration water molecules in their catalytic activity. </abstract>
+   <subject>
+      <topic>SARS-CoV-2</topic>
+   </subject>
+   <subject>
+      <topic>Cysteine protease</topic>
+   </subject>
+   <subject>
+      <topic>Atomistic molecular dynamics simulation</topic>
+   </subject>
+   <subject>
+      <topic>Catalysis</topic>
+   </subject>
+   <subject>
+      <topic>Water molecule</topic>
+   </subject>
+   <subject>
+      <topic>Dimerization</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100016</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100016</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100016</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00015-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-06-10"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S2667160321000156/S2667160321000156.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

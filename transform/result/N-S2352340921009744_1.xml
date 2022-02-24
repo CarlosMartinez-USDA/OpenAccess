@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Distribution level electric current consumption and meteorological data set of the east region of Paraguay</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Gustavo</namePart>
+      <namePart type="family">Velázquez</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8891-7208</nameIdentifier>
+      <displayForm>Velázquez, Gustavo</displayForm>
+      <affiliation>Computer Engineer Department, Universidad Americana, Asunción 1029, Paraguay</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Félix</namePart>
+      <namePart type="family">Morales</namePart>
+      <displayForm>Morales, Félix</displayForm>
+      <affiliation>Computer Engineer Department, Universidad Americana, Asunción 1029, Paraguay</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Miguel</namePart>
+      <namePart type="family">García-Torres</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6867-7080</nameIdentifier>
+      <displayForm>García-Torres, Miguel</displayForm>
+      <affiliation>Computer Engineer Department, Universidad Americana, Asunción 1029, Paraguay</affiliation>
+      <affiliation>Data Science and Big Data Lab, Universidad Pablo de Olavide, Seville ES-41013, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Francisco</namePart>
+      <namePart type="family">Gómez-Vela</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7376-5790</nameIdentifier>
+      <displayForm>Gómez-Vela, Francisco</displayForm>
+      <affiliation>Data Science and Big Data Lab, Universidad Pablo de Olavide, Seville ES-41013, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Federico</namePart>
+      <namePart type="family">Divina</namePart>
+      <displayForm>Divina, Federico</displayForm>
+      <affiliation>Data Science and Big Data Lab, Universidad Pablo de Olavide, Seville ES-41013, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">José Luis</namePart>
+      <namePart type="family">Vázquez Noguera</namePart>
+      <displayForm>Vázquez Noguera, José Luis</displayForm>
+      <affiliation>Computer Engineer Department, Universidad Americana, Asunción 1029, Paraguay</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Federico</namePart>
+      <namePart type="family">Daumas-Ladouce</namePart>
+      <displayForm>Daumas-Ladouce, Federico</displayForm>
+      <affiliation>Computer Engineer Department, Universidad Americana, Asunción 1029, Paraguay</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Carlos</namePart>
+      <namePart type="family">Sauer Ayala</namePart>
+      <displayForm>Sauer Ayala, Carlos</displayForm>
+      <affiliation>Facultad de Ingeniería, Universidad Nacional de Asunción, San Lorenzo 111421, Paraguay</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Diego P.</namePart>
+      <namePart type="family">Pinto-Roa</namePart>
+      <displayForm>Pinto-Roa, Diego P.</displayForm>
+      <affiliation>Facultad Politécnica, Universidad Nacional de Asunción, San Lorenzo 111421, Paraguay</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Pedro E.</namePart>
+      <namePart type="family">Gardel-Sotomayor</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3161-8383</nameIdentifier>
+      <displayForm>Gardel-Sotomayor, Pedro E.</displayForm>
+      <affiliation>Computer Engineer Department, Universidad Americana, Asunción 1029, Paraguay</affiliation>
+      <affiliation>Facultad de Ciencias y Tecnológia, Universidad Católica Nuestra Señora de la Asunción, Campus Alto Párana, Paraguay</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Julio César</namePart>
+      <namePart type="family">Mello Román</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3698-4043</nameIdentifier>
+      <displayForm>Mello Román, Julio César</displayForm>
+      <affiliation>Computer Engineer Department, Universidad Americana, Asunción 1029, Paraguay</affiliation>
+      <affiliation>Facultad de Ciencias y Tecnología, Universidad Caólica Nuestra Señora de la Asunción, Campus Alto Paraná, Paraguay</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper presents a data set with information on meteorological data and electricity consumption in the department of Alto Paraná, Paraguay. The meteorological data were registered every three hours at the Aeropuerto Guarani, Department of Alto Paraná, which belongs to the Dirección Nacional de Aeronáutica Civil of Paraguay. The final data consists of a total of 22.445 records of temperature, relative humidity, wind speed and atmospheric pressure. On the other hand, the electrical energy consumption data set contains a total of 1.848.947 records, all of them coming from the one hundred and fifteen feeders located throughout the Alto Paraná region of Paraguay. Electrical energy consumption data was provided by Administración Nacional de Electricidad (ANDE). The analysis of this data can yield insights regarding the energy consumption in the area. </abstract>
+   <subject>
+      <topic>Electric current consumption</topic>
+   </subject>
+   <subject>
+      <topic>Meteorological data</topic>
+   </subject>
+   <subject>
+      <topic>Forecasting</topic>
+   </subject>
+   <subject>
+      <topic>Machine learning</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107699</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107699</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107699</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00974-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-09"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009744/S2352340921009744.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

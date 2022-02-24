@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of numerical simulations for aeroelastic control of an aero engine compressor cascade using plasma actuators</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Maria Grazia</namePart>
+      <namePart type="family">De Giorgi</namePart>
+      <displayForm>De Giorgi, Maria Grazia</displayForm>
+      <affiliation>Department Engineering for Innovation, University of Salento, Via per Monteroni, 73100 Lecce, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Valentina</namePart>
+      <namePart type="family">Motta</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2830-2129</nameIdentifier>
+      <displayForm>Motta, Valentina</displayForm>
+      <affiliation>General Electric, Advanced Technology &amp; Sciences, Franklinstraße 14, 10587 Berlin, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Antonio</namePart>
+      <namePart type="family">Suma</namePart>
+      <displayForm>Suma, Antonio</displayForm>
+      <affiliation>Department Engineering for Innovation, University of Salento, Via per Monteroni, 73100 Lecce, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alessia</namePart>
+      <namePart type="family">Laforì</namePart>
+      <displayForm>Laforì, Alessia</displayForm>
+      <affiliation>Department Engineering for Innovation, University of Salento, Via per Monteroni, 73100 Lecce, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The dataset presented here regard the analysis reported in the research article entitled “Comparison of different plasma actuation strategies for aeroelastic control on a linear compressor cascade” De Giorgi et al. (2021) [1]. These data are related to the Computational Fluid Dynamics (CFD) assessment of different plasma actuation strategies for the aeroelastic control of an aero engine compressor cascade in subsonic flow conditions. The authors evaluated the accuracy of numerical computations using experimental results. Here, both experimental and raw data of the CFD simulations are presented. </abstract>
+   <subject>
+      <topic>Load alleviation</topic>
+   </subject>
+   <subject>
+      <topic>Cascade</topic>
+   </subject>
+   <subject>
+      <topic>Flutter</topic>
+   </subject>
+   <subject>
+      <topic>AC-DBD plasma</topic>
+   </subject>
+   <subject>
+      <topic>Flow control</topic>
+   </subject>
+   <subject>
+      <topic>Unsteady flow</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107584</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107584</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107584</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00859-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-12"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008593/S2352340921008593.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

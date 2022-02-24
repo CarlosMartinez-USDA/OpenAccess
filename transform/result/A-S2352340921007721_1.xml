@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107491">
+         <dct:format>application/xml</dct:format>
+         <dct:title>High throughput screening data for a case study of CHO cell culture process development</dct:title>
+         <dct:creator>Qin He</dct:creator>
+         <dct:creator>Jianlin Xu</dct:creator>
+         <dct:creator>Erik Vandermark</dct:creator>
+         <dct:creator>Jun Tian</dct:creator>
+         <dct:creator>Yueming Qian</dct:creator>
+         <dct:creator>Cynthia Chelius</dct:creator>
+         <dct:creator>Jongchan Lee</dct:creator>
+         <dct:creator>Michael C. Borys</dct:creator>
+         <dct:creator>Zheng Jian Li</dct:creator>
+         <dct:creator>Girish Pendse</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>CHO cell culture</rdf:li>
+               <rdf:li>High-throughput screening</rdf:li>
+               <rdf:li>Rosmarinic acid</rdf:li>
+               <rdf:li>Monoclonal antibody titer</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107491</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 Bristol-Myers Squibb. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107491</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107491</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107491</dct:identifier>
+         <bam:articleNumber>107491</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-14T15:16:50Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107491</ja:aid>
+         <ce:article-number>107491</ce:article-number>
+         <ce:pii>S2352-3409(21)00772-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107491</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1369-703X(20)30152-2</ce:pii>
+               <ce:doi>10.1016/j.bej.2020.107637</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">High throughput screening data for a case study of CHO cell culture process development</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007721-92479038e5971dc6542c11c5f6e6d209">
+               <ce:given-name>Qin</ce:given-name>
+               <ce:surname>He</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007721-fa271bb9b902b1e06769c18e07dfd9de"
+                       orcid="0000-0002-6441-0696">
+               <ce:given-name>Jianlin</ce:given-name>
+               <ce:surname>Xu</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:Jianlin.Xu@bms.com">Jianlin.Xu@bms.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007721-a2f5361cc1e124a5466146318faf0348">
+               <ce:given-name>Erik</ce:given-name>
+               <ce:surname>Vandermark</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007721-3c89f2f42be92ab1aa42db808daed74c">
+               <ce:given-name>Jun</ce:given-name>
+               <ce:surname>Tian</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921007721-e13667eca7ba1c0812307f5d6ee38f3e"
+                       orcid="0000-0001-7340-6421">
+               <ce:given-name>Yueming</ce:given-name>
+               <ce:surname>Qian</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921007721-b8363d9226fe1883cd38142d83e5f460"
+                       orcid="0000-0001-5906-8411">
+               <ce:given-name>Cynthia</ce:given-name>
+               <ce:surname>Chelius</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921007721-3b95fcb513040af00cb174f29fdf5004">
+               <ce:given-name>Jongchan</ce:given-name>
+               <ce:surname>Lee</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921007721-edea8fcd0c2d08590cdc3007d03284dc">
+               <ce:given-name>Michael C.</ce:given-name>
+               <ce:surname>Borys</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921007721-ca501092f7f6d48cc0955e53481f1ea9"
+                       orcid="0000-0002-1941-4145">
+               <ce:given-name>Zheng Jian</ce:given-name>
+               <ce:surname>Li</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2352340921007721-4a7c38daaf45e964c4ebad477ab53425">
+               <ce:given-name>Girish</ce:given-name>
+               <ce:surname>Pendse</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007721-23e90d336523810cda8e8949fa96445b">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Biologics Development, Global Product Development and Supply, Bristol Myers Squibb, Devens, MA 01434, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Biologics Development</sa:organization>
+                  <sa:organization>Global Product Development and Supply</sa:organization>
+                  <sa:organization>Bristol Myers Squibb</sa:organization>
+                  <sa:city>Devens</sa:city>
+                  <sa:state>MA</sa:state>
+                  <sa:postal-code>01434</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aBiologics Development, Global Product Development and Supply, Bristol Myers Squibb, Devens, MA 01434, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007721-6cf00a8c19410b63e319faebac4dd297">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Biologics Development, Global Product Development and Supply, Bristol-Myers Squibb, Summit, NJ 07901, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Biologics Development</sa:organization>
+                  <sa:organization>Global Product Development and Supply</sa:organization>
+                  <sa:organization>Bristol-Myers Squibb</sa:organization>
+                  <sa:city>Summit</sa:city>
+                  <sa:state>NJ</sa:state>
+                  <sa:postal-code>07901</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bBiologics Development, Global Product Development and Supply, Bristol-Myers Squibb, Summit, NJ 07901, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="18" month="8" year="2021"/>
+         <ce:date-revised day="11" month="10" year="2021"/>
+         <ce:date-accepted day="13" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara012" view="all">In this article, we present four sets of data from high-throughput screening (HTS) studies of different chemically defined media using an industrially relevant Chinese hamster ovary (CHO) cell line. While complex hydrolysate media was used in the early phase process development and manufacturing of a monoclonal antibody (mAb), here we seek to determine an appropriate chemically defined media for late phase process development. Over 150 combinations of chemically defined basal media, feed media, and basal and feed media supplements, such as polyphenolic flavonoid antioxidants (including rosmarinic acid (RA)), were evaluated in four HTS studies to replace the complex hydrolysate media. Specifically, these four screening studies incorporated custom design of experiment (DOE), one-factor-at-a-time (OFAT), and definitive screening design methodologies for titer improvement. Titer was improved two fold compared to the early phase process using the addition of RA to chemically defined media. This dataset exemplifies how HTS can be used as an effective approach to systematically and statistically determine media composition and supplementation to increase mAb titer. These data were presented in connection with a published paper [1].</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">CHO cell culture</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">High-throughput screening</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Rosmarinic acid</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Monoclonal antibody titer</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

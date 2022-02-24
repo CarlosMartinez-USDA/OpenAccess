@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2022.100054">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Alpha-glucosidase activity of phytochemicals from Phyllanthus amarus leaves via in-silico approaches</dct:title>
+         <dct:creator>Abel K. Oyebamiji</dct:creator>
+         <dct:creator>Emmanuel A. Soetan</dct:creator>
+         <dct:creator>Sunday A. Akintelu</dct:creator>
+         <dct:creator>Ademola O. Ayeleso</dct:creator>
+         <dct:creator>Emmanuel Mukwevho</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>α-glucosidase</rdf:li>
+               <rdf:li>Phyllanthus amarus</rdf:li>
+               <rdf:li>Diabetes</rdf:li>
+               <rdf:li>Docking</rdf:li>
+               <rdf:li>ADME</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine 2 (2022). doi:10.1016/j.prmcm.2022.100054</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:coverDisplayDate>March 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.prmcm.2022.100054</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2022.100054</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2022.100054</dct:identifier>
+         <bam:articleNumber>100054</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-23T11:45:12Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100054</ja:aid>
+         <ce:article-number>100054</ce:article-number>
+         <ce:pii>S2667-1425(22)00015-X</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2022.100054</ce:doi>
+         <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Alpha-glucosidase activity of phytochemicals from <ce:italic>Phyllanthus amarus</ce:italic> leaves via <ce:italic>in-silico</ce:italic> approaches</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S266714252200015X-1dfdb72f4c4a8ff44c1ad9b982dcbdc3">
+               <ce:given-name>Abel K.</ce:given-name>
+               <ce:surname>Oyebamiji</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:abeloyebamiji@gmail.com">abeloyebamiji@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S266714252200015X-c0503f9a1026c8cb5ad12f5b3479ab23">
+               <ce:given-name>Emmanuel A.</ce:given-name>
+               <ce:surname>Soetan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S266714252200015X-905bb8cc72082f5da60e5bb0063c999d">
+               <ce:given-name>Sunday A.</ce:given-name>
+               <ce:surname>Akintelu</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S266714252200015X-26b5889e16e8c1ecf83c5c674aa1eb03">
+               <ce:given-name>Ademola O.</ce:given-name>
+               <ce:surname>Ayeleso</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S266714252200015X-ce408c529e336e76f2f9ac07f210deb7">
+               <ce:given-name>Emmanuel</ce:given-name>
+               <ce:surname>Mukwevho</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:emmanuel.mukwevho@nwu.ac.za">emmanuel.mukwevho@nwu.ac.za</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S266714252200015X-775ab239ce4d3851de84b59e1b48d0d6">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Basic Sciences, Adeleke University, P.M.B. 250, Ede, Osun, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Basic Sciences</sa:organization>
+                  <sa:organization>Adeleke University</sa:organization>
+                  <sa:address-line>P.M.B. 250</sa:address-line>
+                  <sa:city>Ede</sa:city>
+                  <sa:state>Osun</sa:state>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Basic Sciences, Adeleke University, P.M.B. 250, Ede, Osun, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S266714252200015X-c7705a97e9ae7d2ad7fc784c5341bb92">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">School of Chemistry and Chemical Engineering, Beijing Institute of Technology, Beijing 100811, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Chemistry and Chemical Engineering</sa:organization>
+                  <sa:organization>Beijing Institute of Technology</sa:organization>
+                  <sa:city>Beijing</sa:city>
+                  <sa:postal-code>100811</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bSchool of Chemistry and Chemical Engineering, Beijing Institute of Technology, Beijing 100811, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S266714252200015X-d17e6e7f26eee605d2dde8fca0b5f323">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Biochemistry, Faculty of Science, Adeleke University, Osun, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biochemistry</sa:organization>
+                  <sa:organization>Faculty of Science</sa:organization>
+                  <sa:organization>Adeleke University</sa:organization>
+                  <sa:state>Osun</sa:state>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Biochemistry, Faculty of Science, Adeleke University, Osun, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S266714252200015X-db98ae8ea094f7a131b428a81b5249c3">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Biochemistry, Faculty of Natural and Agricultural Science, Mafikeng Campus, North West University, Mmabatho 2735, South Africa</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biochemistry</sa:organization>
+                  <sa:organization>Faculty of Natural and Agricultural Science</sa:organization>
+                  <sa:organization>Mafikeng Campus</sa:organization>
+                  <sa:organization>North West University</sa:organization>
+                  <sa:city>Mmabatho</sa:city>
+                  <sa:postal-code>2735</sa:postal-code>
+                  <sa:country>South Africa</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Biochemistry, Faculty of Natural and Agricultural Science, Mafikeng Campus, North West University, Mmabatho 2735, South Africa</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding authors.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="5" month="12" year="2021"/>
+         <ce:date-revised day="11" month="1" year="2022"/>
+         <ce:date-accepted day="23" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara012" view="all">Diabetes mellitus is a metabolic disease that poses a serious global health challenge. The provision of alternative and complementary medicine to combat the disease has attracted the attention of numerous scientists. In this study, anti<ce:bold>-</ce:bold> α-glucosidase activities of selected seven compounds obtained from <ce:italic>Phyllanthus amarus</ce:italic> leaves were explored using computational chemistry approach. The absorption, distribution, metabolism and excretion (ADME) properties of the compound with the best binding affinity and metformin were examined. The descriptors obtained from the optimized compounds accurately describe anti<ce:bold>-</ce:bold> α-glucosidase activities of the studied compounds. The results showed that Compound <ce:bold>1</ce:bold>[(1<ce:italic>S</ce:italic>,19<ce:italic>R</ce:italic>,21<ce:italic>S</ce:italic>,22<ce:italic>R</ce:italic>,23<ce:italic>R</ce:italic>)-6,7,8,11,12,13,22,23-octahydroxy-3,16-dioxo-2,17,20-trioxatetracyclo[17.3.1.0<ce:sup loc="post">4,9</ce:sup>.0<ce:sup loc="post">10,15</ce:sup>] tricosa-4,6,8,10,12,14-hexaen-21-yl] 3,4,5-trihydroxybenzoate possesses greater capacity to inhibit α-glucosidase than other studied compounds selected from <ce:italic>Phyllanthus amarus</ce:italic> leaves as well as Metformin.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">α-glucosidase</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">
+                  <ce:italic>Phyllanthus amarus</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Diabetes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Docking</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">ADME</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>De novo transcriptomic data of salt tolerant halophytes Dichnathium annulatum (Forssk.) stapf and Urochondra setulosa (Trin.) C.E.Hubb.</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Anita</namePart>
+      <namePart type="family">Mann</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8368-4262</nameIdentifier>
+      <displayForm>Mann, Anita</displayForm>
+      <affiliation>ICAR-Central Soil Salinity Research Institute, Karnal, Haryana 132001, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Naresh</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Naresh</displayForm>
+      <affiliation>ICAR-Central Soil Salinity Research Institute, Karnal, Haryana 132001, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ashwani</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Ashwani</displayForm>
+      <affiliation>ICAR-Central Soil Salinity Research Institute, Karnal, Haryana 132001, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Charu</namePart>
+      <namePart type="family">Lata</namePart>
+      <displayForm>Lata, Charu</displayForm>
+      <affiliation>ICAR-Central Soil Salinity Research Institute, Karnal, Haryana 132001, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Arvind</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Arvind</displayForm>
+      <affiliation>ICAR-Central Soil Salinity Research Institute, Karnal, Haryana 132001, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">B.L.</namePart>
+      <namePart type="family">Meena</namePart>
+      <displayForm>Meena, B.L.</displayForm>
+      <affiliation>ICAR-Central Soil Salinity Research Institute, Karnal, Haryana 132001, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sonam</namePart>
+      <namePart type="family">Gaba</namePart>
+      <displayForm>Gaba, Sonam</displayForm>
+      <affiliation>ICAR-Indian Agricultural Statistical Research Institute, New Delhi 110011 India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Monendra</namePart>
+      <namePart type="family">Grover</namePart>
+      <displayForm>Grover, Monendra</displayForm>
+      <affiliation>ICAR-Indian Agricultural Statistical Research Institute, New Delhi 110011 India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Two halophytes, Dichanthium annulatum (moderately salt tolerant) and Urochondra setulosa (highly salt tolerant) were selected to generate transcriptome at different salinity levels. Sequencing of RNA samples was done on Illumina-Hi-Seq platform for de novo transcriptome assembly from the leaf tissues of D. annulatum at salinity of ECe ∼30 dS/m and of U. setulosa at three salt levels (i.e. ECe ∼30, ∼40 and ∼50 dS/m). DESeq was used for identification of differentially expressed transcripts and a total of 267,196 and 384,442 transcripts were assembled through Trinity in both the plants respectively. A total of 32,246 and 25,479 SSRs were identified respectively in both the plants using MISA perl script with mono and tri-nucleotide repeats as most common motif. </abstract>
+   <subject>
+      <topic>Transcriptomics</topic>
+   </subject>
+   <subject>
+      <topic>Salinity</topic>
+   </subject>
+   <subject>
+      <topic>Halophytes</topic>
+   </subject>
+   <subject>
+      <topic>DEGs</topic>
+   </subject>
+   <subject>
+      <topic>SSR</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107536</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107536</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107536</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00812-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-28"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S235234092100812X/S235234092100812X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

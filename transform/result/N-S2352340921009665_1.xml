@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Simulated late gadolinium enhanced cardiac magnetic resonance imaging dataset from mechanical XCAT phantom including a myocardial infarct</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Evianne</namePart>
+      <namePart type="family">Kruithof</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0354-7813</nameIdentifier>
+      <displayForm>Kruithof, Evianne</displayForm>
+      <affiliation>Eindhoven University of Technology, the Netherland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sina</namePart>
+      <namePart type="family">Amirrajab</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8226-7777</nameIdentifier>
+      <displayForm>Amirrajab, Sina</displayForm>
+      <affiliation>Eindhoven University of Technology, the Netherland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kevin D.</namePart>
+      <namePart type="family">Lau</namePart>
+      <displayForm>Lau, Kevin D.</displayForm>
+      <affiliation>Philips Research Eindhoven, the Netherland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Marcel</namePart>
+      <namePart type="family">Breeuwer</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1822-8970</nameIdentifier>
+      <displayForm>Breeuwer, Marcel</displayForm>
+      <affiliation>Eindhoven University of Technology, the Netherland</affiliation>
+      <affiliation>Philips Healthcare Best, the Netherland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The late enhanced magnetic resonance image dataset in this article is simulated using a mechanistic cardiac phantom that includes an myocardial infarct. Settings of the image simulation pipeline are adjusted such that high- and low-resolution images, with and without slice alignment artifacts, are simulated. Our article on the influence of image artifacts on image-based models of the cardiac electrophysiology is based on this data (Kruithof et al., 2021). This dataset provides image-analysis researchers a reference to perform validation of their methods using the included high-resolution ground truth image, a resource that is often unavailable clinically. </abstract>
+   <subject>
+      <topic>Ground truth magnetic resonance imaging data</topic>
+   </subject>
+   <subject>
+      <topic>Image artifacts</topic>
+   </subject>
+   <subject>
+      <topic>Image resolution</topic>
+   </subject>
+   <subject>
+      <topic>Slice misalignment</topic>
+   </subject>
+   <subject>
+      <topic>Ventricular tachycardia</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107691</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107691</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107691</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00966-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-07"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009665/S2352340921009665.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

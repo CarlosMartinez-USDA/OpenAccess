@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fufo.2022.100114">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Mesquite (Prosopis juliflora) grain flour: new Ingredient with bioactive, nutritional and physical-chemical properties for food applications</dct:title>
+         <dct:creator>Atacy Maciel de Melo Cavalcante</dct:creator>
+         <dct:creator>Anely Maciel de Melo</dct:creator>
+         <dct:creator>Acsa Victoria Ferreira da Silva</dct:creator>
+         <dct:creator>Genésio José da Silva Neto</dct:creator>
+         <dct:creator>Rafaela Cristina Turola Barbi</dct:creator>
+         <dct:creator>Mônica Ikeda</dct:creator>
+         <dct:creator>Gisela Benatti Silva</dct:creator>
+         <dct:creator>Caroline Joy Steel</dct:creator>
+         <dct:creator>Osvaldo Soares da Silva</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>mesquite flour</rdf:li>
+               <rdf:li>antioxidant activity</rdf:li>
+               <rdf:li>phenolic compounds</rdf:li>
+               <rdf:li>bioactive compounds</rdf:li>
+               <rdf:li>by-product</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Future Foods, Journal Pre-proof. doi:10.1016/j.fufo.2022.100114</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Future Foods</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2666-8335</prism:issn>
+         <prism:doi>10.1016/j.fufo.2022.100114</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fufo.2022.100114</prism:url>
+         <dct:identifier>doi:10.1016/j.fufo.2022.100114</dct:identifier>
+         <bam:articleNumber>100114</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-12T06:06:36Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Brazil: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FUFO</ja:jid>
+         <ja:aid>100114</ja:aid>
+         <ce:article-number>100114</ce:article-number>
+         <ce:pii>S2666-8335(22)00002-8</ce:pii>
+         <ce:doi>10.1016/j.fufo.2022.100114</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Mesquite (<ce:italic>Prosopis juliflora</ce:italic>) grain flour: new Ingredient with bioactive, nutritional and physical-chemical properties for food applications</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2666833522000028-7ab80164d4b89e0775cc2b6375fa825c">
+               <ce:given-name>Atacy Maciel de Melo</ce:given-name>
+               <ce:surname>Cavalcante</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2666833522000028-675a4c9df2e445e3112d4634a994058d"
+                       orcid="0000-0001-7795-6682">
+               <ce:given-name>Anely Maciel</ce:given-name>
+               <ce:surname>de Melo</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:anely-maciel@live.com">anely-maciel@live.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2666833522000028-99c7b8ad273b3c3402b349fb7911a5d3">
+               <ce:given-name>Acsa Victoria Ferreira</ce:given-name>
+               <ce:surname>da Silva</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2666833522000028-6a6116b8cba4e3e4c2327b7c9a2cbf0d">
+               <ce:given-name>Genésio José da Silva</ce:given-name>
+               <ce:surname>Neto</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2666833522000028-c122159604e837df53de8034e237380e"
+                       orcid="0000-0001-6100-9226">
+               <ce:given-name>Rafaela Cristina Turola</ce:given-name>
+               <ce:surname>Barbi</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2666833522000028-e5632cd8f6c27073005a296542edbf6d"
+                       orcid="0000-0002-4074-4632">
+               <ce:given-name>Mônica</ce:given-name>
+               <ce:surname>Ikeda</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2666833522000028-907b1eddb8320f830d135d8f6c1f433d">
+               <ce:given-name>Gisela Benatti</ce:given-name>
+               <ce:surname>Silva</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2666833522000028-240d7b64c7b9724039a7cdb37e69e164">
+               <ce:given-name>Caroline Joy</ce:given-name>
+               <ce:surname>Steel</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">4</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2666833522000028-23b462c12b7daf0b3fc68edfdd521b44">
+               <ce:given-name>Osvaldo Soares da</ce:given-name>
+               <ce:surname>Silva</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2666833522000028-d64dbd95e1bd17b710c1a6c603d108cc">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Food Engineering, Federal University of Campina Grande, Technology Center, 58400-000, Campina Grande, PB, Brazil.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Food Engineering</sa:organization>
+                  <sa:organization>Federal University of Campina Grande, Technology Center</sa:organization>
+                  <sa:city>Campina Grande</sa:city>
+                  <sa:state>PB</sa:state>
+                  <sa:postal-code>58400-000</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1Department of Food Engineering, Federal University of Campina Grande, Technology Center, 58400-000, Campina Grande, PB, Brazil.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2666833522000028-cfa31b251cb617f249d85e83e8ac6738">
+               <ce:label>2</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Chemical Engineering, Federal University of Parana, 81531-990, Curitiba, PR, Brazil.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemical Engineering</sa:organization>
+                  <sa:organization>Federal University of Parana</sa:organization>
+                  <sa:city>Curitiba</sa:city>
+                  <sa:state>PR</sa:state>
+                  <sa:postal-code>81531-990</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2Department of Chemical Engineering, Federal University of Parana, 81531-990, Curitiba, PR, Brazil.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2666833522000028-26dd843442f9e5b9bf11204ff50da424">
+               <ce:label>3</ce:label>
+               <ce:textfn id="cetextfn0003">Federal Institute of Education, Science and Technology of Pernambuco, 55560-000, Barreiros, PE, Brazil.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Federal Institute of Education</sa:organization>
+                  <sa:organization>Science and Technology of Pernambuco</sa:organization>
+                  <sa:city>Barreiros</sa:city>
+                  <sa:state>PE</sa:state>
+                  <sa:postal-code>55560-000</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">3Federal Institute of Education, Science and Technology of Pernambuco, 55560-000, Barreiros, PE, Brazil.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2666833522000028-cfa31b251cb617f249d85e83e8ac6738">
+               <ce:label>5</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Chemical Engineering, Federal University of Parana, 81531-990, Curitiba, PR, Brazil.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemical Engineering</sa:organization>
+                  <sa:organization>Federal University of Parana</sa:organization>
+                  <sa:city>Curitiba</sa:city>
+                  <sa:state>PR</sa:state>
+                  <sa:postal-code>81531-990</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">5Department of Chemical Engineering, Federal University of Parana, 81531-990, Curitiba, PR, Brazil.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2666833522000028-6e4c523a88bd625d3cb18c62488a2966">
+               <ce:label>4</ce:label>
+               <ce:textfn id="cetextfn0005">Department of Food Technology, School of Food Engineering, University of Campinas, 3083-872, Campinas, SP, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Food Technology</sa:organization>
+                  <sa:organization>School of Food Engineering</sa:organization>
+                  <sa:organization>University of Campinas</sa:organization>
+                  <sa:city>Campinas</sa:city>
+                  <sa:state>SP</sa:state>
+                  <sa:postal-code>3083-872</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">4Department of Food Technology, School of Food Engineering, University of Campinas, 3083-872, Campinas, SP, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author: Ms Anely Maciel de Melo, Chemical Engineering, Federal University of Paraná, 81531-990 Curitiba, PR, Brazil</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Chemical Engineering, Federal University of Paraná</sa:organization>
+                  <sa:city>Curitiba</sa:city>
+                  <sa:state>PR</sa:state>
+                  <sa:postal-code>81531-990</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara011" view="all">Mesquite (<ce:italic>Prosopis juliflora</ce:italic>) is a pod found in the semiarid Northeast region of Brazil. It is widely used as livestock feed and its by-product (the grain) has potential for human food. Thus, this article aims was to obtain flour from mesquite grains under different drying temperatures (50, 60, and 70ºC) and classify them by their physical-chemical, microstructural, technological, antioxidant, bioactive, and pasting properties. Both the mesquite grain and the mesquite grain flour showed a high amount of proteins and low-fat content. Analyses on morphology and viscosity indicated the presence of starch. Among the temperatures studied, the flour dried at 60 ºC presented the best results for the capacity of water and oil absorption, antioxidant activities, and total phenolic compounds. Seventeen compounds were detected by chromatography, with kaempferol, catechin, and quinine being the most abundant. This confirms the potential of mesquite flour as a relevant source of proteins and phenolic compounds for food products.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0002">Graphical Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara012" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">mesquite flour</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">antioxidant activity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">phenolic compounds</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">bioactive compounds</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">by-product</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

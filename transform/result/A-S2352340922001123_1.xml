@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107900">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Maximum power point tracking dataset for a wind energy conversion system based on a reverse-controller for a multilevel boost converter</dct:title>
+         <dct:creator>José Genaro-González Hernández</dct:creator>
+         <dct:creator>Rubén Salas-Cabrera</dct:creator>
+         <dct:creator>Roberto Vázquez-Bautista</dct:creator>
+         <dct:creator>Luis Manuel Ong-de-la-Cruz</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Wind energy systems</rdf:li>
+               <rdf:li>Power point tracking</rdf:li>
+               <rdf:li>Control law</rdf:li>
+               <rdf:li>Multilevel converters</rdf:li>
+               <rdf:li>Real-time control</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107900</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107900</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107900</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107900</dct:identifier>
+         <bam:articleNumber>107900</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-28T18:37:52Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107900</ja:aid>
+         <ce:article-number>107900</ce:article-number>
+         <ce:pii>S2352-3409(22)00112-3</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107900</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0960-1481(21)00972-1</ce:pii>
+               <ce:doi>10.1016/j.renene.2021.06.106</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Maximum power point tracking dataset for a wind energy conversion system based on a reverse-controller for a multilevel boost converter</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922001123-3cc093ac3e3b6fcb11f0898d3ddf3bbb"
+                       orcid="0000-0002-2126-2304">
+               <ce:given-name>José Genaro-González</ce:given-name>
+               <ce:surname>Hernández</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:jgenaro.gonzalez@itcm.edu.mx">jgenaro.gonzalez@itcm.edu.mx</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922001123-1d354b48ce681ce8fef5fd7ad1b0e052"
+                       orcid="0000-0002-9776-7245">
+               <ce:given-name>Rubén</ce:given-name>
+               <ce:surname>Salas-Cabrera</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922001123-fd207ac3c979b05741f4c7ef39107b3e">
+               <ce:given-name>Roberto</ce:given-name>
+               <ce:surname>Vázquez-Bautista</ce:surname>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922001123-a13e52c04c561034d2c29b71a51cbbf4"
+                       orcid="0000-0002-1155-424X">
+               <ce:given-name>Luis Manuel</ce:given-name>
+               <ce:surname>Ong-de-la-Cruz</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922001123-a70d755562a447c7ec96488a97994bf4">
+               <ce:textfn id="cetextfn0001">Tecnológico Nacional de México, Instituto Tecnológico de Ciudad Madero, Tamaulipas. 89440, México</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Tecnológico Nacional de México</sa:organization>
+                  <sa:organization>Instituto Tecnológico de Ciudad Madero</sa:organization>
+                  <sa:city>Tamaulipas</sa:city>
+                  <sa:postal-code>89440</sa:postal-code>
+                  <sa:country>México</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Tecnológico Nacional de México, Instituto Tecnológico de Ciudad Madero, Tamaulipas. 89440, México</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="18" month="8" year="2021"/>
+         <ce:date-revised day="26" month="1" year="2022"/>
+         <ce:date-accepted day="28" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">The database here contains experimental data relevant to an original maximum power point tracking controller for an experimental direct-drive full-variable-speed full-rated converter Type IV Wind Energy Conversion System in standalone operation. The main goal is to maximize power extraction by controlling the duty cycle of a multilevel boost converter, which is responsible for adjusting the angular speed of a permanent magnet synchronous generator coupled to a three-phase induction motor that emulates the wind turbine. Two data acquisition cards with the appropriate signal conditioners were used to obtain measurements of the generator angular speed, output current, and output voltage at the terminals of the multilevel converter. In addition, data related to power coefficient, tip speed ratio, duty cycle, and output power are also included. Two PCs in a Linux real-time platform were used for the emulation, control, and data collection processes. On the other hand, Matlab was used to analyze the data to evaluate the controller's performance to maximize wind power extraction. The database is freely accessible at <ce:inter-ref id="interref0001"
+                                xlink:role="http://www.elsevier.com/xml/linking-roles/research-data"
+                                xlink:href="http://dx.doi.org/10.17632/363d24mcb6.2"
+                                xlink:type="simple">http://dx.doi.org/10.17632/363d24mcb6.2</ce:inter-ref>. This dataset [1] represents a resource for wind power specialists who develop algorithms for wind energy optimization.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Wind energy systems</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0002a">Power point tracking</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0002b">Control law</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0002c">Multilevel converters</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0002d">Real-time control</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

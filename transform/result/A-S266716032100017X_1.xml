@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100018">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Effect of quercetin on lipid membrane rigidity: assessment by atomic force microscopy and molecular dynamics simulations</dct:title>
+         <dct:creator>Jad Eid</dct:creator>
+         <dct:creator>Alia Jraij</dct:creator>
+         <dct:creator>Hélène Greige-Gerges</dct:creator>
+         <dct:creator>Luca Monticelli</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Quercetin</rdf:li>
+               <rdf:li>Lipoid E80</rdf:li>
+               <rdf:li>Young modulus</rdf:li>
+               <rdf:li>Area compressibility modulus</rdf:li>
+               <rdf:li>Molecular dynamics</rdf:li>
+               <rdf:li>AFM</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100018</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100018</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100018</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100018</dct:identifier>
+         <bam:articleNumber>100018</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-06-19T13:50:28Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100018</ja:aid>
+         <ce:article-number>100018</ce:article-number>
+         <ce:pii>S2667-1603(21)00017-X</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100018</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Effect of quercetin on lipid membrane rigidity: assessment by atomic force microscopy and molecular dynamics simulations</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S266716032100017X-8949dd3613c27c59a50981c2c7243f36">
+               <ce:given-name>Jad</ce:given-name>
+               <ce:surname>Eid</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S266716032100017X-d10882b366db553953afd5f27d31aa0b">
+               <ce:given-name>Alia</ce:given-name>
+               <ce:surname>Jraij</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:ajraij@ul.edu.lb">ajraij@ul.edu.lb</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S266716032100017X-e0e039487cf5b34a82d7497a8de3f5c9">
+               <ce:given-name>Hélène</ce:given-name>
+               <ce:surname>Greige-Gerges</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S266716032100017X-f397e2c6e36b53913bcf0aeca044b77a">
+               <ce:given-name>Luca</ce:given-name>
+               <ce:surname>Monticelli</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:luca.monticelli@inserm.fr">luca.monticelli@inserm.fr</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S266716032100017X-154fadb032462c6b44e237123099d8a6">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Bioactive Molecules Research Laboratory, Doctoral School of Sciences and Technologies, Faculty of Sciences, Lebanese University, Lebanon</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Bioactive Molecules Research Laboratory</sa:organization>
+                  <sa:organization>Doctoral School of Sciences and Technologies, Faculty of Sciences, Lebanese University</sa:organization>
+                  <sa:country>Lebanon</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aBioactive Molecules Research Laboratory, Doctoral School of Sciences and Technologies, Faculty of Sciences, Lebanese University, Lebanon</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S266716032100017X-e0d059c835f0f33cdace4145b04bc775">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Molecular Microbiology and Structural Biochemistry (MMSB), CNRS &amp; Univ. Claude Bernard Lyon I, UMR 5086, Lyon F-69007, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Molecular Microbiology and Structural Biochemistry (MMSB), CNRS &amp; Univ. Claude Bernard Lyon I</sa:organization>
+                  <sa:address-line>UMR 5086</sa:address-line>
+                  <sa:city>Lyon</sa:city>
+                  <sa:postal-code>F-69007</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bMolecular Microbiology and Structural Biochemistry (MMSB), CNRS &amp; Univ. Claude Bernard Lyon I, UMR 5086, Lyon F-69007, France</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding authors.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">AFM measures and MD simulations show that quercetin reduces the elastic moduli of lipid bilayer membranes.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">MD simulations show that membranes also get thinner as the acyl chains get more disordered, and lipid diffusion coefficients increase.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Changes in membrane properties can be interpreted in the light of quercetin localization and orientation in the membrane.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara011" view="all">Quercetin (3,3ʹ,4ʹ,5,7-pentahydroxyl-flavone) is a natural flavonoid with many valuable biological effects, but its solubility in water is low, posing major limitations in applications. Quercetin encapsulation in liposomes increases its bioavailability; the drug effect on liposome elastic properties is required for formulation development. Here, we quantify the effect of quercetin molecules on the rigidity of lipoid E80 liposomes using atomic force microscopy (AFM) and molecular dynamics (MD) simulations. AFM images show no effect of quercetin molecules on liposomes morphology and structure. However, AFM force curves suggest that quercetin softens lipid membranes; the Young modulus measured for liposomes encapsulating quercetin is smaller than that determined for blank liposomes. We then used MD simulations to interpret the effect of quercetin on membrane rigidity in terms of molecular interactions. The decrease in membrane rigidity was confirmed by the simulations, which also revealed that quercetin affects structural and dynamic properties: membrane thickness is decreased, acyl chains disorder is increased, and diffusion coefficients of lipid molecules are also increased. Such changes appear to be related to the preferential localization of quercetin within the membrane, near the interface between the hydrophobic core and polar head groups of the lipids.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara012" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0004">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Quercetin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Lipoid E80</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Young modulus</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Area compressibility modulus</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Molecular dynamics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">AFM</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

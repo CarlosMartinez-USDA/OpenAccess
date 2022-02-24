@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107493">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data of macroinvertebrates assemblage across different stretches of an urban Palmiet River in Durban, South Africa</dct:title>
+         <dct:creator>J. Lebepe</dct:creator>
+         <dct:creator>N. Khumalo</dct:creator>
+         <dct:creator>A. Mnguni</dct:creator>
+         <dct:creator>S. Pillay</dct:creator>
+         <dct:creator>S. Mdluli</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Urban River</rdf:li>
+               <rdf:li>Water pollution</rdf:li>
+               <rdf:li>Anthropogenic litter</rdf:li>
+               <rdf:li>Integrated habitat assessment score</rdf:li>
+               <rdf:li>Amphipoda</rdf:li>
+               <rdf:li>Notonemouridae</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107493</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107493</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107493</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107493</dct:identifier>
+         <bam:articleNumber>107493</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-16T19:12:11Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107493</ja:aid>
+         <ce:article-number>107493</ce:article-number>
+         <ce:pii>S2352-3409(21)00774-5</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107493</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data of macroinvertebrates assemblage across different stretches of an urban Palmiet River in Durban, South Africa</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007745-0972b3e7478e3b79a5fc2d1788979cbb"
+                       orcid="0000-0001-9802-2846">
+               <ce:given-name>J.</ce:given-name>
+               <ce:surname>Lebepe</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:lebepej@ukzn.ac.za">lebepej@ukzn.ac.za</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007745-287caf0c37cb45dbdc089b7ba0427864">
+               <ce:given-name>N.</ce:given-name>
+               <ce:surname>Khumalo</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007745-40d053dead6dd5d6c52e0779f4259122"
+                       orcid="0000-0002-1854-5573">
+               <ce:given-name>A.</ce:given-name>
+               <ce:surname>Mnguni</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007745-7127ee78f8c80176f811aa81acf52a7e">
+               <ce:given-name>S.</ce:given-name>
+               <ce:surname>Pillay</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921007745-12ae586363caeafbb6d2e94aa9651928">
+               <ce:given-name>S.</ce:given-name>
+               <ce:surname>Mdluli</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007745-907f3015a155368c8c7c6b85a3ab5810">
+               <ce:textfn id="cetextfn0001">School of Life Sciences, University of KwaZulu-Natal, Private Bag x54001, Durban 4000, South Africa</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Life Sciences</sa:organization>
+                  <sa:organization>University of KwaZulu-Natal</sa:organization>
+                  <sa:address-line>Private Bag x54001</sa:address-line>
+                  <sa:city>Durban</sa:city>
+                  <sa:postal-code>4000</sa:postal-code>
+                  <sa:country>South Africa</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">School of Life Sciences, University of KwaZulu-Natal, Private Bag x54001, Durban 4000, South Africa</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="29" month="9" year="2021"/>
+         <ce:date-accepted day="14" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">Urban rivers have been overlooked as they are regarded as unnatural with poor ecological conditions to support aquatic life. This dataset presents the abundance and taxa richness of macroinvertebrates collected in an urban Palmiet River, which showed highly variable stretches with respect to water quality and physical habitat availability. A YSI 556 MPS handheld multiparameter instrument was used to measure physical variables of the water, whereas samples were taken using sampling bottles and kept in the fridge prior to nutrient analysis. Habitat assessment was carried out following the integrated habitat assessment score (IHAS) protocol. Macroinvertebrates were collected using modified SASS5 protocol, where stone, vegetation, and gravel sand, and mud biotopes were sampled. Macroinvertebrates were identified to family levels, and abundance and taxa richness were calculated. This data affirms the capacity of urban rivers to harbor aquatic biota and to self-purify along the longitudinal gradient. The data further attest that the response of urban rivers to anthropogenic activities does not differ from natural streams, and the assemblage of macroinvertebrates is driven by water quality and physical habitat. Moreover, the role played by anthropogenic litter in the absence of natural habitat is stressed. Lastly, this data can guide urban ecologists when designing studies for highly variable urban river systems as it illustrates the dynamics of urban ecosystems and their potential to harbor aquatic biota.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Urban River</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Water pollution</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Anthropogenic litter</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Integrated habitat assessment score</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Amphipoda</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Notonemouridae</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

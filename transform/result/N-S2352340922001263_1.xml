@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Transcriptomic dataset for early inflorescence stages of oil palm in response to defoliation stress</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ardha</namePart>
+      <namePart type="family">Apriyanto</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9032-2983</nameIdentifier>
+      <displayForm>Apriyanto, Ardha</displayForm>
+      <affiliation>Research and Development, PT. Astra Agro Lestari Tbk, Jl. Puloayang Raya Blok OR I, Kawasan Industri Pulogadung, Jakarta Timur, Indonesia</affiliation>
+      <affiliation>Biopolymer Analytics, Institute of Biochemistry and Biology, University of Potsdam, Karl-Liebknecht-Str. 24-25, Building 20, Potsdam-Golm, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Walter</namePart>
+      <namePart type="family">Ajambang</namePart>
+      <displayForm>Ajambang, Walter</displayForm>
+      <affiliation>Institute of Agricultural Research for Development, Oil Palm Research Centre. BP 243, Douala, Cameroon</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-31</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Oil palm breeding and seed development have been hindered due to the male parent's incapacity to produce male inflorescence as a source of pollen under normal conditions. On the other hand, a young oil palm plantation has a low pollination rate due to a lack of male flowers. These are the common problem of sex ratio in the oil palm industry. Nevertheless, the regulation of sex ratio in oil palm plants is a complex mechanism and remains an open question until now. Researchers have previously used complete defoliation to induce male inflorescences, but the biological and molecular mechanisms underlying this morphological change have yet to be discovered. Here, we present an RNA-seq dataset from three early stages of an oil palm inflorescence under normal conditions and complete defoliation stress. This transcriptomic dataset is a valuable resource to improve our understanding of sex determination mechanisms in oil palm inflorescence. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Complete defoliation</topic>
+   </subject>
+   <subject>
+      <topic>Flower development</topic>
+   </subject>
+   <subject>
+      <topic>Leaf axil</topic>
+   </subject>
+   <subject>
+      <topic>NGS</topic>
+   </subject>
+   <subject>
+      <topic>RNA-seq</topic>
+   </subject>
+   <subject>
+      <topic>Sex determination</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">31</text>
+         <extent unit="pages">
+            <start>107914</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107914</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107914</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00126-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-02-01"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001263/S2352340922001263.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

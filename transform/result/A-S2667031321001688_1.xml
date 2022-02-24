@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100186">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Central nervous system depressant activity of ethanol extract of Motandra guineensis (Thonn) AD. aerial parts in mice</dct:title>
+         <dct:creator>Margaret O. Sofidiya</dct:creator>
+         <dct:creator>Ayomiposi M. Alokun</dct:creator>
+         <dct:creator>Muyiwa S. Fageyinbo</dct:creator>
+         <dct:creator>Abidemi J. Akindele</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Motandra guineensis</rdf:li>
+               <rdf:li>Apocynaceae</rdf:li>
+               <rdf:li>CNS depressant</rdf:li>
+               <rdf:li>Acute toxicity</rdf:li>
+               <rdf:li>GC–MS</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100186</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100186</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100186</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100186</dct:identifier>
+         <bam:articleNumber>100186</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-29T19:46:02Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100186</ja:aid>
+         <ce:article-number>100186</ce:article-number>
+         <ce:pii>S2667-0313(21)00168-8</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100186</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Central nervous system depressant activity of ethanol extract of <ce:italic>Motandra guineensis</ce:italic> (Thonn) AD. aerial parts in mice</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001688-14b2cadc36bcd745a25578d4297c9bec">
+               <ce:given-name>Margaret O.</ce:given-name>
+               <ce:surname>Sofidiya</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:msofidiya@unilag.edu.ng">msofidiya@unilag.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001688-cae76ca5ec3cd51dff44d1f4a0fea5f6">
+               <ce:given-name>Ayomiposi M.</ce:given-name>
+               <ce:surname>Alokun</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001688-db7cec1e2a2c9b7fa4f97c63f894be59">
+               <ce:given-name>Muyiwa S.</ce:given-name>
+               <ce:surname>Fageyinbo</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001688-37ccdf81839cfb75de5278921e0d9d00">
+               <ce:given-name>Abidemi J.</ce:given-name>
+               <ce:surname>Akindele</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001688-e69fc1c40c9c94fd01fb7b4f5bc5e06a">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Pharmacognosy, Faculty of Pharmacy, University of Lagos, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacognosy, Faculty of Pharmacy</sa:organization>
+                  <sa:organization>University of Lagos</sa:organization>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Pharmacognosy, Faculty of Pharmacy, University of Lagos, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001688-fbcdb69d2dd77e1effa599a329970679">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Pharmacology and Therapeutics, Faculty of Basic Clinical Sciences, University of Medical Sciences, Ondo City, Ondo-State, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacology and Therapeutics, Faculty of Basic Clinical Sciences</sa:organization>
+                  <sa:organization>University of Medical Sciences</sa:organization>
+                  <sa:city>Ondo City</sa:city>
+                  <sa:state>Ondo-State</sa:state>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Pharmacology and Therapeutics, Faculty of Basic Clinical Sciences, University of Medical Sciences, Ondo City, Ondo-State, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001688-f0356f3909b170c454ae92dccb918660">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Pharmacology, Therapeutics &amp; Toxicology, Faculty of Basic Medical Sciences, College of Medicine, University of Lagos, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacology, Therapeutics &amp; Toxicology, Faculty of Basic Medical Sciences</sa:organization>
+                  <sa:organization>College of Medicine, University of Lagos</sa:organization>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Pharmacology, Therapeutics &amp; Toxicology, Faculty of Basic Medical Sciences, College of Medicine, University of Lagos, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="5" month="11" year="2021"/>
+         <ce:date-revised day="25" month="11" year="2021"/>
+         <ce:date-accepted day="29" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara012" view="all">
+                  <ce:italic>Motandra guineensis</ce:italic> Thonn AD. (Apocynaceae) is used for the management of pain and as a sedative in the treatment of insanity in Nigerian traditional medicine. The study investigated the neuropharmacological activities of the aerial parts of <ce:italic>M. guineensis</ce:italic> in mice.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Methods</ce:section-title>
+               <ce:simple-para id="spara013" view="all">Classical models of tail suspension, forced swim, open field, hole board, elevated plus maze, and sodium pentobarbital-induced sleeping time tests were employed and the extract was administered at doses of 50,100 and 200 mg/kg, p.o. Oral acute toxicity test was done at the dose of 2000 mg/kg. The extract was also subjected to phytochemical tests and GC–MS analysis.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara014" view="all">In tail suspension test, the extract at the dose of 200 mg/kg significantly reduced immobility time of mice compared to control while in the forced swim test, immobility time of the mice decreased in a dose-dependant manner. In the open field test, there was a significant and dose-dependant reduction in the number of lines and squares crossed compared with control. The number of head dips in the hole-board test was decreased in the extract treated groups compared to control. The extract significantly increased the time spent in the open arms of elevated plus-maze apparatus at higher doses (100 and 200 mg/kg) compared to control. The phenobarbitone-induced sleeping time was prolonged by the extract at all doses compared to control. There was no death recorded for the extract at the dose of 2000 mg/kg.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusion</ce:section-title>
+               <ce:simple-para id="spara015" view="all">The results indicate possible CNS depressant effect of the ethanol extract of <ce:italic>M.</ce:italic> guineensis, thus support the use of the plant as a sedative in the treatment of insanity in Nigerian traditional medicine.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Motandra guineensis</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Apocynaceae</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">CNS depressant</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Acute toxicity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">GC–MS</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

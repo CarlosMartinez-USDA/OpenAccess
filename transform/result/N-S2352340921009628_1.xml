@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A high-resolution mass spectrometry based proteomic dataset of human regulatory T cells</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Harshi</namePart>
+      <namePart type="family">Weerakoon</namePart>
+      <displayForm>Weerakoon, Harshi</displayForm>
+      <affiliation>Precision and Systems Biomedicine Laboratory, QIMR Berghofer Medical Research Institute, Herston, QLD, Australia</affiliation>
+      <affiliation>School of Biomedical Sciences, The University of Queensland, Brisbane, QLD, Australia</affiliation>
+      <affiliation>Department of Biochemistry, Faculty of Medicine and Allied Sciences, Rajarata University of Sri Lanka, Saliyapura, Sri Lanka</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">John J.</namePart>
+      <namePart type="family">Miles</namePart>
+      <displayForm>Miles, John J.</displayForm>
+      <affiliation>Human Immunity Laboratory, QIMR Berghofer Medical Research Institute, Herston, QLD, Australia</affiliation>
+      <affiliation>Australian Institute of Tropical Health and Medicine, James Cook University, Cairns, QLD, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ailin</namePart>
+      <namePart type="family">Lepletier</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1371-7313</nameIdentifier>
+      <displayForm>Lepletier, Ailin</displayForm>
+      <affiliation>Human Immunity Laboratory, QIMR Berghofer Medical Research Institute, Herston, QLD, Australia</affiliation>
+      <affiliation>Laboratory of Vaccines for the Developing World, Institute for Glycomics, Southport, QLD, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michelle M.</namePart>
+      <namePart type="family">Hill</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1134-0951</nameIdentifier>
+      <displayForm>Hill, Michelle M.</displayForm>
+      <affiliation>Precision and Systems Biomedicine Laboratory, QIMR Berghofer Medical Research Institute, Herston, QLD, Australia</affiliation>
+      <affiliation>Centre for Clinical Research, Faculty of Medicine, The University of Queensland, Brisbane, QLD, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Regulatory T cells (Tregs) play a core role in maintaining immune tolerance, homeostasis, and host health. High-resolution analysis of the Treg proteome is required to identify enriched biological processes and pathways distinct to this important immune cell lineage. We present a comprehensive proteomic dataset of Tregs paired with conventional CD4⁺ (Conv CD4⁺) T cells in healthy individuals. Tregs and Conv CD4⁺ T cells were sorted to high purity using dual magnetic bead-based and flow cytometry-based methodologies. Proteins were trypsin-digested and analysed using label-free data-dependent acquisition mass spectrometry (DDA-MS) followed by label free quantitation (LFQ) proteomics analysis using MaxQuant software. Approximately 4,000 T cell proteins were identified with a 1% false discovery rate, of which approximately 2,800 proteins were consistently identified and quantified in all the samples. Finally, flow cytometry with a monoclonal antibody was used to validate the elevated abundance of the protein phosphatase CD148 in Tregs. This proteomic dataset serves as a reference point for future mechanistic and clinical T cell immunology and identifies receptors, processes, and pathways distinct to Tregs. Collectively, these data will lead to a better understanding of Treg immunophysiology and potentially reveal novel leads for therapeutics seeking Treg regulation. </abstract>
+   <subject>
+      <topic>Regulatory T cell</topic>
+   </subject>
+   <subject>
+      <topic>Conventional T cell</topic>
+   </subject>
+   <subject>
+      <topic>Proteomics</topic>
+   </subject>
+   <subject>
+      <topic>Tandem mass spectrometry</topic>
+   </subject>
+   <subject>
+      <topic>LC-MS/MS</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107687</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107687</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107687</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00962-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-04"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009628/S2352340921009628.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

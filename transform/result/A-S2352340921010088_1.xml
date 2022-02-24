@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107733">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Neural activity in self-identified claustrophobic individuals under in-vivo stimuli: A human electroencephalography dataset</dct:title>
+         <dct:creator>Dunya Moradi</dct:creator>
+         <dct:creator>Fariborz Rahimi</dct:creator>
+         <dct:creator>Reza Eyvazpour</dct:creator>
+         <dct:creator>Ali Jahan</dct:creator>
+         <dct:creator>Seyed Hossein Rasta</dct:creator>
+         <dct:creator>Mahdad Esmaeili</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Electroencephalographic</rdf:li>
+               <rdf:li>EEG</rdf:li>
+               <rdf:li>Claustrophobia</rdf:li>
+               <rdf:li>in-vivo stimuli</rdf:li>
+               <rdf:li>Chamber</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107733</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107733</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107733</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107733</dct:identifier>
+         <bam:articleNumber>107733</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-17T17:58:55Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107733</ja:aid>
+         <ce:article-number>107733</ce:article-number>
+         <ce:pii>S2352-3409(21)01008-8</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107733</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Neural activity in self-identified claustrophobic individuals under in-vivo stimuli: A human electroencephalography dataset</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010088-8ab492601e0ac9cedeedf5edabe1ff82">
+               <ce:given-name>Dunya</ce:given-name>
+               <ce:surname>Moradi</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010088-12275c983ad0bfc3370c8326966e6db2"
+                       orcid="0000-0001-6689-8210">
+               <ce:given-name>Fariborz</ce:given-name>
+               <ce:surname>Rahimi</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:frahimi@ubonab.ac.ir">frahimi@ubonab.ac.ir</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010088-0b4e64ca5ee5cbeb08a913d1ef1764e6"
+                       orcid="0000-0002-8937-4652">
+               <ce:given-name>Reza</ce:given-name>
+               <ce:surname>Eyvazpour</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:r_eyvazpour@elec.iust.ac.ir">r_eyvazpour@elec.iust.ac.ir</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010088-e4eaef4291832371019d334dd67e93fe">
+               <ce:given-name>Ali</ce:given-name>
+               <ce:surname>Jahan</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0003" type="email" xlink:href="mailto:jahana@tbzmed.ac.ir">jahana@tbzmed.ac.ir</ce:e-address>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921010088-4f6e55c360d893371843e95c030ad727">
+               <ce:given-name>Seyed Hossein</ce:given-name>
+               <ce:surname>Rasta</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0004" type="email" xlink:href="mailto:s.h.rasta@abdn.ac.uk">s.h.rasta@abdn.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921010088-1a017385f73d9c7284bd81bf1ba7055b"
+                       orcid="0000-0002-4733-8936">
+               <ce:given-name>Mahdad</ce:given-name>
+               <ce:surname>Esmaeili</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0005" type="email" xlink:href="mailto:esmailim@tbzmed.ac.ir">esmailim@tbzmed.ac.ir</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010088-af7e478a224ef7206946e65c13abd705">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Biomedical Engineering, Faculty of Advanced Medical Sciences, Tabriz University of Medical Sciences, Tabriz, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biomedical Engineering</sa:organization>
+                  <sa:organization>Faculty of Advanced Medical Sciences</sa:organization>
+                  <sa:organization>Tabriz University of Medical Sciences</sa:organization>
+                  <sa:city>Tabriz</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Biomedical Engineering, Faculty of Advanced Medical Sciences, Tabriz University of Medical Sciences, Tabriz, Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010088-5e780264257adff13b7635d114a28a5a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Electrical Engineering, Faculty of Engineering, University of Bonab, Bonab, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Electrical Engineering</sa:organization>
+                  <sa:organization>Faculty of Engineering</sa:organization>
+                  <sa:organization>University of Bonab</sa:organization>
+                  <sa:city>Bonab</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Electrical Engineering, Faculty of Engineering, University of Bonab, Bonab, Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010088-29725c12fbd1c40901ad198edb544a34">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Biomedical Engineering, School of Electrical Engineering, Iran University of Science and Technology, Tehran, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biomedical Engineering</sa:organization>
+                  <sa:organization>School of Electrical Engineering</sa:organization>
+                  <sa:organization>Iran University of Science and Technology</sa:organization>
+                  <sa:state>Tehran</sa:state>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Biomedical Engineering, School of Electrical Engineering, Iran University of Science and Technology, Tehran, Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921010088-d7f8d6f5797eaefb71e0abf39a68b879">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Speech and Language Pathology, Faculty of Rehabilitation sciences, Tabriz University of Medical Sciences, Tabriz, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Speech and Language Pathology</sa:organization>
+                  <sa:organization>Faculty of Rehabilitation sciences</sa:organization>
+                  <sa:organization>Tabriz University of Medical Sciences</sa:organization>
+                  <sa:city>Tabriz</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Speech and Language Pathology, Faculty of Rehabilitation sciences, Tabriz University of Medical Sciences, Tabriz, Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921010088-7efcd7757e3d842e8c19292bc147ea71">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">School of Biomedical Sciences, University of Aberdeen, Aberdeen, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Biomedical Sciences</sa:organization>
+                  <sa:organization>University of Aberdeen</sa:organization>
+                  <sa:state>Aberdeen</sa:state>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eSchool of Biomedical Sciences, University of Aberdeen, Aberdeen, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding authors.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="27" month="10" year="2021"/>
+         <ce:date-revised day="8" month="12" year="2021"/>
+         <ce:date-accepted day="16" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara004" view="all">The electrocortical activity in claustrophobic situations is a very limited field of study and has recently caught researchers’ attention. This article represents a set of electroencephalographic (EEG) data obtained from twenty-two participants. The volunteers include 9 participants with self-identified claustrophobia and 13 healthy controls under in-vivo stimuli. The EEG data were recorded using Mitsar 31-channel EEG system. Before cortical signal recording, Individuals were asked to identify themselves as healthy controls or claustrophobic participants. The EEG data collection process consisted of three experimental conditions. In all conditions, the participants were asked to stay calm and keep their eyes open. The first experimental condition was at seated resting state in a relatively large and well-lit laboratory (8m × 15m) area. In the second experimental condition, the subjects entered a moderately-lit chamber and repeated the previous resting situation. The final condition of the EEG data acquisition was performed in the same chamber but with reduced dimensions. For each experimental condition, duration of data collection was approximately 300 s. This data can be used to understand the brain's response in claustrophobic situations through various statistical or data-driven methods.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Electroencephalographic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">EEG</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Claustrophobia</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">in-vivo stimuli</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Chamber</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

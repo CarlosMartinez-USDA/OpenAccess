@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2022.100063">
+         <dct:format>application/xml</dct:format>
+         <dct:title>De nove transcriptome sequencing identifies genes involved in aconitine-type alkaloids biosynthesis in Aconitum kusnezoffii Reichb.</dct:title>
+         <dct:creator>Selinge Bai</dct:creator>
+         <dct:creator>Saqier Sartagnuud</dct:creator>
+         <dct:creator>Tu-ya Wang</dct:creator>
+         <dct:creator>Gui-hua Bao</dct:creator>
+         <dct:creator>Shu-yin Bao</dct:creator>
+         <dct:creator>Wuliji Ao</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Aconitum kusnezoffii Reichb.</rdf:li>
+               <rdf:li>aconitine</rdf:li>
+               <rdf:li>mesaconitine</rdf:li>
+               <rdf:li>hypaconitine</rdf:li>
+               <rdf:li>aconitine-type alkaloids biosynthesis</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine, Journal Pre-proof. doi:10.1016/j.prmcm.2022.100063</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2022 Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:doi>10.1016/j.prmcm.2022.100063</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2022.100063</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2022.100063</dct:identifier>
+         <bam:articleNumber>100063</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-02-04T22:42:10Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100063</ja:aid>
+         <ce:article-number>100063</ce:article-number>
+         <ce:pii>S2667-1425(22)00024-0</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2022.100063</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">De nove transcriptome sequencing identifies genes involved in aconitine-type alkaloids biosynthesis in <ce:italic>Aconitum kusnezoffii</ce:italic> Reichb.</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667142522000240-ef98189d7ac16a94a925833b980d9a6d">
+               <ce:given-name>Selinge</ce:given-name>
+               <ce:surname>Bai</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">#</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:selinge2000@163.com">selinge2000@163.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667142522000240-4540f4786b8bcf220f92b64eb080d764">
+               <ce:given-name>Saqier</ce:given-name>
+               <ce:surname>Sartagnuud</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">#</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:1165515784@qq.com">1165515784@qq.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667142522000240-ca613c3a4b3bc6fdaeb14403ccd26022">
+               <ce:given-name>Tu-ya</ce:given-name>
+               <ce:surname>Wang</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0003" type="email" xlink:href="mailto:18347549168@qq.com">18347549168@qq.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667142522000240-f95d2a2e697463c60e0406ea8be6c851">
+               <ce:given-name>Gui-hua</ce:given-name>
+               <ce:surname>Bao</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0004" type="email" xlink:href="mailto:bghhtlg_123@163.com">bghhtlg_123@163.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667142522000240-faea68fd07e08624e58b39fe85c818b7"
+                       orcid="0000-0003-4472-4804">
+               <ce:given-name>Shu-yin</ce:given-name>
+               <ce:surname>Bao</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0005" type="email" xlink:href="mailto:baoshuyin8881@163.com">baoshuyin8881@163.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667142522000240-8254e746fc4329571b592e3cc8dc0944">
+               <ce:given-name>Wuliji</ce:given-name>
+               <ce:surname>Ao</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0006" type="email" xlink:href="mailto:wuliji@126.com">wuliji@126.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667142522000240-cf51d46d9d453590e3d4f949af8cc8fd">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">Medical College, Inner Mongolia University for Nationalities, Tongliao 028000, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Medical College</sa:organization>
+                  <sa:organization>Inner Mongolia University for Nationalities</sa:organization>
+                  <sa:city>Tongliao</sa:city>
+                  <sa:postal-code>028000</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1Medical College, Inner Mongolia University for Nationalities, Tongliao 028000, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667142522000240-d921c425aee7b3222842061584638f0a">
+               <ce:label>2</ce:label>
+               <ce:textfn id="cetextfn0002">College of Traditional Mongolian Medicine, Inner Mongolia University for Nationalities, Tongliao 028000, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>College of Traditional Mongolian Medicine</sa:organization>
+                  <sa:organization>Inner Mongolia University for Nationalities</sa:organization>
+                  <sa:city>Tongliao</sa:city>
+                  <sa:postal-code>028000</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2College of Traditional Mongolian Medicine, Inner Mongolia University for Nationalities, Tongliao 028000, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>#</ce:label>
+               <ce:note-para id="notep0001" view="all">Selinge Bai, Saqier Sartagnuud: these authors contributed equally to this work.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:section-title id="cesectitle0002">Ethnopharmacological relevance</ce:section-title>
+               <ce:simple-para id="spara006" view="all">
+                  <ce:italic>Aconitum kusnezoffii</ce:italic> Reichb. is one of the plants of <ce:italic>Aconitum</ce:italic> genus, and it′s root, flower, bud, and leaf has been used for traditional Mongolian medicine to bactericidal, relieve pain, collapse, rheumatic fever and so on, according to the Pharmacopoeia of the People's Republic of China 2021.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:section-title id="cesectitle0003">Aim of the study</ce:section-title>
+               <ce:simple-para id="spara007" view="all">We aimed to reveal genes involved in the biosynthesis and accumulation of the three major medicinal components (aconitine, mesaconitine and hypaconitine) of <ce:italic>Aconitum kusnezoffii</ce:italic> Reichb.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Materials and Methods</ce:section-title>
+               <ce:simple-para id="spara008" view="all">
+                  <ce:italic>Aconitum kusnezoffii</ce:italic> Reichb. samples of root, flower, leaf, and stem were collected for <ce:italic>de novo</ce:italic> transcriptome sequencing and bioinformatics analysis. Dry samples of root, flower, leaf, and stem were used for quantitative analysis of aconitine, mesaconitine and hypaconitine by HPLC analysis.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara009" view="all">the HPLC results show the content of aconitine, mesaconitine and hypaconitine was high in the root, then in flower, and low in leaf and stem. Mesaconitine was the most abound in all the four tissues. Transcriptome sequencing analysis shows a total of 145117 unigenes were obtained, and 38540 of the unigenes have complete CDS. Differential analysis indicated secondary metabolite related pathways were significantly enriched in flower, including diterpenoid, alkaloid, and flavonoid biosynthesis pathway. And 55 genes related to aconitine, mesaconitine and hypaconitine biosynthesis were identified, the expression analysis showed most of the genes were low expressed root, but high expressed in flowers. Nearly 2000 genes were correlated expressed to 5 high expressed GGPS and 1 CPS genes, and 12 genes had protein-protein interaction involved in aconitine, mesaconitine and hypaconitine biosynthesis.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusion</ce:section-title>
+               <ce:simple-para id="spara010" view="all">We performed <ce:italic>de novo</ce:italic> transcriptome analysis of four different tissues of <ce:italic>Aconitum kusnezoffii</ce:italic> Reichb., and identified the genes involved in aconitine, mesaconitine and hypaconitine biosynthesis. The content of aconitine, mesaconitine and hypaconitine in the four tissues of Aconitum kusnezoffii Reichb. was measured. The aconitine, mesaconitine and hypaconitine biosynthesis genes expression and their content in plant tissues were inconsistent, indicated there exist a source-sink relation.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0007">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Aconitum kusnezoffii</ce:italic> Reichb.</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">aconitine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">mesaconitine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">hypaconitine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">aconitine-type alkaloids biosynthesis</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

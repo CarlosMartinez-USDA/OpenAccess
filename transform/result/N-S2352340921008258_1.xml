@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on the Relationships of Signal-To-Cutoff Ratios of Elecsys HIV Antigen/Antibody and Elecsys Syphilis Assays to Subsequent Confirmatory Testing at an Academic Medical Center</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Saurav</namePart>
+      <namePart type="family">Chopra</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5872-0532</nameIdentifier>
+      <displayForm>Chopra, Saurav</displayForm>
+      <affiliation>Department of Pathology, University of Iowa Hospitals and Clinics, 200 Hawkins Drive, Iowa City, IA 52242, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Matthew D.</namePart>
+      <namePart type="family">Krasowski</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0856-8402</nameIdentifier>
+      <displayForm>Krasowski, Matthew D.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Immunoassays are widely used as screening tests for HIV and syphilis in clinical, public health, and research settings. For syphilis, immunoassays are used in 'reverse syphilis algorithms' that start with treponemal tests such as syphilis IgG or syphilis total antibodies for the initial screen. Many screening immunoassays for HIV and syphilis use signal-to-cutoff (S/CO) values for determining positivity, with a cutoff value such as 1.0 differentiating positive from negative. Published literature indicates that the S/CO value often correlates with the likelihood of subsequent confirmation of HIV and syphilis infections, with low S/CO values barely exceeding the cutoff more likely to represent false positive screens. The data in this article present results from the Roche Diagnostics Elecsys HIV combi PT Assay and the Elecsys Syphilis Assay. The data include 19,368 syphilis total antibody screening results on 15,764 unique patients and 28,952 HIV screening results on 24,556 unique patients, S/CO values, clinical area where testing was ordered, sex, and age. For samples with positive syphilis total antibody screens, the data also include results of RPR (the immediate next step in the reverse algorithm), Treponema pallidum particle agglutination (TP-PA; for those samples in which RPR was non-reactive in the testing cascade), and clinical information and other testing related to diagnosis of syphilis. For positive HIV screens, the data also include HIV antibody differentiation results, HIV-1 PCR or HIV-2 results results (if performed), and clinical information related to diagnosis of HIV. The distributions of S/CO values relative to confirmation status were analyzed. </abstract>
+   <subject>
+      <topic>False positive reaction</topic>
+   </subject>
+   <subject>
+      <topic>HIV-1</topic>
+   </subject>
+   <subject>
+      <topic>immunoassay</topic>
+   </subject>
+   <subject>
+      <topic>syphilis</topic>
+   </subject>
+   <subject>
+      <topic>Treponema pallidum</topic>
+   </subject>
+   <subject>
+      <topic>viral load</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107549</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107549</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107549</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00825-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-02"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008258/S2352340921008258.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

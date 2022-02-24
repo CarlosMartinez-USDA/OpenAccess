@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100202">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Therapeutic and pharmacological potential of Tanshinones against lung cancer: A systematic review</dct:title>
+         <dct:creator>Syed Sahajada Mahafujul Alam</dct:creator>
+         <dct:creator>Faizan Uddin</dct:creator>
+         <dct:creator>Farheen Badrealam Khan</dct:creator>
+         <dct:creator>Mohammad Amjad Kamal</dct:creator>
+         <dct:creator>Mehboob Hoque</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Tanshinones</rdf:li>
+               <rdf:li>Tanshinone I</rdf:li>
+               <rdf:li>Tanshinone IIA</rdf:li>
+               <rdf:li>Cryptotanshinone</rdf:li>
+               <rdf:li>Lung cancer</rdf:li>
+               <rdf:li>Systematic review</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100202</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100202</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100202</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100202</dct:identifier>
+         <bam:articleNumber>100202</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-15T01:51:58Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100202</ja:aid>
+         <ce:article-number>100202</ce:article-number>
+         <ce:pii>S2667-0313(21)00184-6</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100202</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Therapeutic and pharmacological potential of Tanshinones against lung cancer: A systematic review</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001846-3c7e1dae0956a5f9d1a7238b879d7b20">
+               <ce:given-name>Syed Sahajada Mahafujul</ce:given-name>
+               <ce:surname>Alam</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001846-eef001a83106bf28c47f96bd23fedc1b">
+               <ce:given-name>Faizan</ce:given-name>
+               <ce:surname>Uddin</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001846-4758c16e1030c362c09b1b56050b2071">
+               <ce:given-name>Farheen Badrealam</ce:given-name>
+               <ce:surname>Khan</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001846-64138ae66957a73269f5587ba56b1948">
+               <ce:given-name>Mohammad Amjad</ce:given-name>
+               <ce:surname>Kamal</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0007">
+                  <ce:sup loc="post">g</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001846-f7fa1a3f4811300047c087d1c0d4b240">
+               <ce:given-name>Mehboob</ce:given-name>
+               <ce:surname>Hoque</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:m_hoque@aliah.ac.in" id="ead0001">m_hoque@aliah.ac.in</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001846-70f0f14b3ed1fe7ded72b81c09762409">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Applied BioChemistry Lab, Department of Biological Sciences, Aliah University, Kolkata 700160, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Applied BioChemistry Lab, Department of Biological Sciences</sa:organization>
+                  <sa:organization>Aliah University</sa:organization>
+                  <sa:state>Kolkata</sa:state>
+                  <sa:postal-code>700160</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aApplied BioChemistry Lab, Department of Biological Sciences, Aliah University, Kolkata 700160, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001846-d90dd2f5a9ee95284fd7bf1928d05a08">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">National Institute of Immunology, Aruna Asaf Ali Marg, New Delhi 110067, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>National Institute of Immunology, Aruna Asaf Ali Marg</sa:organization>
+                  <sa:state>New Delhi</sa:state>
+                  <sa:postal-code>110067</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bNational Institute of Immunology, Aruna Asaf Ali Marg, New Delhi 110067, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001846-5df774c8004c2750bbd8e73bc15ae24f">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Graduate Institute of Biomedical Sciences, China Medical University, Taichung, 404, Taiwan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Graduate Institute of Biomedical Sciences</sa:organization>
+                  <sa:organization>China Medical University</sa:organization>
+                  <sa:state>Taichung</sa:state>
+                  <sa:postal-code>404</sa:postal-code>
+                  <sa:country>Taiwan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cGraduate Institute of Biomedical Sciences, China Medical University, Taichung, 404, Taiwan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031321001846-8e7077c63fece6d2eb82573a6ae43854">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Institutes for Systems Genetics, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, Sichuan University, Chengdu 610041, Sichuan, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institutes for Systems Genetics</sa:organization>
+                  <sa:organization>Frontiers Science Center for Disease-related Molecular Network</sa:organization>
+                  <sa:organization>West China Hospital</sa:organization>
+                  <sa:organization>Sichuan University</sa:organization>
+                  <sa:city>Sichuan</sa:city>
+                  <sa:state>Chengdu</sa:state>
+                  <sa:postal-code>610041</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dInstitutes for Systems Genetics, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, Sichuan University, Chengdu 610041, Sichuan, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667031321001846-1c58362a6311c84f40435d30f1b8606c">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">King Fahd Medical Research Center, King Abdulaziz University, Jeddah 21589, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>King Fahd Medical Research Center</sa:organization>
+                  <sa:organization>King Abdulaziz University</sa:organization>
+                  <sa:state>Jeddah</sa:state>
+                  <sa:postal-code>21589</sa:postal-code>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eKing Fahd Medical Research Center, King Abdulaziz University, Jeddah 21589, Saudi Arabia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2667031321001846-227fd46c2509fc878066b907905f678d">
+               <ce:label>f</ce:label>
+               <ce:textfn>Department of Pharmacy, Faculty of Allied Health Sciences, Daffodil International University, Bangladesh</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacy</sa:organization>
+                  <sa:organization>Faculty of Allied Health Sciences</sa:organization>
+                  <sa:organization>Daffodil International University</sa:organization>
+                  <sa:country>Bangladesh</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srctPC_afftFr7gT2suG">Department of Pharmacy, Faculty of Allied Health Sciences, Daffodil International University, Bangladesh</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0007"
+                            affiliation-id="S2667031321001846-112c3cdbed86d0f97f72f5a4eb9a41c6">
+               <ce:label>g</ce:label>
+               <ce:textfn id="cetextfn0006">Enzymoics, 7 Peterlee place, Hebersham NSW 2770; Novel Global Community Educational Foundation, Australia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Enzymoics, 7 Peterlee place</sa:organization>
+                  <sa:organization>Novel Global Community Educational Foundation</sa:organization>
+                  <sa:state>Hebersham NSW 2770</sa:state>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0006">fEnzymoics, 7 Peterlee place, Hebersham NSW 2770; Novel Global Community Educational Foundation, Australia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="20" month="9" year="2021"/>
+         <ce:date-revised day="9" month="12" year="2021"/>
+         <ce:date-accepted day="14" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara005" view="all">Lung cancer is the most prevalent of all cancers, causing the highest number of cancer-related deaths in men and the second-highest number in women worldwide. Recent advancements in cancer treatment have witnessed a paradigm shift of therapeutic approaches towards natural products. Several <ce:italic>in vitro</ce:italic> and <ce:italic>in vivo</ce:italic> studies have revealed the effective therapeutic potential of Tanshinones against various forms of cancer, including lung carcinomas. Therefore, a systematic assessment of the potential therapeutic efficacy of Tanshinones against lung cancer will provide important insights for their possible clinical application.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:section-title id="cesectitle0003">Purpose</ce:section-title>
+               <ce:simple-para id="spara006" view="all">This review was designed to study the therapeutic and pharmacological potential of Tanshinones against lung cancer in a systematic manner.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Methods</ce:section-title>
+               <ce:simple-para id="spara007" view="all">This systematic review was conducted following the guidelines of the Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA) statements. An extensive systematic search for literature on Tanshinones against lung cancer was performed in PubMed and Google Scholar databases using specific keywords. All the relevant articles published between January 2010 and April 2021 were considered.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara008" view="all">Out of the total 9,170 articles screened, 29 articles were selected for the present study based on the eligibility criteria. Among the included articles, 19 studies were conducted <ce:italic>in vitro</ce:italic> on lung cancer cell lines, 2 studies were performed <ce:italic>in vivo</ce:italic> on mice models, and 8 studies were conducted both <ce:italic>in vitro</ce:italic> and <ce:italic>in vivo</ce:italic>. The findings of the studies indicate that Tanshinones exhibit therapeutic potential against lung cancer by triggering various cellular processes such as oxidative stress, apoptosis, and cell cycle arrest and decreased mitochondrial potential, leading to cancer cell death or diminishing cell proliferation.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusion</ce:section-title>
+               <ce:simple-para id="spara009" view="all">The systematic review suggests the promising therapeutic potential of Tanshinones against lung carcinogenesis. However, the studies conducted so far were on lung cancer cell lines and mice models only. Therefore, to validate the translational potential of Tanshinones in clinical settings, more studies including human clinical trials with a large sample size are warranted.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0007">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0007" view="all">
+               <ce:simple-para id="spara010" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="abr" id="pc_m1rmixTm3o4H98PKNKTaftI7L4D08fJm" view="all">
+            <ce:keyword id="pc_R9Gtz7xLRK">
+               <ce:text>MTT</ce:text>
+               <ce:keyword id="pc_GfMZ99z1Jo">
+                  <ce:text>3-(4,5-Dimethylthiazol-2-yl)−2,5-Diphenyltetrazolium Bromide</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_BliRhM0GCb">
+               <ce:text>NSCLC</ce:text>
+               <ce:keyword id="pc_hFTFdEg3uJ">
+                  <ce:text>Non-small cell lung cancer</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_AU73pFSWNl">
+               <ce:text>PARP</ce:text>
+               <ce:keyword id="pc_p6tvcFFeY8">
+                  <ce:text>Poly (ADP-ribose) polymerase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0008">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Tanshinones</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Tanshinone I</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Tanshinone IIA</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Cryptotanshinone</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Lung cancer</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Systematic review</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

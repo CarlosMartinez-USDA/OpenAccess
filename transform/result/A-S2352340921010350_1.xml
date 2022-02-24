@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107761">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A database and framework for carbon ore resources and associated supply chain data</dct:title>
+         <dct:creator>Devin Justman</dct:creator>
+         <dct:creator>Michael Sabbatino</dct:creator>
+         <dct:creator>Scott Montross</dct:creator>
+         <dct:creator>Scott Pantaleone</dct:creator>
+         <dct:creator>Andrew Bean</dct:creator>
+         <dct:creator>Kelly Rose</dct:creator>
+         <dct:creator>Randal B. Thomas</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Carbon</rdf:li>
+               <rdf:li>Ore</rdf:li>
+               <rdf:li>Coal</rdf:li>
+               <rdf:li>Supply chain</rdf:li>
+               <rdf:li>Geochemistry</rdf:li>
+               <rdf:li>Geology</rdf:li>
+               <rdf:li>Infrastructure</rdf:li>
+               <rdf:li>Samples</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107761</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107761</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107761</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107761</dct:identifier>
+         <bam:articleNumber>107761</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-23T13:30:43Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107761</ja:aid>
+         <ce:article-number>107761</ce:article-number>
+         <ce:pii>S2352-3409(21)01035-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107761</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">A database and framework for carbon ore resources and associated supply chain data</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010350-42c80ab29fb10aab288ddebd5b9a3105">
+               <ce:given-name>Devin</ce:given-name>
+               <ce:surname>Justman</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:devin.justman@netl.doe.gov">devin.justman@netl.doe.gov</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010350-0fac7d2d6f2540e15849fb799e5f6ba7">
+               <ce:given-name>Michael</ce:given-name>
+               <ce:surname>Sabbatino</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010350-991b9aeb36c4043d4b0e9f321d8ac461">
+               <ce:given-name>Scott</ce:given-name>
+               <ce:surname>Montross</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010350-1193257ea552a18f098f58ed439a525c">
+               <ce:given-name>Scott</ce:given-name>
+               <ce:surname>Pantaleone</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921010350-87c96a1bc69a05d1413de7e29f1d4fbe"
+                       orcid="0000-0003-1733-2848">
+               <ce:given-name>Andrew</ce:given-name>
+               <ce:surname>Bean</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921010350-766249eb6e911f444fae224bd8bcd5da">
+               <ce:given-name>Kelly</ce:given-name>
+               <ce:surname>Rose</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921010350-e871b5faf48b2551d2b777d370712a09"
+                       orcid="0000-0002-2228-6770">
+               <ce:given-name>Randal B.</ce:given-name>
+               <ce:surname>Thomas</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010350-c510dbb493523f33fe388527f7f9b3bc">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">National Energy Technology Laboratory, 1450 Queen Ave. SW, Albany, OR 97321, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>National Energy Technology Laboratory</sa:organization>
+                  <sa:address-line>1450 Queen Ave. SW</sa:address-line>
+                  <sa:city>Albany</sa:city>
+                  <sa:state>OR</sa:state>
+                  <sa:postal-code>97321</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aNational Energy Technology Laboratory, 1450 Queen Ave. SW, Albany, OR 97321, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010350-e26ca9af1e5156d59eb4e503b084872d">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">NETL Support Contractor, 1450 Queen Ave. SW, Albany, OR 97321, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>NETL Support Contractor</sa:organization>
+                  <sa:address-line>1450 Queen Ave. SW</sa:address-line>
+                  <sa:city>Albany</sa:city>
+                  <sa:state>OR</sa:state>
+                  <sa:postal-code>97321</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bNETL Support Contractor, 1450 Queen Ave. SW, Albany, OR 97321, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: National Energy Technology Laboratory, 1450 Queen Ave. SW, Albany, OR 97321, USA<ce:bold>.</ce:bold>
+               </ce:text>
+               <sa:affiliation>
+                  <sa:organization>National Energy Technology Laboratory</sa:organization>
+                  <sa:address-line>1450 Queen Ave. SW</sa:address-line>
+                  <sa:city>Albany</sa:city>
+                  <sa:state>OR</sa:state>
+                  <sa:postal-code>97321</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="23" month="9" year="2021"/>
+         <ce:date-revised day="21" month="12" year="2021"/>
+         <ce:date-accepted day="22" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">The Carbon Ore Resources Database (CORD) is a working collection of 399 data files associated with carbon ore resources in the United States. The collection includes spatial/non-spatial, filtered, processed, and secondary data files with original data acquisition efforts focused on domestic coal resources. All data were acquired via open-source, online sources from a combination of 18 national, state, and university entities. Datasets are categorized to represent aspects of carbon ore resources, to include: Geochemistry, Geology, Infrastructure, and Samples. Geospatial datasets are summarized and analyzed by record and dataset density or the number of records or datasets per 400 square kilometer grid cells. Additionally, the “CORD Platform,” an ArcGIS Online geospatial dashboard web application, enables users to interact and query with CORD datasets. The CORD provides a single database and location for data-driven analytical needs associated with the utilization of carbon ore resources.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Carbon</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001a">
+               <ce:text id="cetext0002a">Ore</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001b">
+               <ce:text id="cetext0002b">Coal</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001c">
+               <ce:text id="cetext0002c">Supply chain</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001d">
+               <ce:text id="cetext0002d">Geochemistry</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001e">
+               <ce:text id="cetext0002e">Geology</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001f">
+               <ce:text id="cetext0002f">Infrastructure</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001g">
+               <ce:text id="cetext0002g">Samples</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

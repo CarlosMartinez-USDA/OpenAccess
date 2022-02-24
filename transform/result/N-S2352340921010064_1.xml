@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset for Bitcoin arbitrage in different cryptocurrency exchanges</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Rasa</namePart>
+      <namePart type="family">Bruzgė</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0510-7718</nameIdentifier>
+      <displayForm>Bruzgė, Rasa</displayForm>
+      <affiliation>Faculty of Economics and Business Administration, Vilnius University, Saulėtekio al. 9, Vilnius LT- 10222, Lithuania</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alfreda</namePart>
+      <namePart type="family">Šapkauskienė</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0070-4097</nameIdentifier>
+      <displayForm>Šapkauskienė, Alfreda</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Bitcoin market's efficiency and liquidity questions are being comprehensively analyzed in scientific literature. This dataset serves academics for deeper analysis of these topics as well as it gives relevant information for spotting and evaluating risks in the market. Moreover, practitioners can benefit from the dataset and use it to identify patterns in the market, discover potential earning capabilities, and create effective arbitrage trading strategies. This is the first publicly available dataset that provides unique arbitrage data about pairs of cryptocurrency exchanges. The raw dataset was received by the Bitlocus LT, UAB. Using dplyr, reshape2, plyr packages in R we transformed dataset to show the amount of arbitrage which could be earned in 13 different cryptocurrency exchanges from 2019-01-01 to 2020-04-01. We used this dataset to create matrices for each day from 2019-01-01 to 2020-04-01 in order to perform network analysis on Bitcoin arbitrage opportunities (Bruzgė and Šapkauskienė [1]). However, this dataset is beneficial for other purposes such as the evaluation of market's seasonality and day of week effects. The dataset provides values in high-frequency intervals but it is possible to convert data to a suitable data format depending on the research question. </abstract>
+   <subject>
+      <topic>Arbitrage dataset</topic>
+   </subject>
+   <subject>
+      <topic>High-frequency</topic>
+   </subject>
+   <subject>
+      <topic>Bitcoin</topic>
+   </subject>
+   <subject>
+      <topic>Network analysis</topic>
+   </subject>
+   <subject>
+      <topic>Cryptocurrency exchange</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107731</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107731</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107731</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01006-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-16"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010064/S2352340921010064.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

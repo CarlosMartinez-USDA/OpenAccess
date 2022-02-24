@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107710">
+         <dct:format>application/xml</dct:format>
+         <dct:title>The regional impact of an epidemic: socioeconomic and demographic data in Java, 1905-1924</dct:title>
+         <dct:creator>Daniel Gallardo-Albarrán</dct:creator>
+         <dct:creator>Pim de Zwart</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Southeast Asia</rdf:li>
+               <rdf:li>Java</rdf:li>
+               <rdf:li>Indonesia</rdf:li>
+               <rdf:li>Sugar Industry</rdf:li>
+               <rdf:li>Globalization</rdf:li>
+               <rdf:li>1918 Influenza Pandemic</rdf:li>
+               <rdf:li>Mortality</rdf:li>
+               <rdf:li>Wages</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107710</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107710</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107710</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107710</dct:identifier>
+         <bam:articleNumber>107710</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-11T10:52:18Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Dutch University VSNU 2020</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107710</ja:aid>
+         <ce:article-number>107710</ce:article-number>
+         <ce:pii>S2352-3409(21)00985-9</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107710</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1570-677X(21)00035-6</ce:pii>
+               <ce:doi>10.1016/j.ehb.2021.101011</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">The regional impact of an epidemic: socioeconomic and demographic data in Java, 1905-1924</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009859-627e65c82b424792a59787cd9ec40226">
+               <ce:given-name>Daniel</ce:given-name>
+               <ce:surname>Gallardo-Albarrán</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="afn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:daniel.gallardoalbarran@wur.nl">daniel.gallardoalbarran@wur.nl</ce:e-address>
+               <ce:e-address id="ead0004"
+                             type="social-media"
+                             xlink:href="https://twitter.com/DanielGalAlb">@DanielGalAlb</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009859-9b8fa52a6966278197a11ada4cd2e003"
+                       orcid="0000-0003-0155-1165">
+               <ce:given-name>Pim</ce:given-name>
+               <ce:surname>de Zwart</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009859-878eeb34b183b83e570bb9dd6c4415a2">
+               <ce:textfn id="cetextfn0001">Wageningen University, The Netherlands</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Wageningen University</sa:organization>
+                  <sa:country>The Netherlands</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Wageningen University, The Netherlands</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="afn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="fn001a" view="all">
+                  <ce:inter-ref id="interref0002ba"
+                                xlink:href="https://twitter.com/RHI_WUR"
+                                xlink:type="simple">@RHI_WUR</ce:inter-ref>
+               </ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="19" month="8" year="2021"/>
+         <ce:date-revised day="8" month="12" year="2021"/>
+         <ce:date-accepted day="10" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">This dataset contains data for the island of Java, Indonesia, at the <ce:italic>regency</ce:italic>-level – comparable to present-day <ce:italic>kabupaten</ce:italic>. The data concern trends in area of cultivated sugar, total and per-hectare sugar production, crude mortality rates and wages in the period ca. 1909-1924. In addition to this panel dataset, cross-sectional figures were collected about the amount of sawah land (1920), urbanization rates (1905), medical personnel (1919), native population (1905) and areas with communal property with rotating shares. These figures were gathered from primary documents published by the Dutch colonial government and its constituent agencies. These data are relevant for all social scientists (such as economists, demographers or economic historians) interested in Southeast Asia or in the relationship between health indicators and economic development before, during and after an unprecedented pandemic. Historians of Southeast Asia and Indonesia may be interested in these figures as a background against which developments in politics and culture may be sketched. In addition, epidemiologists assessing the health consequences of the 1918 influenza pandemic will find valuable information in this regional dataset. Gallardo-Albarrán and de Zwart (2021) have shown on the basis of this dataset how the 1918 influenza pandemic affected economic activity across Java in this period.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Southeast Asia</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Java</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Indonesia</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Sugar Industry</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Globalization</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">1918 Influenza Pandemic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Mortality</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Wages</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

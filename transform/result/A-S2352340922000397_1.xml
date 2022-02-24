@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107827">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A dataset of EEG recordings from 47 participants collected during a virtual reality working memory task where attention was cued by a social avatar and non-social stick cue</dct:title>
+         <dct:creator>Samantha E.A. Gregory</dct:creator>
+         <dct:creator>Hongfang Wang</dct:creator>
+         <dct:creator>Klaus Kessler</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Eye gaze</rdf:li>
+               <rdf:li>Social</rdf:li>
+               <rdf:li>Joint attention</rdf:li>
+               <rdf:li>Theta</rdf:li>
+               <rdf:li>Alpha</rdf:li>
+               <rdf:li>Neural oscilations</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107827</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107827</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107827</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107827</dct:identifier>
+         <bam:articleNumber>107827</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-12T15:42:12Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107827</ja:aid>
+         <ce:article-number>107827</ce:article-number>
+         <ce:pii>S2352-3409(22)00039-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107827</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">A dataset of EEG recordings from 47 participants collected during a virtual reality working memory task where attention was cued by a social avatar and non-social stick cue</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000397-996c50095f307e9f3a89ef94c72ea189"
+                       orcid="0000-0002-2601-2873">
+               <ce:given-name>Samantha E.A.</ce:given-name>
+               <ce:surname>Gregory</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:s.e.a.gregory@salford.ac.uk">s.e.a.gregory@salford.ac.uk</ce:e-address>
+               <ce:e-address id="ea4"
+                             type="social-media"
+                             xlink:href="https://twitter.com/DrSamGregory">@DrSamGregory</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000397-5425eeb1477b5315fb2cdde3dfe38422"
+                       orcid="0000-0002-9097-0865">
+               <ce:given-name>Hongfang</ce:given-name>
+               <ce:surname>Wang</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000397-6af9561b53f8ab735828b05527d2891a"
+                       orcid="0000-0001-7307-9539">
+               <ce:given-name>Klaus</ce:given-name>
+               <ce:surname>Kessler</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000397-a4da1f73bdc5e333d817eb98b964d262">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Psychology, University of Salford, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Psychology</sa:organization>
+                  <sa:organization>University of Salford</sa:organization>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Psychology, University of Salford, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922000397-e7a6363f686dce9b5ab76af8193418cc">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Institute of Health and Neurodevelopment, Aston Laboratory for Immersive Virtual Environments, Aston University, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Health and Neurodevelopment</sa:organization>
+                  <sa:organization>Aston Laboratory for Immersive Virtual Environments</sa:organization>
+                  <sa:organization>Aston University</sa:organization>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bInstitute of Health and Neurodevelopment, Aston Laboratory for Immersive Virtual Environments, Aston University, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922000397-4fc9ee5b594c175f260a077c114d58dc">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">School of Psychology, University College Dublin, Republic of Ireland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Psychology</sa:organization>
+                  <sa:organization>University College Dublin</sa:organization>
+                  <sa:country>Republic of Ireland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cSchool of Psychology, University College Dublin, Republic of Ireland</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Psychology, University of Salford, UK.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Psychology</sa:organization>
+                  <sa:organization>University of Salford</sa:organization>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="23" month="12" year="2021"/>
+         <ce:date-revised day="10" month="1" year="2022"/>
+         <ce:date-accepted day="11" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">This data article describes electroencephalography (EEG) and behavioral data from 47 participants. Data was collected using a 64 channel eego™ sports mobile EEG system during a visual working memory task presented in virtual reality (VR) using Unity with an Oculus Rift S head-mounted display. In the memory task, participants had to remember the status of and details about objects presented on a table. Prior to object appearance a moving, 3D social avatar or non-social stick cue was presented which pointed to the left or right of the table. Items for encoding could appear in the valid, cued location or the invalid, un-cued location, with the cue being uninformative to the task. The cue type was presented within subjects, blocked, counterbalanced. The data (behavioral &amp; EEG (raw and processed)), scripts and the full task are available. The data is set up to allow investigation of neural signals during attention cueing, and memory encoding, maintenance and retrieval. The main novelty of the dataset is the presentation of the social avatar and non-social stick cue in VR within subjects, thus, allowing comparison across time points, including a period of eye contact. The data is also of interest to researchers interested in the neural corelates of working memory. Further, it is of interest to researchers interested in combining VR and EEG.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001h">
+               <ce:text id="cetext0002a">Eye gaze</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002i">
+               <ce:text id="cetext0003b">Social</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003c">Joint attention</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002k">
+               <ce:text id="cetext0003d">Theta</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002l">
+               <ce:text id="cetext0003e">Alpha</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002m">
+               <ce:text id="cetext0003f">Neural oscilations</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

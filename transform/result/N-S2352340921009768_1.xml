@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Curation of an international drug proprietary names dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Mohammad A.</namePart>
+      <namePart type="family">Khaleel</namePart>
+      <displayForm>Khaleel, Mohammad A.</displayForm>
+      <affiliation>Discipline of Clinical Pharmacy, School of Pharmaceutical Sciences, Universiti Sains Malaysia, Penang 11800, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Amer Hayat</namePart>
+      <namePart type="family">Khan</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4802-6181</nameIdentifier>
+      <displayForm>Khan, Amer Hayat</displayForm>
+      <affiliation>Discipline of Clinical Pharmacy, School of Pharmaceutical Sciences, Universiti Sains Malaysia, Penang 11800, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.M. Sheikh</namePart>
+      <namePart type="family">Ghadzi</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8855-8954</nameIdentifier>
+      <displayForm>Ghadzi, S.M. Sheikh</displayForm>
+      <affiliation>Discipline of Clinical Pharmacy, School of Pharmaceutical Sciences, Universiti Sains Malaysia, Penang 11800, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sami</namePart>
+      <namePart type="family">Alshakhshir</namePart>
+      <displayForm>Alshakhshir, Sami</displayForm>
+      <affiliation>Discipline of Clinical Pharmacy, School of Pharmacy, Aqaba University of Technology, Jordan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>A drug dataset containing international proprietary names is essential for researchers investigating different drugs from different countries worldwide. However, many websites on the internet offer free access for a single drug searching service to identify international drug trade names, but not for a list of drugs to be searched and identified. Therefore, it will be problematic if the researcher has a list of hundreds or thousands of drug trade names to be identified. In this project, we have created an International Drug Dictionary (IDD) by curating collected drug lists from open access websites belonging to official drug regulatory agencies, official healthcare systems, or recognized scientific bodies from 44 countries around the world in addition to the European public assessment reports (EPAR) and the DRUGBANK vocabulary published in the public domain. Researchers interested in pharmacovigilance, pharmacoepidemiology, or pharmacoeconomics can benefit from this dataset, especially when identifying lists of proprietary drug names, particularly of multi-national origin. To enhance its adaptability, we also mapped the IDD to the standardized drug vocabulary RxNorm. The IDD can also be used as a tool for mapping international drug trade names to RxNorm. Each drug entity in the IDD mapped to a unique identification number for each entity called Atom Unique Identifier (RXAUI) from RxNorm. </abstract>
+   <subject>
+      <topic>Drug list</topic>
+   </subject>
+   <subject>
+      <topic>Drug dataset</topic>
+   </subject>
+   <subject>
+      <topic>Drug database</topic>
+   </subject>
+   <subject>
+      <topic>Drug lexicon</topic>
+   </subject>
+   <subject>
+      <topic>Mapping to RxNorm</topic>
+   </subject>
+   <subject>
+      <topic>Proprietary drug name</topic>
+   </subject>
+   <subject>
+      <topic>Drug trade name</topic>
+   </subject>
+   <subject>
+      <topic>Drug active ingredient name</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107701</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107701</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107701</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00976-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-09"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009768/S2352340921009768.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

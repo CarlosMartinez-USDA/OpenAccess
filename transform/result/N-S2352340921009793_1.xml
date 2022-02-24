@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data about marine area-based management tools to assess their contribution to the UN sustainable development goals</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Elena</namePart>
+      <namePart type="family">Gissi</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1666-8772</nameIdentifier>
+      <displayForm>Gissi, Elena</displayForm>
+      <affiliation>Hopkins Marine Station, Stanford University, 120 Ocean View Blvd, Pacific Grove, CA 93950, USA</affiliation>
+      <affiliation>National Research Council, Institute of Marine Science, CNR ISMAR, Arsenale, Tesa 104 - Castello 2737/F, 30122 Venice, Italy</affiliation>
+      <affiliation>University IUAV of Venice, Santa Croce 191, 30135 Venezia, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Frank</namePart>
+      <namePart type="family">Maes</namePart>
+      <displayForm>Maes, Frank</displayForm>
+      <affiliation>Faculty of Law and Criminology, Maritime Institute, Ghent University, Universiteitstraat 6, 9000 Ghent, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Zacharoula</namePart>
+      <namePart type="family">Kyriazi</namePart>
+      <displayForm>Kyriazi, Zacharoula</displayForm>
+      <affiliation>Interdisciplinary Centre of Marine and Environmental Research (CIIMAR), University of Porto, Terminal de Cruzeiros de Leixões. Av. General Norton de Matos s/n, 4450-208 Matosinhos Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ana</namePart>
+      <namePart type="family">Ruiz-Frau</namePart>
+      <displayForm>Ruiz-Frau, Ana</displayForm>
+      <affiliation>Department of Marine Ecosystem Dynamics, IMEDEA (CSIC-UIB), Miquel Marqués, 21, 07190, Esporles, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Catarina Frazão</namePart>
+      <namePart type="family">Santos</namePart>
+      <displayForm>Santos, Catarina Frazão</displayForm>
+      <affiliation>Marine and Environmental Sciences Centre, Faculdade de Ciências, Universidade de Lisboa, Avenida Nossa Senhora do Cabo 939, 2750-374 Cascais, Portugal</affiliation>
+      <affiliation>Environmental Economics Knowledge Center, Nova School of Business and Economics, New University of Lisbon, Rua da Holanda 1, 2775-405 Car cavelos, Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Barbara</namePart>
+      <namePart type="family">Neumann</namePart>
+      <displayForm>Neumann, Barbara</displayForm>
+      <affiliation>Institute for Advanced Sustainability Studies (IASS), Berliner Str. 130, D-14467 Potsdam, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Adriano</namePart>
+      <namePart type="family">Quintela</namePart>
+      <displayForm>Quintela, Adriano</displayForm>
+      <affiliation>CESAM-Centre for Environmental and Marine Studies, Department of Environment and Planning, University of Aveiro, Campus Universitàrio de Santiago, 3810-193 Aveiro, Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fátima L.</namePart>
+      <namePart type="family">Alves</namePart>
+      <displayForm>Alves, Fátima L.</displayForm>
+      <affiliation>CESAM-Centre for Environmental and Marine Studies, Department of Environment and Planning, University of Aveiro, Campus Universitàrio de Santiago, 3810-193 Aveiro, Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Simone</namePart>
+      <namePart type="family">Borg</namePart>
+      <displayForm>Borg, Simone</displayForm>
+      <affiliation>Department of Environmental and Resources Law, University of Malta, Msida, MSD 2080, Malta</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wenting</namePart>
+      <namePart type="family">Chen</namePart>
+      <displayForm>Chen, Wenting</displayForm>
+      <affiliation>Norwegian Institute for Water Research, Gaustadalléen 21, NO-0349 Oslo, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Maria da Luz</namePart>
+      <namePart type="family">Fernandes</namePart>
+      <displayForm>Fernandes, Maria da Luz</displayForm>
+      <affiliation>CESAM-Centre for Environmental and Marine Studies, Department of Environment and Planning, University of Aveiro, Campus Universitàrio de Santiago, 3810-193 Aveiro, Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Maria</namePart>
+      <namePart type="family">Hadjimichael</namePart>
+      <displayForm>Hadjimichael, Maria</displayForm>
+      <affiliation>Independent Researcher, Nicosia, Cyprus</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Elisabetta</namePart>
+      <namePart type="family">Manea</namePart>
+      <displayForm>Manea, Elisabetta</displayForm>
+      <affiliation>National Research Council, Institute of Marine Science, CNR ISMAR, Arsenale, Tesa 104 - Castello 2737/F, 30122 Venice, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Márcia</namePart>
+      <namePart type="family">Marques</namePart>
+      <displayForm>Marques, Márcia</displayForm>
+      <affiliation>CESAM-Centre for Environmental and Marine Studies, Department of Environment and Planning, University of Aveiro, Campus Universitàrio de Santiago, 3810-193 Aveiro, Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Froukje Maria</namePart>
+      <namePart type="family">Platjouw</namePart>
+      <displayForm>Platjouw, Froukje Maria</displayForm>
+      <affiliation>Norwegian Institute for Water Research, Gaustadalléen 21, NO-0349 Oslo, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michelle E.</namePart>
+      <namePart type="family">Portman</namePart>
+      <displayForm>Portman, Michelle E.</displayForm>
+      <affiliation>Technion – Israel Institute of Technology, Kiryiat HaTechnion, Haifa 32000 Israel</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lisa P.</namePart>
+      <namePart type="family">Sousa</namePart>
+      <displayForm>Sousa, Lisa P.</displayForm>
+      <affiliation>CESAM-Centre for Environmental and Marine Studies, Department of Environment and Planning, University of Aveiro, Campus Universitàrio de Santiago, 3810-193 Aveiro, Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Luca</namePart>
+      <namePart type="family">Bolognini</namePart>
+      <displayForm>Bolognini, Luca</displayForm>
+      <affiliation>National Research Council (CNR), Institute of Marine Biological Resources and Biotechnologies (IRBIM), Largo Fiera della Pesca 1, 60125 Ancona, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wesley</namePart>
+      <namePart type="family">Flannery</namePart>
+      <displayForm>Flannery, Wesley</displayForm>
+      <affiliation>School of Natural and Built Environment, David Keir Building, Queen's University Belfast, Belfast, BT9 5AG, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fabio</namePart>
+      <namePart type="family">Grati</namePart>
+      <displayForm>Grati, Fabio</displayForm>
+      <affiliation>National Research Council (CNR), Institute of Marine Biological Resources and Biotechnologies (IRBIM), Largo Fiera della Pesca 1, 60125 Ancona, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cristina</namePart>
+      <namePart type="family">Pita</namePart>
+      <displayForm>Pita, Cristina</displayForm>
+      <affiliation>CESAM-Centre for Environmental and Marine Studies, Department of Environment and Planning, University of Aveiro, Campus Universitàrio de Santiago, 3810-193 Aveiro, Portugal</affiliation>
+      <affiliation>International Institute for Environment and Development (IIED), 235 High Holborn, Holborn, London WC1V 7DN, U.K</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Natașa</namePart>
+      <namePart type="family">Văidianu</namePart>
+      <displayForm>Văidianu, Natașa</displayForm>
+      <affiliation>Faculty of Natural Sciences and Agricultural Sciences, Ovidius University of Constanța, Aleea Universității 1, 900470, Constanța, Romania</affiliation>
+      <affiliation>Interdisciplinary Center for Advanced Research on Territorial Dynamics, University of Bucharest, Regina Elisabeta 4-12, 030018, Bucharest, Romania</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Robert</namePart>
+      <namePart type="family">Stojanov</namePart>
+      <displayForm>Stojanov, Robert</displayForm>
+      <affiliation>Faculty of Business and Economis, Mendel University in Brno, Zemědělská 1, 61300 Brno, Czech Republic</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jan</namePart>
+      <namePart type="family">van Tatenhove</namePart>
+      <displayForm>van Tatenhove, Jan</displayForm>
+      <affiliation>Centre for Blue Governance, Department of Planning, Aalborg University, Rendsburggade 14, 9000 Aalborg, Denmark</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fiorenza</namePart>
+      <namePart type="family">Micheli</namePart>
+      <displayForm>Micheli, Fiorenza</displayForm>
+      <affiliation>Hopkins Marine Station, Stanford University, 120 Ocean View Blvd, Pacific Grove, CA 93950, USA</affiliation>
+      <affiliation>Stanford Center for Ocean Solutions, 120 Ocean View Blvd, Pacific Grove, CA 93950, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anna-Katharina</namePart>
+      <namePart type="family">Hornidge</namePart>
+      <displayForm>Hornidge, Anna-Katharina</displayForm>
+      <affiliation>German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), Tulpenfeld 6, D - 53113 Bonn, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sebastian</namePart>
+      <namePart type="family">Unger</namePart>
+      <displayForm>Unger, Sebastian</displayForm>
+      <affiliation>Institute for Advanced Sustainability Studies (IASS), Berliner Str. 130, D-14467 Potsdam, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The dataset presented in this article contains information about marine Area-Based Management Tools (ABMTs) used to assess their contribution to the United Nations 2030 Sustainable Development Goals. Following the scope of the analysis, ABMTs were identified by scrutinizing international and regional legal sources related to ocean management in the fields of marine conservation, fisheries, deep sea bed mining, underwater natural and cultural heritage, environmental conservation, and marine spatial planning. Legal sources were screened to depict the following characteristics of individual ABMTs: i) management objectives; ii) authorities responsible for delivering such objectives; iii) the system of management and planning entailed in the ABMT including the zoning type; and iv) the specific spatial scope and domain each ABMT refer to in vertical depth and horizontal domain. Data were generated through an internal expert elicitation. Experts, initially trained in the data analysis and related protocol, contributed to the data production because of their specific knowledge and experience in ocean management. This dataset represents a unique source of information for advancing research about monitoring and assessment of the achievement of sustainable development goals that encompasses different types of ABMTs. </abstract>
+   <subject>
+      <topic>International and regional agreements</topic>
+   </subject>
+   <subject>
+      <topic>Marine protected areas</topic>
+   </subject>
+   <subject>
+      <topic>Shipping</topic>
+   </subject>
+   <subject>
+      <topic>Fisheries management</topic>
+   </subject>
+   <subject>
+      <topic>Marine spatial planning</topic>
+   </subject>
+   <subject>
+      <topic>Underwater cultural heritage</topic>
+   </subject>
+   <subject>
+      <topic>Deep seabed mining</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107704</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107704</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107704</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00979-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-10"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009793/S2352340921009793.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

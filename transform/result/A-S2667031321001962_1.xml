@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100214">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Anti-Helicobacter pylori potential, antioxidant capacity, and anti-inflammatory activity of Xylopia sericea A. St.-Hil. (Annonaceae) leaves</dct:title>
+         <dct:creator>João Victor Dutra Gomes</dct:creator>
+         <dct:creator>Augusto Santos Borges</dct:creator>
+         <dct:creator>Brena Ramos Athaydes</dct:creator>
+         <dct:creator>Kicia Karinne Pereira Gomes-Copeland</dct:creator>
+         <dct:creator>Damaris Silveira</dct:creator>
+         <dct:creator>Pérola Oliveira Magalhães</dct:creator>
+         <dct:creator>Rita de Cássia Ribeiro Gonçalves</dct:creator>
+         <dct:creator>Rodrigo Rezende Kitagawa</dct:creator>
+         <dct:creator>Yris Maria Fonseca-Bazzo</dct:creator>
+         <dct:creator>Claudia Masrouah Jamal</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Quercetin glycosides</rdf:li>
+               <rdf:li>Antioxidant capacity</rdf:li>
+               <rdf:li>Helicobacter pylori</rdf:li>
+               <rdf:li>Anti-inflammatory activity</rdf:li>
+               <rdf:li>Urease enzyme inhibition</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100214</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100214</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100214</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100214</dct:identifier>
+         <bam:articleNumber>100214</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-30T07:11:51Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Brazil: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100214</ja:aid>
+         <ce:article-number>100214</ce:article-number>
+         <ce:pii>S2667-0313(21)00196-2</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100214</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Anti-<ce:italic>Helicobacter pylori</ce:italic> potential, antioxidant capacity, and anti-inflammatory activity of <ce:italic>Xylopia sericea</ce:italic> A. St.-Hil. (Annonaceae) leaves</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001962-64a103957c31e017d5a322429fca0795">
+               <ce:given-name>João Victor Dutra</ce:given-name>
+               <ce:surname>Gomes</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:dutra.joaovictor@gmail.com">dutra.joaovictor@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001962-265bd1c8ca6e0d0bd5545c827e28ae7e">
+               <ce:given-name>Augusto Santos</ce:given-name>
+               <ce:surname>Borges</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001962-053aceefd37117faa9f7d4fd539d147b">
+               <ce:given-name>Brena Ramos</ce:given-name>
+               <ce:surname>Athaydes</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001962-aef358c2ab8fac6efdea9872e74c697f">
+               <ce:given-name>Kicia Karinne Pereira</ce:given-name>
+               <ce:surname>Gomes-Copeland</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001962-b547083e1cf5459e3c17a9077b293280">
+               <ce:given-name>Damaris</ce:given-name>
+               <ce:surname>Silveira</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031321001962-d0448a98f8473a198d40e385b5bb4f8e">
+               <ce:given-name>Pérola Oliveira</ce:given-name>
+               <ce:surname>Magalhães</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667031321001962-86009a0fddd4033c0340fbb1d4f75fc6">
+               <ce:given-name>Rita de Cássia Ribeiro</ce:given-name>
+               <ce:surname>Gonçalves</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667031321001962-7087c879d483bbad82e4ad01cc984228">
+               <ce:given-name>Rodrigo Rezende</ce:given-name>
+               <ce:surname>Kitagawa</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667031321001962-447ed7be4a495cf26b82235e75166fc2">
+               <ce:given-name>Yris Maria</ce:given-name>
+               <ce:surname>Fonseca-Bazzo</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2667031321001962-3759053053239d31f451323d1347d0b8">
+               <ce:given-name>Claudia Masrouah</ce:given-name>
+               <ce:surname>Jamal</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001962-a142897324cd6a1861c243c100d50323">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Health Sciences College, University of Brasília, Brasília, 70910-900, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Health Sciences College, University of Brasília</sa:organization>
+                  <sa:city>Brasília</sa:city>
+                  <sa:postal-code>70910-900</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aHealth Sciences College, University of Brasília, Brasília, 70910-900, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001962-bef5638030501f8ec5e0ff35b249ee08">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Pharmacy, State University of Maringá, 87020-900, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacy</sa:organization>
+                  <sa:organization>State University of Maringá</sa:organization>
+                  <sa:postal-code>87020-900</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Pharmacy, State University of Maringá, 87020-900, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001962-d4d9ab507cca767472860cb37dd49132">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Pharmaceutical Sciences, Federal University of Espírito Santo, Vitória, 29043-900, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutical Sciences</sa:organization>
+                  <sa:organization>Federal University of Espírito Santo</sa:organization>
+                  <sa:city>Vitória</sa:city>
+                  <sa:postal-code>29043-900</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Pharmaceutical Sciences, Federal University of Espírito Santo, Vitória, 29043-900, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Laboratory of Natural Products, Health Sciences College, University of Brasília. Asa Norte, Brasilia, Distrito Federal, CEP 70910-900 Brazil</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Natural Products, Health Sciences College, University of Brasília</sa:organization>
+                  <sa:address-line>Asa Norte, Brasilia, Distrito Federal</sa:address-line>
+                  <sa:postal-code>CEP 70910-900</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="30" month="8" year="2021"/>
+         <ce:date-revised day="27" month="11" year="2021"/>
+         <ce:date-accepted day="30" month="12" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Xylopia sericea leaves ethanol extract reduces inflammation on LPS-stimulated cell model system and inhibits different reactive species.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Xylopia sericea leaves ethanol extract inhibits urease enzyme activity and flavonoid content is characterized by quercetin-O-glycosides.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">The anti-Helicobacter pylori activities performed by Xylopia sericea give evidence for further investigations concerning the ethnopharmacological uses.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Non-significant toxic effects were observed on human gastric carcinoma cell line.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara008" view="all">: <ce:italic>Xylopia sericea</ce:italic> A. St.-Hil. (Annonaceae), a Brazilian pepper, popularly known as “pindaíba,” has ethnopharmacological relevance as a useful remedy for gastric disorders; however, few reports are available in the literature to explain its therapeutic effects.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" view="all">
+               <ce:section-title id="cesectitle0004">Purpose</ce:section-title>
+               <ce:simple-para id="spara009" view="all">: This study aimed to evaluate the <ce:italic>in vitro</ce:italic> effects of <ce:italic>X. sericea</ce:italic> leaf ethanol extract (EE) on <ce:italic>Helicobacter pylori</ce:italic> (HP) growth, cytokine production, antioxidant capacity, and cytotoxicity in human gastric adenocarcinoma cell line (AGS).</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" view="all">
+               <ce:section-title id="cesectitle0005">Study design</ce:section-title>
+               <ce:simple-para id="spara010" view="all">
+                  <ce:bold>:</ce:bold> Using a cell model system (murine macrophage LPS-stimulated) and <ce:italic>in vitro</ce:italic> assays, EE bioactivity, with regard to antioxidant capacity, inhibition of cytokine production, and urease inhibition, was assessed. The EE chemical profile was obtained using chromatography and biomarker quantification.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0006">Methods</ce:section-title>
+               <ce:simple-para id="spara011" view="all">
+                  <ce:bold>:</ce:bold> Antioxidant and urease assays were performed using colorimetric methods, <ce:italic>H. pylori</ce:italic> growth was evaluated using the minimal inhibitory concentration assay, cytokine production was measured using enzyme-linked immunosorbent assay, cytotoxicity was determined using the MTT method, EE chromatographic profile was obtained using HPLC-DAD-UV analysis, and biomarker quantification was obtained using calibration curves.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0007" role="results" view="all">
+               <ce:section-title id="cesectitle0007">Results</ce:section-title>
+               <ce:simple-para id="spara012" view="all">
+                  <ce:bold>:</ce:bold> Our findings demonstrated that EE has an antioxidant capacity similar to that of gallic acid in the hypochlorous acid inhibition assay (EC<ce:inf loc="post">50</ce:inf> = 61.09 µg/ml) and higher activity (<ce:italic>p</ce:italic> &lt;0.05) in the superoxide radical assay (EC<ce:inf loc="post">50</ce:inf> = 25.56 µg/ml) compared to the same antioxidant standard. In RAW 264.7 LPS stimulated cells, EE (100 µg/ml) inhibited the production of NO (76%) and IL-6 (85%) but did not reduce TNF-α and superoxide levels at all tested concentrations (6.25 to 100 µg/ml). EE demonstrated urease enzyme inhibition similar to boric acid, the standard inhibitor, and inhibited <ce:italic>H. pylori</ce:italic> non-resistant strain growth at 512 µg/mL. EE did not reduce the AGS cell viability at the tested concentrations (6.25 to 100 µg/ml). The EE flavonoid content was 198.50 µg of rutin equivalents in each mg of extract, and the HPLC analyses showed four majoritarian components as quercetin glycosides.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0008" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0008">Conclusions</ce:section-title>
+               <ce:simple-para id="spara013" view="all">
+                  <ce:bold>:</ce:bold> This study partially explains the role of <ce:italic>X. sericea</ce:italic> in defense mechanisms associated with gastric diseases, and provides support for further research on the potential of <ce:italic>X. sericea</ce:italic> in gastric disease treatments.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0009">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0009" view="all">
+               <ce:simple-para id="spara014" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0010">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Quercetin glycosides</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Antioxidant capacity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">
+                  <ce:italic>Helicobacter pylori</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Anti-inflammatory activity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Urease enzyme inhibition</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

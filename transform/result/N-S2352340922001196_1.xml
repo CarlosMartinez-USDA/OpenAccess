@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset for aedes aegypti (diptera: Culicidae) and culex quinquefasciatus (diptera: Culicidae) collections from key West, Florida, USA, 2010–2020</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Catherine A.</namePart>
+      <namePart type="family">Pruszynski</namePart>
+      <displayForm>Pruszynski, Catherine A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-27</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The Florida Keys Mosquito Control District began deploying Biogents® BG Sentinel traps to monitor Aedes aegypti (Diptera: Culicidae) populations in Key West during a small autochthonous dengue outbreak that began in November 2009. This paper provides weekly data for twelve collection points from January 2010 through December 2020. BG Sentinel traps were baited with dry ice and proprietary BG Lure and were set in the afternoon and retrieved the following morning totalling 19 collection hours. Trap collections also included Culex quinquefasciatus and thus data for that species is also included. The collection data could provide insight into dengue transmission in a small sub-tropical US city. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Dengue</topic>
+   </subject>
+   <subject>
+      <topic>Vector</topic>
+   </subject>
+   <subject>
+      <topic>Trapping</topic>
+   </subject>
+   <subject>
+      <topic>Mosquito</topic>
+   </subject>
+   <subject>
+      <topic>Surveillance</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">27</text>
+         <extent unit="pages">
+            <start>107907</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107907</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107907</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00119-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-28"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001196/S2352340922001196.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

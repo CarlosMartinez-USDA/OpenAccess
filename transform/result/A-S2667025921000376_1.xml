@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100045">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Fabrication of nanoemulsion-based in situ gel using moxifloxacin hydrochloride as model drug for the treatment of conjunctivitis</dct:title>
+         <dct:creator>Bhupendra G. Prajapati</dct:creator>
+         <dct:creator>Asha G. Patel</dct:creator>
+         <dct:creator>Himanshu Paliwal</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>In situ gel</rdf:li>
+               <rdf:li>Nanoemulsion</rdf:li>
+               <rdf:li>Ocular drug delivery</rdf:li>
+               <rdf:li>Moxifloxacin hydrochloride</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health 1 (2021). doi:10.1016/j.fhfh.2021.100045</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fhfh.2021.100045</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100045</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100045</dct:identifier>
+         <bam:articleNumber>100045</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-25T11:09:25Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100045</ja:aid>
+         <ce:article-number>100045</ce:article-number>
+         <ce:pii>S2667-0259(21)00037-6</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100045</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Fabrication of nanoemulsion-based <ce:italic>in situ</ce:italic> gel using moxifloxacin hydrochloride as model drug for the treatment of conjunctivitis</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025921000376-a48b5dbe83f8e416f259cf68ca141bb7">
+               <ce:given-name>Bhupendra G.</ce:given-name>
+               <ce:surname>Prajapati</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:bhupen27@gmail.com">bhupen27@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025921000376-f5583e8c770e6298bfe7b13c716c2541">
+               <ce:given-name>Asha G.</ce:given-name>
+               <ce:surname>Patel</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667025921000376-8e01243f153a9de53ba84c7a75378426">
+               <ce:given-name>Himanshu</ce:given-name>
+               <ce:surname>Paliwal</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025921000376-861e545c65dcbd023b4aee13ff018973">
+               <ce:textfn id="cetextfn0001">Department of Pharmaceutics and Pharmaceutical Technology, Shree S. K. Patel College of Pharmaceutical Education and Research, Ganpat University, Ganpat Vidyanagar, Mehsana-Gozaria, Highway, Kherva, Mehsana, Gujarat 384012, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutics and Pharmaceutical Technology</sa:organization>
+                  <sa:organization>Shree S. K. Patel College of Pharmaceutical Education and Research</sa:organization>
+                  <sa:organization>Ganpat University</sa:organization>
+                  <sa:organization>Ganpat Vidyanagar</sa:organization>
+                  <sa:address-line>Mehsana-Gozaria, Highway, Kherva</sa:address-line>
+                  <sa:city>Mehsana</sa:city>
+                  <sa:state>Gujarat</sa:state>
+                  <sa:postal-code>384012</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Pharmaceutics and Pharmaceutical Technology, Shree S. K. Patel College of Pharmaceutical Education and Research, Ganpat University, Ganpat Vidyanagar, Mehsana-Gozaria, Highway, Kherva, Mehsana, Gujarat 384012, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="5" month="6" year="2021"/>
+         <ce:date-revised day="19" month="11" year="2021"/>
+         <ce:date-accepted day="25" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Preparation and characterization of nanoemulsion-based <ce:italic>in situ</ce:italic> gel.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Particle size of the optimum formulation was 28.29 ± 0.14 nm.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Sterile and isotonic nanoemulsion <ce:italic>in situ</ce:italic> gel was prepared.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Possibly, formulation is not associated with any ocular irritancy as indicated from the <ce:italic>in vitro</ce:italic> ocular irritancy test.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Nanoemulsion <ce:italic>in situ</ce:italic> gel may serve as efficient delivery of drug through ocular route.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara011" view="all">The objective of the present study was to develop a nanoemulsion-based <ce:italic>in situ</ce:italic> gel of Moxifloxacin Hydrochloride for ocular delivery and investigate their diffusion potential and probability of ocular irritancy. Nanoemulsions were prepared by using the water titration method which was further processed to produce <ce:italic>in situ</ce:italic> gel. Formulations with optimum gelation temperature were evaluated for their physicochemical characteristics and <ce:italic>in vitro</ce:italic> drug release. The optimum nanoemulsion <ce:italic>in situ</ce:italic> gel was selected for investigating its surface morphology, sterility, isotonicity, and ocular irritancy. The optimized formulation had the average droplet size and polydispersity index of 28.29 ± 0.14 nm and 0.221 ± 0.51, respectively. Furthermore, the physicochemical properties and surface morphology were found to be within the acceptable range for ocular administration. The formulation showed sustained drug release and the% cumulative drug release after 12 h was found to be 84.59%. The ocular irritancy test revealed that the optimum formulation could be easily tolerated by the eyes. Therefore, these outcomes confirmed that the strategy of using nanoemulsion-based <ce:italic>in situ</ce:italic> for ophthalmic delivery can be a potential alternative for the treatment of ocular conditions.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara012" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0004">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>In situ</ce:italic> gel</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Nanoemulsion</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Ocular drug delivery</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Moxifloxacin hydrochloride</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100002">
+         <dct:format>application/xml</dct:format>
+         <dct:title>The antimicrobial peptide Polybia-MP1 differentiates membranes with the hopanoid, diplopterol from those with cholesterol</dct:title>
+         <dct:creator>Dayane S. Alvares</dct:creator>
+         <dct:creator>Mariela R. Monti</dct:creator>
+         <dct:creator>João Ruggiero Neto</dct:creator>
+         <dct:creator>Natalia Wilke</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Targeting of AMPs</rdf:li>
+               <rdf:li>Bacterial resistance</rdf:li>
+               <rdf:li>Membrane dynamic elasticity</rdf:li>
+               <rdf:li>Optical tweezers</rdf:li>
+               <rdf:li>Lytic activity</rdf:li>
+               <rdf:li>Zeta potential</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100002</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100002</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100002</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100002</dct:identifier>
+         <bam:articleNumber>100002</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-01-21T11:56:32Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100002</ja:aid>
+         <ce:article-number>100002</ce:article-number>
+         <ce:pii>S2667-1603(21)00001-6</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100002</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="ct0001">The antimicrobial peptide Polybia-MP1 differentiates membranes with the hopanoid, diplopterol from those with cholesterol</ce:title>
+         <ce:short-title id="stitle0010">The antimicrobial peptide Polybia-MP1 differentiates membranes with the hopanoid, diplopterol from those with cholesterol</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000016-84243cb71db530910ab1a4ac6636275d">
+               <ce:given-name>Dayane S.</ce:given-name>
+               <ce:surname>Alvares</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000016-638d1bea8e9de60b13db14ec1c5781ec">
+               <ce:given-name>Mariela R.</ce:given-name>
+               <ce:surname>Monti</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667160321000016-f7a8d5587bd17d5390190752f5d80fd8">
+               <ce:given-name>João</ce:given-name>
+               <ce:surname>Ruggiero Neto</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667160321000016-0e06ef4be76ce4a0a9ee20fcce0a9d59">
+               <ce:given-name>Natalia</ce:given-name>
+               <ce:surname>Wilke</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:natalia.wilke@unc.edu.ar"
+                             id="ead0001">natalia.wilke@unc.edu.ar</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000016-279f0bcf1f25e1e3fdd4b3f36deb73ad">
+               <ce:label>a</ce:label>
+               <ce:textfn id="textfn0001">UNESP - Sao Paulo State University, IBILCE, Department of Physics, São José do Rio Preto, SP, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>UNESP - Sao Paulo State University, IBILCE</sa:organization>
+                  <sa:organization>Department of Physics</sa:organization>
+                  <sa:city>São José do Rio Preto</sa:city>
+                  <sa:state>SP</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">UNESP - Sao Paulo State University, IBILCE, Department of Physics, São José do Rio Preto, SP, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667160321000016-756b956ea87970fcbbbbebf6c32ffd72">
+               <ce:label>b</ce:label>
+               <ce:textfn id="textfn0002">Universidad Nacional de Córdoba, Facultad de Ciencias Químicas, Departamento de Química Biológica Ranwel Caputto, Córdoba, Argentina</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Universidad Nacional de Córdoba</sa:organization>
+                  <sa:organization>Facultad de Ciencias Químicas, Departamento de Química Biológica Ranwel Caputto</sa:organization>
+                  <sa:city>Córdoba</sa:city>
+                  <sa:country>Argentina</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0002">Universidad Nacional de Córdoba, Facultad de Ciencias Químicas, Departamento de Química Biológica Ranwel Caputto, Córdoba, Argentina</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667160321000016-6bbe8848e6233641a19aa63e798dc963">
+               <ce:label>c</ce:label>
+               <ce:textfn id="textfn0003">CONICET, Universidad Nacional de Córdoba, Centro de Investigaciones en Química Biológica de Córdoba (CIQUIBIC), Córdoba, Argentina</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>CONICET, Universidad Nacional de Córdoba, Centro de Investigaciones en Química Biológica de Córdoba (CIQUIBIC)</sa:organization>
+                  <sa:city>Córdoba</sa:city>
+                  <sa:country>Argentina</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0003">CONICET, Universidad Nacional de Córdoba, Centro de Investigaciones en Química Biológica de Córdoba (CIQUIBIC), Córdoba, Argentina</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author at: Universidad Nacional de Córdoba, Facultad de Ciencias Químicas, Departamento de Química Biológica Ranwel Caputto, Córdoba, Argentina.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Universidad Nacional de Córdoba</sa:organization>
+                  <sa:organization>Facultad de Ciencias Químicas, Departamento de Química Biológica Ranwel Caputto</sa:organization>
+                  <sa:city>Córdoba</sa:city>
+                  <sa:country>Argentina</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract class="author-highlights" id="absh001" view="all">
+            <ce:section-title id="sctt0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">
+                  <ce:list id="lst0001">
+                     <ce:list-item id="lstitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0001" view="all">Membrane poration upon MP1 addition is not prevented by diplopterol (DP)</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="lstitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0002" view="all">Relaxation times for membranes with DP and MP1 first increase and then decrease</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="lstitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0003" view="all">Z-potential of DP-containing membranes decreases for low MP1 concentrations</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="lstitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0004" view="all">Z-potential of DP-containing membranes increases for high MP1 concentrations</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="graphical" id="absh0002" view="all">
+            <ce:section-title id="sctt0002">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0002" view="all">
+               <ce:simple-para id="sp0002" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0003">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0003" view="all">
+               <ce:simple-para id="sp0003" view="all">Polybia-MP1 is an antimicrobial peptide that shows a decreased activity in membranes with cholesterol (CHO). Since it is now accepted that hopanoids act as sterol-surrogates in some sterol-lacking bacteria, we here inquire about the impact of Polybia-MP1 on membranes containing the hopanoid diplopterol (DP) in comparison to membranes with CHO. We found that, despite the properties induced on lipid membranes by DP are similar to those induced by CHO, the effect of Polybia-MP1 on membranes with CHO or DP was significantly different. DP did not prevent dye release from LUVs, nor the insertion of Polybia-MP1 into monolayers, and peptide-membrane affinity was higher for those with DP than with CHO. Zeta potentials (<mml:math altimg="si14.svg">
+                     <mml:mi>ζ</mml:mi>
+                  </mml:math>) for DP-containing LUVs showed a complex behavior at increasing peptide concentration. The effect of the peptide on membrane elasticity, investigated by nanotube retraction experiments, showed that peptide addition softened all membrane compositions, but membranes with DP got stiffer at long times. Considering this, and the <mml:math altimg="si14.svg">
+                     <mml:mi>ζ</mml:mi>
+                  </mml:math> results, we propose that peptides accumulate at the interface adopting different arrangements, leading to a non-monotonic behavior. Possible correlations with cell membranes were inquired testing the antimicrobial activity of Polybia-MP1 against hopanoid-lacking bacteria pre-incubated with DP or CHO. The fraction of surviving cells was lower in cultures incubated with DP compared to those incubated with CHO. We propose that the higher activity of Polybia-MP1 against some bacteria compared to mammalian cells is not only related to membrane electrostatics, but also the composition of neutral lipids, particularly the hopanoids, could be important.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0004">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">Targeting of AMPs</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Bacterial resistance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Membrane dynamic elasticity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Optical tweezers</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">Lytic activity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="txt0006">Zeta potential</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

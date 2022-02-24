@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107555">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on the relationship between lamotrigine and levetiracetam serum/plasma levels and toxicity: Experience at an academic medical center</dct:title>
+         <dct:creator>Kelly E. Wood</dct:creator>
+         <dct:creator>Kendra L. Palmer</dct:creator>
+         <dct:creator>Matthew D. Krasowski</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Cardiotoxicity</rdf:li>
+               <rdf:li>Drug monitoring</rdf:li>
+               <rdf:li>Lamotrigine</rdf:li>
+               <rdf:li>Levetiracetam</rdf:li>
+               <rdf:li>Neurotoxicity syndromes</rdf:li>
+               <rdf:li>Pharmacokinetics</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107555</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107555</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107555</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107555</dct:identifier>
+         <bam:articleNumber>107555</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-03T12:24:57Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107555</ja:aid>
+         <ce:article-number>107555</ce:article-number>
+         <ce:pii>S2352-3409(21)00831-3</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107555</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S2214-7500(21)00156-6</ce:pii>
+               <ce:doi>10.1016/j.toxrep.2021.08.005</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data on the relationship between lamotrigine and levetiracetam serum/plasma levels and toxicity: Experience at an academic medical center</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008313-7a131cf945c381ec809d58cfe4be8ff9">
+               <ce:given-name>Kelly E.</ce:given-name>
+               <ce:surname>Wood</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008313-684e12dbab64f9a74f997865b84dd349">
+               <ce:given-name>Kendra L.</ce:given-name>
+               <ce:surname>Palmer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008313-3e1d0e993e8b1745a70ce5fe254bdfc4">
+               <ce:given-name>Matthew D.</ce:given-name>
+               <ce:surname>Krasowski</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:matthew-krasowski@uiowa.edu">matthew-krasowski@uiowa.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008313-761260c4e9186289e4c2a54d5b8c62a4">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Stead Family Department of Pediatrics, University of Iowa Stead Family Children's Hospital, Iowa City, IA 52242, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Stead Family Department of Pediatrics</sa:organization>
+                  <sa:organization>University of Iowa Stead Family Children's Hospital</sa:organization>
+                  <sa:city>Iowa City</sa:city>
+                  <sa:state>IA</sa:state>
+                  <sa:postal-code>52242</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aStead Family Department of Pediatrics, University of Iowa Stead Family Children's Hospital, Iowa City, IA 52242, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008313-cb5a3cea5855dd64db720e81b6993a7a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Pathology, University of Iowa Hospitals and Clinics, 200 Hawkins Drive, C-671 GH, Iowa City, IA 52242, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pathology</sa:organization>
+                  <sa:organization>University of Iowa Hospitals and Clinics</sa:organization>
+                  <sa:address-line>200 Hawkins Drive, C-671 GH</sa:address-line>
+                  <sa:city>Iowa City</sa:city>
+                  <sa:state>IA</sa:state>
+                  <sa:postal-code>52242</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Pathology, University of Iowa Hospitals and Clinics, 200 Hawkins Drive, C-671 GH, Iowa City, IA 52242, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="28" month="10" year="2021"/>
+         <ce:date-accepted day="2" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara002" view="all">Lamotrigine and levetiracetam are second-generation anti-epileptic drugs used for the management of seizure disorders and some other medical conditions. In the related research article using retrospective data from an academic medical center, we analyzed 5046 samples originating from 1930 unique patients that had lamotrigine drug levels performed on serum/plasma and 4359 samples from 2451 patients that had levetiracetam drug levels performed. The data in this article provides the patient demographic, clinical location at time of drug level, and specific lamotrigine or levetiracetam serum/plasma drug level for all patients. For those instances with lamotrigine drug level greater than 14.0 mg/L or levetiracetam drug level of 80 mg/L or higher, additional data from chart review includes: indication for ordering the drug level, two main presenting signs or symptoms at time of drug level, timing of drug level (random, trough, peak, or unknown), changes in drug dosing following the drug level, concomitant therapy with valproic acid (lamotrigine only), and details related to drug overdose (if applicable). The analyzed data is provided in the supplementary tables included in this article. Volumes of test ordering by year is included in a figure. The dataset reported is related to the research article entitled “Correlation of Elevated Lamotrigine and Levetiracetam Serum/Plasma Levels with Toxicity: A Long-Term Retrospective Review at an Academic Medical Center” [K. E. Wood, K. L. Palmer, M.D. Krasowski, Correlation of elevated lamotrigine and levetiracetam serum/plasma levels with toxicity: A long-term retrospective review at an academic medical center, Toxicol. Rep. (2021) 8:1592-1598]</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Cardiotoxicity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Drug monitoring</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Lamotrigine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Levetiracetam</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Neurotoxicity syndromes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Pharmacokinetics</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>IADD: An integrated Arabic dialect identification dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jihad</namePart>
+      <namePart type="family">Zahir</namePart>
+      <displayForm>Zahir, Jihad</displayForm>
+      <affiliation>LISI laboratory, Cadi Ayyad University, Marrakesh, Morocco</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Arabic language has different variants that can be roughly categorized into three main categories: Classical Arabic (CA), Modern Standard Arabic (MSA) and Dialectal Arabic (DA). There are subtle differences between MSA and CA in terms of syntax, terminology and pronunciation. However, Dialectal Arabic (DA) significantly differs from CA and MSA in that it reflects geographic location of the speaker, or at least the country of origin, if mobility factors are taken into account. This paper presents IADD, an Integrated dataset for Arabic dialect identification, that contains 135,804 texts representing Arabic dialects from 5 regions and 9 countries. IADD dataset is created, from the combination of subsets of five corpora, to support the task of automatic Arabic dialects detection. </abstract>
+   <subject>
+      <topic>Dialect identification</topic>
+   </subject>
+   <subject>
+      <topic>Arabic language</topic>
+   </subject>
+   <subject>
+      <topic>Geographic disaggregation</topic>
+   </subject>
+   <subject>
+      <topic>Web mining</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107777</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107777</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107777</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01051-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-29"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010519/S2352340921010519.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

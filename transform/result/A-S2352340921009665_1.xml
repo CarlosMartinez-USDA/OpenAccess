@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107691">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Simulated late gadolinium enhanced cardiac magnetic resonance imaging dataset from mechanical XCAT phantom including a myocardial infarct</dct:title>
+         <dct:creator>Evianne Kruithof</dct:creator>
+         <dct:creator>Sina Amirrajab</dct:creator>
+         <dct:creator>Kevin D. Lau</dct:creator>
+         <dct:creator>Marcel Breeuwer</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Ground truth magnetic resonance imaging data</rdf:li>
+               <rdf:li>Image artifacts</rdf:li>
+               <rdf:li>Image resolution</rdf:li>
+               <rdf:li>Slice misalignment</rdf:li>
+               <rdf:li>Ventricular tachycardia</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107691</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107691</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107691</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107691</dct:identifier>
+         <bam:articleNumber>107691</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-07T13:16:45Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Dutch University VSNU 2020</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107691</ja:aid>
+         <ce:article-number>107691</ce:article-number>
+         <ce:pii>S2352-3409(21)00966-5</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107691</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0010-4825(21)00567-9</ce:pii>
+               <ce:doi>10.1016/j.compbiomed.2021.104773</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Simulated late gadolinium enhanced cardiac magnetic resonance imaging dataset from mechanical XCAT phantom including a myocardial infarct</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009665-5e10bc0b159bca3a8c0a611dfc935856"
+                       orcid="0000-0003-0354-7813">
+               <ce:given-name>Evianne</ce:given-name>
+               <ce:surname>Kruithof</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:e.kruithof@tue.nl">e.kruithof@tue.nl</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009665-14382079b6166ae1d933334a1b8320fd"
+                       orcid="0000-0001-8226-7777">
+               <ce:given-name>Sina</ce:given-name>
+               <ce:surname>Amirrajab</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009665-433d598c0631beed109652d22f4feae9">
+               <ce:given-name>Kevin D.</ce:given-name>
+               <ce:surname>Lau</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009665-b7cc8afea26b8c737beb51b216ef7852"
+                       orcid="0000-0003-1822-8970">
+               <ce:given-name>Marcel</ce:given-name>
+               <ce:surname>Breeuwer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009665-5c1364564f0759da8e8e6ebd7b0dde7f">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Eindhoven University of Technology, the Netherland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Eindhoven University of Technology</sa:organization>
+                  <sa:country>the Netherland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aEindhoven University of Technology, the Netherland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009665-4976e3909af018f6c3f08a1ddab589aa">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Philips Research Eindhoven, the Netherland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Philips Research Eindhoven</sa:organization>
+                  <sa:country>the Netherland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bPhilips Research Eindhoven, the Netherland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921009665-5d06d6445438f871838ef62acdf0a5ae">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Philips Healthcare Best, the Netherland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Philips Healthcare Best</sa:organization>
+                  <sa:country>the Netherland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cPhilips Healthcare Best, the Netherland</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="15" month="11" year="2021"/>
+         <ce:date-revised day="3" month="12" year="2021"/>
+         <ce:date-accepted day="7" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">The late enhanced magnetic resonance image dataset in this article is simulated using a mechanistic cardiac phantom that includes an myocardial infarct. Settings of the image simulation pipeline are adjusted such that high- and low-resolution images, with and without slice alignment artifacts, are simulated. Our article on the influence of image artifacts on image-based models of the cardiac electrophysiology is based on this data (Kruithof et al., 2021). This dataset provides image-analysis researchers a reference to perform validation of their methods using the included high-resolution ground truth image, a resource that is often unavailable clinically.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Ground truth magnetic resonance imaging data</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Image artifacts</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Image resolution</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Slice misalignment</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Ventricular tachycardia</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

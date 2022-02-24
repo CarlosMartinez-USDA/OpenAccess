@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107666">
+         <dct:format>application/xml</dct:format>
+         <dct:title>FinTech and macroeconomics: Dataset from the US peer-to-peer lending platform</dct:title>
+         <dct:creator>Asror Nigmonov</dct:creator>
+         <dct:creator>Syed Shams</dct:creator>
+         <dct:creator>Khorshed Alam</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Crowdfunding</rdf:li>
+               <rdf:li>Default</rdf:li>
+               <rdf:li>Marketplace lending</rdf:li>
+               <rdf:li>Peer-to-peer lending</rdf:li>
+               <rdf:li>United States</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107666</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107666</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107666</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107666</dct:identifier>
+         <bam:articleNumber>107666</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-30T12:51:54Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Australian and New Zealand Institutes</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107666</ja:aid>
+         <ce:article-number>107666</ce:article-number>
+         <ce:pii>S2352-3409(21)00941-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107666</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0275-5319(21)00137-9</ce:pii>
+               <ce:doi>10.1016/j.ribaf.2021.101516</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">FinTech and macroeconomics: Dataset from the US peer-to-peer lending platform</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009410-5ca685f87dddb1ae67626c557c57b50e"
+                       orcid="0000-0003-0372-2909">
+               <ce:given-name>Asror</ce:given-name>
+               <ce:surname>Nigmonov</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:a.nigmonov@unsw.edu.au">a.nigmonov@unsw.edu.au</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009410-c597e2c715fde3aa2afdadada963216c">
+               <ce:given-name>Syed</ce:given-name>
+               <ce:surname>Shams</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009410-1047c2eb557c74489eb4d15228222bb8"
+                       orcid="0000-0003-2232-0745">
+               <ce:given-name>Khorshed</ce:given-name>
+               <ce:surname>Alam</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009410-143f0c81899013ca2ad79956db0c3685">
+               <ce:textfn id="cetextfn0001">Business School, University of New South Wales, Australia; School of Business, Centre for Health Research University of Southern Queensland, Australia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Business School, University of New South Wales, Australia; School of Business</sa:organization>
+                  <sa:organization>Centre for Health Research University of Southern Queensland</sa:organization>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Business School, University of New South Wales, Australia; School of Business, Centre for Health Research University of Southern Queensland, Australia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="25" month="10" year="2021"/>
+         <ce:date-revised day="28" month="11" year="2021"/>
+         <ce:date-accepted day="29" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">We aggregate the United States (US) state-level data with LendingClub's loan book covering the period from 2008 to 2019. LendingClub is a FinTech lending company that provides loans through a technology-driven platform. It was one of the pioneering and leading US peer-to-peer (P2P) lending platforms. Our dataset consists of over two million observations (N=2,703,430) with diverse loan, borrowers and state-specific features. We provide the description of variables, descriptive statistics, and STATA code with the full dataset. The US possesses significant cross-state variation in terms of economic and demographic characteristics while having risk-sharing policies at the federal level to protect states' creditworthiness. This unique feature of our combined database creates an ideal opportunity to explore the P2P lending market within the context of macroeconomic variables. As the dataset covers a 12-year period for all US states, it enables further cross-sectional and longitudinal analyses of the FinTech lending market.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Crowdfunding</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Default</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Marketplace lending</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Peer-to-peer lending</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">United States</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

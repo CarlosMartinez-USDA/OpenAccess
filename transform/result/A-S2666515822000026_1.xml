@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.cris.2022.100030">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Ecdysteroid kinase-like (EcKL) paralogs confer developmental tolerance to caffeine in Drosophila melanogaster</dct:title>
+         <dct:creator>Jack L. Scanlan</dct:creator>
+         <dct:creator>Paul Battlay</dct:creator>
+         <dct:creator>Charles Robin</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Ecdysone</rdf:li>
+               <rdf:li>DUF227</rdf:li>
+               <rdf:li>Ecdysteroid kinase-like</rdf:li>
+               <rdf:li>Toxicology</rdf:li>
+               <rdf:li>Citrus</rdf:li>
+               <rdf:li>Induction</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Current Research in Insect Science 2 (2022). doi:10.1016/j.cris.2022.100030</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Current Research in Insect Science</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2666-5158</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:coverDisplayDate>2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.cris.2022.100030</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.cris.2022.100030</prism:url>
+         <dct:identifier>doi:10.1016/j.cris.2022.100030</dct:identifier>
+         <bam:articleNumber>100030</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-12T14:47:13Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Australian and New Zealand Institutes</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>CRIS</ja:jid>
+         <ja:aid>100030</ja:aid>
+         <ce:article-number>100030</ce:article-number>
+         <ce:pii>S2666-5158(22)00002-6</ce:pii>
+         <ce:doi>10.1016/j.cris.2022.100030</ce:doi>
+         <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Ecdysteroid kinase-like (EcKL) paralogs confer developmental tolerance to caffeine in <ce:italic>Drosophila melanogaster</ce:italic>
+         </ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2666515822000026-d6f779f2b7149f0d80ed7e877e12112a"
+                       orcid="0000-0001-9163-2203">
+               <ce:given-name>Jack L.</ce:given-name>
+               <ce:surname>Scanlan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2666515822000026-851f2237b176ba3bdab9486b9ae41fec"
+                       orcid="0000-0001-6050-1868">
+               <ce:given-name>Paul</ce:given-name>
+               <ce:surname>Battlay</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2666515822000026-61e79d0a1315cc7c1f5729064465ae0b"
+                       orcid="0000-0002-7733-6763">
+               <ce:given-name>Charles</ce:given-name>
+               <ce:surname>Robin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:crobin@unimelb.edu.au">crobin@unimelb.edu.au</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2666515822000026-8b6f1d5cdd1240b80df4e8da5a26858f">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">School of BioSciences, The University of Melbourne, Parkville Campus, Melbourne, Victoria, 3010, Australia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of BioSciences</sa:organization>
+                  <sa:organization>The University of Melbourne</sa:organization>
+                  <sa:address-line>Parkville Campus</sa:address-line>
+                  <sa:city>Melbourne</sa:city>
+                  <sa:state>Victoria</sa:state>
+                  <sa:postal-code>3010</sa:postal-code>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1School of BioSciences, The University of Melbourne, Parkville Campus, Melbourne, Victoria, 3010, Australia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author: Charles Robin, School of BioSciences, The University of Melbourne, Building 184, Parkville Campus, Melbourne, Victoria, 3010, Australia</ce:text>
+               <sa:affiliation>
+                  <sa:organization>School of BioSciences</sa:organization>
+                  <sa:organization>The University of Melbourne</sa:organization>
+                  <sa:address-line>Building 184, Parkville Campus</sa:address-line>
+                  <sa:city>Melbourne</sa:city>
+                  <sa:state>Victoria</sa:state>
+                  <sa:postal-code>3010</sa:postal-code>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="16" month="9" year="2021"/>
+         <ce:date-revised day="10" month="1" year="2022"/>
+         <ce:date-accepted day="12" month="1" year="2022"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Phosphorylation is an under-characterised detoxification reaction in insects</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Dro5 EcKL genes are good detoxification candidate genes in <ce:italic>Drosophila melanogaster</ce:italic>
+                        </ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Knockout and misexpression of some Dro5 genes modulated tolerance to caffeine</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Dro5 genes may also confer tolerance to the fungal toxin kojic acid</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara009" view="all">A unique aspect of metabolic detoxification in insects compared to other animals is the presence of xenobiotic phosphorylation, about which little is currently understood. Our previous work raised the hypothesis that members of the taxonomically restricted ecdysteroid kinase-like (EcKL) gene family encode the enzymes responsible for xenobiotic phosphorylation in the model insect <ce:italic>Drosophila melanogaster</ce:italic> (Diptera: Ephydroidea)—however, candidate detoxification genes identified in the EcKL family have yet to be functionally validated. Here, we test the hypothesis that EcKL genes in the rapidly evolving Dro5 clade are involved in the detoxification of plant and fungal toxins in <ce:italic>D. melanogaster</ce:italic>. The mining and reanalysis of existing data indicated multiple Dro5 genes are transcriptionally induced by the plant alkaloid caffeine and that adult caffeine susceptibility is associated with a novel naturally occurring indel in <ce:italic>CG31370</ce:italic> (Dro5-8) in the Drosophila Genetic Reference Panel (DGRP). CRISPR-Cas9 mutagenesis of five Dro5 EcKLs substantially decreased developmental tolerance of caffeine, while individual overexpression of two of these genes—<ce:italic>CG31300</ce:italic> (Dro5-1) and <ce:italic>CG13659</ce:italic> (Dro5-7)—in detoxification-related tissues increased developmental tolerance. In addition, we found Dro5 loss-of-function animals also have decreased developmental tolerance of the fungal secondary metabolite kojic acid. Taken together, this work provides the first compelling functional evidence that EcKLs encode detoxification enzymes and suggests that EcKLs in the Dro5 clade are involved in the metabolism of multiple ecologically relevant toxins in <ce:italic>D. melanogaster</ce:italic>. We also propose a biochemical hypothesis for EcKL involvement in caffeine detoxification and highlight the many unknown aspects of caffeine metabolism in <ce:italic>D. melanogaster</ce:italic> and other insects.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="abr" id="pc_FZLBl95q9TMZzY1GzCOKQj8nyIcCeGQ7" view="all">
+            <ce:keyword id="pc_Alzm8n79wx">
+               <ce:text>ABC</ce:text>
+               <ce:keyword id="pc_99tjPwD0RP">
+                  <ce:text>ATP-binding cassette</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_wsjvpW9wZa">
+               <ce:text>CNS</ce:text>
+               <ce:keyword id="pc_Ouj2iNyMkx">
+                  <ce:text>Central nervous system</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_QgnVYhN0Xo">
+               <ce:text>DGRP</ce:text>
+               <ce:keyword id="pc_EfGyMOyoX8">
+                  <ce:text>Drosophila Genetic Reference Panel</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_HNny3mKCML">
+               <ce:text>GWAS</ce:text>
+               <ce:keyword id="pc_XJdVAoRWti">
+                  <ce:text>Genome Wide Association Panel</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_w9Zl5MiIZy">
+               <ce:text>EcKL</ce:text>
+               <ce:keyword id="pc_DmgMZuhyzW">
+                  <ce:text>Ecdysteroid kinase-like</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_KfB0Wl6GvG">
+               <ce:text>UDP</ce:text>
+               <ce:keyword id="pc_hg9Wqy4kcH">
+                  <ce:text>Uridine diphosphate</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_JZmUNxkKYz">
+               <ce:text>DUF227</ce:text>
+               <ce:keyword id="pc_IA2YCMsA61">
+                  <ce:text>Domain of Unknown Function 227</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Ecdysone</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">DUF227</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Ecdysteroid kinase-like</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Toxicology</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Citrus</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Induction</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

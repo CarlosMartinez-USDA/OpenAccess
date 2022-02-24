@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Revisiting social vulnerability analysis in Indonesia data</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Robert</namePart>
+      <namePart type="family">Kurniawan</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8275-4070</nameIdentifier>
+      <displayForm>Kurniawan, Robert</displayForm>
+      <affiliation>Department of Statistical Computing, Polytechnic Statistics STIS, Jakarta 13330, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bahrul Ilmi</namePart>
+      <namePart type="family">Nasution</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6526-7185</nameIdentifier>
+      <displayForm>Nasution, Bahrul Ilmi</displayForm>
+      <affiliation>Jakarta Smart City, Department of Communications, Informatics, and Statistics, Jakarta 10110, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Neli</namePart>
+      <namePart type="family">Agustina</namePart>
+      <displayForm>Agustina, Neli</displayForm>
+      <affiliation>Department of Statistics, Polytechnic Statistics STIS, Jakarta 13330, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Budi</namePart>
+      <namePart type="family">Yuniarto</namePart>
+      <displayForm>Yuniarto, Budi</displayForm>
+      <affiliation>Department of Statistical Computing, Polytechnic Statistics STIS, Jakarta 13330, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper presents the dataset about the social vulnerability in Indonesia. This dataset contains several dimensions which rely on previous studies. The data was compiled mainly from the 2017 National Socioeconomic Survey (SUSENAS) done by BPS-Statistics Indonesia. We utilize the weight to obtain the estimation based on multistage sampling. We also received additional information on population, the number, and population growth from the BPS-Statistics Indonesia's 2017 Population projection. Furthermore, we provide the distance matrix as the supplementary information and the number of populations to do the Fuzzy Geographically Weighted Clustering (FGWC). This data can be utilized to do further analysis of social vulnerability to promote disaster management. The data can be accessed further at https://raw.githubusercontent.com/bmlmcmc/naspaclust/main/data/sovi_data.csv. </abstract>
+   <subject>
+      <topic>Disaster management</topic>
+   </subject>
+   <subject>
+      <topic>Disaster mitigation</topic>
+   </subject>
+   <subject>
+      <topic>Fuzzy geographically weighted clustering</topic>
+   </subject>
+   <subject>
+      <topic>Multistage sampling</topic>
+   </subject>
+   <subject>
+      <topic>Social vulnerability</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107743</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107743</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107743</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01018-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-21"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010180/S2352340921010180.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

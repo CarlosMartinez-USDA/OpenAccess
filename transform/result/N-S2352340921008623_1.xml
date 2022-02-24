@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Non-melanoma skin cancer segmentation for histopathology dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Simon M.</namePart>
+      <namePart type="family">Thomas</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4609-2732</nameIdentifier>
+      <displayForm>Thomas, Simon M.</displayForm>
+      <affiliation>Institute for Molecular Bioscience, The University of Queensland, St Lucia, Australia</affiliation>
+      <affiliation>MyLab Pathology, Salisbury, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">James G.</namePart>
+      <namePart type="family">Lefevre</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5945-9575</nameIdentifier>
+      <displayForm>Lefevre, James G.</displayForm>
+      <affiliation>Institute for Molecular Bioscience, The University of Queensland, St Lucia, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Glenn</namePart>
+      <namePart type="family">Baxter</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0994-5193</nameIdentifier>
+      <displayForm>Baxter, Glenn</displayForm>
+      <affiliation>MyLab Pathology, Salisbury, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nicholas A.</namePart>
+      <namePart type="family">Hamilton</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0331-3427</nameIdentifier>
+      <displayForm>Hamilton, Nicholas A.</displayForm>
+      <affiliation>Institute for Molecular Bioscience, The University of Queensland, St Lucia, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Densely labelled segmentation data for digital pathology images is costly to produce but is invaluable to training effective machine learning models. We make available 290 hand-annotated histopathology tissue sections of the 3 most common skin cancers; basal cell carcinoma (BCC), squamous cell carcinoma (SCC) and intraepidermal carcinoma (IEC). These non-melanoma skin cancers constitute over 90% of all skin cancer diagnoses and hence this dataset gives an opportunity to the scientific community to benchmark analytic methodologies on a significant portion of the dermatopathology workflow. The data represents typical cases of the three cancer types (not requiring a differential diagnosis) across shave, punch and excision biopsy contexts. Each image is accompanied with a segmentation mask which characterizes the section into 12 tissue types, specifically: keratin, epidermis, papillary dermis, reticular dermis, hypodermis, inflammation, glands, hair follicles and background, as well as BCC, SCC and IEC. Included also are cancer margin measurements to work towards automated assessment of surgical margin clearance and tumour invasion. This leaves open many opportunities for researchers to utilize or extend the dataset, building upon recent work on image analysis problems in skin cancer (Thomas et al., 2021). </abstract>
+   <subject>
+      <topic>Digital pathology</topic>
+   </subject>
+   <subject>
+      <topic>Machine learning</topic>
+   </subject>
+   <subject>
+      <topic>Medical imaging</topic>
+   </subject>
+   <subject>
+      <topic>Image analysis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107587</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107587</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107587</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00862-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-16"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008623/S2352340921008623.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

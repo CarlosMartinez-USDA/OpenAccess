@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Bogazici university smartphone accelerometer sensor dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Erhan</namePart>
+      <namePart type="family">Davarcı</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3966-8548</nameIdentifier>
+      <displayForm>Davarcı, Erhan</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Emin</namePart>
+      <namePart type="family">Anarım</namePart>
+      <displayForm>Anarım, Emin</displayForm>
+      <affiliation>Bogazici University Electrical and Electronics Engineering, Istanbul, Turkey</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Mobile devices especially smartphones have gained high popularity and become a part of daily life in recent years. Therefore, there are many studies that investigate users' interactions with smartphones and try to extract meaningful information from various inputs. Actually, the main motivation behind these studies is the behavioral differences of users in their interactions with smartphones. In these studies, motion sensors in devices such as accelerometer and gyroscope are widely used. Data obtained from motion sensors allows to detect information such as age-group, gender, activity type, identity of users. In this context, we develop an Android application that gathers accelerometer sensor data while users perform different activities. This application records all accelerometer data and touch event information generated while users are using their devices. Then, we perform two experiments and collect two different data using this application. In the first experiment, we collect data from 107 child users and 100 adult users to analyze the impact of different age-groups' behavior on sensor data. This dataset includes more than 11.000 taps data for child and adult users, in total. In the second experiment, data is collected from 60 female and 60 male users for different activities like sitting and walking. There are more than 6.000 taps data for sitting and walking scenarios separately in the second dataset. This dataset makes it possible to analyze the changes created by different gender and activity types in the sensor data. These data can be used for behavioral biometric analyses on smartphones such as user age-group and gender detection, user identification and authentication. </abstract>
+   <subject>
+      <topic>Smartphones</topic>
+   </subject>
+   <subject>
+      <topic>Motion sensors</topic>
+   </subject>
+   <subject>
+      <topic>Accelerometer</topic>
+   </subject>
+   <subject>
+      <topic>Behavioral biometrics</topic>
+   </subject>
+   <subject>
+      <topic>Age-group detection</topic>
+   </subject>
+   <subject>
+      <topic>Gender recognition</topic>
+   </subject>
+   <subject>
+      <topic>Authentication</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107833</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107833</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107833</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00045-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-13"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000452/S2352340922000452.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

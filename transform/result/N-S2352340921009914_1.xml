@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Questionnaire dataset: The Greek Smart Cities - Municipalities dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Georgios</namePart>
+      <namePart type="family">Siokas</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7017-874X</nameIdentifier>
+      <displayForm>Siokas, Georgios</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Aggelos</namePart>
+      <namePart type="family">Tsakanikas</namePart>
+      <displayForm>Tsakanikas, Aggelos</displayForm>
+      <affiliation>Laboratory of Industrial and Energy Economics, School of Chemical Engineering, National Technical University of Athens1, Zografou Campus, 9 Iroon Polytechniou str., Zografou 15780, Greece</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The dataset was formulated through field research in the Greek Municipalities. The survey was undertaken with an online questionnaire (available in Greek) and the contact person was the Chief Digital Officer or a person with similar responsibilities. The final sample is 252 out of a total of 325 Municipalities. Each respondent had to answer to 26 questions, including sub-questions, of different types (1) 5-point Likert scale, (2) rating scale, (3) closed type “Yes/no”, (4) open-ended and (5) dropdown, and, depending on them, there are 3 types of variables (1) ordinal, (2) nominal, and (3) scale variables. The concepts included in the questionnaire are a) the level of integration and use of digital technologies, b) the difficulties and the challenges municipality authorities face when trying to implement a smart strategy and c) the level of diverse collaborations and partnerships which are necessary in order to develop a strategy. The data can be used to analyse the strategic capabilities of the Greek Municipalities under the three concepts evaluated in the questionnaire. The data's primary beneficiaries include researchers, public authorities, digital platforms entrepreneurs, smart city specialists and smart city entrepreneurs, as they can use the dataset to develop models against already known results, to identify factors important in an urban strategy and to further study the correlations between the different factors, design and draft an urban strategy on real data. </abstract>
+   <subject>
+      <topic>Smart cities</topic>
+   </subject>
+   <subject>
+      <topic>Urban development</topic>
+   </subject>
+   <subject>
+      <topic>Smart urban strategy</topic>
+   </subject>
+   <subject>
+      <topic>Urban economy</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107716</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107716</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107716</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00991-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009914/S2352340921009914.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

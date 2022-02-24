@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107790">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset on negative symptoms factors in patients with schizophrenia</dct:title>
+         <dct:creator>T.V. Lezheiko</dct:creator>
+         <dct:creator>N.Yu. Kolesina</dct:creator>
+         <dct:creator>V.E. Golimbet</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Schizophrenia</rdf:li>
+               <rdf:li>Season of birth</rdf:li>
+               <rdf:li>PANSS</rdf:li>
+               <rdf:li>Negative symptoms factors</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2022.107790</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2022.107790</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107790</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107790</dct:identifier>
+         <bam:articleNumber>107790</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-03T20:48:51Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107790</ja:aid>
+         <ce:article-number>107790</ce:article-number>
+         <ce:pii>S2352-3409(22)00002-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107790</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset on negative symptoms factors in patients with schizophrenia</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000026-948748a050691cb0760a9b546b55df6e">
+               <ce:given-name>T.V.</ce:given-name>
+               <ce:surname>Lezheiko</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000026-22ae46916c22aee19012dd5fa9cf1ad7">
+               <ce:given-name>N.Yu.</ce:given-name>
+               <ce:surname>Kolesina</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000026-9dd8d927601f4e9239dcf9fbf282c9f6"
+                       orcid="0000-0002-9960-7114">
+               <ce:given-name>V.E.</ce:given-name>
+               <ce:surname>Golimbet</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:golimbet@mail.ru">golimbet@mail.ru</ce:e-address>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:clin-gen@ncpz.ru">clin-gen@ncpz.ru</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000026-2c152b92e3fc3f2299da86a2de325ba3">
+               <ce:textfn id="cetextfn0001">Mental Health Research Center, Kashirskoe sh.34, Moscow 115522, Russian Federation</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Mental Health Research Center</sa:organization>
+                  <sa:address-line>Kashirskoe sh.34</sa:address-line>
+                  <sa:city>Moscow</sa:city>
+                  <sa:postal-code>115522</sa:postal-code>
+                  <sa:country>Russian Federation</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Mental Health Research Center, Kashirskoe sh.34, Moscow 115522, Russian Federation</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="21" month="9" year="2021"/>
+         <ce:date-revised day="10" month="12" year="2021"/>
+         <ce:date-accepted day="31" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">Schizophrenia is a severe mental disorder characterized by positive and negative symptoms. The negative symptoms are highly relevant to the disease course and outcome. Because negative symptoms show considerable heterogeneity, there is substantial interest in elucidating the negative symptom domains that are characteristic of patient subgroups. It has been proposed that patients with schizophrenia should be classified into deficit and non-deficit groups based on the severity of their negative symptoms. Another method suggested the assessment of the factor structure of negative symptoms to understand its mechanisms. Factor analysis of the different negative symptom rating scales reveals two distinct negative symptom subdomains: diminished expression (DE) and avolition/apathy (AA). These characteristics suggest different pathophysiological mechanisms for the development of AA and DE. We present a large dataset of negative symptom factors calculated for 3006 patients with schizophrenia in the Russian population. Sex, age, age at disease onset and data of birth, including season of birth (SOB), family history of schizophrenia are presented. Negative symptoms were assessed with the Positive and Negative Syndromes Scale (PANSS). We calculated negative symptoms factors as suggested by Liemburg et al. (2013). The data will be useful in assessing the impact of such factors as sex, season of birth (SOB) and family history on the scores of negative symptoms subdomains; such data can help us to better understand the heterogeneity of the negative symptoms of schizophrenia.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Schizophrenia</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Season of birth</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">PANSS</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Negative symptoms factors</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

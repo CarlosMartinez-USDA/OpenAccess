@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Forecast of electric vehicle uptake across counties in England: Dataset from S-curve analysis</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Katherine A.</namePart>
+      <namePart type="family">Collett</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3946-4406</nameIdentifier>
+      <displayForm>Collett, Katherine A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sivapriya M.</namePart>
+      <namePart type="family">Bhagavathy</namePart>
+      <displayForm>Bhagavathy, Sivapriya M.</displayForm>
+      <affiliation>Energy and Power Group, Department of Engineering Science, University of Oxford, Parks Road, Oxford OX1 3PJ, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Malcolm D.</namePart>
+      <namePart type="family">McCulloch</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5378-1128</nameIdentifier>
+      <displayForm>McCulloch, Malcolm D.</displayForm>
+      <affiliation>Energy and Power Group, Department of Engineering Science, University of Oxford, Parks Road, Oxford OX1 3PJ, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Regional data from the UK Government's Department for Transport has been analyzed to produce a forecasted dataset of the uptake of electric vehicles (EVs) within Counties of England to the first quarter of the year 2100 using an S-curve methodology. This data includes all vehicles, not just cars. The historic proportion of electric vehicles in the fleets of these regions is calculated using data from 2011 Q4 to 2021 Q1. This data is then analyzed using SCATE, the S-Curve Adoption Tool for EVs to forecast the future proportion of electric vehicles in these Counties. Two data tables are presented: the reformatted historic data and the data from the S-curve analysis. Data is also presented for the collective UK. </abstract>
+   <subject>
+      <topic>Electric vehicles</topic>
+   </subject>
+   <subject>
+      <topic>Forecast</topic>
+   </subject>
+   <subject>
+      <topic>Uptake</topic>
+   </subject>
+   <subject>
+      <topic>S-curve analysis</topic>
+   </subject>
+   <subject>
+      <topic>EVs</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107662</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107662</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107662</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00937-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-30"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009379/S2352340921009379.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

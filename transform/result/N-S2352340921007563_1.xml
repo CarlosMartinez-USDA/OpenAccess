@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A dataset of the chemical composition and near-infrared spectroscopy measurements of raw cattle, poultry and pig manure</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Thierry</namePart>
+      <namePart type="family">Morvan</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6678-2661</nameIdentifier>
+      <displayForm>Morvan, Thierry</displayForm>
+      <affiliation>INRAE, Institut Agro, UMR SAS, Rennes 35000, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fabien</namePart>
+      <namePart type="family">Gogé</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1396-6862</nameIdentifier>
+      <displayForm>Gogé, Fabien</displayForm>
+      <affiliation>INRAE, Institut Agro, UMR SAS, Rennes 35000, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Thierry</namePart>
+      <namePart type="family">Oboyet</namePart>
+      <displayForm>Oboyet, Thierry</displayForm>
+      <affiliation>CAPINOV, Landerneau 29800, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Odile</namePart>
+      <namePart type="family">Carel</namePart>
+      <displayForm>Carel, Odile</displayForm>
+      <affiliation>CAPINOV, Landerneau 29800, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Youssef</namePart>
+      <namePart type="family">Fouad</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3344-7928</nameIdentifier>
+      <displayForm>Fouad, Youssef</displayForm>
+      <affiliation>INRAE, Institut Agro, UMR SAS, Rennes 35000, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Organic waste products (OWPs) from livestock have a high fertilizer value (N, P, K), but can also lead to environmental problems when applied in excessive quantities. Because their composition varies greatly, it is important to develop fast, reliable and inexpensive methods for determining their chemical contents. Near-infrared spectroscopy (NIRS) offers the possibility of rapid analysis of samples and requires little sample preparation, and previous studies have demonstrated that NIRS could be able to determine the most important compositional parameters of solid animal manure. The recent development of low-cost miniaturized spectrometers even enables manure-spreading equipment to be equipped with sensors to measure the composition in real time, and some applications are already being commercialized for the spreading of liquid OWPs. In-situ analysis of these very heterogeneous products (roughness, humidity) is a challenge for such applications, because spectral acquisition must be performed on raw samples with no preparation. To evaluate the accuracy with which NIRS estimates dry matter content, organic matter, total and ammonium nitrogen, phosphorus, potassium, calcium and magnesium contents, we created a large calibration database representative of raw solid animal manures encountered in Brittany. A total of 490 samples of solid OWPs from livestock farms were collected in the early spring from 270 farms in Brittany (western France), in 2 campaigns conducted in 2018 and 2019. The sampling was designed to capture the large diversity of animal species (mainly cattle, pigs and poultry), type of farming and storage modes. Compositional parameters were analyzed according to analysis methods certified by the French standards organization (AFNOR). Samples were scanned using a Q-interline AgriQuant B8 equipped with a patented spiral sampler, which aggregates the heterogeneity of the sample. NIRS measurements were made in triplicate. Because the dataset covers a wide range of variability in the composition of solid animal manure, these data are of great interest to chemometrics experts and agronomists in search of references on the fertilizing value of products. </abstract>
+   <subject>
+      <topic>Solid animal organic waste product</topic>
+   </subject>
+   <subject>
+      <topic>NIR spectroscopy</topic>
+   </subject>
+   <subject>
+      <topic>Chemical composition</topic>
+   </subject>
+   <subject>
+      <topic>Fertilizing value</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107475</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107475</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107475</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00756-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-11"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007563/S2352340921007563.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

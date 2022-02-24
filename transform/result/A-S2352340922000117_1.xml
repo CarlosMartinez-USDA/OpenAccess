@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107799">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Genome sequence data of the antagonistic soil-borne yeast Cyberlindnera sargentensis (SHA 17.2)</dct:title>
+         <dct:creator>Maria Paula Rueda-Mejia</dct:creator>
+         <dct:creator>Lukas Nägeli</dct:creator>
+         <dct:creator>Stefanie Lutz</dct:creator>
+         <dct:creator>Raúl A. Ortiz-Merino</dct:creator>
+         <dct:creator>Daniel Frei</dct:creator>
+         <dct:creator>Jürg E. Frey</dct:creator>
+         <dct:creator>Kenneth H. Wolfe</dct:creator>
+         <dct:creator>Christian H. Ahrens</dct:creator>
+         <dct:creator>Florian M. Freimoser</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Antagonism</rdf:li>
+               <rdf:li>Biocontrol</rdf:li>
+               <rdf:li>Genome assembly and annotation</rdf:li>
+               <rdf:li>Mechanism</rdf:li>
+               <rdf:li>Plant protection</rdf:li>
+               <rdf:li>Yeast</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2022.107799</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2022.107799</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107799</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107799</dct:identifier>
+         <bam:articleNumber>107799</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-04T14:04:09Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Swiss institutions 2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107799</ja:aid>
+         <ce:article-number>107799</ce:article-number>
+         <ce:pii>S2352-3409(22)00011-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107799</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Genome sequence data of the antagonistic soil-borne yeast <ce:italic>Cyberlindnera sargentensis</ce:italic> (SHA 17.2)</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000117-fd1ec5418c59748eaed9eeebd8f4bdc6"
+                       orcid="0000-0001-5719-166X">
+               <ce:given-name>Maria Paula</ce:given-name>
+               <ce:surname>Rueda-Mejia</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/MariaPaulaRue11">@MariaPaulaRue11</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000117-977b6018c1bc852ce7f312eee2478169"
+                       orcid="0000-0002-7152-3605">
+               <ce:given-name>Lukas</ce:given-name>
+               <ce:surname>Nägeli</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea3d"
+                             type="social-media"
+                             xlink:href="https://twitter.com/LukNaegeli">@LukNaegeli</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000117-b87f9e4b3c39695c02224285288964b4">
+               <ce:given-name>Stefanie</ce:given-name>
+               <ce:surname>Lutz</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea3c"
+                             type="social-media"
+                             xlink:href="https://twitter.com/SteffiLutz">@SteffiLutz</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922000117-5875082c5e0ba5c36f872389d42b0995">
+               <ce:given-name>Raúl A.</ce:given-name>
+               <ce:surname>Ortiz-Merino</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340922000117-b6ba91e645237f9a454a83c6df1c7bd0">
+               <ce:given-name>Daniel</ce:given-name>
+               <ce:surname>Frei</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea3b"
+                             type="social-media"
+                             xlink:href="https://twitter.com/Just_Feili">@Just_Feili</ce:e-address>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340922000117-2e164457b1fd6bfbebf9075646475eb0">
+               <ce:given-name>Jürg E.</ce:given-name>
+               <ce:surname>Frey</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340922000117-c1db8ef6fded59758553e578f7fe216d">
+               <ce:given-name>Kenneth H.</ce:given-name>
+               <ce:surname>Wolfe</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340922000117-ecd1f98598dc44bc14708977fe4bf78f">
+               <ce:given-name>Christian H.</ce:given-name>
+               <ce:surname>Ahrens</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340922000117-0d1f97e8dfb0181a5053cc2b2e9d1faf"
+                       orcid="0000-0001-7607-3108">
+               <ce:given-name>Florian M.</ce:given-name>
+               <ce:surname>Freimoser</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:florian.freimoser@agroscope.admin.ch">florian.freimoser@agroscope.admin.ch</ce:e-address>
+               <ce:e-address id="ea3a"
+                             type="social-media"
+                             xlink:href="https://twitter.com/ffreimoser">@ffreimoser</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000117-6572a85807afe3778e9183145abab0e9">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Agroscope, Research Division Plant Protection, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Agroscope</sa:organization>
+                  <sa:organization>Research Division Plant Protection</sa:organization>
+                  <sa:address-line>Müller-Thurgau-Strasse 29</sa:address-line>
+                  <sa:city>Wädenswil</sa:city>
+                  <sa:postal-code>8820</sa:postal-code>
+                  <sa:country>Switzerland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aAgroscope, Research Division Plant Protection, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922000117-2b0783cd2314575cf5226d5a091baea8">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Agroscope, Competence Division Method Development and Analytics, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Agroscope</sa:organization>
+                  <sa:organization>Competence Division Method Development and Analytics</sa:organization>
+                  <sa:address-line>Müller-Thurgau-Strasse 29</sa:address-line>
+                  <sa:city>Wädenswil</sa:city>
+                  <sa:postal-code>8820</sa:postal-code>
+                  <sa:country>Switzerland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bAgroscope, Competence Division Method Development and Analytics, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922000117-6ff9833219dff118993c85968d77d29d">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Conway Institute, University College Dublin, Dublin 4, Ireland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Conway Institute</sa:organization>
+                  <sa:organization>University College Dublin</sa:organization>
+                  <sa:city>Dublin 4</sa:city>
+                  <sa:country>Ireland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cConway Institute, University College Dublin, Dublin 4, Ireland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340922000117-5b34d51fa9e868fd4f76a3a948f0ba07">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">SIB, Swiss Institute of Bioinformatics, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>SIB</sa:organization>
+                  <sa:organization>Swiss Institute of Bioinformatics</sa:organization>
+                  <sa:address-line>Müller-Thurgau-Strasse 29</sa:address-line>
+                  <sa:city>Wädenswil</sa:city>
+                  <sa:postal-code>8820</sa:postal-code>
+                  <sa:country>Switzerland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dSIB, Swiss Institute of Bioinformatics, Müller-Thurgau-Strasse 29, Wädenswil 8820, Switzerland</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="30" month="11" year="2021"/>
+         <ce:date-accepted day="3" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">
+                  <ce:italic>Cyberlindnera sargentensis</ce:italic> strain SHA 17.2, isolated from a Swiss soil sample, exhibited strong antagonistic activity against several plant pathogenic fungi <ce:italic>in vitro</ce:italic> and was highly competitive against other yeasts in soil<ce:italic>.</ce:italic> As a basis for identifying the mechanisms underlying its strong antagonistic activity, we have sequenced the genome of <ce:italic>C. sargentensis</ce:italic> (SHA 17.2) by long- and short read sequencing, <ce:italic>de novo</ce:italic> assembled them into seven contigs/chromosomes and a mitogenome (total genome size 11.4 Mbp), and annotated 5455 genes. This high-quality genome is the reference for transcriptome and proteome analyses aiming at elucidating the mode of action of <ce:italic>C. sargentensis</ce:italic> against fungal plant pathogens. It will thus serve as a resource for identifying potential biocontrol genes and performing comparative genomics analyses of yeast genomes.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Antagonism</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key000a1">
+               <ce:text id="cetext0002a">Biocontrol</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001b">
+               <ce:text id="cetext0002b">Genome assembly and annotation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001c">
+               <ce:text id="cetext000c2">Mechanism</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001d">
+               <ce:text id="cetext0002d">Plant protection</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001e">
+               <ce:text id="cetext0002e">Yeast</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

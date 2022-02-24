@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.soisec.2022.100043">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Mid-infrared spectroscopy for accurate measurement of an extensive set of soil properties for assessing soil functions</dct:title>
+         <dct:creator>Wartini Ng</dct:creator>
+         <dct:creator>Budiman Minasny</dct:creator>
+         <dct:creator>Sang Ho Jeon</dct:creator>
+         <dct:creator>Alex McBratney</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Mid-infrared spectroscopy</rdf:li>
+               <rdf:li>Soil spectral library</rdf:li>
+               <rdf:li>Chemometrics</rdf:li>
+               <rdf:li>Cubist</rdf:li>
+               <rdf:li>Memory-based learning</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Soil Security 6 (2022). doi:10.1016/j.soisec.2022.100043</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Soil Security</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Ltd.</prism:copyright>
+         <dct:publisher>Elsevier Ltd</dct:publisher>
+         <prism:issn>2667-0062</prism:issn>
+         <prism:volume>6</prism:volume>
+         <prism:coverDisplayDate>March 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.soisec.2022.100043</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.soisec.2022.100043</prism:url>
+         <dct:identifier>doi:10.1016/j.soisec.2022.100043</dct:identifier>
+         <bam:articleNumber>100043</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-14T01:51:17Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Australian and New Zealand Institutes</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>SOISEC</ja:jid>
+         <ja:aid>100043</ja:aid>
+         <ce:article-number>100043</ce:article-number>
+         <ce:pii>S2667-0062(22)00010-7</ce:pii>
+         <ce:doi>10.1016/j.soisec.2022.100043</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Mid-infrared spectroscopy for accurate measurement of an extensive set of soil properties for assessing soil functions</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667006222000107-c36501fc23c3dfc70990824818b7ed2a">
+               <ce:given-name>Wartini</ce:given-name>
+               <ce:surname>Ng</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:wartini.ng@sydney.edu.au">wartini.ng@sydney.edu.au</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667006222000107-203ca0d9195c81d3276aca02694f7c95">
+               <ce:given-name>Budiman</ce:given-name>
+               <ce:surname>Minasny</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667006222000107-ac8cc0a3fda652e25b3f7c147495747e">
+               <ce:given-name>Sang Ho</ce:given-name>
+               <ce:surname>Jeon</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667006222000107-669a1e9b9d74659a762eca935894515e">
+               <ce:given-name>Alex</ce:given-name>
+               <ce:surname>McBratney</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667006222000107-9ba2868daaad6e893d5e2e06009b87d0">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">School of Life and Environmental Sciences &amp; Sydney Institute of Agriculture, The University of Sydney, NSW, Australia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Life and Environmental Sciences &amp; Sydney Institute of Agriculture</sa:organization>
+                  <sa:organization>The University of Sydney</sa:organization>
+                  <sa:state>NSW</sa:state>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aSchool of Life and Environmental Sciences &amp; Sydney Institute of Agriculture, The University of Sydney, NSW, Australia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667006222000107-1ec7585b88cbc01effb1f378e383dd84">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">National Institute of Agricultural Sciences, Rural Development Administration, Wanju 54875, Republic of Korea</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>National Institute of Agricultural Sciences</sa:organization>
+                  <sa:organization>Rural Development Administration</sa:organization>
+                  <sa:city>Wanju</sa:city>
+                  <sa:postal-code>54875</sa:postal-code>
+                  <sa:country>Republic of Korea</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bNational Institute of Agricultural Sciences, Rural Development Administration, Wanju 54875, Republic of Korea</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="8" month="9" year="2021"/>
+         <ce:date-revised day="10" month="1" year="2022"/>
+         <ce:date-accepted day="13" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara031" view="all">Quantitative assessment of soil functions requires the characterization of soil capability and condition. Mid-infrared (MIR) spectroscopy has been suggested as a viable alternative to the wet chemistry method. However, the extensive set of soil properties that can be well predicted have yet to be explored. The USDA MIR spectral library contains approximately 45,000 samples with more than 119 soil properties. This unique dataset allows us to establish which soil properties that can be accurately measured. Memory-based learning (MBL) algorithm achieved higher accuracy than the Cubist. The prediction accuracies of different properties were then categorized further into four classes (A, B, C, and D) based on four accuracy metrics, namely coefficient of determination (R<ce:sup loc="post">2</ce:sup>), Lin's concordance correlation coefficient (LCCC), ratio of performance to the interquartile range (RPIQ), and standardized bias (Stb). We found that a single MIR spectrum can infer 50 soil properties with high accuracy (A or B category), and 44 properties can be estimated approximately (C category). These properties can then be used to evaluate a range of soil functions, including food production, carbon storage, water storage, nutrient cycling, and habitat function.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Mid-infrared spectroscopy</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Soil spectral library</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Chemometrics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Cubist</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Memory-based learning</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

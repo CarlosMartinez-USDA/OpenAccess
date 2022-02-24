@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Fragments of Locusta migratoria apoLp-III provide insight into lipid binding</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Blair A.</namePart>
+      <namePart type="family">Russell</namePart>
+      <displayForm>Russell, Blair A.</displayForm>
+      <affiliation>Department of Chemistry and Biochemistry, California State University Long Beach, 1250 Bellflower Blvd, Long Beach, CA 90840, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">James V.C.</namePart>
+      <namePart type="family">Horn</namePart>
+      <displayForm>Horn, James V.C.</displayForm>
+      <affiliation>Department of Chemistry and Biochemistry, California State University Long Beach, 1250 Bellflower Blvd, Long Beach, CA 90840, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Paul M.M.</namePart>
+      <namePart type="family">Weers</namePart>
+      <displayForm>Weers, Paul M.M.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Apolipophorin III (apoLp-III) from Locusta migratoria is an exchangeable apolipoprotein with a critical role in lipid transport in insects. The protein is composed of a bundle of five amphipathic α-helices which undergo a large conformational change upon lipid binding. To better understand the apoLp-III lipid binding interaction, the protein was cleaved by cyanogen bromide upon introduction of a S92M mutation, generating an N-terminal fragment corresponding to the first three helices (NTH₁₋₃) and a C-terminal fragment of the last two helices (CTH₄₋₅). MALDI-TOF analysis of the HPLC purified fragments provided masses of 9863.8 Da for NTH₁₋₃ and 7497.0 Da for CTH₄₋₅ demonstrating that the intended fragments were obtained. Circular dichroism spectra revealed a decrease in helical content from 82% for the intact protein to 57% for NTH₁₋₃ and 41% for CTH₄₋₅. The fragments adopted considerably higher α-helical structure in the presence of trifluoroethanol or phospholipids. Equimolar mixing of the two fragments did not result in changes in helical content or tryptophan fluorescence, indicating recombination into the native protein fold did not occur. The rate of protein induced dimyristoylphosphatidylcholine vesicle solubilization increased 15-fold for NTH₁₋₃ and 100-fold for CTH₄₋₅ compared to the intact protein. Despite the high activity in phospholipid vesicle interaction, CTH₄₋₅ did not protect phospholipase-treated low-density lipoprotein from aggregation. In contrast, NTH₁₋₃ provided protection to lipoprotein aggregation similar to the intact protein, indicating that specific amino acid residues in this part of apoLp-III are essential for lipoprotein binding interaction. </abstract>
+   <subject>
+      <topic>Apolipoprotein</topic>
+   </subject>
+   <subject>
+      <topic>Apolipophorin</topic>
+   </subject>
+   <subject>
+      <topic>Phospholipid</topic>
+   </subject>
+   <subject>
+      <topic>Diacylglycerol</topic>
+   </subject>
+   <subject>
+      <topic>ANS, 8-anilinonaphthalene-1-sulfonic acid, ApoLp-III</topic>
+   </subject>
+   <subject>
+      <topic>NT</topic>
+   </subject>
+   <subject>
+      <topic>CD</topic>
+   </subject>
+   <subject>
+      <topic>CNBr</topic>
+   </subject>
+   <subject>
+      <topic>CT</topic>
+   </subject>
+   <subject>
+      <topic>DMS</topic>
+   </subject>
+   <subject>
+      <topic>DMPC</topic>
+   </subject>
+   <subject>
+      <topic>LUV</topic>
+   </subject>
+   <subject>
+      <topic>LDL</topic>
+   </subject>
+   <subject>
+      <topic>PAGE</topic>
+   </subject>
+   <subject>
+      <topic>PBS</topic>
+   </subject>
+   <subject>
+      <topic>PL-C</topic>
+   </subject>
+   <subject>
+      <topic>SDS</topic>
+   </subject>
+   <subject>
+      <topic>TFE</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100020</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100020</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100020</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00019-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-07-27"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S2667160321000193/S2667160321000193.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

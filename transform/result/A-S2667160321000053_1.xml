@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100006">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Role of the Connexin C-terminus in skin pattern formation of Zebrafish</dct:title>
+         <dct:creator>Yuu Usui</dct:creator>
+         <dct:creator>Masakatsu Watanabe</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>C-terminal domain</rdf:li>
+               <rdf:li>Connexin</rdf:li>
+               <rdf:li>Gap junction</rdf:li>
+               <rdf:li>Pigment cell</rdf:li>
+               <rdf:li>Skin-pattern formation</rdf:li>
+               <rdf:li>Zebrafish</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100006</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100006</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100006</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100006</dct:identifier>
+         <bam:articleNumber>100006</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-03-08T11:22:41Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100006</ja:aid>
+         <ce:article-number>100006</ce:article-number>
+         <ce:pii>S2667-1603(21)00005-3</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100006</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Role of the Connexin C-terminus in skin pattern formation of Zebrafish</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000053-6541c0f974c4044d0d29371c81bb8f57">
+               <ce:given-name>Yuu</ce:given-name>
+               <ce:surname>Usui</ce:surname>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000053-f3f96984441404c706c61036ada46e21">
+               <ce:given-name>Masakatsu</ce:given-name>
+               <ce:surname>Watanabe</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:watanabe-m@fbs.osaka-u.ac.jp">watanabe-m@fbs.osaka-u.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000053-a78219bbfed94199d1dbc99ed51907c4">
+               <ce:textfn id="cetextfn0001">Graduate School of Frontier Biosciences, Osaka University, 1-3 Yamadaoka, Suita, Osaka 565-0871, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Graduate School of Frontier Biosciences</sa:organization>
+                  <sa:organization>Osaka University</sa:organization>
+                  <sa:address-line>1-3 Yamadaoka</sa:address-line>
+                  <sa:city>Suita</sa:city>
+                  <sa:state>Osaka</sa:state>
+                  <sa:postal-code>565-0871</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Graduate School of Frontier Biosciences, Osaka University, 1-3 Yamadaoka, Suita, Osaka 565-0871, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Current affiliation: First Department of Physiology, Kawasaki Medical School, 577 Matsushima, Kurashiki, Okayama 701–0192, Japan.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:abstract class="author-highlights" id="abs0001" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Molecular dissections of Connexin39.4 and connexin 41.8.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">CT domain of Cx39.4 is not essential for skin pattern formation.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">CT domain of Cx41.8 is required, depending on the expression of Cx39.4.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Cx39.4 supports Cx41.8 localization to the cell membrane.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="author" id="abs0002" view="all">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara006" view="all">Zebrafish display a striped skin pattern on their body; two types of connexins, namely, Connexin39.4 (Cx39.4) and Connexin41.8 (Cx41.8), are involved in stripe pattern formation. Herein, we investigated the role of the C-terminal (CT) domains of Cx39.4 and Cx41.8 <ce:italic>in vivo</ce:italic> and <ce:italic>in vitro</ce:italic>.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Methods</ce:section-title>
+               <ce:simple-para id="spara007" view="all">To investigate the role of CT domains <ce:italic>in vivo</ce:italic>, we established transgenic zebrafish lines expressing the CT-domain-modified connexin series in pigmented cells and observed skin patterns in fish. To investigate the role of the CT domains <ce:italic>in vitro</ce:italic>, we expressed the CT-domain modified connexin series in Neuro-2a (N2a) cells and calculated the plaque formation frequency.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara008" view="all">The overexpression of Cx39.4 lacking a CT domain produced skin patterns similar to that produced by full-length Cx39.4 in the <ce:italic>cx39.4</ce:italic>
+                  <ce:sup loc="post">−/−</ce:sup> mutant and in <ce:italic>cx39.4</ce:italic> and <ce:italic>cx41.8</ce:italic> double-knockout mutant zebrafish. Fluorescence-protein-fused CT-domain-modified Cx39.4 formed gap junction plaques between N2a cells. The overexpression of CT-truncated Cx41.8 rescued the mutant phenotype in the <ce:italic>cx41.8</ce:italic>
+                  <ce:sup loc="post">−/−</ce:sup> mutant but did not function in the double knockout zebrafish. Fluorescence-protein-fused CT-truncated Cx41.8 hardly formed plaques between N2a cells without Cx39.4 but formed gap junction plaques when co-expressed with Cx39.4.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusions</ce:section-title>
+               <ce:simple-para id="spara009" view="all">The CT domain of Cx39.4 is not required for protein function, at least in the pigment cells of zebrafish. However, the need for the CT domain of Cx41.8 depends on Cx39.4 expression.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0007" view="all">
+               <ce:section-title id="cesectitle0007">General significance</ce:section-title>
+               <ce:simple-para id="spara010" view="all">These results provide evidence for the interactions between Cx39.4 and Cx41.8 in pigment cells of zebrafish and suggest that at least one connexin must have a CT domain.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="keyword" id="keys0001" view="all">
+            <ce:section-title id="cesectitle0008">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">C-terminal domain</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Connexin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Gap junction</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Pigment cell</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Skin-pattern formation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Zebrafish</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

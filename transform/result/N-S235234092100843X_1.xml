@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Forms of extramural research acquisition and product innovation: Data from econometric estimations</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Oliviero A.</namePart>
+      <namePart type="family">Carboni</namePart>
+      <displayForm>Carboni, Oliviero A.</displayForm>
+      <affiliation>Department of Economics (DiSEA), University of Sassari and CRENoS, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Giuseppe</namePart>
+      <namePart type="family">Medda</namePart>
+      <displayForm>Medda, Giuseppe</displayForm>
+      <affiliation>Department of Economics (DiSEA), University of Sassari, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This Data article provides a collection of Data and econometric estimates of the relationship between various forms of external research and Development (R&amp;D) acquisition and product innovation. Specifically, the Data are elaborations on Eurostat (2015) and the EFIGE (2015) survey. Data relate to research acquired by external firms inside the group to which a company belongs, universities and research centres, and other companies. The Data presented here are additional information and analysis to the article of Carboni and Medda [1]. Data derive from econometric applications on the information contained in a survey of 13,621 European manufacturing firms. The econometric framework considers: (1) Potential non-linear effects of the age of firms on product innovation; (2) Geographical variation of innovative activity by the inclusion of 137 regional dummies (NUTS-2-level); (3) Intersectoral differences by the inclusion of 117 industrial dummies (3-digit NACE). We employ systems of equations regressions to take simultaneity end endogeneity into account. For this purpose, the model identification is accomplished through the use of a reduced form equation for R&amp;D with two instrumental variables (IV) aimed at capturing regional technological environment. Specifically, we use an instrumental variable framework to compute the impact of external research on (1) the probability of implementing product innovations and (2) the market success of product innovations. The latter is measured by the share of total turnover of innovative products sales. Special focus is put on the potential role of the regional technological environment. For the computations we used the cmp command in STATA, which builds upon the maximum simulated likelihood analysis. The models are also estimated using the fractional response technique to check the 0-100% bounded nature of this variable. The Data presented here can be useful for companies to better design R&amp;D strategies aimed at improving firms’ organization, synergies, and growth. This may help strategic decision making, and a more efficient coordination of the complex process of production. Data are also useful for policy makers for designing public R&amp;D schemes, both at the national and at the European level. Finally, the Data represent a useful starting point for future research concerning the proprietary structure of the firm and the workforce, innovation and R&amp;D, internationalization, finance, and market. </abstract>
+   <subject>
+      <topic>External R&amp;D</topic>
+   </subject>
+   <subject>
+      <topic>European firms</topic>
+   </subject>
+   <subject>
+      <topic>Product innovation</topic>
+   </subject>
+   <subject>
+      <topic>Over outsourcing</topic>
+   </subject>
+   <subject>
+      <topic>Econometric tests of U-shape relationship</topic>
+   </subject>
+   <subject>
+      <topic>Regional and industrial analysis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107567</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107567</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107567</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00843-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-09"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S235234092100843X/S235234092100843X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

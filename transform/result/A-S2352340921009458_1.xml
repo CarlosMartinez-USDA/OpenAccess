@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107670">
+         <dct:format>application/xml</dct:format>
+         <dct:title>High-frequency machine datasets captured via Edge Device from Spinner U5-630 milling machine</dct:title>
+         <dct:creator>Muaaz Abdul Hadi</dct:creator>
+         <dct:creator>Johannes Schmid</dct:creator>
+         <dct:creator>Stefan Trabesinger</dct:creator>
+         <dct:creator>Markus Brillinger</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>High-frequency data</rdf:li>
+               <rdf:li>Edge device</rdf:li>
+               <rdf:li>Energy-efficient machining</rdf:li>
+               <rdf:li>Peak power smoothing</rdf:li>
+               <rdf:li>Sustainability</rdf:li>
+               <rdf:li>Peak reduction in NC machines</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107670</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107670</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107670</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107670</dct:identifier>
+         <bam:articleNumber>107670</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-01T16:26:15Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Austria Institutes 2021 (OA journals)</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107670</ja:aid>
+         <ce:article-number>107670</ce:article-number>
+         <ce:pii>S2352-3409(21)00945-8</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107670</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0959-6526(21)02756-6</ce:pii>
+               <ce:doi>10.1016/j.jclepro.2021.128548</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">High-frequency machine datasets captured via Edge Device from Spinner U5-630 milling machine</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009458-f4eef847c38b1b9c7664d5aa019135c3"
+                       orcid="0000-0001-7777-0546">
+               <ce:given-name>Muaaz</ce:given-name>
+               <ce:surname>Abdul Hadi</ce:surname>
+               <ce:roles>Researcher</ce:roles>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:muaaz.abdul-hadi@pro2future.at">muaaz.abdul-hadi@pro2future.at</ce:e-address>
+               <ce:e-address id="ea1"
+                             type="social-media"
+                             xlink:href="https://twitter.com/Muaaz_AbdulHadi">@Muaaz_AbdulHadi</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009458-8615793eb70be522d8d054c4ba422594">
+               <ce:given-name>Johannes</ce:given-name>
+               <ce:surname>Schmid</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009458-89dba31d4c2c6356d551ac8f5f46d53e">
+               <ce:given-name>Stefan</ce:given-name>
+               <ce:surname>Trabesinger</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009458-95f39c921d682f01d2cd367db5e79d2e">
+               <ce:given-name>Markus</ce:given-name>
+               <ce:surname>Brillinger</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009458-b383a4561ef2be2456fe9216d0715b1d">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Pro2Future GmbH, Inffeldgasse 25F/1. OG, 8010 Graz, Austria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Pro2Future GmbH</sa:organization>
+                  <sa:address-line>Inffeldgasse 25F/1. OG</sa:address-line>
+                  <sa:city>Graz</sa:city>
+                  <sa:postal-code>8010</sa:postal-code>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aPro2Future GmbH, Inffeldgasse 25F/1. OG, 8010 Graz, Austria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009458-071ff6a3dc36c235679ecbbd5227b4dd">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Institute of Production Engineering, Graz University of Technology, Graz, Austria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Production Engineering</sa:organization>
+                  <sa:organization>Graz University of Technology</sa:organization>
+                  <sa:city>Graz</sa:city>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bInstitute of Production Engineering, Graz University of Technology, Graz, Austria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="21" month="10" year="2021"/>
+         <ce:date-revised day="16" month="11" year="2021"/>
+         <ce:date-accepted day="30" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">The high-frequency (HF) machine data is retrieved from the Spinner U5-630 milling machine via an Edge Device. Unlike cloud computing, an Edge Device refers to distributed data processing of devices in proximity that generate data, which can thereby be used for analysis [1,2]. This data has a sampling rate of 2ms and hence, a frequency of 500Hz. The HF machine data is from various experiments performed. There are 2 experiments performed (parts 1 and 2). The experimented part 1 has 12 .json data files and part 2 has 11 .json files. In total, there are 23 files of HF machine data from 23 experiments. The HF machine data has vast potential for analysis as it contains all the information from the machine during the machining process. One part of the information was used in our case to calculate the energy consumption of the machine. Similarly, the data can be used for retrieving information of torque, commanded and actual speed, NC code, current, etc.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">High-frequency data</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Edge device</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Energy-efficient machining</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Peak power smoothing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Sustainability</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Peak reduction in NC machines</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100029">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Identification and characterization of the Hfq bacterial amyloid region DNA interactions</dct:title>
+         <dct:creator>Florian Turbant</dct:creator>
+         <dct:creator>Omar El Hamoui</dct:creator>
+         <dct:creator>David Partouche</dct:creator>
+         <dct:creator>Christophe Sandt</dct:creator>
+         <dct:creator>Florent Busi</dct:creator>
+         <dct:creator>Frank Wien</dct:creator>
+         <dct:creator>Véronique Arluison</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Bacterial amyloid</rdf:li>
+               <rdf:li>Functional amyloid</rdf:li>
+               <rdf:li>DNA:protein fibrils</rdf:li>
+               <rdf:li>DNA induced protein fibrillation</rdf:li>
+               <rdf:li>Bacterial adaptation</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100029</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100029</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100029</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100029</dct:identifier>
+         <bam:articleNumber>100029</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-22T12:25:55Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100029</ja:aid>
+         <ce:article-number>100029</ce:article-number>
+         <ce:pii>S2667-1603(21)00028-4</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100029</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Identification and characterization of the Hfq bacterial amyloid region DNA interactions</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000284-6efbbe9eda9311329455dacb27e446f2">
+               <ce:given-name>Florian</ce:given-name>
+               <ce:surname>Turbant</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000284-15a8e268515ac1a18d8918cf6b2a0dd5">
+               <ce:given-name>Omar El</ce:given-name>
+               <ce:surname>Hamoui</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667160321000284-703dbba6fe2111a94a580f7ec6800ff1">
+               <ce:given-name>David</ce:given-name>
+               <ce:surname>Partouche</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667160321000284-1a357f550f2fc1f44b2245502f2f90df">
+               <ce:given-name>Christophe</ce:given-name>
+               <ce:surname>Sandt</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667160321000284-665c2bb6b6dbbd2d391a6955397e903d">
+               <ce:given-name>Florent</ce:given-name>
+               <ce:surname>Busi</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667160321000284-ab20560a0fb8c2754389830836d92330">
+               <ce:given-name>Frank</ce:given-name>
+               <ce:surname>Wien</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:frank.wien@synchrotron-soleil.fr">frank.wien@synchrotron-soleil.fr</ce:e-address>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667160321000284-0b25e977ec9d5f0308f514be519ca68a">
+               <ce:given-name>Véronique</ce:given-name>
+               <ce:surname>Arluison</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:veronique.arluison@u-paris.fr">veronique.arluison@u-paris.fr</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000284-4eb08cfda7cd4a52eb4cabb95e60eb91">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Laboratoire Léon Brillouin LLB, CEA, CNRS UMR12, Université Paris Saclay, CEA Saclay, 91191 Gif-sur-Yvette, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratoire Léon Brillouin LLB</sa:organization>
+                  <sa:organization>CEA, CNRS UMR12, Université Paris Saclay, CEA Saclay</sa:organization>
+                  <sa:city>Gif-sur-Yvette</sa:city>
+                  <sa:postal-code>91191</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aLaboratoire Léon Brillouin LLB, CEA, CNRS UMR12, Université Paris Saclay, CEA Saclay, 91191 Gif-sur-Yvette, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667160321000284-be80aca2c4040330ee35101c8cbe6c66">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Molecular Biology, University of Gdansk, Wita Stwosza 59, 80-308 Gdansk, Poland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Molecular Biology</sa:organization>
+                  <sa:organization>University of Gdansk</sa:organization>
+                  <sa:address-line>Wita Stwosza 59</sa:address-line>
+                  <sa:city>Gdansk</sa:city>
+                  <sa:postal-code>80-308</sa:postal-code>
+                  <sa:country>Poland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Molecular Biology, University of Gdansk, Wita Stwosza 59, 80-308 Gdansk, Poland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667160321000284-d07ac1be12647c009e25ca1621cfb33d">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Synchrotron SOLEIL, L'Orme des Merisiers, Saint Aubin BP48, 91192, Gif-sur-Yvette, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Synchrotron SOLEIL</sa:organization>
+                  <sa:organization>L'Orme des Merisiers</sa:organization>
+                  <sa:address-line>Saint Aubin BP48</sa:address-line>
+                  <sa:city>Gif-sur-Yvette</sa:city>
+                  <sa:postal-code>91192</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cSynchrotron SOLEIL, L'Orme des Merisiers, Saint Aubin BP48, 91192, Gif-sur-Yvette, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667160321000284-1516d690580f20a0c953c9b9c5d846fa">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Université de Paris, UFR Sciences du vivant, 75006 Paris cedex, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Université de Paris</sa:organization>
+                  <sa:organization>UFR Sciences du vivant</sa:organization>
+                  <sa:city>Paris cedex</sa:city>
+                  <sa:postal-code>75006</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dUniversité de Paris, UFR Sciences du vivant, 75006 Paris cedex, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667160321000284-903fc40144116a0ef0e4b96f0f5d29ed">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Université de Paris, BFA, UMR 8251, CNRS, F-75013 Paris, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Université de Paris</sa:organization>
+                  <sa:organization>BFA</sa:organization>
+                  <sa:organization>, CNRS</sa:organization>
+                  <sa:address-line>UMR 8251</sa:address-line>
+                  <sa:city>Paris</sa:city>
+                  <sa:postal-code>F-75013</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eUniversité de Paris, BFA, UMR 8251, CNRS, F-75013 Paris, France</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="15" month="8" year="2021"/>
+         <ce:date-revised day="21" month="10" year="2021"/>
+         <ce:date-accepted day="22" month="10" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Nucleic acid/amyloid proteins interactions often promote protein aggregation.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Whether the DNA promotes the formation of self-assembly due to direct interactions or indirectly is unknown.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">This question has been addressed for the bacterial amyloid Hfq.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Possible functional consequence to answer to cellular stresses are discussed.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara008" view="all">Nucleic acid amyloid proteins interactions have been observed in the past few years. These interactions often promote protein aggregation. Nevertheless, molecular basis and physiological consequences of these interactions are still poorly understood. Additionally, it is unknown whether the nucleic acid promotes the formation of self-assembly due to direct interactions or indirectly <ce:italic>via</ce:italic> sequences surrounding the amyloid region. Here we focus our attention on a bacterial amyloid, Hfq. This protein is a pleiotropic bacterial regulator that mediates many aspects of nucleic acids metabolism. The protein notably mediates mRNA stability and translation efficiency by using stress-related small non coding regulatory RNA. In addition, Hfq, thanks to its amyloid C-terminal region, binds and compacts DNA. A combination of experimental methodologies, including synchrotron radiation circular dichroism (SRCD), gel shift assay and infrared (FTIR) spectroscopy have been used to probe the interaction of Hfq C-terminal region with DNA. We clearly identify important amino acids in this region involved in DNA binding and polymerization properties. This allows to understand better how this bacterial amyloid interacts with DNA. Possible functional consequence to answer to stresses are discussed.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Bacterial amyloid</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Functional amyloid</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">DNA:protein fibrils</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">DNA induced protein fibrillation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Bacterial adaptation</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

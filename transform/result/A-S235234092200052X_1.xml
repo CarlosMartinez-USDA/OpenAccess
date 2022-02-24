@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107840">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data of electronic, reactivity, optoelectronic, linear and non-linear optical parameters of doping graphene oxide nanosheet with aluminum atom</dct:title>
+         <dct:creator>Crevain Souop Tala Foadin</dct:creator>
+         <dct:creator>Fridolin Tchangnwa Nya</dct:creator>
+         <dct:creator>Alhadji Malloum</dct:creator>
+         <dct:creator>Jeanet Conradie</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Graphene oxide nanosheet</rdf:li>
+               <rdf:li>Aluminum-doping</rdf:li>
+               <rdf:li>Electronic parameters</rdf:li>
+               <rdf:li>Reactivity parameters</rdf:li>
+               <rdf:li>Optoelectronic parameters</rdf:li>
+               <rdf:li>Linear and nonlinear optical parameters</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107840</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107840</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107840</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107840</dct:identifier>
+         <bam:articleNumber>107840</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-16T13:37:23Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107840</ja:aid>
+         <ce:article-number>107840</ce:article-number>
+         <ce:pii>S2352-3409(22)00052-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107840</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1093-3263(21)00246-1</ce:pii>
+               <ce:doi>10.1016/j.jmgm.2021.108075</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data of electronic, reactivity, optoelectronic, linear and non-linear optical parameters of doping graphene oxide nanosheet with aluminum atom</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092200052X-16e7c620c083d77bb82057688a767897">
+               <ce:given-name>Crevain Souop Tala</ce:given-name>
+               <ce:surname>Foadin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092200052X-e1a69461538f83c05484feddbe92bfa6"
+                       orcid="0000-0002-8882-6987">
+               <ce:given-name>Fridolin Tchangnwa</ce:given-name>
+               <ce:surname>Nya</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:fridolin.tchangnwa-nya@fs.univ-maroua.cm"
+                             id="ead0001">fridolin.tchangnwa-nya@fs.univ-maroua.cm</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092200052X-32c451ca21556b922f768da237f74de8">
+               <ce:given-name>Alhadji</ce:given-name>
+               <ce:surname>Malloum</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S235234092200052X-423d06b3b4be311bb9311612435c6106">
+               <ce:given-name>Jeanet</ce:given-name>
+               <ce:surname>Conradie</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092200052X-da772ea173b26bdefa363ebf4305250f">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Materials Science Laboratory, Department of Physics, Faculty of Science, University of Maroua, P.O. Box 814, Maroua, Cameroon</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Materials Science Laboratory</sa:organization>
+                  <sa:organization>Department of Physics</sa:organization>
+                  <sa:organization>Faculty of Science</sa:organization>
+                  <sa:organization>University of Maroua</sa:organization>
+                  <sa:address-line>P.O. Box 814</sa:address-line>
+                  <sa:city>Maroua</sa:city>
+                  <sa:country>Cameroon</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aMaterials Science Laboratory, Department of Physics, Faculty of Science, University of Maroua, P.O. Box 814, Maroua, Cameroon</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092200052X-2fb7b2ba625eb2cb0cf5671bc8dc5d9a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Chemistry, University of the Free State, PO Box 339, Bloemfontein 9300, South Africa</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>University of the Free State</sa:organization>
+                  <sa:address-line>PO Box 339</sa:address-line>
+                  <sa:city>Bloemfontein</sa:city>
+                  <sa:postal-code>9300</sa:postal-code>
+                  <sa:country>South Africa</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Chemistry, University of the Free State, PO Box 339, Bloemfontein 9300, South Africa</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="4" month="12" year="2021"/>
+         <ce:date-revised day="12" month="1" year="2022"/>
+         <ce:date-accepted day="14" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara019" view="all">We have established a design to increase the absorption capacity, optoelectronic, linear and nonlinear optical properties of the graphene oxide nanosheet (GON) based on the coronene molecule [C<ce:inf loc="post">24</ce:inf>H<ce:inf loc="post">12</ce:inf>] with the help of doping, using the aluminum atom. The attachment of functional groups to the coronene surface was defined according to the Lerf-Klinowski model, based on experimental predictions [1]. Two GON structures (GON1 and GON2 with formula (C<ce:inf loc="post">24</ce:inf>H<ce:inf loc="post">11</ce:inf>)(O)(OH)COOH)) have been proposed for this purpose, and it should be noted that each of them is distinguished by a different distribution of functional groups within their honeycomb lattice. A series of substitutions of the carbon atoms of the two isomers considered GON1 and GON2 were performed with the aluminum atom, resulting in the abbreviated derivative systems GON1-Alx and GON2-Alx (<ce:italic>x</ce:italic> = 1–6), respectively to each of the GON1 and GON2 units. In this work, we provide data carried out in the gas phase, from density functional theory (DFT) methods that allowed us to understand the effects of aluminum atom doping on the circular graphene oxide nanosheets. First, we report the wavenumber data related to the IR spectrum peak characteristics computed at the B3LYP, B3LYP-D3 and ωB97XD/6–31+G(d,p) levels of theory, that allowed us to validate the designs of both proposed graphene oxide models. Then, we provide electronic, reactivity, optoelectronic, linear and nonlinear optical data parameters of both graphene oxide nanosheets and their aluminum-doped derivatives computed at the B3LYP, B3LYP-D3 and /6-31+G(d,p) levels of theory. Finally the UV-vis spectra of the investigated compounds evaluated from time-dependent (TD) B3LYP and B3LYP-D3/6-31+G(d,p) levels of theory and the HOMO &amp; LUMO orbitals of the derivatives of graphene oxide isomers computed at the B3LYP/6-31+G(d,p) level of theory are provided. In addition, the raw data of UV-vis spectra, optoelectronic parameters, Cartesian coordinates of all studied compounds and also those of IR spectra of both studied graphene oxide models are provided as supplementary file. The data reported in this work are useful to expose some specific positions of aluminum within circular model of graphene oxide nanosheet that improve its electronic, reactive, optoelectronic, linear and nonlinear optical characteristics. All the formulas and details of calculation performed to obtain the data reported in this work are provided in our previous work (Foadin et al., 2020) and summarized in the experimental section of this pape. To learn more about the ideal doping positions of the aluminum atom within both proposed graphene oxide designs that increase their electronic, reactivity, optoelectronic, linear optical and nonlinear optical properties, respectively, please see the corresponding main research paper (Foadin et al., 2022).</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Graphene oxide nanosheet</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Aluminum-doping</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Electronic parameters</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Reactivity parameters</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Optoelectronic parameters</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Linear and nonlinear optical parameters</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

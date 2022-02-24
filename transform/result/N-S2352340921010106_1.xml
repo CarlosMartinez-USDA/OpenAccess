@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>High spatial resolution underwater data for mapping seagrass transplantation: A powerful tool for visualization and analysis</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Daniele</namePart>
+      <namePart type="family">Ventura</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3548-360X</nameIdentifier>
+      <displayForm>Ventura, Daniele</displayForm>
+      <affiliation>Department of Environmental Biology, University of Rome ‘La Sapienza’ - V. le dell'Università 32, Rome 00185, Italy.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Luca</namePart>
+      <namePart type="family">Castoro</namePart>
+      <displayForm>Castoro, Luca</displayForm>
+      <affiliation>Department of Engineering, Roma Tre University - Via della Vasca Navale, Roma 79-00146, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gianluca</namePart>
+      <namePart type="family">Mancini</namePart>
+      <displayForm>Mancini, Gianluca</displayForm>
+      <affiliation>Department of Environmental Biology, University of Rome ‘La Sapienza’ - V. le dell'Università 32, Rome 00185, Italy.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Edoardo</namePart>
+      <namePart type="family">Casoli</namePart>
+      <displayForm>Casoli, Edoardo</displayForm>
+      <affiliation>Department of Environmental Biology, University of Rome ‘La Sapienza’ - V. le dell'Università 32, Rome 00185, Italy.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Daniela Silvia</namePart>
+      <namePart type="family">Pace</namePart>
+      <displayForm>Pace, Daniela Silvia</displayForm>
+      <affiliation>Department of Environmental Biology, University of Rome ‘La Sapienza’ - V. le dell'Università 32, Rome 00185, Italy.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andrea</namePart>
+      <namePart type="family">Belluscio</namePart>
+      <displayForm>Belluscio, Andrea</displayForm>
+      <affiliation>Department of Environmental Biology, University of Rome ‘La Sapienza’ - V. le dell'Università 32, Rome 00185, Italy.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Giandomenico</namePart>
+      <namePart type="family">Ardizzone</namePart>
+      <displayForm>Ardizzone, Giandomenico</displayForm>
+      <affiliation>Department of Environmental Biology, University of Rome ‘La Sapienza’ - V. le dell'Università 32, Rome 00185, Italy.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>These datasets derived from our mapping protocol are presented as a research article in the Journal of Environmental Management [1]. In particular, by using a Structure from Motion photogrammetric workflow we produced high spatial resolution 2D raster maps and 3D outputs such as dense points clouds and textured meshes of an underwater seagrass restoration site. In this area transplanted fragments of Posidonia oceanica were planted to restore this impacted site after the Costa Concordia shipwrecking which occurred on 13 January 2012 along the NE coast of Giglio Island (Tuscany, Italy). Photogrammetric outputs were used to render the underwater environment by using the open-source software Blender allowing a fine 3D modelling and immersive visualization of the mapped area. This data other than providing an exceptional tool for analysing the benthic habitats from a biological point of view, following over time the progress transplanting operations, might also provide a new way to visualize and share the perception of such underwater shallow environments to a large plethora of users, increasing the public awareness on restoration programmes and promoting new action aimed at restored underwater habitats restoration. </abstract>
+   <subject>
+      <topic>Structure from motion (SfM) photogrammetry</topic>
+   </subject>
+   <subject>
+      <topic>D scene rendering</topic>
+   </subject>
+   <subject>
+      <topic>Blender</topic>
+   </subject>
+   <subject>
+      <topic>Posidonia oceanica</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107735</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107735</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107735</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01010-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010106/S2352340921010106.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

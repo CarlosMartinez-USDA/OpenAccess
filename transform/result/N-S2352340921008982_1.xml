@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Metabolite profile data of grapevine plants with brown wood streaking and grapevine leaf stripe (esca complex disease) symptoms</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Piebiep</namePart>
+      <namePart type="family">Goufo</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9242-5297</nameIdentifier>
+      <displayForm>Goufo, Piebiep</displayForm>
+      <affiliation>Centre for the Research and Technology of Agro-Environment and Biological Sciences, Universidade de Trás-os-Montes e Alto Douro, Quinta de Prados, Vila Real 5000-801, Portugal</affiliation>
+      <affiliation>Departamento de Agronomia, Universidade de Trás-os-Montes e Alto Douro, Quinta de Prados, Vila Real 5000-801, Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Isabel</namePart>
+      <namePart type="family">Cortez</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0512-2296</nameIdentifier>
+      <displayForm>Cortez, Isabel</displayForm>
+      <affiliation>Centre for the Research and Technology of Agro-Environment and Biological Sciences, Universidade de Trás-os-Montes e Alto Douro, Quinta de Prados, Vila Real 5000-801, Portugal</affiliation>
+      <affiliation>Departamento de Agronomia, Universidade de Trás-os-Montes e Alto Douro, Quinta de Prados, Vila Real 5000-801, Portugal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Leaf samples were obtained from Vitis vinifera ‘Malvasia Fina’ plants with well-characterized esca complex disease symptoms (n = 18) and from healthy uninfected plants (n = 6). Leaves from diseased plants were divided into three groups: asymptomatic (ASY), chlorotic (SY1), and scorched leaves (SY2). The metabolic profile of these leaves was then examined using an ultrahigh performance liquid chromatography system coupled to a Q-Exactive Hybrid Quadrupole-Orbitrap high resolution/accurate mass spectrometer interfaced with a heated electrospray ionization source. The number of small molecules measured in a sample was increased by varying the reconstitution solvent, chromatographic column, and ionization source. Data on accurate masses, peak areas, and relative levels of several metabolites were documented for each leaf sample, using the abovementioned approach. In this paper, data on 235 metabolites of known structural identity are reported, along with the biochemical pathways to which the metabolites belong. The remaining data related to lipid species and with a different focus of the research question are reported elsewhere. The broad coverage of metabolites reported here resulted in a greater coverage of the biochemical pathways involved in grapevine metabolism, which could provide a better understanding of the biochemical changes occurring during the onset and progression of foliar symptoms after invasion of woods by esca-associated pathogens. To determine which metabolites varied according to the study design, the detected ion features were processed using different statistical methods, including mean and median values, fold changes, Welch's two-sample t-test, false discovery rate, and quartiles represented by box and whisker plots. The goal of this statistical evaluation was to assess the responses of healthy, asymptomatic, and symptomatic leaf groups using a pairwise comparison, thus providing an opportunity for detecting statistically significant compounds and uncovering the dynamic metabolic models underlying disease latency and symptom expression. </abstract>
+   <subject>
+      <topic>Grapevine trunk diseases</topic>
+   </subject>
+   <subject>
+      <topic>Metabolomics</topic>
+   </subject>
+   <subject>
+      <topic>Fomitiporia mediterranea</topic>
+   </subject>
+   <subject>
+      <topic>Metabolic profiling</topic>
+   </subject>
+   <subject>
+      <topic>Esca complex disease</topic>
+   </subject>
+   <subject>
+      <topic>Phaeomoniella chlamydospora</topic>
+   </subject>
+   <subject>
+      <topic>Phaeoacremonium minimun</topic>
+   </subject>
+   <subject>
+      <topic>Disease progression</topic>
+   </subject>
+   <subject>
+      <topic>ASY</topic>
+   </subject>
+   <subject>
+      <topic>SY1</topic>
+   </subject>
+   <subject>
+      <topic>CTL</topic>
+   </subject>
+   <subject>
+      <topic>SY2</topic>
+   </subject>
+   <subject>
+      <topic>UHPLC</topic>
+   </subject>
+   <subject>
+      <topic>HRaMS</topic>
+   </subject>
+   <subject>
+      <topic>HESI-II</topic>
+   </subject>
+   <subject>
+      <topic>LIMS</topic>
+   </subject>
+   <subject>
+      <topic>RSDs</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107623</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107623</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107623</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00898-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-19"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008982/S2352340921008982.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

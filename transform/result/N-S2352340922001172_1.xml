@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset for studying gender disparity in English literary texts</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Akarsh</namePart>
+      <namePart type="family">Nagaraj</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8779-797X</nameIdentifier>
+      <displayForm>Nagaraj, Akarsh</displayForm>
+      <affiliation>University of Southern California, Information Sciences Institute, 4676 Admiralty Way, Suite 1001, Marina del Rey 90292 CA, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mayank</namePart>
+      <namePart type="family">Kejriwal</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5988-8305</nameIdentifier>
+      <displayForm>Kejriwal, Mayank</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-27</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Recent discourse has highlighted significant gender disparity in many aspects of economic, social and cultural life. With the advent of advanced tools in Artificial Intelligence (AI) and Natural Language Processing (NLP), there is an opportunity to use computational and digital tools to analyze corpora, such as copyright-expired literature in the pre-modern period (defined herein as books published approximately between 1800 and 1950) from the Project Gutenberg corpus. Nevertheless, there are challenges in using such tools, especially for maintaining high-enough quality to explore interesting hypotheses. We present a dataset and materials that illustrate how modern processes in NLP can be used on the raw text of more than 3,000 literary texts in Project Gutenberg to (i) extract characters and pronouns from the text with high quality, (ii) disambiguate characters so that they are not overcounted, (iii) detect the gender of each character. Furthermore, we also used manual labeling to determine the genders of authors who have published these texts, and published the labels as part of the dataset to facilitate future digital humanities research. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Digital humanities</topic>
+   </subject>
+   <subject>
+      <topic>Text analytics</topic>
+   </subject>
+   <subject>
+      <topic>Natural language processing</topic>
+   </subject>
+   <subject>
+      <topic>Gender Disparity</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">27</text>
+         <extent unit="pages">
+            <start>107905</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107905</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107905</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00117-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-28"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001172/S2352340922001172.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

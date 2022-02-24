@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Saccadic and manual response time data on inhibition of return during and after a visual search</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Margit</namePart>
+      <namePart type="family">Höfler</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5871-0417</nameIdentifier>
+      <displayForm>Höfler, Margit</displayForm>
+      <affiliation>Department for Clinical Neurosciences and Preventive Medicine, Danube University Krems, Austria</affiliation>
+      <affiliation>Institute of Psychology, University of Graz, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sebastian A.</namePart>
+      <namePart type="family">Bauch</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0413-1211</nameIdentifier>
+      <displayForm>Bauch, Sebastian A.</displayForm>
+      <affiliation>Institute of Psychology, University of Graz, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Katrin</namePart>
+      <namePart type="family">Liebergesell</namePart>
+      <displayForm>Liebergesell, Katrin</displayForm>
+      <affiliation>Institute of Psychology, University of Graz, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Iain D.</namePart>
+      <namePart type="family">Gilchrist</namePart>
+      <displayForm>Gilchrist, Iain D.</displayForm>
+      <affiliation>School of Psychological Science, University of Bristol, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anja</namePart>
+      <namePart type="family">Ischebeck</namePart>
+      <displayForm>Ischebeck, Anja</displayForm>
+      <affiliation>Institute of Psychology, University of Graz, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christof</namePart>
+      <namePart type="family">Körner</namePart>
+      <displayForm>Körner, Christof</displayForm>
+      <affiliation>Institute of Psychology, University of Graz, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In the present paper we present a dataset that provides data of two experiments in which we investigated the presence of Inhibition of Return (IOR) during and after a visual search. Participants either had to saccade (Experiment 1 and 2) or make a manual response (Experiment 2) to a probe during a visual search task (searching for a target letter among a set of distractors) or immediately after its completion. The data consist of the unprocessed raw data and one csv-file of the processed eye tracking data on eight (Experiment 1) and 18 (Experiment 2) participants, respectively. In total, we obtained 5,116 trials in Experiment 1 and 18,424 in Experiment 2. The data set is stored at the repository DOOR hosted by the University of Krems (https://door.donau-uni.ac.at/view/o:1014). Detailed information about the experiments and the interpretation of the data can be found in the paper “Post-search IOR: Searching for inhibition of return after search” (Höfler et al., 2019) [1]. </abstract>
+   <subject>
+      <topic>Visual search</topic>
+   </subject>
+   <subject>
+      <topic>Inhibition of return</topic>
+   </subject>
+   <subject>
+      <topic>Eye tracking</topic>
+   </subject>
+   <subject>
+      <topic>Saccadic responses</topic>
+   </subject>
+   <subject>
+      <topic>Manual responses</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107565</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107565</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107565</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00841-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-09"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008416/S2352340921008416.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

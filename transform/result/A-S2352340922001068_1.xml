@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107894">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Telemetry data of red king crab (Paralithodes camtschaticus) migrations in a north Norwegian fjord</dct:title>
+         <dct:creator>Magnus Aune</dct:creator>
+         <dct:creator>Jenny L.A. Jensen</dct:creator>
+         <dct:creator>Guttorm N. Christensen</dct:creator>
+         <dct:creator>Kåre Tormod Nilsen</dct:creator>
+         <dct:creator>Benjamin Merkel</dct:creator>
+         <dct:creator>Paul E. Renaud</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Acoustic telemetry</rdf:li>
+               <rdf:li>Crustaceans</rdf:li>
+               <rdf:li>Movement</rdf:li>
+               <rdf:li>Oceanography</rdf:li>
+               <rdf:li>Tracking</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107894</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107894</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107894</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107894</dct:identifier>
+         <bam:articleNumber>107894</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-27T18:02:53Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107894</ja:aid>
+         <ce:article-number>107894</ce:article-number>
+         <ce:pii>S2352-3409(22)00106-8</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107894</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Telemetry data of red king crab (<ce:italic>Paralithodes camtschaticus</ce:italic>) migrations in a north Norwegian fjord</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922001068-8ff9e614ef69c351ee626dbf8d0f1110">
+               <ce:given-name>Magnus</ce:given-name>
+               <ce:surname>Aune</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:maa@akvaplan.niva.no">maa@akvaplan.niva.no</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922001068-54c87dcc09b3c49f144913990483008e"
+                       orcid="0000-0003-2188-5533">
+               <ce:given-name>Jenny L.A.</ce:given-name>
+               <ce:surname>Jensen</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922001068-99c90027657ac432f9ea7d67b4e47165">
+               <ce:given-name>Guttorm N.</ce:given-name>
+               <ce:surname>Christensen</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922001068-95a8964ba3a33ab718ce5772abaf6ec0">
+               <ce:given-name>Kåre Tormod</ce:given-name>
+               <ce:surname>Nilsen</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340922001068-97d6f99b76a193c554ed346040faaa11"
+                       orcid="0000-0002-8637-7655">
+               <ce:given-name>Benjamin</ce:given-name>
+               <ce:surname>Merkel</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340922001068-e4338dca2629321aef21dc26743e476e">
+               <ce:given-name>Paul E.</ce:given-name>
+               <ce:surname>Renaud</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922001068-a1901f0929e217d28760d873f41aeaba">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Akvaplan-niva AS, Fram Centre, 9007 Tromsø, Norway</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Akvaplan-niva AS</sa:organization>
+                  <sa:organization>Fram Centre</sa:organization>
+                  <sa:city>Tromsø</sa:city>
+                  <sa:postal-code>9007</sa:postal-code>
+                  <sa:country>Norway</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aAkvaplan-niva AS, Fram Centre, 9007 Tromsø, Norway</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922001068-a989793734e76e5d0127a20e4d96ea24">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">K-To-9 AS, Fuglenesveien 101, 9601 Hammerfest, Norway</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>K-To-9 AS</sa:organization>
+                  <sa:address-line>Fuglenesveien 101</sa:address-line>
+                  <sa:city>Hammerfest</sa:city>
+                  <sa:postal-code>9601</sa:postal-code>
+                  <sa:country>Norway</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bK-To-9 AS, Fuglenesveien 101, 9601 Hammerfest, Norway</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922001068-9003e822b17d811ab2bfdd8f2abb12ce">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">University Centre in Svalbard, 9071 Longyearbyen, Norway</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University Centre in Svalbard</sa:organization>
+                  <sa:city>Longyearbyen</sa:city>
+                  <sa:postal-code>9071</sa:postal-code>
+                  <sa:country>Norway</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cUniversity Centre in Svalbard, 9071 Longyearbyen, Norway</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="19" month="8" year="2021"/>
+         <ce:date-revised day="20" month="1" year="2022"/>
+         <ce:date-accepted day="25" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara004" view="all">Acoustic telemetry allows for high-resolution, long-term tracking of moving animals. Here, we describe data on the movement patterns of 37 adult red king crab (RKC, <ce:italic>Paralithodes camtschaticus</ce:italic>) obtained by means of acoustic telemetry. Acoustically tagged RKC were released in Gamvikfjorden (Sørøya, northern Norway) the 24th of May 2016 and tracked until the 1st of November 2016. Individual crabs resided in the fjord for 1–162 days and were recorded 16 - 11,501 times (mean number of records per crab: 2,851). In total, the data set consist of 105,484 pairs of accurate spatio-temporal coordinates. The acoustic receivers (<ce:italic>n</ce:italic> = 38) deployed close to the seabed were integrated with temperature sensors that continuously recorded the ambient seawater temperature, resulting in 174,154 water temperature recordings. These novel tracking data can be used to investigate the species' migratory behaviour, spatio-temporal habitat selection, and the relative role of their environment and their possible food sources. Moreover, the high-resolution seawater temperature dataset may serve independently as input data in physical-oceanographic models of this sub-Arctic sill fjord.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Acoustic telemetry</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Crustaceans</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Movement</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Oceanography</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Tracking</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

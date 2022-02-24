@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>FruitNet: Indian fruits image dataset with quality for machine learning applications</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Vishal</namePart>
+      <namePart type="family">Meshram</namePart>
+      <displayForm>Meshram, Vishal</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kailas</namePart>
+      <namePart type="family">Patil</namePart>
+      <displayForm>Patil, Kailas</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Fast and precise fruit classification or recognition as per quality parameter is the unmet need of agriculture business. This is an open research problem, which always attracts researchers. Machine learning and deep learning techniques have shown very promising results for the classification and object detection problems. Neat and clean dataset is the elementary requirement to build accurate and robust machine learning models for the real-time environment. With this objective we have created an image dataset of Indian fruits with quality parameter which are highly consumed or exported. Accordingly, we have considered six fruits namely apple, banana, guava, lime, orange, and pomegranate to create a dataset. The dataset is divided into three folders (1) Good quality fruits (2) Bad quality fruits, and (3) Mixed quality fruits each consists of six fruits subfolders. Total 19,500+ images in the processed format are available in the dataset. We strongly believe that the proposed dataset is very helpful for training, testing and validation of fruit classification or reorganization machine leaning model. </abstract>
+   <subject>
+      <topic>Convolutional neural network</topic>
+   </subject>
+   <subject>
+      <topic>Computer vision</topic>
+   </subject>
+   <subject>
+      <topic>Deep learning</topic>
+   </subject>
+   <subject>
+      <topic>Fruit classification</topic>
+   </subject>
+   <subject>
+      <topic>Fruit detection</topic>
+   </subject>
+   <subject>
+      <topic>Fruit image dataset</topic>
+   </subject>
+   <subject>
+      <topic>Machine learning</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107686</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107686</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107686</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00961-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-04"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009616/S2352340921009616.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

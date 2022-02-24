@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Mechanisms of Shenghua Decoction on treating gynecological disease with blood deficiency and blood stasis syndrome explored by network pharmacology combined with molecular docking</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Xinyou</namePart>
+      <namePart type="family">Zhang</namePart>
+      <displayForm>Zhang, Xinyou</displayForm>
+      <affiliation>College of Post Graduate, Jiangxi University of Traditional Chinese Medicine, Nanchang 330004, Jiangxi, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Zhiqiang</namePart>
+      <namePart type="family">Lei</namePart>
+      <displayForm>Lei, Zhiqiang</displayForm>
+      <affiliation>College of Pharmacy, Jiangxi University of Traditional Chinese Medicine, Nanchang 330004, Jiangxi, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Diyao</namePart>
+      <namePart type="family">Wu</namePart>
+      <displayForm>Wu, Diyao</displayForm>
+      <affiliation>College of Traditional Chinese Medicine, Jiangxi University of Traditional Chinese Medicine, Nanchang 330004, Jiangxi, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shumao</namePart>
+      <namePart type="family">Pan</namePart>
+      <displayForm>Pan, Shumao</displayForm>
+      <affiliation>College of Pharmacy, Jiangxi University of Traditional Chinese Medicine, Nanchang 330004, Jiangxi, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Xiuyun</namePart>
+      <namePart type="family">Li</namePart>
+      <displayForm>Li, Xiuyun</displayForm>
+      <affiliation>College of Pharmacy, Jiangxi University of Traditional Chinese Medicine, Nanchang 330004, Jiangxi, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper mainly studies the mechanism of action of Shenghua Decoction (SHD) combined with network pharmacology and molecular docking in the treatment of gynecological diseases with blood deficiency and blood stasis syndrome. In addition, we also verified the accuracy of the results of network pharmacology through related experiments. Firstly, the clinical indications of Shenghua Decoction were analyzed based on bibliometrics. Targets of blood deficiency, blood stasis and dysmenorrhea were retrieved from MalaCards, PubMed and China National Knowledge Infrastructure (CNKI). The main active components and targets of SHD were obtained from Batman-TCM and TCMID. Then, the intersected targets of disease and SHD were obtained. A protein–protein interaction network was constructed, and the core targets were screened based on the topological analysis. GO and KEGG enrichment analysis were performed and a Herbs-Molecules-Targets network was established. Molecular docking technology was used to verify the affinity of main compounds to core protein targets. Finally, Elisa was conducted to quantify the target protein expression to verify the accuracy of prediction results. CRP, PTGS2, TNF, IL6, INS, CAT an d IGF1 dominate the list of core targets for SHD of gynecologic disease based on network pharmacology method. In molecular function, SHD treatment of gynecologic diseases mainly involves regulation of biological quality (GO:0,065,008), trauma response (GO:0,009,611),etc. (FDR&lt;0.05). In signaling pathways, SHD treatment of gynecologic diseases mainly involves complement and coagulation cascades(hsa04610), HIF-1 signaling pathway(hsa04066), etc. (FDR&lt;0.05). In the molecular docking experiment, it was found that the molecular structure of carvacrol, phenylacetic acid and linoleic acid showed a moderate-to-good fit for corresponding target proteins. Elisa result showed that SHD has effects on the expression of CRP, PTGS2, IL6 and TNF. SHD may reduce the level of CRP, PTGS2, IL6 and TNF when used in gynecologic diseases with blood deficiency and blood stasis syndrome. It plays a role in anti-inflammation and anti-tumor process. This paper showed that 60% of the predicted results of the core targets were consistent with the experimental certification. The validity of network pharmacology was confirmed in the mechanism analysis of traditional Chinese medicine. This paper provides a theoretical basis for further study of the components and mechanism of action of Shenghua Decoction in the treatment of gynecological diseases with blood deficiency and blood stasis syndrome. </abstract>
+   <subject>
+      <topic>Shenghua Decoction</topic>
+   </subject>
+   <subject>
+      <topic>Gynecologic diseases with blood deficiency and blood stasis syndrome</topic>
+   </subject>
+   <subject>
+      <topic>Network pharmacology</topic>
+   </subject>
+   <subject>
+      <topic>Molecular docking</topic>
+   </subject>
+   <subject>
+      <topic>Mechanism of action</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Pharmacological Research - Modern Chinese Medicine</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1425</identifier>
+      <part>
+         <detail type="volume">
+            <number>2</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">March 2022</text>
+         <text type="year">2022</text>
+         <text type="month">March</text>
+         <extent unit="pages">
+            <start>100050</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.prmcm.2022.100050</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.prmcm.2022.100050</url>
+   </location>
+   <identifier type="pii">S2667-1425(22)00011-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-13"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/123176916641762791-00001/2667-1425/S2667142521X00036/S2667142522000112/S2667142522000112.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

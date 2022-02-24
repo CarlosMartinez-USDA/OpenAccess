@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107582">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on effect of variety, seedling transplanting age and nitrogen fertilizer rates on growth performance of rice in Southern Guinea Savannah, Nigeria</dct:title>
+         <dct:creator>Simon Nda</dct:creator>
+         <dct:creator>Erick Sebetha</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Location</rdf:li>
+               <rdf:li>Nitrogen fertilizer rates</rdf:li>
+               <rdf:li>Rice and seedling transplanting age</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107582</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107582</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107582</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107582</dct:identifier>
+         <bam:articleNumber>107582</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-12T13:22:26Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107582</ja:aid>
+         <ce:article-number>107582</ce:article-number>
+         <ce:pii>S2352-3409(21)00857-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107582</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data on effect of variety, seedling transplanting age and nitrogen fertilizer rates on growth performance of rice in Southern Guinea Savannah, Nigeria</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092100857X-567e1344b99677d146445c4d0d2517bb"
+                       orcid="0000-0002-1037-6648">
+               <ce:given-name>Simon</ce:given-name>
+               <ce:surname>Nda</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:simonnlile@yahoo.com">simonnlile@yahoo.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092100857X-7070a5b6129cb4d3139f9b6e8e2d2fa3">
+               <ce:given-name>Erick</ce:given-name>
+               <ce:surname>Sebetha</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092100857X-a9e3f52be430b021bd69ad5238ac7ce7">
+               <ce:textfn id="cetextfn0001">Food Security and Safety Niche Area, Faculty of Natural and Agricultural Sciences, North West University, Mafikeng Campus, Private Bag X 2046, Mmabatho, 2738 Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Food Security and Safety Niche Area</sa:organization>
+                  <sa:organization>Faculty of Natural and Agricultural Sciences</sa:organization>
+                  <sa:organization>North West University</sa:organization>
+                  <sa:address-line>Mafikeng Campus, Private Bag X 2046</sa:address-line>
+                  <sa:city>Mmabatho</sa:city>
+                  <sa:postal-code>2738</sa:postal-code>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Food Security and Safety Niche Area, Faculty of Natural and Agricultural Sciences, North West University, Mafikeng Campus, Private Bag X 2046, Mmabatho, 2738 Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="3" month="6" year="2021"/>
+         <ce:date-revised day="9" month="11" year="2021"/>
+         <ce:date-accepted day="11" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara012" view="all">The age of rice seedling at transplanting and application of nitrogen fertilizer are important husbandry practices for improved rice growth. The data showed the effect of variety, seedling transplanting age and nitrogen fertilizer rates on the growth of rice. Agronomic field trial was conducted during 2015 and 2016 planting seasons at National Cereals Research Institute Farms of Edozhigi and Badeggi located in the Southern Guinea Savannah of Nigeria. To assessed the effect of variety, seedling transplanting age and nitrogen fertilizer rates on the growth of rice. Treatments were laid out as split–split plot arrangement fitted into Randomized Complete Block Design (RCBD) with three replications. The main plot consisted of two rice varieties (FARO 44 and FARO 52), four seedling transplanting ages (7, 14, 21 and 28 days after planting) and five inorganic N fertilizer rates (0, 60, 120, 180 and 240 kg N/ha) constituted the sub-plot and sub-sub plot respectively. Growth data viz plant height, number of tillers and leaf area index were measured at 30 and 45 days after transplanting (DAT) during the two planting seasons. Plant height was taken from five randomly selected and tagged plants from ground surface to the tip of the leaf or panicle of the main stem using measuring tape. The number of tillers per plant was counted from five randomly selected and tagged hills in each plot from two middle rows. .The leaf area (cm<ce:sup loc="post">2</ce:sup>) of the leaves was obtained from five randomly selected tagged plants by measuring the leaf length from the base to the tip with a ruler also the widest part of the leaf. The leaf area (LA) was estimated using the equation:</ce:simple-para>
+               <ce:simple-para id="spara013" view="all">LA = length × breath × 0.75 [1].</ce:simple-para>
+               <ce:simple-para id="spara014" view="all">The leaf area value obtained was used to calculate the leaf area index (LAI), which describes the efficiency of the photosynthetic process on the photosynthetic surface and calculated as the total leaf area/ground area. Data collected were subjected to one way analysis of variance (ANOVA) using GenSTAT 11<ce:sup loc="post">th</ce:sup> edition and the difference between treatments mean tested using least significant difference (LSD) at 5% probability level. The data are of value to agronomists in search of reference. It has the potential to be used to predict seedling age of rice at transplanting and the appropriate nitrogen fertilizer rate for rice growth.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Location</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Nitrogen fertilizer rates</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Rice and seedling transplanting age</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

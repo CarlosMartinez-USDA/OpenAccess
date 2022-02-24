@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107612">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A knowledge elicitation study to inform the development of a consequence model for Arctic ship evacuations: Qualitative and quantitative data</dct:title>
+         <dct:creator>Thomas Browne</dct:creator>
+         <dct:creator>Brian Veitch</dct:creator>
+         <dct:creator>Rocky Taylor</dct:creator>
+         <dct:creator>Jennifer Smith</dct:creator>
+         <dct:creator>Doug Smith</dct:creator>
+         <dct:creator>Faisal Khan</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Arctic shipping</rdf:li>
+               <rdf:li>Expert knowledge</rdf:li>
+               <rdf:li>Life-safety</rdf:li>
+               <rdf:li>Consequence modelling</rdf:li>
+               <rdf:li>Mixed methods design</rdf:li>
+               <rdf:li>Semi-structured interviews</rdf:li>
+               <rdf:li>Thematic analysis</rdf:li>
+               <rdf:li>Survey</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107612</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107612</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107612</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107612</dct:identifier>
+         <bam:articleNumber>107612</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-17T19:11:12Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>CRKN: Canadian Research Knowledge Network2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107612</ja:aid>
+         <ce:article-number>107612</ce:article-number>
+         <ce:pii>S2352-3409(21)00887-8</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107612</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">A knowledge elicitation study to inform the development of a consequence model for Arctic ship evacuations: Qualitative and quantitative data</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008878-a4ee8cb2542146381b50827d789bc996"
+                       orcid="0000-0003-4568-1252">
+               <ce:given-name>Thomas</ce:given-name>
+               <ce:surname>Browne</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:thomas.browne@mun.ca">thomas.browne@mun.ca</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008878-ed1ab48557561bc7034695892274e4a7"
+                       orcid="0000-0001-5450-4587">
+               <ce:given-name>Brian</ce:given-name>
+               <ce:surname>Veitch</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008878-615dfa9a3f21eff6150c8cdc795c8b88">
+               <ce:given-name>Rocky</ce:given-name>
+               <ce:surname>Taylor</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008878-dff0fda3bd698bfc06b892c705c73b01"
+                       orcid="0000-0001-8423-0572">
+               <ce:given-name>Jennifer</ce:given-name>
+               <ce:surname>Smith</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008878-d95aa3b2a8fb42347ea1d6fa22c4dddd"
+                       orcid="0000-0002-0697-6405">
+               <ce:given-name>Doug</ce:given-name>
+               <ce:surname>Smith</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008878-7dbdf3f76cd2505bec4a0d1091e4adf3"
+                       orcid="0000-0002-5638-4299">
+               <ce:given-name>Faisal</ce:given-name>
+               <ce:surname>Khan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008878-935f2d8d7e3df57a69edce081974e6e1">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Faculty of Engineering and Applied Science, Memorial University of Newfoundland, St. John's, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Engineering and Applied Science</sa:organization>
+                  <sa:organization>Memorial University of Newfoundland</sa:organization>
+                  <sa:city>St. John's</sa:city>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aFaculty of Engineering and Applied Science, Memorial University of Newfoundland, 26 Portugal Cove Road, St. John's, NL A1B 2L7, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008878-137e0b34f5969d45354bf23dce83a113">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Ocean, Coastal, and River Engineering Research Centre, National Research Council of Canada, St. John's, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Ocean</sa:organization>
+                  <sa:organization>Coastal</sa:organization>
+                  <sa:organization>and River Engineering Research Centre</sa:organization>
+                  <sa:organization>National Research Council of Canada</sa:organization>
+                  <sa:city>St. John's</sa:city>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bOcean, Coastal, and River Engineering Research Centre, National Research Council of Canada, St. John's, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008878-fdce7faa93c2a24c5e28d23efbf133c6">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">School of Maritime Studies, Fisheries and Marine Institute of Memorial University of Newfoundland, St. John's, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Maritime Studies</sa:organization>
+                  <sa:organization>Fisheries and Marine Institute of Memorial University of Newfoundland</sa:organization>
+                  <sa:city>St. John's</sa:city>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cSchool of Maritime Studies, Fisheries and Marine Institute of Memorial University of Newfoundland, St. John's, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Faculty of Engineering and Applied Science, Memorial University of Newfoundland, 26 Portugal Cove Road, St. John's, NL A1B 2L7, Canada.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Engineering and Applied Science</sa:organization>
+                  <sa:organization>Memorial University of Newfoundland</sa:organization>
+                  <sa:address-line>26 Portugal Cove Road</sa:address-line>
+                  <sa:city>St. John's</sa:city>
+                  <sa:state>NL</sa:state>
+                  <sa:postal-code>A1B 2L7</sa:postal-code>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="5" month="10" year="2021"/>
+         <ce:date-revised day="21" month="10" year="2021"/>
+         <ce:date-accepted day="16" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">Expert knowledge was elicited to develop a life-safety consequence severity model for Arctic ship evacuations (Browne et al., 2021). This paper presents the associated experimental design and data. Through semi-structured interviews, participants identified factors that influence consequence severity. Through a survey, participants evaluated consequence severity of different ship evacuation scenarios. The methodology represents a two-phased mixed methods design. Life-safety consequence severity is measured as the expected number of fatalities resulting from an evacuation. Participants of the study were experts in various fields of the Arctic maritime industry. Sixteen experts participated in the interviews and the survey (sample size: <ce:italic>n</ce:italic> = 16). Sample size for the interviews was based on thematic data saturation. Predominantly the same group of experts participated in the survey. Interviews were analysed using thematic analysis. Interview data informed the development of evacuation scenarios defined in the survey. The interview guide and survey questions are presented. Data tables present the codes that emerged through thematic analysis, including code reference counts and code intersection counts. Data tables present the raw data of participant responses to the survey. This data can support further investigation of factors that influence consequence severity, definition of a broader range of evacuation scenarios, and establishment of associated consequence severities. This data has value to Arctic maritime policy-makers, researchers, and other stakeholders engaged in maritime operational risk management.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Arctic shipping</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Expert knowledge</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Life-safety</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Consequence modelling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Mixed methods design</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Semi-structured interviews</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Thematic analysis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Survey</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

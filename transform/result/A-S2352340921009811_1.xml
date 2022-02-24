@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107706">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Quantitative proteomic dataset of the moss Physcomitrium patens SMG1 KO mutant line</dct:title>
+         <dct:creator>Anna Mamaeva</dct:creator>
+         <dct:creator>Anna Glushkevich</dct:creator>
+         <dct:creator>Igor Fesenko</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Nonsense-mediated RNA decay</rdf:li>
+               <rdf:li>iTRAQ</rdf:li>
+               <rdf:li>Proteomics</rdf:li>
+               <rdf:li>Physcomitrium patens</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107706</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107706</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107706</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107706</dct:identifier>
+         <bam:articleNumber>107706</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-10T11:50:16Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Russia: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107706</ja:aid>
+         <ce:article-number>107706</ce:article-number>
+         <ce:pii>S2352-3409(21)00981-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107706</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Quantitative proteomic dataset of the moss <ce:italic>Physcomitrium patens SMG1</ce:italic> KO mutant line</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009811-e21902dfcdf0083ed7eff4ebdfa08695">
+               <ce:given-name>Anna</ce:given-name>
+               <ce:surname>Mamaeva</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009811-b4b470ba158d139523d0e5082b2784ec"
+                       orcid="0000-0001-8869-7807">
+               <ce:given-name>Anna</ce:given-name>
+               <ce:surname>Glushkevich</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:e-address id="ea3a"
+                             type="social-media"
+                             xlink:href="https://twitter.com/liverworks">@liverworks</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009811-1aea3bca53ecc12e6430352fbbcecb67"
+                       orcid="0000-0002-5757-8271">
+               <ce:given-name>Igor</ce:given-name>
+               <ce:surname>Fesenko</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:moss@ibch.ru">moss@ibch.ru</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/FesenkoIgor">@FesenkoIgor</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009811-49a7233679a18be4d065f5284f9ce891">
+               <ce:textfn id="cetextfn0001">Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, Moscow, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences</sa:organization>
+                  <sa:city>Moscow</sa:city>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, Moscow, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="2" month="11" year="2021"/>
+         <ce:date-revised day="23" month="11" year="2021"/>
+         <ce:date-accepted day="9" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara002" view="all">Nonsense-mediated RNA decay (NMD) mechanism controls the quality of eukaryotic mRNAs by degradation of aberrant transcripts with a premature stop codon (PTC) in a pioneer round of translation. Besides aberrant transcripts, up to 10% of normal mRNA transcripts can be regulated by NMD. As NMD machinery is associated with translation, this system takes part in proteome formation in eukaryotic cells [1,2]. However, no proteomic datasets of plants with deficient NMD system are currently available.</ce:simple-para>
+               <ce:simple-para id="spara003" view="all">Here, we provide an isobaric tag for relative and absolute quantitation (iTRAQ)-based quantitative proteomic dataset of the moss <ce:italic>Physcomitrium patens smg1</ce:italic> knockout line. The kinase SMG1 is one of the key components of the NMD system in many organisms, including plants. 8-day old protonema of wild type and mutant lines was used for the iTRAQ experiment in three biological replicates. LC-MS/MS data were processed using PEAKS Studio v.8 Software with protein identification based on a Phytozome protein database. Differentially expressed protein groups up- and down-regulated in the smg1 knockout line were found in the resulting dataset. Presented data can improve our understanding of NMD functions in plants.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Nonsense-mediated RNA decay</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">iTRAQ</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Proteomics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">
+                  <ce:italic>Physcomitrium patens</ce:italic>
+               </ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

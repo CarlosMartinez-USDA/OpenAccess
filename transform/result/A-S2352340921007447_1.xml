@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107462">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset of the crystal structures, electrical transport properties, and first-principles electronic structures of GeTe-rich GeTe-Sb2Te3 thermoelectric materials</dct:title>
+         <dct:creator>Tomohiro Oku</dct:creator>
+         <dct:creator>Hiroki Funashima</dct:creator>
+         <dct:creator>Shogo Kawaguchi</dct:creator>
+         <dct:creator>Yoshiki Kubota</dct:creator>
+         <dct:creator>Atsuko Kosuga</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Germanium telluride</rdf:li>
+               <rdf:li>First-principles calculation</rdf:li>
+               <rdf:li>Rietveld refinement</rdf:li>
+               <rdf:li>Ge defect</rdf:li>
+               <rdf:li>Synchrotron X-ray powder diffraction</rdf:li>
+               <rdf:li>Data description</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107462</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107462</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107462</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107462</dct:identifier>
+         <bam:articleNumber>107462</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-06T18:11:19Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107462</ja:aid>
+         <ce:article-number>107462</ce:article-number>
+         <ce:pii>S2352-3409(21)00744-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107462</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S2542-5293(21)00145-0</ce:pii>
+               <ce:doi>10.1016/j.mtphys.2021.100484</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset of the crystal structures, electrical transport properties, and first-principles electronic structures of GeTe-rich GeTe-Sb<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">3</ce:inf> thermoelectric materials</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007447-975cbec808b6ca3224086a4a49e49ead"
+                       orcid="0000-0003-1487-9944">
+               <ce:given-name>Tomohiro</ce:given-name>
+               <ce:surname>Oku</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:s_t.oku@p.s.osakafu-u.ac.j">s_t.oku@p.s.osakafu-u.ac.j</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007447-0337e75254888f5a7eb41dbebbef5313">
+               <ce:given-name>Hiroki</ce:given-name>
+               <ce:surname>Funashima</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007447-927b506b786e442a2ed9c9e953d9c4b3">
+               <ce:given-name>Shogo</ce:given-name>
+               <ce:surname>Kawaguchi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007447-bc2591f6102dbb43d54992aa6c8cd88d">
+               <ce:given-name>Yoshiki</ce:given-name>
+               <ce:surname>Kubota</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921007447-e224bb1368bdb8e3840bfb6fb1829a9e">
+               <ce:given-name>Atsuko</ce:given-name>
+               <ce:surname>Kosuga</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0002">
+                  <ce:sup loc="post">⁎⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0003"
+                             type="email"
+                             xlink:href="mailto:a-kosuga@p.s.osakafu-u.ac.jp">a-kosuga@p.s.osakafu-u.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007447-a7568795fb0608bdc6a576e00ea7bdf6">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Physical Science, Graduate School of Science, Osaka Prefecture University, Sakai, Osaka 599-8531, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Physical Science</sa:organization>
+                  <sa:organization>Graduate School of Science</sa:organization>
+                  <sa:organization>Osaka Prefecture University</sa:organization>
+                  <sa:city>Sakai</sa:city>
+                  <sa:state>Osaka</sa:state>
+                  <sa:postal-code>599-8531</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Physical Science, Graduate School of Science, Osaka Prefecture University, Sakai, Osaka 599-8531, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007447-2283e8e41ca21f27120065c8e313e658">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Comprehensive Engineering, Kindai University Technical College, Mie, Nabari 518-0459, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Comprehensive Engineering</sa:organization>
+                  <sa:organization>Kindai University Technical College</sa:organization>
+                  <sa:address-line>Mie</sa:address-line>
+                  <sa:city>Nabari</sa:city>
+                  <sa:postal-code>518-0459</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Comprehensive Engineering, Kindai University Technical College, Mie, Nabari 518-0459, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921007447-d9476d64776d8ba6edcfe5313861c054">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Diffraction and Scattering Division, Japan Synchrotron Radiation Research Institute (JASRI), Sayo-gun, Hyogo 679-5198, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Diffraction and Scattering Division</sa:organization>
+                  <sa:organization>Japan Synchrotron Radiation Research Institute (JASRI)</sa:organization>
+                  <sa:address-line>Sayo-gun</sa:address-line>
+                  <sa:city>Hyogo</sa:city>
+                  <sa:postal-code>679-5198</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDiffraction and Scattering Division, Japan Synchrotron Radiation Research Institute (JASRI), Sayo-gun, Hyogo 679-5198, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921007447-5836631a42f783bbf521a0a492c7693f">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Japan Science and Technology Agency (JST), PRESTO, Kawaguchi, Saitama 332-0012, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Japan Science and Technology Agency (JST)</sa:organization>
+                  <sa:organization>PRESTO</sa:organization>
+                  <sa:city>Kawaguchi</sa:city>
+                  <sa:state>Saitama</sa:state>
+                  <sa:postal-code>332-0012</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dJapan Science and Technology Agency (JST), PRESTO, Kawaguchi, Saitama 332-0012, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:correspondence id="cor0002">
+               <ce:label>⁎⁎</ce:label>
+               <ce:text id="cetext0002">Corresponding author at: Department of Physical Science, Graduate School of Science, Osaka Prefecture University, Sakai, Osaka 599-8531, Japan.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Physical Science</sa:organization>
+                  <sa:organization>Graduate School of Science</sa:organization>
+                  <sa:organization>Osaka Prefecture University</sa:organization>
+                  <sa:city>Sakai</sa:city>
+                  <sa:state>Osaka</sa:state>
+                  <sa:postal-code>599-8531</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="15" month="9" year="2021"/>
+         <ce:date-revised day="3" month="10" year="2021"/>
+         <ce:date-accepted day="5" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">The data presented in this article relate to the research article entitled “Superior room-temperature power factor in GeTe systems via multiple valence band convergence to a narrow energy range” [T. Oku et al., Mater. Today Phys. 20 (2021) 100484 (10.1016/j.mtphys.2021.100484)]. Polycrystalline (GeTe)<ce:italic>
+                     <ce:inf loc="post">n</ce:inf>
+                  </ce:italic>Sb<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">3</ce:inf> (<ce:italic>n</ce:italic> = 10, 12, 16, 20, and 24) bulk samples were prepared by melting and annealing. The Ge defect concentration of each composition was estimated from Rietveld refinement of the synchrotron X-ray powder diffraction patterns. Electrical properties, such as the electrical resistivity and Seebeck coefficient, were measured from three specimens of each composition to confirm reproducibility. Electronic-band-structure parameters and electronic density-of-states of each composition were obtained by first-principles calculations.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0003">Germanium telluride</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0004">First-principles calculation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0005">Rietveld refinement</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0006">Ge defect</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0007">Synchrotron X-ray powder diffraction</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0008">Data description</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

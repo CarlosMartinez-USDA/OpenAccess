@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107604">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset on social media use during COVID-19: Associations with self-efficacy, perceived threat, and preventive behavior</dct:title>
+         <dct:creator>Qaisar Khalid Mahmood</dct:creator>
+         <dct:creator>Sara Rizvi Jafree</dct:creator>
+         <dct:creator>Sahifa Mukhtar</dct:creator>
+         <dct:creator>Florian Fischer</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Corona</rdf:li>
+               <rdf:li>SARS-CoV-2</rdf:li>
+               <rdf:li>Infection management</rdf:li>
+               <rdf:li>Infection control</rdf:li>
+               <rdf:li>Communication</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107604</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107604</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107604</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107604</dct:identifier>
+         <bam:articleNumber>107604</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-17T19:55:52Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107604</ja:aid>
+         <ce:article-number>107604</ce:article-number>
+         <ce:pii>S2352-3409(21)00879-9</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107604</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset on social media use during COVID-19: Associations with self-efficacy, perceived threat, and preventive behavior</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008799-7245b3021b947f83cecb3bc67aa013db"
+                       orcid="0000-0001-7009-5146">
+               <ce:given-name>Qaisar Khalid</ce:given-name>
+               <ce:surname>Mahmood</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008799-c8d9f5bc9cc9e559597b2f9c3722bcd6">
+               <ce:given-name>Sara Rizvi</ce:given-name>
+               <ce:surname>Jafree</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008799-c09a62a9d4ddb0df25793be085948e1c">
+               <ce:given-name>Sahifa</ce:given-name>
+               <ce:surname>Mukhtar</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008799-ffce3f2bb7887383b57eba02061e61e3"
+                       orcid="0000-0002-4388-1245">
+               <ce:given-name>Florian</ce:given-name>
+               <ce:surname>Fischer</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:florian.fischer1@charite.de">florian.fischer1@charite.de</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008799-5b6465e32690ef8728b17d7ef924352c">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Sociology, International Islamic University Islamabad, Islamabad, Pakistan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Sociology</sa:organization>
+                  <sa:organization>International Islamic University Islamabad</sa:organization>
+                  <sa:city>Islamabad</sa:city>
+                  <sa:country>Pakistan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Sociology, International Islamic University Islamabad, Islamabad, Pakistan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008799-d6c99bb777189b4101031f874477fd01">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Sociology, Forman Christian College (A Chartered University), Lahore, Pakistan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Sociology</sa:organization>
+                  <sa:organization>Forman Christian College (A Chartered University)</sa:organization>
+                  <sa:city>Lahore</sa:city>
+                  <sa:country>Pakistan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Sociology, Forman Christian College (A Chartered University), Lahore, Pakistan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008799-e783615717c0abb2e014b8e95ce1711d">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Media and Communication Studies, International Islamic University Islamabad, Islamabad, Pakistan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Media and Communication Studies</sa:organization>
+                  <sa:organization>International Islamic University Islamabad</sa:organization>
+                  <sa:city>Islamabad</sa:city>
+                  <sa:country>Pakistan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cMedia and Communication Studies, International Islamic University Islamabad, Islamabad, Pakistan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921008799-60ce6b758b9188a4ed09d6b020068d8f">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Institute of Public Health, Charité – Universitätsmedizin Berlin, Berlin, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Public Health</sa:organization>
+                  <sa:organization>Charité – Universitätsmedizin Berlin</sa:organization>
+                  <sa:city>Berlin</sa:city>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dInstitute of Public Health, Charité – Universitätsmedizin Berlin, Berlin, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921008799-16b803593caf0054a7c9c872b243862c">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Institute of Gerontological Health Services and Nursing Research, Ravensburg-Weingarten University of Applied Sciences, Weingarten, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Gerontological Health Services and Nursing Research</sa:organization>
+                  <sa:organization>Ravensburg-Weingarten University of Applied Sciences</sa:organization>
+                  <sa:city>Weingarten</sa:city>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eInstitute of Gerontological Health Services and Nursing Research, Ravensburg-Weingarten University of Applied Sciences, Weingarten, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Institute of Public Health, Charité – Universitätsmedizin Berlin, Berlin, Germany.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Institute of Public Health</sa:organization>
+                  <sa:organization>Charité – Universitätsmedizin Berlin</sa:organization>
+                  <sa:city>Berlin</sa:city>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="25" month="8" year="2021"/>
+         <ce:date-revised day="12" month="11" year="2021"/>
+         <ce:date-accepted day="16" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">The ongoing COVID-19 pandemic is the most significant public health crisis of this century, and the world has been facing multiple challenges for the last two years, including a high death toll, the imposition of various forms of lockdown and the unavailability of vaccines. Globally, people have faced fearful situations and sought information from social media in order to understand the severity of the situation as well as to protect themselves and others. In comparison to traditional media (electronic and print), social media provides quick and easy access to information, making its impact timely and powerful. The cross-sectional data reflects social media use and its associations with self-efficacy, perceived threat, and preventive behavior in the time of COVID-19 among the people of Pakistan. An online-based cross-sectional survey has been conducted to obtain data from the respondents. These respondents were reached out by sharing a hyperlink through various social media platforms. A total number of 310 respondents furnished their responses. The survey was completed in April 2020. This data may be of great interest to researchers, policymakers, research organizations, and social and mental health practitioners who wish to explore other dimensions of mental health issues caused by the ongoing COVID-19 pandemic.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Corona</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">SARS-CoV-2</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Infection management</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Infection control</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Communication</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

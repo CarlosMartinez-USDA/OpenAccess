@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2021.100011">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Polycystic ovarian syndrome: A review covering phytoconstituents for its outstrip management</dct:title>
+         <dct:creator>Monika Joshi</dct:creator>
+         <dct:creator>Ravi Shankar</dct:creator>
+         <dct:creator>Kamla Pathak</dct:creator>
+         <dct:creator>Ramakant Yadav</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Polycystic ovarian syndrome</rdf:li>
+               <rdf:li>Phytoconstituents</rdf:li>
+               <rdf:li>Curcumin</rdf:li>
+               <rdf:li>Berberine</rdf:li>
+               <rdf:li>Resveratrol</rdf:li>
+               <rdf:li>Apigenin</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine 1 (2021). doi:10.1016/j.prmcm.2021.100011</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.prmcm.2021.100011</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2021.100011</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2021.100011</dct:identifier>
+         <bam:articleNumber>100011</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-09-09T11:24:03Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100011</ja:aid>
+         <ce:article-number>100011</ce:article-number>
+         <ce:pii>S2667-1425(21)00010-5</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2021.100011</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="doc0001">
+            <ce:textfn id="cetextfn7861">Review</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Polycystic ovarian syndrome: A review covering phytoconstituents for its outstrip management</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667142521000105-d7d09bc5c979668943076443fa4e771f">
+               <ce:given-name>Monika</ce:given-name>
+               <ce:surname>Joshi</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667142521000105-4b01972c589983f04a083d86f486236e">
+               <ce:given-name>Ravi</ce:given-name>
+               <ce:surname>Shankar</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667142521000105-06cb32e65952c9b93249acf7a3da956f">
+               <ce:given-name>Kamla</ce:given-name>
+               <ce:surname>Pathak</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:kamlapathak5@gmail.com">kamlapathak5@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667142521000105-64a6d8e9387e9ae2e1928eee32f074f4">
+               <ce:given-name>Ramakant</ce:given-name>
+               <ce:surname>Yadav</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667142521000105-5ab926ea1910d9dfd2b7a5d770bef3db">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Samarpan College of Pharmacy, Chinhat Deva Road, Lucknow-226028, Uttar Pradesh, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Samarpan College of Pharmacy</sa:organization>
+                  <sa:address-line>Chinhat Deva Road</sa:address-line>
+                  <sa:city>Lucknow</sa:city>
+                  <sa:state>Uttar Pradesh</sa:state>
+                  <sa:postal-code>-226028</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aSamarpan College of Pharmacy, Chinhat Deva Road, Lucknow-226028, Uttar Pradesh, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667142521000105-ce555e6b2bf64e2bf1621c089eeba18a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Pharmacy, Sagar Institute of Technology and Management, Barabanki, 225001, Uttar Pradesh, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacy</sa:organization>
+                  <sa:organization>Sagar Institute of Technology and Management</sa:organization>
+                  <sa:city>Barabanki</sa:city>
+                  <sa:state>Uttar Pradesh</sa:state>
+                  <sa:postal-code>225001</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Pharmacy, Sagar Institute of Technology and Management, Barabanki, 225001, Uttar Pradesh, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667142521000105-d793ddccc8847e8b906ce017f2807371">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Faculty of Pharmacy, Uttar Pradesh University of Medical Sciences, Saifai, Etawah- 206130, Uttar Pradesh, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Pharmacy</sa:organization>
+                  <sa:organization>Uttar Pradesh University of Medical Sciences, Saifai</sa:organization>
+                  <sa:city>Etawah-</sa:city>
+                  <sa:state>Uttar Pradesh</sa:state>
+                  <sa:postal-code>206130</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cFaculty of Pharmacy, Uttar Pradesh University of Medical Sciences, Saifai, Etawah- 206130, Uttar Pradesh, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667142521000105-e57d8f7808d1a0f77b4b53bd2e69d43f">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Faculty of Medical Science, Uttar Pradesh University of Medical Sciences, Saifai, Etawah- 206130, Uttar Pradesh, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Medical Science</sa:organization>
+                  <sa:organization>Uttar Pradesh University of Medical Sciences, Saifai</sa:organization>
+                  <sa:city>Etawah-</sa:city>
+                  <sa:state>Uttar Pradesh</sa:state>
+                  <sa:postal-code>206130</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dFaculty of Medical Science, Uttar Pradesh University of Medical Sciences, Saifai, Etawah- 206130, Uttar Pradesh, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author: Faculty of Pharmacy, Uttar Pradesh University of Medical Sciences, Saifai, Etawah- 206130, Uttar Pradesh, India.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Pharmacy</sa:organization>
+                  <sa:organization>Uttar Pradesh University of Medical Sciences, Saifai</sa:organization>
+                  <sa:city>Etawah</sa:city>
+                  <sa:state>Uttar Pradesh</sa:state>
+                  <sa:postal-code>206130</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="28" month="6" year="2021"/>
+         <ce:date-revised day="24" month="8" year="2021"/>
+         <ce:date-accepted day="9" month="9" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara012" view="all">Polycystic ovarian syndrome (PCOS) is a multifactorial disease affecting women of all age groups in reproductive age and post-menopausal women. It is associated with a large range of clinical manifestations. Medical treatment depends on the symptoms observed, and the most common symptoms addressed in the case of PCOS are infertility, hirsutism, menstrual disorders, and obesity. There are significantly fewer therapies that can work on many symptoms, and the most difficult one is to treat infertility and hirsutism together, leading to a very hectic, tedious, and frustrating therapeutic period for patients. Current treatments are associated with severe side effects, including visual disturbance, hot flushes, abdominal distension, mood swings associated with clomiphene citrate, while polymenorrhagia with spironolactone. Thus, phytoconstituents and lifestyle modification can be considered as a safe and effective treatment approach for PCOS management as are free from serious adverse effects and can work out at multiple targets simultaneously. The research reports have demonstrated the fact that phytoconstituents like curcumin, resveratrol, and berberine have great potential in reducing insulin resistance, modulating L.H. to FSH ratio, and reducing metabolic syndromes associated with the disease. The results obtained revealed that these phytoconstituents have comparable results with first-line drugs such as clomiphene and metformin in improving fertility, reducing obesity, and regularizing the menstrual cycle. The present review covers the pathophysiology of PCOS, the current treatment approach and their drawbacks, detailed preclinical and clinical studies phytoconstituents that have proven potential in managing PCOS symptoms along with their regulatory aspects.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0002">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara013" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Polycystic ovarian syndrome</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Phytoconstituents</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Curcumin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Berberine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Resveratrol</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Apigenin</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

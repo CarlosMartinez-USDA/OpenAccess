@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>The emotional map of Prague – data on what locals think about the Czech capital?</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jiří</namePart>
+      <namePart type="family">Pánek</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6390-3149</nameIdentifier>
+      <displayForm>Pánek, Jiří</displayForm>
+      <affiliation>Department of Development and Environmental Studies, Palacky University Olomouc, Czech Republic</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Radek</namePart>
+      <namePart type="family">Barvíř</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4246-8325</nameIdentifier>
+      <displayForm>Barvíř, Radek</displayForm>
+      <affiliation>Department of Geoinformatics, Palacky University Olomouc, Czech Republic</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jakub</namePart>
+      <namePart type="family">Koníček</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5188-9597</nameIdentifier>
+      <displayForm>Koníček, Jakub</displayForm>
+      <affiliation>Department of Geoinformatics, Palacky University Olomouc, Czech Republic</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Milan</namePart>
+      <namePart type="family">Brlík</namePart>
+      <displayForm>Brlík, Milan</displayForm>
+      <affiliation>Prague Institute of Planning and Development, Czech Republic</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The paper presents the data from the participatory emotional mapping in Prague, Czech Republic. It contains 98,364 points complemented with 30,941 comments from 5,973 respondents across the city of Prague (1,335,084 inhabitants according to [1]). There were eight questions/statements common for all of Prague, furthermore each Prague district (n = 27) could add up to seven questions/statements. The data were collected via our own participatory mapping platform EmotionalMaps.eu from April to September 2021. </abstract>
+   <subject>
+      <topic>Participatory mapping</topic>
+   </subject>
+   <subject>
+      <topic>Emotional maps</topic>
+   </subject>
+   <subject>
+      <topic>Sense of place</topic>
+   </subject>
+   <subject>
+      <topic>Urban geography</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107649</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107649</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107649</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00924-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-25"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009240/S2352340921009240.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

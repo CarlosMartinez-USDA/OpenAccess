@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Experimental data showing the effect of wetting on soil structure transformations: 3D images</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Dmitriy</namePart>
+      <namePart type="family">Ivonin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3337-1281</nameIdentifier>
+      <displayForm>Ivonin, Dmitriy</displayForm>
+      <affiliation>Faculty of Physics, Lomonosov Moscow State University, 1‐2 Leninskie Gory, 119991 Moscow, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Timofey</namePart>
+      <namePart type="family">Kalnin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5063-4624</nameIdentifier>
+      <displayForm>Kalnin, Timofey</displayForm>
+      <affiliation>Soil Science Faculty, Lomonosov Moscow State University, 1-12 Leninskie Gory, 119991 Moscow, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexandr</namePart>
+      <namePart type="family">Dembovetskiy</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8568-504X</nameIdentifier>
+      <displayForm>Dembovetskiy, Alexandr</displayForm>
+      <affiliation>Soil Science Faculty, Lomonosov Moscow State University, 1-12 Leninskie Gory, 119991 Moscow, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Eugene</namePart>
+      <namePart type="family">Grachev</namePart>
+      <displayForm>Grachev, Eugene</displayForm>
+      <affiliation>Faculty of Physics, Lomonosov Moscow State University, 1‐2 Leninskie Gory, 119991 Moscow, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Evgeny</namePart>
+      <namePart type="family">Shein</namePart>
+      <displayForm>Shein, Evgeny</displayForm>
+      <affiliation>Soil Science Faculty, Lomonosov Moscow State University, 1-12 Leninskie Gory, 119991 Moscow, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Structure of the pore network of the soil controls many processes in the soil. Soil moistening have a profound impact on soil structure, which may affect a soil functions. This dataset presents the non-destructive three-dimensional (3D) visualization of the same soil sample under two different saturation conditions: air-dried and saturated beyond the field capacity [1]. The data were obtained by X-ray computed tomography and stored as three-dimensional 8-bit grayscale arrays. Two reconstructed images of the same sample were produced for future research. This dataset provides a valuable and unique insight for the qualitative and quantitative analysis. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>X-ray computed tomography</topic>
+   </subject>
+   <subject>
+      <topic>soil</topic>
+   </subject>
+   <subject>
+      <topic>clay loam Phaeozem Albic</topic>
+   </subject>
+   <subject>
+      <topic>subsoil compaction</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">02</text>
+         <text type="day">02</text>
+         <extent unit="pages">
+            <start>107928</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107928</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107928</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00140-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-02-03"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001408/S2352340922001408.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

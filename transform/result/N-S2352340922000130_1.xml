@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>AVT: Multicenter aortic vessel tree CTA dataset collection with ground truth segmentation masks</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Lukas</namePart>
+      <namePart type="family">Radl</namePart>
+      <displayForm>Radl, Lukas</displayForm>
+      <affiliation>Graz University of Technology (TU Graz), Graz, Styria, Austria</affiliation>
+      <affiliation>Computer Algorithms for Medicine Laboratory (Café Lab), Graz, Styria, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yuan</namePart>
+      <namePart type="family">Jin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8695-1525</nameIdentifier>
+      <displayForm>Jin, Yuan</displayForm>
+      <affiliation>Graz University of Technology (TU Graz), Graz, Styria, Austria</affiliation>
+      <affiliation>Computer Algorithms for Medicine Laboratory (Café Lab), Graz, Styria, Austria</affiliation>
+      <affiliation>Research Center for Connected Healthcare Big Data, ZhejiangLab, Hangzhou, Zhejiang, 311121 China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Antonio</namePart>
+      <namePart type="family">Pepe</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5843-6275</nameIdentifier>
+      <displayForm>Pepe, Antonio</displayForm>
+      <affiliation>Graz University of Technology (TU Graz), Graz, Styria, Austria</affiliation>
+      <affiliation>Computer Algorithms for Medicine Laboratory (Café Lab), Graz, Styria, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jianning</namePart>
+      <namePart type="family">Li</namePart>
+      <displayForm>Li, Jianning</displayForm>
+      <affiliation>Graz University of Technology (TU Graz), Graz, Styria, Austria</affiliation>
+      <affiliation>Computer Algorithms for Medicine Laboratory (Café Lab), Graz, Styria, Austria</affiliation>
+      <affiliation>Medical University of Graz (MedUni Graz), Graz, Styria, Austria</affiliation>
+      <affiliation>Institute for AI in Medicine (IKIM), University Hospital Essen (UKE), Ruhrgebiet, Essen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christina</namePart>
+      <namePart type="family">Gsaxner</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2227-3523</nameIdentifier>
+      <displayForm>Gsaxner, Christina</displayForm>
+      <affiliation>Graz University of Technology (TU Graz), Graz, Styria, Austria</affiliation>
+      <affiliation>Computer Algorithms for Medicine Laboratory (Café Lab), Graz, Styria, Austria</affiliation>
+      <affiliation>Medical University of Graz (MedUni Graz), Graz, Styria, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fen-hua</namePart>
+      <namePart type="family">Zhao</namePart>
+      <displayForm>Zhao, Fen-hua</displayForm>
+      <affiliation>Department of Radiology, Affiliated Dongyang Hospital of Wenzhou Medical University, Dongyang, Zhejiang, 322100 China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jan</namePart>
+      <namePart type="family">Egger</namePart>
+      <displayForm>Egger, Jan</displayForm>
+      <affiliation>Graz University of Technology (TU Graz), Graz, Styria, Austria</affiliation>
+      <affiliation>Computer Algorithms for Medicine Laboratory (Café Lab), Graz, Styria, Austria</affiliation>
+      <affiliation>Medical University of Graz (MedUni Graz), Graz, Styria, Austria</affiliation>
+      <affiliation>Institute for AI in Medicine (IKIM), University Hospital Essen (UKE), Ruhrgebiet, Essen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In this article, we present a multicenter aortic vessel tree database collection, containing 56 aortas and their branches. The datasets have been acquired with computed tomography angiography (CTA) scans and each scan covers the ascending aorta, the aortic arch and its branches into the head/neck area, the thoracic aorta, the abdominal aorta and the lower abdominal aorta with the iliac arteries branching into the legs. For each scan, the collection provides a semi-automatically generated segmentation mask of the aortic vessel tree (ground truth). The scans come from three different collections and various hospitals, having various resolutions, which enables studying the geometry/shape variabilities of human aortas and its branches from different geographic locations. Furthermore, creating a robust statistical model of the shape of human aortic vessel trees, which can be used for various tasks such as the development of fully-automatic segmentation algorithms for new, unseen aortic vessel tree cases, e.g. by training deep learning-based approaches. Hence, the collection can serve as an evaluation set for automatic aortic vessel tree segmentation algorithms. </abstract>
+   <subject>
+      <topic>Aorta</topic>
+   </subject>
+   <subject>
+      <topic>Vessel tree</topic>
+   </subject>
+   <subject>
+      <topic>CTA</topic>
+   </subject>
+   <subject>
+      <topic>Aortic dissection</topic>
+   </subject>
+   <subject>
+      <topic>Abdominal aortic aneurysm</topic>
+   </subject>
+   <subject>
+      <topic>Segmentations</topic>
+   </subject>
+   <subject>
+      <topic>Masks</topic>
+   </subject>
+   <subject>
+      <topic>Ground truth</topic>
+   </subject>
+   <subject>
+      <topic>Deep learning</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107801</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107801</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107801</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00013-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-05"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000130/S2352340922000130.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

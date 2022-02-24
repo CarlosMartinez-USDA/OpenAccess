@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Lagrangian and Eulerian dataset of the wake downstream of a smooth cylinder at a Reynolds number equal to 3900</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ali Rahimi</namePart>
+      <namePart type="family">Khojasteh</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3545-8391</nameIdentifier>
+      <displayForm>Khojasteh, Ali Rahimi</displayForm>
+      <affiliation>INRAE, OPAALE, 17 avenue de Cucillé, Rennes 35044, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sylvain</namePart>
+      <namePart type="family">Laizet</namePart>
+      <displayForm>Laizet, Sylvain</displayForm>
+      <affiliation>Turbulence Simulation Group, Department of Aeronautics, Imperial College London, Exhibition Road, London SW7 2AZ, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dominique</namePart>
+      <namePart type="family">Heitz</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6295-2822</nameIdentifier>
+      <displayForm>Heitz, Dominique</displayForm>
+      <affiliation>INRAE, OPAALE, 17 avenue de Cucillé, Rennes 35044, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yin</namePart>
+      <namePart type="family">Yang</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7492-8552</nameIdentifier>
+      <displayForm>Yang, Yin</displayForm>
+      <affiliation>INRAE, OPAALE, 17 avenue de Cucillé, Rennes 35044, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The dataset contains Eulerian velocity and pressure fields, and Lagrangian particle trajectories of the wake flow downstream of a smooth cylinder at a Reynolds number equal to 3900. An open source Direct Numerical Simulation (DNS) flow solver named Incompact3d was used to calculate the Eulerian field around the cylinder. The synthetic Lagrangian tracer particles were transported using a fourth-order Runge-Kutta scheme in time and trilinear interpolations in space. Trajectories of roughly 200,000 particles for two 3D sub-domains are available to the public. This dataset can be used as a test case for tracking algorithm assessment, exploring the Lagrangian physics, statistic analyses, machine learning, and data assimilation interests. </abstract>
+   <subject>
+      <topic>Lagrangian particle trajectory</topic>
+   </subject>
+   <subject>
+      <topic>Direct Numerical Simulation</topic>
+   </subject>
+   <subject>
+      <topic>Synthetic particle transport</topic>
+   </subject>
+   <subject>
+      <topic>Turbulent wake flow</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107725</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107725</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107725</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01000-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010003/S2352340921010003.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

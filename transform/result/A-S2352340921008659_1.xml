@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107590">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A synchrotron computed tomography dataset for validation of longitudinal tensile failure models based on fibre break and cluster development</dct:title>
+         <dct:creator>C. Breite</dct:creator>
+         <dct:creator>A. Melnikov</dct:creator>
+         <dct:creator>A. Turon</dct:creator>
+         <dct:creator>A.B. de Morais</dct:creator>
+         <dct:creator>C. Le Bourlot</dct:creator>
+         <dct:creator>E. Maire</dct:creator>
+         <dct:creator>E. Schöberl</dct:creator>
+         <dct:creator>F. Otero</dct:creator>
+         <dct:creator>F. Mesquita</dct:creator>
+         <dct:creator>I. Sinclair</dct:creator>
+         <dct:creator>J. Costa</dct:creator>
+         <dct:creator>J.A. Mayugo</dct:creator>
+         <dct:creator>J.M. Guerrero</dct:creator>
+         <dct:creator>L. Gorbatikh</dct:creator>
+         <dct:creator>L.N. McCartney</dct:creator>
+         <dct:creator>M. Hajikazemi</dct:creator>
+         <dct:creator>M. Mehdikhani</dct:creator>
+         <dct:creator>M.N. Mavrogordato</dct:creator>
+         <dct:creator>P.P. Camanho</dct:creator>
+         <dct:creator>R. Tavares</dct:creator>
+         <dct:creator>S.M. Spearing</dct:creator>
+         <dct:creator>S.V. Lomov</dct:creator>
+         <dct:creator>S. Pimenta</dct:creator>
+         <dct:creator>W. Van Paepegem</dct:creator>
+         <dct:creator>Y. Swolfs</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Fibre-reinforced composites</rdf:li>
+               <rdf:li>Synchrotron computed tomography</rdf:li>
+               <rdf:li>Longitudinal tensile failure</rdf:li>
+               <rdf:li>Fibre breaks</rdf:li>
+               <rdf:li>Stress concentrations</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107590</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107590</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107590</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107590</dct:identifier>
+         <bam:articleNumber>107590</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-16T13:56:13Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107590</ja:aid>
+         <ce:article-number>107590</ce:article-number>
+         <ce:pii>S2352-3409(21)00865-9</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107590</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0263-8223(21)01271-X</ce:pii>
+               <ce:doi>10.1016/j.compstruct.2021.114828</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">A synchrotron computed tomography dataset for validation of longitudinal tensile failure models based on fibre break and cluster development</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008659-001f0521c1d301c874f34da27dd807a5"
+                       orcid="0000-0001-9695-2257">
+               <ce:given-name>C.</ce:given-name>
+               <ce:surname>Breite</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea2"
+                             type="social-media"
+                             xlink:href="https://twitter.com/BreiteChristian">@BreiteChristian</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008659-9cfb0a479ddfd17f2f9bbd432558e9f4">
+               <ce:given-name>A.</ce:given-name>
+               <ce:surname>Melnikov</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea4"
+                             type="social-media"
+                             xlink:href="https://twitter.com/arsmlnkv">@arsmlnkv</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008659-0cb3a2ff2645d2fb18b826436df065e0">
+               <ce:given-name>A.</ce:given-name>
+               <ce:surname>Turon</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008659-710cb74f0306c9d6526feadad99efea1">
+               <ce:given-name>A.B.</ce:given-name>
+               <ce:surname>de Morais</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008659-837f5db08681720682f2162943ca56c0"
+                       orcid="0000-0001-8088-4261">
+               <ce:given-name>C. Le</ce:given-name>
+               <ce:surname>Bourlot</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008659-5ac166f1f79ddfdd6a022ccdccda7189">
+               <ce:given-name>E.</ce:given-name>
+               <ce:surname>Maire</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921008659-437607e3b3f24d8d7e6b4a1970c24102"
+                       orcid="0000-0002-5142-5522">
+               <ce:given-name>E.</ce:given-name>
+               <ce:surname>Schöberl</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea5"
+                             type="social-media"
+                             xlink:href="https://twitter.com/Erich_Schoberl">@Erich_Schoberl</ce:e-address>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921008659-3494ee6ad7decaea4dcaebb6cc8de03d"
+                       orcid="0000-0002-3776-7550">
+               <ce:given-name>F.</ce:given-name>
+               <ce:surname>Otero</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921008659-a61f808988a9285f81527474e20d0ff8">
+               <ce:given-name>F.</ce:given-name>
+               <ce:surname>Mesquita</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/FMesquita_6">@FMesquita_6</ce:e-address>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2352340921008659-ad220a776894973429de733dea58d71e">
+               <ce:given-name>I.</ce:given-name>
+               <ce:surname>Sinclair</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S2352340921008659-3ebfef0206fa30bbe69db53e4e298c16"
+                       orcid="0000-0002-7134-7146">
+               <ce:given-name>J.</ce:given-name>
+               <ce:surname>Costa</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0012"
+                       author-id="S2352340921008659-cb4ec31e85a647341bce8bba4803b106"
+                       orcid="0000-0001-8210-3529">
+               <ce:given-name>J.A.</ce:given-name>
+               <ce:surname>Mayugo</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0013"
+                       author-id="S2352340921008659-8df0cf582f6fa0a278c94747ef15a133"
+                       orcid="0000-0002-2652-0691">
+               <ce:given-name>J.M.</ce:given-name>
+               <ce:surname>Guerrero</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0014"
+                       author-id="S2352340921008659-bbdb993f41dae53074e7de333ea3e50b">
+               <ce:given-name>L.</ce:given-name>
+               <ce:surname>Gorbatikh</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0015"
+                       author-id="S2352340921008659-4d85194445ce79fe3d457e214bca0a26">
+               <ce:given-name>L.N.</ce:given-name>
+               <ce:surname>McCartney</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0007">
+                  <ce:sup loc="post">g</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0016"
+                       author-id="S2352340921008659-a6a8e3337ea789a9c81f1c77a8ad230e">
+               <ce:given-name>M.</ce:given-name>
+               <ce:surname>Hajikazemi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0008">
+                  <ce:sup loc="post">h</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0017"
+                       author-id="S2352340921008659-464857f7730c2e9bb51bf96d36267025"
+                       orcid="0000-0003-3989-2678">
+               <ce:given-name>M.</ce:given-name>
+               <ce:surname>Mehdikhani</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea6"
+                             type="social-media"
+                             xlink:href="https://twitter.com/MahoorMeh">@MahoorMeh</ce:e-address>
+            </ce:author>
+            <ce:author id="au0018"
+                       author-id="S2352340921008659-0a5ea03e65cede3bb9b1cfe44ad0b335">
+               <ce:given-name>M.N.</ce:given-name>
+               <ce:surname>Mavrogordato</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0019"
+                       author-id="S2352340921008659-72855a7785e9fbb7e070c280e6f2ea09">
+               <ce:given-name>P.P.</ce:given-name>
+               <ce:surname>Camanho</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0009">
+                  <ce:sup loc="post">i</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0020"
+                       author-id="S2352340921008659-3457262a6030b8605f73f0fe32120729">
+               <ce:given-name>R.</ce:given-name>
+               <ce:surname>Tavares</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0009">
+                  <ce:sup loc="post">i</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0021"
+                       author-id="S2352340921008659-ba125c2bcb4006f52d1a95b1978667b3"
+                       orcid="0000-0002-3059-2014">
+               <ce:given-name>S.M.</ce:given-name>
+               <ce:surname>Spearing</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0022"
+                       author-id="S2352340921008659-8802b6d58bb963ac65746c1c29741965"
+                       orcid="0000-0002-8194-4913">
+               <ce:given-name>S.V.</ce:given-name>
+               <ce:surname>Lomov</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0023"
+                       author-id="S2352340921008659-bfc816e0ce31e33d02c06c2ee17a4a3d"
+                       orcid="0000-0002-1603-5940">
+               <ce:given-name>S.</ce:given-name>
+               <ce:surname>Pimenta</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0010">
+                  <ce:sup loc="post">j</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea7"
+                             type="social-media"
+                             xlink:href="https://twitter.com/mecomposites">@mecomposites</ce:e-address>
+            </ce:author>
+            <ce:author id="au0024"
+                       author-id="S2352340921008659-45771a8bd78be4799fdbd8874b4cdc22">
+               <ce:given-name>W.</ce:given-name>
+               <ce:surname>Van Paepegem</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0008">
+                  <ce:sup loc="post">h</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0025"
+                       author-id="S2352340921008659-6bd4c18dacf4193886c4da054cb2531c"
+                       orcid="0000-0001-7278-3022">
+               <ce:given-name>Y.</ce:given-name>
+               <ce:surname>Swolfs</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:yentl.swolfs@kuleuven.be">yentl.swolfs@kuleuven.be</ce:e-address>
+               <ce:e-address id="ea1"
+                             type="social-media"
+                             xlink:href="https://twitter.com/yentlswolfs">@yentlswolfs</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008659-dd346c1d3eac60d8e22740ccbd64d5df">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Materials Engineering, KU Leuven, Kasteelpark Arenberg 44 box 2450, Leuven 3001, Belgium</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Materials Engineering</sa:organization>
+                  <sa:organization>KU Leuven</sa:organization>
+                  <sa:address-line>Kasteelpark Arenberg 44 box 2450</sa:address-line>
+                  <sa:city>Leuven</sa:city>
+                  <sa:postal-code>3001</sa:postal-code>
+                  <sa:country>Belgium</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Materials Engineering, KU Leuven, Kasteelpark Arenberg 44 box 2450, Leuven 3001, Belgium</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008659-dd5be6dde541a8cd6a3a1c8d1e42eb91">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">AMADE, Polytechnic School, University of Girona, Campus Montilivi s/n, Girona E-17003, Spain</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>AMADE, Polytechnic School</sa:organization>
+                  <sa:organization>University of Girona</sa:organization>
+                  <sa:address-line>Campus Montilivi s/n</sa:address-line>
+                  <sa:city>Girona</sa:city>
+                  <sa:postal-code>E-17003</sa:postal-code>
+                  <sa:country>Spain</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bAMADE, Polytechnic School, University of Girona, Campus Montilivi s/n, Girona E-17003, Spain</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008659-b6db2e097048a2bae9fd8db0eaa27164">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Mechanical Engineering, RISCO research unit, University of Aveiro, Campus Santiago, Aveiro 3810-193, Portugal</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Mechanical Engineering</sa:organization>
+                  <sa:organization>RISCO research unit,</sa:organization>
+                  <sa:organization>University of Aveiro</sa:organization>
+                  <sa:organization>Campus Santiago</sa:organization>
+                  <sa:city>Aveiro</sa:city>
+                  <sa:postal-code>3810-193</sa:postal-code>
+                  <sa:country>Portugal</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Mechanical Engineering, RISCO research unit, University of Aveiro, Campus Santiago, Aveiro 3810-193, Portugal</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921008659-6c7614022c1901d6da146d386c391242">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Universite de Lyon, INSA-Lyon, MATEIS, CNRS UMR5510, Villeurbanne F-69621, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Universite de Lyon, INSA-Lyon, MATEIS, CNRS UMR5510</sa:organization>
+                  <sa:city>Villeurbanne</sa:city>
+                  <sa:postal-code>F-69621</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dUniversite de Lyon, INSA-Lyon, MATEIS, CNRS UMR5510, Villeurbanne F-69621, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921008659-b5368e37a7155fbc9fab13105e7ce6a8">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Engineering Materials, Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Engineering Materials, Faculty of Engineering and Physical Sciences</sa:organization>
+                  <sa:organization>University of Southampton</sa:organization>
+                  <sa:city>Southampton</sa:city>
+                  <sa:postal-code>SO17 1BJ</sa:postal-code>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eEngineering Materials, Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2352340921008659-8932338810be32ffd6b9c193de984d03">
+               <ce:label>f</ce:label>
+               <ce:textfn id="cetextfn0006">INEGI, Rua Dr. Roberto Frias, 400, Porto 4200-465, Portugal</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>INEGI,</sa:organization>
+                  <sa:address-line>Rua Dr. Roberto Frias, 400</sa:address-line>
+                  <sa:city>Porto</sa:city>
+                  <sa:postal-code>4200-465</sa:postal-code>
+                  <sa:country>Portugal</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0006">fINEGI, Rua Dr. Roberto Frias, 400, Porto 4200-465, Portugal</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0007"
+                            affiliation-id="S2352340921008659-8780819039b967732bbe03c2f0db9d62">
+               <ce:label>g</ce:label>
+               <ce:textfn id="cetextfn0007">Department of Engineering, Materials &amp; Electrical Science, National Physical Laboratory, Teddington, Middlesex TW11 0LW, United Kingdom</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Engineering</sa:organization>
+                  <sa:organization>Materials &amp; Electrical Science, National Physical Laboratory</sa:organization>
+                  <sa:city>Teddington</sa:city>
+                  <sa:state>Middlesex</sa:state>
+                  <sa:postal-code>TW11 0LW</sa:postal-code>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0007">gDepartment of Engineering, Materials &amp; Electrical Science, National Physical Laboratory, Teddington, Middlesex TW11 0LW, United Kingdom</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0008"
+                            affiliation-id="S2352340921008659-09e4007452773e7d9d6676194dd63b9f">
+               <ce:label>h</ce:label>
+               <ce:textfn id="cetextfn0008">Department of Materials, Textiles and Chemical Engineering, Faculty of Engineering and Architecture, Ghent University, Technologiepark Zwijnaarde 46, Ghent, Belgium</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Materials</sa:organization>
+                  <sa:organization>Textiles and Chemical Engineering, Faculty of Engineering and Architecture</sa:organization>
+                  <sa:organization>Ghent University</sa:organization>
+                  <sa:organization>Technologiepark Zwijnaarde 46</sa:organization>
+                  <sa:city>Ghent</sa:city>
+                  <sa:country>Belgium</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0008">hDepartment of Materials, Textiles and Chemical Engineering, Faculty of Engineering and Architecture, Ghent University, Technologiepark Zwijnaarde 46, Ghent, Belgium</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0009"
+                            affiliation-id="S2352340921008659-8c9a5453f413e3f4421ad5c943fcf60a">
+               <ce:label>i</ce:label>
+               <ce:textfn id="cetextfn0009">DEMec, Faculdade de Engenharia, Universidade do Porto, Rua Dr. Roberto Frias, Porto 4200-465, Portugal</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>DEMec, Faculdade de Engenharia, Universidade do Porto,</sa:organization>
+                  <sa:address-line>Rua Dr. Roberto Frias</sa:address-line>
+                  <sa:city>Porto</sa:city>
+                  <sa:postal-code>4200-465</sa:postal-code>
+                  <sa:country>Portugal</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0009">iDEMec, Faculdade de Engenharia, Universidade do Porto, Rua Dr. Roberto Frias, Porto 4200-465, Portugal</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0010"
+                            affiliation-id="S2352340921008659-dc84052d6ccabca2b2bf1e58f10db1ab">
+               <ce:label>j</ce:label>
+               <ce:textfn id="cetextfn0010">Department of Mechanical Engineering, Imperial College London, South Kensington Campus, London SW7 2AZ, United Kingdom</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Mechanical Engineering</sa:organization>
+                  <sa:organization>Imperial College London, South Kensington Campus</sa:organization>
+                  <sa:organization>meComposites</sa:organization>
+                  <sa:city>London</sa:city>
+                  <sa:postal-code>SW7 2AZ</sa:postal-code>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0010">jDepartment of Mechanical Engineering, Imperial College London, South Kensington Campus, meComposites, London SW7 2AZ, United Kingdom</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="27" month="10" year="2021"/>
+         <ce:date-accepted day="15" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara001" view="all">We performed <ce:italic>in-situ</ce:italic> tensile tests on two carbon fibre/epoxy composites with continuous scanning using synchrotron computed tomography (CT). Both composites were cross-ply laminates, and two specimens were tested for each composite. The voxel size was sufficiently small to recognize individual fibres and fibre breaks. For each test, 16-19 volumes were reconstructed, cropped down to the 0° plies and analysed to track fibre break and cluster development. This dataset provides the last CT volume before failure for each of the four specimens as well as the individual fibre break locations in all reconstructed volumes. These data are then plotted against predictions from six state-of-the-art strength models. The target is that these data become a benchmark for the development of new models, inspiring researchers to set up refined experiments and develop improved models.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Fibre-reinforced composites</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Synchrotron computed tomography</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Longitudinal tensile failure</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Fibre breaks</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Stress concentrations</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

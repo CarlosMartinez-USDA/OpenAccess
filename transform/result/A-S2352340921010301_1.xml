@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107755">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Microbiota of Crassostrea virginica larvae during a hatchery crash and under normal production: Amplicon sequence data</dct:title>
+         <dct:creator>Jacob A. Cram</dct:creator>
+         <dct:creator>Matthew W. Gray</dct:creator>
+         <dct:creator>Katherine McFarland</dct:creator>
+         <dct:creator>Ashley Hollins</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Oyster larval microbiota</rdf:li>
+               <rdf:li>Amplicon sequences</rdf:li>
+               <rdf:li>DADA2 pipeline</rdf:li>
+               <rdf:li>Hatchery crash</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107755</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107755</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107755</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107755</dct:identifier>
+         <bam:articleNumber>107755</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-22T18:20:54Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107755</ja:aid>
+         <ce:article-number>107755</ce:article-number>
+         <ce:pii>S2352-3409(21)01030-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107755</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0002">
+               <ce:pii>S0044-8486(21)00922-4</ce:pii>
+               <ce:doi>10.1016/j.aquaculture.2021.737259</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Microbiota of <ce:italic>Crassostrea virginica</ce:italic> larvae during a hatchery crash and under normal production: Amplicon sequence data</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010301-ad99c71d6c1e7166635a8d9ba98c3e34"
+                       orcid="0000-0001-9546-1130">
+               <ce:given-name>Jacob A.</ce:given-name>
+               <ce:surname>Cram</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:jcram@umces.edu">jcram@umces.edu</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/JacobACram">@JacobACram</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010301-78cb99fea6a1e154779ecc0aa2693966"
+                       orcid="0000-0003-0872-2449">
+               <ce:given-name>Matthew W.</ce:given-name>
+               <ce:surname>Gray</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea3a"
+                             type="social-media"
+                             xlink:href="https://twitter.com/MattWGray">@MattWGray</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010301-98bc04c4df14af3537942568cf91de74"
+                       orcid="0000-0002-3355-7839">
+               <ce:given-name>Katherine</ce:given-name>
+               <ce:surname>McFarland</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea3b"
+                             type="social-media"
+                             xlink:href="https://twitter.com/MolluscMania">@MolluscMania</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010301-4054091f5eebea65039f6e856e58f889">
+               <ce:given-name>Ashley</ce:given-name>
+               <ce:surname>Hollins</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010301-82e3e1bde1b3b182d450a12c56f26503">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">University of Maryland Center for Environmental Science, Horn Point Laboratory, Cambridge MD, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Maryland Center for Environmental Science</sa:organization>
+                  <sa:organization>Horn Point Laboratory</sa:organization>
+                  <sa:city>Cambridge</sa:city>
+                  <sa:state>MD</sa:state>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aUniversity of Maryland Center for Environmental Science, Horn Point Laboratory, Cambridge MD, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010301-3abceca516be985dab7cc1a99d4616a0">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">NOAA Fisheries Service, Northeast Fisheries Science Center, Milford CT, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>NOAA Fisheries Service</sa:organization>
+                  <sa:organization>Northeast Fisheries Science Center</sa:organization>
+                  <sa:city>Milford</sa:city>
+                  <sa:state>CT,</sa:state>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bNOAA Fisheries Service, Northeast Fisheries Science Center, Milford CT, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="21" month="10" year="2021"/>
+         <ce:date-accepted day="21" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara001" view="all">We present oyster larval microbiota from two feeding studies, in which wild type and low-salinity tolerant lines were either fed or starved. In one study, all larvae unexpectedly died, which was concurrent with an event in which all larvae in an adjoining oyster hatchery also died. In the other study, no crash occurred in either the study or hatchery. In both cases, larvae were collected and stored frozen, and microbial and host DNA was isolated by phenol-chloroform extraction. Both host 18 s rRNA genes and microbial 16 and 18 s rRNA genes were sequenced using universal primers. We present raw sequences, the pipeline that was used to quantify amplicon sequence variants, and our analysis pipeline that we used to describe how the overall microbial community varied between projects (crashed and non-crashed), feeding status (fed vs not), and strain (wild vs not). These data will be valuable to anyone interested in the microbiota of larval oysters, especially anyone interested in exploring hatchery crashes, effects of starvation, or strain level differences. They also contain a reproducible pipeline of amplicon analysis of host associated microbiota which may serve as a template for other studies. These data are a co-submission to a manuscript submitted to <ce:italic>Aquaculture</ce:italic> by Matthew grey et al. (2021) entitled Hatchery crashes among shellfish research hatcheries along the Atlantic coast of the United States: a case study at Horn Point Laboratory oyster hatchery. (Manuscript#: AQUACULTURE-D-21–01351R1)</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Oyster larval microbiota</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Amplicon sequences</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">DADA2 pipeline</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Hatchery crash</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

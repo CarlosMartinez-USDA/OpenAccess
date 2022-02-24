@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>The PaleoArchiNeo (PAN) human brain atlas: A dataset on a standard neuroanatomical MRI template following a phylogenetic approach</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">M.</namePart>
+      <namePart type="family">Zhernovaia</namePart>
+      <displayForm>Zhernovaia, M.</displayForm>
+      <affiliation>Anatomy Department, Université du Québec à Trois-Rivières</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.</namePart>
+      <namePart type="family">Dadar</namePart>
+      <displayForm>Dadar, M.</displayForm>
+      <affiliation>McConnel Brain Imaging Center, Montreal Neurological Institute, McGill University</affiliation>
+      <affiliation>Department of Psychiatry, McGill University</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Mahmoud</namePart>
+      <displayForm>Mahmoud, S.</displayForm>
+      <affiliation>Anatomy Department, Université du Québec à Trois-Rivières</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Y.</namePart>
+      <namePart type="family">Zeighami</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0583-5811</nameIdentifier>
+      <displayForm>Zeighami, Y.</displayForm>
+      <affiliation>McConnel Brain Imaging Center, Montreal Neurological Institute, McGill University</affiliation>
+      <affiliation>Department of Psychiatry, McGill University</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">J.</namePart>
+      <namePart type="family">Maranzano</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9696-5522</nameIdentifier>
+      <displayForm>Maranzano, J.</displayForm>
+      <affiliation>Anatomy Department, Université du Québec à Trois-Rivières</affiliation>
+      <affiliation>McConnel Brain Imaging Center, Montreal Neurological Institute, McGill University</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Cortical atlases provide consistent divisions of the human cortex into areas that have common structural as well as meaningful and distinctive functional characteristics. They constitute a fundamental tool to study and quantify changes in healthy and pathological states. Historically, the most widely used atlases follow the cytoarchitecture described by Brodmann and/or the myeloarchitectonic characteristics described by Vogt-Vogt. These histological approaches have since been combined to the standard anatomical nomenclature of gyri and sulci, referring to the corresponding cytoarchitectonic area(s) present in a gyrus, when applicable or necessary (e.g. area 4 of Brodmann in the pre-central gyrus). More recently, common functional features depicted by resting state functional MRI have guided the division of the cortex into functional regions of interest. However, to date, there are no human MRI atlases that divide the cortex considering the common evolutionary changes experienced by the mammalian cortex. Hence, the present dataset describes the PaleoArchiNeo (PAN) Human Brain, a voxel-based atlas that divides the human cortex into five regions of interest (ROIs) following a phylogenetic approach: 1- archicortex, 2- paleocortex, 3- peri-archicortex, 4- proisocortex, 5- neocortex, and thirty neocortical sub-ROIs that follow the gyral Terminologia Anatomica.The masks of the ROIs and sub-ROIs were segmented on the T1-weighted MNI ICBM 152 2009c symmetric average brain MRI model, the latest version of the most widely used standard brain template. The segmentations have been performed manually by anatomist experts, following the MRI anatomical landmarks that have been previously described, correlated, and validated with histology by other groups. </abstract>
+   <subject>
+      <topic>Atlas</topic>
+   </subject>
+   <subject>
+      <topic>Human brain</topic>
+   </subject>
+   <subject>
+      <topic>Cerebral cortex</topic>
+   </subject>
+   <subject>
+      <topic>MRI</topic>
+   </subject>
+   <subject>
+      <topic>Phylogenetic</topic>
+   </subject>
+   <subject>
+      <topic>Paleocortex</topic>
+   </subject>
+   <subject>
+      <topic>Archicortex</topic>
+   </subject>
+   <subject>
+      <topic>Neocortex</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>41</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">April 2022</text>
+         <text type="year">2022</text>
+         <text type="month">April</text>
+         <extent unit="pages">
+            <start>107863</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107863</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107863</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00075-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340922X00024/S2352340922000750/S2352340922000750.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

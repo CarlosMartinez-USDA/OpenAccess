@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Effects of CpG methylation on the thermal stability of c-kit2, c-kit*, and c-kit1 G-quadruplex structures</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Saowalak</namePart>
+      <namePart type="family">Laddachote</namePart>
+      <displayForm>Laddachote, Saowalak</displayForm>
+      <affiliation>School of Bioscience and Biotechnology, Tokyo University of Technology, 1404-1 Katakura, Hachioji, Tokyo, 192-0982, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rika</namePart>
+      <namePart type="family">Ishii</namePart>
+      <displayForm>Ishii, Rika</displayForm>
+      <affiliation>School of Bioscience and Biotechnology, Tokyo University of Technology, 1404-1 Katakura, Hachioji, Tokyo, 192-0982, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wataru</namePart>
+      <namePart type="family">Yoshida</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9828-0896</nameIdentifier>
+      <displayForm>Yoshida, Wataru</displayForm>
+      <affiliation>School of Bioscience and Biotechnology, Tokyo University of Technology, 1404-1 Katakura, Hachioji, Tokyo, 192-0982, Japan</affiliation>
+      <affiliation>Graduate School of Bionics, Tokyo University of Technology, 1404-1 Katakura, Hachioji, Tokyo, 192-0982, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In genomic DNA, G-quadruplex (G4)-forming DNA can form either a duplex or G4 structure, suggesting that understanding the factors regulating G4 formation is important for revealing the cellular functions controlled by G4 formation. Cytosine DNA methylation in the CpG islands is known to play an important role in transcriptional regulation. Additionally, CpG methylation increases the thermal stability of G4 structures such as BCL2 and VEGF G4. In this study, we evaluated the effects of CpG methylation in three G4 structures (c-kit2, c-kit*, and c-kit1) produced by the c-KIT promoter. Each was analyzed using circular dichroism (CD) melting analysis. The results demonstrate that CpG methylation does not alter the thermal stability of c-kit2 G4 structure when formed in the presence of K⁺; a single-CpG methylation at C1 or C11 decreases the thermal stability of any c-kit2 G4 structure formed in the presence of Na⁺ and Mg²⁺ while methylation at C5 increases the thermal stability; CpG methylation does not alter the thermal stability of c-kit1 or c-kit* G4 structures formed in the presence of K⁺; and the c-kit1 and c-kit* G4-forming oligonucleotides do not form G4 structures in the presence of Na⁺ and Mg²⁺. These results provide important clues for understanding the regulatory mechanisms underlying the formation of CpG methylation-induced G4 structures. </abstract>
+   <subject>
+      <topic>G-quadruplex</topic>
+   </subject>
+   <subject>
+      <topic>CpG methylation</topic>
+   </subject>
+   <subject>
+      <topic>Thermal stability</topic>
+   </subject>
+   <subject>
+      <topic>c-kit</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100007</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100007</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100007</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00006-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-03-11"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S2667160321000065/S2667160321000065.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107557">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A dataset for mobile edge computing network topologies</dct:title>
+         <dct:creator>Bin Xiang</dct:creator>
+         <dct:creator>Jocelyne Elias</dct:creator>
+         <dct:creator>Fabio Martignon</dct:creator>
+         <dct:creator>Elisabetta Di Nitto</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>5G Network</rdf:li>
+               <rdf:li>Mobile edge computing</rdf:li>
+               <rdf:li>Base stations</rdf:li>
+               <rdf:li>Network topology</rdf:li>
+               <rdf:li>Geographic location</rdf:li>
+               <rdf:li>Random graphs</rdf:li>
+               <rdf:li>Network parameters</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107557</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107557</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107557</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107557</dct:identifier>
+         <bam:articleNumber>107557</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-03T15:06:07Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Italian Institutions (CRUI) 2020</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107557</ja:aid>
+         <ce:article-number>107557</ce:article-number>
+         <ce:pii>S2352-3409(21)00833-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107557</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="doc0001">
+               <ce:pii>S1389-1286(21)00390-X</ce:pii>
+               <ce:doi>10.1016/j.comnet.2021.108426</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">A dataset for mobile edge computing network topologies</ce:title>
+         <ce:short-title id="stitle0010">A dataset for mobile edge computing network topologies</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008337-851408c98cf0adcd463be4c6035ad597">
+               <ce:given-name>Bin</ce:given-name>
+               <ce:surname>Xiang</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:bin.xiang@polimi.it" id="ead0001">bin.xiang@polimi.it</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008337-b930dcb1e6edc7d3759ed02c1133f3c0">
+               <ce:given-name>Jocelyne</ce:given-name>
+               <ce:surname>Elias</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:jocelyne.elias@unibo.it"
+                             id="ead0002">jocelyne.elias@unibo.it</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008337-bd541a3217088ebc4f8b49ade4e79c6c">
+               <ce:given-name>Fabio</ce:given-name>
+               <ce:surname>Martignon</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:fabio.martignon@unibg.it"
+                             id="ead0003">fabio.martignon@unibg.it</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008337-c49a12a462f31ca3246d8c05b04aff2c"
+                       orcid="0000-0003-3422-5171">
+               <ce:given-name>Elisabetta</ce:given-name>
+               <ce:surname>Di Nitto</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:elisabetta.dinitto@polimi.it"
+                             id="ead0004">elisabetta.dinitto@polimi.it</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008337-e0ef9eaa3329a8733d2fa1616ef71b99">
+               <ce:label>a</ce:label>
+               <ce:textfn id="textfn0002">Politecnico di Milano, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Politecnico di Milano</sa:organization>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">Politecnico di Milano, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008337-7e422e78a30a276b0b594460d511ea60">
+               <ce:label>b</ce:label>
+               <ce:textfn id="textfn0003">University of Bologna, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Bologna</sa:organization>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0002">University of Bologna, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008337-d3f5f440888b4dab3f246f90e0c021a2">
+               <ce:label>c</ce:label>
+               <ce:textfn id="textfn0004">University of Bergamo, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Bergamo</sa:organization>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0003">University of Bergamo, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="22" month="9" year="2021"/>
+         <ce:date-revised day="2" month="11" year="2021"/>
+         <ce:date-accepted day="3" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">Mobile Edge Computing (MEC) is vital to support the numerous, future applications that are envisioned in the 5G and beyond mobile networks. Since computation capabilities are available at the edge of the network, applications that need ultra low-latency, high bandwidth and reliability can be deployed more easily. This opens up the possibility of developing smart resource allocation approaches that can exploit the MEC infrastructure in an optimized way and, at the same time, fulfill the requirements of applications. However, up to date, the progress of research in this area is limited by the unavailability of publicly available true MEC topologies that could be used to run extensive experiments and to compare the performance on different solutions concerning planning, scheduling, routing etc. For this reason, we decided to infer and make publicly available several synthetic MEC topologies and scenarios.</ce:simple-para>
+               <ce:simple-para id="sp0002" view="all">Specifically, based on the experience we have gathered with our experiments Xiang et al. [1], we provide data related to 3 randomly generated topologies, with increasing network size (from 25 to 100 nodes). Moreover, we propose a MEC topology generated from OpenCellID [2] real data and concerning the Base Stations’ location of 234 LTE cells owned by a mobile operator (Vodafone) in the center of Milan. We also provide realistic reference parameters (link bandwidth, computation and storage capacity, offered traffic), derived from real services provided by MEC in the deployment of 5G networks.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">5G Network</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Mobile edge computing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Base stations</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Network topology</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">Geographic location</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="txt0006">Random graphs</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="txt0007">Network parameters</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

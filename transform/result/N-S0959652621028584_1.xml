@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data-driven comparative analysis of national adaptation pathways for Sustainable Development Goals</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Viktor</namePart>
+      <namePart type="family">Sebestyén</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0670-9195</nameIdentifier>
+      <displayForm>Sebestyén, Viktor</displayForm>
+      <affiliation>Sustainability Solutions Research Lab, University of Pannonia, Egyetem str. 10, H8200 Veszprém, Hungary</affiliation>
+      <affiliation>MTA-PE “Lendület” Complex Systems Monitoring Research Group, University of Pannonia, Egyetem str. 10, H8200 Veszprém, Hungary</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">János</namePart>
+      <namePart type="family">Abonyi</namePart>
+      <displayForm>Abonyi, János</displayForm>
+      <affiliation>MTA-PE “Lendület” Complex Systems Monitoring Research Group, University of Pannonia, Egyetem str. 10, H8200 Veszprém, Hungary</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-15</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Since the declaration of Sustainable Development Goals (SDGs) in 2015, countries have begun developing and strategizing their national pathways for effective implementation of the 2030 Agenda. The sustainable development targets set out how the world’s nations must move forward so that sustainable development is not an ideal vision but a workable, comprehensive environmental, economic, and social policy. This work aims to analyze the state of progress towards achieving sustainable development goals for each country. In addition to the static presentation of the achievements that countries can present, the changes over time are also compared, allowing countries to be grouped according to the current states. A sophisticated SDG performance measurement tool has been developed to support this analysis, which automatically processes the entire UN Global SDG Indicators database with exploratory data analysis, frequent item mining, and network analysis supported. Based on the trend analysis of the percentiles, the values of the indicators achievable by 2030 are also derived. The analyzes were performed based on the time-series data of 1319 disaggregated official SDG indicators. Most of the world countries have achieved the greatest success in SDG12 and SDG10 since the declaration of the 2030 Agenda. In the field of climate change (SDG13), 26 countries can count on significant achievements. However, SDG6, SDG2, and SDG1 face significant challenges globally, as they have typically seen minor progress in recent years. Examined at the indicator level, indicators 1.4.1, 5.6.2, 6.b.1, 10.7.2, and 15.4.2 improved in all countries of the world, while indicators 2.a.1, 9.4.1, 2.1.1, 2.1. and 12.b.1 have deteriorated predominantly. According to the forecast for 2030, Australia and the United States can reduce their per capita CO2 emissions, while some countries in Africa, Asia, and the Middle East are expected to increase their emissions. </abstract>
+   <subject>
+      <topic>Sustainable Development Goals</topic>
+   </subject>
+   <subject>
+      <topic>Adaptation pathways</topic>
+   </subject>
+   <subject>
+      <topic>Frequent itemset mining</topic>
+   </subject>
+   <subject>
+      <topic>Distribution of the SDG indicators</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Journal of Cleaner Production</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Ltd</publisher>
+      </originInfo>
+      <identifier type="issn">0959-6526</identifier>
+      <part>
+         <detail type="volume">
+            <number>319</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">15 October 2021</text>
+         <text type="year">2021</text>
+         <text type="month">10</text>
+         <text type="day">15</text>
+         <extent unit="pages">
+            <start>128657</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.jclepro.2021.128657</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.jclepro.2021.128657</url>
+   </location>
+   <identifier type="pii">S0959-6526(21)02858-4</identifier>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/0959-6526/S0959652621X00315/S0959652621028584/S0959652621028584.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

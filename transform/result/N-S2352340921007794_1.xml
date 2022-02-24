@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Proteomic data of donkey's milk</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Stavros C.</namePart>
+      <namePart type="family">Proikakis</namePart>
+      <displayForm>Proikakis, Stavros C.</displayForm>
+      <affiliation>Proteomics Research Unit, Biomedical Research Foundation of the Academy of Athens, Athens 115 27, Greece</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Efterpi V.</namePart>
+      <namePart type="family">Bouroutzika</namePart>
+      <displayForm>Bouroutzika, Efterpi V.</displayForm>
+      <affiliation>Proteomics Research Unit, Biomedical Research Foundation of the Academy of Athens, Athens 115 27, Greece</affiliation>
+      <affiliation>Veterinary Faculty, University of Thessaly, Karditsa, Greece</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Athanasios K.</namePart>
+      <namePart type="family">Anagnostopoulos</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5161-7850</nameIdentifier>
+      <displayForm>Anagnostopoulos, Athanasios K.</displayForm>
+      <affiliation>Proteomics Research Unit, Biomedical Research Foundation of the Academy of Athens, Athens 115 27, Greece</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">George Th.</namePart>
+      <namePart type="family">Tsangaris</namePart>
+      <displayForm>Tsangaris, George Th.</displayForm>
+      <affiliation>Proteomics Research Unit, Biomedical Research Foundation of the Academy of Athens, Athens 115 27, Greece</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Donkey's milk has been recognized as milk of high biological value and it also has the closest composition to human milk. However, the total protein content of donkey's milk has not been adequately identified. The aim of this analysis is to investigate the proteomic content of that milk. Specific commercially available only milk was analyzed by ``shotgun'' proteomic methods to identify the proteins it contained in as much detail as possible. The application of the above approach resulted in the identification of a total of 633 different proteins, which were grouped based on their molecular function and their biological process. Furthermore, the proteins visualized graphically according to the GeneOntology (GO) system. The identified proteins confirm the high nutritional value of the donkey milk, governing future steps in optimizing its characteristic and uses. </abstract>
+   <subject>
+      <topic>Foodomics</topic>
+   </subject>
+   <subject>
+      <topic>Donkey milk</topic>
+   </subject>
+   <subject>
+      <topic>LC-MS/MS</topic>
+   </subject>
+   <subject>
+      <topic>Proteomics</topic>
+   </subject>
+   <subject>
+      <topic>Protein content</topic>
+   </subject>
+   <subject>
+      <topic>nanoLC-MS/MS</topic>
+   </subject>
+   <subject>
+      <topic>Bottom-up proteomics</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107507</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107507</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107507</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00779-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007794/S2352340921007794.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

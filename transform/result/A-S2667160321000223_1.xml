@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100023">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Inhibition of selenoprotein synthesis by Zika virus may contribute to congenital Zika syndrome and microcephaly by mimicking SELENOP knockout and the genetic disease PCCA</dct:title>
+         <dct:creator>Gabrielle P. Dailey</dct:creator>
+         <dct:creator>Lakmini S. Premadasa</dct:creator>
+         <dct:creator>Jan A. Ruzicka</dct:creator>
+         <dct:creator>Ethan Will Taylor</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Antisense</rdf:li>
+               <rdf:li>Congenital Zika syndrome</rdf:li>
+               <rdf:li>Microcephaly</rdf:li>
+               <rdf:li>mRNA</rdf:li>
+               <rdf:li>Selenium</rdf:li>
+               <rdf:li>Selenoprotein P</rdf:li>
+               <rdf:li>Thioredoxin reductase 1</rdf:li>
+               <rdf:li>Zika virus</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100023</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100023</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100023</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100023</dct:identifier>
+         <bam:articleNumber>100023</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-08-02T17:00:48Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100023</ja:aid>
+         <ce:article-number>100023</ce:article-number>
+         <ce:pii>S2667-1603(21)00022-3</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100023</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Inhibition of selenoprotein synthesis by Zika virus may contribute to congenital Zika syndrome and microcephaly by mimicking SELENOP knockout and the genetic disease PCCA</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000223-feabb004780307afd30469b5b2b33114">
+               <ce:given-name>Gabrielle P.</ce:given-name>
+               <ce:surname>Dailey</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000223-4a466ddfba2e4b71b4e9a4e136135e41">
+               <ce:given-name>Lakmini S.</ce:given-name>
+               <ce:surname>Premadasa</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667160321000223-97773a86d9066660106d32f8d4a41c5b">
+               <ce:given-name>Jan A.</ce:given-name>
+               <ce:surname>Ruzicka</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667160321000223-13675bb9f7cec94a56953999870b4600">
+               <ce:given-name>Ethan Will</ce:given-name>
+               <ce:surname>Taylor</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:ewtaylor@uncg.edu">ewtaylor@uncg.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000223-cee812bc5de4e3138eda1ade1ae18f40">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Dept. of Chemistry and Biochemistry, University of North Carolina at Greensboro, 435 Patricia A. Sullivan Science Building, PO Box 26170, Greensboro, NC 27402-6170, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Dept. of Chemistry and Biochemistry</sa:organization>
+                  <sa:organization>University of North Carolina at Greensboro</sa:organization>
+                  <sa:address-line>435 Patricia A. Sullivan Science Building, PO Box 26170</sa:address-line>
+                  <sa:city>Greensboro</sa:city>
+                  <sa:state>NC</sa:state>
+                  <sa:postal-code>27402-6170</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDept. of Chemistry and Biochemistry, University of North Carolina at Greensboro, 435 Patricia A. Sullivan Science Building, PO Box 26170, Greensboro, NC 27402-6170, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667160321000223-c9b1b96d676750d90730f6e63e580d83">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Texas Biomedical Research Institute, Southwest National Primate Research Center, P.O. Box 760549, San Antonio, TX 78245-0549, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Texas Biomedical Research Institute</sa:organization>
+                  <sa:organization>Southwest National Primate Research Center</sa:organization>
+                  <sa:address-line>P.O. Box 760549</sa:address-line>
+                  <sa:city>San Antonio</sa:city>
+                  <sa:state>TX</sa:state>
+                  <sa:postal-code>78245-0549</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bTexas Biomedical Research Institute, Southwest National Primate Research Center, P.O. Box 760549, San Antonio, TX 78245-0549, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667160321000223-1738742956b17b292838a3cdd778c679">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Dept. of Basic Pharmaceutical Sciences, Fred Wilson School of Pharmacy, High Point University, One University Parkway, High Point, NC 27268, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Dept. of Basic Pharmaceutical Sciences</sa:organization>
+                  <sa:organization>Fred Wilson School of Pharmacy</sa:organization>
+                  <sa:organization>High Point University</sa:organization>
+                  <sa:organization>One University Parkway</sa:organization>
+                  <sa:city>High Point</sa:city>
+                  <sa:state>NC</sa:state>
+                  <sa:postal-code>27268</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDept. of Basic Pharmaceutical Sciences, Fred Wilson School of Pharmacy, High Point University, One University Parkway, High Point, NC 27268, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="6" month="5" year="2021"/>
+         <ce:date-revised day="28" month="7" year="2021"/>
+         <ce:date-accepted day="2" month="8" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Loss of selenoprotein synthesis in the genetic disease PCCA leads to microcephaly.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">We show potential antisense interactions between Zika RNA and selenoprotein mRNAs.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">In ZIKV+ HEK cells, TXNRD1 and SELENOP expression decreases by 90% &amp; 99% respectively.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Knockdown of SELENOP and TXNRD1 by ZIKV may cause microcephaly via mimicry of PCCA.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">We find no statistically significant changes in selenoprotein mRNA levels by RT-qPCR.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara009" view="all">Selenium status plays a major role in health impacts of various RNA viruses. We previously reported potential antisense interactions between viral mRNAs and host mRNAs encoding isoforms of the antioxidant selenoprotein thioredoxin reductase (TXNRD). Here, we examine possible targeting of selenoprotein mRNAs by Zika virus (ZIKV), because one of the most devastating outcomes of ZIKV infection in neonates, microcephaly, is a key manifestation of Progressive Cerebello-Cerebral Atrophy (PCCA), a genetic disease of impaired selenoprotein synthesis. Potential antisense matches between ZIKV and human selenoprotein mRNAs were identified computationally, the strongest being against human TXNRD1 and selenoprotein P (SELENOP), a selenium carrier protein essential for delivery of selenium to the brain. Computationally, ZIKV has regions of extensive (∼30bp) and stable (ΔE &lt; −50kcal/mol) antisense interactions with both TXNRD1 and SELENOP mRNAs. The core ZIKV/SELENOP hybridization was experimentally confirmed at the DNA level by gel shift assay using synthetic oligonucleotides. In HEK293T cells, using Western blot probes for SELENOP and TXNRD1, ZIKV infection knocked down SELENOP protein expression almost completely, by 99% (p&lt;0.005), and TXNRD1 by ∼90% (p&lt;0.05). In contrast, by RT-qPCR, there was no evidence of significant changes in SELENOP and TXNRD1 mRNA levels after ZIKV infection, suggesting that their knockdown at the protein level is not primarily a result of mRNA degradation. These results suggest that knockdown of SELENOP and TXNRD1 by ZIKV in fetal brain, possibly antisense-mediated, could mimic SELENOP knockout, thereby contributing to neuronal cell death and symptoms similar to the genetic disease PCCA, including brain atrophy and microcephaly.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Antisense</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Congenital Zika syndrome</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Microcephaly</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">mRNA</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Selenium</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Selenoprotein P</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Thioredoxin reductase 1</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Zika virus</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

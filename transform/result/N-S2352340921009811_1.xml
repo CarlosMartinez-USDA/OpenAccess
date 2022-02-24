@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Quantitative proteomic dataset of the moss Physcomitrium patens SMG1 KO mutant line</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Anna</namePart>
+      <namePart type="family">Mamaeva</namePart>
+      <displayForm>Mamaeva, Anna</displayForm>
+      <affiliation>Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, Moscow, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anna</namePart>
+      <namePart type="family">Glushkevich</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8869-7807</nameIdentifier>
+      <displayForm>Glushkevich, Anna</displayForm>
+      <affiliation>Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, Moscow, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Igor</namePart>
+      <namePart type="family">Fesenko</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5757-8271</nameIdentifier>
+      <displayForm>Fesenko, Igor</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Nonsense-mediated RNA decay (NMD) mechanism controls the quality of eukaryotic mRNAs by degradation of aberrant transcripts with a premature stop codon (PTC) in a pioneer round of translation. Besides aberrant transcripts, up to 10% of normal mRNA transcripts can be regulated by NMD. As NMD machinery is associated with translation, this system takes part in proteome formation in eukaryotic cells [1,2]. However, no proteomic datasets of plants with deficient NMD system are currently available. Here, we provide an isobaric tag for relative and absolute quantitation (iTRAQ)-based quantitative proteomic dataset of the moss Physcomitrium patens smg1 knockout line. The kinase SMG1 is one of the key components of the NMD system in many organisms, including plants. 8-day old protonema of wild type and mutant lines was used for the iTRAQ experiment in three biological replicates. LC-MS/MS data were processed using PEAKS Studio v.8 Software with protein identification based on a Phytozome protein database. Differentially expressed protein groups up- and down-regulated in the smg1 knockout line were found in the resulting dataset. Presented data can improve our understanding of NMD functions in plants. </abstract>
+   <subject>
+      <topic>Nonsense-mediated RNA decay</topic>
+   </subject>
+   <subject>
+      <topic>iTRAQ</topic>
+   </subject>
+   <subject>
+      <topic>Proteomics</topic>
+   </subject>
+   <subject>
+      <topic>Physcomitrium patens</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107706</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107706</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107706</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00981-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-10"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009811/S2352340921009811.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

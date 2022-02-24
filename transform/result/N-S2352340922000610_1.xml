@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Density, viscosity, speed of sound, flash point, bulk modulus, and surface tension of mixtures of military jet fuel JP-5 and biodiesels dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Dianne Luning</namePart>
+      <namePart type="family">Prak</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5589-7287</nameIdentifier>
+      <displayForm>Prak, Dianne Luning</displayForm>
+      <affiliation>Department of Chemistry, U.S. Naval Academy, 572 M Holloway Road, Annapolis, MD, 21402</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michael</namePart>
+      <namePart type="family">Hamilton</namePart>
+      <displayForm>Hamilton, Michael</displayForm>
+      <affiliation>Department of Chemistry, U.S. Naval Academy, 572 M Holloway Road, Annapolis, MD, 21402</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rhea</namePart>
+      <namePart type="family">Banados</namePart>
+      <displayForm>Banados, Rhea</displayForm>
+      <affiliation>Department of Chemistry, U.S. Naval Academy, 572 M Holloway Road, Annapolis, MD, 21402</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jim</namePart>
+      <namePart type="family">Cowart</namePart>
+      <displayForm>Cowart, Jim</displayForm>
+      <affiliation>Department of Mechanical Engineering, U.S. Naval Academy, 590 Holloway Rd, Annapolis, MD, 21402</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-17</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In this work, the density, viscosity, speed of sound, flash point, and surface tension of mixtures of military jet fuel JP-5 and biodiesels were measured at various temperatures. The biodiesels were synthesized from various oils (avocado, canola, castor, coconut, corn grapeseed, linseed, neem, oil, palm, peanut, soybean, and walnuts), bacon grease, and duck fat. The isentropic bulk modulus was calculated from the speed of sound and density. These physical properties are important for modeling the spray of fuel into a diesel engine cylinder. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>density</topic>
+   </subject>
+   <subject>
+      <topic>viscosity</topic>
+   </subject>
+   <subject>
+      <topic>speed of sound</topic>
+   </subject>
+   <subject>
+      <topic>flash point</topic>
+   </subject>
+   <subject>
+      <topic>bulk modulus</topic>
+   </subject>
+   <subject>
+      <topic>and surface tension</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">17</text>
+         <extent unit="pages">
+            <start>107849</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107849</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107849</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00061-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-18"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/333921349383348651-00001/2352-3409/aip/S2352340922000610/S2352340922000610.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

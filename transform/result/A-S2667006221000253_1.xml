@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.soisec.2021.100028">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Long-term effects of grazing intensities on soil aggregation and organic matter in a no-tilled integrated soybean-cattle system</dct:title>
+         <dct:creator>Bruna Possobon Soares</dct:creator>
+         <dct:creator>Diego Cecagno</dct:creator>
+         <dct:creator>Murilo G. Veloso</dct:creator>
+         <dct:creator>Walker da Silva Schaidhauer</dct:creator>
+         <dct:creator>Sarah Hanauer Lochmann</dct:creator>
+         <dct:creator>Jacques Krticka Carvalho</dct:creator>
+         <dct:creator>Cimelio Bayer</dct:creator>
+         <dct:creator>Ibanor Anghinoni</dct:creator>
+         <dct:creator>Paulo Cesar de Faccio Carvalho</dct:creator>
+         <dct:creator>Tales Tiecher</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Oxisol</rdf:li>
+               <rdf:li>Southern Brazil</rdf:li>
+               <rdf:li>soil organic matter</rdf:li>
+               <rdf:li>occluded carbon</rdf:li>
+               <rdf:li>organic matter fractions</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Soil Security, Journal Pre-proof. doi:10.1016/j.soisec.2021.100028</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Soil Security</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Ltd.</prism:copyright>
+         <dct:publisher>Elsevier Ltd</dct:publisher>
+         <prism:issn>2667-0062</prism:issn>
+         <prism:doi>10.1016/j.soisec.2021.100028</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.soisec.2021.100028</prism:url>
+         <dct:identifier>doi:10.1016/j.soisec.2021.100028</dct:identifier>
+         <bam:articleNumber>100028</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-12T16:32:16Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Brazil: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>SOISEC</ja:jid>
+         <ja:aid>100028</ja:aid>
+         <ce:article-number>100028</ce:article-number>
+         <ce:pii>S2667-0062(21)00025-3</ce:pii>
+         <ce:doi>10.1016/j.soisec.2021.100028</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Long-term effects of grazing intensities on soil aggregation and organic matter in a no-tilled integrated soybean-cattle system</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667006221000253-5c3c96a01f74faeaee1dcffdf9c8d099">
+               <ce:given-name>Bruna Possobon</ce:given-name>
+               <ce:surname>Soares</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667006221000253-81f21f0e855a5224747051f718b2df22">
+               <ce:given-name>Diego</ce:given-name>
+               <ce:surname>Cecagno</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667006221000253-949bb4393154e7111519536e6c307bbd">
+               <ce:given-name>Murilo G.</ce:given-name>
+               <ce:surname>Veloso</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667006221000253-e21f1d52c1f8e523b1913271492f9650">
+               <ce:given-name>Walker da Silva</ce:given-name>
+               <ce:surname>Schaidhauer</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667006221000253-1157476c7817c1d741e566348e885c1c">
+               <ce:given-name>Sarah Hanauer</ce:given-name>
+               <ce:surname>Lochmann</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667006221000253-d68c28e35db35a0cfbd83fab75c516e7">
+               <ce:given-name>Jacques Krticka</ce:given-name>
+               <ce:surname>Carvalho</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667006221000253-4f6ac9458d4f5ac52a59370d2c774b0e">
+               <ce:given-name>Cimelio</ce:given-name>
+               <ce:surname>Bayer</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667006221000253-cdf90e948c4860d2737bb007ac7a7614">
+               <ce:given-name>Ibanor</ce:given-name>
+               <ce:surname>Anghinoni</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667006221000253-58c72766e147e053f992b58ab0ebe6dc">
+               <ce:given-name>Paulo Cesar de Faccio</ce:given-name>
+               <ce:surname>Carvalho</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2667006221000253-6e12fa21fac85858bdab4085d98f39ee">
+               <ce:given-name>Tales</ce:given-name>
+               <ce:surname>Tiecher</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:tales.tiecher@ufrgs.br">tales.tiecher@ufrgs.br</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667006221000253-3c4ff299fd3599f07075aaa65226ddca">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Soil Science, Federal University of Rio Grande do Sul, 7712 Bento Gonçalves Avenue, Zip Code 91540-000, Porto Alegre, RS, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Soil Science</sa:organization>
+                  <sa:organization>Federal University of Rio Grande do Sul</sa:organization>
+                  <sa:city>Porto Alegre</sa:city>
+                  <sa:state>7712 Bento Gonçalves Avenue, Zip Code 91540-000RS</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Soil Science, Federal University of Rio Grande do Sul, 7712 Bento Gonçalves Avenue, Zip Code 91540-000, Porto Alegre, RS, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667006221000253-0e13cb9bfaa4c6a6e5cda1f2e42c0310">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Forage Plants and Agrometeorology, Federal University of Rio Grande do Sul. Porto Alegre, RS, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Forage Plants and Agrometeorology</sa:organization>
+                  <sa:organization>Federal University of Rio Grande do Sul. Porto Alegre</sa:organization>
+                  <sa:state>RS</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Forage Plants and Agrometeorology, Federal University of Rio Grande do Sul. Porto Alegre, RS, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author:</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Soil aggregation was not affected by different grazing intensities after 13 years.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Most of C and N were presented in heavy fraction of soil organic matter (SOM).</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">C and N of free light and light occlusal SOM were similar among grazing intensities.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Heavy fraction of SOM had higher stock of C and N without grazing.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara010" view="all">Grazing intensity in integrated crop-livestock systems (ICLS) can affect soil aggregation and C stabilization and, consequently, the soil condition and agricultural sustainability. This study evaluate the influence of 13 years of different grazing intensities on (i) soil aggregation, (ii) C content in different aggregate size, and (iii) C and N content in different fractions of soil organic matter (SOM), in a no-tilled with integrated soybean-beef production system on a subtropical Oxisol. Treatments consisted of four steers grazing intensities defined by sward height of 10, 20, 30 and 40 cm on mixed black oat and Italian ryegrass pasture in the winter under continuous stocking, plus an ungrazed treatment, in a randomized complete block design with three replicates. Soil aggregation was not affected by grazing intensities. There was no effect of the grazing intensities on organic C content in all aggregate-size fractions and in all soil layers evaluated, being lower in microaggregates than in large and small macroaggregates. The macroaggregates were predominant, representing 97% of the soil mass, of which 74% were large macroaggregates (&gt;2 mm). The high macroaggregates stability contributed to the lack of difference in the C and N content on free light fraction and the light occlusal fraction of SOM. Most of C and N were observed heavy fraction of SOM (53-68%), with greater stock in the no grazing compared to the grazed treatments. Even with the animal trampling in the grazed systems, the soil maintained high stability of aggregates and consequently the labile forms of SOM.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Oxisol</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Southern Brazil</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">soil organic matter</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">occluded carbon</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">organic matter fractions</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

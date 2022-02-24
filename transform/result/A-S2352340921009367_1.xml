@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107661">
+         <dct:format>application/xml</dct:format>
+         <dct:title>The simulation dataset of each model for the circle antipode experiment</dct:title>
+         <dct:creator>Maosheng Li</dct:creator>
+         <dct:creator>Qingyan Ning</dct:creator>
+         <dct:creator>Panpan Shu</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Double-layer decision model</rdf:li>
+               <rdf:li>Detour decision</rdf:li>
+               <rdf:li>Voronoi diagram</rdf:li>
+               <rdf:li>Pedestrian dynamic</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107661</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107661</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107661</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107661</dct:identifier>
+         <bam:articleNumber>107661</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-30T13:06:59Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>China Institutes Tracking agreement</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107661</ja:aid>
+         <ce:article-number>107661</ce:article-number>
+         <ce:pii>S2352-3409(21)00936-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107661</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0378-4371(21)00293-4</ce:pii>
+               <ce:doi>10.1016/j.physa.2021.126021</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">The simulation dataset of each model for the circle antipode experiment</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009367-e72a7989ba01f6a8e039264a5486fafc"
+                       orcid="0000-0003-2799-4490">
+               <ce:given-name>Maosheng</ce:given-name>
+               <ce:surname>Li</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:maosheng.li@csu.edu.cn">maosheng.li@csu.edu.cn</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009367-04505928fd9f53d9e82ffa77c7cfbd92">
+               <ce:given-name>Qingyan</ce:given-name>
+               <ce:surname>Ning</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009367-154a8063c5dd780016a0502ad5225709">
+               <ce:given-name>Panpan</ce:given-name>
+               <ce:surname>Shu</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009367-d0d9f6cf3bae433765e1c1de32e452d1">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">School of Traffic and Transportation Engineering, Central South University, Changsha 410075, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Traffic and Transportation Engineering</sa:organization>
+                  <sa:organization>Central South University</sa:organization>
+                  <sa:city>Changsha</sa:city>
+                  <sa:postal-code>410075</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aSchool of Traffic and Transportation Engineering, Central South University, Changsha 410075, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009367-e71e39bd2fd5af5208b6503575331933">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Rail Data Research and Application Key Laboratory of Hunan Province, Central South University, 22 South Shaoshan Road, Changsha, Hunan 410075, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Rail Data Research and Application Key Laboratory of Hunan Province</sa:organization>
+                  <sa:organization>Central South University</sa:organization>
+                  <sa:address-line>22 South Shaoshan Road</sa:address-line>
+                  <sa:city>Changsha</sa:city>
+                  <sa:state>Hunan</sa:state>
+                  <sa:postal-code>410075</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bRail Data Research and Application Key Laboratory of Hunan Province, Central South University, 22 South Shaoshan Road, Changsha, Hunan 410075, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: School of Traffic and Transportation Engineering, Central South University, Changsha 410075, China.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>School of Traffic and Transportation Engineering</sa:organization>
+                  <sa:organization>Central South University</sa:organization>
+                  <sa:city>Changsha</sa:city>
+                  <sa:postal-code>410075</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="8" month="8" year="2021"/>
+         <ce:date-revised day="19" month="11" year="2021"/>
+         <ce:date-accepted day="29" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara001" view="all">This dataset includes trajectory data and video data produced by different models (including the traditional social force model, the Voronoi-based detour social force model and double-layer detour decision model) simulating the circle antipode experiment. During the simulation process, the coordinates of each pedestrian in each simulation step are recorded to form trajectory data, and each frame is recorded to form simulation video data. This data can provide an intuitive gap in the description of pedestrian detour behaviour among these pedestrian simulation models, and can be used as the comparative data when modify model to better describe pedestrian detour behaviour in the circle antipode experiment.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Double-layer decision model</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001a">
+               <ce:text id="cetext0002a">Detour decision</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001b">
+               <ce:text id="cetext0002b">Voronoi diagram</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001c">
+               <ce:text id="cetext0002c">Pedestrian dynamic</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A loop-mediated isothermal amplification (LAMP) assay for rapid identification of Ceratitis capitata and related species</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Wannes</namePart>
+      <namePart type="family">Dermauw</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4612-8969</nameIdentifier>
+      <displayForm>Dermauw, Wannes</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yannick</namePart>
+      <namePart type="family">Van Moerkerke</namePart>
+      <displayForm>Van Moerkerke, Yannick</displayForm>
+      <affiliation>Flanders research institute for Agriculture, Fisheries and Food, Plant Sciences Unit, Burg. Van Gansberghelaan 96, B-9820 Merelbeke, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Negin</namePart>
+      <namePart type="family">Ebrahimi</namePart>
+      <displayForm>Ebrahimi, Negin</displayForm>
+      <affiliation>Flanders research institute for Agriculture, Fisheries and Food, Plant Sciences Unit, Burg. Van Gansberghelaan 96, B-9820 Merelbeke, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hans</namePart>
+      <namePart type="family">Casteels</namePart>
+      <displayForm>Casteels, Hans</displayForm>
+      <affiliation>Flanders research institute for Agriculture, Fisheries and Food, Plant Sciences Unit, Burg. Van Gansberghelaan 96, B-9820 Merelbeke, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jochem</namePart>
+      <namePart type="family">Bonte</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6191-0604</nameIdentifier>
+      <displayForm>Bonte, Jochem</displayForm>
+      <affiliation>Flanders research institute for Agriculture, Fisheries and Food, Plant Sciences Unit, Burg. Van Gansberghelaan 96, B-9820 Merelbeke, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Johan</namePart>
+      <namePart type="family">Witters</namePart>
+      <displayForm>Witters, Johan</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>True fruit flies (Tephritidae) are among the most destructive agricultural pests in the world, attacking a wide range of fruits and vegetables. The Mediterranean fruit fly Ceratitis capitata is a highly polyphagous species but, being widely established in the Mediterranean region, is not considered as a EU quarantine pest. Hence, it is important to discriminate Ceratitis capitata from non-EU tephritid species, present in imported fruit and vegetables, as non-EU species have a quarantine status. However, morphological identification of tephritid larvae, the most frequently intercepted stage in non-EU produce, is difficult and an easy-to-use molecular diagnostic tool would be helpful for rapid species identification. Therefore, a loop-mediated isothermal amplification (LAMP) method was developed for C. capitata and non-EU tephritids Ceratitis cosyra group1 and Ceratitis species from the FARQ complex, C. fasciventris, C. anonae, C. rosa and C. quilicii. LAMP assays were run with DNA from ILVO collected specimens and DNA samples collected during previous research surveys. LAMP primers were species-specific, with LAMP amplification occurring within 45 minutes for the targeted species. In addition, LAMP assays were successful for all C. capitata life stages or a limited amount of tissue. To conclude, the LAMP assays developed in this study were able to distinguish C. capitata from non-EU Tephritidae species and could be a useful tool for the rapid identification of C. capitata. </abstract>
+   <subject>
+      <topic>Tephritidae</topic>
+   </subject>
+   <subject>
+      <topic>LAMP</topic>
+   </subject>
+   <subject>
+      <topic>quarantine organism</topic>
+   </subject>
+   <subject>
+      <topic>molecular diagnostics</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Current Research in Insect Science</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2666-5158</identifier>
+      <part>
+         <detail type="volume">
+            <number>2</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2022</text>
+         <text type="year">2022</text>
+         <extent unit="pages">
+            <start>100029</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.cris.2022.100029</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.cris.2022.100029</url>
+   </location>
+   <identifier type="pii">S2666-5158(22)00001-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-10"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/123176916641762791-00001/2666-5158/S2666515821X00029/S2666515822000014/S2666515822000014.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

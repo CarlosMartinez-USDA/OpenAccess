@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107707">
+         <dct:format>application/xml</dct:format>
+         <dct:title>New multiproxy data obtained from the sedimentary fill of the Ría de Ferrol, NW Iberia</dct:title>
+         <dct:creator>C. Muñoz Sobrino</dct:creator>
+         <dct:creator>V. Cartelle</dct:creator>
+         <dct:creator>N. Martínez-Carreño</dct:creator>
+         <dct:creator>P. Ramil-Rego</dct:creator>
+         <dct:creator>S. García-Gil</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Radiocarbon dates</rdf:li>
+               <rdf:li>Sedimentary facies</rdf:li>
+               <rdf:li>Geochemical data</rdf:li>
+               <rdf:li>Pollen content</rdf:li>
+               <rdf:li>Dinoflagellate cysts content</rdf:li>
+               <rdf:li>Non-pollen palynomorphs content</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107707</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107707</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107707</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107707</dct:identifier>
+         <bam:articleNumber>107707</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-10T13:09:17Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Spain OA journals discount: 2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107707</ja:aid>
+         <ce:article-number>107707</ce:article-number>
+         <ce:pii>S2352-3409(21)00982-3</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107707</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">New multiproxy data obtained from the sedimentary fill of the Ría de Ferrol, NW Iberia</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009823-c8107b6aa076f9e2405b64b08647aee4"
+                       orcid="0000-0001-8191-3001">
+               <ce:given-name>C.</ce:given-name>
+               <ce:surname>Muñoz Sobrino</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:bvcastor@uvigo.es">bvcastor@uvigo.es</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009823-3c23c8459bba67055fcf19ae0857b960">
+               <ce:given-name>V.</ce:given-name>
+               <ce:surname>Cartelle</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009823-2046da00a37a19313945181116fabb6c">
+               <ce:given-name>N.</ce:given-name>
+               <ce:surname>Martínez-Carreño</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009823-b2beb6fcb444fae688059649911080be">
+               <ce:given-name>P.</ce:given-name>
+               <ce:surname>Ramil-Rego</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921009823-869f60cd00df328de3e7149d263308c1">
+               <ce:given-name>S.</ce:given-name>
+               <ce:surname>García-Gil</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009823-c0b4b6035c0f17bfe76f03182b5a4325">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Centro de Investigación Mariña, Universidade de Vigo, Edificio Filomena Dato, Campus Marcosende s/n, 36310 Vigo, Spain</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Centro de Investigación Mariña</sa:organization>
+                  <sa:organization>Universidade de Vigo</sa:organization>
+                  <sa:organization>Edificio Filomena Dato</sa:organization>
+                  <sa:address-line>Campus Marcosende s/n</sa:address-line>
+                  <sa:city>Vigo</sa:city>
+                  <sa:postal-code>36310</sa:postal-code>
+                  <sa:country>Spain</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aCentro de Investigación Mariña, Universidade de Vigo, Edificio Filomena Dato, Campus Marcosende s/n, 36310 Vigo, Spain</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009823-84b847a8c6eaf862994eb3032294cb19">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Dept. Bioloxía Vexetal Ciencias do Solo, Facultade de Ciencias, Universidade de Vigo, Campus Marcosende s/n, 36310 Vigo, Spain</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Dept. Bioloxía Vexetal Ciencias do Solo</sa:organization>
+                  <sa:organization>Facultade de Ciencias</sa:organization>
+                  <sa:organization>Universidade de Vigo</sa:organization>
+                  <sa:address-line>Campus Marcosende s/n</sa:address-line>
+                  <sa:city>Vigo</sa:city>
+                  <sa:postal-code>36310</sa:postal-code>
+                  <sa:country>Spain</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDept. Bioloxía Vexetal Ciencias do Solo, Facultade de Ciencias, Universidade de Vigo, Campus Marcosende s/n, 36310 Vigo, Spain</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921009823-80071d985fd28c31acec2025c16954d7">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">School of Earth and Environment, University of Leeds, Woodhouse, Leeds LS2 9JT, United Kingdom</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Earth and Environment</sa:organization>
+                  <sa:organization>University of Leeds</sa:organization>
+                  <sa:address-line>Woodhouse</sa:address-line>
+                  <sa:city>Leeds</sa:city>
+                  <sa:postal-code>LS2 9JT</sa:postal-code>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cSchool of Earth and Environment, University of Leeds, Woodhouse, Leeds LS2 9JT, United Kingdom</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921009823-47d9717c5b02cda777dc36e500ac8c16">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Dept. Xeociencias Mariñas, Facultade de Ciencias, Universidade de Vigo, Campus Marcosende s/n, 36310 Vigo, Spain</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Dept. Xeociencias Mariñas</sa:organization>
+                  <sa:organization>Facultade de Ciencias</sa:organization>
+                  <sa:organization>Universidade de Vigo</sa:organization>
+                  <sa:address-line>Campus Marcosende s/n</sa:address-line>
+                  <sa:city>Vigo</sa:city>
+                  <sa:postal-code>36310</sa:postal-code>
+                  <sa:country>Spain</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDept. Xeociencias Mariñas, Facultade de Ciencias, Universidade de Vigo, Campus Marcosende s/n, 36310 Vigo, Spain</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921009823-5d4463df067ed67077fa430268ce7eaf">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Gl-1934-TB, Laboratorio de Botánica e Bioxeografía, IBADER, Universidade de Santiago de Compostela, Campus Universitario s/n, 27002 Lugo, Spain</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Gl-1934-TB</sa:organization>
+                  <sa:organization>Laboratorio de Botánica e Bioxeografía</sa:organization>
+                  <sa:organization>IBADER</sa:organization>
+                  <sa:organization>Universidade de Santiago de Compostela</sa:organization>
+                  <sa:address-line>Campus Universitario s/n</sa:address-line>
+                  <sa:city>Lugo</sa:city>
+                  <sa:postal-code>27002</sa:postal-code>
+                  <sa:country>Spain</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eGl-1934-TB, Laboratorio de Botánica e Bioxeografía, IBADER, Universidade de Santiago de Compostela, Campus Universitario s/n, 27002 Lugo, Spain</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="4" month="11" year="2021"/>
+         <ce:date-revised day="7" month="12" year="2021"/>
+         <ce:date-accepted day="9" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">Several gravity cores and vibro-cores were recovered from selected sites in the inner sector of Ría de Ferrol, NW Iberia (Muñoz Sobrino et al., 2021) [1]. These sediment cores were obtained during the surveys ECOMER-2014 and ECOMER-2015, developed from 2014 to 2015 on-board the R/V <ce:italic>Mytilus</ce:italic> (Consejo Superior de Investigación Científica) and the <ce:italic>Amarradores Mil</ce:italic> (Amarradores del Puerto y Ría de Ferrol, S.L.), respectively. Sedimentary and other multiproxy data presented here belong to four selected sediment cores located in the innermost part of the study area. Two were recovered using a gravity corer and another two using a vibro-corer. The depth of the cores and samples obtained is referred to the NMMA (the mean sea level in Alicante), which is the Spanish orthometric datum. One half of each core was subjected to non-destructive analysis using an ITRAX core scanner providing X-ray fluorescence (XRF) elemental data. Particle size distribution was characterised by laser diffraction. For radiocarbon dating, well-preserved articulated valves, small remains of wood and very organic bulk sediment from one location free of biogenic gas were selected. Palynological analyses were performed on selected sections of the sediment. All samples were spiked with <ce:italic>Lycopodium</ce:italic> spores for absolute palynomorph estimation and analysed using 400x and 600x magnifications. The ratio of dinoflagellate cyst concentrations to pollen, fern spore and dinoflagellate cyst concentrations (D/P ratio, ranging between 0 and 1) was calculated for each sample to show the temporal variation. Combined seismic, lithological, elemental, chronological and palynological data enable reconstructing the environmental changes that occurred during the local marine transgression. Besides, the combination of evidence identified may also be applied to other areas or periods in order to perform local reconstructions of changing coastal ecosystems. This type of high-resolution spatial-temporal reconstructions of past changes in estuarine environments may be a valuable tool for modelling, predicting and managing the changes and threats linked to the global warming and sea-level rise associated.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Radiocarbon dates</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Sedimentary facies</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Geochemical data</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Pollen content</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Dinoflagellate cysts content</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Non-pollen palynomorphs content</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

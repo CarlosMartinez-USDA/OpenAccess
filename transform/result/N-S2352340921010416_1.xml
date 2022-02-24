@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Microbiome dataset from a marine recirculating aquaculture system (RAS) for salmon post-smolt production in Norway</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">K.</namePart>
+      <namePart type="family">Drønen</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0786-6857</nameIdentifier>
+      <displayForm>Drønen, K.</displayForm>
+      <affiliation>Department of Biological Science, University of Bergen, Thormøhlensgt 55, N-5020, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">I.</namePart>
+      <namePart type="family">Roalkvam</namePart>
+      <displayForm>Roalkvam, I.</displayForm>
+      <affiliation>Department of Biological Science, University of Bergen, Thormøhlensgt 55, N-5020, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">H.</namePart>
+      <namePart type="family">Dahle</namePart>
+      <displayForm>Dahle, H.</displayForm>
+      <affiliation>Department of Biological Science, University of Bergen, Thormøhlensgt 55, N-5020, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.B.</namePart>
+      <namePart type="family">Olsen</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9440-5874</nameIdentifier>
+      <displayForm>Olsen, A.B.</displayForm>
+      <affiliation>Norwegian Veterinary Institute, Thormøhlensgt 53C, N-5006, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">H.</namePart>
+      <namePart type="family">Nilsen</namePart>
+      <displayForm>Nilsen, H.</displayForm>
+      <affiliation>Norwegian Veterinary Institute, Thormøhlensgt 53C, N-5006, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">H.</namePart>
+      <namePart type="family">Wergeland</namePart>
+      <displayForm>Wergeland, H.</displayForm>
+      <affiliation>Department of Biological Science, University of Bergen, Thormøhlensgt 55, N-5020, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>A marine aquaculture recycling system (RAS) for the production of post-smolt was monitored for microbial community structures during the first year of operation. Sample material was obtained monthly from the biofilter biofilm carriers, the production water (tank 3), the fish skin (tank 3) and the tank 3 wall biofilm. Additional samples were taken during outbreaks of fish skin wounds, washing of the plant, UV filtration of the inlet water and from various wall biofilms. Samples for depth profiles from all fish tanks were also collected. The sampling tools were a ladle for capturing biofilter biofilm carriers, toothbrushes for wall biofilm capture, filters for capture of water microbes and scalpels for skin tissue slicing. The sampling times were indicated by the production cycle number (cycle 2-5) and the week number within the cycle (W). Prior to bacterial community analysis, the stored samples were exposed to cell lysis and extraction of environmental DNA by commercial kits. All samples were subjected for PCR amplification of 16S rDNA sequences for library formations and prepared for Ion Torrent technology, which sequences 250 bp fragments. A total of 1.1 million reads were obtained from the 100 RAS samples analysed. The process from Ion Torren analysis to library involved bioinformatics steps with sorting, filtering, adjustment and taxonomic identification, and the final output was shown in a table as operational taxonomic units (OTUs) and relative abundance at different sampling sites and sampling time points. Of a total of 450 taxonomically assigned OTUs, 45% were classified at genus level. The 16S library raw data are deposited in the Mendeley data repository and cited in this Data in Brief article co-submitted with the article “Microbial colonization and stability in a marine post-smolt RAS inoculated with a commercial starter culture.” [1]. So far, the raw data are referenced in four more publications in progress. These cover microbial shifts and enrichments between sampling times, sulfur cycling, “in vivo biofilm” and identification of relatives of fish pathogens in RAS. All library sequences are available in GenBank with accession numbers MN890148-MN891672. </abstract>
+   <subject>
+      <topic>RAS</topic>
+   </subject>
+   <subject>
+      <topic>Marine post-smolt</topic>
+   </subject>
+   <subject>
+      <topic>16S rRNA</topic>
+   </subject>
+   <subject>
+      <topic>Microbiomes</topic>
+   </subject>
+   <subject>
+      <topic>Ion Torren</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107767</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107767</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107767</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01041-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-24"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010416/S2352340921010416.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.soisec.2022.100046">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Soil connectivity makes university social responsibility practice in Taiwan</dct:title>
+         <dct:creator>Zueng-Sang Chen</dct:creator>
+         <dct:creator>Cho-Yin Wu</dct:creator>
+         <dct:creator>Chen-Chi Tsai</dct:creator>
+         <dct:creator>Hung-Yi Lai</dct:creator>
+         <dct:creator>Kai-Wei Juang</dct:creator>
+         <dct:creator>Shih-Hao Jien</dct:creator>
+         <dct:creator>Shing-Tsung Chen</dct:creator>
+         <dct:creator>Hao-Lun Hung</dct:creator>
+         <dct:creator>Zeng-Yei Hseu</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Soil education</rdf:li>
+               <rdf:li>Soil judging contest</rdf:li>
+               <rdf:li>Soil management</rdf:li>
+               <rdf:li>Soil art</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Soil Security 6 (2022). doi:10.1016/j.soisec.2022.100046</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Soil Security</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Ltd.</prism:copyright>
+         <dct:publisher>Elsevier Ltd</dct:publisher>
+         <prism:issn>2667-0062</prism:issn>
+         <prism:volume>6</prism:volume>
+         <prism:coverDisplayDate>March 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.soisec.2022.100046</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.soisec.2022.100046</prism:url>
+         <dct:identifier>doi:10.1016/j.soisec.2022.100046</dct:identifier>
+         <bam:articleNumber>100046</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-23T23:46:33Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Taiwan: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>SOISEC</ja:jid>
+         <ja:aid>100046</ja:aid>
+         <ce:article-number>100046</ce:article-number>
+         <ce:pii>S2667-0062(22)00013-2</ce:pii>
+         <ce:doi>10.1016/j.soisec.2022.100046</ce:doi>
+         <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Soil connectivity makes university social responsibility practice in Taiwan</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667006222000132-3111aa428bab75a548a7822780b99efa">
+               <ce:given-name>Zueng-Sang</ce:given-name>
+               <ce:surname>Chen</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667006222000132-89e84675b9c738ff4d23af57e5e11c8f">
+               <ce:given-name>Cho-Yin</ce:given-name>
+               <ce:surname>Wu</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667006222000132-1eff092bf9f37217e55ef84c50c0eed9">
+               <ce:given-name>Chen-Chi</ce:given-name>
+               <ce:surname>Tsai</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667006222000132-2238baa23cfa32fc8799edff9212e245">
+               <ce:given-name>Hung-Yi</ce:given-name>
+               <ce:surname>Lai</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667006222000132-f8bf71877c5346450292b9e0ba9f5c92">
+               <ce:given-name>Kai-Wei</ce:given-name>
+               <ce:surname>Juang</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667006222000132-60ee57a175b589a9d4d1219ed928765d">
+               <ce:given-name>Shih-Hao</ce:given-name>
+               <ce:surname>Jien</ce:surname>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667006222000132-8c60a1e7d5c2f3fdad0ef154cc827e48">
+               <ce:given-name>Shing-Tsung</ce:given-name>
+               <ce:surname>Chen</ce:surname>
+               <ce:cross-ref refid="aff0007">
+                  <ce:sup loc="post">g</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667006222000132-323f129f3ebccceb2d41456419384b61">
+               <ce:given-name>Hao-Lun</ce:given-name>
+               <ce:surname>Hung</ce:surname>
+               <ce:cross-ref refid="aff0008">
+                  <ce:sup loc="post">h</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667006222000132-8265ca9748361af1cc28edb7dd8a2249">
+               <ce:given-name>Zeng-Yei</ce:given-name>
+               <ce:surname>Hseu</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:zyhseu@ntu.edu.tw">zyhseu@ntu.edu.tw</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667006222000132-759c3fa6024722c53a01064e35bc5e37">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Agricultural Chemistry, National Taiwan University, 1 Sec. 4, Roosevelt Rd., Taipei 10617, Taiwan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Agricultural Chemistry</sa:organization>
+                  <sa:organization>National Taiwan University</sa:organization>
+                  <sa:address-line>1 Sec. 4, Roosevelt Rd.</sa:address-line>
+                  <sa:city>Taipei</sa:city>
+                  <sa:postal-code>10617</sa:postal-code>
+                  <sa:country>Taiwan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Agricultural Chemistry, National Taiwan University, 1 Sec. 4, Roosevelt Rd., Taipei 10617, Taiwan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667006222000132-4283f2a23e3216a26a32c1ea33a28cb0">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Taiwan Research Institute on Water Resources and Agriculture, New Taipei 251, Taiwan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Taiwan Research Institute on Water Resources and Agriculture</sa:organization>
+                  <sa:city>New Taipei</sa:city>
+                  <sa:postal-code>251</sa:postal-code>
+                  <sa:country>Taiwan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bTaiwan Research Institute on Water Resources and Agriculture, New Taipei 251, Taiwan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667006222000132-78bccbafb8a0b79e7363b72d59a038bd">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Forestry and Natural Resources, National Ilan University, Ilan 26047, Taiwan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Forestry and Natural Resources</sa:organization>
+                  <sa:organization>National Ilan University</sa:organization>
+                  <sa:city>Ilan</sa:city>
+                  <sa:postal-code>26047</sa:postal-code>
+                  <sa:country>Taiwan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Forestry and Natural Resources, National Ilan University, Ilan 26047, Taiwan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667006222000132-18a44332f69645ae4ea069ba2066737b">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Soil and Environmental Sciences, National Chung Hsing University, Taichung 402, Taiwan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Soil and Environmental Sciences</sa:organization>
+                  <sa:organization>National Chung Hsing University</sa:organization>
+                  <sa:city>Taichung</sa:city>
+                  <sa:postal-code>402</sa:postal-code>
+                  <sa:country>Taiwan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Soil and Environmental Sciences, National Chung Hsing University, Taichung 402, Taiwan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667006222000132-6b2eb00b39898b8dacdd85512030270d">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Department of Agronomy, National Chiayi University, Chiayi 60004, Taiwan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Agronomy</sa:organization>
+                  <sa:organization>National Chiayi University</sa:organization>
+                  <sa:city>Chiayi</sa:city>
+                  <sa:postal-code>60004</sa:postal-code>
+                  <sa:country>Taiwan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eDepartment of Agronomy, National Chiayi University, Chiayi 60004, Taiwan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2667006222000132-7acfb313d7991ba42585e4582477c1b3">
+               <ce:label>f</ce:label>
+               <ce:textfn id="cetextfn0006">Department of Soil and Water Conservation, National Pingtung University of Science and Technology, Pingtung 91201, Taiwan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Soil and Water Conservation</sa:organization>
+                  <sa:organization>National Pingtung University of Science and Technology</sa:organization>
+                  <sa:city>Pingtung</sa:city>
+                  <sa:postal-code>91201</sa:postal-code>
+                  <sa:country>Taiwan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0006">fDepartment of Soil and Water Conservation, National Pingtung University of Science and Technology, Pingtung 91201, Taiwan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0007"
+                            affiliation-id="S2667006222000132-02ed60aedd9ad7a032abc6568e942567">
+               <ce:label>g</ce:label>
+               <ce:textfn id="cetextfn0007">Community University of Nantou, Nantou 557, Taiwan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Community University of Nantou</sa:organization>
+                  <sa:city>Nantou</sa:city>
+                  <sa:postal-code>557</sa:postal-code>
+                  <sa:country>Taiwan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0007">gCommunity University of Nantou, Nantou 557, Taiwan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0008"
+                            affiliation-id="S2667006222000132-f3c9081cbca2e6060bd73c47115da7ea">
+               <ce:label>h</ce:label>
+               <ce:textfn id="cetextfn0008">Liberal Education Center, National Chin-Yi University of Technology, Taichung 41170, Taiwan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Liberal Education Center</sa:organization>
+                  <sa:organization>National Chin-Yi University of Technology</sa:organization>
+                  <sa:city>Taichung</sa:city>
+                  <sa:postal-code>41170</sa:postal-code>
+                  <sa:country>Taiwan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0008">hLiberal Education Center, National Chin-Yi University of Technology, Taichung 41170, Taiwan</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="24" month="11" year="2021"/>
+         <ce:date-revised day="15" month="1" year="2022"/>
+         <ce:date-accepted day="23" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">This paper describes examples of actions taken for the connectivity between soil and society to inspire soil awareness in Taiwan, particularly by the practices of university social responsibility (USR) including workshops of soil survey education in Taiwan (WOSSET) carried out from 2015 to 2019, the Farmers Academy, soil profiles diagnoses for crop growth, the soil museum, and soil art applications. In the WOSSET, the students learned the skills of soil description, classification and interpretation on the impacts of soil management, suitability classes of crop production and land uses. The students considered the experience from the WOSSET as positive impacts on their professional careers making them “seed-spreaders” for soil connectivity between scientists and the general public by promoting their dedication to future practices of USR. In the program of the Farmers Academy, soil concepts related to soil properties, fertilizer, plant nutrition, compost and soil management have been taught by speakers from university faculties; thus the trained young farmers are able to obtain new knowledge of soil science even through the simple observation of soil profile morphology, which are helpful links among crop root growth, soil management and climate change. Inspired by the visual impact from the visits to soil museum in the university, soil was applied as pigments by artists on artistic practices such as painting and fabric. The actions of soil connectivity enable the general public and students to understand soil functions and soil security as well as construct the knowledge foundation of communication on the Sustainable Development Goals (SDGs).</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Soil education</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Soil judging contest</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Soil management</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Soil art</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107502">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Concentration dataset of 8 selected trace elements in cultured rainbow trout (Oncorhynchus mykiss) and dietary exposure risks in the Missouri adult population</dct:title>
+         <dct:creator>Abua Ikem</dct:creator>
+         <dct:creator>Jimmie Garth</dct:creator>
+         <dct:creator>James Wetzel</dct:creator>
+         <dct:creator>Gabrielle Caldwell</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Aquaculture</rdf:li>
+               <rdf:li>Oncorhynchus mykiss</rdf:li>
+               <rdf:li>Essential elements</rdf:li>
+               <rdf:li>Non-essential elements</rdf:li>
+               <rdf:li>Dietary intake</rdf:li>
+               <rdf:li>Health risk</rdf:li>
+               <rdf:li>Adult population</rdf:li>
+               <rdf:li>Missouri</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107502</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107502</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107502</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107502</dct:identifier>
+         <bam:articleNumber>107502</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-20T13:09:12Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107502</ja:aid>
+         <ce:article-number>107502</ce:article-number>
+         <ce:pii>S2352-3409(21)00783-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107502</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Concentration dataset of 8 selected trace elements in cultured rainbow trout (<ce:italic>Oncorhynchus mykiss</ce:italic>) and dietary exposure risks in the Missouri adult population</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007836-bee265bdb45da852a858d606b1c5987c">
+               <ce:given-name>Abua</ce:given-name>
+               <ce:surname>Ikem</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:Ikema@Lincolnu.edu">Ikema@Lincolnu.edu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007836-fc827b15df4ceb74dd9bfd4a877ea6e2">
+               <ce:given-name>Jimmie</ce:given-name>
+               <ce:surname>Garth</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007836-91f63f2d00d985e5682111fecf6ecb59">
+               <ce:given-name>James</ce:given-name>
+               <ce:surname>Wetzel</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007836-54d3802f9ed2057ada0c0b9e75403193">
+               <ce:given-name>Gabrielle</ce:given-name>
+               <ce:surname>Caldwell</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007836-47d907b99e4abf0784609bdb65f8937b">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Agriculture and Environmental Sciences, Lincoln University, Jefferson City, MO 65101, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Agriculture and Environmental Sciences</sa:organization>
+                  <sa:organization>Lincoln University</sa:organization>
+                  <sa:city>Jefferson City</sa:city>
+                  <sa:state>MO</sa:state>
+                  <sa:postal-code>65101</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Agriculture and Environmental Sciences, Lincoln University, Jefferson City, MO 65101, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007836-9c4d530d1227cb2ea60c2fbad1de3fce">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Cooperative Research Programs, Lincoln University, Jefferson City, MO 65101, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Cooperative Research Programs</sa:organization>
+                  <sa:organization>Lincoln University</sa:organization>
+                  <sa:city>Jefferson City</sa:city>
+                  <sa:state>MO</sa:state>
+                  <sa:postal-code>65101</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bCooperative Research Programs, Lincoln University, Jefferson City, MO 65101, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text>Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="7" month="7" year="2021"/>
+         <ce:date-revised day="13" month="10" year="2021"/>
+         <ce:date-accepted day="19" month="10" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara013" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Concentrations of eight trace elements in <ce:italic>O. mykiss</ce:italic> from aquaculture.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Only Cr, in some samples, exceeded the permissible limit.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">EWI values of analyzed trace elements were below the PTWIs.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Arsenic was the highest contributor to non-carcinogenic risk in adult consumers.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Cancer risk of As, Cd, Cr, and Pb in the adult population is probable.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0006">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0006" view="all">High intake per week of <ce:italic>O. mykiss</ce:italic> posed health risks to the adult risk group.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara014" view="all">Aquaculture contributes to the global animal protein supply and the prevention of malnutrition and diet-related diseases (FAO (Food and Agriculture Organization of the United Nations); Fiorella et al., 2021). In particular, fish is a significant source of animal protein, fatty acids (e.g., docosahexaenoic acid, eicosapentaenoic acid), vitamins, and essential trace elements in the human diet. Nonetheless, fish bioaccumulates metals from their diet and habitat. This data article includes information on the concentrations of 4 essential and 4 non-essential trace elements in cultured rainbow trout (<ce:italic>Oncorhynchus mykiss</ce:italic>) and the human health risks through fish consumption in the adult population. Concentrations of four essential (Cr, Cu, Ni, and Zn) and four non-essential (As, Cd, Pb, and Hg) elements were quantified in ninety-one <ce:italic>O. mykiss</ce:italic> samples from an in-door production system. Total mercury (THg) levels in samples were determined by AAS, and other analyzed trace elements were measured by ICP-OES after microwave-assisted acid digestion. The highest concentrations of metals/metalloid (mg/kg wet weight) in fish muscle were Cr (0.44), Cu (4.21), Ni (1.01), As (0.47), Cd (0.045), Pb (0.65), THg (0.029), and Zn (6.21). The average concentrations of Cr and Pb exceeded their respective maximum limit. In most cases, median metal concentrations significantly (<ce:italic>p</ce:italic> &lt; 0.05) differed across the fish size groups (small: 264–295 mm; medium: 300–395 mm; and large: 400–552 mm). The median concentrations of Cd, Zn, and THg in the large size group differed significantly (<ce:italic>p</ce:italic> &lt; 0.05) between genders. The estimated weekly intake values of quantified elements from muscle were below the provisional tolerable weekly intakes. Non-carcinogenic risk assessment in adult consumers, being below one (THQ ≤ 1; and TTHQ ≤ 1), indicated an insignificant health hazard. The estimated incremental and cumulative cancer risks in the adult class through Cr, As, Ni, and Pb exposure were greater than the benchmark (10<ce:sup loc="post">−5</ce:sup>). Accordingly, high dietary intake of metals/metalloid from cultured <ce:italic>O. mykiss</ce:italic> posed a risk of carcinogenesis in the adult risk class.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Aquaculture</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">
+                  <ce:italic>Oncorhynchus mykiss</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Essential elements</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Non-essential elements</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Dietary intake</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Health risk</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Adult population</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Missouri</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

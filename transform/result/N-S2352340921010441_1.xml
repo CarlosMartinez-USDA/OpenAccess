@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>16S rRNA gene sequencing data of the upper respiratory tract microbiome in the SARS-CoV-2 infected patients</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Julia</namePart>
+      <namePart type="family">Galeeva</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6304-4607</nameIdentifier>
+      <displayForm>Galeeva, Julia</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vladislav</namePart>
+      <namePart type="family">Babenko</namePart>
+      <displayForm>Babenko, Vladislav</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ramiz</namePart>
+      <namePart type="family">Bakhtyev</namePart>
+      <displayForm>Bakhtyev, Ramiz</displayForm>
+      <affiliation>City Clinical Hospital named after S.I. Spasokukotsky of Moscow Healthcare Department, Academic Consortium, Vuchetich str, 21, Moscow 127206, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vladimir</namePart>
+      <namePart type="family">Baklaushev</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1039-4245</nameIdentifier>
+      <displayForm>Baklaushev, Vladimir</displayForm>
+      <affiliation>Federal Research and Clinical Center of Specialized Medical Care and Medical Technologies, Orekhovy Boulevard, 28, Moscow 115682, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Larisa</namePart>
+      <namePart type="family">Balykova</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2290-0013</nameIdentifier>
+      <displayForm>Balykova, Larisa</displayForm>
+      <affiliation>City Clinical Hospital named after S.I. Spasokukotsky of Moscow Healthcare Department, Academic Consortium, Vuchetich str, 21, Moscow 127206, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Pavel</namePart>
+      <namePart type="family">Bashkirov</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2250-9759</nameIdentifier>
+      <displayForm>Bashkirov, Pavel</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Julia</namePart>
+      <namePart type="family">Bespyatykh</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4408-503X</nameIdentifier>
+      <displayForm>Bespyatykh, Julia</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anna</namePart>
+      <namePart type="family">Blagonravova</namePart>
+      <displayForm>Blagonravova, Anna</displayForm>
+      <affiliation>Privolzhsky Research Medical University, 10/1, Minin and Pozharsky Sq., Nizhny Novgorod 603950, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Daria</namePart>
+      <namePart type="family">Boldyreva</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2573-7634</nameIdentifier>
+      <displayForm>Boldyreva, Daria</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dmitry</namePart>
+      <namePart type="family">Fedorov</namePart>
+      <displayForm>Fedorov, Dmitry</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ilshat</namePart>
+      <namePart type="family">Gafurov</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7744-2067</nameIdentifier>
+      <displayForm>Gafurov, Ilshat</displayForm>
+      <affiliation>Kazan Federal University, 18 Kremlyovskaya str, Kazan 420008, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Raushaniya</namePart>
+      <namePart type="family">Gaifullina</namePart>
+      <displayForm>Gaifullina, Raushaniya</displayForm>
+      <affiliation>Kazan Federal University, 18 Kremlyovskaya str, Kazan 420008, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Elena</namePart>
+      <namePart type="family">Galova</namePart>
+      <displayForm>Galova, Elena</displayForm>
+      <affiliation>Privolzhsky Research Medical University, 10/1, Minin and Pozharsky Sq., Nizhny Novgorod 603950, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alina</namePart>
+      <namePart type="family">Gospodaryk</namePart>
+      <displayForm>Gospodaryk, Alina</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Elena</namePart>
+      <namePart type="family">Ilina</namePart>
+      <displayForm>Ilina, Elena</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Konstantin</namePart>
+      <namePart type="family">Ivanov</namePart>
+      <displayForm>Ivanov, Konstantin</displayForm>
+      <affiliation>Hospital of the Russian Academy of Sciences, Oktyabrsky prospect, 3, Troitsk 108840, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Daria</namePart>
+      <namePart type="family">Kharlampieva</namePart>
+      <displayForm>Kharlampieva, Daria</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Polina</namePart>
+      <namePart type="family">Khromova</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6449-5060</nameIdentifier>
+      <displayForm>Khromova, Polina</displayForm>
+      <affiliation>Scientific Centre for Family Health and Human Reproduction Problems, 16 Timiryazev str., Irkutsk 664003, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ksenia</namePart>
+      <namePart type="family">Klimina</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5563-644X</nameIdentifier>
+      <displayForm>Klimina, Ksenia</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Konstantin</namePart>
+      <namePart type="family">Kolontarev</namePart>
+      <displayForm>Kolontarev, Konstantin</displayForm>
+      <affiliation>City Clinical Hospital named after S.I. Spasokukotsky of Moscow Healthcare Department, Academic Consortium, Vuchetich str, 21, Moscow 127206, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nadezhda</namePart>
+      <namePart type="family">Kolyshkina</namePart>
+      <displayForm>Kolyshkina, Nadezhda</displayForm>
+      <affiliation>Federal Research and Clinical Center of Specialized Medical Care and Medical Technologies, Orekhovy Boulevard, 28, Moscow 115682, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andrey</namePart>
+      <namePart type="family">Koritsky</namePart>
+      <displayForm>Koritsky, Andrey</displayForm>
+      <affiliation>Hospital of the Russian Academy of Sciences, Oktyabrsky prospect, 3, Troitsk 108840, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vyacheslav</namePart>
+      <namePart type="family">Kuropatkin</namePart>
+      <displayForm>Kuropatkin, Vyacheslav</displayForm>
+      <affiliation>Burnasyan Federal Medical Biophysical Center, Moscow, ul. Marshala Novikova, house 23, Moscow 123098, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vasily</namePart>
+      <namePart type="family">Lazarev</namePart>
+      <displayForm>Lazarev, Vasily</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander</namePart>
+      <namePart type="family">Manolov</namePart>
+      <displayForm>Manolov, Alexander</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Valentin</namePart>
+      <namePart type="family">Manuvera</namePart>
+      <displayForm>Manuvera, Valentin</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Daria</namePart>
+      <namePart type="family">Matyushkina</namePart>
+      <displayForm>Matyushkina, Daria</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Maxim</namePart>
+      <namePart type="family">Morozov</namePart>
+      <displayForm>Morozov, Maxim</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ekaterina</namePart>
+      <namePart type="family">Moskaleva</namePart>
+      <displayForm>Moskaleva, Ekaterina</displayForm>
+      <affiliation>Scientific Centre for Family Health and Human Reproduction Problems, 16 Timiryazev str., Irkutsk 664003, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Varvara</namePart>
+      <namePart type="family">Musarova</namePart>
+      <displayForm>Musarova, Varvara</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Oleg</namePart>
+      <namePart type="family">Ogarkov</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3168-1983</nameIdentifier>
+      <displayForm>Ogarkov, Oleg</displayForm>
+      <affiliation>Scientific Centre for Family Health and Human Reproduction Problems, 16 Timiryazev str., Irkutsk 664003, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Elizaveta</namePart>
+      <namePart type="family">Orlova</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2169-0242</nameIdentifier>
+      <displayForm>Orlova, Elizaveta</displayForm>
+      <affiliation>Scientific Centre for Family Health and Human Reproduction Problems, 16 Timiryazev str., Irkutsk 664003, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander</namePart>
+      <namePart type="family">Pavlenko</namePart>
+      <displayForm>Pavlenko, Alexander</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alla</namePart>
+      <namePart type="family">Petrova</namePart>
+      <displayForm>Petrova, Alla</displayForm>
+      <affiliation>Scientific Centre for Family Health and Human Reproduction Problems, 16 Timiryazev str., Irkutsk 664003, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Natalia</namePart>
+      <namePart type="family">Pozhenko</namePart>
+      <displayForm>Pozhenko, Natalia</displayForm>
+      <affiliation>Hospital of the Russian Academy of Sciences, Oktyabrsky prospect, 3, Troitsk 108840, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dmitry</namePart>
+      <namePart type="family">Pushkar</namePart>
+      <displayForm>Pushkar, Dmitry</displayForm>
+      <affiliation>City Clinical Hospital named after S.I. Spasokukotsky of Moscow Healthcare Department, Academic Consortium, Vuchetich str, 21, Moscow 127206, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander</namePart>
+      <namePart type="family">Rumyantsev</namePart>
+      <displayForm>Rumyantsev, Alexander</displayForm>
+      <affiliation>Hospital of the Russian Academy of Sciences, Oktyabrsky prospect, 3, Troitsk 108840, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sergey</namePart>
+      <namePart type="family">Rumyantsev</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7418-0222</nameIdentifier>
+      <displayForm>Rumyantsev, Sergey</displayForm>
+      <affiliation>Hospital of the Russian Academy of Sciences, Oktyabrsky prospect, 3, Troitsk 108840, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vladimir</namePart>
+      <namePart type="family">Rumyantsev</namePart>
+      <displayForm>Rumyantsev, Vladimir</displayForm>
+      <affiliation>Hospital of the Russian Academy of Sciences, Oktyabrsky prospect, 3, Troitsk 108840, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lyubov</namePart>
+      <namePart type="family">Rychkova</namePart>
+      <displayForm>Rychkova, Lyubov</displayForm>
+      <affiliation>Scientific Centre for Family Health and Human Reproduction Problems, 16 Timiryazev str., Irkutsk 664003, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander</namePart>
+      <namePart type="family">Samoilov</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9241-7238</nameIdentifier>
+      <displayForm>Samoilov, Alexander</displayForm>
+      <affiliation>Burnasyan Federal Medical Biophysical Center, Moscow, ul. Marshala Novikova, house 23, Moscow 123098, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Irina</namePart>
+      <namePart type="family">Shirokova</namePart>
+      <displayForm>Shirokova, Irina</displayForm>
+      <affiliation>Privolzhsky Research Medical University, 10/1, Minin and Pozharsky Sq., Nizhny Novgorod 603950, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vyacheslav</namePart>
+      <namePart type="family">Sinkov</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3396-9590</nameIdentifier>
+      <displayForm>Sinkov, Vyacheslav</displayForm>
+      <affiliation>Scientific Centre for Family Health and Human Reproduction Problems, 16 Timiryazev str., Irkutsk 664003, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Svetlana</namePart>
+      <namePart type="family">Solovieva</namePart>
+      <displayForm>Solovieva, Svetlana</displayForm>
+      <affiliation>Burnasyan Federal Medical Biophysical Center, Moscow, ul. Marshala Novikova, house 23, Moscow 123098, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Elizaveta</namePart>
+      <namePart type="family">Starikova</namePart>
+      <displayForm>Starikova, Elizaveta</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Polina</namePart>
+      <namePart type="family">Tikhonova</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2353-6070</nameIdentifier>
+      <displayForm>Tikhonova, Polina</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Galina</namePart>
+      <namePart type="family">Trifonova</namePart>
+      <displayForm>Trifonova, Galina</displayForm>
+      <affiliation>Privolzhsky Research Medical University, 10/1, Minin and Pozharsky Sq., Nizhny Novgorod 603950, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander</namePart>
+      <namePart type="family">Troitsky</namePart>
+      <displayForm>Troitsky, Alexander</displayForm>
+      <affiliation>Federal Research and Clinical Center of Specialized Medical Care and Medical Technologies, Orekhovy Boulevard, 28, Moscow 115682, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander</namePart>
+      <namePart type="family">Tulichev</namePart>
+      <displayForm>Tulichev, Alexander</displayForm>
+      <affiliation>Privolzhsky Research Medical University, 10/1, Minin and Pozharsky Sq., Nizhny Novgorod 603950, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yuri</namePart>
+      <namePart type="family">Udalov</namePart>
+      <displayForm>Udalov, Yuri</displayForm>
+      <affiliation>Burnasyan Federal Medical Biophysical Center, Moscow, ul. Marshala Novikova, house 23, Moscow 123098, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anna</namePart>
+      <namePart type="family">Varizhuk</namePart>
+      <displayForm>Varizhuk, Anna</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander</namePart>
+      <namePart type="family">Vasiliev</namePart>
+      <displayForm>Vasiliev, Alexander</displayForm>
+      <affiliation>City Clinical Hospital named after S.I. Spasokukotsky of Moscow Healthcare Department, Academic Consortium, Vuchetich str, 21, Moscow 127206, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vladimir</namePart>
+      <namePart type="family">Veselovsky</namePart>
+      <displayForm>Veselovsky, Vladimir</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rinat</namePart>
+      <namePart type="family">Vereshchagin</namePart>
+      <displayForm>Vereshchagin, Rinat</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexey</namePart>
+      <namePart type="family">Volnukhin</namePart>
+      <displayForm>Volnukhin, Alexey</displayForm>
+      <affiliation>City Clinical Hospital named after S.I. Spasokukotsky of Moscow Healthcare Department, Academic Consortium, Vuchetich str, 21, Moscow 127206, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gaukhar</namePart>
+      <namePart type="family">Yusubalieva</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3056-4889</nameIdentifier>
+      <displayForm>Yusubalieva, Gaukhar</displayForm>
+      <affiliation>Federal Research and Clinical Center of Specialized Medical Care and Medical Technologies, Orekhovy Boulevard, 28, Moscow 115682, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vadim</namePart>
+      <namePart type="family">Govorun</namePart>
+      <displayForm>Govorun, Vadim</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine, Malaya Pirogovskaya, 1a, Moscow 119435, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The SARS-CoV-2 pandemic is a big challenge for humanity. The COVID-19 severity differs significantly from patient to patient, and it is important to study the factors protecting from severe forms of the disease. Respiratory microbiota may influence the patient's susceptibility to infection and disease severity due to its ability to modulate the immune system response of the host organism. This data article describes the microbiome dataset from the upper respiratory tract of SARS-CoV-2 positive patients from Russia. This dataset reports the microbial community profile of 335 human nasopharyngeal swabs collected between 2020-05 and 2021-03 during the first and the second epidemic waves. Samples were collected from both inpatients and outpatients in 4 cities of the Russian Federation (Moscow, Kazan, Irkutsk, Nizhny Novgorod) and sequenced using the 16S rRNA gene amplicon sequencing of V3-V4 region. Data contains information about the patient such as age, sex, hospitalization status, percent of damaged lung tissue, oxygen saturation (SpO2), respiratory rate, need for supplemental oxygen, chest computer tomography severity score, SARS-CoV-2 lineage, and also information about smoking and comorbidities. The amplicon sequencing data were deposited at NCBI SRA as BioProject PRJNA751478. </abstract>
+   <subject>
+      <topic>SARS-CoV-2</topic>
+   </subject>
+   <subject>
+      <topic>Microbiome</topic>
+   </subject>
+   <subject>
+      <topic>16S</topic>
+   </subject>
+   <subject>
+      <topic>Upper respiratory tract</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107770</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107770</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107770</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01044-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-28"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010441/S2352340921010441.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on predictive resilience of interdependent water and transportation infrastructures: A sociotechnical approach</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Babak</namePart>
+      <namePart type="family">Aslani</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2734-9398</nameIdentifier>
+      <displayForm>Aslani, Babak</displayForm>
+      <affiliation>Department of Systems Engineering and Operations Research, George Mason University, Fairfax, VA USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shima</namePart>
+      <namePart type="family">Mohebbi</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1587-0506</nameIdentifier>
+      <displayForm>Mohebbi, Shima</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Interdependent infrastructure systems are vulnerable to the cascading effect of failures resulting from random failures and natural disasters. The data provided in this work is the processed data used for the proposed resilience assessment framework for interdependent water and transportation networks dealing with both types of failure [1]. The case study is the interconnected networks of water and transportation in Tampa, Florida. The data for the random failure is obtained from the developed algorithmic framework and the land use and social vulnerability data provided by the U.S. Census datasets. We then used a subset of this produced data to construct predictive models for the network resilience to random failures. As for the natural disaster scenario, we focused on hurricane Irma in 2017 as it directly affected the focused region in Florida. We used the specific guidelines and the raw flooding data for this hurricane, provided by FEMA, to estimate the standing water for each geographical area (polygons) and the associated network components. We labeled the areas as failed and undamaged based on the estimated water levels. Finally, we used this data for developing a geospatial Geographical Weighted Regression (GWR) model to predict the resilience in each polygon. We present the final dataset for water and transportation networks to facilitate reusability for any future resilience study in the selected urban area. </abstract>
+   <subject>
+      <topic>Interdependent critical infrastructures</topic>
+   </subject>
+   <subject>
+      <topic>Resilience assessment</topic>
+   </subject>
+   <subject>
+      <topic>Natural disasters</topic>
+   </subject>
+   <subject>
+      <topic>Cascading random failures</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107512</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107512</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107512</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00790-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-21"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007903/S2352340921007903.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

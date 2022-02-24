@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2021.100021">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A combination therapy of ingredients from TCM for the prevention and treatment of gastric cancer by targeting HER2/ PD-L1</dct:title>
+         <dct:creator>Ling Li</dct:creator>
+         <dct:creator>Jia-wei Li</dct:creator>
+         <dct:creator>Xiao-jie Jin</dct:creator>
+         <dct:creator>Cheng-hao Li</dct:creator>
+         <dct:creator>Jun-jie Li</dct:creator>
+         <dct:creator>Ming Fang</dct:creator>
+         <dct:creator>Lu Qiu</dct:creator>
+         <dct:creator>Si-yu Wang</dct:creator>
+         <dct:creator>Wei Chu</dct:creator>
+         <dct:creator>Yong-qi Liu</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Gastric cancer</rdf:li>
+               <rdf:li>HER2/PD-L1</rdf:li>
+               <rdf:li>combined treatment</rdf:li>
+               <rdf:li>traditional Chinese medicine</rdf:li>
+               <rdf:li>quercetin/formononetin</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine 1 (2021). doi:10.1016/j.prmcm.2021.100021</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.prmcm.2021.100021</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2021.100021</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2021.100021</dct:identifier>
+         <bam:articleNumber>100021</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-21T15:42:08Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100021</ja:aid>
+         <ce:article-number>100021</ce:article-number>
+         <ce:pii>S2667-1425(21)00020-8</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2021.100021</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">A combination therapy of ingredients from TCM for the prevention and treatment of gastric cancer by targeting HER2/ PD-L1</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667142521000208-dba9f94d14b2508398f5a5ed06215e74">
+               <ce:given-name>Ling</ce:given-name>
+               <ce:surname>Li</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">#</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667142521000208-1655ff2392704e093c2470089e3a7436">
+               <ce:given-name>Jia-wei</ce:given-name>
+               <ce:surname>Li</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">#</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667142521000208-8839a1e161a47f42843237ee2b83d01f">
+               <ce:given-name>Xiao-jie</ce:given-name>
+               <ce:surname>Jin</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:jinlovedream@163.com">jinlovedream@163.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667142521000208-04bae7bb9c08282d3df7b52fbd8a2587">
+               <ce:given-name>Cheng-hao</ce:given-name>
+               <ce:surname>Li</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667142521000208-f03c68b4c3343b860c22f67323ac2c34">
+               <ce:given-name>Jun-jie</ce:given-name>
+               <ce:surname>Li</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667142521000208-36c54fd327e8350ee3ddb148d608f37d">
+               <ce:given-name>Ming</ce:given-name>
+               <ce:surname>Fang</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667142521000208-2f430d3790ccd16541a43da8751f2b9c">
+               <ce:given-name>Lu</ce:given-name>
+               <ce:surname>Qiu</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667142521000208-c4ca8c0c73c53a21200955417e99d09e">
+               <ce:given-name>Si-yu</ce:given-name>
+               <ce:surname>Wang</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667142521000208-ff5643b2ead50279d71d1cfcf10dc4b3">
+               <ce:given-name>Wei</ce:given-name>
+               <ce:surname>Chu</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2667142521000208-8f52c34d4be2b3c833f291894e538951">
+               <ce:given-name>Yong-qi</ce:given-name>
+               <ce:surname>Liu</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:liuyongqi73@163.com">liuyongqi73@163.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667142521000208-ae9bd4c9ae2fdccd6744209555cd24cf">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Gansu University Key Laboratory for Molecular Medicine &amp; Chinese Medicine Prevention and Treatment of Major Diseases, Gansu University of Chinese Medicine, Lanzhou, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Gansu University Key Laboratory for Molecular Medicine &amp; Chinese Medicine Prevention and Treatment of Major Diseases</sa:organization>
+                  <sa:organization>Gansu University of Chinese Medicine</sa:organization>
+                  <sa:city>Lanzhou</sa:city>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aGansu University Key Laboratory for Molecular Medicine &amp; Chinese Medicine Prevention and Treatment of Major Diseases, Gansu University of Chinese Medicine, Lanzhou, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667142521000208-ad4991e294741553ddba31976a9521f0">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Preclinical Medicine School, Gansu University of Chinese Medicine, Lanzhou, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Preclinical Medicine School</sa:organization>
+                  <sa:organization>Gansu University of Chinese Medicine</sa:organization>
+                  <sa:city>Lanzhou</sa:city>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bPreclinical Medicine School, Gansu University of Chinese Medicine, Lanzhou, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667142521000208-c81cd665ff5dc025ea8b3972d5929ea1">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">College of Pharmacy, Gansu University of Chinese Medicine, Lanzhou, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>College of Pharmacy</sa:organization>
+                  <sa:organization>Gansu University of Chinese Medicine</sa:organization>
+                  <sa:city>Lanzhou</sa:city>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cCollege of Pharmacy, Gansu University of Chinese Medicine, Lanzhou, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667142521000208-e9385cb389e84bee5e58a0c4dcbd6741">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Key Laboratory of Dun huang Medicine, Ministry of Education, Lanzhou, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Key Laboratory of Dun huang Medicine</sa:organization>
+                  <sa:organization>Ministry of Education</sa:organization>
+                  <sa:city>Lanzhou</sa:city>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dKey Laboratory of Dun huang Medicine, Ministry of Education, Lanzhou, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: 35 Dingxi East Road, Chengguan District, Lanzhou, 730000, Gansu, China.</ce:text>
+               <sa:affiliation>
+                  <sa:address-line>35 Dingxi East Road, Chengguan District</sa:address-line>
+                  <sa:city>Lanzhou</sa:city>
+                  <sa:state>Gansu</sa:state>
+                  <sa:postal-code>730000</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>#</ce:label>
+               <ce:note-para id="notep0001" view="all">Ling Li and Jia-wei Li are parallel first authors.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="13" month="9" year="2021"/>
+         <ce:date-revised day="17" month="11" year="2021"/>
+         <ce:date-accepted day="21" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">Gastric cancer (GC) is a globally important disease. Targeted therapies licensed to treat gastric cancer include trastuzumab, which targets HER2, and nivolumab or pembrolizumab, which block PD-1/PD-L1. The main challenge of tumor molecule-targeted drugs is resistance. Based on the multicomponent and multitarget characteristics of Traditional Chinese Medicine (TCM) and our previous research on Guiqi Baizhu Prescription (GQBZP) in targeting HER2/PD-L1, we used different cell models to verify the effect of quercetin targeting of HER2 and formononetin targeting of PD-L1. The results show that quercetin can inhibit MKN-45 cell proliferation by targeting HER2 to inhibit the PI3K-AKT pathway, and formononetin can regulate T-cell function by inhibiting the PD-1/PD-L1 pathway. We also used GC MKN-45 cells in a T lymphocyte co-culture model to show that quercetin and formononetin co-treatment can regulate T cell function and inhibit MKN-45 cell proliferation. More importantly, quercetin with formononetin treatment had a greater effect than treatment with either quercetin or formononetin alone. We believe that quercetin and formononetin may be useful to target HER2 and inhibit PD-1/PD-L1 in GC.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Key words</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Gastric cancer</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">HER2/PD-L1</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">combined treatment</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">traditional Chinese medicine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">quercetin/formononetin</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0002" class="abr" view="all">
+            <ce:section-title id="cesectitle0003">Abbreviations</ce:section-title>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">EGF</ce:text>
+               <ce:keyword id="key14aa">
+                  <ce:text id="cetext14ab">Epidermal Growth Factor</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">GC</ce:text>
+               <ce:keyword id="key14ac">
+                  <ce:text id="cetext14ad">Gastric cancer</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">GQBZP</ce:text>
+               <ce:keyword id="key14ae">
+                  <ce:text id="cetext14af">Guiqi Baizhu Prescription</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0009">
+               <ce:text id="cetext0010">HER2</ce:text>
+               <ce:keyword id="key14ag">
+                  <ce:text id="cetext14ah">Human Epidermal Growth Factor Receptor 2</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0010">
+               <ce:text id="cetext0011">IFN-γ</ce:text>
+               <ce:keyword id="key14ai">
+                  <ce:text id="cetext14aj">Interferon gamma</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011">
+               <ce:text id="cetext0012">IL-2</ce:text>
+               <ce:keyword id="key14ak">
+                  <ce:text id="cetext14al">Interleukin 2</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0012">
+               <ce:text id="cetext0013">PBMCs</ce:text>
+               <ce:keyword id="key14am">
+                  <ce:text id="cetext14an">Peripheral blood Mononuclear Cells</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0013">
+               <ce:text id="cetext0014">PD-1</ce:text>
+               <ce:keyword id="key14ao">
+                  <ce:text id="cetext14ap">Programmed Cell Death-1</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0014">
+               <ce:text id="cetext0015">PD-L1</ce:text>
+               <ce:keyword id="key14aq">
+                  <ce:text id="cetext14ar">Programmed Cell Death-Ligand 1</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0015">
+               <ce:text id="cetext0016">TCM</ce:text>
+               <ce:keyword id="key14as">
+                  <ce:text id="cetext14at">Traditional Chinese Medicine</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

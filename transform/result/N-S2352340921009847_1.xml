@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Historical dataset of mills for Galicia in the Austro-Hungarian Empire/southern Poland from 1880 to the 1930s</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Krzysztof</namePart>
+      <namePart type="family">Ostafin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4426-3211</nameIdentifier>
+      <displayForm>Ostafin, Krzysztof</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Magdalena</namePart>
+      <namePart type="family">Jasionek</namePart>
+      <displayForm>Jasionek, Magdalena</displayForm>
+      <affiliation>Jagiellonian University, Faculty of Geography and Geology, Institute of Geography and Spatial Management, Gronostajowa 7, Kraków 30-387, Poland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dominik</namePart>
+      <namePart type="family">Kaim</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8004-6890</nameIdentifier>
+      <displayForm>Kaim, Dominik</displayForm>
+      <affiliation>Jagiellonian University, Faculty of Geography and Geology, Institute of Geography and Spatial Management, Gronostajowa 7, Kraków 30-387, Poland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anna</namePart>
+      <namePart type="family">Miklar</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9773-7110</nameIdentifier>
+      <displayForm>Miklar, Anna</displayForm>
+      <affiliation>Jagiellonian University, Faculty of Geography and Geology, Institute of Geography and Spatial Management, Gronostajowa 7, Kraków 30-387, Poland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In this article, we present the dataset of mills from 1880 and 1920s–1930s in the area of the former Galicia (78,500 km²), now in Ukraine and Poland. The data was obtained as a result of manual vectorisation from 162 map sheets at scales of 1:115,200 and 1:100,000, according to the map legends. We found 4022 mill locations for 1880 and 3588 for the 1920s–1930s. We present them as vector points in shapefile, GML, GeoJSON, KML formats with attributes for seven types of mills for 1880 and ten types of mills for 1920s–1930s, and mills counted in a 10 km grid. The data can be used in economic, demographic and environmental reconstructions, e.g. to estimate historical anthropopressure related to settlement, agriculture and forestry. Mills are often associated with river structures such as floodgates, dams, and millraces and therefore they are a good example of human interference in river ecosystems. They can also be one criteria for identifying areas where the local population used traditional environmental knowledge. It can be useful for a contemporary assessment of the environment's suitability for devices using renewable energy sources. Finally, the data on the remains of former mills is suitable for the protection of cultural heritage sites that are technical monuments related to traditional food processing and industry. </abstract>
+   <subject>
+      <topic>Watermill</topic>
+   </subject>
+   <subject>
+      <topic>Windmill</topic>
+   </subject>
+   <subject>
+      <topic>Sawmill</topic>
+   </subject>
+   <subject>
+      <topic>Historical GIS</topic>
+   </subject>
+   <subject>
+      <topic>HGIS</topic>
+   </subject>
+   <subject>
+      <topic>Galicia</topic>
+   </subject>
+   <subject>
+      <topic>Central Europe</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107709</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107709</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107709</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00984-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-11"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009847/S2352340921009847.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset on European diadromous species distributions from 1750 to present time in Europe, North Africa and the Middle East</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Betsy</namePart>
+      <namePart type="family">Barber-O'Malley</namePart>
+      <displayForm>Barber-O'Malley, Betsy</displayForm>
+      <affiliation>INRAE, UR EABX, 50 Avenue de Verdun, Gazinet-Cestas Cedex 33612, France</affiliation>
+      <affiliation>University of Maine, 168 College Avenue, Orono, ME 04469, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Géraldine</namePart>
+      <namePart type="family">Lassalle</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8548-7254</nameIdentifier>
+      <displayForm>Lassalle, Géraldine</displayForm>
+      <affiliation>INRAE, UR EABX, 50 Avenue de Verdun, Gazinet-Cestas Cedex 33612, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Patrick</namePart>
+      <namePart type="family">Lambert</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4367-8498</nameIdentifier>
+      <displayForm>Lambert, Patrick</displayForm>
+      <affiliation>INRAE, UR EABX, 50 Avenue de Verdun, Gazinet-Cestas Cedex 33612, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Eric</namePart>
+      <namePart type="family">Quinton</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4207-4107</nameIdentifier>
+      <displayForm>Quinton, Eric</displayForm>
+      <affiliation>INRAE, UR EABX, 50 Avenue de Verdun, Gazinet-Cestas Cedex 33612, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>EuroDiad version 4.0 is a set of data tables that store information about the presences/absences and population functionality of diadromous species (lampreys and fish) populations in selected catchments in Europe, the Middle East, and North Africa from 1750 to present time. This database contains distribution and life-history trait information for twenty-eight European diadromous species and geomorphological data for each of the selected catchments, though not every species has data for every catchment and time period. EuroDiad was originally created in 2005–2006 (EuroDiad 1.0 and 2.0), and contained data for 196 catchments and two time periods (1851–1950 and 1951–2010). It underwent a major update in 2009–2010 (EuroDiad 3.2) through a validation process by European fisheries experts. Version 3.2 included the addition of 63 small-sized catchments (&lt; 10,000 km²) and an additional time period (1751–1850) for select species and catchments. This database underwent a second validation process in 2019–2020 and was updated to v 4.0, with the primary goal of providing information for a new generation of species distribution models, referred to as hybrid models, which incorporate both habitat suitability and population dynamics within their framework. Secondary objectives of this update were to: (a) incorporate new catchments for which information was provided by additional experts, (b) validate existing information about the presences or absences of diadromous species and categorize their population functionality within a catchment, and (c) perform data hygiene to prepare the database for broad dissemination. Information on the life history, morphology, and phenology of four emblematic species (i.e. eel, salmon, lamprey and shad) were added in this occasion. Data for this update were validated by DiadES project partners (www.diades.eu) and local experts. This update was focused on catchments located in the Atlantic Area for use in the DiadES project. Data were divided by country, and validation was performed for catchments in Ireland, the U.K., Spain, Portugal, and France under the supervision of national organisations in fisheries and environmental management. DiadES project partners were asked to validate geomorphological information for the catchment (location of the outlet, surface area of the drainage basin, length of the main watercourse, elevation at the headwaters), as well as the presences/absences information and population functionality categories for all species already present in EuroDiad for their country. If possible, verification was done for each of the three time periods. Partners were also asked to provide data for any other catchments for which they had access to information on fish population status. EuroDiad 4.0 now stores data for 350 catchments (of which 292 have population functionality records) and three time periods, though the precision of information varies and not every species has information for each time period. This validation process strengthened the usefulness of EuroDiad, which is now updated and available for use by the research community. </abstract>
+   <subject>
+      <topic>Diadromous species</topic>
+   </subject>
+   <subject>
+      <topic>Geographical distribution</topic>
+   </subject>
+   <subject>
+      <topic>Presence/absence</topic>
+   </subject>
+   <subject>
+      <topic>Abundance</topic>
+   </subject>
+   <subject>
+      <topic>Life-history trait</topic>
+   </subject>
+   <subject>
+      <topic>Population</topic>
+   </subject>
+   <subject>
+      <topic>European catchments</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107821</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107821</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107821</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00033-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-08"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000336/S2352340922000336.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

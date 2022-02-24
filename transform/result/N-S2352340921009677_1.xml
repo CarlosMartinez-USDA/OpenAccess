@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on the life cycle carbon emission in Kenyan, Rwandan, and Tanzanian grid electricity generation and transmission systems</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Enock</namePart>
+      <namePart type="family">Chambile</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2244-3833</nameIdentifier>
+      <displayForm>Chambile, Enock</displayForm>
+      <affiliation>African Centre of Excellence in Energy for Sustainable Development, College of Science and Technology, University of Rwanda, KN 73 St, P.O. Box 3900, Kigali, Rwanda</affiliation>
+      <affiliation>Department of Geography and Environmental Studies, Solomon Mahlangu College of Natural and Applied Sciences, Sokoine University of Agriculture, P.O. Box 3038 Chuo Kikuu, Morogoro, Tanzania</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nelson</namePart>
+      <namePart type="family">Ijumba</namePart>
+      <displayForm>Ijumba, Nelson</displayForm>
+      <affiliation>African Centre of Excellence in Energy for Sustainable Development, College of Science and Technology, University of Rwanda, KN 73 St, P.O. Box 3900, Kigali, Rwanda</affiliation>
+      <affiliation>School of Engineering, University of KwaZulu Natal, Howard College Campus, P/Bag X5401, Durban 4041, South Africa</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Burnet</namePart>
+      <namePart type="family">Mkandawire</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9898-3724</nameIdentifier>
+      <displayForm>Mkandawire, Burnet</displayForm>
+      <affiliation>African Centre of Excellence in Energy for Sustainable Development, College of Science and Technology, University of Rwanda, KN 73 St, P.O. Box 3900, Kigali, Rwanda</affiliation>
+      <affiliation>Faculty of Engineering, Malawi University of Business and Applied Sciences, P/Bag 303, Chichiri, Blantyre 3, Malawi</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jean de Dieu</namePart>
+      <namePart type="family">Hakizimana</namePart>
+      <displayForm>Hakizimana, Jean de Dieu</displayForm>
+      <affiliation>African Centre of Excellence in Energy for Sustainable Development, College of Science and Technology, University of Rwanda, KN 73 St, P.O. Box 3900, Kigali, Rwanda</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper presents data for the estimation of the life cycle carbon emission in Kenyan, Rwandan, and Tanzanian grid electricity generation and transmission systems. Data was collected and estimated using the developed life-cycle carbon emission inventory (LCCEI) algorithm implemented through Excel tabs (LCCEI Excel worksheets). The data acquired through the LCCEI modelled parameters (Chambile et al., 2021). The presented dataset shows the results of the developed data collection model. The activity data were obtained from specialized data sources. Some information was obtained through meetings with relevant institutional actors and experts of national and regional power institutions as well as expert judgement. However, most of the data were also obtained from the reviewed published reputable sources, such as the scientifically indexed conference proceedings and journals. The obtained data are presented in this article and in a Mendeley data repository. The compiled data can also be customised and coded to commonly used evaluation software to enhance its open use by scientists, practitioners, and policymakers at national, regional and global levels. </abstract>
+   <subject>
+      <topic>Clean technologies</topic>
+   </subject>
+   <subject>
+      <topic>Electrical power system capacity</topic>
+   </subject>
+   <subject>
+      <topic>Carbon emissions data</topic>
+   </subject>
+   <subject>
+      <topic>Life cycle carbon emission estimation parameters</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107692</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107692</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107692</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00967-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-07"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009677/S2352340921009677.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

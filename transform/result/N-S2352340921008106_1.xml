@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>3D printed polylactic acid - hemp fiber composites: Mechanical, thermal, and microcomputed tomography data</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">John</namePart>
+      <namePart type="family">Arnold</namePart>
+      <displayForm>Arnold, John</displayForm>
+      <affiliation>Department of Mechanical Engineering, University of New Orleans, United States</affiliation>
+      <affiliation>Advanced Materials Research Institute (AMRI), University of New Orleans, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Damon A.</namePart>
+      <namePart type="family">Smith</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0421-8640</nameIdentifier>
+      <displayForm>Smith, Damon A.</displayForm>
+      <affiliation>Department of Mechanical Engineering, University of New Orleans, United States</affiliation>
+      <affiliation>Advanced Materials Research Institute (AMRI), University of New Orleans, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Hemp fiber was used untreated and treated with sodium hydroxide or (3-aminopropyl)triethoxysilane (APTES) as an additive in polylactic acid (PLA) for fused filament fabrication (FFF) of tensile test specimens. Composites granules were produced by solvent processing with 10 wt. % of hemp fiber to use as feedstock for the extrusion of filaments compatible with commercial FFF printers. The dataset shows the thermal properties of the various composites, which were used to determine the appropriate temperatures required for extrusion of filaments and FFF printer settings. Microcomputed tomography imaging was performed and tensile mechanical properties of FFF-printed tensile test specimens were determined as a function of hemp fiber surface treatment. The data provides an assessment of the use of minimally processed hemp fiber as a filler or mechanical enhancer of thermoplastic materials for additive manufacturing. </abstract>
+   <subject>
+      <topic>Hemp</topic>
+   </subject>
+   <subject>
+      <topic>Additive manufacturing</topic>
+   </subject>
+   <subject>
+      <topic>3D printing</topic>
+   </subject>
+   <subject>
+      <topic>Green manufacturing</topic>
+   </subject>
+   <subject>
+      <topic>Biomaterials</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107534</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107534</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107534</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00810-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-28"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008106/S2352340921008106.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

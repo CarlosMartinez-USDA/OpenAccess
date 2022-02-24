@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100017">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Effect of flaxseed-mucilage and Stevia on physico-chemical, antioxidant and sensorial properties of formulated cocoa milk</dct:title>
+         <dct:creator>Elham Azarpazhooh</dct:creator>
+         <dct:creator>Hassan Rashidi</dct:creator>
+         <dct:creator>Parvin Sharayei</dct:creator>
+         <dct:creator>Homa Behmadi</dct:creator>
+         <dct:creator>Hosahalli S. Ramaswamy</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Milk beverage</rdf:li>
+               <rdf:li>Antioxidants</rdf:li>
+               <rdf:li>Stevia</rdf:li>
+               <rdf:li>Flaxseed-mucilage</rdf:li>
+               <rdf:li>Cocoa milk</rdf:li>
+               <rdf:li>Ultrasound</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health 1 (2021). doi:10.1016/j.fhfh.2021.100017</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fhfh.2021.100017</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100017</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100017</dct:identifier>
+         <bam:articleNumber>100017</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-07-29T03:50:41Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100017</ja:aid>
+         <ce:article-number>100017</ce:article-number>
+         <ce:pii>S2667-0259(21)00009-1</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100017</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Effect of flaxseed-mucilage and Stevia on physico-chemical, antioxidant and sensorial properties of formulated cocoa milk</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025921000091-5173707137670e9245f17c2934ed7843">
+               <ce:given-name>Elham</ce:given-name>
+               <ce:surname>Azarpazhooh</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:azarpazhooh@gmail.com">azarpazhooh@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025921000091-342d7c8f75938598be55649d99f00968">
+               <ce:given-name>Hassan</ce:given-name>
+               <ce:surname>Rashidi</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667025921000091-7c8b95a9e0b98d44e9d3a7fc92ca6527">
+               <ce:given-name>Parvin</ce:given-name>
+               <ce:surname>Sharayei</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667025921000091-ab55c2c038656cc13b481a35fcd594c0">
+               <ce:given-name>Homa</ce:given-name>
+               <ce:surname>Behmadi</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667025921000091-bb8363ab8ed5435a6e3d8fd0cab5e04e">
+               <ce:given-name>Hosahalli S.</ce:given-name>
+               <ce:surname>Ramaswamy</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:Hosahalli.ramaswamy@mcgill.ca">Hosahalli.ramaswamy@mcgill.ca</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025921000091-2c748ee719de7b630d51a40a9a8998f9">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Agricultural Engineering Research Department, Khorasan Razavi Agricultural and Natural Resources Research and Education Center, AREEO Mashhad, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Agricultural Engineering Research Department</sa:organization>
+                  <sa:organization>Khorasan Razavi Agricultural and Natural Resources Research and Education Center</sa:organization>
+                  <sa:city>AREEO Mashhad</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aAgricultural Engineering Research Department, Khorasan Razavi Agricultural and Natural Resources Research and Education Center, AREEO Mashhad, Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667025921000091-840d7baebd0ac9da756292218ea4ad4c">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Khorasan Razavi Agricultural and Natural Resources Research and Education Center, AREEO, Mashhad, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Khorasan Razavi Agricultural and Natural Resources Research and Education Center</sa:organization>
+                  <sa:organization>AREEO</sa:organization>
+                  <sa:city>Mashhad</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bKhorasan Razavi Agricultural and Natural Resources Research and Education Center, AREEO, Mashhad, Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667025921000091-206a5d429f416ea41c28e785c4f0efac">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Agricultural Engineering Research Institute, Agricultural Research, Education and Extension Organization (AREEO), Karaj, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Agricultural Engineering Research Institute</sa:organization>
+                  <sa:organization>Agricultural Research, Education and Extension Organization (AREEO)</sa:organization>
+                  <sa:city>Karaj</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cAgricultural Engineering Research Institute, Agricultural Research, Education and Extension Organization (AREEO), Karaj, Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667025921000091-bdfcd95de8f65c0f5389646182df0a08">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Food Science and Agricultural Chemistry, McGill University, Montreal, H9X3V9, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Food Science and Agricultural Chemistry</sa:organization>
+                  <sa:organization>McGill University</sa:organization>
+                  <sa:city>Montreal</sa:city>
+                  <sa:postal-code>H9X3V9</sa:postal-code>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Food Science and Agricultural Chemistry, McGill University, Montreal, H9 × 3V9, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Correspponding authors.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="31" month="12" year="2020"/>
+         <ce:date-revised day="27" month="7" year="2021"/>
+         <ce:date-accepted day="28" month="7" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara019" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">A nutrient enhanced cocoa milk beverage was formulated.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Flaxseed-mucilage incorporation enhanced the nutritional advantage.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Stevia added was a low/zero calorie sweetener.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">The formulation had good physico-chemical and antioxidant properties.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">The sensory quality was not impaired by the added ingredients.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara020" view="all">In this study, the effects of flaxseed-mucilage (2, 4, and 6%), Stevia (0, 50, and 100%), and ultrasound (5, 10, and 15 min at a constant frequency of 20 kHz) on physico-chemical properties, antioxidant activity, color, and sensory evaluation of formulated flaxseed-mucilage cocoa milk (FCM) product were evaluated using a response surface methodology. Results demonstrated that increasing the flaxseed-mucilage content reduced (<ce:italic>p</ce:italic>&lt;0.01) the pH and the extent of sedimentation, decreased (<ce:italic>p</ce:italic>&lt;0.01) the lightness (L*) and increased (<ce:italic>p</ce:italic>&lt;0.01) the viscosity in all test samples. The effect of Stevia on various physico-chemical properties was also significant (<ce:italic>p</ce:italic>&lt;0.01). Further, increasing the ultrasound treatment time reduced the product viscosity (<ce:italic>p</ce:italic>&lt;0.01). With the application of desirability function concept, the optimum formulation conditions for preparing the FCM were established as 2.5% flaxseed-mucilage, 1% Stevia and 10.9 min ultrasound treatment time. The characteristics product obtained under the optimized conditions were pH 6.34, viscosity 10.4 mPas, sedimentation 0.71%, L* value 48.4, and overall acceptability value 4.98. Antioxidant activity and total phenolic content of the optimized FCM were notably higher than those in the control sample, and the associated peroxide values were low.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Milk beverage</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Antioxidants</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Stevia</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Flaxseed-mucilage</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Cocoa milk</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Ultrasound</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

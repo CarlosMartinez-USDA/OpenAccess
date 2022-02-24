@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107726">
+         <dct:format>application/xml</dct:format>
+         <dct:title>SIPIBEL observatory: Data on usual pollutants (solids, organic matter, nutrients, ions) and micropollutants (pharmaceuticals, surfactants, metals), biological and ecotoxicity indicators in hospital and urban wastewater, in treated effluent and sludge from wastewater treatment plant, and in surface and groundwater</dct:title>
+         <dct:creator>Jean-Luc Bertrand-Krajewski</dct:creator>
+         <dct:creator>Rémy Bournique</dct:creator>
+         <dct:creator>Vivien Lecomte</dct:creator>
+         <dct:creator>Noémie Pernin</dct:creator>
+         <dct:creator>Laure Wiest</dct:creator>
+         <dct:creator>Christine Bazin</dct:creator>
+         <dct:creator>Agnès Bouchez</dct:creator>
+         <dct:creator>Elodie Brelot</dct:creator>
+         <dct:creator>Benoît Cournoyer</dct:creator>
+         <dct:creator>Teofana Chonova</dct:creator>
+         <dct:creator>Christophe Dagot</dct:creator>
+         <dct:creator>Pascal Di Majo</dct:creator>
+         <dct:creator>Adriana Gonzalez-Ospina</dct:creator>
+         <dct:creator>Audrey Klein</dct:creator>
+         <dct:creator>Jérôme Labanowski</dct:creator>
+         <dct:creator>Yves Lévi</dct:creator>
+         <dct:creator>Yves Perrodin</dct:creator>
+         <dct:creator>Sandra Rabello-Vargas</dct:creator>
+         <dct:creator>Liana Reuilly</dct:creator>
+         <dct:creator>Audrey Roch</dct:creator>
+         <dct:creator>Axel Wahl</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Hospital wastewater</rdf:li>
+               <rdf:li>urban wastewater</rdf:li>
+               <rdf:li>emerging contaminants</rdf:li>
+               <rdf:li>ecotoxicological risk assessment</rdf:li>
+               <rdf:li>wastewater treatment plant</rdf:li>
+               <rdf:li>sludge</rdf:li>
+               <rdf:li>receiving water body</rdf:li>
+               <rdf:li>groundwater</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107726</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107726</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107726</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107726</dct:identifier>
+         <bam:articleNumber>107726</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-14T16:41:02Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Couperin: French Agreement 2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107726</ja:aid>
+         <ce:article-number>107726</ce:article-number>
+         <ce:pii>S2352-3409(21)01001-5</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107726</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">SIPIBEL observatory: Data on usual pollutants (solids, organic matter, nutrients, ions) and micropollutants (pharmaceuticals, surfactants, metals), biological and ecotoxicity indicators in hospital and urban wastewater, in treated effluent and sludge from wastewater treatment plant, and in surface and groundwater</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010015-0aebdc53f4ae2a4b2f072285eff24ca2"
+                       orcid="0000-0003-3204-8861">
+               <ce:given-name>Jean-Luc</ce:given-name>
+               <ce:surname>Bertrand-Krajewski</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:jean-luc.bertrand-krajewski@insa-lyon.fr">jean-luc.bertrand-krajewski@insa-lyon.fr</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/labodeep">@labodeep</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010015-27b3bc0b8c4a9072b9e8bfd6b8943660">
+               <ce:given-name>Rémy</ce:given-name>
+               <ce:surname>Bournique</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010015-2f9c3f41a2f3cb1d5397f86834623619">
+               <ce:given-name>Vivien</ce:given-name>
+               <ce:surname>Lecomte</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010015-02931a0a16cbe119dba2e039ba58fce9">
+               <ce:given-name>Noémie</ce:given-name>
+               <ce:surname>Pernin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921010015-c7aee51fdc4572d383bec97c57f1e8b2"
+                       orcid="0000-0001-7271-9143">
+               <ce:given-name>Laure</ce:given-name>
+               <ce:surname>Wiest</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921010015-9d25908e53f76ac0e4e1d60e728f1e2a">
+               <ce:given-name>Christine</ce:given-name>
+               <ce:surname>Bazin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921010015-d7f9d3e2967e08cb8932c987767761f0">
+               <ce:given-name>Agnès</ce:given-name>
+               <ce:surname>Bouchez</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921010015-c7112d717c873a851abf6adf7e40452f">
+               <ce:given-name>Elodie</ce:given-name>
+               <ce:surname>Brelot</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921010015-b6dc7c7387d11bf9ad924142fca6267b"
+                       orcid="0000-0002-6031-4621">
+               <ce:given-name>Benoît</ce:given-name>
+               <ce:surname>Cournoyer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2352340921010015-678b9c1956635a117d07ace7a75897a1">
+               <ce:given-name>Teofana</ce:given-name>
+               <ce:surname>Chonova</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S2352340921010015-d647e222e527fc5278058642e0445d0d"
+                       orcid="0000-0003-3632-0420">
+               <ce:given-name>Christophe</ce:given-name>
+               <ce:surname>Dagot</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0007">
+                  <ce:sup loc="post">g</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0012"
+                       author-id="S2352340921010015-79f50b2b5b053dd53dd9715dbd80cdd5">
+               <ce:given-name>Pascal</ce:given-name>
+               <ce:surname>Di Majo</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0008">
+                  <ce:sup loc="post">h</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0013"
+                       author-id="S2352340921010015-993dfba44caa07dae771f290b39c0ae3">
+               <ce:given-name>Adriana</ce:given-name>
+               <ce:surname>Gonzalez-Ospina</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0009">
+                  <ce:sup loc="post">i</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0014"
+                       author-id="S2352340921010015-1fb9569308e01b60c13c2a70b73e4301">
+               <ce:given-name>Audrey</ce:given-name>
+               <ce:surname>Klein</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0010">
+                  <ce:sup loc="post">j</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0015"
+                       author-id="S2352340921010015-9e3e0964cbdc89c02c40154cbaa05c6f">
+               <ce:given-name>Jérôme</ce:given-name>
+               <ce:surname>Labanowski</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0011">
+                  <ce:sup loc="post">k</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0016"
+                       author-id="S2352340921010015-7192fc55337da9a7ada0df333c563c8c">
+               <ce:given-name>Yves</ce:given-name>
+               <ce:surname>Lévi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0012">
+                  <ce:sup loc="post">l</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0017"
+                       author-id="S2352340921010015-d1d6b7183e3e1bb6c0d19c2141d5ee57"
+                       orcid="0000-0002-7067-8584">
+               <ce:given-name>Yves</ce:given-name>
+               <ce:surname>Perrodin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0013">
+                  <ce:sup loc="post">m</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0018"
+                       author-id="S2352340921010015-742b0a04d4db3eaf2cad1ad9057a37f2">
+               <ce:given-name>Sandra</ce:given-name>
+               <ce:surname>Rabello-Vargas</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0014">
+                  <ce:sup loc="post">n</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0019"
+                       author-id="S2352340921010015-698580605259496867543035f73cf565">
+               <ce:given-name>Liana</ce:given-name>
+               <ce:surname>Reuilly</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0015">
+                  <ce:sup loc="post">o</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0020"
+                       author-id="S2352340921010015-6d2e7e2968cb4c8d63a960c2f42484ce">
+               <ce:given-name>Audrey</ce:given-name>
+               <ce:surname>Roch</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0016">
+                  <ce:sup loc="post">p</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0021"
+                       author-id="S2352340921010015-f235a271ab0a2b2ced9edc06597de3cc">
+               <ce:given-name>Axel</ce:given-name>
+               <ce:surname>Wahl</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0017">
+                  <ce:sup loc="post">q</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010015-0295194c79252443c29d234ca66566c4">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Univ Lyon, INSA Lyon, DEEP, EA 7429, 11 rue de la physique, Villeurbanne Cedex F-69621, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Univ Lyon</sa:organization>
+                  <sa:address-line>INSA Lyon, DEEP, EA 7429, 11 rue de la physique,</sa:address-line>
+                  <sa:city>Villeurbanne Cedex</sa:city>
+                  <sa:postal-code>F-69621</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aUniv Lyon, INSA Lyon, DEEP, EA 7429, 11 rue de la physique,, Villeurbanne Cedex F-69621, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010015-c32cd2557b732464f5ce4a618b0dd462">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Groupe de Recherche, d'Animation technique et d'Information sur l'Eau (GRAIE), 66 boulevard Niels Bohr, Villeurbanne F-69100, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Groupe de Recherche</sa:organization>
+                  <sa:organization>d'Animation technique et d'Information sur l'Eau (GRAIE)</sa:organization>
+                  <sa:address-line>66 boulevard Niels Bohr</sa:address-line>
+                  <sa:city>Villeurbanne</sa:city>
+                  <sa:postal-code>F-69100</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bGroupe de Recherche, d'Animation technique et d'Information sur l'Eau (GRAIE), 66 boulevard Niels Bohr, Villeurbanne F-69100, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010015-566596e19e50f37132bb5e815e472f28">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Univ Lyon, CNRS, Université Claude Bernard Lyon 1, ENS de Lyon, Institut des Sciences Analytiques, UMR 5280, 5 rue de la Doua, Villeurbanne F-69100, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Univ Lyon</sa:organization>
+                  <sa:organization>CNRS</sa:organization>
+                  <sa:organization>Université Claude Bernard Lyon 1</sa:organization>
+                  <sa:organization>ENS de Lyon</sa:organization>
+                  <sa:organization>Institut des Sciences Analytiques</sa:organization>
+                  <sa:address-line>UMR 52805 rue de la Doua</sa:address-line>
+                  <sa:city>Villeurbanne</sa:city>
+                  <sa:postal-code>F-69100</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cUniv Lyon, CNRS, Université Claude Bernard Lyon 1, ENS de Lyon, Institut des Sciences Analytiques, UMR 5280, 5 rue de la Doua, Villeurbanne F-69100, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921010015-a1a0fb212ce83f44aadbf407e1d9f8db">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Provademse, CEI 1 Building, 66 boulevard Niels Bohr, Villeurbanne F-69100, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Provademse</sa:organization>
+                  <sa:address-line>CEI 1 Building66 boulevard Niels Bohr</sa:address-line>
+                  <sa:city>Villeurbanne</sa:city>
+                  <sa:postal-code>F-69100</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dProvademse, CEI 1 Building, 66 boulevard Niels Bohr, Villeurbanne F-69100, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921010015-09481c89787e089374892d8b0e047745">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">INRAE, USMB, UMR CARRTEL, 85 bis avenue de Corzent, Thonon-les-Bains F-74200, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>INRAE</sa:organization>
+                  <sa:organization>USMB</sa:organization>
+                  <sa:organization>UMR CARRTEL</sa:organization>
+                  <sa:address-line>85 bis avenue de Corzent</sa:address-line>
+                  <sa:city>Thonon-les-Bains</sa:city>
+                  <sa:postal-code>F-74200</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eINRAE, USMB, UMR CARRTEL, 85 bis avenue de Corzent, Thonon-les-Bains F-74200, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2352340921010015-0efebfec8c11f1f7cd11a9bcb69c0c83">
+               <ce:label>f</ce:label>
+               <ce:textfn id="cetextfn0006">UMR Ecologie microbienne, CNRS 5557, INRA 1418, UCBL, VetAgro Sup, Bâtiment principal, aile 3, 1er étage, Marcy l’Étoile F-69280, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>UMR Ecologie microbienne</sa:organization>
+                  <sa:address-line>CNRS 5557INRA 1418UCBL, VetAgro SupBâtiment principalaile 31er étage</sa:address-line>
+                  <sa:city>Marcy l’Étoile</sa:city>
+                  <sa:postal-code>F-69280</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0006">fUMR Ecologie microbienne, CNRS 5557, INRA 1418, UCBL, VetAgro Sup, Bâtiment principal, aile 3, 1er étage, Marcy l’Étoile F-69280, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0007"
+                            affiliation-id="S2352340921010015-3ce894b8e6af58b914130c55a8284313">
+               <ce:label>g</ce:label>
+               <ce:textfn id="cetextfn0007">Université de Limoges, RESINFIT, UMR-Inserm 1092, 2 rue du Dr Marcland, Limoges F-87000, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Université de Limoges</sa:organization>
+                  <sa:organization>RESINFIT</sa:organization>
+                  <sa:address-line>UMR-Inserm 10922 rue du Dr Marcland</sa:address-line>
+                  <sa:city>Limoges</sa:city>
+                  <sa:postal-code>F-87000</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0007">gUniversité de Limoges, RESINFIT, UMR-Inserm 1092, 2 rue du Dr Marcland, Limoges F-87000, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0008"
+                            affiliation-id="S2352340921010015-8e7827ad6083495f4deabe0f376b5cc6">
+               <ce:label>h</ce:label>
+               <ce:textfn id="cetextfn0008">Centre Hospitalier Alpes Léman (CHAL), 558 route de Findrol, BP 20 500, Contamine-sur-Arve F-74130, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Centre Hospitalier Alpes Léman (CHAL)</sa:organization>
+                  <sa:address-line>558 route de FindrolBP 20 500</sa:address-line>
+                  <sa:city>Contamine sur Arve</sa:city>
+                  <sa:postal-code>F-74130</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0008">hCentre Hospitalier Alpes Léman (CHAL), 558 route de Findrol, BP 20 500, Contamine sur Arve F-74130, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0009"
+                            affiliation-id="S2352340921010015-dfefd2642069409b6e536b3e87ef0df5">
+               <ce:label>i</ce:label>
+               <ce:textfn id="cetextfn0009">Wastewater Technical &amp; Innovation Division, Suez – Treatment Infrastructure, 183 avenue du 18 Juin 1940, Rueil-Malmaison F-92500, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Wastewater Technical &amp; Innovation Division</sa:organization>
+                  <sa:organization>Suez – Treatment Infrastructure</sa:organization>
+                  <sa:address-line>183 avenue du 18 Juin 1940</sa:address-line>
+                  <sa:city>Rueil-Malmaison</sa:city>
+                  <sa:postal-code>F-92500</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0009">iWastewater Technical &amp; Innovation Division, Suez – Treatment Infrastructure, 183 avenue du 18 Juin 1940, Rueil-Malmaison F-92500, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0010"
+                            affiliation-id="S2352340921010015-418fdac88e1b58548972d016d57bb0ae">
+               <ce:label>j</ce:label>
+               <ce:textfn id="cetextfn0010">Commission Internationale pour la Protection des Eaux du Léman (CIPEL), 50 route de Duillier, CP 1080, Nyon CH-1260, Switzerland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Commission Internationale pour la Protection des Eaux du Léman (CIPEL)</sa:organization>
+                  <sa:address-line>50 route de DuillierCP 1080</sa:address-line>
+                  <sa:city>Nyon</sa:city>
+                  <sa:postal-code>CH-1260</sa:postal-code>
+                  <sa:country>Switzerland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0010">jCommission Internationale pour la Protection des Eaux du Léman (CIPEL), 50 route de Duillier, CP 1080, Nyon CH-1260, Switzerland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0011"
+                            affiliation-id="S2352340921010015-2658be4c542bf35094c4d0f96c66d6d2">
+               <ce:label>k</ce:label>
+               <ce:textfn id="cetextfn0011">Université de Poitiers, ENSIP, UMR CNRS 7285, IC2MP, 1 rue Marcel Doré, Poitiers Cedex F-86073, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Université de Poitiers</sa:organization>
+                  <sa:organization>ENSIP</sa:organization>
+                  <sa:address-line>UMR CNRS 7285IC2MP</sa:address-line>
+                  <sa:city>Poitiers Cedex</sa:city>
+                  <sa:postal-code>F-86073</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0011">kUniversité de Poitiers, ENSIP, UMR CNRS 7285, IC2MP, Poitiers Cedex F-86073, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0012"
+                            affiliation-id="S2352340921010015-d2af78896cb70eb023c947d2b2a9e949">
+               <ce:label>l</ce:label>
+               <ce:textfn id="cetextfn0012">Université Paris Sud, Université Paris-Saclay, UMR 8079, CNRS, AgroParisTech, Faculté de Pharmacie, 5 rue Jean-Baptiste Clément, Chatenay-Malabry F-92290, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Université Paris Sud</sa:organization>
+                  <sa:organization>Université Paris-Saclay, UMR 8079, CNRS, AgroParisTech, Faculté de Pharmacie</sa:organization>
+                  <sa:address-line>5 rue Jean-Baptiste Clément</sa:address-line>
+                  <sa:city>Chatenay Malabry</sa:city>
+                  <sa:postal-code>F-92290</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0012">lUniversité Paris Sud, Université Paris-Saclay, UMR 8079, CNRS, AgroParisTech, Faculté de Pharmacie, 5 rue Jean-Baptiste Clément, Chatenay Malabry F-92290, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0013"
+                            affiliation-id="S2352340921010015-35daff1652cd3fa3b29cac78df28d422">
+               <ce:label>m</ce:label>
+               <ce:textfn id="cetextfn0013">Univ Lyon, ENTPE, CNRS, UMR 5023 LEHNA, rue Maurice Audin, Vaulx-en-Velin Cedex F-69518, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Univ Lyon</sa:organization>
+                  <sa:organization>ENTPE</sa:organization>
+                  <sa:organization>CNRS</sa:organization>
+                  <sa:organization>UMR 5023 LEHNA</sa:organization>
+                  <sa:address-line>rue Maurice Audin</sa:address-line>
+                  <sa:city>Vaulx-en-Velin Cedex</sa:city>
+                  <sa:postal-code>F-69518</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0013">mUniv Lyon, ENTPE, CNRS, UMR 5023 LEHNA, rue Maurice Audin, Vaulx-en-Velin Cedex F-69518, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0014"
+                            affiliation-id="S2352340921010015-0e59dcaecf58e140290120ba69649442">
+               <ce:label>n</ce:label>
+               <ce:textfn id="cetextfn0014">Service de l'écologie de l'eau, Etat de Genève, 25 avenue de Sainte-Clotilde, Genève CH-1211, Switzerland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Service de l'écologie de l'eau</sa:organization>
+                  <sa:organization>Etat de Genève</sa:organization>
+                  <sa:address-line>25 avenue de Sainte-Clotilde</sa:address-line>
+                  <sa:city>Genève</sa:city>
+                  <sa:postal-code>CH-1211</sa:postal-code>
+                  <sa:country>Switzerland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0014">nService de l'écologie de l'eau, Etat de Genève, 25 avenue de Sainte-Clotilde, Genève CH-1211, Switzerland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0015"
+                            affiliation-id="S2352340921010015-f26128d51c5003244d04b7a3777fdb60">
+               <ce:label>o</ce:label>
+               <ce:textfn id="cetextfn0015">Syndicat Mixte d'Aménagement de l'Arve et de ses Abords, 300 chemin des Prés Moulin, Saint-Pierre-en-Faucigny F-74800, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Syndicat Mixte d'Aménagement de l'Arve et de ses Abords</sa:organization>
+                  <sa:address-line>300 chemin des Prés Moulin</sa:address-line>
+                  <sa:city>Saint-Pierre-en-Faucigny</sa:city>
+                  <sa:postal-code>F-74800</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0015">oSyndicat Mixte d'Aménagement de l'Arve et de ses Abords, 300 chemin des Prés Moulin, Saint-Pierre-en-Faucigny F-74800, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0016"
+                            affiliation-id="S2352340921010015-1a1fd23946edefa87a392bb6efe012aa">
+               <ce:label>p</ce:label>
+               <ce:textfn id="cetextfn0016">Syndicat des eaux des Rocailles et de Bellecombe, 160 Grande Rue, Reignier-Esery F-74930, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Syndicat des eaux des Rocailles et de Bellecombe</sa:organization>
+                  <sa:address-line>160 Grande Rue</sa:address-line>
+                  <sa:city>Reignier-Esery</sa:city>
+                  <sa:postal-code>F-74930</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0016">pSyndicat des eaux des Rocailles et de Bellecombe, 160 Grande Rue, Reignier-Esery F-74930, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0017"
+                            affiliation-id="S2352340921010015-49a69c2954be0d72d4dcdce09c7a75f9">
+               <ce:label>q</ce:label>
+               <ce:textfn id="cetextfn0017">Services Industriels de Genève, Chemin du Château-Bloch 2, Vernier CH-1219, Switzerland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Services Industriels de Genève</sa:organization>
+                  <sa:address-line>2 chemin du Château-BlochCase postale 2777</sa:address-line>
+                  <sa:city>Genève 2</sa:city>
+                  <sa:postal-code>CH-1211</sa:postal-code>
+                  <sa:country>Switzerland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0017">qServices Industriels de Genève, 2 chemin du Château-Bloch, Case postale 2777, Genève 2 CH-1211, Switzerland</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="4" month="11" year="2021"/>
+         <ce:date-revised day="6" month="12" year="2021"/>
+         <ce:date-accepted day="13" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">The Bellecombe pilot site – SIPIBEL – was created in 2010 in order to study the characterisation, treatability and impacts of hospital effluents in an urban wastewater treatment plant. This pilot site is composed of: i) the Alpes Léman hospital (CHAL), opened in February 2012, ii) the Bellecombe wastewater treatment plant, with two separate treatment lines allowing to fully separate the hospital wastewater and the urban wastewater, and iii) the Arve River as the receiving water body and a tributary of the Rhône River and the Geneva aquifer. The database includes in total 48 439 values measured on 961 samples (raw and treated hospital and urban wastewater, activated sludge in aeration tanks, dried sludge after dewatering, river and groundwater, and a few additional campaigns in aerobic and anaerobic sewers) with 44 455 physico-chemistry values (including 15 pharmaceuticals and 14 related transformation products, biocides compounds, metals, organic micropollutants), 2 193 bioassay values (ecotoxicity), 1 679 microbiology values (including microorganisms and antibioresistance indicators) and 112 hydrobiology values.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Hospital wastewater</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">urban wastewater</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">emerging contaminants</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">ecotoxicological risk assessment</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">wastewater treatment plant</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">sludge</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">receiving water body</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">groundwater</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

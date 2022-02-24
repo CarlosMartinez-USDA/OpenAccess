@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.wri.2021.100170">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Congo red recovery from water using green extraction solvents</dct:title>
+         <dct:creator>Lorena Villar Blanco</dct:creator>
+         <dct:creator>Olalla González Sas</dct:creator>
+         <dct:creator>Pablo B. Sánchez</dct:creator>
+         <dct:creator>Ángeles Domínguez Santiago</dct:creator>
+         <dct:creator>Begoña González de Prado</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Azo dye</rdf:li>
+               <rdf:li>Deep eutectic solvent</rdf:li>
+               <rdf:li>Congo Red</rdf:li>
+               <rdf:li>Liquid-liquid extraction</rdf:li>
+               <rdf:li>Water remediation</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Water Resources and Industry 27 (2022). doi:10.1016/j.wri.2021.100170</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Water Resources and Industry</prism:publicationName>
+         <prism:copyright>© 2022 Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2212-3717</prism:issn>
+         <prism:volume>27</prism:volume>
+         <prism:coverDisplayDate>June 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.wri.2021.100170</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.wri.2021.100170</prism:url>
+         <dct:identifier>doi:10.1016/j.wri.2021.100170</dct:identifier>
+         <bam:articleNumber>100170</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-27T14:18:35Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.3</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>WRI</ja:jid>
+         <ja:aid>100170</ja:aid>
+         <ce:article-number>100170</ce:article-number>
+         <ce:pii>S2212-3717(21)00033-0</ce:pii>
+         <ce:doi>10.1016/j.wri.2021.100170</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="title0010">Congo red recovery from water using green extraction solvents</ce:title>
+         <ce:author-group id="augrp0010">
+            <ce:author id="au1" author-id="S2212371721000330-e7a231367ea30a8ef202457c5d7d1b8d">
+               <ce:given-name>Lorena</ce:given-name>
+               <ce:surname>Villar Blanco</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au2"
+                       orcid="0000-0001-6973-9573"
+                       author-id="S2212371721000330-74f908817c2138ef654a29b3343da9ab">
+               <ce:given-name>Olalla</ce:given-name>
+               <ce:surname>González Sas</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor1">
+                  <ce:sup loc="post">∗</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:olallags83@uvigo.es" id="eadd0010">olallags83@uvigo.es</ce:e-address>
+            </ce:author>
+            <ce:author id="au3" author-id="S2212371721000330-fa7060b8ecea0d7d6b0416af8535f3c5">
+               <ce:given-name>Pablo B.</ce:given-name>
+               <ce:surname>Sánchez</ce:surname>
+               <ce:cross-ref refid="aff2">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au4" author-id="S2212371721000330-84138a6aae91b6c312e7062d2d6d108c">
+               <ce:given-name>Ángeles</ce:given-name>
+               <ce:surname>Domínguez Santiago</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au5"
+                       orcid="0000-0002-3380-2494"
+                       author-id="S2212371721000330-22496c34eff8300fff96ff512dd3f9a6">
+               <ce:given-name>Begoña</ce:given-name>
+               <ce:surname>González de Prado</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff1"
+                            affiliation-id="S2212371721000330-ef6c825d13f619023f722a1d799f270f">
+               <ce:label>a</ce:label>
+               <ce:textfn>Grupo de Procesos de Separación Avanzada, Departamento de Ingeniería Química, Universidade de Vigo, Campus Lagoas-Marcosende, 36310, Vigo, Spain</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Grupo de Procesos de Separación Avanzada</sa:organization>
+                  <sa:organization>Departamento de Ingeniería Química</sa:organization>
+                  <sa:organization>Universidade de Vigo</sa:organization>
+                  <sa:address-line>Campus Lagoas-Marcosende</sa:address-line>
+                  <sa:city>Vigo</sa:city>
+                  <sa:postal-code>36310</sa:postal-code>
+                  <sa:country>Spain</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0010">Grupo de Procesos de Separacion Avanzada, Departamento de Ingenieria Quimica, Universidade de Vigo, Campus Lagoas-Marcosende, 36310, Vigo, Spain</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff2"
+                            affiliation-id="S2212371721000330-0d2a22cd2f101fb2a71b51ec517fc1c7">
+               <ce:label>b</ce:label>
+               <ce:textfn>Departamento de Física Aplicada, Universidade de Vigo, Campus Lagoas-Marcosende, 36310, Vigo, Spain</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Departamento de Física Aplicada</sa:organization>
+                  <sa:organization>Universidade de Vigo</sa:organization>
+                  <sa:address-line>Campus Lagoas-Marcosende</sa:address-line>
+                  <sa:city>Vigo</sa:city>
+                  <sa:postal-code>36310</sa:postal-code>
+                  <sa:country>Spain</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0015">Departamento de Fisica Aplicada, Universidade de Vigo, Campus Lagoas-Marcosende, 36310, Vigo, Spain</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor1">
+               <ce:label>∗</ce:label>
+               <ce:text>Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="11" month="10" year="2021"/>
+         <ce:date-revised day="16" month="12" year="2021"/>
+         <ce:date-accepted day="27" month="12" year="2021"/>
+         <ce:abstract xml:lang="en" id="abs0010" view="all" class="author">
+            <ce:section-title id="sectitle0010">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0010" view="all">
+               <ce:simple-para id="abspara0010" view="all">Dyes are pollutants widely used in several industries that end up dumped as wastewater, contributing to water pollution. In the scope of improving water quality, liquid-liquid extraction is a separation technique widely used to remove pollutants from water, due to the possibility of recovering all the involved agents. In this work, deep eutectic solvents (DESs) based on mixtures of thymol with menthol, coumarin, octanoic acid and decanoic acid were applied as extraction agents to remove congo red from water. Among all the studied solvents, those formed by thymol with organic acids showed extraction efficiencies higher than 90% for low initial concentrations of congo red, using 1/5 (v/v) DES/water proportion and 1 h of stirring time as extraction parameters. The best results were achieved using Thymol:Octanoic acid (1:1) solvent. Furthermore, at the end of the process each reagent can be reused. DES reusability was checked for three extraction cycles, keeping stable.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="graphical" id="abs0015" view="all">
+            <ce:section-title id="sectitle0015">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0015" view="all">
+               <ce:simple-para id="abspara0015" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="author-highlights" xml:lang="en" id="abs0020" view="all">
+            <ce:section-title id="sectitle0020">Highlights</ce:section-title>
+            <ce:abstract-sec id="abssec0020" view="all">
+               <ce:simple-para id="abspara0020" view="all">
+                  <ce:list id="ulist0010">
+                     <ce:list-item id="u0010">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0010" view="all">Liquid-liquid extraction as simple method for dye removal from water.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="u0015">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0015" view="all">Hydrophobic DESs based on thymol are successfully applied for Congo Red extraction.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="u0020">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0020" view="all">All reactives involved can be recovered after the procedure.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+            <ce:section-title id="sectitle0025">Keywords</ce:section-title>
+            <ce:keyword id="kwrd0010">
+               <ce:text>Azo dye</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0015">
+               <ce:text>Deep eutectic solvent</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0020">
+               <ce:text>Congo Red</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0025">
+               <ce:text>Liquid-liquid extraction</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0030">
+               <ce:text>Water remediation</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

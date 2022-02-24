@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107902">
+         <dct:format>application/xml</dct:format>
+         <dct:title>International Winter Wheat nurseries data: Facultative and Winter Wheat Observation Nurseries and International Winter Wheat yield trials for semi-arid and irrigated conditions</dct:title>
+         <dct:creator>Mesut Keser</dct:creator>
+         <dct:creator>Beyhan Akin</dct:creator>
+         <dct:creator>Fatih Ozdemir</dct:creator>
+         <dct:creator>Pietro Bartolini</dct:creator>
+         <dct:creator>Asma Jeitani</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Winter wheat</rdf:li>
+               <rdf:li>Breeding</rdf:li>
+               <rdf:li>Germplasm exchange</rdf:li>
+               <rdf:li>International nurseries</rdf:li>
+               <rdf:li>Multi-locations</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107902</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107902</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107902</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107902</dct:identifier>
+         <bam:articleNumber>107902</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-28T18:09:54Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107902</ja:aid>
+         <ce:article-number>107902</ce:article-number>
+         <ce:pii>S2352-3409(22)00114-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107902</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">International Winter Wheat nurseries data: Facultative and Winter Wheat Observation Nurseries and International Winter Wheat yield trials for semi-arid and irrigated conditions</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922001147-b308a65ab7e8daff791301bf2191261d"
+                       orcid="0000-0001-6316-7981">
+               <ce:given-name>Mesut</ce:given-name>
+               <ce:surname>Keser</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:M.Keser@cgiar.org">M.Keser@cgiar.org</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922001147-214f27bae84742eb6e0825f0a6cb1aef">
+               <ce:given-name>Beyhan</ce:given-name>
+               <ce:surname>Akin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922001147-5cb1708ce1354307c5ef7b55ad8c3948"
+                       orcid="0000-0001-7934-2844">
+               <ce:given-name>Fatih</ce:given-name>
+               <ce:surname>Ozdemir</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922001147-6a2171abc7ac27a7250f2b771d99eae8"
+                       orcid="0000-0002-5946-5772">
+               <ce:given-name>Pietro</ce:given-name>
+               <ce:surname>Bartolini</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340922001147-ab89433a6db9c8090f8957ce00f41d1f">
+               <ce:given-name>Asma</ce:given-name>
+               <ce:surname>Jeitani</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922001147-473e1a8bfbc7a867c03fa59d5745f37a">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">International Center for Agricultural Research in the Dry Areas (ICARDA), Ankara, Turkey</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>International Center for Agricultural Research in the Dry Areas (ICARDA)</sa:organization>
+                  <sa:city>Ankara</sa:city>
+                  <sa:country>Turkey</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aInternational Center for Agricultural Research in the Dry Areas (ICARDA), Ankara, Turkey</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922001147-86437cc959f89f3afcdcbc1920128563">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">International Maize and Wheat Improvement Center (CIMMYT), Izmir, Turkey</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>International Maize and Wheat Improvement Center (CIMMYT)</sa:organization>
+                  <sa:city>Izmir</sa:city>
+                  <sa:country>Turkey</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bInternational Maize and Wheat Improvement Center (CIMMYT), Izmir, Turkey</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922001147-d26259327636508e387e92e5aad91c33">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Bahri Dagdas International Agricultural Research Institute (BDIARI), Konya, Turkey</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Bahri Dagdas International Agricultural Research Institute (BDIARI)</sa:organization>
+                  <sa:city>Konya</sa:city>
+                  <sa:country>Turkey</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cBahri Dagdas International Agricultural Research Institute (BDIARI), Konya, Turkey</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340922001147-c2fd12444f4a196508a8770d91e9d126">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">International Center for Agricultural Research in the Dry Areas (ICARDA), Florence, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>International Center for Agricultural Research in the Dry Areas (ICARDA)</sa:organization>
+                  <sa:city>Florence</sa:city>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dInternational Center for Agricultural Research in the Dry Areas (ICARDA), Florence, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340922001147-f0a092445cff5c23032607bf3fad3654">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">International Center for Agricultural Research in the Dry Areas (ICARDA), Beirut, Lebanon</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>International Center for Agricultural Research in the Dry Areas (ICARDA)</sa:organization>
+                  <sa:city>Beirut</sa:city>
+                  <sa:country>Lebanon</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eInternational Center for Agricultural Research in the Dry Areas (ICARDA), Beirut, Lebanon</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="20" month="12" year="2021"/>
+         <ce:date-revised day="26" month="1" year="2022"/>
+         <ce:date-accepted day="27" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara004" view="all">This data paper describes the content of 16 datasets collected under the International Winter Wheat Improvement Program (IWWIP), an alliance between Turkey-CIMMYT-ICARDA (TCI), during the 2015–2016, 2016–2017, 2017–2018 and 2018–2019 seasons. Data was collected from the Facultative and Winter Wheat Observation Nursery (FAWWON) and the International Winter Wheat Yield Trials (IWWYT) conducted under semi-arid and irrigated conditions across different countries. Data on all nurseries was collected during the growing season by IWWIP's team and cooperators in their local environments. It was compiled at the end of the wheat season by IWWIP's team. Multi-locational data can be used to select advanced lines that fit to collaborators’ growing environment. The selected germplasm can either be used as a parent in their breeding programs or be released as a variety in their country.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Winter wheat</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Breeding</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Germplasm exchange</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">International nurseries</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Multi-locations</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2022.100232">
+         <dct:format>application/xml</dct:format>
+         <dct:title>The novel topical herbal gel might be an alternative treatment in patients with acne vulgaris: A randomized, double-blind controlled study</dct:title>
+         <dct:creator>Farid Masoud</dct:creator>
+         <dct:creator>Paria Badali</dct:creator>
+         <dct:creator>Mashkur Abdulhamid Isa</dct:creator>
+         <dct:creator>Hamideh Azimi Alamdari</dct:creator>
+         <dct:creator>Solmaz Asnaashari</dct:creator>
+         <dct:creator>Javad Shokri</dct:creator>
+         <dct:creator>Yousef Javadzadeh</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Acne vulgaris</rdf:li>
+               <rdf:li>Benzoyl peroxide</rdf:li>
+               <rdf:li>Clindamycin</rdf:li>
+               <rdf:li>Rosmarinus officinalis</rdf:li>
+               <rdf:li>Skin disorders</rdf:li>
+               <rdf:li>Topical herbal gel</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2022.100232</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>2</prism:number>
+         <prism:coverDisplayDate>May 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2022.100232</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2022.100232</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2022.100232</dct:identifier>
+         <bam:articleNumber>100232</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-29T23:40:59Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100232</ja:aid>
+         <ce:article-number>100232</ce:article-number>
+         <ce:pii>S2667-0313(22)00018-5</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2022.100232</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">The novel topical herbal gel might be an alternative treatment in patients with acne vulgaris: A randomized, double-blind controlled study</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031322000185-e7cd4281bf6bcd6656de21dd74cba33d">
+               <ce:given-name>Farid</ce:given-name>
+               <ce:surname>Masoud</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn2">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:faridmasoud@gmail.com">faridmasoud@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031322000185-0360bf052ed7c5546240bfb6eb0b56b2">
+               <ce:given-name>Paria</ce:given-name>
+               <ce:surname>Badali</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031322000185-a47df0f79e137ab4bb647a5fe02a5304">
+               <ce:given-name>Mashkur Abdulhamid</ce:given-name>
+               <ce:surname>Isa</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031322000185-0e5b0c014e443fa8dab6db924632bd9d">
+               <ce:given-name>Hamideh Azimi</ce:given-name>
+               <ce:surname>Alamdari</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031322000185-3bd29bd0e5db050d93cab93894e59625">
+               <ce:given-name>Solmaz</ce:given-name>
+               <ce:surname>Asnaashari</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0002">
+                  <ce:sup loc="post">⁎⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:asnaasharis@tbzmed.ac.ir"
+                             id="ead0002">asnaasharis@tbzmed.ac.ir</ce:e-address>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031322000185-73fafc79f59dd7bb4a32b080f5f775c3">
+               <ce:given-name>Javad</ce:given-name>
+               <ce:surname>Shokri</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667031322000185-301a633c31f85f6eff89248cc65a8e16">
+               <ce:given-name>Yousef</ce:given-name>
+               <ce:surname>Javadzadeh</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0003">
+                  <ce:sup loc="post">⁎⁎⁎</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031322000185-eafaf74f87666d99a3f432b337c7d193">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Drug Applied Research Center and Faculty of Pharmacy, Tabriz University of Medical Sciences, Tabriz, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Drug Applied Research Center and Faculty of Pharmacy</sa:organization>
+                  <sa:organization>Tabriz University of Medical Sciences</sa:organization>
+                  <sa:city>Tabriz</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDrug Applied Research Center and Faculty of Pharmacy, Tabriz University of Medical Sciences, Tabriz, Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031322000185-5a52d759842406fa7fe298e617ea7d2b">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">School of Health and Related Research, University of Sheffield, Sheffield, United Kingdom</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Health and Related Research, University of Sheffield</sa:organization>
+                  <sa:city>Sheffield</sa:city>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bSchool of Health and Related Research, University of Sheffield, Sheffield, United Kingdom</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031322000185-28821d113626d03c6b8f482beeab641a">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Dermatology, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Dermatology</sa:organization>
+                  <sa:organization>Faculty of Medicine, Tabriz University of Medical Sciences</sa:organization>
+                  <sa:city>Tabriz</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Dermatology, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031322000185-25f1a0e5c04fc793589432f598e507dd">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Biotechnology Research Center, Tabriz University of Medical Sciences, Tabriz, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Biotechnology Research Center</sa:organization>
+                  <sa:organization>Tabriz University of Medical Sciences</sa:organization>
+                  <sa:city>Tabriz</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dBiotechnology Research Center, Tabriz University of Medical Sciences, Tabriz, Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Pharmaceutics, Faculty of Pharmacy, Tabriz University of Medical Sciences, Deneshgah Avenue, P.O. Box 51664-14776, Tabriz, Iran</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutics</sa:organization>
+                  <sa:organization>Faculty of Pharmacy, Tabriz University of Medical Sciences</sa:organization>
+                  <sa:address-line>Deneshgah Avenue, P.O. Box 51664-14776</sa:address-line>
+                  <sa:city>Tabriz</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+            <ce:correspondence id="cor0002">
+               <ce:label>⁎⁎</ce:label>
+               <ce:text id="cetext0002">Corresponding author at: Biotechnology Research Center, Tabriz University of Medical Sciences, Deneshgah Avenue, P.O. Box 51656-65811, Tabriz, Iran</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Biotechnology Research Center, Tabriz University of Medical Sciences</sa:organization>
+                  <sa:address-line>Deneshgah Avenue, P.O. Box 51656-65811</sa:address-line>
+                  <sa:city>Tabriz</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+            <ce:correspondence id="cor0003">
+               <ce:label>⁎⁎⁎</ce:label>
+               <ce:text id="cetext0003">Corresponding author at: Department of Pharmaceutics, Faculty of Pharmacy, Tabriz University of Medical Sciences, Deneshgah Avenue, P.O. Box 51664-14776, Tabriz, Iran</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutics</sa:organization>
+                  <sa:organization>Faculty of Pharmacy, Tabriz University of Medical Sciences</sa:organization>
+                  <sa:address-line>Deneshgah Avenue, P.O. Box 51664-14776</sa:address-line>
+                  <sa:city>Tabriz</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Pharm.D, Ph.D.</ce:note-para>
+            </ce:footnote>
+            <ce:footnote id="fn2">
+               <ce:label>2</ce:label>
+               <ce:note-para id="notep0002" view="all">Pharm.D</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="3" month="11" year="2021"/>
+         <ce:date-revised day="21" month="1" year="2022"/>
+         <ce:date-accepted day="29" month="1" year="2022"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara011" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">TIL, TC, the number of pustules, and papules declined significantly in group B.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">TIL and TC diminished more rapidly in group B.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Rosemary gel significantly improved the healing of acne vulgaris symptoms.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0006" view="all">Rosemary might be utilized as a potential agent for treating acne vulgaris.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara012" view="all">Acne vulgaris (AV) is one of the most prevalent skin disorders evolving in pre and post-adolescent periods. Conventional therapies indicate many adverse events and limitations; nonetheless, botanical agents are proposed for minimal side effects and faster action. This study aimed to assess the clinical efficacy of topical <ce:italic>Rosmarinus officinalis</ce:italic> and clindamycin/benzoyl peroxide in patients with AV.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Methods</ce:section-title>
+               <ce:simple-para id="spara013" view="all">Fifty healthy subjects (42 females, 8 males) with mild to moderate AV were randomly assigned (1:1) into two groups, clindamycin and benzoyl peroxide gel 1%/5% (group A), and rosemary gel (group B). They received a thin layer of topical gels on the affected area twice daily for twelve weeks. A total number of inflammatory lesions (TIL), total number of comedones (TC), and pustules and papules at baseline, weeks 4, 8, and 12 were measured as primary outcomes. Safety evaluations and the DLQI test were also performed.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara014" view="all">After 12 weeks of therapy, TIL, TC, the number of pustules and papules declined in both groups; however, only group B indicated significant differences at weeks 4, 8, and 12 (<ce:italic>p</ce:italic> &lt; 0.05). Moreover, TIL and TC diminished more rapidly in group B. Even though all adverse events vanished within the first week of the study, their incidence exhibited significant variations (<ce:italic>p</ce:italic> &lt; 0.05).</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusion</ce:section-title>
+               <ce:simple-para id="spara015" view="all">This study revealed that rosemary gel significantly improved the healing of AV symptoms, and it might be utilized as a potential agent for treating AV.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0007">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0007" view="all">
+               <ce:simple-para id="spara016" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0008">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0004">Acne vulgaris</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0005">Benzoyl peroxide</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0006">Clindamycin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0007">Rosmarinus officinalis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0008">Skin disorders</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0009">Topical herbal gel</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

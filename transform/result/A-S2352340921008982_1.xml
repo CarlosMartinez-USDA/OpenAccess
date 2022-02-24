@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107623">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Metabolite profile data of grapevine plants with brown wood streaking and grapevine leaf stripe (esca complex disease) symptoms</dct:title>
+         <dct:creator>Piebiep Goufo</dct:creator>
+         <dct:creator>Isabel Cortez</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Grapevine trunk diseases</rdf:li>
+               <rdf:li>Metabolomics</rdf:li>
+               <rdf:li>Fomitiporia mediterranea</rdf:li>
+               <rdf:li>Metabolic profiling</rdf:li>
+               <rdf:li>Esca complex disease</rdf:li>
+               <rdf:li>Phaeomoniella chlamydospora</rdf:li>
+               <rdf:li>Phaeoacremonium minimun</rdf:li>
+               <rdf:li>Disease progression</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107623</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107623</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107623</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107623</dct:identifier>
+         <bam:articleNumber>107623</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-19T19:53:15Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Portugal Institutes</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107623</ja:aid>
+         <ce:article-number>107623</ce:article-number>
+         <ce:pii>S2352-3409(21)00898-2</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107623</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Metabolite profile data of grapevine plants with brown wood streaking and grapevine leaf stripe (esca complex disease) symptoms</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008982-80c384ea836b4bf84dc2cdb5f88d3e8d"
+                       orcid="0000-0002-9242-5297">
+               <ce:given-name>Piebiep</ce:given-name>
+               <ce:surname>Goufo</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:pgoufo@utad.pt">pgoufo@utad.pt</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008982-e9f0ddfd131eb79ae88b8a5668657c43"
+                       orcid="0000-0003-0512-2296">
+               <ce:given-name>Isabel</ce:given-name>
+               <ce:surname>Cortez</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008982-13b611da21e69432698782d6b0b62022">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Centre for the Research and Technology of Agro-Environment and Biological Sciences, Universidade de Trás-os-Montes e Alto Douro, Quinta de Prados, Vila Real 5000-801, Portugal</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Centre for the Research and Technology of Agro-Environment and Biological Sciences</sa:organization>
+                  <sa:organization>Universidade de Trás-os-Montes e Alto Douro</sa:organization>
+                  <sa:organization>Quinta de Prados</sa:organization>
+                  <sa:city>Vila Real</sa:city>
+                  <sa:postal-code>5000-801</sa:postal-code>
+                  <sa:country>Portugal</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aCentre for the Research and Technology of Agro-Environment and Biological Sciences, Universidade de Trás-os-Montes e Alto Douro, Quinta de Prados, Vila Real 5000-801, Portugal</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008982-f4042f01cd8842a351ca6c04282196e3">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Departamento de Agronomia, Universidade de Trás-os-Montes e Alto Douro, Quinta de Prados, Vila Real 5000-801, Portugal</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Departamento de Agronomia</sa:organization>
+                  <sa:organization>Universidade de Trás-os-Montes e Alto Douro</sa:organization>
+                  <sa:organization>Quinta de Prados</sa:organization>
+                  <sa:city>Vila Real</sa:city>
+                  <sa:postal-code>5000-801</sa:postal-code>
+                  <sa:country>Portugal</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartamento de Agronomia, Universidade de Trás-os-Montes e Alto Douro, Quinta de Prados, Vila Real 5000-801, Portugal</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Centre for the Research and Technology of Agro-Environment and Biological Sciences, Universidade de Trás-os-Montes e Alto Douro, Quinta de Prados, Vila Real 5000-801, Portugal.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Centre for the Research and Technology of Agro-Environment and Biological Sciences</sa:organization>
+                  <sa:organization>Universidade de Trás-os-Montes e Alto Douro</sa:organization>
+                  <sa:organization>Quinta de Prados</sa:organization>
+                  <sa:city>Vila Real</sa:city>
+                  <sa:postal-code>5000-801</sa:postal-code>
+                  <sa:country>Portugal</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="31" month="8" year="2021"/>
+         <ce:date-revised day="1" month="11" year="2021"/>
+         <ce:date-accepted day="18" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara004" view="all">Leaf samples were obtained from <ce:italic>Vitis vinifera</ce:italic> ‘Malvasia Fina’ plants with well-characterized esca complex disease symptoms (<ce:italic>n</ce:italic> = 18) and from healthy uninfected plants (<ce:italic>n</ce:italic> = 6). Leaves from diseased plants were divided into three groups: asymptomatic (ASY), chlorotic (SY1), and scorched leaves (SY2). The metabolic profile of these leaves was then examined using an ultrahigh performance liquid chromatography system coupled to a Q-Exactive Hybrid Quadrupole-Orbitrap high resolution/accurate mass spectrometer interfaced with a heated electrospray ionization source. The number of small molecules measured in a sample was increased by varying the reconstitution solvent, chromatographic column, and ionization source. Data on accurate masses, peak areas, and relative levels of several metabolites were documented for each leaf sample, using the abovementioned approach. In this paper, data on 235 metabolites of known structural identity are reported, along with the biochemical pathways to which the metabolites belong. The remaining data related to lipid species and with a different focus of the research question are reported elsewhere. The broad coverage of metabolites reported here resulted in a greater coverage of the biochemical pathways involved in grapevine metabolism, which could provide a better understanding of the biochemical changes occurring during the onset and progression of foliar symptoms after invasion of woods by esca-associated pathogens. To determine which metabolites varied according to the study design, the detected ion features were processed using different statistical methods, including mean and median values, fold changes, Welch's two-sample t-test, false discovery rate, and quartiles represented by box and whisker plots. The goal of this statistical evaluation was to assess the responses of healthy, asymptomatic, and symptomatic leaf groups using a pairwise comparison, thus providing an opportunity for detecting statistically significant compounds and uncovering the dynamic metabolic models underlying disease latency and symptom expression.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Grapevine trunk diseases</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Metabolomics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">
+                  <ce:italic>Fomitiporia mediterranea</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Metabolic profiling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Esca complex disease</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">
+                  <ce:italic>Phaeomoniella chlamydospora</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">
+                  <ce:italic>Phaeoacremonium minimun</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Disease progression</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0002" class="abr" view="all">
+            <ce:section-title id="cesectitle0003">Abbreviations</ce:section-title>
+            <ce:keyword id="key0009">
+               <ce:text id="cetext0010">ASY</ce:text>
+               <ce:keyword id="key10a">
+                  <ce:text id="cetext10a">asymptomatic leaves</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0010">
+               <ce:text id="cetext0011">SY1</ce:text>
+               <ce:keyword id="key11a">
+                  <ce:text id="cetext11a">chlorotic leaves</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011">
+               <ce:text id="cetext0012">CTL</ce:text>
+               <ce:keyword id="key12a">
+                  <ce:text id="cetext12a">healthy control vines</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0012">
+               <ce:text id="cetext0013">SY2</ce:text>
+               <ce:keyword id="key13a">
+                  <ce:text id="cetext13a">scorched and spotted leaves</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0013">
+               <ce:text id="cetext0014">UHPLC</ce:text>
+               <ce:keyword id="key14a">
+                  <ce:text id="cetext14a">ultrahigh performance liquid chromatography</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0014">
+               <ce:text id="cetext0015">HRaMS</ce:text>
+               <ce:keyword id="key15a">
+                  <ce:text id="cetext15a">high resolution/accurate mass spectrometer</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0015">
+               <ce:text id="cetext0016">HESI-II</ce:text>
+               <ce:keyword id="key16a">
+                  <ce:text id="cetext16a">heated electrospray ionization source</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0016">
+               <ce:text id="cetext0017">LIMS</ce:text>
+               <ce:keyword id="key17a">
+                  <ce:text id="cetext17a">Metabolon's laboratory information management system</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0017">
+               <ce:text id="cetext0018">RSDs</ce:text>
+               <ce:keyword id="key18a">
+                  <ce:text id="cetext18a">relative standard deviations</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

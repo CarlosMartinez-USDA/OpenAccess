@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107628">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset allowing for the identification of three new synthetic cannabimimetics featuring a norbornyl methyl side chain by spectrometric and spectroscopic techniques</dct:title>
+         <dct:creator>Benedikt Pulver</dct:creator>
+         <dct:creator>Jan Riedel</dct:creator>
+         <dct:creator>Torsten Schönberger</dct:creator>
+         <dct:creator>Michael Pütz</dct:creator>
+         <dct:creator>Jan Schäper</dct:creator>
+         <dct:creator>Natalie Kunert</dct:creator>
+         <dct:creator>Klaus Putzer</dct:creator>
+         <dct:creator>Gunter Hermann</dct:creator>
+         <dct:creator>Volker Auwärter</dct:creator>
+         <dct:creator>Folker Westphal</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Synthetic cannabinoid</rdf:li>
+               <rdf:li>NPS</rdf:li>
+               <rdf:li>Structure elucidation</rdf:li>
+               <rdf:li>Legislation</rdf:li>
+               <rdf:li>Norbornyl methyl side chain</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107628</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107628</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107628</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107628</dct:identifier>
+         <bam:articleNumber>107628</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-20T11:28:53Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107628</ja:aid>
+         <ce:article-number>107628</ce:article-number>
+         <ce:pii>S2352-3409(21)00903-3</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107628</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S2468-1709(21)00067-9</ce:pii>
+               <ce:doi>10.1016/j.forc.2021.100371</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset allowing for the identification of three new synthetic cannabimimetics featuring a norbornyl methyl side chain by spectrometric and spectroscopic techniques</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009033-9cc92ec01ba8b57992d523ce130c7422"
+                       orcid="0000-0002-7772-2111">
+               <ce:given-name>Benedikt</ce:given-name>
+               <ce:surname>Pulver</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009033-cd97fe9b78a3a03ece8bebafc9472ae9">
+               <ce:given-name>Jan</ce:given-name>
+               <ce:surname>Riedel</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009033-f21c1d91767e465814073d0fa22be163"
+                       orcid="0000-0001-8958-5292">
+               <ce:given-name>Torsten</ce:given-name>
+               <ce:surname>Schönberger</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009033-0bdb452ccb3d3d9c1603cb9fd216e4aa"
+                       orcid="0000-0001-6601-6804">
+               <ce:given-name>Michael</ce:given-name>
+               <ce:surname>Pütz</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921009033-f6a7828f2916f4154478179425aa7ca5">
+               <ce:given-name>Jan</ce:given-name>
+               <ce:surname>Schäper</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921009033-622209bbd078359742f2166ff57f82ba">
+               <ce:given-name>Natalie</ce:given-name>
+               <ce:surname>Kunert</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921009033-a02653bd25fcc3d5f3b687068fb7343b">
+               <ce:given-name>Klaus</ce:given-name>
+               <ce:surname>Putzer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:cross-ref refid="aff0007">
+                  <ce:sup loc="post">g</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921009033-2b523ce1023f2566c2acfd90aaf32a24">
+               <ce:given-name>Gunter</ce:given-name>
+               <ce:surname>Hermann</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:cross-ref refid="aff0008">
+                  <ce:sup loc="post">h</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921009033-d28f679bc082c71e54b9a0979c1b8e3c"
+                       orcid="0000-0002-1883-2804">
+               <ce:given-name>Volker</ce:given-name>
+               <ce:surname>Auwärter</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2352340921009033-1461bf2b8e07625da2076277b4edcf34">
+               <ce:given-name>Folker</ce:given-name>
+               <ce:surname>Westphal</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:Folker.Dr.Westphal@polizei.landsh.de">Folker.Dr.Westphal@polizei.landsh.de</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009033-aa4000706043aeecd3d1cb31364c47a3">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Institute of Forensic Medicine, Forensic Toxicology, Medical Center – University of Freiburg, Faculty of Medicine, University of Freiburg, Albertstr. 9, Freiburg 79104, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Forensic Medicine</sa:organization>
+                  <sa:organization>Forensic Toxicology</sa:organization>
+                  <sa:organization>Medical Center – University of Freiburg</sa:organization>
+                  <sa:organization>Faculty of Medicine</sa:organization>
+                  <sa:organization>University of Freiburg</sa:organization>
+                  <sa:address-line>Albertstr. 9</sa:address-line>
+                  <sa:city>Freiburg</sa:city>
+                  <sa:postal-code>79104</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aInstitute of Forensic Medicine, Forensic Toxicology, Medical Center – University of Freiburg, Faculty of Medicine, University of Freiburg, Albertstr. 9, Freiburg 79104, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009033-909c57740e3ea0a632a0a2470d52c41b">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Hermann Staudinger Graduate School, University of Freiburg, Hebelstr. 27, 79104 Freiburg, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Hermann Staudinger Graduate School</sa:organization>
+                  <sa:organization>University of Freiburg</sa:organization>
+                  <sa:address-line>Hebelstr. 27</sa:address-line>
+                  <sa:city>Freiburg</sa:city>
+                  <sa:postal-code>79104</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bHermann Staudinger Graduate School, University of Freiburg, Hebelstr. 27, 79104 Freiburg, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921009033-840028b7c675dc97f4e0b9b9d7a82116">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">State Bureau of Criminal Investigation Schleswig-Holstein, Forensic Science Institute, Mühlenweg 166, Kiel 24116, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>State Bureau of Criminal Investigation Schleswig-Holstein</sa:organization>
+                  <sa:organization>Forensic Science Institute</sa:organization>
+                  <sa:address-line>Mühlenweg 166</sa:address-line>
+                  <sa:city>Kiel</sa:city>
+                  <sa:postal-code>24116</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cState Bureau of Criminal Investigation Schleswig-Holstein, Forensic Science Institute, Mühlenweg 166, Kiel 24116, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921009033-6364b4d703812dc4cf333cdfe9d8ba4b">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Federal Criminal Police Office, Forensic Science Institute, Äppelallee 45, Wiesbaden 65203, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Federal Criminal Police Office</sa:organization>
+                  <sa:organization>Forensic Science Institute</sa:organization>
+                  <sa:address-line>Äppelallee 45</sa:address-line>
+                  <sa:city>Wiesbaden</sa:city>
+                  <sa:postal-code>65203</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dFederal Criminal Police Office, Forensic Science Institute, Äppelallee 45, Wiesbaden 65203, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921009033-48b33bbb54007f3bd5530f7d213912b5">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Bavarian State Criminal Police Office, Forensic Science Institute, Maillingerstr. 15, München 80636, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Bavarian State Criminal Police Office</sa:organization>
+                  <sa:organization>Forensic Science Institute</sa:organization>
+                  <sa:address-line>Maillingerstr. 15</sa:address-line>
+                  <sa:city>München</sa:city>
+                  <sa:postal-code>80636</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eBavarian State Criminal Police Office, Forensic Science Institute, Maillingerstr. 15, München 80636, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2352340921009033-556c6c8b8c945388c26ee2ff9e12549a">
+               <ce:label>f</ce:label>
+               <ce:textfn id="cetextfn0006">German Customs, Direction IX, Educational and Scientific Center, Lilienthalstraße 3, Markt Schwaben 85570, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>German Customs</sa:organization>
+                  <sa:organization>Direction IX</sa:organization>
+                  <sa:organization>Educational and Scientific Center</sa:organization>
+                  <sa:address-line>Lilienthalstraße 3</sa:address-line>
+                  <sa:city>Markt Schwaben</sa:city>
+                  <sa:postal-code>85570</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0006">fGerman Customs, Direction IX, Educational and Scientific Center, Lilienthalstraße 3, Markt Schwaben 85570, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0007"
+                            affiliation-id="S2352340921009033-d75389178143f5657f2ecb6545d2c49a">
+               <ce:label>g</ce:label>
+               <ce:textfn id="cetextfn0007">Douane Laboratorium, Kingsfordweg 1, Amsterdam 1043 GN, the Netherland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Douane Laboratorium</sa:organization>
+                  <sa:address-line>Kingsfordweg 1</sa:address-line>
+                  <sa:city>Amsterdam</sa:city>
+                  <sa:postal-code>1043 GN</sa:postal-code>
+                  <sa:country>the Netherland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0007">gDouane Laboratorium, Kingsfordweg 1, Amsterdam 1043 GN, the Netherland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0008"
+                            affiliation-id="S2352340921009033-07d24eb011f4032313d79d1f066482e3">
+               <ce:label>h</ce:label>
+               <ce:textfn id="cetextfn0008">QoD Technologies GmbH, c/o Freie Universität Berlin, Altensteinstr. 40, 14195 Berlin, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>QoD Technologies GmbH</sa:organization>
+                  <sa:organization>c/o Freie Universität Berlin</sa:organization>
+                  <sa:address-line>Altensteinstr. 40</sa:address-line>
+                  <sa:city>Berlin</sa:city>
+                  <sa:postal-code>14195</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0008">hQoD Technologies GmbH, c/o Freie Universität Berlin, Altensteinstr. 40, 14195 Berlin, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="8" month="10" year="2021"/>
+         <ce:date-revised day="18" month="11" year="2021"/>
+         <ce:date-accepted day="19" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">Synthetic cannabimimetics (SC) are a diverse group of new psychoactive substances with varying potency and harm potential. New SCs appear on the drug market every year, and reliable and correct identification of these new derivatives independent from the matrix relies on the availability of verified spectra. Three new synthetic cannabimimetics featuring a norbornyl methyl side chain and varying core structure elements were identified in different seizures and forms. Cumyl-BC[2.2.1]HpMeGaClone and Cumyl-BC[2.2.1]HpMINACA were laced onto herbal blends, whereas Cumyl-BC[2.2.1]HpMICA was seized as a pure solid powder. The data collection process involves a comprehensive set of orthogonal analytical techniques allowing for the unambiguous identification of the respective endo- and exo-isomers.</ce:simple-para>
+               <ce:simple-para id="spara007" view="all">Furthermore, the diversity of analytical techniques allows a greater number of laboratories working in the field of forensic chemistry to confidently identify the substances described in our original research article [1]. Structure elucidation and analytical characterisation were performed within the EU-project ADEBAR <ce:italic>plus</ce:italic> using gas chromatography-mass spectrometry (GC-MS), gas chromatography-solid state infrared spectroscopy (GC-sIR), as well as solid and neat IR spectroscopy, Raman spectroscopy, liquid chromatography-electrospray ionisation-mass spectrometry (LC-ESI-MS), and high resolution (HR)-LC-ESI-MS, and nuclear magnetic resonance (NMR) spectroscopy. The raw analytical data files are included in the Mendeley repository alongside the individual spectra in a universally importable format. The use of the universal JCAMP format for storage of the spectra facilitates database maintenance and enables seamless integration of the verified spectra. Thus, the dataset enables other researchers worldwide to identify these three new SCs confidently.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Synthetic cannabinoid</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">NPS</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Structure elucidation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Legislation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Norbornyl methyl side chain</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

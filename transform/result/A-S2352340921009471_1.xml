@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107672">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Pillar 3–Pre-processed web server log file dataset of the banking institution</dct:title>
+         <dct:creator>Michal Munk</dct:creator>
+         <dct:creator>Anna Pilkova</dct:creator>
+         <dct:creator>Ľubomír Benko</dct:creator>
+         <dct:creator>Petra Blazekova</dct:creator>
+         <dct:creator>Peter Svec</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Pillar 3</rdf:li>
+               <rdf:li>Basel II</rdf:li>
+               <rdf:li>Web usage mining</rdf:li>
+               <rdf:li>Data modeling</rdf:li>
+               <rdf:li>Multinomial Logit model</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107672</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107672</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107672</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107672</dct:identifier>
+         <bam:articleNumber>107672</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-01T16:00:09Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107672</ja:aid>
+         <ce:article-number>107672</ce:article-number>
+         <ce:pii>S2352-3409(21)00947-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107672</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0957-4174(21)00913-1</ce:pii>
+               <ce:doi>10.1016/j.eswa.2021.115503</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Pillar 3–Pre-processed web server log file dataset of the banking institution</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009471-07776ff4338eff26d7b6b9d1e622a00b"
+                       orcid="0000-0002-9913-3596">
+               <ce:given-name>Michal</ce:given-name>
+               <ce:surname>Munk</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009471-535b048b22f25dceb0cf15ea01828a1b"
+                       orcid="0000-0002-4296-4823">
+               <ce:given-name>Anna</ce:given-name>
+               <ce:surname>Pilkova</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009471-42c1b6631d98326bcb92664e0992e6d3">
+               <ce:given-name>Ľubomír</ce:given-name>
+               <ce:surname>Benko</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:lbenko@ukf.sk">lbenko@ukf.sk</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009471-1cbff7a4e146e228b8fcffdace152477">
+               <ce:given-name>Petra</ce:given-name>
+               <ce:surname>Blazekova</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921009471-d8d04a02b350b5ae41dd7517948e7866"
+                       orcid="0000-0002-1713-6444">
+               <ce:given-name>Peter</ce:given-name>
+               <ce:surname>Svec</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009471-a0857b96e9340f0a62812b5a73ce9071">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Constantine the Philosopher University in Nitra, Slovakia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Constantine the Philosopher University in Nitra</sa:organization>
+                  <sa:country>Slovakia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aConstantine the Philosopher University in Nitra, Slovakia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009471-e3ea9c97a86304eb71e503b769e4aa74">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Comenius University in Bratislava, Slovakia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Comenius University in Bratislava</sa:organization>
+                  <sa:country>Slovakia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bComenius University in Bratislava, Slovakia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="13" month="7" year="2021"/>
+         <ce:date-revised day="29" month="11" year="2021"/>
+         <ce:date-accepted day="30" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">The dataset presented in this article represents the pre-processed web server log file of the commercial bank. The source of data is the web server of the bank and keeps access of web users starting the year 2009 till 2012. It contains accesses to the bank website during and after the financial crisis. Unnecessary data saved by the web server was removed to keep the focus only on the textual content of the website. Many variables were added to the original log file to make the analysis workable. To keep the privacy of website users, sensitive information in the log file were anonymized. The dataset offers a way to understand the behavior of stakeholders during and after the crisis and how they comply with the Basel regulations. The behavior of users can be modeled using the multinomial logit model, which is in detail described in the research article [1] related to this data article.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Pillar 3</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Basel II</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Web usage mining</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Data modeling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Multinomial Logit model</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

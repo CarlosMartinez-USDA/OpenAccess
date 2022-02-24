@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Effect of quercetin on lipid membrane rigidity: assessment by atomic force microscopy and molecular dynamics simulations</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jad</namePart>
+      <namePart type="family">Eid</namePart>
+      <displayForm>Eid, Jad</displayForm>
+      <affiliation>Bioactive Molecules Research Laboratory, Doctoral School of Sciences and Technologies, Faculty of Sciences, Lebanese University, Lebanon</affiliation>
+      <affiliation>Molecular Microbiology and Structural Biochemistry (MMSB), CNRS &amp; Univ. Claude Bernard Lyon I, UMR 5086, Lyon F-69007, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alia</namePart>
+      <namePart type="family">Jraij</namePart>
+      <displayForm>Jraij, Alia</displayForm>
+      <affiliation>Bioactive Molecules Research Laboratory, Doctoral School of Sciences and Technologies, Faculty of Sciences, Lebanese University, Lebanon</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hélène</namePart>
+      <namePart type="family">Greige-Gerges</namePart>
+      <displayForm>Greige-Gerges, Hélène</displayForm>
+      <affiliation>Bioactive Molecules Research Laboratory, Doctoral School of Sciences and Technologies, Faculty of Sciences, Lebanese University, Lebanon</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Luca</namePart>
+      <namePart type="family">Monticelli</namePart>
+      <displayForm>Monticelli, Luca</displayForm>
+      <affiliation>Molecular Microbiology and Structural Biochemistry (MMSB), CNRS &amp; Univ. Claude Bernard Lyon I, UMR 5086, Lyon F-69007, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Quercetin (3,3ʹ,4ʹ,5,7-pentahydroxyl-flavone) is a natural flavonoid with many valuable biological effects, but its solubility in water is low, posing major limitations in applications. Quercetin encapsulation in liposomes increases its bioavailability; the drug effect on liposome elastic properties is required for formulation development. Here, we quantify the effect of quercetin molecules on the rigidity of lipoid E80 liposomes using atomic force microscopy (AFM) and molecular dynamics (MD) simulations. AFM images show no effect of quercetin molecules on liposomes morphology and structure. However, AFM force curves suggest that quercetin softens lipid membranes; the Young modulus measured for liposomes encapsulating quercetin is smaller than that determined for blank liposomes. We then used MD simulations to interpret the effect of quercetin on membrane rigidity in terms of molecular interactions. The decrease in membrane rigidity was confirmed by the simulations, which also revealed that quercetin affects structural and dynamic properties: membrane thickness is decreased, acyl chains disorder is increased, and diffusion coefficients of lipid molecules are also increased. Such changes appear to be related to the preferential localization of quercetin within the membrane, near the interface between the hydrophobic core and polar head groups of the lipids. </abstract>
+   <subject>
+      <topic>Quercetin</topic>
+   </subject>
+   <subject>
+      <topic>Lipoid E80</topic>
+   </subject>
+   <subject>
+      <topic>Young modulus</topic>
+   </subject>
+   <subject>
+      <topic>Area compressibility modulus</topic>
+   </subject>
+   <subject>
+      <topic>Molecular dynamics</topic>
+   </subject>
+   <subject>
+      <topic>AFM</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100018</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100018</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100018</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00017-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-06-19"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S266716032100017X/S266716032100017X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107594">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data of characterization of sodium pectate complexes with iron and manganese</dct:title>
+         <dct:creator>Kirill Kholin</dct:creator>
+         <dct:creator>Guliya Nizameeva</dct:creator>
+         <dct:creator>Salima Minzanova</dct:creator>
+         <dct:creator>Marsil Kadirov</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Fourier-transform infrared spectroscopy</rdf:li>
+               <rdf:li>Electron spin resonance</rdf:li>
+               <rdf:li>Electrochemistry</rdf:li>
+               <rdf:li>Atomic force microscopy</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107594</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107594</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107594</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107594</dct:identifier>
+         <bam:articleNumber>107594</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-16T15:25:50Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107594</ja:aid>
+         <ce:article-number>107594</ce:article-number>
+         <ce:pii>S2352-3409(21)00869-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107594</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data of characterization of sodium pectate complexes with iron and manganese</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008696-6859d853f75112dafb81263a8d4318c2"
+                       orcid="0000-0003-2551-5505">
+               <ce:given-name>Kirill</ce:given-name>
+               <ce:surname>Kholin</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:kholin06@mail.ru">kholin06@mail.ru</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008696-08d9de84e25fd532d6d9f331bc5b61b6">
+               <ce:given-name>Guliya</ce:given-name>
+               <ce:surname>Nizameeva</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008696-0a306add8b43158b9aac7c427a43030b">
+               <ce:given-name>Salima</ce:given-name>
+               <ce:surname>Minzanova</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008696-6cda8a00695bf8f16983c2eab9bb54cc"
+                       orcid="0000-0003-1625-1720">
+               <ce:given-name>Marsil</ce:given-name>
+               <ce:surname>Kadirov</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008696-9a39365a69f37590227043e9c9326625">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">FRC Kazan Scientific Center, Arbuzov Institute of Organic and Physical Chemistry, Russian Academy of Sciences, Kazan 420088, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>FRC Kazan Scientific Center</sa:organization>
+                  <sa:organization>Arbuzov Institute of Organic and Physical Chemistry</sa:organization>
+                  <sa:organization>Russian Academy of Sciences</sa:organization>
+                  <sa:city>Kazan</sa:city>
+                  <sa:postal-code>420088</sa:postal-code>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aFRC Kazan Scientific Center, Arbuzov Institute of Organic and Physical Chemistry, Russian Academy of Sciences, Kazan 420088, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008696-c044462c68f97f3ac3f7df704dea10b0">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Kazan National Research Technological University, Kazan 420015, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Kazan National Research Technological University</sa:organization>
+                  <sa:city>Kazan</sa:city>
+                  <sa:postal-code>420015</sa:postal-code>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bKazan National Research Technological University, Kazan 420015, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Arbuzov Institute of Organic and Physical Chemistry, FRC Kazan Scientific Center, Russian Academy of Sciences, Kazan 420088, Russia.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Arbuzov Institute of Organic and Physical Chemistry</sa:organization>
+                  <sa:organization>FRC Kazan Scientific Center</sa:organization>
+                  <sa:organization>Russian Academy of Sciences</sa:organization>
+                  <sa:city>Kazan</sa:city>
+                  <sa:postal-code>420088</sa:postal-code>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="20" month="8" year="2021"/>
+         <ce:date-revised day="1" month="11" year="2021"/>
+         <ce:date-accepted day="15" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">Data for iron and manganese-containing sodium pectate complexes are reported. Such complexes are potentially capable of exhibiting catalytic properties to the electroreduction of small molecules. Also, the complexes are water-soluble due to their ligands. The combination of these factors makes them promising for homogeneous electrocatalysis. However, in many respects, these complexes remain poorly understood. The Fourier-transform infrared spectroscopy data for the sodium pectate complexes with manganese and iron in the range of 500–4000 cm<ce:sup loc="post">−1</ce:sup> were obtained. The electron spin resonance spectra of the complexes make it possible to characterize oxidation states of the metal centers in the complexes. The cyclic voltammetry data for the complexes both in an aqueous solution saturated with argon and saturated with carbon dioxide were received. For both complexes after deposition of the complexes on graphite managed to get micrographs by the atomic force microscopy method.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Fourier-transform infrared spectroscopy</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Electron spin resonance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Electrochemistry</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Atomic force microscopy</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

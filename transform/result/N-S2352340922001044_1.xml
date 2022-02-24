@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Updating a dataset of labelled objects on raw video sequences with unique object IDs</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Takehiro</namePart>
+      <namePart type="family">Tanaka</namePart>
+      <displayForm>Tanaka, Takehiro</displayForm>
+      <affiliation>School of Engineering Science, Simon Fraser University, 8888 University Drive, Burnaby, BC V5A 1S6, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hyomin</namePart>
+      <namePart type="family">Choi</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2458-893X</nameIdentifier>
+      <displayForm>Choi, Hyomin</displayForm>
+      <affiliation>School of Engineering Science, Simon Fraser University, 8888 University Drive, Burnaby, BC V5A 1S6, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ivan V.</namePart>
+      <namePart type="family">Bajić</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3154-5743</nameIdentifier>
+      <displayForm>Bajić, Ivan V.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-25</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We present an update to the previously published dataset known as SFU-HW-Objects-v1. The new dataset is called SFU-HW-Tracks-v1 and contains object annotations with unique object identities (IDs) for the High Efficiency Video Coding (HEVC) v1 Common Test Conditions (CTC) sequences. For each video frame, ground truth annotations include object class ID, object ID, and bounding box location and its dimensions. The dataset can be used to evaluate object tracking performance on uncompressed video sequences and study the relationship between video compression and object tracking, which was not possible using SFU-HW-Objects-v1. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Object tracking</topic>
+   </subject>
+   <subject>
+      <topic>video coding</topic>
+   </subject>
+   <subject>
+      <topic>video compression</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">25</text>
+         <extent unit="pages">
+            <start>107892</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107892</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107892</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00104-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-27"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001044/S2352340922001044.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

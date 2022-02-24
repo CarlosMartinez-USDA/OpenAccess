@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Screening of Phytochemicals as Potential Inhibitors of Breast Cancer using Structure Based Multitargeted Molecular Docking Analysis</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Vikas</namePart>
+      <namePart type="family">Jha</namePart>
+      <displayForm>Jha, Vikas</displayForm>
+      <affiliation>National Facility for Biopharmaceuticals, G. N. Khalsa College, Matunga, Mumbai, Maharashtra, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sakshi</namePart>
+      <namePart type="family">Devkar</namePart>
+      <displayForm>Devkar, Sakshi</displayForm>
+      <affiliation>Department of Biotechnology, Kishinchand Chellaram College Vidyasagar, Mumbai, Maharashtra 400020, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kunal</namePart>
+      <namePart type="family">Gharat</namePart>
+      <displayForm>Gharat, Kunal</displayForm>
+      <affiliation>National Facility for Biopharmaceuticals, G. N. Khalsa College, Matunga, Mumbai, Maharashtra, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sankalp</namePart>
+      <namePart type="family">Kasbe</namePart>
+      <displayForm>Kasbe, Sankalp</displayForm>
+      <affiliation>Department of Five Years Integrated Course in Bioanalytical Sciences, GNIRD, Guru Nanak Khalsa College, Matunga, Mumbai 19, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Darpan Kaur</namePart>
+      <namePart type="family">Matharoo</namePart>
+      <displayForm>Matharoo, Darpan Kaur</displayForm>
+      <affiliation>Department of Five Years Integrated Course in Bioanalytical Sciences, GNIRD, Guru Nanak Khalsa College, Matunga, Mumbai 19, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shalmali</namePart>
+      <namePart type="family">Pendse</namePart>
+      <displayForm>Pendse, Shalmali</displayForm>
+      <affiliation>National Facility for Biopharmaceuticals, G. N. Khalsa College, Matunga, Mumbai, Maharashtra, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anjali</namePart>
+      <namePart type="family">Bhosale</namePart>
+      <displayForm>Bhosale, Anjali</displayForm>
+      <affiliation>National Facility for Biopharmaceuticals, G. N. Khalsa College, Matunga, Mumbai, Maharashtra, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Agraj</namePart>
+      <namePart type="family">Bhargava</namePart>
+      <displayForm>Bhargava, Agraj</displayForm>
+      <affiliation>National Facility for Biopharmaceuticals, G. N. Khalsa College, Matunga, Mumbai, Maharashtra, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>: Breast cancer being one of the most common cancers in women all around the world is a dominant cause of deaths occurring all around the globe. The available potent drugs for breast cancer show adverse effects and are found ineffective in patients. Furthermore, this acquired resistance that is vulnerable to cancer-related mutations and the resistance due to minor heterogeneous subpopulation may improve the treatment's inefficiency. This study aims to find suitable and effective bioactive compounds by screening numerous phytochemical molecules using a bioinformatic approach to develop an effective treatment for breast cancer. : In this study, the proteins that play a crucial role in breast cancer were used. The phytochemicals with known anticancer properties were scrutinized based on pathophysiological relevance, pharmacokinetic characteristics, and drug-like properties using the SwissADME web server. These phytochemicals were filtered through the process of docking, and the top five ligands for each protein were selected. Further, these shortlisted molecules' bioavailability and toxicity profiles were assessed using SwissADME and ADMETlab 2.0 web server, respectively. : The six target receptors such as CTLA4, CDK8, EGFR, mTOR, p53R2 and PR were identified using a bibliographic study. Further, the screening of 68 phytochemicals resulted in 38 molecules that satisfied the Lipinski rule. Owing to the binding affinity scores of 38 molecules, the top 5 molecules with each receptor were chosen, resulting in the top 10 drug candidates. Out of these ten, only five molecules, such as Ursolic acid, Enterolactone, Parthenolide, Berberine, and its derivative Berberastine, were safe and non-toxic. : The screening of numerous phytochemicals against pivotal breast cancer target proteins led to the five most promising therapeutic candidates. We believe these findings will aid in the development of traditional medicine-based therapy methods and the identification of viable hits for future lead optimization in breast cancer medication development. </abstract>
+   <subject>
+      <topic>Breast Cancer</topic>
+   </subject>
+   <subject>
+      <topic>Bioavailability</topic>
+   </subject>
+   <subject>
+      <topic>In Silico</topic>
+   </subject>
+   <subject>
+      <topic>Multiple Targets</topic>
+   </subject>
+   <subject>
+      <topic>Molecular Docking</topic>
+   </subject>
+   <subject>
+      <topic>Phytochemicals</topic>
+   </subject>
+   <subject>
+      <topic>Toxicity</topic>
+   </subject>
+   <subject>
+      <topic>CTLA4:</topic>
+   </subject>
+   <subject>
+      <topic>CDK8:</topic>
+   </subject>
+   <subject>
+      <topic>CASTp:</topic>
+   </subject>
+   <subject>
+      <topic>DMAPT:</topic>
+   </subject>
+   <subject>
+      <topic>EGFR:</topic>
+   </subject>
+   <subject>
+      <topic>IBC:</topic>
+   </subject>
+   <subject>
+      <topic>MCF-7:</topic>
+   </subject>
+   <subject>
+      <topic>mTOR:</topic>
+   </subject>
+   <subject>
+      <topic>p53R2:</topic>
+   </subject>
+   <subject>
+      <topic>PR:</topic>
+   </subject>
+   <subject>
+      <topic>TNBC:</topic>
+   </subject>
+   <subject>
+      <topic>TAMs:</topic>
+   </subject>
+   <subject>
+      <topic>ADME:</topic>
+   </subject>
+   <subject>
+      <topic>AMES:</topic>
+   </subject>
+   <subject>
+      <topic>GLY:</topic>
+   </subject>
+   <subject>
+      <topic>GLU:</topic>
+   </subject>
+   <subject>
+      <topic>HIS:</topic>
+   </subject>
+   <subject>
+      <topic>ASP:</topic>
+   </subject>
+   <subject>
+      <topic>PHE:</topic>
+   </subject>
+   <subject>
+      <topic>VAL:</topic>
+   </subject>
+   <subject>
+      <topic>ASN:</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Phytomedicine Plus</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-0313</identifier>
+      <part>
+         <detail type="volume">
+            <number>2</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="display-date">May 2022</text>
+         <text type="year">2022</text>
+         <text type="month">May</text>
+         <extent unit="pages">
+            <start>100227</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.phyplu.2022.100227</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.phyplu.2022.100227</url>
+   </location>
+   <identifier type="pii">S2667-0313(22)00013-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-26"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2667-0313/S2667031322X0002X/S2667031322000136/S2667031322000136.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107525">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset to evaluate the geology, metamorphic conditions and pseudosection modeling of the Luswishi Dome, Copperbelt, Zambia</dct:title>
+         <dct:creator>Kabang'u G. Sakuwaha</dct:creator>
+         <dct:creator>Toru Takeshita</dct:creator>
+         <dct:creator>Ahmed H. Ahmed</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Lufilian Arc</rdf:li>
+               <rdf:li>Luswishi Dome</rdf:li>
+               <rdf:li>Copperbelt</rdf:li>
+               <rdf:li>Zambia</rdf:li>
+               <rdf:li>Geothermobarometry</rdf:li>
+               <rdf:li>Pseudosection</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107525</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107525</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107525</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107525</dct:identifier>
+         <bam:articleNumber>107525</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-26T18:05:31Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107525</ja:aid>
+         <ce:article-number>107525</ce:article-number>
+         <ce:pii>S2352-3409(21)00801-5</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107525</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1464-343X(21)00250-8</ce:pii>
+               <ce:doi>10.1016/j.jafrearsci.2021.104349</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset to evaluate the geology, metamorphic conditions and pseudosection modeling of the Luswishi Dome, Copperbelt, Zambia</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008015-ecb97ab0fa2840e98b6c4644e501b9e1"
+                       orcid="0000-0002-1972-0089">
+               <ce:given-name>Kabang'u G.</ce:given-name>
+               <ce:surname>Sakuwaha</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:kabangu_sakuwaha@geol.tsukuba.ac.jp">kabangu_sakuwaha@geol.tsukuba.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008015-16437b99b3d29fd3ea65321d153787a1">
+               <ce:given-name>Toru</ce:given-name>
+               <ce:surname>Takeshita</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008015-6004bc08a9f9b6af6f1994dca8ce5fcd">
+               <ce:given-name>Ahmed H.</ce:given-name>
+               <ce:surname>Ahmed</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008015-c1fca4f1cdd5568bfedfd761633515c0">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Natural History Sciences, Graduate School of Science, Hokkaido University, Sapporo 060-0808, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Natural History Sciences</sa:organization>
+                  <sa:organization>Graduate School of Science</sa:organization>
+                  <sa:organization>Hokkaido University</sa:organization>
+                  <sa:city>Sapporo</sa:city>
+                  <sa:postal-code>060-0808</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Natural History Sciences, Graduate School of Science, Hokkaido University, Sapporo 060-0808, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008015-07dc6e58fca9ae4f6975ac79a636a3d8">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Geology, School of Mines, University of Zambia, P.O Box 32379, Lusaka, Zambia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Geology</sa:organization>
+                  <sa:organization>School of Mines</sa:organization>
+                  <sa:organization>University of Zambia</sa:organization>
+                  <sa:address-line>P.O Box 32379</sa:address-line>
+                  <sa:city>Lusaka</sa:city>
+                  <sa:country>Zambia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Geology, School of Mines, University of Zambia, P.O Box 32379, Lusaka, Zambia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Current address: Graduate School of Life and Environmental Sciences, University of Tsukuba, Ibaraki 305-8572, Japan.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="23" month="8" year="2021"/>
+         <ce:date-revised day="13" month="10" year="2021"/>
+         <ce:date-accepted day="25" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara002" view="all">This Data in Brief article presents methods used to acquire and process the data presented and discussed in a research paper co-submitted to the Journal of African Earth Sciences titled: “Comparative geology and metamorphic evolution of the Luswishi Dome, Copperbelt, Zambia: Implications for exploration targeting.” [1]. The dataset includes geographical coordinates, lithological logs of drill holes, rock and mineral chemistry data, and pseudosections. The dataset is hosted in the Mendeley Data repository in relevant sub-folders as supplementary data to the research paper. In order to provide spatial context for the study area map, geographical coordinates and collar information of the studied drill holes obtained from secondary sources are also provided in tabular form. Lithological logs summarize physical characteristics of lithological observations made on drill core. Rock chemistry data were obtained by fusion X-ray fluorescence<ce:bold>,</ce:bold> XRF (outsourced to the Actlabs, Canada), and mineral chemistry data were obtained by electron probe microanalyzer, EPMA, model JXA-8800R at Hokkaido University in Japan. Pseudosections were computed using Perple_X 6.8.6 software, as a function of rock compositions, temperature and pressure following the methods outlined in the online Perple_X documentation files available on the developer's website. The data maybe of potential use for improving our understanding of the geology, geochemical characteristics, and metamorphic conditions of the study area, with potential to inform further research and explorations works in the Dome's region of the Lufilian Arc.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Lufilian Arc</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001a">
+               <ce:text id="cetext0003">Luswishi Dome</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001b">
+               <ce:text id="cetext0004">Copperbelt</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001c">
+               <ce:text id="cetext0005">Zambia</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001d">
+               <ce:text id="cetext0006">Geothermobarometry</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001e">
+               <ce:text id="cetext0007">Pseudosection</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

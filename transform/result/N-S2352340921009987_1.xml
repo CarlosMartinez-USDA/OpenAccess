@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A multi-purpose dataset of Devanagari script comprising of isolated numerals and vowels</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Duddela Sai</namePart>
+      <namePart type="family">Prashanth</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4392-6810</nameIdentifier>
+      <displayForm>Prashanth, Duddela Sai</displayForm>
+      <affiliation>SCSVMV Univesity, Kanchipuram 631561, India</affiliation>
+      <affiliation>Sahyadri College of Engineering and Management, Mangaluru 575005, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">R Vasanth Kumar</namePart>
+      <namePart type="family">Mehta</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5690-3805</nameIdentifier>
+      <displayForm>Mehta, R Vasanth Kumar</displayForm>
+      <affiliation>SCSVMV Univesity, Kanchipuram 631561, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nagendra Panini</namePart>
+      <namePart type="family">Challa</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8894-6436</nameIdentifier>
+      <displayForm>Challa, Nagendra Panini</displayForm>
+      <affiliation>Shri Vishnu Engineering College for Women (A), Bhimavaram 534202, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article presents handwritten isolated characters of the Devanagari script. Devanagari script contains ten numerals, 13 vowels, and 33 consonants. Devanagari Character dataset includes 23 different characters of numerals and vowels. 2400 handwritten samples are collected for each of the numerals and 1400 for each vowel. Collected samples are digitized and pre-processed. During pre-processing, images with noise are removed. In this context, a final dataset of 38,750 images were included, where 2,250 and 1,250 samples for each numeral and vowel, respectively. The data is available in images and comma-separated-values, along with attached labels. The dataset could be used for Optical Character Recognition research and deep learning. In India, the Devanagari script is the base script on which 120+ languages are evolved; hence this dataset serves as the base for Machine Learning research in these languages. The data set is publicly available at https://data.mendeley.com/datasets/pxrnvp4yy8/2. </abstract>
+   <subject>
+      <topic>Devanagari dataset</topic>
+   </subject>
+   <subject>
+      <topic>Handwritten character</topic>
+   </subject>
+   <subject>
+      <topic>Computer vision</topic>
+   </subject>
+   <subject>
+      <topic>Machine learning</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107723</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107723</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107723</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00998-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009987/S2352340921009987.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

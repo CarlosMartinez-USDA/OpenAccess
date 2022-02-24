@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Hygrothermal simulation data of a living wall system for decentralized greywater treatment</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Hayder</namePart>
+      <namePart type="family">Alsaad</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7738-0193</nameIdentifier>
+      <displayForm>Alsaad, Hayder</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Maria</namePart>
+      <namePart type="family">Hartmann</namePart>
+      <displayForm>Hartmann, Maria</displayForm>
+      <affiliation>Department of Building Physics, Bauhaus-University Weimar, Weimar, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Conrad</namePart>
+      <namePart type="family">Voelker</namePart>
+      <displayForm>Voelker, Conrad</displayForm>
+      <affiliation>Department of Building Physics, Bauhaus-University Weimar, Weimar, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This dataset presents the numerical analysis of the heat and moisture transport through a facade equipped with a living wall system designated for greywater treatment. While such greening systems provide many environmental benefits, they involve pumping large quantities of water onto the wall assembly, which can increase the risk of moisture in the wall as well as impaired energetic performance due to increased thermal conductivity with increased moisture content in the building materials. This dataset was acquired through numerical simulation using the coupling of two simulation tools, namely Envi-Met and Delphin. This coupling was used to include the complex role the plants play in shaping the near-wall environmental parameters in the hygrothermal simulations. Four different wall assemblies were investigated, each assembly was assessed twice: with and without the living wall. The presented data include the input and output parameters of the simulations, which were presented in the co-submitted article (Alsaad et al., 2022). </abstract>
+   <subject>
+      <topic>Coupling</topic>
+   </subject>
+   <subject>
+      <topic>Envi-Met</topic>
+   </subject>
+   <subject>
+      <topic>Delphin</topic>
+   </subject>
+   <subject>
+      <topic>Heat transport</topic>
+   </subject>
+   <subject>
+      <topic>Moisture transport</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107741</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107741</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107741</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01016-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-21"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010167/S2352340921010167.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

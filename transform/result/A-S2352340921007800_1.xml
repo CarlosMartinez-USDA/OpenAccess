@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107516">
+         <dct:format>application/xml</dct:format>
+         <dct:title>RNA-Seq transcriptome data of the liver of common Pekin, Muscovy, mule and Hinny ducks fed ad libitum or overfed</dct:title>
+         <dct:creator>Frédéric Hérault</dct:creator>
+         <dct:creator>Elisabeth Baéza</dct:creator>
+         <dct:creator>Christian Diot</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Ducks</rdf:li>
+               <rdf:li>Interspecific hybrids</rdf:li>
+               <rdf:li>Liver</rdf:li>
+               <rdf:li>RNA sequencing</rdf:li>
+               <rdf:li>Overfeeding</rdf:li>
+               <rdf:li>Hepatic steatosis</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107516</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107516</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107516</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107516</dct:identifier>
+         <bam:articleNumber>107516</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-20T01:17:37Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107516</ja:aid>
+         <ce:article-number>107516</ce:article-number>
+         <ce:pii>S2352-3409(21)00780-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107516</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">RNA-Seq transcriptome data of the liver of common Pekin, Muscovy, mule and Hinny ducks fed ad libitum or overfed</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007800-338b535b918b44bce4f02832d6f3f496"
+                       orcid="0000-0001-5824-4081">
+               <ce:given-name>Frédéric</ce:given-name>
+               <ce:surname>Hérault</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007800-4ae64ecc9a9b5b44d0c2169fb92bdceb">
+               <ce:given-name>Elisabeth</ce:given-name>
+               <ce:surname>Baéza</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007800-08c56da2c8b464e76d11f94cddd1387e"
+                       orcid="0000-0001-9525-6401">
+               <ce:given-name>Christian</ce:given-name>
+               <ce:surname>Diot</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:christian.diot@inrae.fr">christian.diot@inrae.fr</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007800-9da88b4ae8c9d207fee5e498a973437c">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">PEGASE, INRAE, Institut Agro, Saint Gilles 35590, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>PEGASE</sa:organization>
+                  <sa:organization>INRAE</sa:organization>
+                  <sa:organization>Institut Agro</sa:organization>
+                  <sa:city>Saint Gilles</sa:city>
+                  <sa:postal-code>35590</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aPEGASE, INRAE, Institut Agro, Saint Gilles 35590, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007800-ce28bf41d722dd7cc5bcfe94adcf9a44">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">INRAE, Université de Tours, BOA, Nouzilly 37380, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>INRAE</sa:organization>
+                  <sa:organization>Université de Tours</sa:organization>
+                  <sa:organization>BOA</sa:organization>
+                  <sa:city>Nouzilly</sa:city>
+                  <sa:postal-code>37380</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bINRAE, Université de Tours, BOA, Nouzilly 37380, France</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="26" month="2" year="2021"/>
+         <ce:date-revised day="12" month="10" year="2021"/>
+         <ce:date-accepted day="18" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">Duck species are known to have different ability to fatty liver production in response to overfeeding and gene expression analyses can help to characterize mechanisms involved in these differences. This data article reports the sequencing of RNAs extracted from the liver of Pekin and Muscovy duck species and of their reciprocal hybrids, Mule and Hinny ducks fed <ce:italic>ad libitum</ce:italic> or overfed. Libraries were prepared by selecting polyadenylated mRNAs and RNA Sequencing (RNASeq) was performed using Illumina HiSeq2000 platform. RNASeq data presented in this article were deposited in the NCBI sequence read archive (SRA) under the accession number SRP144764 and links to these data were also indicated in the Data INRAE repository (<ce:inter-ref id="interref0001"
+                                xlink:role="http://www.elsevier.com/xml/linking-roles/research-data"
+                                xlink:href="https://doi.org/10.15454/JJZ3QQ"
+                                xlink:type="simple">https://doi.org/10.15454/JJZ3QQ</ce:inter-ref>). Transcriptome analyses of these data were published in Hérault et al. (2019) and Liu et al. (2020).</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Ducks</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Interspecific hybrids</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Liver</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">RNA sequencing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Overfeeding</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Hepatic steatosis</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

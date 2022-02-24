@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107565">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Saccadic and manual response time data on inhibition of return during and after a visual search</dct:title>
+         <dct:creator>Margit Höfler</dct:creator>
+         <dct:creator>Sebastian A. Bauch</dct:creator>
+         <dct:creator>Katrin Liebergesell</dct:creator>
+         <dct:creator>Iain D. Gilchrist</dct:creator>
+         <dct:creator>Anja Ischebeck</dct:creator>
+         <dct:creator>Christof Körner</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Visual search</rdf:li>
+               <rdf:li>Inhibition of return</rdf:li>
+               <rdf:li>Eye tracking</rdf:li>
+               <rdf:li>Saccadic responses</rdf:li>
+               <rdf:li>Manual responses</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107565</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107565</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107565</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107565</dct:identifier>
+         <bam:articleNumber>107565</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-09T08:25:06Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Austria Science Fund (FWF) 2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107565</ja:aid>
+         <ce:article-number>107565</ce:article-number>
+         <ce:pii>S2352-3409(21)00841-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107565</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0001-6918(18)30559-6</ce:pii>
+               <ce:doi>10.1016/j.actpsy.2019.04.017</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Saccadic and manual response time data on inhibition of return during and after a visual search</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008416-f44c5b18db174d1021d6158b7f522f5c"
+                       orcid="0000-0001-5871-0417">
+               <ce:given-name>Margit</ce:given-name>
+               <ce:surname>Höfler</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:margit.hoefler@donau-uni.ac.at">margit.hoefler@donau-uni.ac.at</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008416-83588b58b84b21787a3f8efbd4ef63b7"
+                       orcid="0000-0003-0413-1211">
+               <ce:given-name>Sebastian A.</ce:given-name>
+               <ce:surname>Bauch</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:sebastian.bauch@uni-graz.at">sebastian.bauch@uni-graz.at</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008416-b38a85f146477c691d879b7fcf904608">
+               <ce:given-name>Katrin</ce:given-name>
+               <ce:surname>Liebergesell</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0003"
+                             type="email"
+                             xlink:href="mailto:katrin@liebergesell.at">katrin@liebergesell.at</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008416-d90758184303aa94689a76354a02b8ae">
+               <ce:given-name>Iain D.</ce:given-name>
+               <ce:surname>Gilchrist</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0004"
+                             type="email"
+                             xlink:href="mailto:i.d.gilchrist@bristol.ac.uk">i.d.gilchrist@bristol.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008416-d92d709057a26c1fb79527032296fb50">
+               <ce:given-name>Anja</ce:given-name>
+               <ce:surname>Ischebeck</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0005"
+                             type="email"
+                             xlink:href="mailto:anja.ischebeck@uni-graz.at">anja.ischebeck@uni-graz.at</ce:e-address>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008416-026c986e2f6493feca719e9c8db8f47f">
+               <ce:given-name>Christof</ce:given-name>
+               <ce:surname>Körner</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0006"
+                             type="email"
+                             xlink:href="mailto:christof.koerner@uni-graz.at">christof.koerner@uni-graz.at</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008416-3cfa673d67fce6e8c805730b97dcaba9">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department for Clinical Neurosciences and Preventive Medicine, Danube University Krems, Austria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department for Clinical Neurosciences and Preventive Medicine</sa:organization>
+                  <sa:organization>Danube University Krems</sa:organization>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment for Clinical Neurosciences and Preventive Medicine, Danube University Krems, Austria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008416-a8a73d1323dfa7a953dcfd7f2ad96c7d">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Institute of Psychology, University of Graz, Austria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Psychology</sa:organization>
+                  <sa:organization>University of Graz</sa:organization>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bInstitute of Psychology, University of Graz, Austria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008416-6104d95d314714c311f880940aa65c26">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">School of Psychological Science, University of Bristol, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Psychological Science</sa:organization>
+                  <sa:organization>University of Bristol</sa:organization>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cSchool of Psychological Science, University of Bristol, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department for Clinical Neurosciences and Preventive Medicine, Danube University Krems, Dr. Karl-Dorrek-Straße 30, 3500 Krems, Austria.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department for Clinical Neurosciences and Preventive Medicine</sa:organization>
+                  <sa:organization>Danube University Krems</sa:organization>
+                  <sa:address-line>Dr. Karl-Dorrek-Straße 30</sa:address-line>
+                  <sa:city>Krems</sa:city>
+                  <sa:postal-code>3500</sa:postal-code>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="6" month="5" year="2021"/>
+         <ce:date-revised day="5" month="11" year="2021"/>
+         <ce:date-accepted day="8" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara002" view="all">In the present paper we present a dataset that provides data of two experiments in which we investigated the presence of Inhibition of Return (IOR) during and after a visual search. Participants either had to saccade (Experiment 1 and 2) or make a manual response (Experiment 2) to a probe during a visual search task (searching for a target letter among a set of distractors) or immediately after its completion. The data consist of the unprocessed raw data and one csv-file of the processed eye tracking data on eight (Experiment 1) and 18 (Experiment 2) participants, respectively. In total, we obtained 5,116 trials in Experiment 1 and 18,424 in Experiment 2. The data set is stored at the repository DOOR hosted by the University of Krems (<ce:inter-ref id="interref0001"
+                                xlink:href="https://door.donau-uni.ac.at/view/o:1014"
+                                xlink:type="simple">https://door.donau-uni.ac.at/view/o:1014</ce:inter-ref>). Detailed information about the experiments and the interpretation of the data can be found in the paper “Post-search IOR: Searching for inhibition of return after search” (Höfler et al., 2019) [1].</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Visual search</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Inhibition of return</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Eye tracking</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Saccadic responses</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Manual responses</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

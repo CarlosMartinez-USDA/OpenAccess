@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of five years of in situ and satellite derived chlorophyll a concentrations and its spatiotemporal variability in the Rotorua Te Arawa Lakes, New Zealand</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Eike M</namePart>
+      <namePart type="family">Schütt</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4962-9232</nameIdentifier>
+      <displayForm>Schütt, Eike M</displayForm>
+      <affiliation>Institute of Coastal Ocean Dynamics, Helmholtz-Zentrum Hereon, Max-Planck-Straße 1, Geesthacht 21502, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Moritz K</namePart>
+      <namePart type="family">Lehmann</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7346-3901</nameIdentifier>
+      <displayForm>Lehmann, Moritz K</displayForm>
+      <affiliation>Xerra Earth Observation Institute, 17a Brandon Street, Alexandra 9320, New Zealand</affiliation>
+      <affiliation>School of Science, The University of Waikato, Hamilton 3240, New Zealand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Martin</namePart>
+      <namePart type="family">Hieronymi</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6066-1562</nameIdentifier>
+      <displayForm>Hieronymi, Martin</displayForm>
+      <affiliation>Institute of Coastal Ocean Dynamics, Helmholtz-Zentrum Hereon, Max-Planck-Straße 1, Geesthacht 21502, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">James</namePart>
+      <namePart type="family">Dare</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2034-8421</nameIdentifier>
+      <displayForm>Dare, James</displayForm>
+      <affiliation>Bay of Plenty Regional Council, 1 Elizabeth Street, Tauranga 3110, New Zealand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hajo</namePart>
+      <namePart type="family">Krasemann</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0406-8953</nameIdentifier>
+      <displayForm>Krasemann, Hajo</displayForm>
+      <affiliation>Institute of Coastal Ocean Dynamics, Helmholtz-Zentrum Hereon, Max-Planck-Straße 1, Geesthacht 21502, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Darryn</namePart>
+      <namePart type="family">Hitchcock</namePart>
+      <displayForm>Hitchcock, Darryn</displayForm>
+      <affiliation>Bay of Plenty Regional Council, 1 Elizabeth Street, Tauranga 3110, New Zealand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Amy</namePart>
+      <namePart type="family">Platt</namePart>
+      <displayForm>Platt, Amy</displayForm>
+      <affiliation>Bay of Plenty Regional Council, 1 Elizabeth Street, Tauranga 3110, New Zealand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Klay</namePart>
+      <namePart type="family">Amai</namePart>
+      <displayForm>Amai, Klay</displayForm>
+      <affiliation>Bay of Plenty Regional Council, 1 Elizabeth Street, Tauranga 3110, New Zealand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tasman</namePart>
+      <namePart type="family">McKelvey</namePart>
+      <displayForm>McKelvey, Tasman</displayForm>
+      <affiliation>Bay of Plenty Regional Council, 1 Elizabeth Street, Tauranga 3110, New Zealand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Horizontal patchiness of water quality attributes in lakes substantially influences the ability to accurately determine an average condition of a lake from traditional in situ sampling. Monitoring programmes for lake water quality often rely on water samples from one or few locations but the assumption of representativeness is seldomly tested. Satellite observations can support environmental monitoring by detecting horizontal variability of water quality attributes over entire lakes. This article is a co-submission with Lehmann et al. (2021), who present a method to create a regional calibration of a satellite chlorophyll a algorithm and a spatial analysis of an image time series to detect recurring patchiness. Our method was developed on 13 lakes in the central North Island of New Zealand and this publication makes available the data used in our analysis and the spatial fields of results. These data are immediately valuable for practitioners operating within the region of interest providing a five year archive of synoptic water quality data and spatial fields to help optimize in situ monitoring efforts. In addition, there is value to the wider scientific community as the study lakes are a useful ‘natural lab’ for the development of aquatic remote sensing methods due to the range of trophic conditions and water colour in a single satellite image scene. Together with decades of in situ water quality records, our data is therefore useful for the development and validation of widely applicable methods of water quality retrieval from satellite data. </abstract>
+   <subject>
+      <topic>Lakes</topic>
+   </subject>
+   <subject>
+      <topic>Chlorophyll</topic>
+   </subject>
+   <subject>
+      <topic>Remote sensing</topic>
+   </subject>
+   <subject>
+      <topic>Water quality</topic>
+   </subject>
+   <subject>
+      <topic>Monitoring</topic>
+   </subject>
+   <subject>
+      <topic>Spatial variability</topic>
+   </subject>
+   <subject>
+      <topic>C2RCC</topic>
+   </subject>
+   <subject>
+      <topic>Sentinel-2</topic>
+   </subject>
+   <subject>
+      <topic>MSI</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107759</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107759</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107759</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01034-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-22"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010349/S2352340921010349.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

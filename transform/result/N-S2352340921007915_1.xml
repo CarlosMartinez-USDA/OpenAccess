@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Measured and forecasted weather and power dataset for management of an island and grid-connected microgrid</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Danilo P.</namePart>
+      <namePart type="family">e Silva</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5800-1418</nameIdentifier>
+      <displayForm>e Silva, Danilo P.</displayForm>
+      <affiliation>Federal Institute of Education, Science and Technology of Espírito Santo (IFES), Serra, E.S., Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">José L. Félix</namePart>
+      <namePart type="family">Salles</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3417-6544</nameIdentifier>
+      <displayForm>Salles, José L. Félix</displayForm>
+      <affiliation>Electrical Eng. Department, Federal University of Espírito Santo (UFES), Vitória, E.S., Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jussara F.</namePart>
+      <namePart type="family">Fardin</namePart>
+      <displayForm>Fardin, Jussara F.</displayForm>
+      <affiliation>Electrical Eng. Department, Federal University of Espírito Santo (UFES), Vitória, E.S., Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Maxsuel M. Rocha</namePart>
+      <namePart type="family">Pereira</namePart>
+      <displayForm>Pereira, Maxsuel M. Rocha</displayForm>
+      <affiliation>Industrial Technology Department, Federal University of Espírito Santo, Vitória, E.S., Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vinícius C.</namePart>
+      <namePart type="family">Ottz</namePart>
+      <displayForm>Ottz, Vinícius C.</displayForm>
+      <affiliation>Electrical Eng. Department, Federal University of Espírito Santo (UFES), Vitória, E.S., Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Flavio B.B.</namePart>
+      <namePart type="family">da Silva</namePart>
+      <displayForm>da Silva, Flavio B.B.</displayForm>
+      <affiliation>Professional Master Program in Control and Automation Engineering of the Federal Institute of Education, Science, and Technology of Espirito Santo, Serra, E.S., Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Eduardo G.</namePart>
+      <namePart type="family">Pignaton</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5699-4911</nameIdentifier>
+      <displayForm>Pignaton, Eduardo G.</displayForm>
+      <affiliation>Professional Master Program in Control and Automation Engineering of the Federal Institute of Education, Science, and Technology of Espirito Santo, Serra, E.S., Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article presents the weather and power data files from renewable sources used to solve the economic dispatch problem of a microgrid that operates in the isolated and grid-connected modes. Methodology is used in the research article “Management of an island and grid-connected microgrid using hybrid economic model predictive control with weather data” (Silva et al., 2020). Automatic stations located in the Brazil's south and northeast furnished the weather data (global horizontal irradiance, temperature, and wind speed). A script generates files containing weather forecasts from one-day ahead using the geographical coordinates of the weather stations. Hybrid models, characterized by real and binary variables, use the weather forecasting data to calculate the photovoltaic and wind power forecasts. A microgrid management algorithm uses these forecasts to solve the optimal economic dispatch problem. This data-in-brief paper presents five datasets for each weather station: (i) Weather dataset downloaded from the website of the National Meteorological Institute, (ii) Weather research and forecasting (WRF) dataset derived from the raw data generated by the weather research and forecasting model, (iii) Weather dataset that joins the forecasted data with the measured data in a single file, (iv) Handled dataset that treats some gaps in the weather dataset and converts it to other formats, (v) Files containing only the temperature, global horizontal irradiance, and wind speed data, (vi) Files containing the measured and forecasted wind and solar power. </abstract>
+   <subject>
+      <topic>Measured weather data</topic>
+   </subject>
+   <subject>
+      <topic>Forecasting weather data</topic>
+   </subject>
+   <subject>
+      <topic>WRF</topic>
+   </subject>
+   <subject>
+      <topic>Renewable energy sources</topic>
+   </subject>
+   <subject>
+      <topic>Microgrid management</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107513</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107513</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107513</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00791-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-21"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007915/S2352340921007915.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

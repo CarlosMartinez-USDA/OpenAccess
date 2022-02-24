@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107637">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Survey data on energy and fuel use of firms in economic zones in the Philippines</dct:title>
+         <dct:creator>Majah-Leah Ravago</dct:creator>
+         <dct:creator>Raul Fabella</dct:creator>
+         <dct:creator>Karl Robert Jandoc</dct:creator>
+         <dct:creator>Renzi Frias</dct:creator>
+         <dct:creator>J. Kathleen Magadia</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Fuel consumption</rdf:li>
+               <rdf:li>Natural gas</rdf:li>
+               <rdf:li>Fuel switch</rdf:li>
+               <rdf:li>Manufacturing and agro-industrial</rdf:li>
+               <rdf:li>Firm-level data</rdf:li>
+               <rdf:li>Philippines</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107637</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107637</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107637</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107637</dct:identifier>
+         <bam:articleNumber>107637</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-23T07:22:14Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107637</ja:aid>
+         <ce:article-number>107637</ce:article-number>
+         <ce:pii>S2352-3409(21)00912-4</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107637</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0360-5442(21)01811-9</ce:pii>
+               <ce:doi>10.1016/j.energy.2021.121563</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Survey data on energy and fuel use of firms in economic zones in the Philippines</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009124-74459b8266036a2de7b1c966b955e3c8"
+                       orcid="0000-0001-8031-9502">
+               <ce:given-name>Majah-Leah</ce:given-name>
+               <ce:surname>Ravago</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:mravago@ateneo.edu">mravago@ateneo.edu</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/majahvr">@majahvr</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009124-8e509c8d60eeef838ba3bd5411ea9012">
+               <ce:given-name>Raul</ce:given-name>
+               <ce:surname>Fabella</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009124-00be20aec781251b7c58893187b2a7e8"
+                       orcid="0000-0003-2111-7585">
+               <ce:given-name>Karl Robert</ce:given-name>
+               <ce:surname>Jandoc</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009124-d827400fbdad3b70808d58d127b99547"
+                       orcid="0000-0001-5601-8988">
+               <ce:given-name>Renzi</ce:given-name>
+               <ce:surname>Frias</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921009124-d64e0dfa2ac36cfa0d370b6e6794f43f">
+               <ce:given-name>J. Kathleen</ce:given-name>
+               <ce:surname>Magadia</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009124-66b73d114f05dcc912ea3e0f528bcf49">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Economics, Ateneo de Manila University, Room 409 Leong Hall, Katipunan Avenue, Loyola Heights, 1108, Quezon City, Philippines</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Economics</sa:organization>
+                  <sa:organization>Ateneo de Manila University</sa:organization>
+                  <sa:address-line>Room 409 Leong HallKatipunan AvenueLoyola Heights1108</sa:address-line>
+                  <sa:city>Quezon City</sa:city>
+                  <sa:country>Philippines</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Economics, Ateneo de Manila University, Room 409 Leong Hall, Katipunan Avenue, Loyola Heights, 1108, Quezon City, Philippines</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009124-0fc4b5d878b7dc09465d91132566895a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">School of Economics, University of the Philippines, Guerrero corner Osmeña Streets, Diliman, 1101, Quezon City, Philippines</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Economics</sa:organization>
+                  <sa:organization>University of the Philippines</sa:organization>
+                  <sa:address-line>Guerrero corner Osmeña StreetsDiliman1101</sa:address-line>
+                  <sa:city>Quezon City</sa:city>
+                  <sa:country>Philippines</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bSchool of Economics, University of the Philippines, Guerrero corner Osmeña Streets, Diliman, 1101, Quezon City, Philippines</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921009124-5b8049d55ad9bc3d37400cc803721c85">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">School of Statistics, University of the Philippines, T. M. Kalaw Street, Diliman, 1101, Quezon City, Philippines</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Statistics</sa:organization>
+                  <sa:organization>University of the Philippines</sa:organization>
+                  <sa:address-line>T. M. Kalaw StreetDiliman1101</sa:address-line>
+                  <sa:city>Quezon City</sa:city>
+                  <sa:country>Philippines</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cSchool of Statistics, University of the Philippines, T. M. Kalaw Street, Diliman, 1101, Quezon City, Philippines</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921009124-706dbe977309eadd52dcc062c210290c">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Gas Policy Development Project, UP Statistical Center Research Foundation, Inc., School of Statistics, University of the Philippines, Quirino Avenue Kalaw Street, Diliman, 1101, Quezon City, Philippines</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Gas Policy Development Project</sa:organization>
+                  <sa:organization>UP Statistical Center Research Foundation</sa:organization>
+                  <sa:organization>Inc.</sa:organization>
+                  <sa:organization>School of Statistics</sa:organization>
+                  <sa:organization>University of the Philippines</sa:organization>
+                  <sa:address-line>Quirino Avenue Kalaw StreetDiliman1101</sa:address-line>
+                  <sa:city>Quezon City</sa:city>
+                  <sa:country>Philippines</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dGas Policy Development Project, UP Statistical Center Research Foundation, Inc., School of Statistics, University of the Philippines, Quirino Avenue Kalaw Street, Diliman, 1101, Quezon City, Philippines</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="1" month="9" year="2021"/>
+         <ce:date-revised day="8" month="11" year="2021"/>
+         <ce:date-accepted day="22" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">The data describe characteristics, operations, utilities, and fuels used in the production of 115 manufacturing and agro-industrial firms in Philippine special economic zones. The data include information on the firm's production, sales, and schedules; electricity sources, requirements, and uses; the importance of various conventional fuels, and the firms’ fuel expenditure in their major production processes. The data also include their employee's aptitude, knowledge, considerations, and opinions on alternative fuels and primary energies, and experiences in using them. The data were gathered through a series of focus group discussions (FGDs) in June 2019 and an online survey conducted in August to September 2019. The data can be used in the analysis of energy consumption and expenditure of manufacturing and agro-industrial firms in the Philippines. The respondents’ knowledge of and perceptions toward adopting alternative fuels in their firms’ production processes are useful in the analysis of future energy demand.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Fuel consumption</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Natural gas</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Fuel switch</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Manufacturing and agro-industrial</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Firm-level data</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Philippines</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

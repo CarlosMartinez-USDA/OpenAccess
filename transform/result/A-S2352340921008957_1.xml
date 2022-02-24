@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107620">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Survey data on climate change adaptation and barriers to adoption among smallholder farmers in Nepal</dct:title>
+         <dct:creator>Prahlad Lamichhane</dct:creator>
+         <dct:creator>Kelly K. Miller</dct:creator>
+         <dct:creator>Michalis Hadjikakou</dct:creator>
+         <dct:creator>Brett A. Bryan</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Resilience</rdf:li>
+               <rdf:li>Smallholder agriculture</rdf:li>
+               <rdf:li>Climate change</rdf:li>
+               <rdf:li>Adaptation</rdf:li>
+               <rdf:li>Nepal</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107620</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107620</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107620</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107620</dct:identifier>
+         <bam:articleNumber>107620</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-18T19:16:26Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107620</ja:aid>
+         <ce:article-number>107620</ce:article-number>
+         <ce:pii>S2352-3409(21)00895-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107620</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Survey data on climate change adaptation and barriers to adoption among smallholder farmers in Nepal</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008957-3cc2894c13d048103199c92a3a44e8fe"
+                       orcid="0000-0002-5019-7855">
+               <ce:given-name>Prahlad</ce:given-name>
+               <ce:surname>Lamichhane</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:plamichh@deakin.edu.au">plamichh@deakin.edu.au</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008957-b2bb8224463f344b6e81bc58621bb04c"
+                       orcid="0000-0003-4360-6232">
+               <ce:given-name>Kelly K.</ce:given-name>
+               <ce:surname>Miller</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008957-d18b43e1891d2824dfcddf218b2e94e0"
+                       orcid="0000-0002-3667-3982">
+               <ce:given-name>Michalis</ce:given-name>
+               <ce:surname>Hadjikakou</ce:surname>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008957-b689e8ef3cc631a246b4f7b2990454e6"
+                       orcid="0000-0003-4834-5641">
+               <ce:given-name>Brett A.</ce:given-name>
+               <ce:surname>Bryan</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008957-35317dfda5ffd3c24d0caa152dd0c59c">
+               <ce:textfn id="cetextfn0001">Centre for Integrative Ecology (CIE), School of Life and Environmental Sciences, Deakin University, Burwood, Victoria, Australia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Centre for Integrative Ecology (CIE)</sa:organization>
+                  <sa:organization>School of Life and Environmental Sciences</sa:organization>
+                  <sa:organization>Deakin University</sa:organization>
+                  <sa:city>Burwood</sa:city>
+                  <sa:state>Victoria</sa:state>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Centre for Integrative Ecology (CIE), School of Life and Environmental Sciences, Deakin University, Burwood, Victoria, Australia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="1" month="7" year="2021"/>
+         <ce:date-revised day="1" month="11" year="2021"/>
+         <ce:date-accepted day="17" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara018" view="all">The dataset presents the raw data collected through household surveys of smallholder farmers on adaptation to climatic variabilities and change in Sudurpaschim Pradesh (Far Western Province), Nepal. The dataset comprises farmers' responses on the likely determinants of adaptation decisions, actual uptake of adaptation measures, and the barriers to adaptation. We collected the data by conducting face-to-face interviews of 327 farmers using structured questionnaires in all nine districts representing the Mountain, Hill, and Terai agroecosystems in the province. We employed a stratified random sampling technique to recruit participants and interviewed them during December 2019 and March 2020. The interview methodology was approved by the Human Ethics Review Committee at Deakin University, Australia. The dataset is important for understanding the drivers of climate change adaptation and the barriers to adaptation to enhance the resilience of smallholder agriculture in far-western Nepal and can inform climate change adaptation strategies for the region and for the smallholder agroecosystems more broadly. The data are provided with this article.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002a">Resilience</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0012f">
+               <ce:text id="cetext0013b">Smallholder agriculture</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0012g">
+               <ce:text id="cetext0013c">Climate change</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0012h">
+               <ce:text id="cetext0013d">Adaptation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0012i">
+               <ce:text id="cetext0013e">Nepal</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

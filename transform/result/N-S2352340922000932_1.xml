@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of genome sequence, de novo assembly, and functional annotation of Ruegeria sp. (PBVC088), a marine bacterium associated with the toxin-producing harmful dinoflagellate, Pyrodinium bahamense var. compressum</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Grace Joy Wei Lie</namePart>
+      <namePart type="family">Chin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7367-583X</nameIdentifier>
+      <displayForm>Chin, Grace Joy Wei Lie</displayForm>
+      <affiliation>Biotechnology Research Institute, Universiti Malaysia Sabah, Jalan UMS, Kota Kinabalu, Sabah 88400, Malaysia</affiliation>
+      <affiliation>Unit for Harmful Algal Bloom Studies, Borneo Marine Research Institute, Universiti Malaysia Sabah, Jalan UMS, Kota Kinabalu, Sabah 88400, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Salley Venda</namePart>
+      <namePart type="family">Law</namePart>
+      <displayForm>Law, Salley Venda</displayForm>
+      <affiliation>Biotechnology Research Institute, Universiti Malaysia Sabah, Jalan UMS, Kota Kinabalu, Sabah 88400, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kenneth Francis</namePart>
+      <namePart type="family">Rodrigues</namePart>
+      <displayForm>Rodrigues, Kenneth Francis</displayForm>
+      <affiliation>Biotechnology Research Institute, Universiti Malaysia Sabah, Jalan UMS, Kota Kinabalu, Sabah 88400, Malaysia</affiliation>
+      <affiliation>Unit for Harmful Algal Bloom Studies, Borneo Marine Research Institute, Universiti Malaysia Sabah, Jalan UMS, Kota Kinabalu, Sabah 88400, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jaeyres</namePart>
+      <namePart type="family">Jani</namePart>
+      <displayForm>Jani, Jaeyres</displayForm>
+      <affiliation>Faculty of Medicine and Health Science, Borneo Medical and Health Research Center, Universiti Malaysia Sabah, Jalan UMS, Kota Kinabalu, Sabah 88400, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ann</namePart>
+      <namePart type="family">Anton</namePart>
+      <displayForm>Anton, Ann</displayForm>
+      <affiliation>Unit for Harmful Algal Bloom Studies, Borneo Marine Research Institute, Universiti Malaysia Sabah, Jalan UMS, Kota Kinabalu, Sabah 88400, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The dataset comprises a whole-genome sequence of Ruegeria sp. PBVC088, a symbiotic (Gram-negative) bacterium associated with Pyrodinium bahamense var. compressum, which has been associated with harmful algal blooms in the coastal waters of west Sabah, Malaysia. Harmful algal blooms contribute to economic losses for the aquaculture industry, as well as human illnesses and fatalities due to paralytic shellfish poisoning. Bacteria-algae dynamics have posited that the interaction is potentially responsible for the toxin production during a toxic harmful algal bloom event. Despite the expanding body of literature on the capabilities of these bacteria to metabolize, produce, and modify toxins autonomously, it has yet to be confirmed that these toxin-producing bacteria are capable of autonomous toxin synthesis. Saxitoxin, a paralytic shellfish poisoning toxin, is produced by a unique biosynthetic pathway, where the genetic basis for the saxitoxin production was first reported in the saxitoxin-producing cyanobacteria strain Cylindrospermopsis raciborskii T3 (NCBI accession no. DQ787200). The genes responsible for saxitoxin biosynthesis in dinoflagellates, have yet to be fully elucidated. The identification of cyanobacteria saxitoxin biosynthesis genes (sxt) may eventually lead to the identification of homologous genes within the dinoflagellates. Previous studies on the diversity of the bacterial communities associated with the same toxic P. bahamense harmful alga has been carried out by using both the culture-dependent 16S ribosomal RNA gene sequence analysis and culture-independent 16S metagenomic sequence analysis. This study extends the knowledge pertaining to the genomic aspect of an associated bacterium isolated from P. bahamense alga by adopting a whole genome sequencing approach. Here, we report the genome sequencing, de novo assembly, and annotation data of a bacterium, Ruegeria sp. PBVC088, associated with harmful alga P. bahamense, which can be referenced by researchers to identify the genes and pathways related to toxin biosynthesis from a much larger data set. The genome of Ruegeria sp. PBVC088 was sequenced using the Illumina MiSeq platform with 250 bp paired-end reads. The number of reads generated from the MiSeq sequencer was 1,135,484, with an estimated coverage of 100X. The estimated genome size for the marine bacterium was computed to be 5.78 Mb. Annotation of the genome predicted 5,689 gene sequences, which were assigned putative functions based on homology to existing protein sequences in public databases. In addition, annotation of genes related to saxitoxin biosynthesis pathway was also performed. Raw fastq reads and the final version of the genome assembly have been deposited in the National Center for Biotechnology Information (NCBI) (BioProject: PRJNA324753, WGS: LZNT00000000, SRA: SRR3646181). The genome data provided here are expected to better understand the genetic processes involved in saxitoxin biosynthesis in marine bacteria associated with dinoflagellates. </abstract>
+   <subject>
+      <topic>Bacteria association</topic>
+   </subject>
+   <subject>
+      <topic>Harmful algal bloom</topic>
+   </subject>
+   <subject>
+      <topic>Illumina MiSeq</topic>
+   </subject>
+   <subject>
+      <topic>Marine bacteria</topic>
+   </subject>
+   <subject>
+      <topic>Saxitoxin</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>41</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">April 2022</text>
+         <text type="year">2022</text>
+         <text type="month">April</text>
+         <extent unit="pages">
+            <start>107881</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107881</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107881</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00093-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-25"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340922X00024/S2352340922000932/S2352340922000932.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

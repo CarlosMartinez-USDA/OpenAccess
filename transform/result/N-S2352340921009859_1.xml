@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>The regional impact of an epidemic: socioeconomic and demographic data in Java, 1905-1924</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Daniel</namePart>
+      <namePart type="family">Gallardo-Albarrán</namePart>
+      <displayForm>Gallardo-Albarrán, Daniel</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Pim</namePart>
+      <namePart type="family">de Zwart</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0155-1165</nameIdentifier>
+      <displayForm>de Zwart, Pim</displayForm>
+      <affiliation>Wageningen University, The Netherlands</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This dataset contains data for the island of Java, Indonesia, at the regency-level – comparable to present-day kabupaten. The data concern trends in area of cultivated sugar, total and per-hectare sugar production, crude mortality rates and wages in the period ca. 1909-1924. In addition to this panel dataset, cross-sectional figures were collected about the amount of sawah land (1920), urbanization rates (1905), medical personnel (1919), native population (1905) and areas with communal property with rotating shares. These figures were gathered from primary documents published by the Dutch colonial government and its constituent agencies. These data are relevant for all social scientists (such as economists, demographers or economic historians) interested in Southeast Asia or in the relationship between health indicators and economic development before, during and after an unprecedented pandemic. Historians of Southeast Asia and Indonesia may be interested in these figures as a background against which developments in politics and culture may be sketched. In addition, epidemiologists assessing the health consequences of the 1918 influenza pandemic will find valuable information in this regional dataset. Gallardo-Albarrán and de Zwart (2021) have shown on the basis of this dataset how the 1918 influenza pandemic affected economic activity across Java in this period. </abstract>
+   <subject>
+      <topic>Southeast Asia</topic>
+   </subject>
+   <subject>
+      <topic>Java</topic>
+   </subject>
+   <subject>
+      <topic>Indonesia</topic>
+   </subject>
+   <subject>
+      <topic>Sugar Industry</topic>
+   </subject>
+   <subject>
+      <topic>Globalization</topic>
+   </subject>
+   <subject>
+      <topic>1918 Influenza Pandemic</topic>
+   </subject>
+   <subject>
+      <topic>Mortality</topic>
+   </subject>
+   <subject>
+      <topic>Wages</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107710</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107710</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107710</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00985-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-11"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009859/S2352340921009859.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

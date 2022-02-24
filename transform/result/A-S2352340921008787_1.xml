@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107603">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset for the simulated biomass pyrolysis in rotary kilns with varying particle residence time distributions</dct:title>
+         <dct:creator>Mario Pichler</dct:creator>
+         <dct:creator>Bahram Haddadi</dct:creator>
+         <dct:creator>Christian Jordan</dct:creator>
+         <dct:creator>Hamidreza Norouzi</dct:creator>
+         <dct:creator>Michael Harasek</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Residence time distribution</rdf:li>
+               <rdf:li>Biomass</rdf:li>
+               <rdf:li>Pyrolysis</rdf:li>
+               <rdf:li>Rotary kiln</rdf:li>
+               <rdf:li>Numerical simulation</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107603</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107603</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107603</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107603</dct:identifier>
+         <bam:articleNumber>107603</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-17T19:59:46Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Austria Institutes 2021 (OA journals)</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107603</ja:aid>
+         <ce:article-number>107603</ce:article-number>
+         <ce:pii>S2352-3409(21)00878-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107603</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="doc0001">
+               <ce:pii>S0165-2370(21)00157-1</ce:pii>
+               <ce:doi>10.1016/j.jaap.2021.105171</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">Dataset for the simulated biomass pyrolysis in rotary kilns with varying particle residence time distributions</ce:title>
+         <ce:short-title id="stitle0010">Dataset for the simulated biomass pyrolysis in rotary kilns with varying particle residence time distributions</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008787-75a8101b391ffebbb1671937a293c58e"
+                       orcid="0000-0002-7932-8951">
+               <ce:given-name>Mario</ce:given-name>
+               <ce:surname>Pichler</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:mario.pichler@tuwien.ac.at"
+                             id="ead0001">mario.pichler@tuwien.ac.at</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008787-3c1641443571bc88202254c5eb6d46fa"
+                       orcid="0000-0003-3403-6346">
+               <ce:given-name>Bahram</ce:given-name>
+               <ce:surname>Haddadi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008787-df1246457ab8e210371830570fab6dd4"
+                       orcid="0000-0002-9661-0959">
+               <ce:given-name>Christian</ce:given-name>
+               <ce:surname>Jordan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008787-ea6d1fcbf521254f16e75001c5220281"
+                       orcid="0000-0003-0113-058X">
+               <ce:given-name>Hamidreza</ce:given-name>
+               <ce:surname>Norouzi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008787-a3ff7ee731f7df11d222be8779abc77b"
+                       orcid="0000-0002-6490-5840">
+               <ce:given-name>Michael</ce:given-name>
+               <ce:surname>Harasek</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008787-b9a7dc3633dbd644039170b547db7e5f">
+               <ce:label>a</ce:label>
+               <ce:textfn id="textfn0002">Institute of Chemical, Environmental and Bioscience Engineering, TU Wien, Getreidemarkt 9/166, Vienna 1060, Austria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Chemical, Environmental and Bioscience Engineering</sa:organization>
+                  <sa:organization>TU Wien</sa:organization>
+                  <sa:address-line>Getreidemarkt 9/166</sa:address-line>
+                  <sa:city>Vienna</sa:city>
+                  <sa:postal-code>1060</sa:postal-code>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">Institute of Chemical, Environmental and Bioscience Engineering, TU Wien, Getreidemarkt 9/166, Vienna 1060, Austria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008787-92a60f597a7c995e4f4f46c28a1d2c40">
+               <ce:label>b</ce:label>
+               <ce:textfn id="textfn0003">Center of Engineering and Multiscale Modeling of Fluid Flow (CEMF), Department of Chemical Engineering, Amirkabir University of Technology (Tehran Polytechnique), PO Box: 15875-4413, Hafez 424, Tehran, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Center of Engineering and Multiscale Modeling of Fluid Flow (CEMF), Department of Chemical Engineering</sa:organization>
+                  <sa:organization>Amirkabir University of Technology (Tehran Polytechnique)</sa:organization>
+                  <sa:address-line>PO Box: 15875-4413, Hafez</sa:address-line>
+                  <sa:city>Tehran</sa:city>
+                  <sa:postal-code>424</sa:postal-code>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0002">Center of Engineering and Multiscale Modeling of Fluid Flow (CEMF), Department of Chemical Engineering, Amirkabir University of Technology (Tehran Polytechnique), PO Box: 15875-4413, Hafez Tehran, 424, Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="4" month="8" year="2021"/>
+         <ce:date-revised day="7" month="11" year="2021"/>
+         <ce:date-accepted day="16" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">Slow pyrolysis of biomass is commonly performed in rotary kilns. The effect of the particle residence time distribution on biomass conversion is often neglected when numerically modeling such systems. But this effect might be significant under certain conditions.</ce:simple-para>
+               <ce:simple-para id="sp0002" view="all">The data presented here are results of numerical simulation of the biomass pyrolysis in rotary kilns under numerous operating conditions and levels of axial dispersion of biomass particles. The varied operating conditions are the kiln diameter (<mml:math altimg="si12.svg">
+                     <mml:mrow>
+                        <mml:mtext>D</mml:mtext>
+                        <mml:mo linebreak="goodbreak">=</mml:mo>
+                        <mml:mn>0.1</mml:mn>
+                     </mml:mrow>
+                  </mml:math>–1 m), the ratio of particle to kiln diameter (<mml:math altimg="si13.svg">
+                     <mml:mrow>
+                        <mml:mtext>d</mml:mtext>
+                        <mml:mo linebreak="goodbreak">/</mml:mo>
+                        <mml:mtext>D</mml:mtext>
+                        <mml:mo linebreak="goodbreak">=</mml:mo>
+                        <mml:mn>5</mml:mn>
+                        <mml:mspace width="0.33em"/>
+                        <mml:mo linebreak="goodbreak">×</mml:mo>
+                        <mml:mspace width="0.33em"/>
+                        <mml:msup>
+                           <mml:mn>10</mml:mn>
+                           <mml:mrow>
+                              <mml:mo>−</mml:mo>
+                              <mml:mn>3</mml:mn>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:mrow>
+                  </mml:math>–<mml:math altimg="si14.svg">
+                     <mml:mrow>
+                        <mml:mn>40</mml:mn>
+                        <mml:mspace width="0.33em"/>
+                        <mml:mo linebreak="goodbreak">×</mml:mo>
+                        <mml:mspace width="0.33em"/>
+                        <mml:msup>
+                           <mml:mn>10</mml:mn>
+                           <mml:mrow>
+                              <mml:mo>−</mml:mo>
+                              <mml:mn>3</mml:mn>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:mrow>
+                  </mml:math>), the ratio of kiln length to kiln diameter (<mml:math altimg="si15.svg">
+                     <mml:mrow>
+                        <mml:mtext>L</mml:mtext>
+                        <mml:mo linebreak="goodbreak">/</mml:mo>
+                        <mml:mtext>D</mml:mtext>
+                        <mml:mo linebreak="goodbreak">=</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:math>–10), the kiln’s inclination angle (<mml:math altimg="si16.svg">
+                     <mml:mrow>
+                        <mml:mi>β</mml:mi>
+                        <mml:mo linebreak="goodbreak">=</mml:mo>
+                        <mml:mn>0.1</mml:mn>
+                     </mml:mrow>
+                  </mml:math>–8<mml:math altimg="si17.svg">
+                     <mml:msup>
+                        <mml:mrow/>
+                        <mml:mo>∘</mml:mo>
+                     </mml:msup>
+                  </mml:math>), the Froude number (<mml:math altimg="si18.svg">
+                     <mml:mrow>
+                        <mml:mtext>Fr</mml:mtext>
+                        <mml:mo linebreak="goodbreak">=</mml:mo>
+                        <mml:msup>
+                           <mml:mn>10</mml:mn>
+                           <mml:mrow>
+                              <mml:mo>−</mml:mo>
+                              <mml:mn>3</mml:mn>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:mrow>
+                  </mml:math>–<mml:math altimg="si10.svg">
+                     <mml:msup>
+                        <mml:mn>10</mml:mn>
+                        <mml:mrow>
+                           <mml:mo>−</mml:mo>
+                           <mml:mn>2</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>), the rotational Reynolds number (<mml:math altimg="si19.svg">
+                     <mml:mrow>
+                        <mml:mtext>Re</mml:mtext>
+                        <mml:mo linebreak="goodbreak">=</mml:mo>
+                        <mml:msup>
+                           <mml:mn>10</mml:mn>
+                           <mml:mn>2</mml:mn>
+                        </mml:msup>
+                     </mml:mrow>
+                  </mml:math>–<mml:math altimg="si20.svg">
+                     <mml:mrow>
+                        <mml:mn>16</mml:mn>
+                        <mml:mspace width="0.33em"/>
+                        <mml:mo linebreak="goodbreak">×</mml:mo>
+                        <mml:mspace width="0.33em"/>
+                        <mml:msup>
+                           <mml:mn>10</mml:mn>
+                           <mml:mn>3</mml:mn>
+                        </mml:msup>
+                     </mml:mrow>
+                  </mml:math>), and the Péclet number (<mml:math altimg="si21.svg">
+                     <mml:mrow>
+                        <mml:mtext>Pe</mml:mtext>
+                        <mml:mo linebreak="goodbreak">=</mml:mo>
+                        <mml:mn>5</mml:mn>
+                     </mml:mrow>
+                  </mml:math>–100). Data of 13,851 single case simulations are provided with this article. This includes the mean particle residence time, gas, bed and kiln wall temperatures, solid and gaseous species mass flows, heat fluxes, and the solid bed height over the kiln length.</ce:simple-para>
+               <ce:simple-para id="sp0003" view="all">These comprehensive data have the potential to help in modeling, design, analysis, and optimization of rotary kilns used for the pyrolysis of biomass.</ce:simple-para>
+               <ce:simple-para id="sp0004" view="all">The main characterization and interpretation is presented in the related main research paper by Pichler et al. (2021)[1].</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">Residence time distribution</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Biomass</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Pyrolysis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Rotary kiln</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">Numerical simulation</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

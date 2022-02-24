@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A dataset for multi-sensor drone detection</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Fredrik</namePart>
+      <namePart type="family">Svanström</namePart>
+      <displayForm>Svanström, Fredrik</displayForm>
+      <affiliation>Air Defence Regiment, Swedish Armed Forces, Sweden</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fernando</namePart>
+      <namePart type="family">Alonso-Fernandez</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1400-346X</nameIdentifier>
+      <displayForm>Alonso-Fernandez, Fernando</displayForm>
+      <affiliation>Center for Applied Intelligent Systems Research (CAISR), Halmstad University, Halmstad SE 301 18, Sweden</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cristofer</namePart>
+      <namePart type="family">Englund</namePart>
+      <displayForm>Englund, Cristofer</displayForm>
+      <affiliation>Center for Applied Intelligent Systems Research (CAISR), Halmstad University, Halmstad SE 301 18, Sweden</affiliation>
+      <affiliation>RISE, Lindholmspiren 3A, Gothenburg SE 417 56, Sweden</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The use of small and remotely controlled unmanned aerial vehicles (UAVs), referred to as drones, has increased dramatically in recent years, both for professional and recreative purposes. This goes in parallel with (intentional or unintentional) misuse episodes, with an evident threat to the safety of people or facilities [1]. As a result, the detection of UAV has also emerged as a research topic [2]. Most of the existing studies on drone detection fail to specify the type of acquisition device, the drone type, the detection range, or the employed dataset. The lack of proper UAV detection studies employing thermal infrared cameras is also acknowledged as an issue, despite its success in detecting other types of targets [2]. Beside, we have not found any previous study that addresses the detection task as a function of distance to the target. Sensor fusion is indicated as an open research issue as well to achieve better detection results in comparison to a single sensor, although research in this direction is scarce too [3–6]. To help in counteracting the mentioned issues and allow fundamental studies with a common public benchmark, we contribute with an annotated multi-sensor database for drone detection that includes infrared and visible videos and audio files. The database includes three different drones, a small-sized model (Hubsan H107D+), a medium-sized drone (DJI Flame Wheel in quadcopter configuration), and a performance-grade model (DJI Phantom 4 Pro). It also includes other flying objects that can be mistakenly detected as drones, such as birds, airplanes or helicopters. In addition to using several different sensors, the number of classes is higher than in previous studies [4]. The video part contains 650 infrared and visible videos (365 IR and 285 visible) of drones, birds, airplanes and helicopters. Each clip is of ten seconds, resulting in a total of 203,328 annotated frames. The database is complemented with 90 audio files of the classes drones, helicopters and background noise. To allow studies as a function of the sensor-to-target distance, the dataset is divided into three categories (Close, Medium, Distant) according to the industry-standard Detect, Recognize and Identify (DRI) requirements [7], built on the Johnson criteria [8]. Given that the drones must be flown within visual range due to regulations, the largest sensor-to-target distance for a drone in the dataset is 200 m, and acquisitions are made in daylight. The data has been obtained at three airports in Sweden: Halmstad Airport (IATA code: HAD/ICAO code: ESMT), Gothenburg City Airport (GSE/ESGP) and Malmö Airport (MMX/ESMS). The acquisition sensors are mounted on a pan-tilt platform that steers the cameras to the objects of interest. All sensors and the platform are controlled with a standard laptop vis a USB hub. </abstract>
+   <subject>
+      <topic>Drone detection</topic>
+   </subject>
+   <subject>
+      <topic>UAV detection</topic>
+   </subject>
+   <subject>
+      <topic>Anti-drone systems</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107521</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107521</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107521</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00797-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-22"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007976/S2352340921007976.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

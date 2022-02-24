@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107512">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on predictive resilience of interdependent water and transportation infrastructures: A sociotechnical approach</dct:title>
+         <dct:creator>Babak Aslani</dct:creator>
+         <dct:creator>Shima Mohebbi</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Interdependent critical infrastructures</rdf:li>
+               <rdf:li>Resilience assessment</rdf:li>
+               <rdf:li>Natural disasters</rdf:li>
+               <rdf:li>Cascading random failures</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107512</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107512</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107512</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107512</dct:identifier>
+         <bam:articleNumber>107512</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-21T20:29:25Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107512</ja:aid>
+         <ce:article-number>107512</ce:article-number>
+         <ce:pii>S2352-3409(21)00790-3</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107512</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="doc0001">
+               <ce:pii>S0038-0121(21)00158-0</ce:pii>
+               <ce:doi>10.1016/j.seps.2021.101166</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">Data on predictive resilience of interdependent water and transportation infrastructures: A sociotechnical approach</ce:title>
+         <ce:short-title id="stitle0010">Data on predictive resilience of interdependent water and transportation infrastructures: A sociotechnical approach</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007903-e8831fc1ab88dfd18fb1d757db4b01db"
+                       orcid="0000-0002-2734-9398">
+               <ce:given-name>Babak</ce:given-name>
+               <ce:surname>Aslani</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:e-address type="email" xlink:href="mailto:baslani@gmu.edu" id="ead0001">baslani@gmu.edu</ce:e-address>
+               <ce:e-address id="ea1"
+                             type="social-media"
+                             xlink:href="https://twitter.com/BabakAslani3">@BabakAslani3</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007903-c68785c534e0db3adbba09990bf2e932"
+                       orcid="0000-0002-1587-0506">
+               <ce:given-name>Shima</ce:given-name>
+               <ce:surname>Mohebbi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:smohebbi@gmu.edu" id="ead0002">smohebbi@gmu.edu</ce:e-address>
+               <ce:e-address id="ea2"
+                             type="social-media"
+                             xlink:href="https://twitter.com/ShimaMohebbi">@ShimaMohebbi</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007903-3996f1b271eb43d478513e98f03c470b">
+               <ce:textfn id="textfn0002">Department of Systems Engineering and Operations Research, George Mason University, Fairfax, VA USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Systems Engineering and Operations Research</sa:organization>
+                  <sa:organization>George Mason University</sa:organization>
+                  <sa:city>Fairfax</sa:city>
+                  <sa:state>VA</sa:state>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">Department of Systems Engineering and Operations Research, George Mason University, Fairfax, VA USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="4" month="10" year="2021"/>
+         <ce:date-revised day="19" month="10" year="2021"/>
+         <ce:date-accepted day="20" month="10" year="2021"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">Interdependent infrastructure systems are vulnerable to the cascading effect of failures resulting from random failures and natural disasters. The data provided in this work is the processed data used for the proposed resilience assessment framework for interdependent water and transportation networks dealing with both types of failure [1]. The case study is the interconnected networks of water and transportation in Tampa, Florida. The data for the random failure is obtained from the developed algorithmic framework and the land use and social vulnerability data provided by the U.S. Census datasets. We then used a subset of this produced data to construct predictive models for the network resilience to random failures. As for the natural disaster scenario, we focused on hurricane Irma in 2017 as it directly affected the focused region in Florida. We used the specific guidelines and the raw flooding data for this hurricane, provided by FEMA, to estimate the standing water for each geographical area (polygons) and the associated network components. We labeled the areas as failed and undamaged based on the estimated water levels. Finally, we used this data for developing a geospatial Geographical Weighted Regression (GWR) model to predict the resilience in each polygon. We present the final dataset for water and transportation networks to facilitate reusability for any future resilience study in the selected urban area.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">Interdependent critical infrastructures</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Resilience assessment</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Natural disasters</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Cascading random failures</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

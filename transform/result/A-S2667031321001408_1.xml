@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100158">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Species richness and folk therapeutic uses of ethnomedicinal plants in West Bengal, India – A meta-analysis</dct:title>
+         <dct:creator>Vineeta</dct:creator>
+         <dct:creator>Gopal Shukla</dct:creator>
+         <dct:creator>Jahangeer A. Bhat</dct:creator>
+         <dct:creator>Sumit Chakravarty</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Medicinal plants</rdf:li>
+               <rdf:li>Indigenous communities</rdf:li>
+               <rdf:li>Culture</rdf:li>
+               <rdf:li>Disease</rdf:li>
+               <rdf:li>Humid tropics</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100158</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100158</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100158</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100158</dct:identifier>
+         <bam:articleNumber>100158</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-06T08:09:57Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100158</ja:aid>
+         <ce:article-number>100158</ce:article-number>
+         <ce:pii>S2667-0313(21)00140-8</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100158</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Species richness and folk therapeutic uses of ethnomedicinal plants in West Bengal, India – A meta-analysis</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001408-4dd04129862e6933860062c43faa6b90">
+               <ce:surname>Vineeta</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:babra.vini@gmail.com">babra.vini@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001408-ac1db4531b060870a6a610434481293a">
+               <ce:given-name>Gopal</ce:given-name>
+               <ce:surname>Shukla</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:gopalshukla12@gmail.com">gopalshukla12@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001408-a3eaddac309eb08a7cbe494e22e693ed">
+               <ce:given-name>Jahangeer A.</ce:given-name>
+               <ce:surname>Bhat</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001408-9eb993c045706a54166d65abf2b6ebfc">
+               <ce:given-name>Sumit</ce:given-name>
+               <ce:surname>Chakravarty</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001408-4d0e5810e3ece342a25cb26bb2921c8e">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Forestry, Faculty of Horticulture, Uttar Banga Krishi Viswavidyalaya Pundibari, Cooch Behar-736165, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Forestry, Faculty of horticulture</sa:organization>
+                  <sa:organization>Uttar Banga Krishi Viswavidyalaya Pundibari</sa:organization>
+                  <sa:city>Cooch Behar</sa:city>
+                  <sa:postal-code>736165</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Forestry, Faculty of horticulture, Uttar Banga Krishi Viswavidyalaya Pundibari, Cooch Behar 736165, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001408-f0a1508f4db921d495003a0f683cdce0">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">College of Horticulture and Forestry, Rani Lakshmi Bai Central Agricultural University, Jhansi, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>College of Horticulture and Forestry</sa:organization>
+                  <sa:organization>Rani Lakshmi Bai Central Agricultural University</sa:organization>
+                  <sa:city>Jhansi</sa:city>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bCollege of Horticulture and Forestry, Rani Lakshmi Bai Central Agricultural University, Jhansi, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding authors.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="24" month="5" year="2021"/>
+         <ce:date-revised day="20" month="9" year="2021"/>
+         <ce:date-accepted day="6" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">
+                  <ce:bold>Background</ce:bold>: West Bengal is a state rich in floral biodiversity, with a high occurrence of medicinal plants being used. The state is populated by several ethnic communities, which still rely on various ethnomedical practises. Unfortunately information relating to the medicinally useful species is not holistic or is fraganmentory. We thus felt for a meta-analysis and abridged the available information of the state</ce:simple-para>
+               <ce:simple-para id="spara011" view="all">
+                  <ce:bold>Methods</ce:bold>: The purpose of the present study was to annotate the published information on ethnomedicinal plants used by various indigenous communities of West Bengal, India. We therefore searched the published Journal articles, book chapters, and scientific reports using Web of Science, Scopus, Google, Google Scholar, individual journal databases and personal communication to review the ethnomedicinal information of the state.</ce:simple-para>
+               <ce:simple-para id="spara012" view="all">
+                  <ce:bold>Resutls</ce:bold>: The meta-analysis resulted to a repository of 377 plant species represented by 99 families and 278 genera which were utilized for folk medicinal purposes. These ethnomedicinal plant species were used to treat a total of 126 different ailments and diseases. Stomach related problems were found common among the ethnic groups for which about half of the listed plant species were used for its treatment. Santal ethnic group was found richest with traditional knowledge related to folk medicinal purposes of 195 plant species. Some plant species <ce:italic>Aerva lanata and Aristolochia indica</ce:italic> were found commonly utilized by the communities. Leaves were prominently used plant part for folk therapies. Harvesting of the plants or their parts was largely unsustainable and is a matter of concern which needs urgent conservation action. Moreover, neglect and disregard to traditional culture and lores by the younger generation of the traditional communities is causing rapid decline and making the traditional knowledge system of these communities obsolete.</ce:simple-para>
+               <ce:simple-para id="spara013" view="all">
+                  <ce:bold>Conclusion</ce:bold>: Documentation of ethnomedicinal plant species and the associated traditional knowledge is vital for well being of future generation as well as their conservation. This meta-analysis will be useful as baseline information for research on new drug development which will give national and global recognition to the traditional knowledge system of these ethnic societies while, will boost their healthcare, ecological, socioeconomic and bio-cultural perspectives.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Medicinal plants</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Indigenous communities</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Culture</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Disease</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Humid tropics</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

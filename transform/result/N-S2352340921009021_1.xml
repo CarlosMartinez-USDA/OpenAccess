@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of experimental measurements for the Orion beam structure</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Rafael de Oliveira</namePart>
+      <namePart type="family">Teloli</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7658-5514</nameIdentifier>
+      <displayForm>Teloli, Rafael de Oliveira</displayForm>
+      <affiliation>UNESP - Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira, Departamento de Engenharia Mecânica, Av. Brasil, 56, Ilha Solteira, SP 15385-000, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Pauline</namePart>
+      <namePart type="family">Butaud</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0803-805X</nameIdentifier>
+      <displayForm>Butaud, Pauline</displayForm>
+      <affiliation>Univ. Bourgogne Franche-Comté, FEMTO-ST Institute, CNRS/UFC/ENSMM/UTBM, Department of Applied Mechanics, 24 chemin de l’Epitaphe, Besancon 25000, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gaël</namePart>
+      <namePart type="family">Chevallier</namePart>
+      <displayForm>Chevallier, Gaël</displayForm>
+      <affiliation>Univ. Bourgogne Franche-Comté, FEMTO-ST Institute, CNRS/UFC/ENSMM/UTBM, Department of Applied Mechanics, 24 chemin de l’Epitaphe, Besancon 25000, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Samuel</namePart>
+      <namePart type="family">da Silva</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6430-3746</nameIdentifier>
+      <displayForm>da Silva, Samuel</displayForm>
+      <affiliation>UNESP - Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira, Departamento de Engenharia Mecânica, Av. Brasil, 56, Ilha Solteira, SP 15385-000, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This data article comprises experimental data to investigate the nonlinear dynamic behavior of the Orion beam structure, which consists of two duraluminum beams assembled by bolted joints. To retain contact on a small area between both beams, this new lap-joint configuration proposes contact patches at each bolt connection. The Orion beam suggests an assembly configuration that associates bolts dedicated to ‘static’ functions and to those to perform ‘damping’ functions. This ensures a significant increase in the structural damping without degrading the structural stiffness. Experiments have been performed on the laboratory ple Vibration and Acoustic, located at FEMTO-ST Institute, CNRS/UFC/ENSMM/UTBM, Department of Applied Mechanics, 24 chemin de lEpitaphe, 25000 Besanon, France. This data aim to provide the geometrical step and all the experimental measurements performed on our lap-joint for several excitation amplitudes and tightening torques, as far as possible and with the degree of uncertainties of the measurements. By doing so, we intend to provide experimental data, as precise and reliable as possible, which are required to progress on the numerical modelling of the dry friction damping in assembly structures. This Data in Brief article is an additional research item alongside the following paper published in the Mechanical Systems and Signal Processing journal: R. O. Teloli, P. Butaud, G. Chevallier and S. da Silva, Good practices for designing and experimental testing of dynamically excited jointed structures: the Orion beam. </abstract>
+   <subject>
+      <topic>Orion beam</topic>
+   </subject>
+   <subject>
+      <topic>Frictional damping</topic>
+   </subject>
+   <subject>
+      <topic>Experimental practices</topic>
+   </subject>
+   <subject>
+      <topic>Contact mechanics</topic>
+   </subject>
+   <subject>
+      <topic>Bolted joint</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107627</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107627</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107627</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00902-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-19"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009021/S2352340921009021.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Missing data estimation in extreme rainfall indices for the Metropolitan area of Cali - Colombia: An approach based on artificial neural networks</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Camilo</namePart>
+      <namePart type="family">Ocampo-Marulanda</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3813-8780</nameIdentifier>
+      <displayForm>Ocampo-Marulanda, Camilo</displayForm>
+      <affiliation>Faculty of Natural Sciences and Engineering, Fundación Universitaria de San Gil, Unisangil, Km 2 via Matepantano, Yopal 850001, Colombia</affiliation>
+      <affiliation>Water Resources Engineering and Soil (IREHISA) Research Group, School of Natural Resources and Environmental Engineering, Universidad del Valle, Calle 13 # 100-00, Cali 25360, Colombia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wilmar L.</namePart>
+      <namePart type="family">Cerón</namePart>
+      <displayForm>Cerón, Wilmar L.</displayForm>
+      <affiliation>Department of Geography, Faculty of Humanities, Universidad del Valle, Calle 13 # 100-00, Cali 25360, Colombia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alvaro</namePart>
+      <namePart type="family">Avila-Diaz</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0404-4559</nameIdentifier>
+      <displayForm>Avila-Diaz, Alvaro</displayForm>
+      <affiliation>Universidad de Ciencias Aplicadas y Ambientales - UDCA, Bogota 111166, Colombia</affiliation>
+      <affiliation>Natural Resources Institute, Universidade Federal de Itajubá, Itajubá 36570-900, MG, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Teresita</namePart>
+      <namePart type="family">Canchala</namePart>
+      <displayForm>Canchala, Teresita</displayForm>
+      <affiliation>Water Resources Engineering and Soil (IREHISA) Research Group, School of Natural Resources and Environmental Engineering, Universidad del Valle, Calle 13 # 100-00, Cali 25360, Colombia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wilfredo</namePart>
+      <namePart type="family">Alfonso-Morales</namePart>
+      <displayForm>Alfonso-Morales, Wilfredo</displayForm>
+      <affiliation>Perception and Intelligent Systems (PSI) Research Group, School of Electrical and Electronics Engineering, Universidad del Valle, Calle 13 # 100-00, Cali 25360, Colombia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mary T.</namePart>
+      <namePart type="family">Kayano</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2516-295X</nameIdentifier>
+      <displayForm>Kayano, Mary T.</displayForm>
+      <affiliation>Coordenação Geral de Ciências da Terra, Instituto Nacional de Pesquisas Espaciais, Avenida dos Astronautas, 1758, São José dos Campos, SP 12227-010, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Roger R.</namePart>
+      <namePart type="family">Torres</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5684-3125</nameIdentifier>
+      <displayForm>Torres, Roger R.</displayForm>
+      <affiliation>Natural Resources Institute, Universidade Federal de Itajubá, Itajubá 36570-900, MG, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Changes observed in the current climate and projected for the future significantly concern researchers, decision-makers, and the general public. Climate indices of extreme rainfall events are a trend assessment tool to detect climate variability and change signals, which have an average reliability at least in the short term and given climatic inertia. This paper shows 12 climate indices of extreme rainfall events for annual and seasonal scales for 12 climate stations between 1969 to 2019 in the Metropolitan area of Cali (southwestern Colombia). The construction of the indices starts from daily rainfall time series, which although have between 0.5% and 5.4% of missing data, can affect the estimation of the indices. Here, we propose a methodology to complete missing data of the extreme event indices that model the peaks in the time series. This methodology uses an artificial neural network approach known as Non-Linear Principal Component Analysis (NLPCA). The approach reconstructs the time series by modulating the extreme values of the indices, a fundamental feature when evaluating extreme rainfall events in a region. The accuracy in the indices estimation shows values close to 1 in the Pearson's Correlation Coefficient and in the Bi-weighting Correlation. Moreover, values close to 0 in the percent bias and RMSE-observations standard deviation ratio. The database provided here is an essential input in future evaluation studies of extreme rainfall events in the Metropolitan area of Cali, the third most crucial urban conglomerate in Colombia with more than 3.9 million inhabitants. </abstract>
+   <subject>
+      <topic>Complete missing data</topic>
+   </subject>
+   <subject>
+      <topic>Reconstructs time series</topic>
+   </subject>
+   <subject>
+      <topic>Extreme values of the indices</topic>
+   </subject>
+   <subject>
+      <topic>ETCCDI indices</topic>
+   </subject>
+   <subject>
+      <topic>NLPCA</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107592</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107592</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107592</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00867-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-16"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008672/S2352340921008672.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

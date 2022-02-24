@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2022.100219">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Potential multiple bioactive components from Sinopodophyllum hexandrum explored by affinity ultrafiltration with four drug targets</dct:title>
+         <dct:creator>Huixia Feng</dct:creator>
+         <dct:creator>Guilin Chen</dct:creator>
+         <dct:creator>Yongli Zhang</dct:creator>
+         <dct:creator>Mingquan Guo</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Sinopodophyllum hexandrum</rdf:li>
+               <rdf:li>Multi-target</rdf:li>
+               <rdf:li>Bio-affinity ultrafiltration</rdf:li>
+               <rdf:li>Anti-proliferative</rdf:li>
+               <rdf:li>Anti-inflammatory</rdf:li>
+               <rdf:li>Anti-viral activity</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2022.100219</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2022.100219</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2022.100219</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2022.100219</dct:identifier>
+         <bam:articleNumber>100219</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-13T17:57:04Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>China Institutes Tracking agreement</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100219</ja:aid>
+         <ce:article-number>100219</ce:article-number>
+         <ce:pii>S2667-0313(22)00005-7</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2022.100219</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Potential multiple bioactive components from Sinopodophyllum hexandrum explored by affinity ultrafiltration with four drug targets</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031322000057-832fa19d30d4456a498e015e2e4bafde">
+               <ce:given-name>Huixia</ce:given-name>
+               <ce:surname>Feng</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031322000057-c3751d727a01feac7e4912e385b6814a">
+               <ce:given-name>Guilin</ce:given-name>
+               <ce:surname>Chen</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031322000057-af7126728194f3036e5cf791db74cd2f">
+               <ce:given-name>Yongli</ce:given-name>
+               <ce:surname>Zhang</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031322000057-e3809cf963c995758e4d3f37e76f7a3f">
+               <ce:given-name>Mingquan</ce:given-name>
+               <ce:surname>Guo</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:guomq@wbgcas.cn">guomq@wbgcas.cn</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031322000057-4cf4028769e78518e7d79b8022a1e7cb">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Key Laboratory of Plant Germplasm Enhancement and Specialty Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan 430074, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Key Laboratory of Plant Germplasm Enhancement and Specialty Agriculture</sa:organization>
+                  <sa:organization>Wuhan Botanical Garden, Chinese Academy of Sciences</sa:organization>
+                  <sa:city>Wuhan</sa:city>
+                  <sa:postal-code>430074</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aKey Laboratory of Plant Germplasm Enhancement and Specialty Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan 430074, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031322000057-211f68de21a03e3ac29ba11672433b3a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">University of Chinese Academy of Sciences, Beijing 100049, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Chinese Academy of Sciences</sa:organization>
+                  <sa:state>Beijing</sa:state>
+                  <sa:postal-code>100049</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bUniversity of Chinese Academy of Sciences, Beijing 100049, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031322000057-fc7772415712f7f07489f1ece4379090">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Sino-Africa Joint Research Center, Chinese Academy of Sciences, Wuhan 430074, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Sino-Africa Joint Research Center</sa:organization>
+                  <sa:organization>Chinese Academy of Sciences</sa:organization>
+                  <sa:city>Wuhan</sa:city>
+                  <sa:postal-code>430074</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cSino-Africa Joint Research Center, Chinese Academy of Sciences, Wuhan 430074, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031322000057-992e6261720eb9c784dfe07ff04c339e">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Innovation Academy for Drug Discovery and Development, Chinese Academy of Sciences, Shanghai 201203, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Innovation Academy for Drug Discovery and Development</sa:organization>
+                  <sa:organization>Chinese Academy of Sciences</sa:organization>
+                  <sa:state>Shanghai</sa:state>
+                  <sa:postal-code>201203</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dInnovation Academy for Drug Discovery and Development, Chinese Academy of Sciences, Shanghai 201203, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">These authors contributed equally to this work.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="5" month="9" year="2021"/>
+         <ce:date-revised day="4" month="1" year="2022"/>
+         <ce:date-accepted day="13" month="1" year="2022"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Identified 10, 7, 9 and 9 potential ligands in <ce:italic>S. hexandrum</ce:italic> against Topo I, Topo II, COX-2 and ACE2.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Verified the activity of podophyllotoxin, quercetin, kaempferol and isorhamnetin with anti-proliferative, COX-2 or ACE2 inhibitory assays and molecular docking.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Offered experimental evidences on the specific components of <ce:italic>S. hexandrum</ce:italic> interacting with multi-target.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">The first constructed multi-component and multi-target network to reveal the empirical use of <ce:italic>S. hexandrum</ce:italic>.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara010" view="all">: <ce:italic>Sinopodophyllum hexandrum (S. hexandrum)</ce:italic> is a typical Chinese herbal medicine with multiple components and pharmacological activities. However, the specific phytochemicals responsible for its anti-proliferative, anti-inflammatory and anti-viral effects remain unexplored.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" view="all">
+               <ce:section-title id="cesectitle0004">Purpose</ce:section-title>
+               <ce:simple-para id="spara011" view="all">: This study aimed to explore the specific bioactive phytochemicals from <ce:italic>S. hexandrum</ce:italic> responsible for its multiple remarkable pharmacological in an effort to construct and decipher its empirical therapeutic roles.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" view="all">
+               <ce:section-title id="cesectitle0005">Study design</ce:section-title>
+               <ce:simple-para id="spara012" view="all">: Bio-affinity ultrafiltration (AUF) with multiple drug targets corresponding to its empirical anti-proliferative, anti-inflammatory and anti-viral activities was developed to screen for potential bioactive ligands from <ce:italic>S. hexandrum</ce:italic>, and then <ce:italic>in vitro</ce:italic> bioactivity assays or molecular docking methods were used to verify those bioactive ligands.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0006">Methods</ce:section-title>
+               <ce:simple-para id="spara013" view="all">: The integrative analytical strategy was developed to rapidly screen and identify bioactive ligands from <ce:italic>S. hexandrum</ce:italic>. The <ce:italic>in vitro</ce:italic> anti-proliferative, COX-2 and ACE2 inhibitory assays of ligands were further verified by SRB cell proliferation and cytotoxicity detection, COX-2 and ACE2 inhibitor screening kits, respectively. Molecular docking analysis was also implemented by the AutoDockTools 1.5.6 software.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0007" role="results" view="all">
+               <ce:section-title id="cesectitle0007">Results</ce:section-title>
+               <ce:simple-para id="spara014" view="all">: Ten, seven, nine and nine phytochemicals were screened out and identified as the potential Topo I, Topo II, COX-2 and ACE2 ligands, respectively. Hereinto, podophyllotoxin and quercetin with higher EF values displayed strong inhibitory effects on A549 and HT-29 cells comparable with etoposide and 5-FU as the positive controls. Furthermore, compared with indomethacin at 0.73 ± 0.07 μM, kaempferol and podophyllotoxin with higher EF values exerted stronger inhibitory effects with IC<ce:inf loc="post">50</ce:inf> values at 0.36 ± 0.02 μM and 10.49 ± 0.61 μM, respectively. Isorhamnetin with a higher EF value exerted stronger inhibitory effect against ACE2 with IC<ce:inf loc="post">50</ce:inf> value at 118.46 ± 14.78 μM in contrast to podophyllotoxin with relatively lower EF value at &gt; 970.00 μM. In addition, the optimal binding sites and mode of action between multiple drug targets and bioactive ligands were determined by molecular docking.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0008" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0008">Conclusion</ce:section-title>
+               <ce:simple-para id="spara015" view="all">: This study showcased a quick and reliable experimental strategy for unveiling the underlying mechanism of <ce:italic>S. hexandrum</ce:italic>, which could also provide valuable information for better understanding the therapeutic targets and ligands of other herbal medicines.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0009">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0009" view="all">
+               <ce:simple-para id="spara016" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0010">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Sinopodophyllum hexandrum</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Multi-target</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Bio-affinity ultrafiltration</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Anti-proliferative</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Anti-inflammatory</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Anti-viral activity</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

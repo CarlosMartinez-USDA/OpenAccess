@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107877">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Experimental data from ice basin tests with vertically sided cylindrical structures</dct:title>
+         <dct:creator>Hayo Hendrikse</dct:creator>
+         <dct:creator>Tim C. Hammer</dct:creator>
+         <dct:creator>Marnix van den Berg</dct:creator>
+         <dct:creator>Tom Willems</dct:creator>
+         <dct:creator>Cody C. Owen</dct:creator>
+         <dct:creator>Kees van Beek</dct:creator>
+         <dct:creator>Nick J.J. Ebben</dct:creator>
+         <dct:creator>Otto Puolakka</dct:creator>
+         <dct:creator>Arttu Polojärvi</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Ice-induced vibration</rdf:li>
+               <rdf:li>Offshore wind turbine</rdf:li>
+               <rdf:li>Forced vibration test</rdf:li>
+               <rdf:li>Crushing</rdf:li>
+               <rdf:li>Intermittent crushing</rdf:li>
+               <rdf:li>Frequency lock-in</rdf:li>
+               <rdf:li>Real-time hybrid testing</rdf:li>
+               <rdf:li>Ice-structure interaction</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107877</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107877</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107877</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107877</dct:identifier>
+         <bam:articleNumber>107877</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-25T10:26:04Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Dutch University VSNU 2020</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107877</ja:aid>
+         <ce:article-number>107877</ce:article-number>
+         <ce:pii>S2352-3409(22)00089-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107877</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Experimental data from ice basin tests with vertically sided cylindrical structures</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000890-f86074a2509aeb0aafcf8e9ffaa94e7d"
+                       orcid="0000-0003-2252-4625">
+               <ce:given-name>Hayo</ce:given-name>
+               <ce:surname>Hendrikse</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:h.hendrikse@tudelft.nl"
+                             id="ead0001">h.hendrikse@tudelft.nl</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000890-3f9ef151af4fae8bcda8b5e3b4e37037">
+               <ce:given-name>Tim C.</ce:given-name>
+               <ce:surname>Hammer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000890-5fa2c1601451e7ded173bff7dce97dcb">
+               <ce:given-name>Marnix van den</ce:given-name>
+               <ce:surname>Berg</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922000890-1f663edb7069e0e2b4592735f09a64b8">
+               <ce:given-name>Tom</ce:given-name>
+               <ce:surname>Willems</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340922000890-a48ffc691cbc8b466e8e9390e6e444a9">
+               <ce:given-name>Cody C.</ce:given-name>
+               <ce:surname>Owen</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340922000890-7ff05d511efadf276ba8132cee7ec860">
+               <ce:given-name>Kees</ce:given-name>
+               <ce:surname>van Beek</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340922000890-9350d8ccc2e080a337f79c126d0e8dca">
+               <ce:given-name>Nick J.J.</ce:given-name>
+               <ce:surname>Ebben</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340922000890-6c0d67a1ea2d35ade3a58e1b87d2524f">
+               <ce:given-name>Otto</ce:given-name>
+               <ce:surname>Puolakka</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340922000890-6ac6786bff70d39e75b50ab38f797b53">
+               <ce:given-name>Arttu</ce:given-name>
+               <ce:surname>Polojärvi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000890-c8d1529b8fc25bb548ba348b26b80fed">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Faculty of Civil Engineering and Geosciences, Department of Hydraulic Engineering, Delft University of Technology, Delft 2628 CN , the Netherland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Civil Engineering and Geosciences</sa:organization>
+                  <sa:organization>Department of Hydraulic Engineering</sa:organization>
+                  <sa:organization>Delft University of Technology</sa:organization>
+                  <sa:city>Delft</sa:city>
+                  <sa:postal-code>2628 CN</sa:postal-code>
+                  <sa:country>the Netherland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aFaculty of Civil Engineering and Geosciences, Department of Hydraulic Engineering, Delft University of Technology, Delft 2628 CN , the Netherland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922000890-41d8c80d2651d3103f1d099bf38f2d27">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Siemens Gamesa Renewable Energy, The Hague, the Netherland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Siemens Gamesa Renewable Energy</sa:organization>
+                  <sa:city>The Hague</sa:city>
+                  <sa:country>the Netherland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bSiemens Gamesa Renewable Energy, The Hague, the Netherland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922000890-333585d81902e1db73e5326b1696c522">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">School of Engineering, Department of Mechanical Engineering, Aalto University, P.O. Box 14300, Aalto FI 00076, Finland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Engineering</sa:organization>
+                  <sa:organization>Department of Mechanical Engineering</sa:organization>
+                  <sa:organization>Aalto University</sa:organization>
+                  <sa:address-line>P.O. Box 14300</sa:address-line>
+                  <sa:city>Aalto</sa:city>
+                  <sa:postal-code>FI 00076</sa:postal-code>
+                  <sa:country>Finland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cSchool of Engineering, Department of Mechanical Engineering, Aalto University, P.O. Box 14300, Aalto FI 00076, Finland</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="14" month="12" year="2021"/>
+         <ce:date-revised day="19" month="1" year="2022"/>
+         <ce:date-accepted day="25" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara016" view="all">Basin tests were performed at the Aalto Ice Tank to gather data on ice-structure action and interaction from ice failing against a vertically sided cylindrical pile. The tests were performed with a real-time hybrid test setup, which combined physical and numerical components to simulate a range of test structures in real-time. The dataset includes results from tests with offshore wind turbine structures, structural models representing a series of single- and multi-degree-of-freedom oscillators, and scaled dynamic models of the Norströmsgrund lighthouse and the Molikpaq caisson structure. In addition, forced vibration tests and rigid structure tests were performed. Ice loads and structural response were measured with accelerometers, displacement sensors, potentiometers, strain gauges and load cells and the ice-structure interaction process was filmed from three different camera angles. The resulting raw data have been categorized and stored as unfiltered time series. A total of 259 different tests are included in the dataset. The model ice formation procedure and the test temperature were aimed at creating model ice that mimics the material behavior of full-scale saline ice during crushing failure, with a specific focus on the transition from brittle to ductile behavior. The data can be used for validation of models for dynamic ice-structure interaction. The offshore wind turbine data can be used to study the effect of wind loading on the interaction with ice and the effect of the specific dynamic properties of wind turbine structures with monopile foundations on the ice-structure interaction process. The forced-oscillation data can be used to quantify the time and speed dependant aspects of ice loading. The Norströmsgrund lighthouse and the Molikpaq data can be used as a reference comparison to full-scale data on ice loads.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Ice-induced vibration</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Offshore wind turbine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Forced vibration test</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Crushing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Intermittent crushing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Frequency lock-in</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Real-time hybrid testing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Ice-structure interaction</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

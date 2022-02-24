@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107556">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data identification of determinants affecting the adoption of sustainable construction: The perspective of residential building developers</dct:title>
+         <dct:creator>Noorsaidi Mahat</dct:creator>
+         <dct:creator>Joseph Tah</dct:creator>
+         <dct:creator>Christos Vidalakis</dct:creator>
+         <dct:creator>Achara Khamaksorn</dct:creator>
+         <dct:creator>Orawit Thinnukool</dct:creator>
+         <dct:creator>Mohd Iskandar Abd Malek</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Likert scale</rdf:li>
+               <rdf:li>Questionnaire</rdf:li>
+               <rdf:li>Sustainable construction</rdf:li>
+               <rdf:li>Barriers</rdf:li>
+               <rdf:li>External drivers</rdf:li>
+               <rdf:li>Adoption</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107556</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107556</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107556</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107556</dct:identifier>
+         <bam:articleNumber>107556</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-03T12:35:59Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107556</ja:aid>
+         <ce:article-number>107556</ce:article-number>
+         <ce:pii>S2352-3409(21)00832-5</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107556</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data identification of determinants affecting the adoption of sustainable construction: The perspective of residential building developers</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008325-70b414e7167cb7b4d395e332109e3e1e"
+                       orcid="0000-0003-1678-2927">
+               <ce:given-name>Noorsaidi</ce:given-name>
+               <ce:surname>Mahat</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:noorsaidi@uitm.edu.my">noorsaidi@uitm.edu.my</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008325-225a1c7f588d5f9d713375fc4013f0bc">
+               <ce:given-name>Joseph</ce:given-name>
+               <ce:surname>Tah</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008325-3922c9a5297415535f07dfc872482e27">
+               <ce:given-name>Christos</ce:given-name>
+               <ce:surname>Vidalakis</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008325-907c356dfe5e3fcf19ad4565bea6c708"
+                       orcid="0000-0002-0365-0856">
+               <ce:given-name>Achara</ce:given-name>
+               <ce:surname>Khamaksorn</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008325-cbea5b3585a767c5262e93eb2975b6f9">
+               <ce:given-name>Orawit</ce:given-name>
+               <ce:surname>Thinnukool</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008325-d84bbf9639b11b2db5fca0103f818ce9">
+               <ce:given-name>Mohd Iskandar</ce:given-name>
+               <ce:surname>Abd Malek</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008325-c8be28cc4fae9721d5c6f52644fe986c">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Faculty of Technology, Design and Environment, School of the Built Environment, Oxford Brookes University, Oxford, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Technology</sa:organization>
+                  <sa:organization>Design and Environment</sa:organization>
+                  <sa:organization>School of the Built Environment</sa:organization>
+                  <sa:organization>Oxford Brookes University</sa:organization>
+                  <sa:city>Oxford</sa:city>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aFaculty of Technology, Design and Environment, School of the Built Environment, Oxford Brookes University, Oxford, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008325-ffd8083a165b99dad7e548f75d29e392">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Faculty of Architecture, Planning and Surveying, Universiti Teknologi MARA, Cawangan Sarawak, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Architecture</sa:organization>
+                  <sa:organization>Planning and Surveying</sa:organization>
+                  <sa:organization>Universiti Teknologi MARA</sa:organization>
+                  <sa:city>Cawangan</sa:city>
+                  <sa:state>Sarawak</sa:state>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bFaculty of Architecture, Planning and Surveying, Universiti Teknologi MARA, Cawangan, Sarawak, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008325-056fc01d77a00aedba79089588fa24a0">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">College of Arts, Media, and Technology, Chiang Mai University, Chiang Mai, Thailand</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>College of Arts, Media, and Technology</sa:organization>
+                  <sa:organization>Chiang Mai University</sa:organization>
+                  <sa:city>Chiang Mai</sa:city>
+                  <sa:country>Thailand</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cCollege of Arts, Media, and Technology, Chiang Mai University, Chiang Mai, Thailand</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921008325-708d47a8bc74f2e4f13329a33e489b14">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Faculty of Engineering and Built Environment, Universiti Kebangsaan Malaysia, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Engineering and Built Environment</sa:organization>
+                  <sa:organization>Universiti Kebangsaan Malaysia,</sa:organization>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dFaculty of Engineering and Built Environment, Universiti Kebangsaan Malaysia, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001a">Corresponding authors at: Faculty of Technology, Design and Environment, School of the Built Environment, Oxford Brookes University, Oxford, UK.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Technology</sa:organization>
+                  <sa:organization>Design and Environment</sa:organization>
+                  <sa:organization>School of the Built Environment</sa:organization>
+                  <sa:organization>Oxford Brookes University</sa:organization>
+                  <sa:city>Oxford</sa:city>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="29" month="7" year="2021"/>
+         <ce:date-revised day="4" month="10" year="2021"/>
+         <ce:date-accepted day="3" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara004" view="all">This data paper shows the perspectives by developers of housing on factors of the sustainable construction adoption. The Data was collected by using formal Likert scale questionnaire as main instrument. Simple random sampling was used to assign questionnaires to respondents. Data samples were evaluated using index and rating. The data will provide information on the most variables that considered as main factors for sustainable construction adoption. The importance between variables can provide information that will contribute to the expedition of sustainable practise in housing projects in Malaysia.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0001">Likert scale</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0002">Questionnaire</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0003">Sustainable construction</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0004">Barriers</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0005">External drivers</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0006">Adoption</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

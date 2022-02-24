@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107679">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data for evaluation of the onshore Cretaceous Zululand Basin in South Africa for geological CO2 storage</dct:title>
+         <dct:creator>L.V. Tibane</dct:creator>
+         <dct:creator>P. Harris</dct:creator>
+         <dct:creator>H. Pöllmann</dct:creator>
+         <dct:creator>F.L. Ndongani</dct:creator>
+         <dct:creator>B. Landman</dct:creator>
+         <dct:creator>W. Altermann</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Sandstones and siltstones lithology</rdf:li>
+               <rdf:li>Mineralogy</rdf:li>
+               <rdf:li>Geochemistry</rdf:li>
+               <rdf:li>Geological CO2 sequestration</rdf:li>
+               <rdf:li>CO2-H2O-rock interactions</rdf:li>
+               <rdf:li>Geomechanics</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107679</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107679</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107679</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107679</dct:identifier>
+         <bam:articleNumber>107679</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-03T17:50:25Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107679</ja:aid>
+         <ce:article-number>107679</ce:article-number>
+         <ce:pii>S2352-3409(21)00954-9</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107679</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1750-5836(21)00116-X</ce:pii>
+               <ce:doi>10.1016/j.ijggc.2021.103364</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data for evaluation of the onshore Cretaceous Zululand Basin in South Africa for geological CO<ce:inf loc="post">2</ce:inf> storage</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009549-7587b3e70027323b18425ed4224e7ed6"
+                       orcid="0000-0002-7154-0237">
+               <ce:given-name>L.V.</ce:given-name>
+               <ce:surname>Tibane</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:tibanel@ukzn.ac.za">tibanel@ukzn.ac.za</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/VictorTibane">@VictorTibane</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009549-8a0b6d534a88ebaa958ac8cf65c8a470">
+               <ce:given-name>P.</ce:given-name>
+               <ce:surname>Harris</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009549-42162800342acc78e2163299420baafc">
+               <ce:given-name>H.</ce:given-name>
+               <ce:surname>Pöllmann</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009549-ac0609f575be702e5a202217b4da6605">
+               <ce:given-name>F.L.</ce:given-name>
+               <ce:surname>Ndongani</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921009549-9712c4c022f086f294593af8b0b1ee16">
+               <ce:given-name>B.</ce:given-name>
+               <ce:surname>Landman</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921009549-f41060d30e023812c8a80e20f5baa347">
+               <ce:given-name>W.</ce:given-name>
+               <ce:surname>Altermann</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009549-14642fdc0f83751f4f573cd92a3e9e89">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Geology, University of Pretoria, Lynwood Road, Pretoria, South Africa</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Geology</sa:organization>
+                  <sa:organization>University of Pretoria</sa:organization>
+                  <sa:address-line>Lynwood Road</sa:address-line>
+                  <sa:city>Pretoria</sa:city>
+                  <sa:country>South Africa</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Geology, University of Pretoria, Lynwood Road, Pretoria, South Africa</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009549-7d307ffea2962957184de69e80d6e89f">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Mineralogy/Geochemistry, Martin-Luther-University, Halle-Wittenberg, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Mineralogy/Geochemistry</sa:organization>
+                  <sa:organization>Martin-Luther-University</sa:organization>
+                  <sa:city>Halle-Wittenberg</sa:city>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bMineralogy/Geochemistry, Martin-Luther-University, Halle-Wittenberg, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921009549-a753e1a06cda4b12d7be16ea3642a48f">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Geology, University of Johannesburg, Johannesburg, South Africa</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Geology</sa:organization>
+                  <sa:organization>University of Johannesburg</sa:organization>
+                  <sa:city>Johannesburg</sa:city>
+                  <sa:country>South Africa</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Geology, University of Johannesburg, Johannesburg, South Africa</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921009549-f729ca8e3fd50dcc169886b73187ee65">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">TerraCore Africa, GeoSpectral Imaging, City of Johannesburg, Gauteng, South Africa</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>TerraCore Africa</sa:organization>
+                  <sa:organization>GeoSpectral Imaging</sa:organization>
+                  <sa:city>City of Johannesburg</sa:city>
+                  <sa:state>Gauteng</sa:state>
+                  <sa:country>South Africa</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dTerraCore Africa, GeoSpectral Imaging, City of Johannesburg, Gauteng, South Africa</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="8" month="11" year="2021"/>
+         <ce:date-revised day="30" month="11" year="2021"/>
+         <ce:date-accepted day="2" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara018" view="all">The world has set the goal of reducing CO<ce:inf loc="post">2</ce:inf> emissions from burning fossil fuels by using carbon capture and storage (CCS) as one of the major solutions. A sudden and complete switch from fossil fuels to renewable resources cannot be achieved immediately. Therefore, CCS remains an essential techniques to reduce CO<ce:inf loc="post">2</ce:inf>. In this work, the 180 – 65 Ma old onshore part of the Zululand Basin in KwaZulu-Natal in South Africa was investigated for geological CO<ce:inf loc="post">2</ce:inf> sequestration. A total of 160 core samples of sandstone, conglomerate, tuff, rhyolite, breccia, and siltstone were taken from NZA, ZA, ZB, and ZC drill cores. The wells were drilled in the 1960s by the South African Petroleum and Gas Corporation Company for hydrocarbon exploration. In order to examine the basin suitability for CO<ce:inf loc="post">2</ce:inf> storage, porosity and permeability, mineralogy, geochemistry, geomechanical properties, and H<ce:inf loc="post">2</ce:inf>O-CO<ce:inf loc="post">2</ce:inf>-rock interactions were investigated using geological core logging, spectral scanning, petrography, X-ray diffraction (XRD), X-ray fluorescence (XRF), inductively coupled plasma mass spectrometry, uniaxial compressive stress, and scanning electron microscopy. The basin comprises clastic sedimentary rocks, pyroclastic deposits and carbonates from the Makatini, Mzinene and St. Lucia formations. Aptian and Cenomanian sandstones are identified as CO<ce:inf loc="post">2</ce:inf> reservoirs, and the siltstone above is considered capstone. The sandstone comprises on average 34.45 wt% quartz, 32.91 wt% clays, 29.53 wt% feldspars, 4.44 wt% carbonates, 3.10 wt% Fe-oxides, 2.40 wt% micas, and 2.00 wt% organic materials as per XRD data, also contains trace amounts of sulphides and sulphates. Geochemical XRF data for sandstone are 29.72 – 62.51 wt% SiO<ce:inf loc="post">2</ce:inf>, 6.95 – 13.44 wt% Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, 3.06 – 48.81 wt%, 1.90 – 4.51 wt% MgO, 1.04 – 2.19 wt% K<ce:inf loc="post">2</ce:inf>O, 1.00 – 3.67 Na<ce:inf loc="post">2</ce:inf>O wt%. The content of TiO<ce:inf loc="post">2</ce:inf>, Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and P<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5</ce:inf> is below 0.01 wt% each. Siltstone has similar mineralogy and geochemistry as sandstone, but high clay content, fine-grained, impervious, with porosity &lt;5%. The sandstone and siltstone are geomechanically soft and recorded 15 MPa on the Enerpac P141 device. CO<ce:inf loc="post">2</ce:inf>–H<ce:inf loc="post">2</ce:inf>O–rock interaction experiments performed at 100 °C and 100 bar using autoclaves showed that sandstone and siltstone react with scCO<ce:inf loc="post">2</ce:inf>.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Sandstones and siltstones lithology</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Mineralogy</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Geochemistry</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Geological CO<ce:inf loc="post">2</ce:inf> sequestration</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">CO<ce:inf loc="post">2</ce:inf>-H<ce:inf loc="post">2</ce:inf>O-rock interactions</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Geomechanics</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

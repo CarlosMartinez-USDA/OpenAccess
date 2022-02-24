@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data related to architectural bone parameters and the relationship to Ti lattice design for powder bed fusion additive manufacturing</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Martine</namePart>
+      <namePart type="family">McGregor</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9838-4764</nameIdentifier>
+      <displayForm>McGregor, Martine</displayForm>
+      <affiliation>University of Waterloo, Department of Mechanical and Mechatronics Engineering, Waterloo, ON N2L 3G1, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sagar</namePart>
+      <namePart type="family">Patel</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3708-2607</nameIdentifier>
+      <displayForm>Patel, Sagar</displayForm>
+      <affiliation>University of Waterloo, Department of Mechanical and Mechatronics Engineering, Waterloo, ON N2L 3G1, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Stewart</namePart>
+      <namePart type="family">McLachlin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8464-3032</nameIdentifier>
+      <displayForm>McLachlin, Stewart</displayForm>
+      <affiliation>University of Waterloo, Department of Mechanical and Mechatronics Engineering, Waterloo, ON N2L 3G1, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mihaela</namePart>
+      <namePart type="family">Vlasea</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7281-0622</nameIdentifier>
+      <displayForm>Vlasea, Mihaela</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The data included in this article provides additional supporting information on our publication (McGregor et al. [1]) on the review of the natural lattice architecture in human bone and its implication towards titanium (Ti) lattice design for laser powder bed fusion and electron beam powder bed fusion. For this work, X-ray computed tomography was deployed to understand and visualize a Ti-6Al-4V lattice structure manufactured by laser powder bed fusion. This manuscript includes details about the manufacturing of the lattice structure using laser powder bed fusion and computed tomography methods used for analyzing the lattice structure. Additionally, a comprehensive literature review was conducted to understand how lattice parameters are controlled in additively manufactured Ti and Ti-alloy parts aimed at replacing or augmenting human bone. From this literature review, lattice design information was collected and is summarized in tabular form in this manuscript. </abstract>
+   <subject>
+      <topic>AM</topic>
+   </subject>
+   <subject>
+      <topic>E-PBF</topic>
+   </subject>
+   <subject>
+      <topic>L-PBF</topic>
+   </subject>
+   <subject>
+      <topic>Ti</topic>
+   </subject>
+   <subject>
+      <topic>TPMS</topic>
+   </subject>
+   <subject>
+      <topic>XCT</topic>
+   </subject>
+   <subject>
+      <topic>Additive manufacturing</topic>
+   </subject>
+   <subject>
+      <topic>X-ray computed tomography</topic>
+   </subject>
+   <subject>
+      <topic>Laser powder bed fusion</topic>
+   </subject>
+   <subject>
+      <topic>Lattice design</topic>
+   </subject>
+   <subject>
+      <topic>Bone replacement, Orthopaedic design</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107633</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107633</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107633</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00908-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-23"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009082/S2352340921009082.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

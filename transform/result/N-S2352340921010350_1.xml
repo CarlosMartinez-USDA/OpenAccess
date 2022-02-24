@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A database and framework for carbon ore resources and associated supply chain data</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Devin</namePart>
+      <namePart type="family">Justman</namePart>
+      <displayForm>Justman, Devin</displayForm>
+      <affiliation>National Energy Technology Laboratory, 1450 Queen Ave. SW, Albany, OR 97321, USA</affiliation>
+      <affiliation>NETL Support Contractor, 1450 Queen Ave. SW, Albany, OR 97321, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michael</namePart>
+      <namePart type="family">Sabbatino</namePart>
+      <displayForm>Sabbatino, Michael</displayForm>
+      <affiliation>National Energy Technology Laboratory, 1450 Queen Ave. SW, Albany, OR 97321, USA</affiliation>
+      <affiliation>NETL Support Contractor, 1450 Queen Ave. SW, Albany, OR 97321, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Scott</namePart>
+      <namePart type="family">Montross</namePart>
+      <displayForm>Montross, Scott</displayForm>
+      <affiliation>National Energy Technology Laboratory, 1450 Queen Ave. SW, Albany, OR 97321, USA</affiliation>
+      <affiliation>NETL Support Contractor, 1450 Queen Ave. SW, Albany, OR 97321, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Scott</namePart>
+      <namePart type="family">Pantaleone</namePart>
+      <displayForm>Pantaleone, Scott</displayForm>
+      <affiliation>National Energy Technology Laboratory, 1450 Queen Ave. SW, Albany, OR 97321, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andrew</namePart>
+      <namePart type="family">Bean</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1733-2848</nameIdentifier>
+      <displayForm>Bean, Andrew</displayForm>
+      <affiliation>National Energy Technology Laboratory, 1450 Queen Ave. SW, Albany, OR 97321, USA</affiliation>
+      <affiliation>NETL Support Contractor, 1450 Queen Ave. SW, Albany, OR 97321, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kelly</namePart>
+      <namePart type="family">Rose</namePart>
+      <displayForm>Rose, Kelly</displayForm>
+      <affiliation>National Energy Technology Laboratory, 1450 Queen Ave. SW, Albany, OR 97321, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Randal B.</namePart>
+      <namePart type="family">Thomas</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2228-6770</nameIdentifier>
+      <displayForm>Thomas, Randal B.</displayForm>
+      <affiliation>National Energy Technology Laboratory, 1450 Queen Ave. SW, Albany, OR 97321, USA</affiliation>
+      <affiliation>NETL Support Contractor, 1450 Queen Ave. SW, Albany, OR 97321, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The Carbon Ore Resources Database (CORD) is a working collection of 399 data files associated with carbon ore resources in the United States. The collection includes spatial/non-spatial, filtered, processed, and secondary data files with original data acquisition efforts focused on domestic coal resources. All data were acquired via open-source, online sources from a combination of 18 national, state, and university entities. Datasets are categorized to represent aspects of carbon ore resources, to include: Geochemistry, Geology, Infrastructure, and Samples. Geospatial datasets are summarized and analyzed by record and dataset density or the number of records or datasets per 400 square kilometer grid cells. Additionally, the “CORD Platform,” an ArcGIS Online geospatial dashboard web application, enables users to interact and query with CORD datasets. The CORD provides a single database and location for data-driven analytical needs associated with the utilization of carbon ore resources. </abstract>
+   <subject>
+      <topic>Carbon</topic>
+   </subject>
+   <subject>
+      <topic>Ore</topic>
+   </subject>
+   <subject>
+      <topic>Coal</topic>
+   </subject>
+   <subject>
+      <topic>Supply chain</topic>
+   </subject>
+   <subject>
+      <topic>Geochemistry</topic>
+   </subject>
+   <subject>
+      <topic>Geology</topic>
+   </subject>
+   <subject>
+      <topic>Infrastructure</topic>
+   </subject>
+   <subject>
+      <topic>Samples</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107761</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107761</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107761</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01035-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-23"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010350/S2352340921010350.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

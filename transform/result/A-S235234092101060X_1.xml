@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107786">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Synthetic European road freight transport flow data</dct:title>
+         <dct:creator>Daniel Speth</dct:creator>
+         <dct:creator>Verena Sauter</dct:creator>
+         <dct:creator>Patrick Plötz</dct:creator>
+         <dct:creator>Tim Signer</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Transport</rdf:li>
+               <rdf:li>Road freight transport</rdf:li>
+               <rdf:li>Truck-transport</rdf:li>
+               <rdf:li>Origin-destination</rdf:li>
+               <rdf:li>Traffic</rdf:li>
+               <rdf:li>Traffic flow</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107786</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107786</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107786</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107786</dct:identifier>
+         <bam:articleNumber>107786</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-31T10:59:53Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Germany: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107786</ja:aid>
+         <ce:article-number>107786</ce:article-number>
+         <ce:pii>S2352-3409(21)01060-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107786</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Synthetic European road freight transport flow data</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092101060X-b9885cd513f6e294a27605b2024573ea"
+                       orcid="0000-0003-1472-7019">
+               <ce:given-name>Daniel</ce:given-name>
+               <ce:surname>Speth</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:daniel.speth@isi.fraunhofer.de">daniel.speth@isi.fraunhofer.de</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/DanielSpeth92">DanielSpeth92</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092101060X-531e6258bb2c33f2e8ec7fb1767240e0">
+               <ce:given-name>Verena</ce:given-name>
+               <ce:surname>Sauter</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092101060X-f4a7e700ba6203a227cfd0bf43641a60"
+                       orcid="0000-0001-6790-0183">
+               <ce:given-name>Patrick</ce:given-name>
+               <ce:surname>Plötz</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea3a"
+                             type="social-media"
+                             xlink:href="https://twitter.com/PatrickPlotz">PatrickPlotz</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S235234092101060X-e8d4f0de1c3e28131ef75d37fb61c8e7">
+               <ce:given-name>Tim</ce:given-name>
+               <ce:surname>Signer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092101060X-5ea67745a7c2b87532eed1f77a7bbd1d">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Fraunhofer Institute for Systems and Innovation Research ISI, Breslauer Str. 48, Karlsruhe 76139, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Fraunhofer Institute for Systems and Innovation Research ISI</sa:organization>
+                  <sa:address-line>Breslauer Str. 48</sa:address-line>
+                  <sa:city>Karlsruhe</sa:city>
+                  <sa:postal-code>76139</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aFraunhofer Institute for Systems and Innovation Research ISI, Breslauer Str. 48, Karlsruhe 76139, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092101060X-8621946f18a6787bb8bcea6bb3da74f3">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Karlsruhe Institute for Technology (KIT), Institute for Industrial Production (IIP), Hertzstr. 12, Karlsruhe 76185, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Karlsruhe Institute for Technology (KIT)</sa:organization>
+                  <sa:organization>Institute for Industrial Production (IIP)</sa:organization>
+                  <sa:address-line>Hertzstr. 12</sa:address-line>
+                  <sa:city>Karlsruhe</sa:city>
+                  <sa:postal-code>76185</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bKarlsruhe Institute for Technology (KIT), Institute for Industrial Production (IIP), Hertzstr. 12, Karlsruhe 76185, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="27" month="9" year="2021"/>
+         <ce:date-revised day="22" month="12" year="2021"/>
+         <ce:date-accepted day="31" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">This data article describes a dataset on European road freight traffic. The dataset includes truck traffic flows between 1675 regions all over Europe. In addition to the road freight flows in tons as well as number of vehicles, the dataset also contains the shortest path between the respective regions on the European highway network (E-roads). Fifteen columns provide the following information for each pair of regions: (1) ID origin region, (2) name origin region, (3) ID destination region, (4) name destination region, (5) path in the E-road network, (6) distance from origin region to the E-road network, (7) distance within the E-road network, (8) distance from the E-road network to the destination region, (9) total distance, (10) road freight flow in tons for 2010, (11) road freight flow in tons for 2019, (12) road freight flow in tons for 2030, (13) truck traffic flow in number of vehicles for 2010, (14) truck traffic flow in number of vehicles for 2019, (15) truck traffic flow in number of vehicles for 2030. In addition, a table of nodes and a table of edges of the modelled E-road network is available. Finally, a list with supplementary information on the regions under consideration is given. In 2010, the ETISplus project collected Europe-wide freight volumes from various EU sources as well as from the EU countries and calibrated the resulting origin-destination matrices with measured traffic flows. For the dataset described here, the road freight volume was updated using Eurostat data and a forecast up to 2030 was added. The freight volume was converted into vehicles travelling. Subsequently, the highway network relevant for trucks was extracted from the ETISplus project and manually updated with the current E-road network. Finally, each origin-destination freight volume was allocated to the network using Dijkstra's algorithm. This provides a synthetically generated road freight traffic volume for each road section. The generated data provide an extremely relevant basis for the design of future road infrastructure in Europe, for example hydrogen refuelling stations or charging stations for electric trucks. Thus, the data are not only relevant for traffic science studies, but also of high importance for planners in practice.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Transport</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Road freight transport</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Truck-transport</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Origin-destination</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Traffic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Traffic flow</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

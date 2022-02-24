@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.wri.2022.100171">
+         <dct:format>application/xml</dct:format>
+         <dct:title>High silica concentration in RO concentrate</dct:title>
+         <dct:creator>A.H. Haidari</dct:creator>
+         <dct:creator>G.J. Witkamp</dct:creator>
+         <dct:creator>S.G.J. Heijman</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Membrane fouling</rdf:li>
+               <rdf:li>Reverse osmosis</rdf:li>
+               <rdf:li>Silica scaling</rdf:li>
+               <rdf:li>PHREEQC</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Water Resources and Industry 27 (2022). doi:10.1016/j.wri.2022.100171</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Water Resources and Industry</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2212-3717</prism:issn>
+         <prism:volume>27</prism:volume>
+         <prism:coverDisplayDate>June 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.wri.2022.100171</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.wri.2022.100171</prism:url>
+         <dct:identifier>doi:10.1016/j.wri.2022.100171</dct:identifier>
+         <bam:articleNumber>100171</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-22T18:39:51Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Dutch University VSNU 2020</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>WRI</ja:jid>
+         <ja:aid>100171</ja:aid>
+         <ce:article-number>100171</ce:article-number>
+         <ce:pii>S2212-3717(22)00001-4</ce:pii>
+         <ce:doi>10.1016/j.wri.2022.100171</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="title0010">High silica concentration in RO concentrate</ce:title>
+         <ce:author-group id="augrp0010">
+            <ce:author id="au1"
+                       orcid="0000-0001-7272-8584"
+                       author-id="S2212371722000014-3ff4e2d1b707f56658cda39dd8eb751b">
+               <ce:given-name>A.H.</ce:given-name>
+               <ce:surname>Haidari</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor1">
+                  <ce:sup loc="post">∗</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:amir.haidari@brabantwater.nl"
+                             id="eadd0010">amir.haidari@brabantwater.nl</ce:e-address>
+            </ce:author>
+            <ce:author id="au2" author-id="S2212371722000014-55ed5f81e4f1b690fab6f4859ca3e879">
+               <ce:given-name>G.J.</ce:given-name>
+               <ce:surname>Witkamp</ce:surname>
+               <ce:cross-ref refid="aff2">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au3" author-id="S2212371722000014-f5ec1cdcab3db4489b4089e02d421c65">
+               <ce:given-name>S.G.J.</ce:given-name>
+               <ce:surname>Heijman</ce:surname>
+               <ce:cross-ref refid="aff3">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff1"
+                            affiliation-id="S2212371722000014-2c079491c8738fca2822d28403f6aac1">
+               <ce:label>a</ce:label>
+               <ce:textfn>Hatenboer-water, Mercuriusweg 8, 3113 AR, Schiedam, the Netherlands</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Hatenboer-water</sa:organization>
+                  <sa:address-line>Mercuriusweg 8</sa:address-line>
+                  <sa:city>Schiedam</sa:city>
+                  <sa:postal-code>3113 AR</sa:postal-code>
+                  <sa:country>the Netherlands</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0010">Hantenboer, Mercuriusweg 8, 3113 AR, Schiedam, The Netherlands</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff2"
+                            affiliation-id="S2212371722000014-f1ee08858b0707c22e3162ccdf1de804">
+               <ce:label>b</ce:label>
+               <ce:textfn>King Abdullah University of Science and Technology (KAUST), Water Desalination and Reuse Center (WDRC), Division of Biological and Environmental Science and Engineering (BESE), Thuwal, 23955-6900, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>King Abdullah University of Science and Technology (KAUST)</sa:organization>
+                  <sa:organization>Water Desalination and Reuse Center (WDRC)</sa:organization>
+                  <sa:organization>Division of Biological and Environmental Science and Engineering (BESE)</sa:organization>
+                  <sa:city>Thuwal</sa:city>
+                  <sa:postal-code>23955-6900</sa:postal-code>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0015">King Abdullah University of Science and Technology (KAUST), Water Desalination and Reuse Center (WDRC), Division of Biological and Environmental Science and Engineering (BESE), Thuwal, 23955-6900, Saudi Arabia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff3"
+                            affiliation-id="S2212371722000014-52f943fe532469bee6f52e04d58fbf1a">
+               <ce:label>c</ce:label>
+               <ce:textfn>Delft University of Technology, Faculty of Civil Engineering, Stevinweg 01, 2628 CN, Delft, the Netherlands</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Delft University of Technology</sa:organization>
+                  <sa:organization>Faculty of Civil Engineering</sa:organization>
+                  <sa:address-line>Stevinweg 01</sa:address-line>
+                  <sa:city>Delft</sa:city>
+                  <sa:postal-code>2628 CN</sa:postal-code>
+                  <sa:country>the Netherlands</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0020">Delft University of Technology, Faculty of Civil Engineering, Stevinweg 01, 2628 CN, Delft, The Netherlands</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor1">
+               <ce:label>∗</ce:label>
+               <ce:text>Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="22" month="9" year="2021"/>
+         <ce:date-revised day="14" month="1" year="2022"/>
+         <ce:date-accepted day="22" month="1" year="2022"/>
+         <ce:abstract xml:lang="en" id="abs0010" view="all" class="author">
+            <ce:section-title id="sectitle0010">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0010" view="all">
+               <ce:simple-para id="abspara0010" view="all">Silica scaling is one of the major scaling challenges in Reverse Osmosis (RO). The safe operation practice is to keep the silica concentration below 150 mg/L in RO concentrate. This study addresses the effects of divalent cations such as calcium and magnesium on silica scaling in a seawater RO installation used as a pretreatment to Eutectic Freeze Crystallisation (EFC). Results showed that in the absence of antiscalant and divalent cations a sustained silica concentration of approximately 280 mg/L in concentrate is possible without declining membrane permeability. At a higher concentration of divalent cations, the membrane permeability decreased. Membrane autopsy and analysing destructed membrane showed a relatively low magnesium and a high calcium concentration on the membrane after adding divalent ions into the solutions. It is concluded that in absence of divalent cations and without antiscalant the limits of 150 mg/L silica can be extended to 280 mg/L for 6–8 h.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+            <ce:section-title id="sectitle0015">Keywords</ce:section-title>
+            <ce:keyword id="kwrd0010">
+               <ce:text>Membrane fouling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0015">
+               <ce:text>Reverse osmosis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0020">
+               <ce:text>Silica scaling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0025">
+               <ce:text>PHREEQC</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

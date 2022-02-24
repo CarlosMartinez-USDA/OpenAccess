@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Electroencephalogram (EEG) dataset with porn addiction and healthy teenagers under rest and executive function task</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Xiaoxi</namePart>
+      <namePart type="family">Kang</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3869-4741</nameIdentifier>
+      <displayForm>Kang, Xiaoxi</displayForm>
+      <affiliation>School of Computer Science and Engineering, Faculty of Innovation and Technology, Taylor's University, 47500 Subang Jaya, Selangor, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">I Made Artha</namePart>
+      <namePart type="family">Agastya</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8739-5767</nameIdentifier>
+      <displayForm>Agastya, I Made Artha</displayForm>
+      <affiliation>School of Computer Science and Engineering, Faculty of Innovation and Technology, Taylor's University, 47500 Subang Jaya, Selangor, Malaysia</affiliation>
+      <affiliation>Department of Informatics, Universitas Amikom Yogyakarta, Jl. Ringroad Utara, Condong Catur Depok, Sleman Yogyakarta 55583, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dini Oktarina Dwi</namePart>
+      <namePart type="family">Handayani</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1544-0688</nameIdentifier>
+      <displayForm>Handayani, Dini Oktarina Dwi</displayForm>
+      <affiliation>School of Computer Science and Engineering, Faculty of Innovation and Technology, Taylor's University, 47500 Subang Jaya, Selangor, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mun Hou</namePart>
+      <namePart type="family">Kit</namePart>
+      <displayForm>Kit, Mun Hou</displayForm>
+      <affiliation>Department of Mechatronic and Biomedical Engineering, Faculty of Engineering and Science, Universiti Tunku Abdul Rahman, Bandar Sungai Long, Selangor 43000, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Abdul Wahab Bin Abdul</namePart>
+      <namePart type="family">Rahman</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9255-4104</nameIdentifier>
+      <displayForm>Rahman, Abdul Wahab Bin Abdul</displayForm>
+      <affiliation>Department of Computer Science, Faculty of Information Communication and Technology, International Islamic University Malaysia, 50728 Gombak, Kuala Lumpur, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The electroencephalogram (EEG) signal data were obtained from Yayasan Kita dan Buah Hati (YKBH), Jakarta, Indonesia and collected using a Brain Maker EEG machine with 19 channels. The sampling rate of the machine was 250 Hz. Fourteen participants (five females and nine males) participated in the data collection. A psychologist verified that seven of them were addicted to porn, and seven were healthy teenagers. The EEG data were recorded using one protocol with nine tasks for 10 min. The three stages were the baseline (tasks with eyes closed and open), emotional state (happy, calm, sad and fearful tasks) and main (15-words memorisation task, executive task and 15-words recall task) stages. The data obtained was used to analyse the signal pattern of pornography addiction amongst teenagers, as well as the emotional signal pattern and working memory capacity. </abstract>
+   <subject>
+      <topic>Electroencephalogram</topic>
+   </subject>
+   <subject>
+      <topic>Emotional state</topic>
+   </subject>
+   <subject>
+      <topic>Teenager pornography addiction</topic>
+   </subject>
+   <subject>
+      <topic>Working memory capacity</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107467</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107467</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107467</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00749-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-07"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007496/S2352340921007496.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

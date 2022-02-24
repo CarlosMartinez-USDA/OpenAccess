@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107780">
+         <dct:format>application/xml</dct:format>
+         <dct:title>High frequency accuracy and loss data of random neural networks trained on image datasets</dct:title>
+         <dct:creator>Ariel Keller Rorabaugh</dct:creator>
+         <dct:creator>Silvina Caíno-Lores</dct:creator>
+         <dct:creator>Travis Johnston</dct:creator>
+         <dct:creator>Michela Taufer</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Loss curve</rdf:li>
+               <rdf:li>Accuracy curve</rdf:li>
+               <rdf:li>Classification</rdf:li>
+               <rdf:li>Performance prediction</rdf:li>
+               <rdf:li>Early stopping</rdf:li>
+               <rdf:li>Neural architecture search</rdf:li>
+               <rdf:li>Machine learning</rdf:li>
+               <rdf:li>Artificial intelligence</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107780</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107780</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107780</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107780</dct:identifier>
+         <bam:articleNumber>107780</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-30T13:18:05Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107780</ja:aid>
+         <ce:article-number>107780</ce:article-number>
+         <ce:pii>S2352-3409(21)01054-4</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107780</ce:doi>
+         <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">High frequency accuracy and loss data of random neural networks trained on image datasets</ce:title>
+         <ce:short-title id="stitle0010">High frequency accuracy and loss data of random neural networks trained on image datasets</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010544-478bccc2414495b733bb3a54b8cbe661">
+               <ce:given-name>Ariel Keller</ce:given-name>
+               <ce:surname>Rorabaugh</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010544-33844209d3ed16725a4a49cf8b6649a8">
+               <ce:given-name>Silvina</ce:given-name>
+               <ce:surname>Caíno-Lores</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010544-e43999312c17483c27c3107f6a35d253">
+               <ce:given-name>Travis</ce:given-name>
+               <ce:surname>Johnston</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010544-f147e62f74bff431778b790028187770"
+                       orcid="0000-0002-0031-6377">
+               <ce:given-name>Michela</ce:given-name>
+               <ce:surname>Taufer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:taufer@acm.org" id="ead0001">taufer@acm.org</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/MichelaTaufer">@MichelaTaufer</ce:e-address>
+               <ce:e-address id="ea3a"
+                             type="social-media"
+                             xlink:href="https://twitter.com/TauferLab">@TauferLab</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010544-b71dd8d5d1167f11c0befc17b643752a">
+               <ce:label>a</ce:label>
+               <ce:textfn id="textfn0002">University of Tennessee, Knoxville, TN 37996, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Tennessee</sa:organization>
+                  <sa:city>Knoxville</sa:city>
+                  <sa:state>TN</sa:state>
+                  <sa:postal-code>37996</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">University of Tennessee, Knoxville, TN 37996, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010544-b4ab58e13ca52df96c2c7e8f7a331183">
+               <ce:label>b</ce:label>
+               <ce:textfn id="textfn0003">Striveworks, Austin, TX, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Striveworks</sa:organization>
+                  <sa:city>Austin</sa:city>
+                  <sa:state>TX</sa:state>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0002">Striveworks, Austin, TX, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="17" month="9" year="2021"/>
+         <ce:date-revised day="15" month="12" year="2021"/>
+         <ce:date-accepted day="29" month="12" year="2021"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">Neural Networks (NNs) are increasingly used across scientific domains to extract knowledge from experimental or computational data. An NN is composed of natural or artificial neurons that serve as simple processing units and are interconnected into a model architecture; it acquires knowledge from the environment through a learning process and stores this knowledge in its connections. The learning process is conducted by training. During NN training, the learning process can be tracked by periodically validating the NN and calculating its fitness. The resulting sequence of fitness values (i.e., validation accuracy or validation loss) is called the NN learning curve. The development of tools for NN design requires knowledge of diverse NNs and their complete learning curves.</ce:simple-para>
+               <ce:simple-para id="sp0002" view="all">Generally, only final fully-trained fitness values for highly accurate NNs are made available to the community, hampering efforts to develop tools for NN design and leaving unaddressed aspects such as explaining the generation of an NN and reproducing its learning process. Our dataset fills this gap by fully recording the structure, metadata, and complete learning curves for a wide variety of random NNs throughout their training. Our dataset captures the lifespan of 6000 NNs throughout generation, training, and validation stages. It consists of a suite of 6000 tables, each table representing the lifespan of one NN. We generate each NN with randomized parameter values and train it for 40 epochs on one of three diverse image datasets (i.e., CIFAR-100, FashionMNIST, SVHN). We calculate and record each NN’s fitness with high frequency—every half epoch—to capture the evolution of the training and validation process. As a result, for each NN, we record the generated parameter values describing the structure of that NN, the image dataset on which the NN trained, and all loss and accuracy values for the NN every half epoch.</ce:simple-para>
+               <ce:simple-para id="sp0003" view="all">We put our dataset to the service of researchers studying NN performance and its evolution throughout training and validation. Statistical methods can be applied to our dataset to analyze the shape of learning curves in diverse NNs, and the relationship between an NN’s structure and its fitness. Additionally, the structural data and metadata that we record enable the reconstruction and reproducibility of the associated NN.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">Loss curve</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Accuracy curve</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Classification</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Performance prediction</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">Early stopping</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="txt0006">Neural architecture search</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="txt0007">Machine learning</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0009">
+               <ce:text id="txt0008">Artificial intelligence</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

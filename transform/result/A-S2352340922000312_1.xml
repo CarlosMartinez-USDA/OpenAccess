@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107819">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Flow visualization data from experiments with an oscillating circular cylinder in a gravity-driven soap film</dct:title>
+         <dct:creator>Emad Masroor</dct:creator>
+         <dct:creator>Wenchao Yang</dct:creator>
+         <dct:creator>Mark A. Stremler</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Vortex-induced vibrations</rdf:li>
+               <rdf:li>Vortex dynamics</rdf:li>
+               <rdf:li>Soap films</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 41 (2022). doi:10.1016/j.dib.2022.107819</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>41</prism:volume>
+         <prism:coverDisplayDate>April 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2022.107819</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107819</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107819</dct:identifier>
+         <bam:articleNumber>107819</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-07T12:32:13Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107819</ja:aid>
+         <ce:article-number>107819</ce:article-number>
+         <ce:pii>S2352-3409(22)00031-2</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107819</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0889-9746(21)00126-2</ce:pii>
+               <ce:doi>10.1016/j.jfluidstructs.2021.103343</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Flow visualization data from experiments with an oscillating circular cylinder in a gravity-driven soap film</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000312-41b0f47f61a0eeaf1f91eb8cde3a652f">
+               <ce:given-name>Emad</ce:given-name>
+               <ce:surname>Masroor</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:emad@vt.edu">emad@vt.edu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000312-3871379572445ddd40f0738cf341cf2f"
+                       orcid="0000-0002-9963-8682">
+               <ce:given-name>Wenchao</ce:given-name>
+               <ce:surname>Yang</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:wench86@vt.edu" id="ead0002">wench86@vt.edu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000312-46592e874de1322321975ff3c703e740"
+                       orcid="0000-0001-5785-7732">
+               <ce:given-name>Mark A.</ce:given-name>
+               <ce:surname>Stremler</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0003" type="email" xlink:href="mailto:stremler@vt.edu">stremler@vt.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000312-5fe9f3717423a41cb5f2f76464b23c28">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Engineering Mechanics Program, Virginia Tech, Blacksburg VA, 24061, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Engineering Mechanics Program</sa:organization>
+                  <sa:organization>Virginia Tech</sa:organization>
+                  <sa:city>Blacksburg</sa:city>
+                  <sa:state>VA,</sa:state>
+                  <sa:postal-code>24061</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aEngineering Mechanics Program, Virginia Tech, Blacksburg VA, 24061, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922000312-bb8ad686d31a4fa49c8d9e66e544d840">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Mechanical and Materials Engineering, Queens University, Kingston, Ontario, K7L 3N6, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Mechanical and Materials Engineering</sa:organization>
+                  <sa:organization>Queens University</sa:organization>
+                  <sa:city>Kingston</sa:city>
+                  <sa:state>Ontario,</sa:state>
+                  <sa:postal-code>K7L 3N6</sa:postal-code>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Mechanical and Materials Engineering, Queens University, Kingston, Ontario, K7L 3N6, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922000312-00e3117eee6ed71c960e56d6875a721c">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Biomedical Engineering and Mechanics, Virginia Tech, Blacksburg, VA, 24061, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biomedical Engineering and Mechanics</sa:organization>
+                  <sa:organization>Virginia Tech</sa:organization>
+                  <sa:city>Blacksburg</sa:city>
+                  <sa:state>VA,</sa:state>
+                  <sa:postal-code>24061</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Biomedical Engineering and Mechanics, Virginia Tech, Blacksburg, VA, 24061, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="13" month="7" year="2021"/>
+         <ce:date-revised day="21" month="12" year="2021"/>
+         <ce:date-accepted day="7" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara027" view="all">This article contains flow visualization data from experiments conducted in an inclined gravity-driven soap film intersected by a circular cylinder undergoing controlled transverse oscillations at a Reynolds number of <mml:math altimg="si1.svg">
+                     <mml:mrow>
+                        <mml:mtext>Re</mml:mtext>
+                        <mml:mo>≈</mml:mo>
+                        <mml:mn>235</mml:mn>
+                     </mml:mrow>
+                  </mml:math>. The dimensionless frequency and amplitude of cylinder oscillation were varied systematically over the ranges <mml:math altimg="si2.svg">
+                     <mml:mrow>
+                        <mml:mn>0.2</mml:mn>
+                        <mml:mo linebreak="goodbreak">&lt;</mml:mo>
+                        <mml:msup>
+                           <mml:mrow>
+                              <mml:mi>f</mml:mi>
+                           </mml:mrow>
+                           <mml:mo>*</mml:mo>
+                        </mml:msup>
+                        <mml:mo linebreak="goodbreak">&lt;</mml:mo>
+                        <mml:mn>1.8</mml:mn>
+                     </mml:mrow>
+                  </mml:math> and <mml:math altimg="si3.svg">
+                     <mml:mrow>
+                        <mml:mn>0.1</mml:mn>
+                        <mml:mo linebreak="goodbreak">&lt;</mml:mo>
+                        <mml:msup>
+                           <mml:mrow>
+                              <mml:mi>A</mml:mi>
+                           </mml:mrow>
+                           <mml:mo>*</mml:mo>
+                        </mml:msup>
+                        <mml:mo linebreak="goodbreak">&lt;</mml:mo>
+                        <mml:mn>1.3</mml:mn>
+                     </mml:mrow>
+                  </mml:math>. A high-speed camera was used to capture the interference fringe patterns reflected from the soap film. These videos show the structure of the wake behind the cylinder, including the initial formation of vortices and the extended ‘vortex street’. Several wake patterns were identified, including the classic 2S, P+S, 2P, and 2T patterns, which are discussed in detail in the accompanying research article titled “The wake of a transversely oscillating circular cylinder in a flowing soap film at low Reynolds number” [1]. The videos presented in this article can be accessed through the Virginia Tech University Libraries’ Repository at <ce:inter-ref id="interref0001"
+                                xlink:role="http://www.elsevier.com/xml/linking-roles/research-data"
+                                xlink:href="https://doi.org/10.7294/14448027.v5"
+                                xlink:type="simple">https://doi.org/10.7294/14448027.v5</ce:inter-ref>[2].</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Vortex-induced vibrations</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key000a1">
+               <ce:text id="cetext0002b">Vortex dynamics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key000b1">
+               <ce:text id="cetext0002a">Soap films</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Exploration of RNA-Seq data to identify a potential pathogen of the leaf-mining moth, Stomphastis thraustica (Meyrick, 1908) (Lepidoptera: Gracillariidae)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Kayvan</namePart>
+      <namePart type="family">Etebari</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5213-6362</nameIdentifier>
+      <displayForm>Etebari, Kayvan</displayForm>
+      <affiliation>School of Biological Sciences, The University of Queensland, St. Lucia, QLD 4072, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dianne B.J.</namePart>
+      <namePart type="family">Taylor</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4798-441X</nameIdentifier>
+      <displayForm>Taylor, Dianne B.J.</displayForm>
+      <affiliation>Biosecurity Queensland, Department of Agriculture and Fisheries, Ecosciences Precinct, Boggo Road, Dutton Park, QLD 4102, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Md. Mahbubur</namePart>
+      <namePart type="family">Rahman</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0821-0577</nameIdentifier>
+      <displayForm>Rahman, Md. Mahbubur</displayForm>
+      <affiliation>Biosecurity Queensland, Department of Agriculture and Fisheries, Ecosciences Precinct, Boggo Road, Dutton Park, QLD 4102, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kunjithapatham</namePart>
+      <namePart type="family">Dhileepan</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7232-0861</nameIdentifier>
+      <displayForm>Dhileepan, Kunjithapatham</displayForm>
+      <affiliation>Biosecurity Queensland, Department of Agriculture and Fisheries, Ecosciences Precinct, Boggo Road, Dutton Park, QLD 4102, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michael J.</namePart>
+      <namePart type="family">Furlong</namePart>
+      <displayForm>Furlong, Michael J.</displayForm>
+      <affiliation>School of Biological Sciences, The University of Queensland, St. Lucia, QLD 4072, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sassan</namePart>
+      <namePart type="family">Asgari</namePart>
+      <displayForm>Asgari, Sassan</displayForm>
+      <affiliation>School of Biological Sciences, The University of Queensland, St. Lucia, QLD 4072, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The leaf-mining moth, Stomphastis thraustica (Meyrick, 1908) was imported to Australia as a potential biological control agent of an exotic weed, bellyache bush (Jatropha gossypiifolia), from Peru. The insect colony has been maintained in the quarantine facility for over eight years but recently, significant mortality was observed in the culture. The larvae demonstrated swollen intersegments with a fragile integument. The infected larvae are cloudy muted green or yellowish whereas a healthy late instar larva is a vivid green. They slowly dehydrate and eventually die, at which point the larval body becomes rubbery and turns to black. We used next generation sequencing to identify the cause of mortality in the insects. Total RNA was extracted from 20 larvae in two cohorts, one with and one without apparent symptoms of disease, for deep sequencing on NovaSeq platform after eukaryote ribosomal RNA depletion. We identified several non-insect sequences belonging to viruses, bacteria, and fungi, but none of those showed significant abundance or enrichment in the infected dataset. The sequences related to a unicellular yeast, Saccharomyces cerevisiae, and they were among the highly expressed non-insect contigs; more than 5% of reads in both libraries mapped to the genome of this opportunistic microorganism. </abstract>
+   <subject>
+      <topic>Insect transcriptome</topic>
+   </subject>
+   <subject>
+      <topic>Insect pathology</topic>
+   </subject>
+   <subject>
+      <topic>Saccharomyces cerevisiae</topic>
+   </subject>
+   <subject>
+      <topic>Yeast</topic>
+   </subject>
+   <subject>
+      <topic>Bellyache bush</topic>
+   </subject>
+   <subject>
+      <topic>Weed biological control</topic>
+   </subject>
+   <subject>
+      <topic>Insect viruses</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107708</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107708</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107708</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00983-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-10"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009835/S2352340921009835.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

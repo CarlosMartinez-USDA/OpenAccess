@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A detailed microstructural and multiple responses analysis through blocking design to produce Ca(II)-alginate beads loaded with bioactive compounds extracted from by-products</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Tatiana Rocio</namePart>
+      <namePart type="family">Aguirre-Calvo</namePart>
+      <displayForm>Aguirre-Calvo, Tatiana Rocio</displayForm>
+      <affiliation>Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Química Orgánica y Departamento de Industrias, Buenos Aires, Argentina</affiliation>
+      <affiliation>CONICET-Universidad de Buenos Aires, Centro de Investigación en Hidratos de Carbono (CIHIDECAR), Buenos Aires, Argentina</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Daniel</namePart>
+      <namePart type="family">Aguirre-Calvo</namePart>
+      <displayForm>Aguirre-Calvo, Daniel</displayForm>
+      <affiliation>Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales. Departamento de Química Inorgánica, Analítica y Química Física. Buenos Aires, Argentina</affiliation>
+      <affiliation>CONICET-Universidad de Buenos Aires. Instituto de Química Física de los Materiales, Medio Ambiente y Energía (INQUIMAE). Buenos Aires, Argentina</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mercedes</namePart>
+      <namePart type="family">Perullini</namePart>
+      <displayForm>Perullini, Mercedes</displayForm>
+      <affiliation>Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales. Departamento de Química Inorgánica, Analítica y Química Física. Buenos Aires, Argentina</affiliation>
+      <affiliation>CONICET-Universidad de Buenos Aires. Instituto de Química Física de los Materiales, Medio Ambiente y Energía (INQUIMAE). Buenos Aires, Argentina</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Patricio R.</namePart>
+      <namePart type="family">Santagapita</namePart>
+      <displayForm>Santagapita, Patricio R.</displayForm>
+      <affiliation>Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Química Orgánica y Departamento de Industrias, Buenos Aires, Argentina</affiliation>
+      <affiliation>CONICET-Universidad de Buenos Aires, Centro de Investigación en Hidratos de Carbono (CIHIDECAR), Buenos Aires, Argentina</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The aim of the present research was to optimize the generation of Ca(II)-alginate beads containing extracts from by-products using a blocking design, with a concomitant evaluation of the microstructural changes of the hydrogel network assessed by SAXS. Two main industrial parameters were used as variables: sodium-alginate and calcium-chloride concentrations. Multiple responses related to the loading efficiency of the bioactive compounds, their activity by two methods (ABTS and FRAP) and a macroscopic property (roundness) were analyzed through the experimental design. The blocking design was efficient compared to a randomized design as confirmed by F-value&gt;1, highlighting the differences among the extracts. Besides, both synthesis variables significantly affected each response, showing the concentration of sodium alginate a higher impact. On the other hand, the extracts increased the interconnectivity of the rods (changing the fractal dimension from ∼1.80 to ∼2.10) due to the presence of trivalent cations since they induce a larger coordination of the network. The compactness and size of the rods and the characteristic size of the dimers were more influenced by the extracts than by the increase of alginate and calcium concentrations. The optimized combination of alginate (1.5% w/v) and calcium (2.5% w/v) achieved two goals: highest loading efficiency and activities of bioactive compounds, and stabilization of the microstructural modulations due to extract changes. </abstract>
+   <subject>
+      <topic>Antioxidants</topic>
+   </subject>
+   <subject>
+      <topic>Waste</topic>
+   </subject>
+   <subject>
+      <topic>Hydrogels</topic>
+   </subject>
+   <subject>
+      <topic>Response surface methodology</topic>
+   </subject>
+   <subject>
+      <topic>SAXS</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Food Hydrocolloids for Health</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-0259</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100030</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.fhfh.2021.100030</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.fhfh.2021.100030</url>
+   </location>
+   <identifier type="pii">S2667-0259(21)00022-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-09-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-0259/S2667025921X00027/S2667025921000224/S2667025921000224.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

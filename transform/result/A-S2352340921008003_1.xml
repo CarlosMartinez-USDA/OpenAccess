@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107524">
+         <dct:format>application/xml</dct:format>
+         <dct:title>MUG500+: Database of 500 high-resolution healthy human skulls and 29 craniotomy skulls and implants</dct:title>
+         <dct:creator>Jianning Li</dct:creator>
+         <dct:creator>Marcell Krall</dct:creator>
+         <dct:creator>Florian Trummer</dct:creator>
+         <dct:creator>Afaque Rafique Memon</dct:creator>
+         <dct:creator>Antonio Pepe</dct:creator>
+         <dct:creator>Christina Gsaxner</dct:creator>
+         <dct:creator>Yuan Jin</dct:creator>
+         <dct:creator>Xiaojun Chen</dct:creator>
+         <dct:creator>Hannes Deutschmann</dct:creator>
+         <dct:creator>Ulrike Zefferer</dct:creator>
+         <dct:creator>Ute Schäfer</dct:creator>
+         <dct:creator>Gord von Campe</dct:creator>
+         <dct:creator>Jan Egger</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Skull</rdf:li>
+               <rdf:li>Cranial implant design</rdf:li>
+               <rdf:li>Craniotomy</rdf:li>
+               <rdf:li>Patient-specific implants (PSI)</rdf:li>
+               <rdf:li>Computer-aided design (CAD)</rdf:li>
+               <rdf:li>Machine learning</rdf:li>
+               <rdf:li>deep learning</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107524</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107524</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107524</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107524</dct:identifier>
+         <bam:articleNumber>107524</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-26T18:23:57Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Austria Science Fund (FWF) 2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107524</ja:aid>
+         <ce:article-number>107524</ce:article-number>
+         <ce:pii>S2352-3409(21)00800-3</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107524</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">
+            <ce:italic>MUG500+</ce:italic>: Database of 500 high-resolution healthy human skulls and 29 craniotomy skulls and implants</ce:title>
+         <ce:short-title id="stitle0010">
+            <ce:italic>MUG500+</ce:italic>: Database of 500 high-resolution healthy human skulls and 29 craniotomy skulls and implants</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008003-6f0bb5d842382223e5933a5912588503">
+               <ce:given-name>Jianning</ce:given-name>
+               <ce:surname>Li</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:jianning.li@icg.tugraz.at"
+                             id="ead0001">jianning.li@icg.tugraz.at</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008003-9b445b840e869cfb1efe92cde12b5b13"
+                       orcid="0000-0002-0561-7718">
+               <ce:given-name>Marcell</ce:given-name>
+               <ce:surname>Krall</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008003-15581072c91f942a828a494f2250a3d7"
+                       orcid="0000-0002-8926-6029">
+               <ce:given-name>Florian</ce:given-name>
+               <ce:surname>Trummer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008003-f34eb21eca84d230087ae0faffb6980d">
+               <ce:given-name>Afaque Rafique</ce:given-name>
+               <ce:surname>Memon</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008003-d0ee9812e9659075bd7a832d62fb81db"
+                       orcid="0000-0002-5843-6275">
+               <ce:given-name>Antonio</ce:given-name>
+               <ce:surname>Pepe</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008003-24c79204745d2bedf03aefbe55bc4f74"
+                       orcid="0000-0002-2227-3523">
+               <ce:given-name>Christina</ce:given-name>
+               <ce:surname>Gsaxner</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921008003-45d554fdfcf737bb2ae9453177ee1a84">
+               <ce:given-name>Yuan</ce:given-name>
+               <ce:surname>Jin</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921008003-5d906ae93faeda5520da997cfef8d286">
+               <ce:given-name>Xiaojun</ce:given-name>
+               <ce:surname>Chen</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921008003-3478959de921939410ec473915e03335"
+                       orcid="0000-0003-4552-699X">
+               <ce:given-name>Hannes</ce:given-name>
+               <ce:surname>Deutschmann</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2352340921008003-35023534f78b7df1a74a025f051fffea">
+               <ce:given-name>Ulrike</ce:given-name>
+               <ce:surname>Zefferer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S2352340921008003-c3400a03ccacf6e7deaa796fdf2b513c">
+               <ce:given-name>Ute</ce:given-name>
+               <ce:surname>Schäfer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0012"
+                       author-id="S2352340921008003-5780ee4157288e54b93b23af6d04bfc9">
+               <ce:given-name>Gord von</ce:given-name>
+               <ce:surname>Campe</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0013"
+                       author-id="S2352340921008003-8c438ec48b8b70a0c4668db5b9711de3">
+               <ce:given-name>Jan</ce:given-name>
+               <ce:surname>Egger</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:jan.egger@medunigraz.at"
+                             id="ead0002">jan.egger@medunigraz.at</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008003-90f45377ceddfffb357a957335e0c94c">
+               <ce:label>a</ce:label>
+               <ce:textfn id="textfn0002">Graz University of Technology (TU Graz), Graz, Styria, Austria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Graz University of Technology (TU Graz)</sa:organization>
+                  <sa:address-line>Graz</sa:address-line>
+                  <sa:city>Styria</sa:city>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">Graz University of Technology (TU Graz), Graz, Styria, Austria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008003-d46b5da15c1eb613f64b666655ea372f">
+               <ce:label>b</ce:label>
+               <ce:textfn id="textfn0003">Computer Algorithms for Medicine Laboratory (Café Lab), Graz, Styria, Austria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Computer Algorithms for Medicine Laboratory (Café Lab)</sa:organization>
+                  <sa:address-line>Graz</sa:address-line>
+                  <sa:city>Styria</sa:city>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0002">Computer Algorithms for Medicine Laboratory (Café Lab), Graz, Styria, Austria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008003-2945be0b331cd85d1ef1f80462c99473">
+               <ce:label>c</ce:label>
+               <ce:textfn id="textfn0004">Medical University of Graz (MedUni Graz), Graz, Styria, Austria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Medical University of Graz (MedUni Graz)</sa:organization>
+                  <sa:address-line>Graz</sa:address-line>
+                  <sa:city>Styria</sa:city>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0003">Medical University of Graz (MedUni Graz), Graz, Styria, Austria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921008003-ad3de728c997a48dfc4bf15ef6bd9769">
+               <ce:label>d</ce:label>
+               <ce:textfn id="textfn0005">Research Center for Connected Healthcare Big Data, ZhejiangLab, Hangzhou, Zhejiang, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Research Center for Connected Healthcare Big Data</sa:organization>
+                  <sa:address-line>ZhejiangLab</sa:address-line>
+                  <sa:city>Hangzhou</sa:city>
+                  <sa:state>Zhejiang</sa:state>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0004">Research Center for Connected Healthcare Big Data, ZhejiangLab, Hangzhou, Zhejiang, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921008003-04ec592613c0416af7af553a8493031c">
+               <ce:label>e</ce:label>
+               <ce:textfn id="textfn0006">Institute of Biomedical Manufacturing and Life Quality Engineering, School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Biomedical Manufacturing and Life Quality Engineering, School of Mechanical Engineering</sa:organization>
+                  <sa:organization>Shanghai Jiao Tong University</sa:organization>
+                  <sa:city>Shanghai</sa:city>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0005">Institute of Biomedical Manufacturing and Life Quality Engineering, School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding authors.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="4" month="10" year="2021"/>
+         <ce:date-accepted day="25" month="10" year="2021"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">In this article, we present a skull database containing 500 healthy skulls segmented from high-resolution head computed-tomography (CT) scans and 29 defective skulls segmented from craniotomy head CTs. Each healthy skull contains the complete anatomical structures of human skulls, including the cranial bones, facial bones and other subtle structures. For each craniotomy skull, a part of the cranial bone is missing, leaving a defect on the skull. The defects have various sizes, shapes and positions, depending on the specific pathological conditions of each patient. Along with each craniotomy skull, a cranial implant, which is designed manually by an expert and can fit with the defect, is provided. Considering the large volume of the healthy skull collection, the dataset can be used to study the geometry/shape variabilities of human skulls and create a robust statistical model of the shape of human skulls, which can be used for various tasks such as cranial implant design. The craniotomy collection can serve as an evaluation set for automatic cranial implant design algorithms.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">Skull</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Cranial implant design</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Craniotomy</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Patient-specific implants (PSI)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">Computer-aided design (CAD)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="txt0006">Machine learning</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="txt0007">deep learning</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

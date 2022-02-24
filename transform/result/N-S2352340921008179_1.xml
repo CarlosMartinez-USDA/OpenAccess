@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A dataset on multi-trait selection approaches for screening desirable wild relatives of wheat</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Alireza</namePart>
+      <namePart type="family">Pour-Aboughadareh</namePart>
+      <displayForm>Pour-Aboughadareh, Alireza</displayForm>
+      <affiliation>Seed and Plant Improvement Institute, Agricultural Research, Education and Extension Organization (AREEO), Karaj 3183964653, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Peter</namePart>
+      <namePart type="family">Poczai</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0107-1068</nameIdentifier>
+      <displayForm>Poczai, Peter</displayForm>
+      <affiliation>Botany Unit, Finnish Museum of Natural History, University of Helsinki, P.O. Box 7, Helsinki FI‐00014, Finland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Wild relatives of common wheat are an extraordinary source of tolerance to various environmental stresses. The dataset herein presents the effect of water-deficit stress on a core collection of landraces and wild relatives of wheat (including 180 samples belonging to four Triticum and eight Aegilops species [T. boeoticum Bioss., T. urartu Gandilyan., T. durum Def., T. aestivum L., Ae. speltoides Tausch., Ae. tauschii Coss., Ae. caudata L., Ae. umbellulata Zhuk., Ae. neglecta L., Ae. cylindrica Host., Ae. crassa Boiss., and Ae. triuncialis]) in terms of several physiological traits, root and shoot biomasses, and features of root system architecture (RSA). All genetic materials were subjected to water-stress treatment using a pot experiment under greenhouse conditions. To screen the most tolerant accessions, three selection indices, such as Smith and Hazel (SH), factor analysis and ideotype‐design (FAI), and the multi-trait genotype-ideotype distance index (MGIDI) were computed. The obtained data can highlight the role of some features of RSA in increasing water-deficit tolerance in some wild relatives of wheat. Moreover, the use of selection indices in the early stage of growth can be highlighted for future research. </abstract>
+   <subject>
+      <topic>Crop wild relatives</topic>
+   </subject>
+   <subject>
+      <topic>Drought stress</topic>
+   </subject>
+   <subject>
+      <topic>MGIDI index</topic>
+   </subject>
+   <subject>
+      <topic>Physiological trait</topic>
+   </subject>
+   <subject>
+      <topic>Root system features</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107541</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107541</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107541</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00817-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-29"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008179/S2352340921008179.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107748">
+         <dct:format>application/xml</dct:format>
+         <dct:title>First Apatite (U-Th)/He and apatite fission-track thermochronology dataset from the Abancay Deflection (Eastern Cordillera, Southern Peru).</dct:title>
+         <dct:creator>Benjamin Gérard</dct:creator>
+         <dct:creator>Xavier Robert</dct:creator>
+         <dct:creator>Laurence Audin</dct:creator>
+         <dct:creator>Cécile Gautheron</dct:creator>
+         <dct:creator>Matthias Bernet</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>In-situ apatite</rdf:li>
+               <rdf:li>Abancay Deflection magmatic bodies</rdf:li>
+               <rdf:li>(U-Th)/He data</rdf:li>
+               <rdf:li>Fission-track data</rdf:li>
+               <rdf:li>Peru</rdf:li>
+               <rdf:li>Eastern Cordillera</rdf:li>
+               <rdf:li>Altiplano</rdf:li>
+               <rdf:li>Upper crust cooling dynamic</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107748</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107748</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107748</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107748</dct:identifier>
+         <bam:articleNumber>107748</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-21T17:38:23Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107748</ja:aid>
+         <ce:article-number>107748</ce:article-number>
+         <ce:pii>S2352-3409(21)01023-4</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107748</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">First Apatite (U-Th)/He and apatite fission-track thermochronology dataset from the Abancay Deflection (Eastern Cordillera, Southern Peru).</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010234-ac15fec7255c087402d471d07807c112"
+                       orcid="0000-0001-8143-8343">
+               <ce:given-name>Benjamin</ce:given-name>
+               <ce:surname>Gérard</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role>Sampling</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:benjamin.gerard@get.omp.eu">benjamin.gerard@get.omp.eu</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/GrardBenjamin2">@GrardBenjamin2</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010234-7c34528c42a0b7b68fed8bce4503fc9c"
+                       orcid="0000-0002-0567-7497">
+               <ce:given-name>Xavier</ce:given-name>
+               <ce:surname>Robert</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role>Sampling</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010234-d7914c5a278680c9430b9bcc3a7c1985"
+                       orcid="0000-0002-4510-479X">
+               <ce:given-name>Laurence</ce:given-name>
+               <ce:surname>Audin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role>Sampling</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea3a"
+                             type="social-media"
+                             xlink:href="https://twitter.com/LaurenceAudin">@LaurenceAudin</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010234-4057f6a51a793a097e8c926f1da8242e"
+                       orcid="0000-0001-7068-9868">
+               <ce:given-name>Cécile</ce:given-name>
+               <ce:surname>Gautheron</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921010234-cc57180c0a955a1245426aa5a2815e02"
+                       orcid="0000-0001-5046-7520">
+               <ce:given-name>Matthias</ce:given-name>
+               <ce:surname>Bernet</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010234-a30bbcd944e9f9236bf3caa27fcb1732">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">GET, Université de Toulouse, CNRS, IRD, UPS, Toulouse, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>GET</sa:organization>
+                  <sa:organization>Université de Toulouse</sa:organization>
+                  <sa:organization>CNRS</sa:organization>
+                  <sa:organization>IRD</sa:organization>
+                  <sa:organization>UPS</sa:organization>
+                  <sa:city>Toulouse</sa:city>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aGET, Université de Toulouse, CNRS, IRD, UPS, Toulouse, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010234-095368df68dddab993b228d615e46220">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Université Grenoble Alpes, Université Savoie Mont Blanc, CNRS, IRD, IFSTTAR, ISTerre, Grenoble, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Université Grenoble Alpes</sa:organization>
+                  <sa:organization>Université Savoie Mont Blanc</sa:organization>
+                  <sa:organization>CNRS</sa:organization>
+                  <sa:organization>IRD</sa:organization>
+                  <sa:organization>IFSTTAR</sa:organization>
+                  <sa:organization>ISTerre</sa:organization>
+                  <sa:city>Grenoble</sa:city>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bUniversité Grenoble Alpes, Université Savoie Mont Blanc, CNRS, IRD, IFSTTAR, ISTerre, Grenoble, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010234-6551912d8c11cb286f0736e1c6cca68e">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Université Paris-Saclay, CNRS, GEOPS, Orsay, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Université Paris-Saclay</sa:organization>
+                  <sa:organization>CNRS</sa:organization>
+                  <sa:organization>GEOPS</sa:organization>
+                  <sa:city>Orsay</sa:city>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cUniversité Paris-Saclay, CNRS, GEOPS, Orsay, France</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Géosciences Environnement Toulouse, 14 Avenue Edouard Belin, 31400, Toulouse, France.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Géosciences Environnement Toulouse</sa:organization>
+                  <sa:address-line>14 Avenue Edouard Belin</sa:address-line>
+                  <sa:city>Toulouse</sa:city>
+                  <sa:postal-code>31400</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="29" month="9" year="2021"/>
+         <ce:date-revised day="16" month="12" year="2021"/>
+         <ce:date-accepted day="20" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">According to their respective temperature sensitivities, Apatite (U-Th)/He (AHe) and apatite fission-track (AFT) thermochronology records the thermal evolution of the upper crust (&lt;5 km) and is a key for distinguishing between different exhumation mechanisms through time-evolving rock uplift, and landscape evolution. We applied these methods to extract the thermal evolution of the upper crust in the Abancay Deflection at the northern edge of the Altiplano (southern Peru). We present 120 single-crystal AHe ages (from 31 samples) and 27 AFT central ages obtained from magmatic bodies across the study area. AHe ages range from 0.6 <mml:math altimg="si3.svg">
+                     <mml:mo>±</mml:mo>
+                  </mml:math> 0.1 to 35.8 <mml:math altimg="si3.svg">
+                     <mml:mo>±</mml:mo>
+                  </mml:math> 2.9 Ma with a satisfactory reproducibility of single-crystal AHe ages with less than 10% averaged dispersion. AFT ages range from 2.6 <mml:math altimg="si3.svg">
+                     <mml:mo>±</mml:mo>
+                  </mml:math> 1.9 to 38.2 <mml:math altimg="si3.svg">
+                     <mml:mo>±</mml:mo>
+                  </mml:math> 4.4 Ma with P(<mml:math altimg="si4.svg">
+                     <mml:mi>χ</mml:mi>
+                  </mml:math>
+                  <ce:sup loc="post">2</ce:sup>) values &gt;5%. This dataset allows exploring the crust evolution from the late-Eocene to the Quaternary. Data processed and interpreted in the related article published in <ce:italic>Tectonics</ce:italic>[6] are stored in PANGAEA repository (108 AHe single-grain ages and 27 AFT ages). We furthermore present in this article 12 extra single-grain AHe ages obtained after the related article publication. We also present the details of fission-track length measurements published in the related article. Thermochronological ages could be reused for testing He diffusion or fission track annealing processes or investigating the broader tectonic/geodynamic evolution of the Andes.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">In-situ apatite</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Abancay Deflection magmatic bodies</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">(U-Th)/He data</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Fission-track data</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Peru</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Eastern Cordillera</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Altiplano</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Upper crust cooling dynamic</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

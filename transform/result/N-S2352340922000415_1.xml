@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>DIA proteomics data from a UPS1-spiked E.coli protein mixture processed with six software tools</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Clarisse</namePart>
+      <namePart type="family">Gotti</namePart>
+      <displayForm>Gotti, Clarisse</displayForm>
+      <affiliation>Proteomics Platform, CHU de Québec - Université Laval Research Centre, Québec City, Québec G1V 4G2, Canada</affiliation>
+      <affiliation>Computational Biology Laboratory, CHU de Québec - Université Laval Research Centre, Québec City, Québec G1V 4G2, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Florence</namePart>
+      <namePart type="family">Roux-Dalvai</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9961-8964</nameIdentifier>
+      <displayForm>Roux-Dalvai, Florence</displayForm>
+      <affiliation>Proteomics Platform, CHU de Québec - Université Laval Research Centre, Québec City, Québec G1V 4G2, Canada</affiliation>
+      <affiliation>Computational Biology Laboratory, CHU de Québec - Université Laval Research Centre, Québec City, Québec G1V 4G2, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Charles</namePart>
+      <namePart type="family">Joly-Beauparlant</namePart>
+      <displayForm>Joly-Beauparlant, Charles</displayForm>
+      <affiliation>Computational Biology Laboratory, CHU de Québec - Université Laval Research Centre, Québec City, Québec G1V 4G2, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Loïc</namePart>
+      <namePart type="family">Mangnier</namePart>
+      <displayForm>Mangnier, Loïc</displayForm>
+      <affiliation>Computational Biology Laboratory, CHU de Québec - Université Laval Research Centre, Québec City, Québec G1V 4G2, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mickaël</namePart>
+      <namePart type="family">Leclercq</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6205-888X</nameIdentifier>
+      <displayForm>Leclercq, Mickaël</displayForm>
+      <affiliation>Computational Biology Laboratory, CHU de Québec - Université Laval Research Centre, Québec City, Québec G1V 4G2, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Arnaud</namePart>
+      <namePart type="family">Droit</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7922-790X</nameIdentifier>
+      <displayForm>Droit, Arnaud</displayForm>
+      <affiliation>Proteomics Platform, CHU de Québec - Université Laval Research Centre, Québec City, Québec G1V 4G2, Canada</affiliation>
+      <affiliation>Computational Biology Laboratory, CHU de Québec - Université Laval Research Centre, Québec City, Québec G1V 4G2, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-11</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In this article, we provide a proteomic reference dataset that has been initially generated for a benchmarking of software tools for Data-Independent Acquisition (DIA) analysis. This large dataset includes 96 DIA .raw files acquired from a complex proteomic standard composed of an E.coli protein background spiked-in with 8 different concentrations of 48 human proteins (UPS1 Sigma). These 8 samples were analyzed in triplicates on an Orbitrap mass spectrometer with 4 different DIA window schemes. We also provide the spectral libraries and FASTA file used for their analysis and the software outputs of the six tools used in this study: DIA-NN, Spectronaut, ScaffoldDIA, DIA-Umpire, Skyline and OpenSWATH. This dataset also contains post-processed quantification tables where the peptides and proteins have been validated, their intensities normalized and the missing values imputed with a noise value. All the files are available on ProteomeXchange. Altogether, these files represent the most comprehensive DIA reference dataset acquired on an Orbitrap instrument ever published. It will be a very useful resource to the proteomic scientists in order to assess the performance of DIA software tools or to test their processing pipelines, to the software developers to improve their tools or develop new ones and to the students for their training on proteomics data analysis. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Data independent acquisition</topic>
+   </subject>
+   <subject>
+      <topic>Complex proteomic standard</topic>
+   </subject>
+   <subject>
+      <topic>Software tools benchmark</topic>
+   </subject>
+   <subject>
+      <topic>Spiked UPS1 human proteins</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">11</text>
+         <extent unit="pages">
+            <start>107829</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107829</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107829</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00041-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-12"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922000415/S2352340922000415.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

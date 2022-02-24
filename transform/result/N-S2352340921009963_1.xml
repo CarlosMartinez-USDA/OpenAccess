@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on draft genome assembly and annotation of Haloxylon salicornicum Moq.</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Fadila</namePart>
+      <namePart type="family">Al Salameen</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4826-3753</nameIdentifier>
+      <displayForm>Al Salameen, Fadila</displayForm>
+      <affiliation>Environment and Life Sciences Research Centre, Kuwait Institute for Scientific Research, Kuwait</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nazima</namePart>
+      <namePart type="family">Habibi</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0752-4774</nameIdentifier>
+      <displayForm>Habibi, Nazima</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sami</namePart>
+      <namePart type="family">Al Amad</namePart>
+      <displayForm>Al Amad, Sami</displayForm>
+      <affiliation>Environment and Life Sciences Research Centre, Kuwait Institute for Scientific Research, Kuwait</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bashayer</namePart>
+      <namePart type="family">Al Doaij</namePart>
+      <displayForm>Al Doaij, Bashayer</displayForm>
+      <affiliation>Environment and Life Sciences Research Centre, Kuwait Institute for Scientific Research, Kuwait</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Haloxylon salicornicum Moq. Bunge ex Boiss (Rimth) is one of the main structural elements in Eastern Arabian vegetation associations. The plant is utilized as a food source for domestic stock, stabilizes the soil surface besides providing suitable microclimates for exotic species. It is considered one of the most promising species for re-vegetation. H. salicornicum community is under threat from overgrazing leading to a reduction in the percentage of distribution from 22.7% to 2.2% in Kuwait. Therefore, genome characterization of this important Kuwaiti plant is required to formulate strategies for its conservation. Here we report the draft of the H. salicornicum genome, which was sequenced on an Illumina HiSeq 2500 platform. BUSCO assessment revealed 69% of the genome was to be complete. Overall, 12960 gene structures, 11280 protein-coding genes, 11309 mRNAs (protein-coding), 51265 exons and 48100 CDSs were predicted. Functional annotation was carried out by interproscan-5.29-68.0. A total of 7222 protein-coding sequences were, annotated out of 11309 by at least one ontology term. All these genes were associated with 11 major biological processes branched into 60 child processes. </abstract>
+   <subject>
+      <topic>Whole-genome sequencing</topic>
+   </subject>
+   <subject>
+      <topic>Desert</topic>
+   </subject>
+   <subject>
+      <topic>Native plants</topic>
+   </subject>
+   <subject>
+      <topic>Biodiversity</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107721</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107721</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107721</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00996-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009963/S2352340921009963.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107470">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Numerical simulation data of building integrated solar thermal collectors under diverse conditions</dct:title>
+         <dct:creator>Loucas Georgiou</dct:creator>
+         <dct:creator>Manolis Souliotis</dct:creator>
+         <dct:creator>Spiros Papaefthimiou</dct:creator>
+         <dct:creator>Paris A. Fokaides</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Solar collector</rdf:li>
+               <rdf:li>Flat plate collector</rdf:li>
+               <rdf:li>Building-integrated solar thermal collector</rdf:li>
+               <rdf:li>Transient heat transfer</rdf:li>
+               <rdf:li>Finite elements</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107470</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107470</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107470</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107470</dct:identifier>
+         <bam:articleNumber>107470</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-08T15:11:11Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107470</ja:aid>
+         <ce:article-number>107470</ce:article-number>
+         <ce:pii>S2352-3409(21)00752-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107470</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Numerical simulation data of building integrated solar thermal collectors under diverse conditions</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007526-d6bdf0a88c01741a28436f49f64253ca">
+               <ce:given-name>Loucas</ce:given-name>
+               <ce:surname>Georgiou</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007526-d38e6a53de4afac3193f23dd9e63eb93"
+                       orcid="0000-0001-5779-7805">
+               <ce:given-name>Manolis</ce:given-name>
+               <ce:surname>Souliotis</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007526-25cbb17574ef887556aedc11f03f3615"
+                       orcid="0000-0001-6004-2534">
+               <ce:given-name>Spiros</ce:given-name>
+               <ce:surname>Papaefthimiou</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007526-ce311450301bdccdb1c64d37772c8ab2"
+                       orcid="0000-0003-4112-3819">
+               <ce:given-name>Paris A.</ce:given-name>
+               <ce:surname>Fokaides</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:eng.fp@frederick.ac.cy">eng.fp@frederick.ac.cy</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007526-8f8797202ab68304c96c1d85795d851e">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">School of Engineering, Frederick University, Cyprus</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Engineering</sa:organization>
+                  <sa:organization>Frederick University</sa:organization>
+                  <sa:country>Cyprus</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aSchool of Engineering, Frederick University, Cyprus</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007526-3ff434308dbd0008f16cc3d0070242e1">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Chemical Engineering, University of Western Macedonia, Greece</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemical Engineering</sa:organization>
+                  <sa:organization>University of Western Macedonia</sa:organization>
+                  <sa:country>Greece</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Chemical Engineering, University of Western Macedonia, Greece</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921007526-e3041451cf11773a60a4efe5771d7976">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">School of Production Engineering and Management, Technical University of Crete, Greece</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Production Engineering and Management</sa:organization>
+                  <sa:organization>Technical University of Crete</sa:organization>
+                  <sa:country>Greece</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cSchool of Production Engineering and Management, Technical University of Crete, Greece</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921007526-fd243fc4045bfa730455f7564d450886">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Faculty of Civil Engineering and Architecture, Kaunas University of Technology Lithuania, Lithuania</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Civil Engineering and Architecture</sa:organization>
+                  <sa:organization>Kaunas University of Technology Lithuania</sa:organization>
+                  <sa:country>Lithuania</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dFaculty of Civil Engineering and Architecture, Kaunas University of Technology Lithuania, Lithuania</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: School of Engineering, Frederick University, Cyprus.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>School of Engineering</sa:organization>
+                  <sa:organization>Frederick University</sa:organization>
+                  <sa:country>Cyprus</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="8" month="4" year="2021"/>
+         <ce:date-revised day="15" month="9" year="2021"/>
+         <ce:date-accepted day="17" month="9" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara012" view="all">This dataset presents the thermal performance of building-integrated flat solar collectors with a uniform and multiple riser structure. The input data of the numerical model were obtained with the use of the PVGIS tool. Solar radiation and ambient temperature values at slopes 0°, 45°, and 90° were extracted and used as boundary conditions. Numerical calculations were carried using Finite Element (FE) analysis. Three-dimensional transient models were developed to calculate the investigated configurations’ thermal performance based on the environmental temperature, the solar radiation, and the inclination angle. The numerical model was validated with the use of an experimental data set showing a good agreement between the two models with RMSE of 5%. Data of hourly heat flux through the building masonry with the building-integrated solar collector and the average fluid temperature of each system is presented.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Solar collector</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Flat plate collector</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Building-integrated solar thermal collector</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Transient heat transfer</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Finite elements</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

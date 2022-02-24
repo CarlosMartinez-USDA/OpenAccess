@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>3D Dataset of binary images: A collection of synthetically created digital rock images of complex media</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Javier E.</namePart>
+      <namePart type="family">Santos</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2404-3975</nameIdentifier>
+      <displayForm>Santos, Javier E.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michael J.</namePart>
+      <namePart type="family">Pyrcz</namePart>
+      <displayForm>Pyrcz, Michael J.</displayForm>
+      <affiliation>Hildebrand Department of Petroleum and Geosystems Engineering, The University of Texas at Austin, Austin, TX, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Maša</namePart>
+      <namePart type="family">Prodanović</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1335-1374</nameIdentifier>
+      <displayForm>Prodanović, Maša</displayForm>
+      <affiliation>Hildebrand Department of Petroleum and Geosystems Engineering, The University of Texas at Austin, Austin, TX, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Digital rock images are computational representations that capture the geometrical complexity of systems present ubiquitously in nature. In recent years, their use has become widespread due to the increasing availability of repositories, and open-source physics simulators and analysis tools. Here, we present a dataset of 3D binary geometries in a standardized format that represent a wide variety of geological and engineering systems. Our data is freely available at [1]. </abstract>
+   <subject>
+      <topic>Sphere-packs</topic>
+   </subject>
+   <subject>
+      <topic>Fractures media</topic>
+   </subject>
+   <subject>
+      <topic>Catalyst layers</topic>
+   </subject>
+   <subject>
+      <topic>Shales</topic>
+   </subject>
+   <subject>
+      <topic>Vuggs</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107797</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107797</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107797</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00009-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-04"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000099/S2352340922000099.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

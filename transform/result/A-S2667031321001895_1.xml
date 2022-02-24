@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100207">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Elaeocarpus sylvestris extract (ESE) inhibits inflammatory mediators and increases the efficacy of sulfasalazine in rheumatoid arthritis</dct:title>
+         <dct:creator>Manorma Negi</dct:creator>
+         <dct:creator>Hyun-Jin Baek</dct:creator>
+         <dct:creator>Dae Won Park</dct:creator>
+         <dct:creator>Rina So</dct:creator>
+         <dct:creator>Jeong Eun Kwon</dct:creator>
+         <dct:creator>Hyelin Jeon</dct:creator>
+         <dct:creator>Yong Joon Jeong</dct:creator>
+         <dct:creator>Jae-Hyun Park</dct:creator>
+         <dct:creator>Inhye Kim</dct:creator>
+         <dct:creator>Tae Woo Kim</dct:creator>
+         <dct:creator>Hyunggun Kim</dct:creator>
+         <dct:creator>Se Chan Kang</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Rheumatoid arthritis</rdf:li>
+               <rdf:li>Collagen-induced arthritis</rdf:li>
+               <rdf:li>Inflammation</rdf:li>
+               <rdf:li>Elaeocarpus sylvestris</rdf:li>
+               <rdf:li>Sulfasalazine</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100207</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100207</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100207</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100207</dct:identifier>
+         <bam:articleNumber>100207</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-18T11:47:10Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Korea: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100207</ja:aid>
+         <ce:article-number>100207</ce:article-number>
+         <ce:pii>S2667-0313(21)00189-5</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100207</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">
+            <ce:italic>Elaeocarpus sylvestris</ce:italic> extract (ESE) inhibits inflammatory mediators and increases the efficacy of sulfasalazine in rheumatoid arthritis</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001895-7e5ed11fc30ebdf49e775a86965566c1">
+               <ce:given-name>Manorma</ce:given-name>
+               <ce:surname>Negi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001895-bcdcbc2ba54f65e54c85c002c70f6423">
+               <ce:given-name>Hyun-Jin</ce:given-name>
+               <ce:surname>Baek</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001895-def5eeb75a8719d27ea57553eebfaa0f">
+               <ce:given-name>Dae Won</ce:given-name>
+               <ce:surname>Park</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001895-8f129bc545fc9033670f36f9c7865962">
+               <ce:given-name>Rina</ce:given-name>
+               <ce:surname>So</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001895-bda9aa2eb72833f2f6737e2cf2b50344">
+               <ce:given-name>Jeong Eun</ce:given-name>
+               <ce:surname>Kwon</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031321001895-800df9b8634456702b960cc1d0beea03">
+               <ce:given-name>Hyelin</ce:given-name>
+               <ce:surname>Jeon</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667031321001895-8f69fbc38c04867cc5cd4b65be5c83d2">
+               <ce:given-name>Yong Joon</ce:given-name>
+               <ce:surname>Jeong</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667031321001895-182c7977a9597337af85eb75dbbedb7e">
+               <ce:given-name>Jae-Hyun</ce:given-name>
+               <ce:surname>Park</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667031321001895-10a87edd6daab6b0330e8a91b0c33ddf">
+               <ce:given-name>Inhye</ce:given-name>
+               <ce:surname>Kim</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2667031321001895-b99c705e0d20350b48c162fc9c6276fc">
+               <ce:given-name>Tae Woo</ce:given-name>
+               <ce:surname>Kim</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S2667031321001895-1bf67d23c9d8fe5106e81857fae7a6e4">
+               <ce:given-name>Hyunggun</ce:given-name>
+               <ce:surname>Kim</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0012"
+                       author-id="S2667031321001895-8aed7e48d49469cafe5b8faaf8cef1eb">
+               <ce:given-name>Se Chan</ce:given-name>
+               <ce:surname>Kang</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:sckang@khu.ac.kr">sckang@khu.ac.kr</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001895-78ec28d1e465c612054578096d40cb1f">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Oriental Medicine and Biotechnology, College of Life Sciences, Kyung Hee University, Yongin 17104, Gyeonggi-do, Republic of Korea</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department</sa:organization>
+                  <sa:organization>of Oriental Medicine and Biotechnology</sa:organization>
+                  <sa:organization>College of Life Sciences, Kyung Hee University</sa:organization>
+                  <sa:city>Yongin</sa:city>
+                  <sa:state>Gyeonggi-do</sa:state>
+                  <sa:postal-code>17104</sa:postal-code>
+                  <sa:country>Republic of Korea</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Oriental Medicine and Biotechnology, College of Life Sciences, Kyung Hee University, Yongin 17104, Gyeonggi-do, Republic of Korea</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001895-7dc87018228c42db8dc1d331db2840bd">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Research Institute, GENENCELL Co., Ltd., Yongin 16950, Gyeonggi-do, Republic of Korea</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Research Institute, GENENCELL Co., Ltd.</sa:organization>
+                  <sa:city>Yongin</sa:city>
+                  <sa:state>Gyeonggi-do</sa:state>
+                  <sa:postal-code>16950</sa:postal-code>
+                  <sa:country>Republic of Korea</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bResearch Institute, GENENCELL Co., Ltd., Yongin 16950, Gyeonggi-do, Republic of Korea</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001895-1a4298f13c5f2bec14eda86986365529">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Biomechatronic Engineering, Sungkyunkwan University, Suwon 16419, Gyeonggi-do, Republic of Korea</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biomechatronic Engineering</sa:organization>
+                  <sa:organization>Sungkyunkwan University</sa:organization>
+                  <sa:city>Suwon</sa:city>
+                  <sa:state>Gyeonggi-do</sa:state>
+                  <sa:postal-code>16419</sa:postal-code>
+                  <sa:country>Republic of Korea</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Biomechatronic Engineering, Sungkyunkwan University, Suwon 16419, Gyeonggi-do, Republic of Korea</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031321001895-c11a3f12ebbfb005a38b355eb6dceb22">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Biomedical Research Institute Center, Kyung Hee University, Yongin 17104, Republic of Korea</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Biomedical Research Institute Center, Kyung Hee University</sa:organization>
+                  <sa:city>Yongin</sa:city>
+                  <sa:postal-code>17104</sa:postal-code>
+                  <sa:country>Republic of Korea</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dBiomedical Research Institute Center, Kyung Hee University, Yongin 17104, Republic of Korea</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667031321001895-08cf0441a351949b634e2d6b6e79f97f">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Institute of Nano Science and Technology, Sahibzada Ajit Singh Nagar 140306, Punjab, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Nano Science and Technology</sa:organization>
+                  <sa:address-line>Sahibzada Ajit Singh Nagar</sa:address-line>
+                  <sa:state>Punjab</sa:state>
+                  <sa:postal-code>140306</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eInstitute of Nano Science and Technology, Sahibzada Ajit Singh Nagar 140306, Punjab, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Oriental Medicine Biotechnology, College of Life Sciences, Kyung Hee University, 1732, Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi 17104, Republic of Korea.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Oriental Medicine Biotechnology</sa:organization>
+                  <sa:organization>College of Life Sciences, Kyung Hee University</sa:organization>
+                  <sa:address-line>1732, Deogyeong-daero, Giheung-gu</sa:address-line>
+                  <sa:city>Yongin, Gyeonggi</sa:city>
+                  <sa:postal-code>17104</sa:postal-code>
+                  <sa:country>Republic of Korea</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Department of Biomechatronic Engineering, Sungkyunkwan University, 2066 Seoburo, Jangan-gu, Suwon, Gyeonggi 16419, Republic of Korea</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="5" month="10" year="2021"/>
+         <ce:date-revised day="15" month="12" year="2021"/>
+         <ce:date-accepted day="18" month="12" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara011" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Key mediators of inflammatory RA disease were suppressed in an ESE dose-dependent manner in vitro.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">In a collagen-induced DBA/1 J mouse model, the combination of ESE and SLZN significantly downregulated inflammatory cytokine expression, resulting in improvement of paw edema.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Coadministration of ESE and SLZN for treatment of RA can improve the therapeutic efficacy of the anti-RA drug.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara012" view="all">Interest in plant-based therapeutic products for treatment of several autoimmune diseases, including rheumatoid arthritis (RA), is increasing as current RA medications and treatments are either very expensive or ineffective.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" view="all">
+               <ce:section-title id="cesectitle0004">Purpose</ce:section-title>
+               <ce:simple-para id="spara013" view="all">We investigated the anti-inflammatory activity of <ce:italic>Elaeocarpus sylvestris</ce:italic> extract (ESE) and its therapeutic potential in collagen-induced arthritis (CIA) in the DBA/1 J mouse model and an in vitro model.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0005">Methods</ce:section-title>
+               <ce:simple-para id="spara014" view="all">In the in vitro assay, the effects of ESE and a combination of ESE + sulfasalazine (SLZN) on nitric oxide and proinflammatory cytokine expression induced by lipopolysaccharide in RAW264.7 cells were confirmed. Furthermore, enzyme-linked immunosorbent assays and real-time polymerase chain reactions were used to measure levels of RA-related inflammatory cytokines and biomarkers in serum and knee joints to evaluate the changes caused by co-administration of ESE and SLZN in our mouse CIA model. Micro-CT scans of knee joints were analyzed for all groups.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="results" view="all">
+               <ce:section-title id="cesectitle0006">Results</ce:section-title>
+               <ce:simple-para id="spara015" view="all">ESE and the combination of ESE + SLZN downregulated the expression of lipopolysaccharide-induced nitric oxide and proinflammatory cytokines in RAW264.7 cells. Also, combined ESE and SLZN treatment improved arthritis score, edema volume, and proinflammatory cytokine serum levels compared with the CIA group. In addition, chemokine expression was downregulated compared with the CIA group.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0007" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0007">Conclusion</ce:section-title>
+               <ce:simple-para id="spara016" view="all">These findings suggest that coadministration of ESE and SLZN can improve the efficacy of arthritis treatment with reduced side effects.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0008">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0008" view="all">
+               <ce:simple-para id="spara017" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0009">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Rheumatoid arthritis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Collagen-induced arthritis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Inflammation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">
+                  <ce:italic>Elaeocarpus sylvestris</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Sulfasalazine</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

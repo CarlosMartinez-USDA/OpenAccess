@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Investigating the lipid fingerprint of SLC6 neurotransmitter transporters: a comparison of dDAT, hDAT, hSERT, and GlyT2</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Katie A.</namePart>
+      <namePart type="family">Wilson</namePart>
+      <displayForm>Wilson, Katie A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lily</namePart>
+      <namePart type="family">Wang</namePart>
+      <displayForm>Wang, Lily</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yie Chang</namePart>
+      <namePart type="family">Lin</namePart>
+      <displayForm>Lin, Yie Chang</displayForm>
+      <affiliation>Research School of Chemistry, College of Science, Australian National University, Canberra, ACT, 2601, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Megan L.</namePart>
+      <namePart type="family">O'Mara</namePart>
+      <displayForm>O'Mara, Megan L.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The local lipid annulus, or “fingerprint”, of four SLC6 transporters (dDAT, hDAT, hSERT, and GlyT2) embedded in a complex neuronal membrane were compared and characterised using molecular dynamics. Our analysis included the development of new tools to improve membrane leaflet detection and the analysis of leaflet-dependent properties. Overall, the lipid fingerprints of the four transporters are comprised of similar lipids when grouped by headgroup or tail saturation. The enrichment and depletion of specific lipids, including sites of cholesterol contacts, varies between transporters. The subtle differences in lipid fingerprints results in varying membrane biophysical properties near the transporter. Our results highlight that the lipid-fingerprint of SLC6 transporters in complex membranes is highly dependent on membrane composition. Our results further characterize how the presence and identity of membrane proteins affects the complex interplay of lipid-protein interactions, influencing the local lipid environment and membrane biophysical properties. </abstract>
+   <subject>
+      <topic>nNeuronal membrane</topic>
+   </subject>
+   <subject>
+      <topic>lLipid-protein interactions</topic>
+   </subject>
+   <subject>
+      <topic>SLC6 transport proteins</topic>
+   </subject>
+   <subject>
+      <topic>mMembrane transporters</topic>
+   </subject>
+   <subject>
+      <topic>mMolecular dynamics</topic>
+   </subject>
+   <subject>
+      <topic>mMembrane analysis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100010</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100010</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100010</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00009-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-03-18"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S2667160321000090/S2667160321000090.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

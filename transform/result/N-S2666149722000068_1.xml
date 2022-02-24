@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Assessing association between paternal smoking status and child malnutrition in Albania: An application of ordinal regression model</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ashis</namePart>
+      <namePart type="family">Talukder</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2205-0696</nameIdentifier>
+      <displayForm>Talukder, Ashis</displayForm>
+      <affiliation>Statistics Discipline, Khulna University, Khulna, 9208, Bangladesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Muhammad Mahmudul</namePart>
+      <namePart type="family">Hasan</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4745-7553</nameIdentifier>
+      <displayForm>Hasan, Muhammad Mahmudul</displayForm>
+      <affiliation>Durham University, Mathematical Sciences, County, Durham, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given"/>
+      <namePart type="family">Asikunnaby</namePart>
+      <displayForm>Asikunnaby, </displayForm>
+      <affiliation>Institue of Hazard, Risk and Resilience, Durham University, County, Durham, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-31</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In this study, an attempt has been made to seek out the impact of paternal smoking status over child malnutrition in Albania. For analysis purposes, data were extracted from Albania Demographic and Health Survey (ADHS), 2017/18. The bivariate analysis set up with chi-square test as well as gamma measure were performed to examine the association between child malnutrition and selected covariates. To measure the consequence of paternal smoking status on malnutrition, two different ordinal regression models (Model I: considering only one covariate such as father’s smoking status, Model II: covariates of the model I along with demographic and clinical variables) were considered. Father’s smoking status was found to be strongly associated with the increased risk of child malnutrition in Albania and it was statistically significant in both regression models. After controlling all of our demographic and clinical variables, the odds ratio for a smoker father compared to a non-smoker father was 1.109 with 95% confidence interval (1.114, 1.472) for child malnutrition. This study provides strong evidence for an adverse relationship between father’s smoking status and child malnutrition in Albania. Implementing and enforcing several policies such as significant taxes escalation on cigarettes, promoting cessation for the health care system, and implementation of clean indoor air laws would not only reduce the current smoking rates but also smoking prevalence by raising awareness among the young Albanian generation. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Paternal smoking</topic>
+   </subject>
+   <subject>
+      <topic>Malnutrition</topic>
+   </subject>
+   <subject>
+      <topic>Albania</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Human Nutrition &amp; Metabolism</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2666-1497</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">31</text>
+         <extent unit="pages">
+            <start>200143</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.hnm.2022.200143</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.hnm.2022.200143</url>
+   </location>
+   <identifier type="pii">S2666-1497(22)00006-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-31"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2666-1497/aip/S2666149722000068/S2666149722000068.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

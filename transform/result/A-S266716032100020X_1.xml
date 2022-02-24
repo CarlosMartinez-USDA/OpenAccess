@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100021">
+         <dct:format>application/xml</dct:format>
+         <dct:title>The degree and position of phosphorylation determine the impact of toxic and trace metals on phosphoinositide containing model membranes</dct:title>
+         <dct:creator>Weiam Daear</dct:creator>
+         <dct:creator>Robyn Mundle</dct:creator>
+         <dct:creator>Kevin Sule</dct:creator>
+         <dct:creator>Elmar J Prenner</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Phosphatidylinositol</rdf:li>
+               <rdf:li>Lipid-metal interactions</rdf:li>
+               <rdf:li>Model membranes</rdf:li>
+               <rdf:li>Membrane fluidity</rdf:li>
+               <rdf:li>Liposomes</rdf:li>
+               <rdf:li>Lipid domains</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100021</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100021</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100021</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100021</dct:identifier>
+         <bam:articleNumber>100021</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-07-29T13:28:59Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100021</ja:aid>
+         <ce:article-number>100021</ce:article-number>
+         <ce:pii>S2667-1603(21)00020-X</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100021</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">The degree and position of phosphorylation determine the impact of toxic and trace metals on phosphoinositide containing model membranes</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S266716032100020X-2e833e9aadb5cc92c361572108836004">
+               <ce:given-name>Weiam</ce:given-name>
+               <ce:surname>Daear</ce:surname>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">#</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S266716032100020X-121f8b8a8d5653eb11e400e19669c848">
+               <ce:given-name>Robyn</ce:given-name>
+               <ce:surname>Mundle</ce:surname>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">#</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S266716032100020X-504608691c76228316135255be174fd3">
+               <ce:given-name>Kevin</ce:given-name>
+               <ce:surname>Sule</ce:surname>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S266716032100020X-a14364f93ec0c381782bfdf56570507b">
+               <ce:given-name>Elmar J</ce:given-name>
+               <ce:surname>Prenner</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:eprenner@ucalgary.ca">eprenner@ucalgary.ca</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S266716032100020X-6e67eae7690e4b598b92671b530a6765">
+               <ce:textfn id="cetextfn0001">Department of Biological Sciences, University of Calgary, T2N 1N4 Calgary, Alberta, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biological Sciences</sa:organization>
+                  <sa:organization>University of Calgary</sa:organization>
+                  <sa:city>Calgary</sa:city>
+                  <sa:state>Alberta</sa:state>
+                  <sa:postal-code>T2N 1N4</sa:postal-code>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Biological Sciences, University of Calgary, T2N 1N4 Calgary, Alberta, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>#</ce:label>
+               <ce:note-para id="notep0001" view="all">Both authors contributed equally and are listed in alphabetical order</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Metal induced changes of membrane fluidity in phosphoinositide dependent manner.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Metals induced phase separation and cluster formation in PI containing membranes.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Metal induced liposome aggregation in phosphoinositide dependent manner.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara010" view="all">This work assessed effects of metal binding on membrane fluidity, liposome size, and lateral organization in biomimetic membranes composed of 1 mol% of selected phosphorylated phosphoinositides in each system. Representative examples of phosphoinositide phosphate, bisphosphate and triphosphate were investigated. These include phosphatidylinositol-(4,5)-bisphosphate, an important signaling lipid constituting a minor component in plasma membranes whereas phosphatidylinositol-(4,5)-bisphosphate clusters support the propagation of secondary messengers in numerous signaling pathways. The high negative charge of phosphoinositides facilitates electrostatic interactions with metals. Lipids are increasingly identified as toxicological targets for divalent metals, which potentially alter lipid packing and domain formation.</ce:simple-para>
+               <ce:simple-para id="spara011" view="all">Exposure to heavy metals, such as lead and cadmium or elevated levels of essential metals, like cobalt, nickel, and manganese, implicated with various toxic effects were investigated.  Phosphatidylinositol-(4)-phosphate and phosphatidylinositol-(3,4,5)-triphosphate containing membranes are rigidified by lead, cobalt, and manganese whilst cadmium and nickel enhanced fluidity of membranes containing phosphatidylinositol-(4,5)-bisphosphate. Only cobalt induced liposome aggregation. All metals enhanced lipid clustering in phosphatidylinositol-(3,4,5)-triphosphate systems, cobalt in phosphatidylinositol-(4,5)-bisphosphate systems, while all metals showed limited changes in lateral film organization in phosphatidylinositol-(4)-phosphate matrices. These observed changes are relevant from the biophysical perspective as interference with the spatiotemporal formation of intricate domains composed of important signaling lipids may contribute to metal toxicity.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003">Graphical abstracts</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara012" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0004">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Phosphatidylinositol</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Lipid-metal interactions</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Model membranes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Membrane fluidity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Liposomes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Lipid domains</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

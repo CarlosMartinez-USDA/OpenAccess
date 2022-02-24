@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Inhibition of selenoprotein synthesis by Zika virus may contribute to congenital Zika syndrome and microcephaly by mimicking SELENOP knockout and the genetic disease PCCA</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Gabrielle P.</namePart>
+      <namePart type="family">Dailey</namePart>
+      <displayForm>Dailey, Gabrielle P.</displayForm>
+      <affiliation>Dept. of Chemistry and Biochemistry, University of North Carolina at Greensboro, 435 Patricia A. Sullivan Science Building, PO Box 26170, Greensboro, NC 27402-6170, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lakmini S.</namePart>
+      <namePart type="family">Premadasa</namePart>
+      <displayForm>Premadasa, Lakmini S.</displayForm>
+      <affiliation>Texas Biomedical Research Institute, Southwest National Primate Research Center, P.O. Box 760549, San Antonio, TX 78245-0549, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jan A.</namePart>
+      <namePart type="family">Ruzicka</namePart>
+      <displayForm>Ruzicka, Jan A.</displayForm>
+      <affiliation>Dept. of Basic Pharmaceutical Sciences, Fred Wilson School of Pharmacy, High Point University, One University Parkway, High Point, NC 27268, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ethan Will</namePart>
+      <namePart type="family">Taylor</namePart>
+      <displayForm>Taylor, Ethan Will</displayForm>
+      <affiliation>Dept. of Chemistry and Biochemistry, University of North Carolina at Greensboro, 435 Patricia A. Sullivan Science Building, PO Box 26170, Greensboro, NC 27402-6170, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Selenium status plays a major role in health impacts of various RNA viruses. We previously reported potential antisense interactions between viral mRNAs and host mRNAs encoding isoforms of the antioxidant selenoprotein thioredoxin reductase (TXNRD). Here, we examine possible targeting of selenoprotein mRNAs by Zika virus (ZIKV), because one of the most devastating outcomes of ZIKV infection in neonates, microcephaly, is a key manifestation of Progressive Cerebello-Cerebral Atrophy (PCCA), a genetic disease of impaired selenoprotein synthesis. Potential antisense matches between ZIKV and human selenoprotein mRNAs were identified computationally, the strongest being against human TXNRD1 and selenoprotein P (SELENOP), a selenium carrier protein essential for delivery of selenium to the brain. Computationally, ZIKV has regions of extensive (∼30bp) and stable (ΔE &lt; −50kcal/mol) antisense interactions with both TXNRD1 and SELENOP mRNAs. The core ZIKV/SELENOP hybridization was experimentally confirmed at the DNA level by gel shift assay using synthetic oligonucleotides. In HEK293T cells, using Western blot probes for SELENOP and TXNRD1, ZIKV infection knocked down SELENOP protein expression almost completely, by 99% (p&lt;0.005), and TXNRD1 by ∼90% (p&lt;0.05). In contrast, by RT-qPCR, there was no evidence of significant changes in SELENOP and TXNRD1 mRNA levels after ZIKV infection, suggesting that their knockdown at the protein level is not primarily a result of mRNA degradation. These results suggest that knockdown of SELENOP and TXNRD1 by ZIKV in fetal brain, possibly antisense-mediated, could mimic SELENOP knockout, thereby contributing to neuronal cell death and symptoms similar to the genetic disease PCCA, including brain atrophy and microcephaly. </abstract>
+   <subject>
+      <topic>Antisense</topic>
+   </subject>
+   <subject>
+      <topic>Congenital Zika syndrome</topic>
+   </subject>
+   <subject>
+      <topic>Microcephaly</topic>
+   </subject>
+   <subject>
+      <topic>mRNA</topic>
+   </subject>
+   <subject>
+      <topic>Selenium</topic>
+   </subject>
+   <subject>
+      <topic>Selenoprotein P</topic>
+   </subject>
+   <subject>
+      <topic>Thioredoxin reductase 1</topic>
+   </subject>
+   <subject>
+      <topic>Zika virus</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100023</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100023</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100023</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00022-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-08-02"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S2667160321000223/S2667160321000223.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

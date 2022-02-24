@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Flow visualization data from experiments with an oscillating circular cylinder in a gravity-driven soap film</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Emad</namePart>
+      <namePart type="family">Masroor</namePart>
+      <displayForm>Masroor, Emad</displayForm>
+      <affiliation>Engineering Mechanics Program, Virginia Tech, Blacksburg VA, 24061, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wenchao</namePart>
+      <namePart type="family">Yang</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9963-8682</nameIdentifier>
+      <displayForm>Yang, Wenchao</displayForm>
+      <affiliation>Department of Mechanical and Materials Engineering, Queens University, Kingston, Ontario, K7L 3N6, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mark A.</namePart>
+      <namePart type="family">Stremler</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5785-7732</nameIdentifier>
+      <displayForm>Stremler, Mark A.</displayForm>
+      <affiliation>Department of Biomedical Engineering and Mechanics, Virginia Tech, Blacksburg, VA, 24061, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article contains flow visualization data from experiments conducted in an inclined gravity-driven soap film intersected by a circular cylinder undergoing controlled transverse oscillations at a Reynolds number of Re≈235. The dimensionless frequency and amplitude of cylinder oscillation were varied systematically over the ranges 0.2&lt;f*&lt;1.8 and 0.1&lt;A*&lt;1.3. A high-speed camera was used to capture the interference fringe patterns reflected from the soap film. These videos show the structure of the wake behind the cylinder, including the initial formation of vortices and the extended ‘vortex street’. Several wake patterns were identified, including the classic 2S, P+S, 2P, and 2T patterns, which are discussed in detail in the accompanying research article titled “The wake of a transversely oscillating circular cylinder in a flowing soap film at low Reynolds number” [1]. The videos presented in this article can be accessed through the Virginia Tech University Libraries’ Repository at https://doi.org/10.7294/14448027.v5[2]. </abstract>
+   <subject>
+      <topic>Vortex-induced vibrations</topic>
+   </subject>
+   <subject>
+      <topic>Vortex dynamics</topic>
+   </subject>
+   <subject>
+      <topic>Soap films</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>41</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">April 2022</text>
+         <text type="year">2022</text>
+         <text type="month">April</text>
+         <extent unit="pages">
+            <start>107819</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107819</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107819</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00031-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-07"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340922X00024/S2352340922000312/S2352340922000312.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

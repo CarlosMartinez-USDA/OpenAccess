@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2022.100044">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Bioguided Isolation and Characterization of Bioactives from Polygonum alpinum All rhizomes</dct:title>
+         <dct:creator>Prince Ahad Mir</dct:creator>
+         <dct:creator>Roohi Mohi-ud-din</dct:creator>
+         <dct:creator>Nishant Kumar</dct:creator>
+         <dct:creator>Reyaz Hassan</dct:creator>
+         <dct:creator>Apporva Chawla</dct:creator>
+         <dct:creator>Jasreen Uppal</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Polygonum alpinum</rdf:li>
+               <rdf:li>carrageenan</rdf:li>
+               <rdf:li>anti-inflammatory</rdf:li>
+               <rdf:li>formalin-induced</rdf:li>
+               <rdf:li>Isolation</rdf:li>
+               <rdf:li>column chromatography</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine, Journal Pre-proof. doi:10.1016/j.prmcm.2022.100044</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:doi>10.1016/j.prmcm.2022.100044</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2022.100044</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2022.100044</dct:identifier>
+         <bam:articleNumber>100044</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-07T13:56:16Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100044</ja:aid>
+         <ce:article-number>100044</ce:article-number>
+         <ce:pii>S2667-1425(22)00005-7</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2022.100044</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">
+            <ce:bold>Bioguided Isolation and Characterization of Bioactives from <ce:italic>Polygonum alpinum</ce:italic> All rhizomes</ce:bold>
+         </ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667142522000057-dffdcdbcb9cef8b05cad7e86ea6acf5f">
+               <ce:given-name>Prince Ahad</ce:given-name>
+               <ce:surname>Mir</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:princeahad@kashmiruniversity.net">princeahad@kashmiruniversity.net</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667142522000057-b06fd776b9121c27f0a55e82dba832a3">
+               <ce:given-name>Roohi</ce:given-name>
+               <ce:surname>Mohi-ud-din</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667142522000057-b848308bba06c7dd7fe6297a65148fb4">
+               <ce:given-name>Nishant</ce:given-name>
+               <ce:surname>Kumar</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667142522000057-d399b32e5e6da383e57efac32d1bbdb4">
+               <ce:given-name>Reyaz</ce:given-name>
+               <ce:surname>Hassan</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667142522000057-ee92f67fcd576f3ca363479e792857fe">
+               <ce:given-name>Apporva</ce:given-name>
+               <ce:surname>Chawla</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667142522000057-5a42803d7b5378c76c1d1acf2e67fa4f">
+               <ce:given-name>Jasreen</ce:given-name>
+               <ce:surname>Uppal</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667142522000057-c3d72b1da637696f3eb7ba9891fbc0b4">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">Khalsa College of Pharmacy, GT road Amritsar Punjab Amritsar 143001</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Khalsa College of Pharmacy</sa:organization>
+                  <sa:address-line>GT road Amritsar Punjab</sa:address-line>
+                  <sa:city>Amritsar</sa:city>
+                  <sa:postal-code>143001</sa:postal-code>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1Khalsa College of Pharmacy, GT road Amritsar Punjab Amritsar 143001</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667142522000057-42fb7cf9c4c3c5c5fcf338d323782000">
+               <ce:label>2</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Pharmaceutical Sciences, University of Kashmir, Hazratbal Srinagar 190006</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutical Sciences</sa:organization>
+                  <sa:organization>University of Kashmir</sa:organization>
+                  <sa:city>Hazratbal Srinagar</sa:city>
+                  <sa:postal-code>190006</sa:postal-code>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2Department of Pharmaceutical Sciences, University of Kashmir, Hazratbal Srinagar 190006</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667142522000057-3d7f1407002b5d31397a1e94fb5e3dac">
+               <ce:label>3</ce:label>
+               <ce:textfn id="cetextfn0003">Chandigarh College of Pharmacy, Landran Mohali Punjab 140307</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Chandigarh College of Pharmacy</sa:organization>
+                  <sa:address-line>Landran Mohali Punjab</sa:address-line>
+                  <sa:postal-code>140307</sa:postal-code>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">3Chandigarh College of Pharmacy, Landran Mohali Punjab 140307</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Correspondence author</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara021" view="all">
+                  <ce:italic>Polygonum alpinum</ce:italic> All (Polygonaceae) rhizomes was loaded in soxhlet for extraction with methanol and water as solvent. The extracts obtained were assayed for anti-inflammatory potency via carrageenan and formaldehyde prompted infection among experimental animals. The methanolic extract method presented potent anti-inflammatory activity in comparison to aqueous extract in both experimental models. Column chromatography was used for the isolation and characterization of active constituents in methanolic extract. Four active compounds, Octacosan-1-ol (<ce:bold>1</ce:bold>), Tridecane-1,9-diol (<ce:bold>2</ce:bold>), 4-hydroxybutyl acetate (<ce:bold>3</ce:bold>) and Octanoic acid (<ce:bold>4</ce:bold>) were isolated. Two dimensional NMR procedures were used for the characterization of isolated compounds. <ce:italic>In-vitro</ce:italic> anti-inflammatory potency of isolated compounds was assayed via Human RBC membrane stabilization and Protein denaturation methods.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0002">Graphical abstarct</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara022" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Key words</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Polygonum alpinum</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">carrageenan</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">anti-inflammatory</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">formalin-induced</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Isolation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">column chromatography</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

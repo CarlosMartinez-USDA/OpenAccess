@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Ageing characterization data of lithium-ion battery with highly deteriorated state and wide range of state-of-health</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Zhiyong</namePart>
+      <namePart type="family">Xia</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3348-3075</nameIdentifier>
+      <displayForm>Xia, Zhiyong</displayForm>
+      <affiliation>Department of Electrical and Computer Engineering, College of Engineering, University of Alabama, Tuscaloosa, AL 35487 United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jaber A.</namePart>
+      <namePart type="family">Abu Qahouq</namePart>
+      <displayForm>Abu Qahouq, Jaber A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper presents ageing characterization data of two lithium-ion battery cells that have been put through a deep ageing process. At the end of ageing process, the values of state-of-health (SOH) of the battery cells drop down to around 15%. The battery cells are aged using a developed autonomous ageing platform which performs functions such as constant current (CC) discharging, CC charging, and constant voltage (CV) charging. Each time the battery cell completes 30 ageing cycles, battery performance tests including dc impedance measurement, minimum impedance measurement, and capacity calibration are conducted to characterize the ageing or health status of the battery cell. The collected battery dc impedance data, minimum impedance data, capacity data, and CCCV charging time for the deeply aged battery cells are presented in this paper. The presented data has the potential to help in identifying battery ageing behavior patterns. It can also be utilized to investigate the correlation or relationship between different battery ageing characterization data and to develop SOH estimation methods for lithium-ion batteries with high degradation conditions, for examples, for second-use battery and when battery health exhibits unexpected faster deterioration. </abstract>
+   <subject>
+      <topic>Battery</topic>
+   </subject>
+   <subject>
+      <topic>Battery management system</topic>
+   </subject>
+   <subject>
+      <topic>Impedance</topic>
+   </subject>
+   <subject>
+      <topic>Lithium-ion</topic>
+   </subject>
+   <subject>
+      <topic>State-of-health</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107727</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107727</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107727</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01002-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010027/S2352340921010027.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

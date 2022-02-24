@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Digital soil survey and mapping underpinning inherent and dynamic soil attribute condition assessments</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Brendan</namePart>
+      <namePart type="family">Malone</namePart>
+      <displayForm>Malone, Brendan</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Uta</namePart>
+      <namePart type="family">Stockmann</namePart>
+      <displayForm>Stockmann, Uta</displayForm>
+      <affiliation>CSIRO Agriculture and Food, Black Mountain, ACT, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mark</namePart>
+      <namePart type="family">Glover</namePart>
+      <displayForm>Glover, Mark</displayForm>
+      <affiliation>CSIRO Agriculture and Food, Black Mountain, ACT, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gordan</namePart>
+      <namePart type="family">McLachlan</namePart>
+      <displayForm>McLachlan, Gordan</displayForm>
+      <affiliation>CSIRO Agriculture and Food, Black Mountain, ACT, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sophia</namePart>
+      <namePart type="family">Engelhardt</namePart>
+      <displayForm>Engelhardt, Sophia</displayForm>
+      <affiliation>CSIRO Agriculture and Food, Black Mountain, ACT, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Seija</namePart>
+      <namePart type="family">Tuomi</namePart>
+      <displayForm>Tuomi, Seija</displayForm>
+      <affiliation>CSIRO Agriculture and Food, Black Mountain, ACT, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We set out in this work to create a suite of 3D-like digital soil attribute maps for a research farming enterprise situated in the South Eastern Agricultural Zone of NSW, Australia. These digital maps come about because of a reconnaissance soil survey to map out the farm's soil baseline conditions and bring to bear the tools and processes of the digital convergence. This entails on-the-go proximal soil sensing for rapid and granular farm landscape characterisation, which helped inform field-based soil survey and sampling, and later the soil mapping too. Soil infrared spectroscopy associated inference (vis-NIR) was then used to facilitate very detailed soil characterisations of key soil attributes that included soil pH, carbon, soil texture, bulk density, and cation exchange capacity amongst others. This work then enabled the ability to build bespoke spatial models to generate 3D-like inherent and dynamic digital soil attribute maps. We highlight some of the digital soil infrastructure features which include flexibility, customisation, and work pipelines that will ease the updating and improvement of maps. We also highlight some immediate goals which include a formal inclusion of measurement uncertainties brought about by soil spectral inference into the spatial modelling process. To date, some of the digital soil mapping has been used for applications such as lime requirement estimations to address subsoil acidity issues and therefore changing/improving the soil's capability at BARS. Overall, the intention of this work is to provide a detailed account of what is entailed in creating a comprehensive digital soils infrastructure for a farm including the likely costs to implement and the associated opportunities it provides. </abstract>
+   <subject>
+      <topic>Farm scale soil mapping</topic>
+   </subject>
+   <subject>
+      <topic>Customization</topic>
+   </subject>
+   <subject>
+      <topic>Proximal soil sensing</topic>
+   </subject>
+   <subject>
+      <topic>Soil infrared spectroscopy</topic>
+   </subject>
+   <subject>
+      <topic>Gamma attenuation</topic>
+   </subject>
+   <subject>
+      <topic>Digital soil mapping</topic>
+   </subject>
+   <subject>
+      <topic>Soil condition</topic>
+   </subject>
+   <subject>
+      <topic>Soil pH</topic>
+   </subject>
+   <subject>
+      <topic>Digital agriculture</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Soil Security</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Ltd</publisher>
+      </originInfo>
+      <identifier type="issn">2667-0062</identifier>
+      <part>
+         <detail type="volume">
+            <number>6</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">March 2022</text>
+         <text type="year">2022</text>
+         <text type="month">March</text>
+         <extent unit="pages">
+            <start>100048</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.soisec.2022.100048</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.soisec.2022.100048</url>
+   </location>
+   <identifier type="pii">S2667-0062(22)00015-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-30"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2667-0062/S2667006221X00068/S2667006222000156/S2667006222000156.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

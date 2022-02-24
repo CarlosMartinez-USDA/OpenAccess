@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Nutritional phenotype underlines the performance trade-offs of Drosophila suzukii on different fruit diets</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Runhang</namePart>
+      <namePart type="family">Shu</namePart>
+      <displayForm>Shu, Runhang</displayForm>
+      <affiliation>Entomology and Nematology Department, University of Florida, Gainesville, FL, USA.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Laurice</namePart>
+      <namePart type="family">Uy</namePart>
+      <displayForm>Uy, Laurice</displayForm>
+      <affiliation>Entomology and Nematology Department, University of Florida, Gainesville, FL, USA.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Adam Chun-Nin</namePart>
+      <namePart type="family">Wong</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9360-429X</nameIdentifier>
+      <displayForm>Wong, Adam Chun-Nin</displayForm>
+      <affiliation>Entomology and Nematology Department, University of Florida, Gainesville, FL, USA.</affiliation>
+      <affiliation>Genetics Institute, University of Florida, Gainesville, FL, USA.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-10</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Animals confined to different dietary conditions often exhibit distinct, sometimes contrasting, nutritional phenotypes and performance outcomes. This is especially true for many oviparous insects whose developmental diets can vary depending on the mother's egg-laying site selection. Much research on the relationship between preference and performance in insects has focused on larval success, which overlooks the complexities of dietary effects on diverse performance parameters across life stages and potential trade-offs between those parameters. Furthermore, the connection between diet-induced nutritional phenotype and performance trade-offs is not well understood. Here, using Drosophila suzukii, we quantify multiple performance indices of larvae and adults reared on five host fruits of different protein-to-sugar ratios (P:S) which have previously been shown to differ in attractiveness to fly foraging and oviposition. Our results demonstrate robust diet-specific performance trade-offs, with fly fecundity, larval development time, pupal size, and adult weight superior in flies reared on the high P:S raspberry diet, in contrast to the low P:S grape diet; but the reverse was found in terms of adult starvation resistance. Notably, the contrasting performance trade-offs are readily explained by the fly nutritional phenotype, reflected in the protein and energy (glucose and lipid) contents of flies reared on the two fruits. Together, our results provide experimental evidence for metabolic plasticity of D. suzukii reared on different fruits and the possibility of using adult nutritional phenotype as a marker for diet and performance outcomes. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Drosophila</topic>
+   </subject>
+   <subject>
+      <topic>nutritional ecology</topic>
+   </subject>
+   <subject>
+      <topic>diet</topic>
+   </subject>
+   <subject>
+      <topic>trade-offs</topic>
+   </subject>
+   <subject>
+      <topic>oviposition</topic>
+   </subject>
+   <subject>
+      <topic>protein leverage</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Current Research in Insect Science</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2666-5158</identifier>
+      <part>
+         <text type="year">2021</text>
+         <text type="month">12</text>
+         <text type="day">10</text>
+         <extent unit="pages">
+            <start>100026</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.cris.2021.100026</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.cris.2021.100026</url>
+   </location>
+   <identifier type="pii">S2666-5158(21)00018-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-10"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2666-5158/aip/S2666515821000184/S2666515821000184.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

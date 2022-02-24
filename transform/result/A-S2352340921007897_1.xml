@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107511">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Raw data of silver extraction from sodium-silver jarosite using three different lixiviants in alkaline medium</dct:title>
+         <dct:creator>Hernán Islas</dct:creator>
+         <dct:creator>Mizraim U. Flores</dct:creator>
+         <dct:creator>Julio C. Juárez</dct:creator>
+         <dct:creator>Martín Reyes</dct:creator>
+         <dct:creator>Alien Blanco</dct:creator>
+         <dct:creator>Emmanuel J. Gutiérrez</dct:creator>
+         <dct:creator>Javier Aguilar</dct:creator>
+         <dct:creator>Mary C. Nolasco</dct:creator>
+         <dct:creator>Israel Rodríguez</dct:creator>
+         <dct:creator>Iván A. Reyes</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Hydrometallurgy</rdf:li>
+               <rdf:li>Silver leaching</rdf:li>
+               <rdf:li>Jarosite-type compounds</rdf:li>
+               <rdf:li>Complexing agent</rdf:li>
+               <rdf:li>Batch experiments</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107511</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107511</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107511</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107511</dct:identifier>
+         <bam:articleNumber>107511</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-21T19:48:15Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107511</ja:aid>
+         <ce:article-number>107511</ce:article-number>
+         <ce:pii>S2352-3409(21)00789-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107511</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="doc0001">
+               <ce:pii>S0892-6875(21)00479-9</ce:pii>
+               <ce:doi>10.1016/j.mineng.2021.107250</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Raw data of silver extraction from sodium-silver jarosite using three different lixiviants in alkaline medium</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007897-fd15b70ea8494bcda844fbac1be71d65">
+               <ce:given-name>Hernán</ce:given-name>
+               <ce:surname>Islas</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007897-d0f375d61590291511a8bb35b798598a"
+                       orcid="0000-0001-9705-2306">
+               <ce:given-name>Mizraim U.</ce:given-name>
+               <ce:surname>Flores</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007897-4d69de57eb63b9a034f1e504622aae03">
+               <ce:given-name>Julio C.</ce:given-name>
+               <ce:surname>Juárez</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007897-d4fa2e5d4707fac31e88b2f1120d389e"
+                       orcid="0000-0003-3843-2397">
+               <ce:given-name>Martín</ce:given-name>
+               <ce:surname>Reyes</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921007897-25f72ac0c83f8dfab9fdfb027266d4d4">
+               <ce:given-name>Alien</ce:given-name>
+               <ce:surname>Blanco</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921007897-a621c48852be8bc53b22765c6ae273bc">
+               <ce:given-name>Emmanuel J.</ce:given-name>
+               <ce:surname>Gutiérrez</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921007897-39ee16152ef9dde8fe579c8fc670bc77"
+                       orcid="0000-0002-5341-3381">
+               <ce:given-name>Javier</ce:given-name>
+               <ce:surname>Aguilar</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921007897-22e1128ad9dedc1f88e4b4e6b45281d6"
+                       orcid="0000-0002-2399-869X">
+               <ce:given-name>Mary C.</ce:given-name>
+               <ce:surname>Nolasco</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921007897-2003b4c9b1fa3f1b6901712088b7c6ab"
+                       orcid="0000-0003-4923-5671">
+               <ce:given-name>Israel</ce:given-name>
+               <ce:surname>Rodríguez</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2352340921007897-fb12671449216b7d4401cb07071bee76"
+                       orcid="0000-0002-6154-8294">
+               <ce:given-name>Iván A.</ce:given-name>
+               <ce:surname>Reyes</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:alejandro.reyes@uaslp.mx">alejandro.reyes@uaslp.mx</ce:e-address>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:iareyesdo@conacyt.mx">iareyesdo@conacyt.mx</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007897-120e1cc5ad474db14675344866cee707">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Escuela Superior de Zimapán, Universidad Autónoma del Estado de Hidalgo, Zimapán, Hidalgo 42337, México</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Escuela Superior de Zimapán</sa:organization>
+                  <sa:organization>Universidad Autónoma del Estado de Hidalgo</sa:organization>
+                  <sa:city>Zimapán</sa:city>
+                  <sa:state>Hidalgo</sa:state>
+                  <sa:postal-code>42337</sa:postal-code>
+                  <sa:country>México</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aEscuela Superior de Zimapán, Universidad Autónoma del Estado de Hidalgo, Zimapán, Hidalgo 42337, México</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007897-472e833bc75d7928ed2f75cb0d110982">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Área de Electromecánica Industrial, Universidad Tecnológica de Tulancingo, Tulancingo, Hidalgo 43642, México</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Área de Electromecánica Industrial</sa:organization>
+                  <sa:organization>Universidad Tecnológica de Tulancingo</sa:organization>
+                  <sa:city>Tulancingo</sa:city>
+                  <sa:state>Hidalgo</sa:state>
+                  <sa:postal-code>43642</sa:postal-code>
+                  <sa:country>México</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bÁrea de Electromecánica Industrial, Universidad Tecnológica de Tulancingo, Tulancingo, Hidalgo 43642, México</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921007897-41a2a6860abb2874b1d9baabb7a4e96f">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Área Académica de Ciencias de la Tierra y Materiales, Universidad Autónoma del Estado de Hidalgo, Mineral de la Reforma, Hidalgo 42183, México</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Área Académica de Ciencias de la Tierra y Materiales</sa:organization>
+                  <sa:organization>Universidad Autónoma del Estado de Hidalgo</sa:organization>
+                  <sa:city>Mineral de la Reforma</sa:city>
+                  <sa:state>Hidalgo</sa:state>
+                  <sa:postal-code>42183</sa:postal-code>
+                  <sa:country>México</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cÁrea Académica de Ciencias de la Tierra y Materiales, Universidad Autónoma del Estado de Hidalgo, Mineral de la Reforma, Hidalgo 42183, México</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921007897-aaa4051a8a2ef5624a8ec6ac8acecf46">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">División de Mecánica, Tecnológico de Estudios Superiores de Tianguistenco, Santiago Tianguistenco, Estado de México 52650, México</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>División de Mecánica</sa:organization>
+                  <sa:organization>Tecnológico de Estudios Superiores de Tianguistenco</sa:organization>
+                  <sa:city>Santiago Tianguistenco</sa:city>
+                  <sa:state>Estado de México</sa:state>
+                  <sa:postal-code>52650</sa:postal-code>
+                  <sa:country>México</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDivisión de Mecánica, Tecnológico de Estudios Superiores de Tianguistenco, Santiago Tianguistenco, Estado de México 52650, México</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921007897-80f443f9c2e559447ee694f0cd5a5a4f">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Instituto de Metalurgia, Universidad Autónoma de San Luis Potosí, San Luis Potosí, San Luis Potosí 78210, México</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Instituto de Metalurgia</sa:organization>
+                  <sa:organization>Universidad Autónoma de San Luis Potosí</sa:organization>
+                  <sa:city>San Luis Potosí</sa:city>
+                  <sa:state>San Luis Potosí</sa:state>
+                  <sa:postal-code>78210</sa:postal-code>
+                  <sa:country>México</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eInstituto de Metalurgia, Universidad Autónoma de San Luis Potosí, San Luis Potosí, San Luis Potosí 78210, México</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2352340921007897-1723667e9980968e15812f74521e71ef">
+               <ce:label>f</ce:label>
+               <ce:textfn id="cetextfn0006">Consejo Nacional de Ciencia y Tecnología, Benito Juárez, Ciudad de México 03940, México</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Consejo Nacional de Ciencia y Tecnología</sa:organization>
+                  <sa:city>Benito Juárez</sa:city>
+                  <sa:state>Ciudad de México</sa:state>
+                  <sa:postal-code>03940</sa:postal-code>
+                  <sa:country>México</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0006">fConsejo Nacional de Ciencia y Tecnología, Benito Juárez, Ciudad de México 03940, México</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Instituto de Metalurgia, Universidad Autónoma de San Luis Potosí, San Luis Potosí, San Luis Potosí 78210, México.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Instituto de Metalurgia</sa:organization>
+                  <sa:organization>Universidad Autónoma de San Luis Potosí</sa:organization>
+                  <sa:city>San Luis Potosí</sa:city>
+                  <sa:state>San Luis Potosí</sa:state>
+                  <sa:postal-code>78210</sa:postal-code>
+                  <sa:country>México</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="5" month="10" year="2021"/>
+         <ce:date-revised day="20" month="10" year="2021"/>
+         <ce:date-accepted day="21" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara004" view="all">This article presents the raw data of silver concentration ([Ag]) obtained as a function of time (t) from silver leaching experiments, which were conducted using a synthetic sodium-silver jarosite and different complexing agents: thiosulfate, thiocyanate, and cyanide. Leaching experiments were performed under different conditions of temperature, pH and lixiviant concentration. The data refer to the article “Silver leaching from jarosite-type compounds using cyanide and non-cyanide lixiviants: a kinetic approach” (Islas et al., 2021), in which they were used to determine the leaching kinetics of jarosite-type compounds. The datasets were obtained experimentally from batch experiments. Concentration of silver, [Ag], was determined in each experiment as a function of time by atomic absorption spectroscopy. The information presented in this article can be useful for engineering students interested in mineral processing; particularly, for the calculation of kinetic parameters of silver leaching process. The data could also help in the formulation, implementation, or optimization of strategies for extraction of valuable metals from residues generated by the hydrometallurgical industry.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Hydrometallurgy</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Silver leaching</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Jarosite-type compounds</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Complexing agent</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Batch experiments</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:data-availability id="refdata001" view="all">
+            <ce:section-title id="cesectitle0003a">Data Availability</ce:section-title>
+            <ce:para id="para9001a" view="all">
+               <ce:list id="dacelist0001">
+                  <ce:list-item id="rdlistitem0001">
+                     <ce:para id="para9002" view="all">
+                        <ce:inter-ref id="interref0001"
+                                      xlink:href="https://doi.org/10.17632/wj8w88x56b.1"
+                                      xlink:type="simple">Dataset of Ag concentration against time (Original data)</ce:inter-ref> (Mendeley Data).</ce:para>
+                  </ce:list-item>
+               </ce:list>
+            </ce:para>
+         </ce:data-availability>
+      </ja:head>
+   </ja:article>
+</doc:document>

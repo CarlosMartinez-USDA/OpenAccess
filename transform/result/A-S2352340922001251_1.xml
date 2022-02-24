@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107913">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data of Nebivolol on oxidative stress parameters in hypertensive patients</dct:title>
+         <dct:creator>Helena C. Barroso</dct:creator>
+         <dct:creator>Murilo E. Graton</dct:creator>
+         <dct:creator>Simone R. Potje</dct:creator>
+         <dct:creator>Jéssica A. Troiano</dct:creator>
+         <dct:creator>Lilian X. Silva</dct:creator>
+         <dct:creator>Ana Cláudia M.S. Nakamune</dct:creator>
+         <dct:creator>Cristina Antoniali</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Nebivolol</rdf:li>
+               <rdf:li>Oxidative stress</rdf:li>
+               <rdf:li>Hypertension</rdf:li>
+               <rdf:li>Human beings</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107913</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107913</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107913</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107913</dct:identifier>
+         <bam:articleNumber>107913</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-02-01T14:16:52Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107913</ja:aid>
+         <ce:article-number>107913</ce:article-number>
+         <ce:pii>S2352-3409(22)00125-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107913</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data of Nebivolol on oxidative stress parameters in hypertensive patients</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922001251-3df94d44691599ba66cd2007ff49cb42">
+               <ce:given-name>Helena C.</ce:given-name>
+               <ce:surname>Barroso</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922001251-6cac405633c08a3283d9b5d584e2e2bc"
+                       orcid="0000-0001-7290-3207">
+               <ce:given-name>Murilo E.</ce:given-name>
+               <ce:surname>Graton</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922001251-9797968efe208602fb92717cad775042"
+                       orcid="0000-0001-8848-5118">
+               <ce:given-name>Simone R.</ce:given-name>
+               <ce:surname>Potje</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922001251-4017ba07823d63e2e0b34db597423a09">
+               <ce:given-name>Jéssica A.</ce:given-name>
+               <ce:surname>Troiano</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340922001251-d0919113a0f8c9b284654a5d65cdc166">
+               <ce:given-name>Lilian X.</ce:given-name>
+               <ce:surname>Silva</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340922001251-c13df78dd359a54be66ebf1259306c3a">
+               <ce:given-name>Ana Cláudia M.S.</ce:given-name>
+               <ce:surname>Nakamune</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340922001251-c80281343de44cfe8d581b0e199b98e2"
+                       orcid="0000-0002-0315-6161">
+               <ce:given-name>Cristina</ce:given-name>
+               <ce:surname>Antoniali</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:cristina.antoniali@unesp.br">cristina.antoniali@unesp.br</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922001251-ac752487838b96831877897cde0b406b">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Faculdade de Odontologia de Araçatuba, UNESP/ Departamento de Ciências Básicas, Multicenter Graduate Program in Physiological Sciences, SBFis, São Paulo State University (UNESP), Rua: José Bonifácio, 1193, Araçatuba, São Paulo CEP: 16015-050, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculdade de Odontologia de Araçatuba, UNESP/ Departamento de Ciências Básicas</sa:organization>
+                  <sa:organization>Multicenter Graduate Program in Physiological Sciences, SBFis</sa:organization>
+                  <sa:organization>São Paulo State University (UNESP)</sa:organization>
+                  <sa:address-line>Rua: José Bonifácio, 1193</sa:address-line>
+                  <sa:city>Araçatuba</sa:city>
+                  <sa:state>São Paulo</sa:state>
+                  <sa:postal-code>CEP: 16015-050</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aFaculdade de Odontologia de Araçatuba, UNESP/ Departamento de Ciências Básicas, Multicenter Graduate Program in Physiological Sciences, SBFis, São Paulo State University (UNESP), Rua: José Bonifácio, 1193, Araçatuba, São Paulo CEP: 16015-050, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922001251-47f9a15ea060f58fbcb90a6f6ae2bb08">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">School of Dentistry, Department of Basic Sciences, São Paulo State University (UNESP), Araçatuba, São Paulo, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Dentistry</sa:organization>
+                  <sa:organization>Department of Basic Sciences</sa:organization>
+                  <sa:organization>São Paulo State University (UNESP)</sa:organization>
+                  <sa:city>Araçatuba</sa:city>
+                  <sa:state>São Paulo</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bSchool of Dentistry, Department of Basic Sciences, São Paulo State University (UNESP), Araçatuba, São Paulo, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922001251-5ffbe6a20526297cbe69a42b6407f8c8">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Minas Gerais State University (UEMG), Passos, Minas Gerais, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Minas Gerais State University (UEMG)</sa:organization>
+                  <sa:city>Passos</sa:city>
+                  <sa:state>Minas Gerais</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cMinas Gerais State University (UEMG), Passos, Minas Gerais, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340922001251-70ddd3667f569d860b452fe45931515d">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Faculdades de Dracena (UNIFADRA), Fundação Dracenense de Educação e Cultura, Curso de Medicina, Dracena, São Paulo, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculdades de Dracena (UNIFADRA)</sa:organization>
+                  <sa:organization>Fundação Dracenense de Educação e Cultura</sa:organization>
+                  <sa:organization>Curso de Medicina,</sa:organization>
+                  <sa:city>Dracena</sa:city>
+                  <sa:state>São Paulo</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dFaculdades de Dracena (UNIFADRA), Fundação Dracenense de Educação e Cultura, Curso de Medicina, Dracena, São Paulo, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Faculdade de Odontologia de Araçatuba, UNESP/ Departamento de Ciências Básicas, Multicenter Graduate Program in Physiological Sciences, SBFis, São Paulo State University (UNESP), Rua: José Bonifácio, 1193, Araçatuba, São Paulo CEP: 16015-050, Brazil.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Faculdade de Odontologia de Araçatuba, UNESP/ Departamento de Ciências Básicas</sa:organization>
+                  <sa:organization>Multicenter Graduate Program in Physiological Sciences, SBFis</sa:organization>
+                  <sa:organization>São Paulo State University (UNESP)</sa:organization>
+                  <sa:address-line>Rua: José Bonifácio, 1193</sa:address-line>
+                  <sa:city>Araçatuba</sa:city>
+                  <sa:state>São Paulo</sa:state>
+                  <sa:postal-code>CEP: 16015-050</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="17" month="8" year="2021"/>
+         <ce:date-revised day="26" month="1" year="2022"/>
+         <ce:date-accepted day="31" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara012" view="all">Oxidative stress is a key feature in hypertension, since reactive oxygen species are involved in all stages of the cardiovascular diseases. Saliva is a body fluid that can be used to investigate alterations in oxidative system with several specific advantages over blood. Nebivolol is third-generation selective β1-adrenergic receptor antagonist that promotes vasodilation and has been shown to reduce oxidative stress in pre-clinical and clinical studies. The use of Nebivolol in different periods of treatment demonstrated that it is an efficient anti-hypertensive drug. We evaluated the oxidative stress biomarkers and the enzymatic and non-enzymatic antioxidant systems in saliva of hypertensive patients before and after the use of anti-hypertensive therapeutic doses of Nebivolol, since saliva can be used as an auxiliary tool to analyze parameters of oxidative stress.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Nebivolol</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Oxidative stress</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Hypertension</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Human beings</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

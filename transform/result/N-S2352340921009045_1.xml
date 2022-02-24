@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>PFuji-Size dataset: A collection of images and photogrammetry-derived 3D point clouds with ground truth annotations for Fuji apple detection and size estimation in field conditions</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jordi</namePart>
+      <namePart type="family">Gené-Mola</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3915-3584</nameIdentifier>
+      <displayForm>Gené-Mola, Jordi</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ricardo</namePart>
+      <namePart type="family">Sanz-Cortiella</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8211-7306</nameIdentifier>
+      <displayForm>Sanz-Cortiella, Ricardo</displayForm>
+      <affiliation>Research Group in AgroICT &amp; Precision Agriculture - GRAP1, Department of Agricultural and Forest Engineering, Universitat de Lleida (UdL) – Agrotecnio-CERCA Center, Lleida, Catalonia, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Joan R.</namePart>
+      <namePart type="family">Rosell-Polo</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6746-2830</nameIdentifier>
+      <displayForm>Rosell-Polo, Joan R.</displayForm>
+      <affiliation>Research Group in AgroICT &amp; Precision Agriculture - GRAP1, Department of Agricultural and Forest Engineering, Universitat de Lleida (UdL) – Agrotecnio-CERCA Center, Lleida, Catalonia, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexandre</namePart>
+      <namePart type="family">Escolà</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9775-5471</nameIdentifier>
+      <displayForm>Escolà, Alexandre</displayForm>
+      <affiliation>Research Group in AgroICT &amp; Precision Agriculture - GRAP1, Department of Agricultural and Forest Engineering, Universitat de Lleida (UdL) – Agrotecnio-CERCA Center, Lleida, Catalonia, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Eduard</namePart>
+      <namePart type="family">Gregorio</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0553-1006</nameIdentifier>
+      <displayForm>Gregorio, Eduard</displayForm>
+      <affiliation>Research Group in AgroICT &amp; Precision Agriculture - GRAP1, Department of Agricultural and Forest Engineering, Universitat de Lleida (UdL) – Agrotecnio-CERCA Center, Lleida, Catalonia, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The PFuji-Size dataset is comprised of a collection of 3D point clouds of Fuji apple trees (Malus domestica Borkh. cv. Fuji) scanned at different maturity stages and annotated for fruit detection and size estimation. Structure-from-motion and multi-view stereo techniques were used to generate the 3D point clouds of 6 complete Fuji apple trees containing a total of 615 apples. The resulting point clouds were 3D segmented by identifying the 3D points corresponding to each apple (3D instance segmentation), obtaining a single point cloud for each apple. All segmented apples were labelled with ground truth diameter annotations. Since the data was acquired in field conditions and at different maturity stages, the set includes different fruit diameters -from 26.9 mm to 94.8 mm- and different fruit occlusion percentages due to foliage. In addition, 25 apples were photographed 360° in laboratory conditions, obtaining high resolution 3D point clouds of this sub-set. To the best of the authors’ knowledge, this is the first publicly available dataset for apple size estimation in field conditions. This dataset was used to evaluate different fruit size estimation methods in the research article titled “In-field apple size estimation using photogrammetry-derived 3D point clouds: comparison of 4 different methods considering fruit occlusion” (Gené-Mola et al., 2021). </abstract>
+   <subject>
+      <topic>Fruit detection</topic>
+   </subject>
+   <subject>
+      <topic>Fruit size</topic>
+   </subject>
+   <subject>
+      <topic>3D object detection</topic>
+   </subject>
+   <subject>
+      <topic>Structure-from-motion</topic>
+   </subject>
+   <subject>
+      <topic>Multi-view stereo</topic>
+   </subject>
+   <subject>
+      <topic>Agricultural robotics</topic>
+   </subject>
+   <subject>
+      <topic>Precision agriculture</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107629</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107629</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107629</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00904-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009045/S2352340921009045.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

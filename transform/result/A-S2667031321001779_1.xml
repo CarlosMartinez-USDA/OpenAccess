@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100195">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Anti-cancer, anti-bacterial and anti-oxidant properties of an active fraction isolated from Curcuma zedoaria rhizomes</dct:title>
+         <dct:creator>Sharaf Shehna</dct:creator>
+         <dct:creator>S Sreelekshmi</dct:creator>
+         <dct:creator>PR Remani</dct:creator>
+         <dct:creator>G Padmaja</dct:creator>
+         <dct:creator>S Lakshmi</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Curcuma zedoary</rdf:li>
+               <rdf:li>Apoptosis</rdf:li>
+               <rdf:li>Chemo protection</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100195</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100195</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100195</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100195</dct:identifier>
+         <bam:articleNumber>100195</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-04T19:32:18Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100195</ja:aid>
+         <ce:article-number>100195</ce:article-number>
+         <ce:pii>S2667-0313(21)00177-9</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100195</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Anti-cancer, anti-bacterial and anti-oxidant properties of an active fraction isolated from Curcuma zedoaria rhizomes</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001779-33729c0cf2a7511a17fa6826caf17ab5">
+               <ce:given-name>Sharaf</ce:given-name>
+               <ce:surname>Shehna</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001779-2ea464b7c9420ebe841b8f3f5a14dfe1">
+               <ce:given-name>S</ce:given-name>
+               <ce:surname>Sreelekshmi</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001779-dd38b7d4a7d67a9ebef9179e2993461c">
+               <ce:given-name>PR</ce:given-name>
+               <ce:surname>Remani</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001779-d2fc2b7eb8445e399b51266330ac7a83">
+               <ce:given-name>G</ce:given-name>
+               <ce:surname>Padmaja</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001779-a22639d3228dfce63b64e81d5265b512">
+               <ce:given-name>S</ce:given-name>
+               <ce:surname>Lakshmi</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:lakshmideependran08@gmail.com">lakshmideependran08@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001779-70c84396b8b5266db743337f95062dc5">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Corporate Research and Development Centre, HLL Lifecare Limited, Thiruvananthapuram, Kerala, 695017 India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Corporate Research and Development Centre, HLL Lifecare Limited</sa:organization>
+                  <sa:city>Thiruvananthapuram</sa:city>
+                  <sa:state>Kerala</sa:state>
+                  <sa:postal-code>695017</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aCorporate Research and Development Centre, HLL Lifecare Limited, Thiruvananthapuram, Kerala, 695017 India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001779-2c71f38df54366f632acd9dfbba52c3d">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Regional Cancer Centre, Medical college campus, Thiruvananthapuram, Kerala, 695011 India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Regional Cancer Centre, Medical college campus</sa:organization>
+                  <sa:city>Thiruvananthapuram</sa:city>
+                  <sa:state>Kerala</sa:state>
+                  <sa:postal-code>695011</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bRegional Cancer Centre, Medical college campus, Thiruvananthapuram, Kerala, 695011 India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001779-6c5ab8740c3f36c231f8d7feac7a05a8">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Central Tuber crops Research Institute, Sreekaryam, Thiruvananthapuram, Kerala, 695017 India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Central Tuber crops Research Institute, Sreekaryam</sa:organization>
+                  <sa:city>Thiruvananthapuram</sa:city>
+                  <sa:state>Kerala</sa:state>
+                  <sa:postal-code>695017</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cCentral Tuber crops Research Institute, Sreekaryam, Thiruvananthapuram, Kerala, 695017 India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Research Intern</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="30" month="6" year="2021"/>
+         <ce:date-revised day="29" month="11" year="2021"/>
+         <ce:date-accepted day="4" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara020" view="all">
+                  <ce:italic>Curcuma zedoaria</ce:italic> is a plant with rich source of phytochemicals extensively used in ayurvedic and Chinese medicine to treat tumors and other ailments. Henceforth, this study was undertaken to scientifically validate the different solvent fractions and isolate active fraction from the plant for the study pertaining to different biological activities including cancer.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:section-title id="cesectitle0003">Objectives</ce:section-title>
+               <ce:simple-para id="spara021" view="all">The objectives of the study include the investigation of antimicrobial, antioxidant, apoptosis inducing properties and chemo protective effects of an active fraction isolated from the rhizomes of <ce:italic>Curcuma zedoaria</ce:italic>.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Methods</ce:section-title>
+               <ce:simple-para id="spara022" view="all">Anti-oxidant properties, antibacterial assay, Induction of apoptosis by Annexin V staining, active Caspase-3 detection and cell cycle analysis were studied in vitro in lymphoma and lung cancer cells. The chemo protective effects of the compound alone and when co-administered along with Cyclophosphamide was investigated in mice models.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara023" view="all">The active fraction identified and isolated from the rhizomes of <ce:italic>Curcuma zedoaria</ce:italic> was found to possess antimicrobial activity specifically against <ce:italic>B. subtilis</ce:italic> and <ce:italic>K. pneumoniae</ce:italic>. Induction of apoptosis and cell cycle arrest was observed on cancer cells. Effective synergistic chemoprotective effects with decrease in tumor volume and increase in lifespan was observed in combination treatment.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusions</ce:section-title>
+               <ce:simple-para id="spara024" view="all">The active fraction isolated from <ce:italic>Curcuma zedoaria</ce:italic> was found to possess anti-microbial activity and anti-cancer activity against lung cancer and lymphoma cells together with chemoprotective effects. The therapeutic intervention of the study is that the active fraction could be used in combination with cyclophosphamide for synergistic effects thus decreasing the dosage of the drug, and decreasing the toxic effects.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0007">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0007" view="all">
+               <ce:simple-para id="spara025" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0008">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Curcuma zedoary</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Apoptosis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Chemo protection</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2021.100034">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Hypoglycemic and Hypolipidemic Properties of Casuarina equisetifolia Leaf Extracts in Alloxan Induced Diabetic Rats</dct:title>
+         <dct:creator>Hadiza Lami Muhammad</dct:creator>
+         <dct:creator>Rahinat Garba</dct:creator>
+         <dct:creator>Abubakar Sidiqque Abdullah</dct:creator>
+         <dct:creator>Funmilola Sherifat Adefolalu</dct:creator>
+         <dct:creator>Musa Bola Busari</dct:creator>
+         <dct:creator>Rabiat Unekwu Hamzah</dct:creator>
+         <dct:creator>Hussaini Anthony Makun</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Causarina equisetifolia</rdf:li>
+               <rdf:li>hypoglycemic</rdf:li>
+               <rdf:li>hypolipidemic</rdf:li>
+               <rdf:li>extracts</rdf:li>
+               <rdf:li>animals</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine, Journal Pre-proof. doi:10.1016/j.prmcm.2021.100034</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2021 Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:doi>10.1016/j.prmcm.2021.100034</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2021.100034</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2021.100034</dct:identifier>
+         <bam:articleNumber>100034</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-17T08:56:26Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100034</ja:aid>
+         <ce:article-number>100034</ce:article-number>
+         <ce:pii>S2667-1425(21)00033-6</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2021.100034</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Research article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Hypoglycemic and Hypolipidemic Properties of <ce:italic>Casuarina equisetifolia</ce:italic> Leaf Extracts in Alloxan Induced Diabetic Rats</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667142521000336-1a96de7d3aac3a49d6b407a3ba7e7592">
+               <ce:given-name>Hadiza Lami</ce:given-name>
+               <ce:surname>Muhammad</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:hadizalami@futminna.edu.ng">hadizalami@futminna.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667142521000336-5b6364d79e426b8c4a2ab15bd8f58c5c">
+               <ce:given-name>Rahinat</ce:given-name>
+               <ce:surname>Garba</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667142521000336-0fe8a0221d7c213fb661f1a47c586078">
+               <ce:given-name>Abubakar Sidiqque</ce:given-name>
+               <ce:surname>Abdullah</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667142521000336-f6c3cac95bd6e8b6293ce6b85ccf66e6">
+               <ce:given-name>Funmilola Sherifat</ce:given-name>
+               <ce:surname>Adefolalu</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667142521000336-115a84a31e1778d0653fe48dd125edac">
+               <ce:given-name>Musa Bola</ce:given-name>
+               <ce:surname>Busari</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">4</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667142521000336-e1938f22f8a53b46490e27cbc7bc2b13">
+               <ce:given-name>Rabiat Unekwu</ce:given-name>
+               <ce:surname>Hamzah</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667142521000336-39cbcf248ebcae2495a549c182f17a49">
+               <ce:given-name>Hussaini Anthony</ce:given-name>
+               <ce:surname>Makun</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667142521000336-a710e50d9c1470424711be097a018473">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">Africa Centre of Excellence for Mycotoxin and Food Safety, Federal University of Technology, Minna, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Africa Centre of Excellence for Mycotoxin and Food Safety</sa:organization>
+                  <sa:organization>Federal University of Technology</sa:organization>
+                  <sa:city>Minna</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1Africa Centre of Excellence for Mycotoxin and Food Safety, Federal University of Technology, Minna, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667142521000336-beb879252973bb776664686e59069953">
+               <ce:label>2</ce:label>
+               <ce:textfn id="cetextfn0002">Medicinal Plant Research Unit, Federal University of Technology, Minna, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Medicinal Plant Research Unit</sa:organization>
+                  <sa:organization>Federal University of Technology</sa:organization>
+                  <sa:city>Minna</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2Medicinal Plant Research Unit, Federal University of Technology, Minna, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667142521000336-a0e4ca68d31dcd69b8be6e7f5d82f60f">
+               <ce:label>3</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Internal Medicine, Ahmadu Bello University Teaching Hospital Zaria, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Internal Medicine</sa:organization>
+                  <sa:organization>Ahmadu Bello University Teaching Hospital Zaria</sa:organization>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">3Department of Internal Medicine, Ahmadu Bello University Teaching Hospital Zaria, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667142521000336-2ad7d7c9a5fd8a9ade9fe54331b5afd5">
+               <ce:label>4</ce:label>
+               <ce:textfn id="cetextfn0004">Centre for Genetic Engineering and Biotechnology, Global Institute for Bio-exploration Unit, Federal University of Technology, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Centre for Genetic Engineering and Biotechnology</sa:organization>
+                  <sa:organization>Global Institute for Bio-exploration Unit</sa:organization>
+                  <sa:organization>Federal University of Technology</sa:organization>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">4Centre for Genetic Engineering and Biotechnology, Global Institute for Bio-exploration Unit, Federal University of Technology, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author: +2348035960300.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara011" view="all">
+                  <ce:italic>Causarina equisetifolia</ce:italic> is a plant used traditionally as a remedy for various disorders such as diabetes, hyperlipidemia, gastric problems and muscle weakness. The aqueous, ethanol and methanol extracts of <ce:italic>C. equisetifolia</ce:italic> leaves were studied for hypoglycemic and hypolipidemic potentials.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Methodology</ce:section-title>
+               <ce:simple-para id="spara012" view="all">Phytochemical analysis was carried out using standard procedures. Rats of both sexes, weighing (145-255 g) were randomly allotted to six groups with each group having four rats. Rats in group A were the normoglycemic, while those in groups B, C, D, E, and F were rendered diabetic by the administration of 110mg/kg body weight of alloxan monohydrate. Group C rats were treated with 15 mg/kg body weight of standard drug (Glidazide), while groups D, E, and F rats were respectively treated with 150 mg/kg body weight of aqueous, ethanol, and methanol extracts for 15 days. The group B rats were untreated (negative control). Blood glucose was checked after every three days using glucometer. At the end of the treatment, the rats were anaesthetized under chloroform vapor and blood samples were collected by jugular puncture and used for analyzing biochemical parameters.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara013" view="all">Extracts showed presence of tannins, flavonoids, saponins, phenols, alkaloids and reducing sugars. There was 64%, 59% and 58% reduction in blood glucose concentration of diabetic rats treated with ethanol, aqueous, methanol extracts respectively. Serum cholesterol and triacylglycerol of the three treated groups reduced (p &lt; 0.05) with the aqueous and methanol extract treated groups having the most significant reductions in both variables (147.93±8.04, 152.91±10.85 mg/dL) when compared with the diabetic group (203.21±6.45, 355.16±11.25 mg/dL) respectively. AST and ALP activities reduced significantly (p &lt; 0.05) in the aqueous extract treated group (33.18±4.48, 52.60±7.23 u/L) with no significant differences when values were compared to that of the normal control group (25.64±4.18, 44.13±5.80 u/L) respectively. Urea concentration decreased in all extract treatment groups except the group treated with the aqueous extract. Creatinine also decreased in the extract treated groups apart from the group treated with the aqueous and methanol extracts when both compared with the normal control group.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusion</ce:section-title>
+               <ce:simple-para id="spara014" view="all">The extracts from the leaves of <ce:italic>C. equisetifolia</ce:italic> have hypoglycemic and hypolipidemic effects, and can be further explored as a natural novel lead for drug development in the management of diabetes and dyslipidemia.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Causarina equisetifolia</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">hypoglycemic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">hypolipidemic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">extracts</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">animals</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Kinetic analysis of antibody binding to integral membrane proteins stabilized in SMALPs</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Pooja</namePart>
+      <namePart type="family">Sharma</namePart>
+      <displayForm>Sharma, Pooja</displayForm>
+      <affiliation>Discovery Attribute Sciences, Amgen Research, Amgen Inc., Thousand Oaks, CA, 91320</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Matthew</namePart>
+      <namePart type="family">Plant</namePart>
+      <displayForm>Plant, Matthew</displayForm>
+      <affiliation>Discovery Attribute Sciences, Amgen Research, Amgen Inc., Cambridge, MA, 02141</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sheung Kwan</namePart>
+      <namePart type="family">Lam</namePart>
+      <displayForm>Lam, Sheung Kwan</displayForm>
+      <affiliation>Biologics, Amgen Research, Amgen Inc., South San Francisco, CA 94080</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Qing</namePart>
+      <namePart type="family">Chen</namePart>
+      <displayForm>Chen, Qing</displayForm>
+      <affiliation>Discovery Attribute Sciences, Amgen Research, Amgen Inc., Thousand Oaks, CA, 91320</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The fundamental importance of membrane protein (MP) targets in central biological and cellular events has driven a marked increase in the use of membrane mimetics for exploring these proteins as therapeutic targets. The main challenge associated with biophysical analysis of membrane protein is the need for detergent extraction from the bilayer environment, which in many cases causes the proteins to become insoluble, unstable or display altered structure or activity. Recent technological advances have tried to limit the exposure of purified membrane protein to detergents. One such method involves the amphipathic co-polymer of styrene and maleic acid (SMA), which can release lipids and integral membrane proteins into water soluble native particles (or vesicles) termed SMALPs (Styrene Maleic Acid Lipid Particles). In this study, assay conditions that leverage SMA for membrane protein stabilization were developed to perform kinetic analysis of antibody binding to integral membrane protein and complexes in SMALPs in both purified and complex mixture settings using multiple biosensor platforms. To develop a robust and flexible platform using SMALPs technology, we optimized various SPR assay formats to analyze SMALPs produced with cell membrane pellets as well as whole cell lysates from the cell lines overexpressing membrane protein of interest. Here we emphasize the extraction of model membrane proteins of diverse architecture and function from native environments to encapsulate with SMALPs. Given the importance of selected membrane targets in central biological events and therapeutic relevance, MP-specific or tag-specific antibodies were used as a proof-of-principal to validate the SMALPs platform for ligand binding studies to support drug discovery or tool generation processes. MP-SMALPs that retain specific binding capability in multiple assay formats and biosensors, such as waveguide interferometry and surface plasmon resonance, would be a versatile platform for a wide range of downstream applications. </abstract>
+   <subject>
+      <topic>Grating-coupled Interferometry (GCI)</topic>
+   </subject>
+   <subject>
+      <topic>Surface Plasmon Resonance (SPR)</topic>
+   </subject>
+   <subject>
+      <topic>Antibodies and SMALPs (Styrene Maleic Acid Lipid Particles)</topic>
+   </subject>
+   <subject>
+      <topic>Membrane Proteins (MP)</topic>
+   </subject>
+   <subject>
+      <topic>Binding Kinetics</topic>
+   </subject>
+   <subject>
+      <topic>Label Free</topic>
+   </subject>
+   <subject>
+      <topic>Detergent Free</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100022</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100022</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100022</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00021-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-07-31"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S2667160321000211/S2667160321000211.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

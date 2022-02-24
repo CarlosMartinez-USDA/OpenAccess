@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107911">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A dataset of cassava whitefly count images</dct:title>
+         <dct:creator>Joyce Nakatumba-Nabende</dct:creator>
+         <dct:creator>Jeremy Francis Tusubira</dct:creator>
+         <dct:creator>Claire Babirye</dct:creator>
+         <dct:creator>Solomon Nsumba</dct:creator>
+         <dct:creator>Christopher Omongo Abu</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Cassava</rdf:li>
+               <rdf:li>Whitefly</rdf:li>
+               <rdf:li>Whitefly count</rdf:li>
+               <rdf:li>CBSD</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107911</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107911</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107911</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107911</dct:identifier>
+         <bam:articleNumber>107911</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-02-01T14:43:54Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Transformative journal 2021: GATES Gold only</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107911</ja:aid>
+         <ce:article-number>107911</ce:article-number>
+         <ce:pii>S2352-3409(22)00123-8</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107911</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">A dataset of cassava whitefly count images</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922001238-a0164c4eed417a9e9cd505fe33fd7f5d"
+                       orcid="0000-0002-0108-3798">
+               <ce:given-name>Joyce</ce:given-name>
+               <ce:surname>Nakatumba-Nabende</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:joyce.nabende@mak.ac.ug">joyce.nabende@mak.ac.ug</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922001238-d43d3415f180f5ad73cf3bd329bb6bbf">
+               <ce:given-name>Jeremy Francis</ce:given-name>
+               <ce:surname>Tusubira</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922001238-8386288d89b727ae654e3e1c76fc1987">
+               <ce:given-name>Claire</ce:given-name>
+               <ce:surname>Babirye</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922001238-5d6be570b526d6674d1900be43bd979f">
+               <ce:given-name>Solomon</ce:given-name>
+               <ce:surname>Nsumba</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340922001238-286e9d3101c6cbe474453e0461a902c5">
+               <ce:given-name>Christopher Omongo</ce:given-name>
+               <ce:surname>Abu</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922001238-97f28ee2fdbf0e848e856bfd77dba268">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Computer Science, Makerere University, Uganda</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Computer Science</sa:organization>
+                  <sa:organization>Makerere University</sa:organization>
+                  <sa:organization>,</sa:organization>
+                  <sa:country>Uganda</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Computer Science, Makerere University, Uganda</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922001238-727dfb69636b26e99e79aef88d9e5945">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Makerere University Artificial Intelligence Lab, Uganda</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Makerere University Artificial Intelligence Lab</sa:organization>
+                  <sa:organization>,</sa:organization>
+                  <sa:country>Uganda</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bMakerere University Artificial Intelligence Lab, Uganda</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922001238-8778fc401f65c5537e8efaca35a72711">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Root Crops Research Programme, National Crops Resources Research Institute, Uganda</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Root Crops Research Programme</sa:organization>
+                  <sa:organization>National Crops Resources Research Institute</sa:organization>
+                  <sa:organization>,</sa:organization>
+                  <sa:country>Uganda</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cRoot Crops Research Programme, National Crops Resources Research Institute, Uganda</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="16" month="12" year="2021"/>
+         <ce:date-revised day="25" month="1" year="2022"/>
+         <ce:date-accepted day="1" month="2" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">Whiteflies are insect vectors that affect a variety of plants such as tomatoes, cabbages, sweet potatoes, eggplants, and cassava. In Uganda, whiteflies are a major contributor to the spread of Cassava Brown Streak Disease (CBSD). By suckling on infected cassava plants, whiteflies can potentially transfer the Cassava Brown Streak Virus that causes CBSD to uninfected clean plants nearby when they migrate. When they attack the cassava plants in large numbers, whiteflies can also cause significant physical damage through suckling. This eventually can lead to leaf loss or plant death. Whiteflies also excrete “honeydew”, which harbors a fungus known as “sooty mold” that covers the leaves, limiting access to sunlight which in turn affects plant food production. As part of their work, the cassava breeders often conduct studies to assess the population of whiteflies in cassava fields through a manual process of visual inspection which can be arduous and time-consuming. This paper presents a cassava whitefly dataset that has been curated to enable researchers to build solutions for the automation of the count and detection of whiteflies. The dataset contains 3,000 images captured in a whitefly trial site in Uganda. It depicts different variations of whitefly infestation from low to high infestation. This data has already been used to provide a proof-of-concept solution for whitefly counting based on Machine Learning approaches.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Cassava</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Whitefly</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Whitefly count</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">CBSD</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

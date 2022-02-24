@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2022.100233">
+         <dct:format>application/xml</dct:format>
+         <dct:title>In silico, in vitro screening of plant extracts for anti-SARS-CoV-2 activity and evaluation of their acute and sub-acute toxicity</dct:title>
+         <dct:creator>Damle Latha</dct:creator>
+         <dct:creator>Damle Hrishikesh</dct:creator>
+         <dct:creator>Ganju Shiban</dct:creator>
+         <dct:creator>C Chandrashekar</dct:creator>
+         <dct:creator>BR Bharath</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Molecular docking</rdf:li>
+               <rdf:li>Plant extracts</rdf:li>
+               <rdf:li>Cytotoxicity</rdf:li>
+               <rdf:li>Anti-SARS-CoV-2</rdf:li>
+               <rdf:li>In vivo toxicity</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2022.100233</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>2</prism:number>
+         <prism:coverDisplayDate>May 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2022.100233</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2022.100233</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2022.100233</dct:identifier>
+         <bam:articleNumber>100233</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-29T20:48:29Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100233</ja:aid>
+         <ce:article-number>100233</ce:article-number>
+         <ce:pii>S2667-0313(22)00019-7</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2022.100233</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">In silico, <ce:italic>in vitro</ce:italic> screening of plant extracts for anti-SARS-CoV-2 activity and evaluation of their acute and sub-acute toxicity</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031322000197-5e5ce818e9551f7682e1725fadb63619">
+               <ce:given-name>Damle</ce:given-name>
+               <ce:surname>Latha</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031322000197-0b71899abc60adb8f8f165ba660e0615">
+               <ce:given-name>Damle</ce:given-name>
+               <ce:surname>Hrishikesh</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031322000197-e95e2b04bde94466585f242e4a35de60">
+               <ce:given-name>Ganju</ce:given-name>
+               <ce:surname>Shiban</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031322000197-5b3d695b77ead9c26c98ce01fa2072e0">
+               <ce:given-name>C</ce:given-name>
+               <ce:surname>Chandrashekar</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031322000197-c7d48c462d4eee74c6830ed805395b5a">
+               <ce:given-name>BR</ce:given-name>
+               <ce:surname>Bharath</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:bharath.br@atrimed.com">bharath.br@atrimed.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031322000197-78e85f7e2de582291f5721b71282086c">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Computational Biology, Atrimed Biotech LLP, Banglore, 560100, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Computational Biology, Atrimed Biotech LLP</sa:organization>
+                  <sa:city>Banglore</sa:city>
+                  <sa:postal-code>560100</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aComputational Biology, Atrimed Biotech LLP, Banglore, 560100, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031322000197-077dddb211f3f6dbb7c2838fcff965ff">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Atrimed Pharmaceuticals Pvt. Ltd, Banglore, 560001, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Atrimed Pharmaceuticals Pvt. Ltd</sa:organization>
+                  <sa:city>Banglore</sa:city>
+                  <sa:postal-code>560001</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bAtrimed Pharmaceuticals Pvt. Ltd, Banglore, 560001, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Research Head</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="27" month="9" year="2021"/>
+         <ce:date-revised day="21" month="1" year="2022"/>
+         <ce:date-accepted day="29" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara017" view="all">In the absence of a specific drug for COVID 19, treatment with plant extracts could be an option worthy of further investigation and has motivated to evaluate the safety and anti-SARS-CoV-2 activity of plant extracts.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:section-title id="cesectitle0003">Purpose</ce:section-title>
+               <ce:simple-para id="spara018" view="all">To screen the phytochemicals for anti-SARS-CoV-2 <ce:italic>in silico</ce:italic> and evaluate their safety and efficacy <ce:italic>in vitro</ce:italic> and <ce:italic>in vivo.</ce:italic>
+               </ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Method</ce:section-title>
+               <ce:simple-para id="spara019" view="all">The phytochemicals for anti-SARS-CoV-2 were screened <ce:italic>in silico</ce:italic> using molecular docking. The hits generated from <ce:italic>in silico</ce:italic> screening were subjected for extraction, isolation and purification. The anti-SARS-CoV-2 activity of <ce:italic>Zanthoxylum piperitum</ce:italic> (E1), <ce:italic>Withania somnifera</ce:italic> (E2), <ce:italic>Calophyllum inophyllum</ce:italic> (E3), <ce:italic>Andrographis paniculata</ce:italic> (E4), <ce:italic>Centella asiatica</ce:italic> (E5) ethanol extracts. The aerial parts were used for E1, E3, E4, E5 and root was used for E2. The <ce:italic>in vitro</ce:italic> safety and anti-SARS-CoV-2 activity of plant methanol extracts were performed in VeroE6 cells using Remdesivir as positive control. The acute and sub-acute toxicity study was performed in Wistar male and female rats.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara020" view="all">The percentage of cell viability for E4, E5 and E2 treated VeroE6 cells were remarkably good on the 24th and 48th hour of treatment. The <ce:italic>in vitro</ce:italic> anti-SARS-CoV-2 activity of E4, E5 and E2 were significant for both E gene and N gene. The percentage of SARS-CoV-2 inhibition for E4 was better than Remdesivir. For E gene and N gene, Remdesivir showed IC<ce:inf loc="post">50</ce:inf> of 0.15 µM and 0.11 µM respectively, For E gene and N gene, E4 showed IC<ce:inf loc="post">50</ce:inf> of 1.18 µg and 1.16 µg respectively. Taking the clue from <ce:italic>in vitro</ce:italic> findings, the E4<ce:bold>,</ce:bold> E5 and E2 were combined (E 4.5.2) and evaluated for acute and sub-acute toxicity in Wistar male and female rats. No statistically significant difference in haematological, biochemical and histopathological parameters were noticed.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusion</ce:section-title>
+               <ce:simple-para id="spara021" view="all">The study demonstrated the anti-SARS-CoV-2 activity <ce:italic>in vitro</ce:italic> and safety of plant extracts in both <ce:italic>in vitro</ce:italic> and <ce:italic>in vivo</ce:italic> experimental conditions.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0007">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0007" view="all">
+               <ce:simple-para id="spara022" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0008">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Molecular docking</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Plant extracts</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Cytotoxicity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Anti-SARS-CoV-2</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">
+                  <ce:italic>In vivo</ce:italic> toxicity</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>QR-DN1.0: A new distorted and noisy QRs dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Milad</namePart>
+      <namePart type="family">Monfared</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5985-1828</nameIdentifier>
+      <displayForm>Monfared, Milad</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Abbas</namePart>
+      <namePart type="family">Koochari</namePart>
+      <displayForm>Koochari, Abbas</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Radin</namePart>
+      <namePart type="family">Monshianmotlagh</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5779-0803</nameIdentifier>
+      <displayForm>Monshianmotlagh, Radin</displayForm>
+      <affiliation>Department of Computer Science, Islamic Azad University Science and Research, Tehran, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Barcodes are playing a significant role in different industries in the recent years and among the two most popular 2D barcodes, the QR code has grown exponentially. The QR-DN1.0 dataset includes 5 categories of QR codes that will cover low to high density levels. Each group has 15 QR codes: 5 images for testing and 10 images for training. After embedding the QRs into 30 color images using blind watermarking techniques and then extracting the QRs from the images taken with the mobile phone camera with three different methods, we will have three groups of 2250 extracted QR images, which provides a total of 6750 distorted and noisy QR images. In each of the mentioned three categories, the data is divided into two parts: testing, with 750 images, and training, with 2250 images. For every distorted QR in the dataset, a non-distorted instance of it is placed as a ground truth. One of the advantages of this data set is that it is real. Because no simulated noise has been added to the images and this dataset is completely derived from the real word challenge of extracting embedded QRs in color images captured from the watermarked image on the screen. It also includes various types of QRs such as single character, short sentence, long sentence, URL and location. </abstract>
+   <subject>
+      <topic>Image reconstruction</topic>
+   </subject>
+   <subject>
+      <topic>Image denoising</topic>
+   </subject>
+   <subject>
+      <topic>Geometric distortion</topic>
+   </subject>
+   <subject>
+      <topic>QR</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107605</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107605</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107605</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00880-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008805/S2352340921008805.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

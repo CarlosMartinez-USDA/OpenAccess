@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Proteomic datasets of HeLa and SiHa cell lines acquired by DDA-PASEF and diaPASEF</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Zelu</namePart>
+      <namePart type="family">Huang</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7022-6935</nameIdentifier>
+      <displayForm>Huang, Zelu</displayForm>
+      <affiliation>School of Chemical and Biomedical Engineering, Nanyang Technological University, Singapore</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Weijia</namePart>
+      <namePart type="family">Kong</namePart>
+      <displayForm>Kong, Weijia</displayForm>
+      <affiliation>School of Biological Sciences, Nanyang Technological University, Singapore</affiliation>
+      <affiliation>Department of Computer Science, National University of Singapore, Singapore</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bertrand Jernhan</namePart>
+      <namePart type="family">Wong</namePart>
+      <displayForm>Wong, Bertrand Jernhan</displayForm>
+      <affiliation>School of Biological Sciences, Nanyang Technological University, Singapore</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Huanhuan</namePart>
+      <namePart type="family">Gao</namePart>
+      <displayForm>Gao, Huanhuan</displayForm>
+      <affiliation>Zhejiang Provincial Laboratory of Life Sciences and Biomedicine, Key Laboratory of Structural Biology of Zhejiang Province, School of Life Sciences, Westlake University, Zhejiang, China</affiliation>
+      <affiliation>Institute of Basic Medical Sciences, Westlake Institute for Advanced Study, Zhejiang Province, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tiannan</namePart>
+      <namePart type="family">Guo</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3869-7651</nameIdentifier>
+      <displayForm>Guo, Tiannan</displayForm>
+      <affiliation>Zhejiang Provincial Laboratory of Life Sciences and Biomedicine, Key Laboratory of Structural Biology of Zhejiang Province, School of Life Sciences, Westlake University, Zhejiang, China</affiliation>
+      <affiliation>Institute of Basic Medical Sciences, Westlake Institute for Advanced Study, Zhejiang Province, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Xianming</namePart>
+      <namePart type="family">Liu</namePart>
+      <displayForm>Liu, Xianming</displayForm>
+      <affiliation>Bruker (Beijing) Scientific Technology Co., Ltd, Shanghai, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Xiaoxian</namePart>
+      <namePart type="family">Du</namePart>
+      <displayForm>Du, Xiaoxian</displayForm>
+      <affiliation>Bruker (Beijing) Scientific Technology Co., Ltd, Shanghai, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Limsoon</namePart>
+      <namePart type="family">Wong</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1241-5441</nameIdentifier>
+      <displayForm>Wong, Limsoon</displayForm>
+      <affiliation>Department of Computer Science, National University of Singapore, Singapore</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wilson Wen Bin</namePart>
+      <namePart type="family">Goh</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3863-7501</nameIdentifier>
+      <displayForm>Goh, Wilson Wen Bin</displayForm>
+      <affiliation>School of Biological Sciences, Nanyang Technological University, Singapore</affiliation>
+      <affiliation>Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-01</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We present four datasets on proteomics profiling of HeLa and SiHa cell lines associated with the research described in the paper “PROTREC: A probability-based approach for recovering missing proteins based on biological networks” [1]. Proteins in each cell line were acquired by two different data acquisition methods. The first was Data Dependent Acquisition-Parallel Accumulation Serial Fragmentation (DDA-PASEF) and the second was Parallel Accumulation-Serial Fragmentation combined with data-independent acquisition (diaPASEF) [2,3]. Protein assembly was performed following search against the Swiss-Prot Human database using Peaks Studio for DDA datasets and Spectronaut for DIA datasets. The assembled result contains identified PSMs, peptides and proteins that are above threshold for each HeLa and SiHa sample. Coverage-wise, for DDA-PASEF, approximately 6,090 and 7,298 proteins proteins were quantified for HeLa and SiHA sample, while13,339 and and 8,773 proteins were quantified by diaPASEF for HeLa for SiHa sample respectively. Consistency-wise, diaPASEF has fewer missing values (∼ 2%) compared to its DDA counterparts (∼5-7%). The mass spectrometry proteomics data have been deposited to the ProteomeXchange Consortium (http://proteomecentral.proteomexchange.org) via the iProX partner repository [4] with the dataset identifier PXD029773. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>DDA</topic>
+   </subject>
+   <subject>
+      <topic>DIA</topic>
+   </subject>
+   <subject>
+      <topic>PASEF</topic>
+   </subject>
+   <subject>
+      <topic>HeLa</topic>
+   </subject>
+   <subject>
+      <topic>SiHa</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">02</text>
+         <text type="day">01</text>
+         <extent unit="pages">
+            <start>107919</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107919</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107919</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00131-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-02-03"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001317/S2352340922001317.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

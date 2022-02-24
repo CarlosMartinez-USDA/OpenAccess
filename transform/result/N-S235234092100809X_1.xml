@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Whole genome sequence data of Chromobacterium violaceum WCH4, a human pathogenic strain from Sabah, Malaysia</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Vijay Kumar</namePart>
+      <namePart type="family">Subbiah</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0384-1580</nameIdentifier>
+      <displayForm>Subbiah, Vijay Kumar</displayForm>
+      <affiliation>Biotechnology Research Institute, Universiti Malaysia Sabah, Kota Kinabalu, Sabah, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Zulina</namePart>
+      <namePart type="family">Mazlan</namePart>
+      <displayForm>Mazlan, Zulina</displayForm>
+      <affiliation>Pathology Department, Sabah Woman &amp; Children Hospital, Ministry of Health Malaysia, Kota Kinabalu, Sabah, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nur Nashyiroh</namePart>
+      <namePart type="family">Mastor</namePart>
+      <displayForm>Mastor, Nur Nashyiroh</displayForm>
+      <affiliation>Biotechnology Research Institute, Universiti Malaysia Sabah, Kota Kinabalu, Sabah, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mohammad Zahirul</namePart>
+      <namePart type="family">Hoque</namePart>
+      <displayForm>Hoque, Mohammad Zahirul</displayForm>
+      <affiliation>Department of Pathobiology &amp; Medical Diagnostics, Faculty of Medicine and Health Sciences, University Malaysia Sabah, Kota Kinabalu, Sabah, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Chromobacterium violaceum is a gram-negative, facultative anaerobic bacillus which is commonly found in soil. It can cause mild diarrhoea upon infection but can progress, although rarely, to fatal multi-organ failure and death. Here we report the whole genome sequence data of Chromobacterium violaceum WCH4 strain, a pathogenic strain that was obtained from a 78 year old male patient suffering from an eye infection. This is a rare case of human infection of the bacteria. Blood culture report as well as 16S rRNA confirmed the presence of C. violaceum WCH4. DNA sequencing using the Illumina HiSeq 4000 system revealed a genome size of 4,637,406 bp with a GC-content of 64.89%. We identified 4,572 protein coding sequences (CDS), 78 transfer RNA (tRNA) genes, and 3 ribosomal RNA (rRNA) genes. The CDS included 1,261 hypothetical proteins and 3,311 proteins with functional assignments. We also identified seven putative genes involved in efflux pump and conferring multidrug antibiotic resistance. The genome data has been deposited at NCBI under the accession number JAFBBB000000000 and consist of full annotated genome and raw sequence data. Our data resource will assist in further downstream analysis and understanding of the mechanism of rare human infection caused by Chromobacterium violaceum WCH4 strain. </abstract>
+   <subject>
+      <topic>Chromobacterium violaceum</topic>
+   </subject>
+   <subject>
+      <topic>Genome sequence</topic>
+   </subject>
+   <subject>
+      <topic>Human pathogen</topic>
+   </subject>
+   <subject>
+      <topic>Antibiotic resistance</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107533</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107533</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107533</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00809-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-27"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S235234092100809X/S235234092100809X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

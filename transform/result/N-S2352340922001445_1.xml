@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>GLOBALINTO Input-Output Intangibles Database: Industry-level data on intangibles for the EU-27 and the UK.</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Petros</namePart>
+      <namePart type="family">Dimas</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5408-229X</nameIdentifier>
+      <displayForm>Dimas, Petros</displayForm>
+      <affiliation>Laboratory of Industrial and Energy Economics, National Technical University of Athens, Greece</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dimitrios</namePart>
+      <namePart type="family">Stamopoulos</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4954-0465</nameIdentifier>
+      <displayForm>Stamopoulos, Dimitrios</displayForm>
+      <affiliation>Laboratory of Industrial and Energy Economics, National Technical University of Athens, Greece</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Aggelos</namePart>
+      <namePart type="family">Tsakanikas</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9734-3354</nameIdentifier>
+      <displayForm>Tsakanikas, Aggelos</displayForm>
+      <affiliation>Laboratory of Industrial and Energy Economics, National Technical University of Athens, Greece</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michail</namePart>
+      <namePart type="family">Vasileiadis</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0570-8863</nameIdentifier>
+      <displayForm>Vasileiadis, Michail</displayForm>
+      <affiliation>Foundation for Economic and Industrial Research, Athens, Greece</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper presents the GLOBALINTO Input-Output Intangibles Database, that was constructed in the context of the Horizon2020 project ‘GLOBALINTO: Capturing the value of intangible assets in micro data to promote the EU's Growth and Competitiveness’. The database is formulated under an input-output framework and treats intangibles as producer services that derive from certain knowledge producing sectors in the economy (namely J62-J63 – Computer programming, consultancy, and related activities; Information service activities, M72 – Scientific research and development, M73 – Advertising and market research, and N – Administrative and support service activities) and embeds them withing the context of global value chains (GVCs) as traded knowledge intermediates. Data include intangibles related variables for 56 2-digit NACE Rev. 2/ ISIC Rev. 4 sectors from the EU-27 and the UK and are complemented with export variables and R&amp;D related statistics from Eurostat for the period 2000-2014. The data have been used for the research article ‘Intangibles, innovation, and sector specialization in global value chains: A case study on the EU's and the UK's manufacturing industries’ [1] . </abstract>
+   <note type="admin">Pre-press version</note>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">02</text>
+         <text type="day">02</text>
+         <extent unit="pages">
+            <start>107932</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107932</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107932</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00144-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-02-04"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001445/S2352340922001445.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

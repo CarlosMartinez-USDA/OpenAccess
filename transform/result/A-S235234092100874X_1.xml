@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107599">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Pediatric Quality of Life InventoryTM version 4.0 short form generic core scale across pediatric populations review data</dct:title>
+         <dct:creator>Matthew Smyth</dct:creator>
+         <dct:creator>Kevan Jacobson MBBCh FRCPC FACP AGAF CAGF</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Quality of life</rdf:li>
+               <rdf:li>Inflammatory bowel disease</rdf:li>
+               <rdf:li>Pediatrics</rdf:li>
+               <rdf:li>PedsQLTM</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107599</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107599</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107599</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107599</dct:identifier>
+         <bam:articleNumber>107599</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-17T19:40:20Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107599</ja:aid>
+         <ce:article-number>107599</ce:article-number>
+         <ce:pii>S2352-3409(21)00874-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107599</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0022-3476(21)00703-4</ce:pii>
+               <ce:doi>10.1016/j.jpeds.2021.07.036</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Pediatric Quality of Life Inventory<ce:sup loc="post">TM</ce:sup> version 4.0 short form generic core scale across pediatric populations review data</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092100874X-7326f688ea3e8216cbe7ff335f9f8e5b"
+                       orcid="0000-0002-2058-319X">
+               <ce:given-name>Matthew</ce:given-name>
+               <ce:surname>Smyth</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092100874X-84fc03a251cd4acf758d346617b06315"
+                       orcid="0000-0001-7269-8557">
+               <ce:given-name>Kevan</ce:given-name>
+               <ce:surname>Jacobson</ce:surname>
+               <ce:degrees>MBBCh, FRCPC, FACP, AGAF, CAGF</ce:degrees>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:kjacobson@cw.bc.ca">kjacobson@cw.bc.ca</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/Kevanjac">@Kevanjac</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092100874X-dd07e72b0183adc587753c00158e7bdb">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Pediatrics, Division of Gastroenterology, Hepatology and Nutrition, Faculty of Medicine, British Columbia Children's Hospital, University of British Columbia, British Columbia, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pediatrics</sa:organization>
+                  <sa:organization>Division of Gastroenterology</sa:organization>
+                  <sa:organization>Hepatology and Nutrition</sa:organization>
+                  <sa:organization>Faculty of Medicine</sa:organization>
+                  <sa:organization>British Columbia Children's Hospital</sa:organization>
+                  <sa:organization>University of British Columbia</sa:organization>
+                  <sa:state>British Columbia</sa:state>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Pediatrics, Division of Gastroenterology, Hepatology and Nutrition, Faculty of Medicine, British Columbia Children's Hospital, University of British Columbia, British Columbia, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092100874X-32a48770e842ccf325746673b993848f">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">British Columbia Children Hospital Research Institute, Vancouver, British Columbia, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>British Columbia Children Hospital Research Institute</sa:organization>
+                  <sa:city>Vancouver</sa:city>
+                  <sa:state>British Columbia</sa:state>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bBritish Columbia Children Hospital Research Institute, Vancouver, British Columbia, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S235234092100874X-5b94c30457d7e88db5413008454d2264">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Cellular and Physiological Sciences, University of British Columbia, Vancouver, British Columbia, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Cellular and Physiological Sciences</sa:organization>
+                  <sa:organization>University of British Columbia</sa:organization>
+                  <sa:city>Vancouver</sa:city>
+                  <sa:state>British Columbia</sa:state>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Cellular and Physiological Sciences, University of British Columbia, Vancouver, British Columbia, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text>Corresponding author at: Department of Pediatrics, Division of Gastroenterology, Hepatology and Nutrition, Faculty of Medicine, British Columbia Children's Hospital, and British Columbia Children's Hospital Research Institute, University of British Columbia, 4480 Oak Street, Room K4-184, Vancouver, British Columbia, V6H 3V4 British Columbia, Canada</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Pediatrics, Division of Gastroenterology, Hepatology and Nutrition, Faculty of Medicine, British Columbia Children's Hospital, and British Columbia Children's Hospital Research Institute</sa:organization>
+                  <sa:organization>University of British Columbia</sa:organization>
+                  <sa:address-line>4480 Oak Street, Room K4-184</sa:address-line>
+                  <sa:city>Vancouver</sa:city>
+                  <sa:state>British Columbia</sa:state>
+                  <sa:postal-code>V6H 3V4</sa:postal-code>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="22" month="10" year="2021"/>
+         <ce:date-revised day="14" month="11" year="2021"/>
+         <ce:date-accepted day="16" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">The Pediatric Quality of Life Inventory<ce:sup loc="post">TM</ce:sup> Version 4.0 Short Form Generic Core Scale (PedsQL<ce:sup loc="post">TM</ce:sup>) is a validated and widely used tool assessing the quality of life (QoL) of children and youth. It has been used extensively across healthy populations as well as those with chronic and acute illnesses, allowing for comparison of the psychosocial impact of chronic illness between pediatric disease cohorts. As part of the QoL initiative undertaken at the British Columbia Children's Hospital (BCCH) Inflammatory Bowel Disease (IBD) program and published in the Journal of Pediatrics titled “Cross-Sectional Analysis of Quality of Life in Pediatric Patients with IBD in British Columbia, Canada,” a limited literature review was conducted using Embasse and Ovid. Studies using the English version of the PedsQL<ce:sup loc="post">TM</ce:sup> short form generic scale (not a disease specific scale) were identified. Studies with populations greater than 50 patients with robust subgroup sample size were included, with an emphasis on studies with well-defined patients with chronic disease. These data were compared to the BCCH population, as discussed in the aforementioned journal article.</ce:simple-para>
+               <ce:simple-para id="spara004" view="all">Analysis within the BCCH cohort is described separately. Comparison between different populations from the existing literature was qualitative only, with no statistical analysis done given the heterogeneity of populations and studies.</ce:simple-para>
+               <ce:simple-para id="spara005" view="all">In a study of patients from the emergency department at BCCH (<ce:italic>n=</ce:italic>178), the mean (SD) QoL scores of the healthy patients was 89.2 (10.3). In a group of self-identified healthy patients in California (<ce:italic>n=</ce:italic>5079), their mean QoL score was 83.9 (12.5). Separating the BCCH IBD population by disease activity, those in remission (<ce:italic>n=</ce:italic>220, 84.4 (12.8)) have similar QoL scores to these healthy cohorts, though their scores remain slightly below the previously published BCCH cohort. For children with any degree of active IBD (<ce:italic>n=</ce:italic>98, 75.6 (15.8)), their QoL scores are below the healthy means and are lower than other groups with self-identified “chronic illnesses” (<ce:italic>n=</ce:italic>367, 77.2 (15.5)), diabetes (<ce:italic>n=</ce:italic>418, 82.3 (13.5)), mild asthma (<ce:italic>n=</ce:italic>281, 85.5 (13.3)), or Canadian patients 4 weeks post-concussion (<ce:italic>n=</ce:italic>1157, 80.3). BCCH IBD patients with moderately to severely active disease have QoL scores well below the other disease groups (<ce:italic>n=</ce:italic>33, 63.1 (18.8)); lower than oncology patients on induction chemotherapy regimens (<ce:italic>n=</ce:italic>105, 68.9 (16.0)), acute inpatients (<ce:italic>n=</ce:italic>359, 63.9 (20.3)), and asthmatics with moderate-severe, persistent asthma (<ce:italic>n=</ce:italic>86, 67.1 (18.6)).</ce:simple-para>
+               <ce:simple-para id="spara006" view="all">This data is useful for clinicians treating pediatric patients looking at how QoL is influenced by chronic illness and by factors such as disease type and severity.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Quality of life</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Inflammatory bowel disease</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Pediatrics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">PedsQL<ce:sup loc="post">TM</ce:sup>
+               </ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

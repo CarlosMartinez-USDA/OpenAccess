@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100022">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Kinetic analysis of antibody binding to integral membrane proteins stabilized in SMALPs</dct:title>
+         <dct:creator>Pooja Sharma</dct:creator>
+         <dct:creator>Matthew Plant</dct:creator>
+         <dct:creator>Sheung Kwan Lam</dct:creator>
+         <dct:creator>Qing Chen</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Grating-coupled Interferometry (GCI)</rdf:li>
+               <rdf:li>Surface Plasmon Resonance (SPR)</rdf:li>
+               <rdf:li>Antibodies and SMALPs (Styrene Maleic Acid Lipid Particles)</rdf:li>
+               <rdf:li>Membrane Proteins (MP)</rdf:li>
+               <rdf:li>Binding Kinetics</rdf:li>
+               <rdf:li>Label Free</rdf:li>
+               <rdf:li>Detergent Free</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100022</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100022</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100022</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100022</dct:identifier>
+         <bam:articleNumber>100022</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-07-31T09:19:51Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100022</ja:aid>
+         <ce:article-number>100022</ce:article-number>
+         <ce:pii>S2667-1603(21)00021-1</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100022</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Kinetic analysis of antibody binding to integral membrane proteins stabilized in SMALPs</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000211-3b0f839d8e312af4b07c604dc3bf04ca">
+               <ce:given-name>Pooja</ce:given-name>
+               <ce:surname>Sharma</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:psharm03@amgen.com">psharm03@amgen.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000211-6b4ceb5c19409623f6d7f60917ef22fb">
+               <ce:given-name>Matthew</ce:given-name>
+               <ce:surname>Plant</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:mplant@momatx.com">mplant@momatx.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667160321000211-66d9eaf3ad04d7ae1be35504401a5123">
+               <ce:given-name>Sheung Kwan</ce:given-name>
+               <ce:surname>Lam</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0003" type="email" xlink:href="mailto:shlam@amgen.com">shlam@amgen.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667160321000211-dda941bac2af70de8ac4fe046b47b3de">
+               <ce:given-name>Qing</ce:given-name>
+               <ce:surname>Chen</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0004" type="email" xlink:href="mailto:qchen@amgen.com">qchen@amgen.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000211-3fc99555eac7655752b2bb448ffd8c60">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Discovery Attribute Sciences, Amgen Research, Amgen Inc., Thousand Oaks, CA, 91320</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Discovery Attribute Sciences</sa:organization>
+                  <sa:organization>Amgen Research</sa:organization>
+                  <sa:organization>Amgen Inc.</sa:organization>
+                  <sa:city>Thousand Oaks</sa:city>
+                  <sa:state>CA</sa:state>
+                  <sa:postal-code>91320</sa:postal-code>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDiscovery Attribute Sciences, Amgen Research, Amgen Inc., Thousand Oaks, CA, 91320</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667160321000211-4a7de00b8924415c02794f9fa685e9ee">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Discovery Attribute Sciences, Amgen Research, Amgen Inc., Cambridge, MA, 02141</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Discovery Attribute Sciences</sa:organization>
+                  <sa:organization>Amgen Research</sa:organization>
+                  <sa:organization>Amgen Inc.</sa:organization>
+                  <sa:city>Cambridge</sa:city>
+                  <sa:state>MA</sa:state>
+                  <sa:postal-code>02141</sa:postal-code>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDiscovery Attribute Sciences, Amgen Research, Amgen Inc., Cambridge, MA, 02141</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667160321000211-29d22b144309fe2e9ece5d66eafff8dd">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Biologics, Amgen Research, Amgen Inc., South San Francisco, CA 94080</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Biologics</sa:organization>
+                  <sa:organization>Amgen Research</sa:organization>
+                  <sa:organization>Amgen Inc.</sa:organization>
+                  <sa:city>South San Francisco</sa:city>
+                  <sa:state>CA</sa:state>
+                  <sa:postal-code>94080</sa:postal-code>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cBiologics, Amgen Research, Amgen Inc., South San Francisco, CA 94080</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Current address: MOMA Therapeutics, Brighton, MA 02135.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Encapsulation of target membrane protein (MP) complexes with SMALP (Styrene maleic acid lipid Particles) was established as detergent free approach for binding characterization.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Binding kinetics of interactions of therapeutic antibodies or tool reagents associated with target MP were determined by Grating-coupled interferometry (GCI) and surface plasmon resonance based biosensor platforms creoptix WAVEsystem and biacore respectively.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">SMALPs based purification were observed to be capable of both qualitative and quantitative analysis of membrane protein interactions with a variety of antibodies in specific manner.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">SPR data demonstrated that SMA based stabilization of membrane proteins is a precise and efficient procedure for label-free kinetic analysis of diverse antibody binding interactions as both purified and complex mixture environment.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0006" view="all">Integrated SMALP-Biosensor platform developed for multiple membrane proteins of interest demonstrated the strength of the two techniques and provides a robust label-free approach to quantify membrane target binding directly with diverse ligands.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara008" view="all">The fundamental importance of membrane protein (MP) targets in central biological and cellular events has driven a marked increase in the use of membrane mimetics for exploring these proteins as therapeutic targets. The main challenge associated with biophysical analysis of membrane protein is the need for detergent extraction from the bilayer environment, which in many cases causes the proteins to become insoluble, unstable or display altered structure or activity. Recent technological advances have tried to limit the exposure of purified membrane protein to detergents. One such method involves the amphipathic co-polymer of styrene and maleic acid (SMA), which can release lipids and integral membrane proteins into water soluble native particles (or vesicles) termed SMALPs (Styrene Maleic Acid Lipid Particles). In this study, assay conditions that leverage SMA for membrane protein stabilization were developed to perform kinetic analysis of antibody binding to integral membrane protein and complexes in SMALPs in both purified and complex mixture settings using multiple biosensor platforms. To develop a robust and flexible platform using SMALPs technology, we optimized various SPR assay formats to analyze SMALPs produced with cell membrane pellets as well as whole cell lysates from the cell lines overexpressing membrane protein of interest. Here we emphasize the extraction of model membrane proteins of diverse architecture and function from native environments to encapsulate with SMALPs. Given the importance of selected membrane targets in central biological events and therapeutic relevance, MP-specific or tag-specific antibodies were used as a proof-of-principal to validate the SMALPs platform for ligand binding studies to support drug discovery or tool generation processes. MP-SMALPs that retain specific binding capability in multiple assay formats and biosensors, such as waveguide interferometry and surface plasmon resonance, would be a versatile platform for a wide range of downstream applications.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara009" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0004">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Grating-coupled Interferometry (GCI)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Surface Plasmon Resonance (SPR)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Antibodies and SMALPs (Styrene Maleic Acid Lipid Particles)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Membrane Proteins (MP)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Binding Kinetics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="pc_87q72IG4ye">
+               <ce:text>Label Free</ce:text>
+            </ce:keyword>
+            <ce:keyword id="pc_7AE8QbsAIv">
+               <ce:text>Detergent Free</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

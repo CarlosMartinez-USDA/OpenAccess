@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Soybean images dataset for caterpillar and Diabrotica speciosa pest detection and classification</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Maria Eloisa</namePart>
+      <namePart type="family">Mignoni</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9846-1993</nameIdentifier>
+      <displayForm>Mignoni, Maria Eloisa</displayForm>
+      <affiliation>Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado, Avenida das Garças, 1192, Centro, Nova Mutum, MT 78450-000, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Aislan</namePart>
+      <namePart type="family">Honorato</namePart>
+      <displayForm>Honorato, Aislan</displayForm>
+      <affiliation>Centro Universitário Univag, Av. Dom Orlando Chaves, 2655, Bairro Cristo Rei, Várzea Grande, MT 78118-900, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rafael</namePart>
+      <namePart type="family">Kunst</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6180-4104</nameIdentifier>
+      <displayForm>Kunst, Rafael</displayForm>
+      <affiliation>Applied Computing Graduate Program University of Vale do Rio dos Sinos (Unisinos), Av. Unisinos, 950, Bairro Cristo Rei, São Leopoldo, RS 93022-750, Brazil</affiliation>
+      <affiliation>Graduate Program in Economics University of Vale do Rio dos Sinos (Unisinos), Av. Dr. Nilo Peçanha, 1600 - Boa Vista, Porto Alegre, RS 91330-002, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rodrigo</namePart>
+      <namePart type="family">Righi</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5080-7660</nameIdentifier>
+      <displayForm>Righi, Rodrigo</displayForm>
+      <affiliation>Applied Computing Graduate Program University of Vale do Rio dos Sinos (Unisinos), Av. Unisinos, 950, Bairro Cristo Rei, São Leopoldo, RS 93022-750, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Angélica</namePart>
+      <namePart type="family">Massuquetti</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9382-5487</nameIdentifier>
+      <displayForm>Massuquetti, Angélica</displayForm>
+      <affiliation>Graduate Program in Economics University of Vale do Rio dos Sinos (Unisinos), Av. Dr. Nilo Peçanha, 1600 - Boa Vista, Porto Alegre, RS 91330-002, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article presents a dataset of insect-damaged soybean leaves. The capture of images was carried out on several soy farms, under realistic weather conditions, using two cell phones and a UAV. The dataset consists of 3 (three) folders with a total of 6,410 images. The dataset is divided into three categories: (I) healthy plants, (II) plants affected by caterpillars, and (III) images of plants damaged by Diabrotica speciosa. This dataset allows training and validation of machine learning models to diagnose, recognize, and classify soybeans affected by caterpillars or Diabrotica speciosa. The images can be processed according to the user’s need since only the size was standardized during the pre-processing phase. </abstract>
+   <subject>
+      <topic>Agriculture</topic>
+   </subject>
+   <subject>
+      <topic>Soybean</topic>
+   </subject>
+   <subject>
+      <topic>Images datasets</topic>
+   </subject>
+   <subject>
+      <topic>Insects</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107756</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107756</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107756</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01031-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-22"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010313/S2352340921010313.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

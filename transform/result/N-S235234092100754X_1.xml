@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset for life cycle assessment of strawberry-package supply chain with considering food loss during transportation</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Yuma</namePart>
+      <namePart type="family">Sasaki</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2301-9313</nameIdentifier>
+      <displayForm>Sasaki, Yuma</displayForm>
+      <affiliation>Division of Regional Development and Creativity, Graduate School of Arts and Sciences, Iwate University, 3-18-8, Ueda, Morioka, Iwate 020-8550, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Takahiro</namePart>
+      <namePart type="family">Orikasa</namePart>
+      <displayForm>Orikasa, Takahiro</displayForm>
+      <affiliation>Division of Regional Development and Creativity, Graduate School of Arts and Sciences, Iwate University, 3-18-8, Ueda, Morioka, Iwate 020-8550, Japan</affiliation>
+      <affiliation>Faculty of Agriculture, Iwate University, 3-18-8, Ueda, Morioka, Iwate 020-8550, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nobutaka</namePart>
+      <namePart type="family">Nakamura</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1492-1137</nameIdentifier>
+      <displayForm>Nakamura, Nobutaka</displayForm>
+      <affiliation>Food Research Institute, NARO, 2-1-12, Kannondai, Tsukuba, Ibaraki 305-8642, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kiyotada</namePart>
+      <namePart type="family">Hayashi</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5698-020X</nameIdentifier>
+      <displayForm>Hayashi, Kiyotada</displayForm>
+      <affiliation>Institute for Agro-Environmental Sciences, NARO, 3-1-3, Kannondai, Tsukuba, Ibaraki 305-8604, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yoshihito</namePart>
+      <namePart type="family">Yasaka</namePart>
+      <displayForm>Yasaka, Yoshihito</displayForm>
+      <affiliation>TCO2 Co.,Ltd., 602 Bancho Royal Court, 23-2, Ichiban-cho, Chiyoda, Tokyo 102-0082, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Naoki</namePart>
+      <namePart type="family">Makino</namePart>
+      <displayForm>Makino, Naoki</displayForm>
+      <affiliation>TCO2 Co.,Ltd., 602 Bancho Royal Court, 23-2, Ichiban-cho, Chiyoda, Tokyo 102-0082, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Koichi</namePart>
+      <namePart type="family">Shobatake</namePart>
+      <displayForm>Shobatake, Koichi</displayForm>
+      <affiliation>TCO2 Co.,Ltd., 602 Bancho Royal Court, 23-2, Ichiban-cho, Chiyoda, Tokyo 102-0082, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shoji</namePart>
+      <namePart type="family">Koide</namePart>
+      <displayForm>Koide, Shoji</displayForm>
+      <affiliation>Division of Regional Development and Creativity, Graduate School of Arts and Sciences, Iwate University, 3-18-8, Ueda, Morioka, Iwate 020-8550, Japan</affiliation>
+      <affiliation>Faculty of Agriculture, Iwate University, 3-18-8, Ueda, Morioka, Iwate 020-8550, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Takeo</namePart>
+      <namePart type="family">Shiina</namePart>
+      <displayForm>Shiina, Takeo</displayForm>
+      <affiliation>Graduate School of Horticulture, Chiba University, 648, Matsudo, Chiba, 271-8510, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This dataset includes two kinds of data (for inventory analysis in Table A1 to A13, and precondition of waste and recycle for plastic and cardboard in Table A14) for conducting life cycle assessment (LCA) of strawberry-package supply chain with considering food loss during transportation Inventory analysis includes input data for LCA analysis. The data in the inventory was referenced from the publication of Plastic Waste Management Institute Plastic Waste Management Institute, (2017) and calculated based on the damage area ratio measured in our co-submitted article (Sasaki et al., 2022). This data helps to reproduce the article (Sasaki et al., 2022) for inventory analysis and re-analyze the environmental impact through the life cycle of strawberry assessed in the co-submitted article. Data of waste (incineration and landfill) and recycle ratios for plastic was collected from the previous reports of the publication Basic Knowledge of Plastic Recycle 2021 (Plastic Waste Management Institute, 2021), and data of the ratios for cardboard was referenced from Transition of Collect Rate on Cardboard (Ministry of the Environment (MOE), 2016). Ratios in this data show Japan-specialized values and is useful for creating the inventory. </abstract>
+   <subject>
+      <topic>Inventory analysis</topic>
+   </subject>
+   <subject>
+      <topic>Life cycle assessment (LCA)</topic>
+   </subject>
+   <subject>
+      <topic>Waste and recycle ratio</topic>
+   </subject>
+   <subject>
+      <topic>Packaging</topic>
+   </subject>
+   <subject>
+      <topic>Food loss</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107473</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107473</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107473</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00754-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-11"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S235234092100754X/S235234092100754X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

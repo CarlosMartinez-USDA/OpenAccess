@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on the Validation to Determine the Material Thermal Properties Estimation Via a One-Dimensional Transient Convection Model</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Lauren B.</namePart>
+      <namePart type="family">Tomanek</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3998-4417</nameIdentifier>
+      <displayForm>Tomanek, Lauren B.</displayForm>
+      <affiliation>Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology, Rolla, MO 65409, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Daniel S.</namePart>
+      <namePart type="family">Stutts</namePart>
+      <displayForm>Stutts, Daniel S.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>These data were acquired to estimate the parameters of a closed form solution of a one-dimensional transient convection heat diffusion PDE. The purpose was to demonstrate that the model could be used to determine the thermal conductivity. The system was tested for a wide range of thermal conductivity, 15-400 W/mK, in order to verify that the method was applicable for various materials. The data reported here refer to the study in the research articles, “Material Thermal Properties Estimation Via a One-Dimensional Transient Convection Model” [1] and “Influence of porosity on the thermal, electrical, and mechanical performance of selective laser melted stainless steel” [2]. The dataset contains the raw data obtained from the temperature acquisition system as well as the processed results from a Python program to determine the thermal conductivity from a forced convection, transient one-dimensional heat diffusion equation. </abstract>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107632</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107632</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107632</url>
+   </location>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-23"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009070/S2352340921009070.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

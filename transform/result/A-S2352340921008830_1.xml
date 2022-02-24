@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107608">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on one-dimensional vertical free swelling potential of soils and related soil properties</dct:title>
+         <dct:creator>Eyo E. U</dct:creator>
+         <dct:creator>Uche Onyekpe</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Swelling</rdf:li>
+               <rdf:li>Soil expansion</rdf:li>
+               <rdf:li>One-dimensional swelling</rdf:li>
+               <rdf:li>Soil index properties</rdf:li>
+               <rdf:li>Moisture content</rdf:li>
+               <rdf:li>Surcharge load</rdf:li>
+               <rdf:li>Ground movement</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107608</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107608</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107608</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107608</dct:identifier>
+         <bam:articleNumber>107608</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-17T20:03:49Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107608</ja:aid>
+         <ce:article-number>107608</ce:article-number>
+         <ce:pii>S2352-3409(21)00883-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107608</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data on one-dimensional vertical free swelling potential of soils and related soil properties</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008830-573334b8d0b72d7774ec0311e28c5c5e"
+                       orcid="0000-0002-8589-6867">
+               <ce:given-name>Eyo E.</ce:given-name>
+               <ce:surname>U</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:eyo.eyo@uwe.ac.uk">eyo.eyo@uwe.ac.uk</ce:e-address>
+               <ce:e-address id="ea3a"
+                             type="social-media"
+                             xlink:href="https://twitter.com/Eyowhite3">@Eyowhite3</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008830-c27f789b36d621bedf53690b398f94b7"
+                       orcid="0000-0001-8033-9394">
+               <ce:given-name>Uche</ce:given-name>
+               <ce:surname>Onyekpe</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:u.onyekpe@yorksj.ac.uk"
+                             id="ead0002">u.onyekpe@yorksj.ac.uk</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/UOnyekpe">@UOnyekpe</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008830-b7cb22257474f9dde8001c97f71fb0dd">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Geography and Environmental Management, Faculty of Environment and Technology, Civil Engineering Cluster, University of the West of England, Bristol, United Kingdom</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Geography and Environmental Management</sa:organization>
+                  <sa:organization>Faculty of Environment and Technology, Civil Engineering Cluster</sa:organization>
+                  <sa:organization>University of the West of England</sa:organization>
+                  <sa:city>Bristol</sa:city>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Geography and Environmental Management, Faculty of Environment and Technology, Civil Engineering Cluster, University of the West of England, Bristol, United Kingdom</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008830-66550357766bbc748aa26c7e4d33aae6">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Data Science, School of Science, Technology and Health, York St. John University, United Kingdom</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Data Science, School of Science, Technology and Health</sa:organization>
+                  <sa:organization>York St. John University</sa:organization>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Data Science, School of Science, Technology and Health, York St. John University, United Kingdom</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="19" month="10" year="2021"/>
+         <ce:date-accepted day="16" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">Most of the damaging geo-hazards recorded in modern history are caused by soil swelling or expansion. Therefore, proper evaluation of a soil's capacity to swell is very crucial for the achievement of a secure and safe ground for civil infrastructures and related land developments which are founded on the soil. In order to simulate as well as estimate the heave that can occur under field conditions, laboratory one-dimensional oedometer vertical swell-strain testing are most frequently used. Hence, in this brief, one-dimensional swelling tests adopted to measure soil swelling on laboratory-engineered and natural soils covering various regions on the globe are reported. The testing standards and procedures followed in the measurement of one-dimensional swelling are those enumerated in the American Standards for Testing of Materials (ASTM), and American Association of State Highways Transport Officials (AASHTO). Slight modifications to the measurement procedures (such as the use of different surcharge loading and custom-made consolidation rings) reflecting special laboratory testing conditions and for the purposes of comparisons, are also reported.</ce:simple-para>
+               <ce:simple-para id="spara004" view="all">Corresponding soil properties characterising the dataset includes moisture content, void ratio, specific gravity, unit weight, liquid limit, plastic limit, plasticity index, clay content, silt content, maximum dry unit weight, optimum moisture content, and soil activity index, all of which are known to bear either direct or indirect influences on soil. Determination of the state of compaction of the soils where applicable, are carried out based on the American Standards for Testing of Materials (ASTM), Turkish Standards (TS), American Association of State Highways Transport Officials (AASHTO)and a combination of both standard and modified efforts. A total of 395 data samples on soil swelling potential are reported. With regards to the corresponding soil properties, a total of 219 data records of soil specific gravity, 321 data records of initial moisture content, 163 data records of void ratio, 273 data records of dry unit weight, 347 data records of liquid limit, 347 data records of plastic limit, 395 data records of plasticity index, 209 data records of activity index, 339 data records of clay content, 174 data records of silt content, 246 data records of optimum moisture content, 228 data records of maximum dry density and 347 data records of Unified Soil Classification System (USCS) are presented. Finally, the dataset of one-dimensional soil swelling described herein are intended to aid geotechnical engineers and researchers who are involved in statistical correlation studies, data analytics, and machine learning predictions using soft computing methods mostly aimed at evaluating soil expansion especially during the preliminary phases of soil investigation and foundation design.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Swelling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Soil expansion</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">One-dimensional swelling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Soil index properties</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Moisture content</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Surcharge load</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Ground movement</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

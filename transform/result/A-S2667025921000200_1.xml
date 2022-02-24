@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100028">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Encapsulation of oregano (Origanum vulgare) leaf polyphenols: Development, characterization and in-vitro release study</dct:title>
+         <dct:creator>Rahul Kumar Rout</dct:creator>
+         <dct:creator>Ankit Kumar</dct:creator>
+         <dct:creator>Dr. Pavuluri Srinivasa Rao</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Oregano</rdf:li>
+               <rdf:li>Encapsulation</rdf:li>
+               <rdf:li>In-vitro release</rdf:li>
+               <rdf:li>Mathematical modeling</rdf:li>
+               <rdf:li>Diffusion</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health 1 (2021). doi:10.1016/j.fhfh.2021.100028</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fhfh.2021.100028</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100028</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100028</dct:identifier>
+         <bam:articleNumber>100028</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-09-06T02:01:10Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100028</ja:aid>
+         <ce:article-number>100028</ce:article-number>
+         <ce:pii>S2667-0259(21)00020-0</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100028</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Encapsulation of oregano (Origanum vulgare) leaf polyphenols: Development, characterization and <ce:italic>in-vitro</ce:italic> release study</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025921000200-64fa2030c6552acb42fc8aa9583265cf">
+               <ce:given-name>Rahul Kumar</ce:given-name>
+               <ce:surname>Rout</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:rahulkumarrout1997@gmail.com">rahulkumarrout1997@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025921000200-3b8c573d66964578b8101d6b05159a7e">
+               <ce:given-name>Ankit</ce:given-name>
+               <ce:surname>Kumar</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667025921000200-7d340bc2779b24b4c2f38530f76f6f5e">
+               <ce:given-name>Dr. Pavuluri Srinivasa</ce:given-name>
+               <ce:surname>Rao</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025921000200-8ffc604f789ebba7130a1762d54cc354">
+               <ce:textfn id="cetextfn0001">Department of Agricultural and Food Engineering, Indian Institute of Technology, Kharagpur, West Bengal 721302, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department Indian Institute of Technology</sa:organization>
+                  <sa:organization>Agricultural and Food Engineering</sa:organization>
+                  <sa:city>Kharagpur</sa:city>
+                  <sa:state>West Bengal</sa:state>
+                  <sa:postal-code>721302</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department Indian Institute of Technology, Agricultural and Food Engineering, Kharagpur, West Bengal 721302, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="27" month="5" year="2021"/>
+         <ce:date-revised day="5" month="8" year="2021"/>
+         <ce:date-accepted day="5" month="9" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara021" view="all">Oregano (<ce:italic>Origanum vulgare</ce:italic>) leaf polyphenols show high antioxidative properties. However, their low stability to external conditions like temperature, light, pH and moisture require an efficient encapsulation for bioactive preservation, shelf-life extension and sustained release. This work aimed at encapsulating the sensitive polyphenols obtained from oregano leaves by freeze drying technique, using a combination of reconstituted aloe vera hydrogel as the base material, with maltodextrin and gum Arabic as coating materials. The encapsulation efficiency (85.11 ± 1.15 to 95.60 ± 0.17%) showed good retention of polyphenols by freeze drying method. The microparticles were further characterized on color, moisture content, water activity, solubility, flowability, cohesiveness, morphological analysis and <ce:italic>in-vitro</ce:italic> release. The powder gave good flowability, less cohesiveness and good reconstitution properties, making it suitable for food applications. Sustained release was obtained at low temperature (15 °C) and low pH (2 and 5) conditions (upto 50% release for a time of 120 min). among the various mathematical models used, Korsmeyer-Peppas model (R<ce:sup loc="post">2</ce:sup> = 0.96–0.99) was the best fit one, followed by Higuchi model (R<ce:sup loc="post">2</ce:sup> = 0.94–0.99), which were suitable for simulating intestinal phase release. The polyphenol release occurred through diffusion, obeying Fick's law of molecular diffusion.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Oregano</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Encapsulation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">
+                  <ce:italic>In-vitro</ce:italic> release</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Mathematical modeling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Diffusion</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

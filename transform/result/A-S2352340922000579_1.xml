@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107845">
+         <dct:format>application/xml</dct:format>
+         <dct:title>3-D data of thermal regime, water content, and slab dehydration in Alaska</dct:title>
+         <dct:creator>Rui Qu</dct:creator>
+         <dct:creator>Yingfeng Ji</dct:creator>
+         <dct:creator>Weiling Zhu</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Numerical simulation</rdf:li>
+               <rdf:li>Thermal regime</rdf:li>
+               <rdf:li>Water content</rdf:li>
+               <rdf:li>Slab dehydration</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107845</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107845</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107845</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107845</dct:identifier>
+         <bam:articleNumber>107845</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-16T13:57:56Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>China Institutes Tracking agreement</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107845</ja:aid>
+         <ce:article-number>107845</ce:article-number>
+         <ce:pii>S2352-3409(22)00057-9</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107845</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">3-D data of thermal regime, water content, and slab dehydration in Alaska</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000579-f9b63bcf90b995138d1a1d798e53e9d7"
+                       orcid="0000-0002-7010-4097">
+               <ce:given-name>Rui</ce:given-name>
+               <ce:surname>Qu</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000579-c55f847ddcdf19051afb75c679f111cc"
+                       orcid="0000-0003-4506-8183">
+               <ce:given-name>Yingfeng</ce:given-name>
+               <ce:surname>Ji</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:yingfengji@itpcas.ac.cn">yingfengji@itpcas.ac.cn</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000579-743753023f19537b9d2697e3c3674eda">
+               <ce:given-name>Weiling</ce:given-name>
+               <ce:surname>Zhu</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000579-c5000fc3d0cbd86391f3feae5462a108">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">State Key Laboratory of Tibetan Plateau Earth System and Resources Environment (TPESRE), Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Beijing 100101, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>State Key Laboratory of Tibetan Plateau Earth System and Resources Environment (TPESRE)</sa:organization>
+                  <sa:organization>Institute of Tibetan Plateau Research</sa:organization>
+                  <sa:organization>Chinese Academy of Sciences</sa:organization>
+                  <sa:city>Beijing 100101</sa:city>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aState Key Laboratory of Tibetan Plateau Earth System and Resources Environment (TPESRE), Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Beijing 100101, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922000579-211f68de21a03e3ac29ba11672433b3a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">University of Chinese Academy of Sciences, Beijing 100049, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Chinese Academy of Sciences</sa:organization>
+                  <sa:city>Beijing</sa:city>
+                  <sa:postal-code>100049</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bUniversity of Chinese Academy of Sciences, Beijing 100049, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922000579-62d7e561633c6784735cafa9235dcd96">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Geophysics, Yunnan University, Kunming 650091, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Geophysics</sa:organization>
+                  <sa:organization>Yunnan University</sa:organization>
+                  <sa:city>Kunming</sa:city>
+                  <sa:postal-code>650091</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Geophysics, Yunnan University, Kunming 650091, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="16" month="12" year="2021"/>
+         <ce:date-revised day="10" month="1" year="2022"/>
+         <ce:date-accepted day="13" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">The data include the 3-D temperature field (degrees Celsius), water content (wt%), dehydration rate (wt%/km), and subduction velocity field (cm/yr) of the subducting plate, as well as the coastline and volcano distribution in Alaska. The data of the model region have dimensions of 800 × 1600 × 400 km (length × width × depth). The geometry of the subducted plate is well constrained by Slab2.0, and the plate ages are provided by EarthByte. The subduction velocities inside a prescribed 3-D constrained volume of the oceanic lithosphere are given based on the kinematic plate subduction modeling method and the MORVEL plate motion data. The observation of surface heat flow and Curie point depths are used to constrain the model thermal regime. The geophysical calculation is ensured after the subduction thermal regime reaches a steady state. Data are deposited in the TPDC repository, which has granted a persistent identifier <ce:inter-ref id="interref0001"
+                                xlink:href="https://data.tpdc.ac.cn/en/disallow/8b266d22-fea7-4259-9a5f-8ac0bd9e7869/"
+                                xlink:type="simple">https://data.tpdc.ac.cn/en/disallow/8b266d22-fea7-4259-9a5f-8ac0bd9e7869/</ce:inter-ref>. Data include (1) paraview_eq_USGS.vtk (earthquake catalog by IRIS, 2000-2010, Trabant et al., 2012), (2) paraview_slab.vtk (3-D thermal regime, slab water content and slab dehydration), (3) paraview_volcano.vtk (global volcanoes at NCEI, Siebert et al., 2010), and (4) paraview_map.vtk (coastline, GMT).</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Numerical simulation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001a">
+               <ce:text id="cetext0002a">Thermal regime</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001b">
+               <ce:text id="cetext0002b">Water content</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001c">
+               <ce:text id="cetext0002c">Slab dehydration</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

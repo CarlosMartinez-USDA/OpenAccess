@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of propylene carbonate based liquid electrolyte mixtures for sodium-ion cells</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Andreas</namePart>
+      <namePart type="family">Hofmann</namePart>
+      <displayForm>Hofmann, Andreas</displayForm>
+      <affiliation>Karlsruher Institut für Technologie, Institut für Angewandte Materialien (IAM), Herrmann-von-Helmholtz Platz 1, Eggenstein-Leopoldshafen 76344, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Zhengqi</namePart>
+      <namePart type="family">Wang</namePart>
+      <displayForm>Wang, Zhengqi</displayForm>
+      <affiliation>Karlsruher Institut für Technologie, Institut für Angewandte Materialien (IAM), Herrmann-von-Helmholtz Platz 1, Eggenstein-Leopoldshafen 76344, Germany</affiliation>
+      <affiliation>Department of Microsystems Engineering, University of Freiburg, Georges-Köhler-Allee 102, Freiburg D-79110, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sebastian Pinto</namePart>
+      <namePart type="family">Bautista</namePart>
+      <displayForm>Bautista, Sebastian Pinto</displayForm>
+      <affiliation>Karlsruher Institut für Technologie, Institut für Technikfolgenabschätzung und Systemanalyse (ITAS), Postfach 3640, Karlsruhe 76021, Germany</affiliation>
+      <affiliation>Helmholtz-Institut Ulm für Elektrochemische Energiespeicherung (HIU), Helmholtzstraße 11, Ulm 89081, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Marcel</namePart>
+      <namePart type="family">Weil</namePart>
+      <displayForm>Weil, Marcel</displayForm>
+      <affiliation>Karlsruher Institut für Technologie, Institut für Technikfolgenabschätzung und Systemanalyse (ITAS), Postfach 3640, Karlsruhe 76021, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Freya</namePart>
+      <namePart type="family">Müller</namePart>
+      <displayForm>Müller, Freya</displayForm>
+      <affiliation>Karlsruher Institut für Technologie, Institut für Angewandte Materialien (IAM), Herrmann-von-Helmholtz Platz 1, Eggenstein-Leopoldshafen 76344, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Robert</namePart>
+      <namePart type="family">Löwe</namePart>
+      <displayForm>Löwe, Robert</displayForm>
+      <affiliation>Karlsruher Institut für Technologie, Institut für Angewandte Materialien (IAM), Herrmann-von-Helmholtz Platz 1, Eggenstein-Leopoldshafen 76344, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Luca</namePart>
+      <namePart type="family">Schneider</namePart>
+      <displayForm>Schneider, Luca</displayForm>
+      <affiliation>Karlsruher Institut für Technologie, Institut für Angewandte Materialien (IAM), Herrmann-von-Helmholtz Platz 1, Eggenstein-Leopoldshafen 76344, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ijaz Ul</namePart>
+      <namePart type="family">Mohsin</namePart>
+      <displayForm>Mohsin, Ijaz Ul</displayForm>
+      <affiliation>Karlsruher Institut für Technologie, Institut für Angewandte Materialien (IAM), Herrmann-von-Helmholtz Platz 1, Eggenstein-Leopoldshafen 76344, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Thomas</namePart>
+      <namePart type="family">Hanemann</namePart>
+      <displayForm>Hanemann, Thomas</displayForm>
+      <affiliation>Karlsruher Institut für Technologie, Institut für Angewandte Materialien (IAM), Herrmann-von-Helmholtz Platz 1, Eggenstein-Leopoldshafen 76344, Germany</affiliation>
+      <affiliation>Department of Microsystems Engineering, University of Freiburg, Georges-Köhler-Allee 102, Freiburg D-79110, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In this manuscript, we present rheology, ionic conductivity, density, chromatography, and life cycle analysis data on the PC+X electrolyte system with and without LiClO₄. In particular, the data are presented in contact with Na surfaces. In this case, photographic images of electrolyte-sodium mixtures are also shown. The data was analyzed using OriginPro software to visualize it in an appropriate manner. In our view, the data serve as comparative values, form a basis of a chromatography analysis and are also valuable for modeling. The analysis of the data is presented in the manuscript “Comprehensive characterization of propylene carbonate based liquid electrolyte mixtures for sodium-ion cells” [1]. </abstract>
+   <subject>
+      <topic>Density data</topic>
+   </subject>
+   <subject>
+      <topic>Viscosity data</topic>
+   </subject>
+   <subject>
+      <topic>Conductivity data</topic>
+   </subject>
+   <subject>
+      <topic>Gas chromatography dataset</topic>
+   </subject>
+   <subject>
+      <topic>Life cycle analysis (LCA) data</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107775</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107775</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107775</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01049-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-29"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010490/S2352340921010490.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

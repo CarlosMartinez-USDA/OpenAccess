@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Genome sequence data of Bacillus amyloliquefaciens L-17</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Meriem</namePart>
+      <namePart type="family">Zaidi-Ait Salem</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4651-8203</nameIdentifier>
+      <displayForm>Zaidi-Ait Salem, Meriem</displayForm>
+      <affiliation>Laboratoire de Biotechnologies Agroalimentaire et Environnementale (LBAE) URU 4565, UPS, Université de Toulouse, IUT Paul Sabatier, 24 rue d'Embaquès, Auch F-32000, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Elisabeth</namePart>
+      <namePart type="family">Girbal-Neuhauser</namePart>
+      <displayForm>Girbal-Neuhauser, Elisabeth</displayForm>
+      <affiliation>Laboratoire de Biotechnologies Agroalimentaire et Environnementale (LBAE) URU 4565, UPS, Université de Toulouse, IUT Paul Sabatier, 24 rue d'Embaquès, Auch F-32000, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yassine</namePart>
+      <namePart type="family">Nait  Chabane</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9528-2105</nameIdentifier>
+      <displayForm>Nait  Chabane, Yassine</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Bacillus amyloliquefaciens L-17 strain was isolated from a sample of chicken feathers. Here, we report complete genome sequence data of B. amyloliquefaciens L-17. The size of the genome is 3,933,788 bp which harbours 4001 coding Sequences. The BioProject has been deposited at NCBI GenBank. The GenBank accession numbers are PRJNA727793 for the BioProject, CP074391.1 for the chromosome, GCA_018363035.1 for GenBank assembly accession and SAMN19035411 for the BioSample. </abstract>
+   <subject>
+      <topic>Complete genome</topic>
+   </subject>
+   <subject>
+      <topic>Bacillus amyloliquefaciens</topic>
+   </subject>
+   <subject>
+      <topic>Biofilm</topic>
+   </subject>
+   <subject>
+      <topic>antimicrobials</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107505</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107505</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107505</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00786-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007861/S2352340921007861.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

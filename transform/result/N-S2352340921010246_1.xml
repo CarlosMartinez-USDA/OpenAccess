@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Soil profile photograph dataset from central Mexico to delineate horizons and quantify coarse fragments</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ángeles</namePart>
+      <namePart type="family">Gallegos</namePart>
+      <displayForm>Gallegos, Ángeles</displayForm>
+      <affiliation>Centro de Investigaciones en Geografía Ambiental, Universidad Nacional Autónoma de México, Antigua Carretera a Pátzcuaro No. 8701, Col. Ex-Hacienda de San José de la Huerta, C.P., Morelia, Michoacán 58190, México</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Francisco</namePart>
+      <namePart type="family">Bautista</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9128-5803</nameIdentifier>
+      <displayForm>Bautista, Francisco</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This database consists of a digital photograph set of soil profiles from the physiographic provinces of the Trans-Mexican Neovolcanic Axis and Sierra Madre del Sur of central Mexico. Although the official and government databases of soil profiles from Mexico do not contain the percentage of coarse fragments (stoniness), they contain soil profile photographs from which the percentage of coarse fragments can be extracted. The dataset has two data source types: (a) Soil profile photographs taken in the field and (b) soil profile photographs from the official database of the government of Mexico. The images were analyzed using the Gallegos-Bautista (GB) method. In the GB method, the horizon delineation of the soil profiles includes preprocessing the profile image with k-means segmentation; conversion of the preprocessed image to CIE L*a*b* (lightness, red/green value, blue/yellow value) and HSV (hue, saturation, value) color systems; k-means segmentation of HSV and CIE L*a*b* images, delineation of horizons, and clarity and topography determinations of the outlined horizons. The soil groups studied correspond to the Andosol, Cambisol, Luvisol, Alisol, Kastanozem, Phaeozem, Umbrisol, and Solonchak groups, some of which had contrasting color horizons, allowing us to identify how to follow the analysis of the digital images according to the horizons of the soil profiles. </abstract>
+   <subject>
+      <topic>CIE L*a*b*</topic>
+   </subject>
+   <subject>
+      <topic>HSV</topic>
+   </subject>
+   <subject>
+      <topic>Digital photography</topic>
+   </subject>
+   <subject>
+      <topic>Color systems</topic>
+   </subject>
+   <subject>
+      <topic>Stoniness</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107749</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107749</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107749</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01024-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-21"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010246/S2352340921010246.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Fourier transform and near infrared dataset of dialdehyde celluloses used to determine the degree of oxidation with chemometric analysis</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jonas</namePart>
+      <namePart type="family">Simon</namePart>
+      <displayForm>Simon, Jonas</displayForm>
+      <affiliation>Department of Chemistry, Institute of Chemistry of Renewable Resources, University of Natural Resources and Life Sciences Vienna (BOKU), Konrad-Lorenz-Strasse 24, Tulln 3430, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Otgontuul</namePart>
+      <namePart type="family">Tsetsgee</namePart>
+      <displayForm>Tsetsgee, Otgontuul</displayForm>
+      <affiliation>Department of Chemistry, Institute of Chemistry of Renewable Resources, University of Natural Resources and Life Sciences Vienna (BOKU), Konrad-Lorenz-Strasse 24, Tulln 3430, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nohman Arshad</namePart>
+      <namePart type="family">Iqbal</namePart>
+      <displayForm>Iqbal, Nohman Arshad</displayForm>
+      <affiliation>Department of Chemistry, Faculty of Sciences and Engineering, Sorbonne University, Campus Pierre et Marie Curie, 4 place Jussieu, Paris 75005, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Janak</namePart>
+      <namePart type="family">Sapkota</namePart>
+      <displayForm>Sapkota, Janak</displayForm>
+      <affiliation>NE Research Center, UPM Pulp Research and Innovations, Lappeenranta 53200, Finland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Matti</namePart>
+      <namePart type="family">Ristolainen</namePart>
+      <displayForm>Ristolainen, Matti</displayForm>
+      <affiliation>NE Research Center, UPM Pulp Research and Innovations, Lappeenranta 53200, Finland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Thomas</namePart>
+      <namePart type="family">Rosenau</namePart>
+      <displayForm>Rosenau, Thomas</displayForm>
+      <affiliation>Department of Chemistry, Institute of Chemistry of Renewable Resources, University of Natural Resources and Life Sciences Vienna (BOKU), Konrad-Lorenz-Strasse 24, Tulln 3430, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Antje</namePart>
+      <namePart type="family">Potthast</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1981-2271</nameIdentifier>
+      <displayForm>Potthast, Antje</displayForm>
+      <affiliation>Department of Chemistry, Institute of Chemistry of Renewable Resources, University of Natural Resources and Life Sciences Vienna (BOKU), Konrad-Lorenz-Strasse 24, Tulln 3430, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This dataset is related to the research article entitled ``A fast method to measure the degree of oxidation of dialdehyde celluloses using multivariate calibration and infrared spectroscopy''. In this article, 74 dialdehyde cellulose samples with different degrees of oxidation were prepared by periodate oxidation and analysed by Fourier-transform infrared (FTIR) and near-infrared spectroscopy (NIR). The corresponding degrees of oxidation were determined indirectly by periodate consumption using UV spectroscopy at 222 nm and by the quantitative reaction with hydroxylamine hydrochloride followed by potentiometric titration. Partial least squares regression (PLSR) was used to correlate the infrared data with the corresponding degree of oxidation (DO). The developed NIR/PLSR and FTIR/PLSR models can easily be implemented in other laboratories to quickly and reliably predict the degree of oxidation of dialdehyde celluloses. </abstract>
+   <subject>
+      <topic>Periodate oxidation</topic>
+   </subject>
+   <subject>
+      <topic>Cellulose chemistry</topic>
+   </subject>
+   <subject>
+      <topic>Multivariate calibration modelling</topic>
+   </subject>
+   <subject>
+      <topic>Partial least-squares regression</topic>
+   </subject>
+   <subject>
+      <topic>Infrared spectroscopy</topic>
+   </subject>
+   <subject>
+      <topic>Chemometrics</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107757</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107757</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107757</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01032-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-22"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010325/S2352340921010325.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

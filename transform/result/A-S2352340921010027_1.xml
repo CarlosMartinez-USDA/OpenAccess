@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107727">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Ageing characterization data of lithium-ion battery with highly deteriorated state and wide range of state-of-health</dct:title>
+         <dct:creator>Zhiyong Xia</dct:creator>
+         <dct:creator>Jaber A. Abu Qahouq</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Battery</rdf:li>
+               <rdf:li>Battery management system</rdf:li>
+               <rdf:li>Impedance</rdf:li>
+               <rdf:li>Lithium-ion</rdf:li>
+               <rdf:li>State-of-health</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107727</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107727</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107727</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107727</dct:identifier>
+         <bam:articleNumber>107727</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-14T16:35:58Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107727</ja:aid>
+         <ce:article-number>107727</ce:article-number>
+         <ce:pii>S2352-3409(21)01002-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107727</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Ageing characterization data of lithium-ion battery with highly deteriorated state and wide range of state-of-health</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010027-3280d832fb32a6ef421b830fdf2f58c7"
+                       orcid="0000-0002-3348-3075">
+               <ce:given-name>Zhiyong</ce:given-name>
+               <ce:surname>Xia</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010027-bc3ef9d89f1c2946048d780fd9c2f5de">
+               <ce:given-name>Jaber A.</ce:given-name>
+               <ce:surname>Abu Qahouq</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:jaberq@eng.ua.edu">jaberq@eng.ua.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010027-390adc1a4d015371fe6ad80e4965230c">
+               <ce:textfn id="cetextfn0001">Department of Electrical and Computer Engineering, College of Engineering, University of Alabama, Tuscaloosa, AL 35487 United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Electrical and Computer Engineering</sa:organization>
+                  <sa:organization>College of Engineering</sa:organization>
+                  <sa:organization>University of Alabama</sa:organization>
+                  <sa:city>Tuscaloosa</sa:city>
+                  <sa:state>AL</sa:state>
+                  <sa:postal-code>35487</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Electrical and Computer Engineering, College of Engineering, University of Alabama, Tuscaloosa, AL 35487 United States</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="4" month="8" year="2021"/>
+         <ce:date-revised day="7" month="12" year="2021"/>
+         <ce:date-accepted day="13" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara013" view="all">This paper presents ageing characterization data of two lithium-ion battery cells that have been put through a deep ageing process. At the end of ageing process, the values of state-of-health (SOH) of the battery cells drop down to around 15%. The battery cells are aged using a developed autonomous ageing platform which performs functions such as constant current (CC) discharging, CC charging, and constant voltage (CV) charging. Each time the battery cell completes 30 ageing cycles, battery performance tests including dc impedance measurement, minimum impedance measurement, and capacity calibration are conducted to characterize the ageing or health status of the battery cell. The collected battery dc impedance data, minimum impedance data, capacity data, and CC<ce:glyph name="sbnd"/>CV charging time for the deeply aged battery cells are presented in this paper. The presented data has the potential to help in identifying battery ageing behavior patterns. It can also be utilized to investigate the correlation or relationship between different battery ageing characterization data and to develop SOH estimation methods for lithium-ion batteries with high degradation conditions, for examples, for second-use battery and when battery health exhibits unexpected faster deterioration.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Battery</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001a">
+               <ce:text id="cetext0002a">Battery management system</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001b">
+               <ce:text id="cetext0002b">Impedance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001c">
+               <ce:text id="cetext0002d">Lithium-ion</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001d">
+               <ce:text id="cetext0002c">State-of-health</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

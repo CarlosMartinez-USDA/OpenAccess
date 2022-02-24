@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data to understand the nature of non-covalent interactions in the thiophene clusters</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Alhadji</namePart>
+      <namePart type="family">Malloum</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3013-3029</nameIdentifier>
+      <displayForm>Malloum, Alhadji</displayForm>
+      <affiliation>Department of Chemistry, University of the Free State, PO BOX 339, Bloemfontein 9300, South Africa</affiliation>
+      <affiliation>Department of Physics, Faculty of Science, University of Maroua, PO BOX 46, Maroua, Cameroon</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jeanet</namePart>
+      <namePart type="family">Conradie</namePart>
+      <displayForm>Conradie, Jeanet</displayForm>
+      <affiliation>Department of Chemistry, University of the Free State, PO BOX 339, Bloemfontein 9300, South Africa</affiliation>
+      <affiliation>Department of Chemistry, UiT - The Arctic University of Norway, Tromsø N-9037, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We have reported herein the data to understand the nature and number of non-covalent interactions that stabilize the structures of the thiophene clusters. In addition, we have also provided the optimized Cartesian coordinates of all the structures of the investigated thiophene clusters. Initially, the geometries have been generated using the ABCluster code which performs a global optimization to locate local and global minima structures of molecular clusters. The located geometries have been optimized at the MP2/aug-cc-pVDZ level of theory using Gaussian 16 suite of programs. To understand the nature of non-covalent interactions, we have performed a quantum theory of atoms in molecules (QTAIM) analysis on all the structures of the thiophene dimer. Furthermore, the QTAIM analysis has been performed also on the most stable structure of the thiophene trimer and tetramer. We have used the AIMAll program to perform the QTAIM analysis. The data reported in this paper contains the critical points, the bonds paths and their related properties, for each investigated structures. Besides, the data contains the optimized Cartesian coordinates of all the investigated structures of the thiophene clusters. This can be use for any further investigations involving thiophene clusters. For further information and analysis, the reader is referred to the original related research article (Malloum and Conradie, 2022). </abstract>
+   <subject>
+      <topic>Thiophene clusters</topic>
+   </subject>
+   <subject>
+      <topic>Non-covalent interactions</topic>
+   </subject>
+   <subject>
+      <topic>QTAIM analysis</topic>
+   </subject>
+   <subject>
+      <topic>Heterocyclic molecules</topic>
+   </subject>
+   <subject>
+      <topic>Benzene clusters</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107818</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107818</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107818</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00030-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-07"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000300/S2352340922000300.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

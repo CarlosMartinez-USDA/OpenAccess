@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100208">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Growth inhibition of plasmodium falciparum by Nano-molar concentrations of 1-(4‑hydroxy-3-methoxyphenyl) decan-3-one (6-paradol); is a cure at hand?</dct:title>
+         <dct:creator>Vikky Awasthi</dct:creator>
+         <dct:creator>Yash Gupta</dct:creator>
+         <dct:creator>Rubika Chauhan</dct:creator>
+         <dct:creator>Prakasha Kempaiah</dct:creator>
+         <dct:creator>Jyoti Das</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Malaria</rdf:li>
+               <rdf:li>Plasmodium</rdf:li>
+               <rdf:li>Ginger</rdf:li>
+               <rdf:li>Chorismate synthase</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100208</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100208</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100208</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100208</dct:identifier>
+         <bam:articleNumber>100208</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-21T19:16:51Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100208</ja:aid>
+         <ce:article-number>100208</ce:article-number>
+         <ce:pii>S2667-0313(21)00190-1</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100208</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Growth inhibition of plasmodium falciparum by Nano-molar concentrations of 1-(4‑hydroxy-3-methoxyphenyl) decan-3-one (6-paradol); is a cure at hand?</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001901-e8a0e416659088a5197d4f598ca954c9">
+               <ce:given-name>Vikky</ce:given-name>
+               <ce:surname>Awasthi</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001901-81d229c8fa5d3ac596d2d246a92dee46">
+               <ce:given-name>Yash</ce:given-name>
+               <ce:surname>Gupta</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001901-a910031aa8a46f7882f619448308cb95">
+               <ce:given-name>Rubika</ce:given-name>
+               <ce:surname>Chauhan</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001901-8397d978a78aa5c884c0ddc033933922">
+               <ce:given-name>Prakasha</ce:given-name>
+               <ce:surname>Kempaiah</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0002">
+                  <ce:sup loc="post">⁎⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:Kempaiah.Prakasha@mayo.edu">Kempaiah.Prakasha@mayo.edu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001901-e76a05ebc7e8dbdceb0584534dd8be3f">
+               <ce:given-name>Jyoti</ce:given-name>
+               <ce:surname>Das</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:jyoti@mrcindia.org">jyoti@mrcindia.org</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001901-a2c82de8be22378d66f8f8d74ff764f6">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Parasite-Host Biology, National Institute of Malaria Research, Sector-8, Dwarka, New Delhi, 110077, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Parasite-Host Biology</sa:organization>
+                  <sa:organization>National Institute of Malaria Research</sa:organization>
+                  <sa:address-line>Sector-8</sa:address-line>
+                  <sa:city>Dwarka,</sa:city>
+                  <sa:state>New Delhi</sa:state>
+                  <sa:postal-code>110077</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aParasite-Host Biology, National Institute of Malaria Research, Sector-8, Dwarka, New Delhi, 110077, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001901-843b42e6db7907d4a35fca4235c11153">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Infectious Diseases Division, Mayo Clinic, Jacksonville, Florida, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Infectious Diseases Division</sa:organization>
+                  <sa:organization>Mayo Clinic</sa:organization>
+                  <sa:city>Jacksonville</sa:city>
+                  <sa:state>Florida</sa:state>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bInfectious Diseases Division, Mayo Clinic, Jacksonville, Florida, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author</ce:text>
+            </ce:correspondence>
+            <ce:correspondence id="cor0002">
+               <ce:label>⁎⁎</ce:label>
+               <ce:text id="cetext0002">Corresponding author</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara010" view="all">
+                  <ce:italic>Plasmodium falciparum</ce:italic> (<ce:italic>P.f.</ce:italic>)has developed resistance to most of the drugs that are being used currently. The continued search for a new drug is required to successfully eliminate the parasite. A pathway that is unique to the parasite is an ideal target to inhibit the growth of the parasite without affecting the host metabolism.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:section-title id="cesectitle0003">Purpose</ce:section-title>
+               <ce:simple-para id="spara011" view="all">In this study, <ce:italic>Zingiber officinale Roscoe</ce:italic> (Zingiberaceae)(<ce:italic>Z.o</ce:italic>.) extract, used ethnobotanically as a potent antimicrobial, was found to inhibit <ce:italic>P.f.</ce:italic> in vitro<ce:italic>.</ce:italic>
+               </ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Methods</ce:section-title>
+               <ce:simple-para id="spara012" view="all">To find the active compounds that may target the essential proteins of the <ce:italic>P.f.</ce:italic>, the known secondary metabolite constituents of <ce:italic>Z.o.</ce:italic> rhizome were subjected to a preliminary <ce:italic>in-silico</ce:italic> target search. Chorismate synthase (CS) came up as a hit with a high binding score through multiple screening strategies. The antimalarial activity of the <ce:italic>Z.o.</ce:italic> extracts were tested with CS downstream metabolic products i.e. aromatic amino acids. The antimalarial targetablity of CS was confirmed with the phylogenetic conservancy, protein modeling, validation and subjected to High throughput virtual screening (HTVS) with a complete secondary metabolite library of <ce:italic>Z.o.</ce:italic> Among the top hits, the second hit 6-paradol (1-(4‑hydroxy-3-methoxyphenyl)decan-3-one) was available as a nature-identical synthetic compound. Compound 6-paradol was further analyzed for antimalarial and cytotoxic profiles and subjected to the same CS downstream product supplementation rescue assay.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara013" view="all">6-paradol is a highly potent antimalarial and a major component of <ce:italic>Z.o.</ce:italic> secondary metabolite pool. Though it is predicted to bind to the active site of chorismate synthase along with other metabolites of <ce:italic>Z.o.</ce:italic>, an enzyme, part of the shikimate pathway involved in the aromatic amino acid synthesis. Parasite growth was rescued upon supplementation of aromatic amino acids along with crude <ce:italic>Z.o.</ce:italic> extract in parasite culture and a shift in IC50 of &gt; 2 folds was observed, confirming the CS as the primary target of <ce:italic>Z.o.</ce:italic> crude extract. However, the rescue was inconsequential when we assayed with pure 6-paradol.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusion</ce:section-title>
+               <ce:simple-para id="spara014" view="all">This approach exploits natural compounds with high specificity and potency to kill pathogens developed due to eons of co-evolution with related pathogens. We report a novel potent antimalarial 6-paradol with nano-molar range IC50 already approved by FDA for human consumption as a nature-identical flavoring agent with immediate repurposing potential as an anti-malarial. However, CS rescue assay failure point to a different mechanism of action by active compounds and highlights <ce:italic>Z.o.</ce:italic> as a treasure trove of more potent anti-malarial which need further exploration.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0007">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0007" view="all">
+               <ce:simple-para id="spara015" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0008">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0003">Malaria</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0004">
+                  <ce:italic>Plasmodium</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0005">Ginger</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0006">Chorismate synthase</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

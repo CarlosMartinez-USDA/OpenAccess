@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A dataset of EEG recordings from 47 participants collected during a virtual reality working memory task where attention was cued by a social avatar and non-social stick cue</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Samantha E.A.</namePart>
+      <namePart type="family">Gregory</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2601-2873</nameIdentifier>
+      <displayForm>Gregory, Samantha E.A.</displayForm>
+      <affiliation>Department of Psychology, University of Salford, UK</affiliation>
+      <affiliation>Institute of Health and Neurodevelopment, Aston Laboratory for Immersive Virtual Environments, Aston University, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hongfang</namePart>
+      <namePart type="family">Wang</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9097-0865</nameIdentifier>
+      <displayForm>Wang, Hongfang</displayForm>
+      <affiliation>Institute of Health and Neurodevelopment, Aston Laboratory for Immersive Virtual Environments, Aston University, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Klaus</namePart>
+      <namePart type="family">Kessler</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7307-9539</nameIdentifier>
+      <displayForm>Kessler, Klaus</displayForm>
+      <affiliation>Institute of Health and Neurodevelopment, Aston Laboratory for Immersive Virtual Environments, Aston University, UK</affiliation>
+      <affiliation>School of Psychology, University College Dublin, Republic of Ireland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-11</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This data article describes electroencephalography (EEG) and behavioral data from 47 participants. Data was collected using a 64 channel eego™ sports mobile EEG system during a visual working memory task presented in virtual reality (VR) using Unity with an Oculus Rift S head-mounted display. In the memory task, participants had to remember the status of and details about objects presented on a table. Prior to object appearance a moving, 3D social avatar or non-social stick cue was presented which pointed to the left or right of the table. Items for encoding could appear in the valid, cued location or the invalid, un-cued location, with the cue being uninformative to the task. The cue type was presented within subjects, blocked, counterbalanced. The data (behavioral &amp; EEG (raw and processed)), scripts and the full task are available. The data is set up to allow investigation of neural signals during attention cueing, and memory encoding, maintenance and retrieval. The main novelty of the dataset is the presentation of the social avatar and non-social stick cue in VR within subjects, thus, allowing comparison across time points, including a period of eye contact. The data is also of interest to researchers interested in the neural corelates of working memory. Further, it is of interest to researchers interested in combining VR and EEG. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Eye gaze</topic>
+   </subject>
+   <subject>
+      <topic>Social</topic>
+   </subject>
+   <subject>
+      <topic>Joint attention</topic>
+   </subject>
+   <subject>
+      <topic>Theta</topic>
+   </subject>
+   <subject>
+      <topic>Alpha</topic>
+   </subject>
+   <subject>
+      <topic>Neural oscilations</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">11</text>
+         <extent unit="pages">
+            <start>107827</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107827</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107827</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00039-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-12"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/333921349383348651-00001/2352-3409/aip/S2352340922000397/S2352340922000397.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

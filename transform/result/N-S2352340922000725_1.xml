@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>NCHLT Auxiliary Speech Data for ASR Technology Development in South Africa</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jaco</namePart>
+      <namePart type="family">Badenhorst</namePart>
+      <displayForm>Badenhorst, Jaco</displayForm>
+      <affiliation>Voice Computing Research Group, CSIR Next Generation Enterprises and Institutions Cluster, P.O. Box 395, Pretoria 0001, South Africa</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Febe</namePart>
+      <namePart type="family">de Wet</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3495-9802</nameIdentifier>
+      <displayForm>de Wet, Febe</displayForm>
+      <affiliation>Voice Computing Research Group, CSIR Next Generation Enterprises and Institutions Cluster, P.O. Box 395, Pretoria 0001, South Africa</affiliation>
+      <affiliation>Department of Electrical and Electronic Engineering, Stellenbosch University, Private Bag X1, Stellenbosch 7602, South Africa</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-19</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The aim of the National Centre for Human Language Technology (NCHLT) project was to create speech and text resources that would enable Human Language Technology (HLT) development for the 11 official languages of South Africa. The speech data described in this paper was collected during the NCHLT project using a smartphone application. The official NCHLT Speech Corpus was released in 2014, but it did not include all recordings that were made during the data collection campaign. This paper describes the additional data that was recently released as auxiliary corpora [2]. The auxiliary data sets contain between 20 and 170 hours of speech data per language as well as the transcriptions associated with each utterance. In terms of the resources required for HLT development South Africa’s official languages are all under-resourced. The data described in this paper contributes toward alleviating this situation, specifically for the development of speech technology. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Speech data</topic>
+   </subject>
+   <subject>
+      <topic>Under-resourced languages</topic>
+   </subject>
+   <subject>
+      <topic>South African languages</topic>
+   </subject>
+   <subject>
+      <topic>Automatic speech recognition</topic>
+   </subject>
+   <subject>
+      <topic>Human language technology</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">19</text>
+         <extent unit="pages">
+            <start>107860</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107860</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107860</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00072-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/333921349383348651-00001/2352-3409/aip/S2352340922000725/S2352340922000725.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

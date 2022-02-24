@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107752">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset of Stagnant Water and Wet Surface Label Images for Detection</dct:title>
+         <dct:creator>Sonali Bhutad</dct:creator>
+         <dct:creator>Kailas Patil</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Stagnant Water</rdf:li>
+               <rdf:li>Wet Surface</rdf:li>
+               <rdf:li>Water Sanitation</rdf:li>
+               <rdf:li>Potential Mosquito Breeding Site Detection</rdf:li>
+               <rdf:li>object detection</rdf:li>
+               <rdf:li>Computer Vision</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107752</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107752</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107752</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107752</dct:identifier>
+         <bam:articleNumber>107752</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-22T18:05:59Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107752</ja:aid>
+         <ce:article-number>107752</ce:article-number>
+         <ce:pii>S2352-3409(21)01027-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107752</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset of Stagnant Water and Wet Surface Label Images for Detection</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010271-73f04922e91f3ed873ac6f8871691022">
+               <ce:given-name>Sonali</ce:given-name>
+               <ce:surname>Bhutad</ce:surname>
+               <ce:e-address type="email"
+                             xlink:href="mailto:sonalibhutad@gmail.com"
+                             id="ead0001">sonalibhutad@gmail.com</ce:e-address>
+               <ce:e-address id="ea1"
+                             type="social-media"
+                             xlink:href="https://twitter.com/sonalibhutad1">@sonalibhutad1</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010271-3c7926dfc13304ce0fad724de1ae0a6b">
+               <ce:given-name>Kailas</ce:given-name>
+               <ce:surname>Patil</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:kailas.patil@vupune.ac.in"
+                             id="ead0002">kailas.patil@vupune.ac.in</ce:e-address>
+               <ce:e-address id="ea2"
+                             type="social-media"
+                             xlink:href="https://twitter.com/patilkr">@patilkr</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010271-c9013aa3b60c0fe4a1f39b9fe545e463">
+               <ce:textfn id="cetextfn0001">Vishwakarma University, Pune, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Vishwakarma University</sa:organization>
+                  <sa:city>Pune</sa:city>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Vishwakarma University, Pune, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author(s)</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="25" month="7" year="2021"/>
+         <ce:date-revised day="9" month="12" year="2021"/>
+         <ce:date-accepted day="21" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">Clean water is one of the essential things in life. The running water in natural forms is considered as clean water. To avoid exposure to countless diseases, it is imperative to separate stagnant water from clean water. Thus the main objective of the proposed paper is to create an image dataset of stagnant water and wet surface to detect stagnant water. Accordingly, we considered stagnant water images in different forms and sizes to construct the dataset. In addition to that, brown and black earth surface is considered for the wet surface detection. The dataset consists of 1976 labeled images captured from various angles with annotated files. The dataset images are labelled for two classes, namely water and wet surface. This dataset is highly useful for deep learning experts working in the field of disease control management and post-rainfall earth surface monitoring.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Stagnant Water</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Wet Surface</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Water Sanitation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Potential Mosquito Breeding Site Detection</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">object detection</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Computer Vision</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

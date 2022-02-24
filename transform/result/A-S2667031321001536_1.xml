@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100171">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Aspalathus Linearis extract ameliorate Haematological disorder, Dyslipidaemia and Tissue toxicity associated with Arsenic exposure in Rats</dct:title>
+         <dct:creator>Adetayo Akinboro</dct:creator>
+         <dct:creator>Olaniyi Temitope Adedosu</dct:creator>
+         <dct:creator>Jelili Abiodun Badmus</dct:creator>
+         <dct:creator>Peter Ifeoluwa Adegbola</dct:creator>
+         <dct:creator>Mohammed Y. Abubakar</dct:creator>
+         <dct:creator>Rebecca O. James</dct:creator>
+         <dct:creator>Abiodun Bukunmi Aborisade</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Aspalathus linearis</rdf:li>
+               <rdf:li>Arsenic</rdf:li>
+               <rdf:li>Toxicity</rdf:li>
+               <rdf:li>Redox status</rdf:li>
+               <rdf:li>Testes</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100171</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100171</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100171</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100171</dct:identifier>
+         <bam:articleNumber>100171</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-21T04:17:10Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100171</ja:aid>
+         <ce:article-number>100171</ce:article-number>
+         <ce:pii>S2667-0313(21)00153-6</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100171</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Aspalathus Linearis extract ameliorate Haematological disorder, Dyslipidaemia and Tissue toxicity associated with Arsenic exposure in Rats</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001536-3ef1cdfb838ce69df9784d4a9462d929">
+               <ce:given-name>Adetayo</ce:given-name>
+               <ce:surname>Akinboro</ce:surname>
+               <ce:e-address id="eid00022"
+                             type="email"
+                             xlink:href="mailto:aakinboro98@pgschool.lautech.edu.ng">aakinboro98@pgschool.lautech.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001536-2415251709fb84110655792f4e72b388">
+               <ce:given-name>Olaniyi Temitope</ce:given-name>
+               <ce:surname>Adedosu</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:otadedosu@lautech.edu.ng">otadedosu@lautech.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001536-12a42d1b7a9ba926a942fe89323ae613">
+               <ce:given-name>Jelili Abiodun</ce:given-name>
+               <ce:surname>Badmus</ce:surname>
+               <ce:e-address id="eid00003"
+                             type="email"
+                             xlink:href="mailto:jabadmus@lautech.edu.ng">jabadmus@lautech.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001536-ab994acd2370fe075d464176a8c34e10">
+               <ce:given-name>Peter Ifeoluwa</ce:given-name>
+               <ce:surname>Adegbola</ce:surname>
+               <ce:e-address id="eid000334"
+                             type="email"
+                             xlink:href="mailto:piadegbola27@lautech.edu.ng">piadegbola27@lautech.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001536-c41cb742995b192a5d8c78a25027ee08">
+               <ce:given-name>Mohammed Y.</ce:given-name>
+               <ce:surname>Abubakar</ce:surname>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031321001536-74c79b6e74012f263e3990fbd8c03c76">
+               <ce:given-name>Rebecca O.</ce:given-name>
+               <ce:surname>James</ce:surname>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667031321001536-46b611f64b6bb09472b7929a4e88d85c">
+               <ce:given-name>Abiodun Bukunmi</ce:given-name>
+               <ce:surname>Aborisade</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001536-2da1d2283d5701a034cb331501d17f23">
+               <ce:textfn id="cetextfn0001">Department of Biochemistry, Faculty of Basic Medical Sciences, Ladoke Akintola University of Technology, Ogbomoso, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biochemistry, Faculty of Basic Medical Sciences</sa:organization>
+                  <sa:organization>Ladoke Akintola University of Technology</sa:organization>
+                  <sa:city>Ogbomoso</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Biochemistry, Faculty of Basic Medical Sciences, Ladoke Akintola University of Technology, Ogbomoso, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="30" month="9" year="2021"/>
+         <ce:date-revised day="17" month="11" year="2021"/>
+         <ce:date-accepted day="20" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara013" view="all">: Exposure of human to heavy metals has been shown to pose serious health risk. Aspalathus linearis is enriched with polyphenolic compounds that have been demonstrated to have several medicinal value. This study therefore investigated the roles of Aspalathus linearis extract in ameliorating tissue toxicity associated with Arsenic exposure in Rats</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Method</ce:section-title>
+               <ce:simple-para id="spara014" view="all">: Twenty-eight male Wistrar Rats weighing 150 g were randomly divided into four groups containing seven rats each; Group A (10 ppm Arsenic only), group B (10 ppm Arsenic and aqueous extract), Group C (distilled water only) and Group D (aqueous extract only) given for 14 days. Biochemical and haematological analysis were performed using standard methods. Histological analysis was done using Haemtoxylin and Eosin stain Data were analysed using one-way ANOVA followed by Tukey's test using SPSS statistical software.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara015" view="all">: Result showed that arsenic induced significant (<ce:italic>p</ce:italic> &lt; 0.05) increases in White blood cell and Platelet counts, but decrease in packed cell volume and red blood cell count. The significant (<ce:italic>p</ce:italic> &lt; 0.05) increases in the concentration of bilirubin, creatinine and urea upon arsenic exposure was decreased when co-administered with <ce:italic>A. linearis</ce:italic>. Animals exposed to arsenic only showed significant (<ce:italic>p</ce:italic> &lt; 0.05) increases in hepatic and renal catalase (CAT), and glutathione S-transferase (GST) while the activities in testes were significantly (<ce:italic>p</ce:italic> &lt; 0.05) decreased. Superoxide dismutase activity and GSH concentration decreased significantly (<ce:italic>p</ce:italic> &lt; 0.05) in the liver and testes of arsenic exposed group relative to the control and the extract treated groups. Malondialdehyde concentration in the testes of arsenic exposed rats increased significantly (<ce:italic>p</ce:italic> &lt; 0.05) when compared with the control and the extract treated groups.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusion</ce:section-title>
+               <ce:simple-para id="spara016" view="all">: The result of this study showed that the aqueous extracts of <ce:italic>A. linearis</ce:italic> demonstrated protection against renal and liver tissues and maintained normal testicular redox status.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="abr" id="pc_zv3ZOL9wY30dstxVoiINfw9PWT1Dul3J" view="all">
+            <ce:keyword id="pc_hsPYdjiu7V">
+               <ce:text>GSH</ce:text>
+               <ce:keyword id="pc_jRUkGyUp7N">
+                  <ce:text>Reduced Glutathione</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_QkxpGJvmqC">
+               <ce:text>SOD</ce:text>
+               <ce:keyword id="pc_ve7cfQYwPv">
+                  <ce:text>Superoxide Dismutase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_uKA8SNCxfv">
+               <ce:text>LPO</ce:text>
+               <ce:keyword id="pc_lylc9HZMBr">
+                  <ce:text>Lipid peroxidation</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_gbluaz67PV">
+               <ce:text>MDA</ce:text>
+               <ce:keyword id="pc_C93aBNb9PH">
+                  <ce:text>Malondialdehyde</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_tRRdeBt2Dk">
+               <ce:text>As</ce:text>
+               <ce:keyword id="pc_O8JMVMT8m4">
+                  <ce:text>Arsenic</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_eeDpmTy9C2">
+               <ce:text>CAT</ce:text>
+               <ce:keyword id="pc_nGkMIzOxv5">
+                  <ce:text>Catalase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_eItQfFxzKu">
+               <ce:text>GPx</ce:text>
+               <ce:keyword id="pc_fxVEB8bcvW">
+                  <ce:text>Glutathione Peroxidase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_3rZjklFS8k">
+               <ce:text>SPSS</ce:text>
+               <ce:keyword id="pc_Ek2hYseSSF">
+                  <ce:text>Statistical Package for Social Science</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Aspalathus linearis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Arsenic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Toxicity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Redox status</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Testes</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

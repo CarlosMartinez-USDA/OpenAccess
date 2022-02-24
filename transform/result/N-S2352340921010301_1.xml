@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Microbiota of Crassostrea virginica larvae during a hatchery crash and under normal production: Amplicon sequence data</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jacob A.</namePart>
+      <namePart type="family">Cram</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9546-1130</nameIdentifier>
+      <displayForm>Cram, Jacob A.</displayForm>
+      <affiliation>University of Maryland Center for Environmental Science, Horn Point Laboratory, Cambridge MD, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Matthew W.</namePart>
+      <namePart type="family">Gray</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0872-2449</nameIdentifier>
+      <displayForm>Gray, Matthew W.</displayForm>
+      <affiliation>University of Maryland Center for Environmental Science, Horn Point Laboratory, Cambridge MD, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Katherine</namePart>
+      <namePart type="family">McFarland</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3355-7839</nameIdentifier>
+      <displayForm>McFarland, Katherine</displayForm>
+      <affiliation>University of Maryland Center for Environmental Science, Horn Point Laboratory, Cambridge MD, United States</affiliation>
+      <affiliation>NOAA Fisheries Service, Northeast Fisheries Science Center, Milford CT, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ashley</namePart>
+      <namePart type="family">Hollins</namePart>
+      <displayForm>Hollins, Ashley</displayForm>
+      <affiliation>University of Maryland Center for Environmental Science, Horn Point Laboratory, Cambridge MD, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We present oyster larval microbiota from two feeding studies, in which wild type and low-salinity tolerant lines were either fed or starved. In one study, all larvae unexpectedly died, which was concurrent with an event in which all larvae in an adjoining oyster hatchery also died. In the other study, no crash occurred in either the study or hatchery. In both cases, larvae were collected and stored frozen, and microbial and host DNA was isolated by phenol-chloroform extraction. Both host 18 s rRNA genes and microbial 16 and 18 s rRNA genes were sequenced using universal primers. We present raw sequences, the pipeline that was used to quantify amplicon sequence variants, and our analysis pipeline that we used to describe how the overall microbial community varied between projects (crashed and non-crashed), feeding status (fed vs not), and strain (wild vs not). These data will be valuable to anyone interested in the microbiota of larval oysters, especially anyone interested in exploring hatchery crashes, effects of starvation, or strain level differences. They also contain a reproducible pipeline of amplicon analysis of host associated microbiota which may serve as a template for other studies. These data are a co-submission to a manuscript submitted to Aquaculture by Matthew grey et al. (2021) entitled Hatchery crashes among shellfish research hatcheries along the Atlantic coast of the United States: a case study at Horn Point Laboratory oyster hatchery. (Manuscript#: AQUACULTURE-D-21–01351R1) </abstract>
+   <subject>
+      <topic>Oyster larval microbiota</topic>
+   </subject>
+   <subject>
+      <topic>Amplicon sequences</topic>
+   </subject>
+   <subject>
+      <topic>DADA2 pipeline</topic>
+   </subject>
+   <subject>
+      <topic>Hatchery crash</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107755</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107755</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107755</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01030-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-22"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010301/S2352340921010301.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

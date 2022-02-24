@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>More than eleven years of temperature and displacements recorded on and in a limestone cliff: Dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Didier</namePart>
+      <namePart type="family">Virely</namePart>
+      <displayForm>Virely, Didier</displayForm>
+      <affiliation>Cerema, GeoCoD, Complexe Scientifique de Rangueil, 1, avenue du colonel Roche, Toulouse 31400, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Muriel</namePart>
+      <namePart type="family">Gasc-Barbier</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9192-9816</nameIdentifier>
+      <displayForm>Gasc-Barbier, Muriel</displayForm>
+      <affiliation>Cerema, GeoCoD, avenue Albert Einstein, CS 70499, Aix-en-Provence 13593Cedex 3, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Véronique</namePart>
+      <namePart type="family">Merrien-Soukatchoff</namePart>
+      <displayForm>Merrien-Soukatchoff, Véronique</displayForm>
+      <affiliation>GeF - EA 4630, CNAM, 2, rue Conté, Paris 75141Cedex 03, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This data set gives more than 11 years of temperature and displacements recorded on and in a limestone cliff. An extensive presentation of the monitoring devices and interpretation of data is proposed in Gasc-Barbier et al. (2021) [1]. The hazard-monitored zone is a perched cave in a limestone cliff where a part of its roof had collapsed. On its roof, an unstable beam reminds. A horizontal interlayer thinning from East to West, hanging to the roof of the cave at the west and east-clamped in the rock mass, delimits this remaining beam. Opened fractures can be observed all around the beam. In order to assess the remaining hazard, four fissurometers (F1 to F4) and a thermal probe were installed on the roof of the cave and two borehole extensometers (D1 and D2) were drilled perpendicular to the face of the cliff, above the cave, to understand the global behaviour of the rock mass. Measurements have been made between sockets embedded in the rock mass by means of INVAR wire measurements. Four bases made of two sockets each have been installed inside the cavity and five were put on the face of the cliff outside and above the cavity. Measurements last between January 2011 and June 2021. A 1.5-year gap is observed in the measurements because they were temporally stopped when reinforcement works were preceded carried out in the cave in order to secure the village. Thus, datasets provide more than 11 years of temperature and displacements recorded on and in the cliff, providing insight on the relation between climate and the deformation inside the rock mass. This dataset is novel because this type of data is not readily available in the literature, on the one hand, because of its length (nearly 11 years) and, on the other hand, because it is not only surface evolution of temperature and aperture but because the evolution of temperature and deformation inside the rock mass was monitored. Researchers could use these data for a better understanding of the thermomechanical coupling in rock. They could test their own modelling, constitutive laws specifically on crack propagation or thermal fatigue. </abstract>
+   <subject>
+      <topic>Rock joints</topic>
+   </subject>
+   <subject>
+      <topic>Rock cliff stability</topic>
+   </subject>
+   <subject>
+      <topic>In situ monitoring</topic>
+   </subject>
+   <subject>
+      <topic>Temperature and displacement recording</topic>
+   </subject>
+   <subject>
+      <topic>In depth evolution of the rock mass</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107568</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107568</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107568</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00844-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-09"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008441/S2352340921008441.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

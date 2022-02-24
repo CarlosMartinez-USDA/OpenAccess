@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Selecting wells for an optimal design of groundwater monitoring network based on monitoring priority map: A Kish Island case study</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Hamid</namePart>
+      <namePart type="family">Amiri</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9169-9619</nameIdentifier>
+      <displayForm>Amiri, Hamid</displayForm>
+      <affiliation>Kish Institute of Science and Technology, School of Engineering, Shiraz University, Shiraz, Fars, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sama</namePart>
+      <namePart type="family">Azadi</namePart>
+      <displayForm>Azadi, Sama</displayForm>
+      <affiliation>Department of Civil Engineering, School of Engineering, Ferdowsi University of Mashhad, Mashhad, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sirus</namePart>
+      <namePart type="family">Javadpour</namePart>
+      <displayForm>Javadpour, Sirus</displayForm>
+      <affiliation>Department of Materials Science and Engineering, School of Engineering, Shiraz University, Shiraz, Fars, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ali Asghar</namePart>
+      <namePart type="family">Naghavi</namePart>
+      <displayForm>Naghavi, Ali Asghar</displayForm>
+      <affiliation>Department of Civil Engineering, Kish International Campus, University of Tehran, Kish, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Grzegorz</namePart>
+      <namePart type="family">Boczkaj</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5874-7591</nameIdentifier>
+      <displayForm>Boczkaj, Grzegorz</displayForm>
+      <affiliation>Department of Process Engineering and Chemical Technology, Faculty of Chemistry, Gdańsk University of Technology, 80-233, Gdańsk, 11/12 Narutowicza Str, Poland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper presents a novel approach, i.e. a combination of gamma test and monitoring priority map, for optimal design of groundwater monitoring network (GMN) by considering the cumulative effects of industries, human activities, and natural factors on the groundwater quality. The proposed method was successfully applied to design an optimal network for groundwater salinity monitoring on Kish Island, Persian Gulf. The priority map of groundwater salinity monitoring was obtained based on the GALDIT index and two new factors including the average fluctuation of groundwater electrical conductivity (F) and distance from industries discharging saline effluents (P). The optimal number of monitoring wells was determined using a data analysis based on gamma test method. Then, a practical algorithm was presented to determine the optimal location of monitoring wells. Based on the results, the optimal number of monitoring wells is 110 and their location have an equitable distribution on the whole island. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Groundwater monitoring network</topic>
+   </subject>
+   <subject>
+      <topic>Water management</topic>
+   </subject>
+   <subject>
+      <topic>GALDIT</topic>
+   </subject>
+   <subject>
+      <topic>Monitoring priority map</topic>
+   </subject>
+   <subject>
+      <topic>Gamma test</topic>
+   </subject>
+   <subject>
+      <topic>Environmental monitoring</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Water Resources and Industry</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2212-3717</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">02</text>
+         <text type="day">02</text>
+         <extent unit="pages">
+            <start>100172</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.wri.2022.100172</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.wri.2022.100172</url>
+   </location>
+   <identifier type="pii">S2212-3717(22)00002-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-02-02"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2212-3717/aip/S2212371722000026/S2212371722000026.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

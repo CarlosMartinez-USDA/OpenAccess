@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Transcriptomics de novo sequencing data of Messastrum gracile SE-MC4 under exponential and stationary growth stages</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">C. L. Wan</namePart>
+      <namePart type="family">Afifudeen</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5478-3800</nameIdentifier>
+      <displayForm>Afifudeen, C. L. Wan</displayForm>
+      <affiliation>Satreps-Cosmos Laboratory, Central Laboratory Complex, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</affiliation>
+      <affiliation>Institute of Marine Biotechnology, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Saw Hong</namePart>
+      <namePart type="family">Loh</namePart>
+      <displayForm>Loh, Saw Hong</displayForm>
+      <affiliation>Faculty of Science and Marine Environment, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</affiliation>
+      <affiliation>Satreps-Cosmos Laboratory, Central Laboratory Complex, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Li Lian</namePart>
+      <namePart type="family">Wong</namePart>
+      <displayForm>Wong, Li Lian</displayForm>
+      <affiliation>Satreps-Cosmos Laboratory, Central Laboratory Complex, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</affiliation>
+      <affiliation>Institute of Marine Biotechnology, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ahmad</namePart>
+      <namePart type="family">Aziz</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2270-5197</nameIdentifier>
+      <displayForm>Aziz, Ahmad</displayForm>
+      <affiliation>Faculty of Science and Marine Environment, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</affiliation>
+      <affiliation>Satreps-Cosmos Laboratory, Central Laboratory Complex, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kazutaka</namePart>
+      <namePart type="family">Takahashi</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5846-0240</nameIdentifier>
+      <displayForm>Takahashi, Kazutaka</displayForm>
+      <affiliation>Department of Aquatic Bioscience, Graduate School of Agricultural and Life Sciences, The University of Tokyo, 1-1-1, Yayoi, Bunkyo-ku, Tokyo, 113-8657, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mohd Effendy Abd</namePart>
+      <namePart type="family">Wahid</namePart>
+      <displayForm>Wahid, Mohd Effendy Abd</displayForm>
+      <affiliation>Satreps-Cosmos Laboratory, Central Laboratory Complex, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</affiliation>
+      <affiliation>Faculty of Fisheries and Food Science, Universiti Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Thye San</namePart>
+      <namePart type="family">Cha</namePart>
+      <displayForm>Cha, Thye San</displayForm>
+      <affiliation>Faculty of Science and Marine Environment, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</affiliation>
+      <affiliation>Satreps-Cosmos Laboratory, Central Laboratory Complex, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Messastrum gracile SE-MC4 is a non-model microalga exhibiting superior oil-accumulating abilities. However, biomass production in M. gracile SE-MC4 is limited due to low cell proliferation especially after prolonged cultivation under oil-inducing culture conditions. Present data consist of next generation RNA sequencing data of M. gracile SE-MC4 under exponential and stationary growth stages. RNA of six samples were extracted and sequenced with insert size of 100 bp paired-end strategy using BGISEQ-500 platform to produce a total of 59.64 Gb data with 314 million reads. Sequences were filtered and de novo assembled to form 53,307 number of gene sequences. Sequencing data were deposited in National Center for Biotechnology Information (NCBI) and can be accessed via BioProject ID PRJNA552165. This information can be used to enhance biomass production in M. gracile SE-MC4 and other microalgae aimed towards improving biodiesel development. </abstract>
+   <subject>
+      <topic>Non-model microalga</topic>
+   </subject>
+   <subject>
+      <topic>Cell proliferation</topic>
+   </subject>
+   <subject>
+      <topic>Biodiesel</topic>
+   </subject>
+   <subject>
+      <topic>Next generation sequencing data</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107607</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107607</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107607</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00882-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008829/S2352340921008829.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

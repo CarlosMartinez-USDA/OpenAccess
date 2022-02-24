@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset on the effect of receiver size and acceptance half-angle on the aperture width and height of compound parabolic concentrator for low-concentrating photovoltaic applications using RSM</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Faisal</namePart>
+      <namePart type="family">Masood</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1739-8425</nameIdentifier>
+      <displayForm>Masood, Faisal</displayForm>
+      <affiliation>Department of Electrical and Electronics Engineering, Universiti Teknologi PETRONAS, Bandar Seri Iskandar, Perak 32610, Malaysia</affiliation>
+      <affiliation>Department of Electrical Engineering, University of Engineering and Technology Taxila, Rawalpindi 47080, Pakistan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nursyarizal Bin Mohd</namePart>
+      <namePart type="family">Nor</namePart>
+      <displayForm>Nor, Nursyarizal Bin Mohd</displayForm>
+      <affiliation>Department of Electrical and Electronics Engineering, Universiti Teknologi PETRONAS, Bandar Seri Iskandar, Perak 32610, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Perumal</namePart>
+      <namePart type="family">Nallagownden</namePart>
+      <displayForm>Nallagownden, Perumal</displayForm>
+      <affiliation>Department of Electrical and Electronics Engineering, Universiti Teknologi PETRONAS, Bandar Seri Iskandar, Perak 32610, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Irraivan</namePart>
+      <namePart type="family">Elamvazuthi</namePart>
+      <displayForm>Elamvazuthi, Irraivan</displayForm>
+      <affiliation>Department of Electrical and Electronics Engineering, Universiti Teknologi PETRONAS, Bandar Seri Iskandar, Perak 32610, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mohammad Azad</namePart>
+      <namePart type="family">Alam</namePart>
+      <displayForm>Alam, Mohammad Azad</displayForm>
+      <affiliation>Department of Mechanical Engineering, Universiti Teknologi PETRONAS, Bandar Seri Iskandar, Perak 32610, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mohammad</namePart>
+      <namePart type="family">Yusuf</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2442-5161</nameIdentifier>
+      <displayForm>Yusuf, Mohammad</displayForm>
+      <affiliation>Department of Chemical Engineering, Universiti Teknologi PETRONAS, Bandar Seri Iskandar, Perak 32610, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mujahid</namePart>
+      <namePart type="family">Ali</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4376-0459</nameIdentifier>
+      <displayForm>Ali, Mujahid</displayForm>
+      <affiliation>Department of Civil and Environmental Engineering, Universiti Teknologi PETRONAS, Bandar Seri Iskandar, Perak 32610, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Javed</namePart>
+      <namePart type="family">Akhter</namePart>
+      <displayForm>Akhter, Javed</displayForm>
+      <affiliation>Department of Mechanical Engineering, University of Engineering and Technology Taxila, Rawalpindi 47080, Pakistan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mubbashar</namePart>
+      <namePart type="family">Mehmood</namePart>
+      <displayForm>Mehmood, Mubbashar</displayForm>
+      <affiliation>School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh EH14 4AS, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The combined effect of design control factors on the response variables gives valuable information for geometric design optimization of the compound parabolic concentrator. This study presents the data related to the statistical modeling and analysis of variance for aperture width and height of a low concentration symmetric compound parabolic concentrator designed for photovoltaic applications. The design matrix was generated using the response surface modeling approach. The geometric design equations of the proposed concentrator were developed and solved analytically using MATLAB. The empirical models were developed to establish relationships between the control factors and response variables of the proposed system. The analysis of variance was conducted for two significant response variables. The developed statistical models can be used to predict the selected response variables within the permissible range. The presented data can be used for statistical modeling and design optimization of the two-dimensional symmetric compound parabolic concentrator. </abstract>
+   <subject>
+      <topic>Concentrating photovoltaics</topic>
+   </subject>
+   <subject>
+      <topic>Concentration ratio</topic>
+   </subject>
+   <subject>
+      <topic>Design optimization</topic>
+   </subject>
+   <subject>
+      <topic>Analysis of variance</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107630</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107630</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107630</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00905-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009057/S2352340921009057.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

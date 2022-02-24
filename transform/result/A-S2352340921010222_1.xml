@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107747">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on plasma tumour and metabolism related proteins’ potential in differentiation of HFpEF-PH from PAH and in prognosis of left heart failure patients with pulmonary hypertension</dct:title>
+         <dct:creator>Salaheldin Ahmed</dct:creator>
+         <dct:creator>Abdulla Ahmed</dct:creator>
+         <dct:creator>Göran Rådegran</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Prognosis</rdf:li>
+               <rdf:li>HFpEF</rdf:li>
+               <rdf:li>Pulmonary hypertension</rdf:li>
+               <rdf:li>Pulmonary hypertension due to left heart disease</rdf:li>
+               <rdf:li>PAH</rdf:li>
+               <rdf:li>Haemodynamics</rdf:li>
+               <rdf:li>Proteomics</rdf:li>
+               <rdf:li>Cancer</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107747</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107747</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107747</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107747</dct:identifier>
+         <bam:articleNumber>107747</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-21T19:04:50Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107747</ja:aid>
+         <ce:article-number>107747</ce:article-number>
+         <ce:pii>S2352-3409(21)01022-2</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107747</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0167-5273(21)01690-9</ce:pii>
+               <ce:doi>10.1016/j.ijcard.2021.10.136</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data on plasma tumour and metabolism related proteins’ potential in differentiation of HFpEF-PH from PAH and in prognosis of left heart failure patients with pulmonary hypertension</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010222-65b2d238c234e49a6badd81962ff0206"
+                       orcid="0000-0001-7086-6262">
+               <ce:given-name>Salaheldin</ce:given-name>
+               <ce:surname>Ahmed</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010222-31d5749ddc47f13a0ccb16d7a92e45fa">
+               <ce:given-name>Abdulla</ce:given-name>
+               <ce:surname>Ahmed</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010222-cb2cb0b47f170819321aae02c36a87d7">
+               <ce:given-name>Göran</ce:given-name>
+               <ce:surname>Rådegran</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:goranradegran@hotmail.com"
+                             id="ead0001">goranradegran@hotmail.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010222-e3ec817fdefe8026773a4dae35e1dc04">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Clinical Sciences Lund, Cardiology, Lund University, Lund, Sweden</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Clinical Sciences Lund, Cardiology</sa:organization>
+                  <sa:organization>Lund University</sa:organization>
+                  <sa:city>Lund</sa:city>
+                  <sa:country>Sweden</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Clinical Sciences Lund, Cardiology, Lund University, Lund, Sweden</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010222-5cd4773d6c2dcf06827b0c85c98680a7">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">The Haemodynamic Lab, The Section for Heart Failure and Valvular Disease, Heart and Lung Medicine, Skåne University Hospital, Lund, Sweden</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>The Haemodynamic Lab, The section for Heart Failure and Valvular Disease, Heart and Lung Medicine</sa:organization>
+                  <sa:organization>Skåne University Hospital</sa:organization>
+                  <sa:city>Lund</sa:city>
+                  <sa:country>Sweden</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bThe Haemodynamic Lab, The section for Heart Failure and Valvular Disease, Heart and Lung Medicine, Skåne University Hospital, Lund, Sweden</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text>Corresponding author at: Department of Cardiology, Skåne University Hospital, 221 85 Lund, Sweden.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Cardiology, Skåne University Hospital</sa:organization>
+                  <sa:city>Lund</sa:city>
+                  <sa:country>Sweden</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="24" month="11" year="2021"/>
+         <ce:date-revised day="16" month="12" year="2021"/>
+         <ce:date-accepted day="20" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">The data in the current paper constitutes supplementary material to our article entitled “Plasma tumour and metabolism related biomarkers AMBP, LPL and Glyoxalase I differentiate heart failure with preserved ejection fraction with pulmonary hypertension from pulmonary arterial hypertension” Ahmed et al. (2021). The study investigated 69 plasma tumour- and metabolism related proteins in healthy controls (<ce:italic>n</ce:italic> = 20) and in 115 patients of whom 48 had pulmonary arterial hypertension (PAH; <ce:italic>n</ce:italic> = 48) and 67 with left heart failure with pulmonary hypertension (LHF-PH) [heart failure with- preserved ejection fraction-PH (HFpEF-PH; <ce:italic>n</ce:italic> = 31) and reduced ejection fraction-PH (HFrEF-PH; <ce:italic>n</ce:italic> = 36)]. The haemodynamic data were obtained with right heart catheterization, and clinical data from medical records. The present article describe the plasma levels of tumour- and metabolism related proteins, analyzed with proximity extension assay, along with their uni- and multivariable diagnostic and prognostic potential. High sRAGE levels univariably emerged as a negative prognostic marker in LHF-PH.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Prognosis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">HFpEF</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Pulmonary hypertension</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Pulmonary hypertension due to left heart disease</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">PAH</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Haemodynamics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Proteomics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Cancer</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

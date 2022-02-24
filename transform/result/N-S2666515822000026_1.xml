@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Ecdysteroid kinase-like (EcKL) paralogs confer developmental tolerance to caffeine in Drosophila melanogaster</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jack L.</namePart>
+      <namePart type="family">Scanlan</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9163-2203</nameIdentifier>
+      <displayForm>Scanlan, Jack L.</displayForm>
+      <affiliation>School of BioSciences, The University of Melbourne, Parkville Campus, Melbourne, Victoria, 3010, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Paul</namePart>
+      <namePart type="family">Battlay</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6050-1868</nameIdentifier>
+      <displayForm>Battlay, Paul</displayForm>
+      <affiliation>School of BioSciences, The University of Melbourne, Parkville Campus, Melbourne, Victoria, 3010, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Charles</namePart>
+      <namePart type="family">Robin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7733-6763</nameIdentifier>
+      <displayForm>Robin, Charles</displayForm>
+      <affiliation>School of BioSciences, The University of Melbourne, Parkville Campus, Melbourne, Victoria, 3010, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>A unique aspect of metabolic detoxification in insects compared to other animals is the presence of xenobiotic phosphorylation, about which little is currently understood. Our previous work raised the hypothesis that members of the taxonomically restricted ecdysteroid kinase-like (EcKL) gene family encode the enzymes responsible for xenobiotic phosphorylation in the model insect Drosophila melanogaster (Diptera: Ephydroidea)—however, candidate detoxification genes identified in the EcKL family have yet to be functionally validated. Here, we test the hypothesis that EcKL genes in the rapidly evolving Dro5 clade are involved in the detoxification of plant and fungal toxins in D. melanogaster. The mining and reanalysis of existing data indicated multiple Dro5 genes are transcriptionally induced by the plant alkaloid caffeine and that adult caffeine susceptibility is associated with a novel naturally occurring indel in CG31370 (Dro5-8) in the Drosophila Genetic Reference Panel (DGRP). CRISPR-Cas9 mutagenesis of five Dro5 EcKLs substantially decreased developmental tolerance of caffeine, while individual overexpression of two of these genes—CG31300 (Dro5-1) and CG13659 (Dro5-7)—in detoxification-related tissues increased developmental tolerance. In addition, we found Dro5 loss-of-function animals also have decreased developmental tolerance of the fungal secondary metabolite kojic acid. Taken together, this work provides the first compelling functional evidence that EcKLs encode detoxification enzymes and suggests that EcKLs in the Dro5 clade are involved in the metabolism of multiple ecologically relevant toxins in D. melanogaster. We also propose a biochemical hypothesis for EcKL involvement in caffeine detoxification and highlight the many unknown aspects of caffeine metabolism in D. melanogaster and other insects. </abstract>
+   <subject>
+      <topic>ABC</topic>
+   </subject>
+   <subject>
+      <topic>CNS</topic>
+   </subject>
+   <subject>
+      <topic>DGRP</topic>
+   </subject>
+   <subject>
+      <topic>GWAS</topic>
+   </subject>
+   <subject>
+      <topic>EcKL</topic>
+   </subject>
+   <subject>
+      <topic>UDP</topic>
+   </subject>
+   <subject>
+      <topic>DUF227</topic>
+   </subject>
+   <subject>
+      <topic>Ecdysone</topic>
+   </subject>
+   <subject>
+      <topic>DUF227</topic>
+   </subject>
+   <subject>
+      <topic>Ecdysteroid kinase-like</topic>
+   </subject>
+   <subject>
+      <topic>Toxicology</topic>
+   </subject>
+   <subject>
+      <topic>Citrus</topic>
+   </subject>
+   <subject>
+      <topic>Induction</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Current Research in Insect Science</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2666-5158</identifier>
+      <part>
+         <detail type="volume">
+            <number>2</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2022</text>
+         <text type="year">2022</text>
+         <extent unit="pages">
+            <start>100030</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.cris.2022.100030</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.cris.2022.100030</url>
+   </location>
+   <identifier type="pii">S2666-5158(22)00002-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-12"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/123176916641762791-00001/2666-5158/S2666515821X00029/S2666515822000026/S2666515822000026.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

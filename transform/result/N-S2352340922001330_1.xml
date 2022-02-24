@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset for multi-channel surface electromyography (sEMG) signals of hand gestures</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Mehmet Akif</namePart>
+      <namePart type="family">OZDEMIR</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8758-113X</nameIdentifier>
+      <displayForm>OZDEMIR, Mehmet Akif</displayForm>
+      <affiliation>Izmir Katip Celebi University, Faculty of Engineering and Architecture, Department of Biomedical Engineering, 35620, Cigli, Izmir, Turkey</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Deniz Hande</namePart>
+      <namePart type="family">KISA</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5882-0605</nameIdentifier>
+      <displayForm>KISA, Deniz Hande</displayForm>
+      <affiliation>Izmir Katip Celebi University, Faculty of Engineering and Architecture, Department of Biomedical Engineering, 35620, Cigli, Izmir, Turkey</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Onan</namePart>
+      <namePart type="family">GUREN</namePart>
+      <displayForm>GUREN, Onan</displayForm>
+      <affiliation>Izmir Katip Celebi University, Faculty of Engineering and Architecture, Department of Biomedical Engineering, 35620, Cigli, Izmir, Turkey</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Aydin</namePart>
+      <namePart type="family">AKAN</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8894-5794</nameIdentifier>
+      <displayForm>AKAN, Aydin</displayForm>
+      <affiliation>Izmir University of Economics, Faculty of Engineering, Department of Electrical and Electronics Engineering, 35330, Balcova, Izmir, Turkey</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-01</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper presents an electromyography (EMG) signal dataset for use in human-computer interaction studies. The dataset includes 4-channel surface EMG data from 40 participants with an equal gender distribution. The gestures in the data are rest or neutral state, extension of the wrist, flexion of the wrist, ulnar deviation of the wrist, radial deviation of the wrist, grip, abduction of all fingers, adduction of all fingers, supination, and pronation. Data were collected from 4 forearm muscles when simulating 10 unique hand gestures and recorded with the BIOPAC MP36 device using Ag/AgCl surface bipolar electrodes. Each participant's data contains five repetitive cycles of ten hand gestures. A demographic survey was applied to the participants before the signal recording process. This data can be utilized for recognition, classification, and prediction studies in order to develop EMG-based hand movement controller systems. The dataset can also be useful as a reference to create an artificial intelligence model (especially a deep learning model) to detect gesture-related EMG signals. Additionally, it is encouraged to use the proposed dataset for benchmarking of current datasets or for validation of machine learning and deep learning models created with different datasets in accordance with the participant-independent validation strategy. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Biomedical Signals</topic>
+   </subject>
+   <subject>
+      <topic>Biosignals</topic>
+   </subject>
+   <subject>
+      <topic>Classification</topic>
+   </subject>
+   <subject>
+      <topic>Data</topic>
+   </subject>
+   <subject>
+      <topic>Electromyography (EMG)</topic>
+   </subject>
+   <subject>
+      <topic>Gesture</topic>
+   </subject>
+   <subject>
+      <topic>Movement</topic>
+   </subject>
+   <subject>
+      <topic>Muscle</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">02</text>
+         <text type="day">01</text>
+         <extent unit="pages">
+            <start>107921</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107921</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107921</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00133-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-02-02"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001330/S2352340922001330.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

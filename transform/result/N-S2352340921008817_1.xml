@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Survey data on the consequences of COVID-19 and home confinement on the educational community and families in Spain</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Guillermo</namePart>
+      <namePart type="family">Palau-Salvador</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0492-6567</nameIdentifier>
+      <displayForm>Palau-Salvador, Guillermo</displayForm>
+      <affiliation>INGENIO CSIC-UPV, Universitat Politècnica de València, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kas</namePart>
+      <namePart type="family">Sempere</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7263-4123</nameIdentifier>
+      <displayForm>Sempere, Kas</displayForm>
+      <affiliation>Sociology Department, Universitat de València, Spain, and Open University, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nerea</namePart>
+      <namePart type="family">Gómez-Fernández</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7342-5729</nameIdentifier>
+      <displayForm>Gómez-Fernández, Nerea</displayForm>
+      <affiliation>Centro de Gestión de la Calidad y del Cambio, Universitat Politècnica de València, Spain and Centro Universitario EDEM (Escuela de Empresarios), Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ana</namePart>
+      <namePart type="family">Belda-Marco</namePart>
+      <displayForm>Belda-Marco, Ana</displayForm>
+      <affiliation>INGENIO CSIC-UPV, Universitat Politècnica de València, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Isabel</namePart>
+      <namePart type="family">González-Galindo</namePart>
+      <displayForm>González-Galindo, Isabel</displayForm>
+      <affiliation>Fent Estudi, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Miriam</namePart>
+      <namePart type="family">Hoyo-Juliá</namePart>
+      <displayForm>Hoyo-Juliá, Miriam</displayForm>
+      <affiliation>IES L'OM, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Davinia</namePart>
+      <namePart type="family">Ros-Bonanad</namePart>
+      <displayForm>Ros-Bonanad, Davinia</displayForm>
+      <affiliation>Architecture school, Universitat Politècnica de València, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">José-Miguel</namePart>
+      <namePart type="family">Carot Sierra</namePart>
+      <displayForm>Carot Sierra, José-Miguel</displayForm>
+      <affiliation>Departamento de Estadística e Investigación Operativa Aplicadas y Calidad, Universitat Politècnica de València, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper presents a dataset concerning the consequences of the COVID-19 pandemic and home confinement on the educational community and families, and the possibilities and opportunities for the return to schools. Data were collected through an online based cross-sectional survey between June 29, 2020 and July 12, 2020 in Spain. A total of 7,305 people who had children in their care during the COVID-19 crisis and the home-confinement period responded to the survey. The survey contained items concerning (i) socio-demographic information, (ii) conciliation of work, personal and family life during confinement, (iii) the impact of the pandemic on the respondent's family, and (iv) the respondents' opinion on their child(ren)'s return to school. Data were analysed using Stata (version 14) and are represented as frequencies and percentages based on responses to the entire survey. Researchers can use the dataset to analyse how home confinement impacted people with children in their care. Additionally, government authorities and education policymakers can use the data to ensure that schools respond to parents' main concerns in a pandemic context, as well as to be prepared to implement appropriate protocols in possible future similar crisis. </abstract>
+   <subject>
+      <topic>Education</topic>
+   </subject>
+   <subject>
+      <topic>COVID-19</topic>
+   </subject>
+   <subject>
+      <topic>Confinement</topic>
+   </subject>
+   <subject>
+      <topic>School</topic>
+   </subject>
+   <subject>
+      <topic>Children</topic>
+   </subject>
+   <subject>
+      <topic>Spain</topic>
+   </subject>
+   <subject>
+      <topic>Care</topic>
+   </subject>
+   <subject>
+      <topic>Conciliation</topic>
+   </subject>
+   <subject>
+      <topic>Gender</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107606</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107606</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107606</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00881-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008817/S2352340921008817.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

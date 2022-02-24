@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset for the thermodynamic simulation of the dissolution behaviour of elemental tellurium and tellurium dioxide in alkaline cyanide solutions</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">A.A.</namePart>
+      <namePart type="family">González-Ibarra</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0223-7012</nameIdentifier>
+      <displayForm>González-Ibarra, A.A.</displayForm>
+      <affiliation>Escuela Superior de Ingeniería, Universidad Autónoma de Coahuila, Blvd. Adolfo López Mateos s/n, Col. Independencia, Nueva Rosita, Coahuila C. P. 26830, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">F.</namePart>
+      <namePart type="family">Nava-Alonso</namePart>
+      <displayForm>Nava-Alonso, F.</displayForm>
+      <affiliation>CINVESTAV Unidad Saltillo, Av. Industria Metalúrgica 1062, Parque Industrial Saltillo-Ramos Arizpe, Ramos Arizpe, Coahuila C. P. 25900, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">G.I.</namePart>
+      <namePart type="family">Dávila-Pulido</namePart>
+      <displayForm>Dávila-Pulido, G.I.</displayForm>
+      <affiliation>Escuela Superior de Ingeniería, Universidad Autónoma de Coahuila, Blvd. Adolfo López Mateos s/n, Col. Independencia, Nueva Rosita, Coahuila C. P. 26830, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">F.R.</namePart>
+      <namePart type="family">Carrillo-Pedroza</namePart>
+      <displayForm>Carrillo-Pedroza, F.R.</displayForm>
+      <affiliation>Facultad de Metalurgia, Universidad Autónoma de Coahuila, Carretera 57 km 5, Col. Los Bosques, Monclova, Coahuila C. P. 25710, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.M.</namePart>
+      <namePart type="family">Rodríguez-Flores</namePart>
+      <displayForm>Rodríguez-Flores, A.M.</displayForm>
+      <affiliation>Escuela Superior de Ingeniería, Universidad Autónoma de Coahuila, Blvd. Adolfo López Mateos s/n, Col. Independencia, Nueva Rosita, Coahuila C. P. 26830, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-18</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>It is necessary to simulate the thermodynamics of the Te/TeO₂-CN-H₂O systems to interpret the dissolution behaviour of elemental tellurium and tellurium dioxide in alkaline cyanide solutions. Below are the data employed to simulate the equilibrium diagrams presented in the article entitled “Dissolution behaviour of elemental tellurium and tellurium dioxide in alkaline cyanide solutions”. Most of the reactions are available in the Hydra database of MEDUSA© software along with their logarithms to the base 10 of the equilibrium constants (i.e., log K). However, it was complemented with the log K of some important reactions (e.g., which describes the formation of H₂TeO₃). Log K values were calculated form the ΔG°f reported in the scientific literature. The databases reported can be used to compare the equilibrium constant values, replicate the diagrams presented in the cited article, and simulate other aqueous systems (e.g., those employing alternative lixiviant agents as thiosulfate, thiourea, etc.). </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Tellurium</topic>
+   </subject>
+   <subject>
+      <topic>Tellurium dioxide</topic>
+   </subject>
+   <subject>
+      <topic>Cyanidation</topic>
+   </subject>
+   <subject>
+      <topic>Thermodynamic simulation</topic>
+   </subject>
+   <subject>
+      <topic>Equilibrium diagram</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">18</text>
+         <extent unit="pages">
+            <start>107855</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107855</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107855</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00067-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-19"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/333921349383348651-00001/2352-3409/aip/S2352340922000671/S2352340922000671.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

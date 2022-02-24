@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107607">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Transcriptomics de novo sequencing data of Messastrum gracile SE-MC4 under exponential and stationary growth stages</dct:title>
+         <dct:creator>C. L. Wan Afifudeen</dct:creator>
+         <dct:creator>Saw Hong Loh</dct:creator>
+         <dct:creator>Li Lian Wong</dct:creator>
+         <dct:creator>Ahmad Aziz</dct:creator>
+         <dct:creator>Kazutaka Takahashi</dct:creator>
+         <dct:creator>Mohd Effendy Abd Wahid</dct:creator>
+         <dct:creator>Thye San Cha</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Non-model microalga</rdf:li>
+               <rdf:li>Cell proliferation</rdf:li>
+               <rdf:li>Biodiesel</rdf:li>
+               <rdf:li>Next generation sequencing data</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107607</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107607</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107607</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107607</dct:identifier>
+         <bam:articleNumber>107607</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-17T18:30:14Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107607</ja:aid>
+         <ce:article-number>107607</ce:article-number>
+         <ce:pii>S2352-3409(21)00882-9</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107607</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0031-9422(21)00285-5</ce:pii>
+               <ce:doi>10.1016/j.phytochem.2021.112936</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Transcriptomics <ce:italic>de novo</ce:italic> sequencing data of <ce:italic>Messastrum gracile</ce:italic> SE-MC4 under exponential and stationary growth stages</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008829-371113e87e40de6a537d5a3c16208207"
+                       orcid="0000-0002-5478-3800">
+               <ce:given-name>C. L. Wan</ce:given-name>
+               <ce:surname>Afifudeen</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:wanafifudeen@gmail.com">wanafifudeen@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008829-8aac53864f343cdbf429b86bd44a6e45">
+               <ce:given-name>Saw Hong</ce:given-name>
+               <ce:surname>Loh</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008829-8e51311c925e8450afc329b98c84daf2">
+               <ce:given-name>Li Lian</ce:given-name>
+               <ce:surname>Wong</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008829-c3bb35c7010651080133707745d047b8"
+                       orcid="0000-0002-2270-5197">
+               <ce:given-name>Ahmad</ce:given-name>
+               <ce:surname>Aziz</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008829-20084a6ad67272fc1cad20bf305c9502"
+                       orcid="0000-0002-5846-0240">
+               <ce:given-name>Kazutaka</ce:given-name>
+               <ce:surname>Takahashi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008829-edcc1b5fa67c99731d41a7e09eb41160">
+               <ce:given-name>Mohd Effendy Abd</ce:given-name>
+               <ce:surname>Wahid</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921008829-b440680b4a50d3a6a460e18a59e17644">
+               <ce:given-name>Thye San</ce:given-name>
+               <ce:surname>Cha</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:cha_ts@umt.edu.my">cha_ts@umt.edu.my</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008829-5ca7cf7afc0516669fc8c6d1499a8f5e">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Faculty of Science and Marine Environment, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Science and Marine Environment</sa:organization>
+                  <sa:organization>University Malaysia Terengganu</sa:organization>
+                  <sa:city>Kuala Nerus</sa:city>
+                  <sa:state>Terengganu</sa:state>
+                  <sa:postal-code>21030</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aFaculty of Science and Marine Environment, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008829-2a8b4c6c38fe2fa7bf1dd0aa3253748a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Satreps-Cosmos Laboratory, Central Laboratory Complex, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Satreps-Cosmos Laboratory</sa:organization>
+                  <sa:organization>Central Laboratory Complex</sa:organization>
+                  <sa:organization>University Malaysia Terengganu</sa:organization>
+                  <sa:city>Kuala Nerus</sa:city>
+                  <sa:state>Terengganu</sa:state>
+                  <sa:postal-code>21030</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bSatreps-Cosmos Laboratory, Central Laboratory Complex, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008829-8a84b157a1a3eec84d3990acf3cef2b3">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Institute of Marine Biotechnology, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Marine Biotechnology</sa:organization>
+                  <sa:organization>University Malaysia Terengganu</sa:organization>
+                  <sa:city>Kuala Nerus</sa:city>
+                  <sa:state>Terengganu</sa:state>
+                  <sa:postal-code>21030</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cInstitute of Marine Biotechnology, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921008829-983acb91447d044cfff43b1a4b54696a">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Aquatic Bioscience, Graduate School of Agricultural and Life Sciences, The University of Tokyo, 1-1-1, Yayoi, Bunkyo-ku, Tokyo, 113-8657, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Aquatic Bioscience</sa:organization>
+                  <sa:organization>Graduate School of Agricultural and Life Sciences</sa:organization>
+                  <sa:organization>The University of Tokyo</sa:organization>
+                  <sa:address-line>1-1-1, Yayoi</sa:address-line>
+                  <sa:city>Bunkyo-ku</sa:city>
+                  <sa:state>Tokyo</sa:state>
+                  <sa:postal-code>113-8657</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Aquatic Bioscience, Graduate School of Agricultural and Life Sciences, The University of Tokyo, 1-1-1, Yayoi, Bunkyo-ku, Tokyo, 113-8657, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921008829-b9fd5d086894aa0c8d31787e43d50646">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Faculty of Fisheries and Food Science, Universiti Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Fisheries and Food Science</sa:organization>
+                  <sa:organization>Universiti Malaysia Terengganu</sa:organization>
+                  <sa:city>Kuala Nerus</sa:city>
+                  <sa:state>Terengganu</sa:state>
+                  <sa:postal-code>21030</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eFaculty of Fisheries and Food Science, Universiti Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Faculty of Science and Marine Environment, University Malaysia Terengganu, Kuala Nerus, Terengganu 21030, Malaysia.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Science and Marine Environment</sa:organization>
+                  <sa:organization>University Malaysia Terengganu</sa:organization>
+                  <sa:city>Kuala Nerus</sa:city>
+                  <sa:state>Terengganu</sa:state>
+                  <sa:postal-code>21030</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="15" month="9" year="2021"/>
+         <ce:date-revised day="15" month="11" year="2021"/>
+         <ce:date-accepted day="16" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">
+                  <ce:italic>Messastrum gracile</ce:italic> SE-MC4 is a non-model microalga exhibiting superior oil-accumulating abilities. However, biomass production in <ce:italic>M. gracile</ce:italic> SE-MC4 is limited due to low cell proliferation especially after prolonged cultivation under oil-inducing culture conditions. Present data consist of next generation RNA sequencing data of <ce:italic>M. gracile</ce:italic> SE-MC4 under exponential and stationary growth stages. RNA of six samples were extracted and sequenced with insert size of 100 bp paired-end strategy using BGISEQ-500 platform to produce a total of 59.64 Gb data with 314 million reads. Sequences were filtered and <ce:italic>de novo</ce:italic> assembled to form 53,307 number of gene sequences. Sequencing data were deposited in National Center for Biotechnology Information (NCBI) and can be accessed via BioProject ID PRJNA552165. This information can be used to enhance biomass production in <ce:italic>M. gracile</ce:italic> SE-MC4 and other microalgae aimed towards improving biodiesel development.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Non-model microalga</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Cell proliferation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Biodiesel</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Next generation sequencing data</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

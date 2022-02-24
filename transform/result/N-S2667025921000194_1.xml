@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Gastric secretion rate and protein concentration impact intragastric pH and protein hydrolysis during dynamic in vitro gastric digestion</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Yamile A.</namePart>
+      <namePart type="family">Mennah-Govela</namePart>
+      <displayForm>Mennah-Govela, Yamile A.</displayForm>
+      <affiliation>Department of Biological and Agricultural Engineering, University of California Davis, 1308 Bainer Hall, 1 Shields Avenue, Davis, CA 95616, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Clay</namePart>
+      <namePart type="family">Swackhamer</namePart>
+      <displayForm>Swackhamer, Clay</displayForm>
+      <affiliation>Department of Biological and Agricultural Engineering, University of California Davis, 1308 Bainer Hall, 1 Shields Avenue, Davis, CA 95616, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gail M.</namePart>
+      <namePart type="family">Bornhorst</namePart>
+      <displayForm>Bornhorst, Gail M.</displayForm>
+      <affiliation>Department of Biological and Agricultural Engineering, University of California Davis, 1308 Bainer Hall, 1 Shields Avenue, Davis, CA 95616, United States</affiliation>
+      <affiliation>Riddet Institute, Palmerston North, New Zealand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Gastric secretions are crucial for food breakdown during digestion. Changes in intragastric pH due to gastric secretions are influenced by meal properties, such as composition, particle size, structure, buffering capacity, and mixing of the meal with gastric secretions. The use of in vitro digestion models has increased recently, however more physiologically-relevant digestion models are needed to better mimic the gastrointestinal tract. The objective of this study was to examine different gastric secretion conditions using a dynamic in vitro digestion model to understand their impact on intragastric pH and protein digestion. Whey protein dispersions were made at two protein concentrations (10% w/v and 30% w/v) and were subjected to gastric digestion. Gastric secretions were set to be at constant rate (2.75 mL/min) or variable rate (1.5 – 9.0 mL/min; based on the intragastric pH). In digestions of 30% w/v dispersion, the digesta pH after 60 min was high (average 4.3 ± 0.3), resulting in low pepsin activity (5.6 ± 0.1% of the maximum) and protein degree of hydrolysis (0.3 ± 0.0% degree of hydrolysis), compared to digestions of 10% w/v dispersions. After 90 min of digestion, the pepsin activity in digesta of 30% w/v dispersions increased to 56.1 ± 0.2%, mainly due to the decrease in the emptied digesta pH (average 2.7 ± 0.2). Protein concentration and gastric emptying played an important role on intragastric pH. Further work is needed to develop a mechanistic understanding between food initial properties, gastric emptying rate, gastric secretions, pH changes, and nutrient digestibility during digestion to study the impact of hydrocolloid dispersions properties on human health. </abstract>
+   <subject>
+      <topic>Dynamic gastric digestion</topic>
+   </subject>
+   <subject>
+      <topic>Protein dispersions</topic>
+   </subject>
+   <subject>
+      <topic>Secretions</topic>
+   </subject>
+   <subject>
+      <topic>Intragastric pH</topic>
+   </subject>
+   <subject>
+      <topic>Buffering capacity</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Food Hydrocolloids for Health</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-0259</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100027</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.fhfh.2021.100027</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.fhfh.2021.100027</url>
+   </location>
+   <identifier type="pii">S2667-0259(21)00019-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-08-30"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-0259/S2667025921X00027/S2667025921000194/S2667025921000194.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107776">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Experimental data for green synthesis of Zn-abietate complex from natural resin</dct:title>
+         <dct:creator>Jamille S. Correa</dct:creator>
+         <dct:creator>Júlia O. Primo</dct:creator>
+         <dct:creator>Carla Bittencourt</dct:creator>
+         <dct:creator>Dienifer F.L. Horsth</dct:creator>
+         <dct:creator>Eduardo Radovanovic</dct:creator>
+         <dct:creator>Alceu T. Silveira-Jr</dct:creator>
+         <dct:creator>Henrique E. Toma</dct:creator>
+         <dct:creator>Cristina M. Zanette</dct:creator>
+         <dct:creator>Fauze J. Anaissi</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Pinus elliottii resin</rdf:li>
+               <rdf:li>Abietic acid</rdf:li>
+               <rdf:li>Mass spectra</rdf:li>
+               <rdf:li>XPS</rdf:li>
+               <rdf:li>EDS</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107776</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107776</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107776</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107776</dct:identifier>
+         <bam:articleNumber>107776</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-29T13:54:40Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107776</ja:aid>
+         <ce:article-number>107776</ce:article-number>
+         <ce:pii>S2352-3409(21)01050-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107776</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0143-7208(21)00812-3</ce:pii>
+               <ce:doi>10.1016/j.dyepig.2021.109946</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Experimental data for green synthesis of Zn-abietate complex from natural resin</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010507-4a206a0196ca82d0dbe8fec5903fdb35"
+                       orcid="0000-0002-4418-8880">
+               <ce:given-name>Jamille S.</ce:given-name>
+               <ce:surname>Correa</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010507-c40a89ec107d29b43d11a3fdbbcc49d5">
+               <ce:given-name>Júlia O.</ce:given-name>
+               <ce:surname>Primo</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010507-eb6abb74b79ba516d536f7af769f82c9">
+               <ce:given-name>Carla</ce:given-name>
+               <ce:surname>Bittencourt</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010507-6dc38f9b9af910202ba02c6dbbe80563">
+               <ce:given-name>Dienifer F.L.</ce:given-name>
+               <ce:surname>Horsth</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921010507-a737abbef7b32e2634be422d28b64707">
+               <ce:given-name>Eduardo</ce:given-name>
+               <ce:surname>Radovanovic</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921010507-e692852f4e618e6d66820e2fc0c02d68">
+               <ce:given-name>Alceu T.</ce:given-name>
+               <ce:surname>Silveira-Jr</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921010507-a8a722d9fcf25d0e2982f3dac2900109">
+               <ce:given-name>Henrique E.</ce:given-name>
+               <ce:surname>Toma</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921010507-c712b1c46d0943076b93417b88b86f8a">
+               <ce:given-name>Cristina M.</ce:given-name>
+               <ce:surname>Zanette</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921010507-3f545bfa07ecd7cc14ab840ec6063d4d"
+                       orcid="0000-0002-5454-472X">
+               <ce:given-name>Fauze J.</ce:given-name>
+               <ce:surname>Anaissi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:anaissi@unicentro.br">anaissi@unicentro.br</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010507-bac32307434d85c606c2468794f2feee">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Departament of Chemistry, Universidade Estadual do Centro-Oeste, UNICENTRO, Alameda Elio Antonio Dalla Vecchia, 838, Guarapuava, PR 85040-167, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Departament of Chemistry</sa:organization>
+                  <sa:organization>Universidade Estadual do Centro-Oeste</sa:organization>
+                  <sa:organization>UNICENTRO</sa:organization>
+                  <sa:organization>Alameda Elio Antonio Dalla Vecchia</sa:organization>
+                  <sa:address-line>838</sa:address-line>
+                  <sa:city>Guarapuava</sa:city>
+                  <sa:state>PR</sa:state>
+                  <sa:postal-code>85040-167</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartament of Chemistry, Universidade Estadual do Centro-Oeste, UNICENTRO, Alameda Elio Antonio Dalla Vecchia, 838, Guarapuava, PR 85040-167, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010507-5364cf8a72c49e8468fb6f6206e2c96f">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Chemistry, University of Mons, Place du Parc 23, Mons 7000, Belgium</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>University of Mons</sa:organization>
+                  <sa:address-line>Place du Parc 23</sa:address-line>
+                  <sa:city>Mons</sa:city>
+                  <sa:postal-code>7000</sa:postal-code>
+                  <sa:country>Belgium</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Chemistry, University of Mons, Place du Parc 23, Mons 7000, Belgium</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010507-62650e1eff2f201e39d40c87f0c867f4">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Chemistry, Universidade Estadual de Maringá, UEM, Av. Colombo 5790, Maringá, PR 87020-900, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>Universidade Estadual de Maringá</sa:organization>
+                  <sa:organization>UEM</sa:organization>
+                  <sa:address-line>Av. Colombo 5790</sa:address-line>
+                  <sa:city>Maringá</sa:city>
+                  <sa:state>PR</sa:state>
+                  <sa:postal-code>87020-900</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Chemistry, Universidade Estadual de Maringá, UEM, Av. Colombo 5790, Maringá, PR 87020-900, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921010507-8ee41a084ebc91536fe5d3f8550584f5">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Institute of Chemistry, University of Sao Paulo, São Paulo, SP 05508.000, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Chemistry</sa:organization>
+                  <sa:organization>University of Sao Paulo</sa:organization>
+                  <sa:city>São Paulo</sa:city>
+                  <sa:state>SP</sa:state>
+                  <sa:postal-code>05508.000</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dInstitute of Chemistry, University of Sao Paulo, São Paulo, SP 05508.000, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="11" month="12" year="2021"/>
+         <ce:date-revised day="26" month="12" year="2021"/>
+         <ce:date-accepted day="28" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara017" view="all">This data article is associated with the work “Ecofriendly synthesis of Zn-abietate complex derived from <ce:italic>Pinus elliottii</ce:italic> resin and its application as an antibacterial pigment against <ce:italic>S. aureus</ce:italic> and <ce:italic>E. coli</ce:italic>”. The characterization data of the Zn-abietate complex obtained from <ce:italic>Pinus elliottii</ce:italic> resin and their reactional intermediary (Na-abietate) are reported. The Na-abietate was prepared with purified Pinus resin and sodium hydroxide (≥ 99%) in a stoichiometric ratio of 1:1. For the Zn-abietate synthesis was used ZnSO<ce:inf loc="post">4</ce:inf> and Na-abietate solutions were at mild temperature and stirring without using organic solvents to ensuring the green character of the synthesis. Spectroscopic and structural characterization was consistent with an octahedral complex involving three carboxylate ligands per metal ion. X-ray photoelectron spectroscopy (XPS) analysis of the Na-abietate salt confirms the presence of carbonyl groups, carbon-oxygen atoms simple bonds (O-C/O=C), and carboxylate groups oxygen atoms (O-C=O). Analysis of the Zn LMM Auger, for the Zn-abietate complex, indicates the presence of zinc atoms with oxidation state Zn<ce:sup loc="post">2+</ce:sup>, this is supported by the distance between Zn 2p<ce:inf loc="post">3/2</ce:inf> and 1p<ce:inf loc="post">1/2</ce:inf> in the XPS spectrum. Together, these data will be useful for the structural representation of the samples.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Pinus elliottii</ce:italic> resin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Abietic acid</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Mass spectra</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">XPS</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">EDS</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

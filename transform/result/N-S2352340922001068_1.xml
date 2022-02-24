@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Telemetry data of red king crab (Paralithodes camtschaticus) migrations in a north Norwegian fjord</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Magnus</namePart>
+      <namePart type="family">Aune</namePart>
+      <displayForm>Aune, Magnus</displayForm>
+      <affiliation>Akvaplan-niva AS, Fram Centre, 9007 Tromsø, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jenny L.A.</namePart>
+      <namePart type="family">Jensen</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2188-5533</nameIdentifier>
+      <displayForm>Jensen, Jenny L.A.</displayForm>
+      <affiliation>Akvaplan-niva AS, Fram Centre, 9007 Tromsø, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Guttorm N.</namePart>
+      <namePart type="family">Christensen</namePart>
+      <displayForm>Christensen, Guttorm N.</displayForm>
+      <affiliation>Akvaplan-niva AS, Fram Centre, 9007 Tromsø, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kåre Tormod</namePart>
+      <namePart type="family">Nilsen</namePart>
+      <displayForm>Nilsen, Kåre Tormod</displayForm>
+      <affiliation>K-To-9 AS, Fuglenesveien 101, 9601 Hammerfest, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Benjamin</namePart>
+      <namePart type="family">Merkel</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8637-7655</nameIdentifier>
+      <displayForm>Merkel, Benjamin</displayForm>
+      <affiliation>Akvaplan-niva AS, Fram Centre, 9007 Tromsø, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Paul E.</namePart>
+      <namePart type="family">Renaud</namePart>
+      <displayForm>Renaud, Paul E.</displayForm>
+      <affiliation>Akvaplan-niva AS, Fram Centre, 9007 Tromsø, Norway</affiliation>
+      <affiliation>University Centre in Svalbard, 9071 Longyearbyen, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-25</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Acoustic telemetry allows for high-resolution, long-term tracking of moving animals. Here, we describe data on the movement patterns of 37 adult red king crab (RKC, Paralithodes camtschaticus) obtained by means of acoustic telemetry. Acoustically tagged RKC were released in Gamvikfjorden (Sørøya, northern Norway) the 24th of May 2016 and tracked until the 1st of November 2016. Individual crabs resided in the fjord for 1–162 days and were recorded 16 - 11,501 times (mean number of records per crab: 2,851). In total, the data set consist of 105,484 pairs of accurate spatio-temporal coordinates. The acoustic receivers (n = 38) deployed close to the seabed were integrated with temperature sensors that continuously recorded the ambient seawater temperature, resulting in 174,154 water temperature recordings. These novel tracking data can be used to investigate the species' migratory behaviour, spatio-temporal habitat selection, and the relative role of their environment and their possible food sources. Moreover, the high-resolution seawater temperature dataset may serve independently as input data in physical-oceanographic models of this sub-Arctic sill fjord. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Acoustic telemetry</topic>
+   </subject>
+   <subject>
+      <topic>Crustaceans</topic>
+   </subject>
+   <subject>
+      <topic>Movement</topic>
+   </subject>
+   <subject>
+      <topic>Oceanography</topic>
+   </subject>
+   <subject>
+      <topic>Tracking</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">25</text>
+         <extent unit="pages">
+            <start>107894</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107894</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107894</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00106-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-27"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001068/S2352340922001068.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

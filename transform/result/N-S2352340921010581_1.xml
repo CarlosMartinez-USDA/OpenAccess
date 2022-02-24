@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of 16S ribosomal DNA sequences of bacteria isolated from marine red algae Kappaphycus alvarezii</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Rennielyn</namePart>
+      <namePart type="family">Rupert</namePart>
+      <displayForm>Rupert, Rennielyn</displayForm>
+      <affiliation>Biotechnology Research Institute, Universiti Malaysia Sabah, Jalan UMS, Kota Kinabalu, Sabah 88400, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kenneth Francis</namePart>
+      <namePart type="family">Rodrigues</namePart>
+      <displayForm>Rodrigues, Kenneth Francis</displayForm>
+      <affiliation>Biotechnology Research Institute, Universiti Malaysia Sabah, Jalan UMS, Kota Kinabalu, Sabah 88400, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Harry Lye Hin</namePart>
+      <namePart type="family">Chong</namePart>
+      <displayForm>Chong, Harry Lye Hin</displayForm>
+      <affiliation>Faculty of Science and Natural Resources, Universiti Malaysia Sabah, Jalan UMS, Kota Kinabalu, Sabah 88400, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wilson Thau Lym</namePart>
+      <namePart type="family">Yong</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8431-8486</nameIdentifier>
+      <displayForm>Yong, Wilson Thau Lym</displayForm>
+      <affiliation>Biotechnology Research Institute, Universiti Malaysia Sabah, Jalan UMS, Kota Kinabalu, Sabah 88400, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The data provided in the article contains bacterial community profiles present on the surface of red algae (Kappaphycus alvarezii) isolated directly after collection and after 30 days of cultivation in a closed circulation system. The explants of Kappaphycus alvarezii were cultivated in a laboratory setting under controlled growth conditions for 30 days in order to determine bacteria that could adapt to controlled culture conditions. Amplification and sequencing of bacterial 16S rDNA amplicon were performed on bacterial isolates associated with the seedlings. The 16S rDNA gene sequences were analyzed, trimmed, and assembled into contigs using DNA Baser Sequence Assembler (V5) software. Taxonomic identification for the assembled sequences was achieved using the online BLAST (blastn) algorithm, and the construction of a phylogenetic tree was performed using the MEGA7 software. The data reveals a distinct set of microbial variations between day one and day 30. The phylogenetic tree depicts four major clusters, Vibrio, Pseudoalteromonas, Alteromonas, and Bacterioplanes resident on the surface of the K. alvarezii. Comparison between these two bacterial groups provides evidence of the persistent marine bacteria that adapt to the long-term culture in closed circulation systems. Raw data files are available at the GenBank, NCBI database under the accession number of MZ570560 to MZ570580. </abstract>
+   <subject>
+      <topic>16S rDNA gene sequencing</topic>
+   </subject>
+   <subject>
+      <topic>Bacterial community</topic>
+   </subject>
+   <subject>
+      <topic>Red algae</topic>
+   </subject>
+   <subject>
+      <topic>Kappaphycus alvarezii</topic>
+   </subject>
+   <subject>
+      <topic>Persistent bacteria</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107784</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107784</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107784</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01058-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-30"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010581/S2352340921010581.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

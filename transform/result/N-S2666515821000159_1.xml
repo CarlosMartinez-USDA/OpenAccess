@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Half a century of thermal tolerance studies in springtails (Collembola): A review of metrics, spatial and temporal trends</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Pablo</namePart>
+      <namePart type="family">Escribano-Álvarez</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6095-5816</nameIdentifier>
+      <displayForm>Escribano-Álvarez, Pablo</displayForm>
+      <affiliation>Dpto. Biología, Geología, Física y Química Inorgánica, Universidad Rey Juan Carlos, 28933, Móstoles, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Luis R.</namePart>
+      <namePart type="family">Pertierra</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2232-428X</nameIdentifier>
+      <displayForm>Pertierra, Luis R.</displayForm>
+      <affiliation>Dpto. Biología, Geología, Física y Química Inorgánica, Universidad Rey Juan Carlos, 28933, Móstoles, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Brezo</namePart>
+      <namePart type="family">Martínez</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7501-7726</nameIdentifier>
+      <displayForm>Martínez, Brezo</displayForm>
+      <affiliation>Dpto. Biología, Geología, Física y Química Inorgánica, Universidad Rey Juan Carlos, 28933, Móstoles, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Steven L.</namePart>
+      <namePart type="family">Chown</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6069-5105</nameIdentifier>
+      <displayForm>Chown, Steven L.</displayForm>
+      <affiliation>Securing Antarctica's Environmental Future, School of Biological Sciences, Monash University, Melbourne, VIC, 3800, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Miguel Á.</namePart>
+      <namePart type="family">Olalla-Tárraga</namePart>
+      <displayForm>Olalla-Tárraga, Miguel Á.</displayForm>
+      <affiliation>Dpto. Biología, Geología, Física y Química Inorgánica, Universidad Rey Juan Carlos, 28933, Móstoles, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Global changes in soil surface temperatures are altering the abundances and distribution ranges of invertebrate species worldwide, including effects on soil microarthropods such as springtails (Collembola), which are vital for maintaining soil health and providing ecosystem services. Studies of thermal tolerance limits in soil invertebrates have the potential to provide information on demographic responses to climate change and guide assessments of possible impacts on the structure and functioning of ecosystems. Here, we review the state of knowledge of thermal tolerance limits in Collembola. Thermal tolerance metrics have diversified over time, which should be taken into account when conducting large-scale comparative studies. A temporal trend shows that the estimation of ‘Critical Thermal Limits’ (CTL) is becoming more common than investigations of ‘Supercooling Point’ (SCP), despite the latter being the most widely used metric. Indeed, most studies (66%) in Collembola have focused on cold tolerance; fewer have assessed heat tolerance. The majority of thermal tolerance data are from temperate and polar regions, with fewer assessments from tropical and subtropical latitudes. While the hemiedaphic life form represents the majority of records at low latitudes, euedaphic and epedaphic groups remain largely unsampled in these regions compared to the situation in temperate and high latitude regions, where sampling records show a more balanced distribution among the different life forms. Most CTL data are obtained during the warmest period of the year, whereas SCP and ‘Lethal Temperature’ (LT) show more variation in terms of the season when the data were collected. We conclude that more attention should be given to understudied zoogeographical regions across the tropics, as well as certain less-studied clades such as the family Neanuridae, to identify the role of thermal tolerance limits in the redistribution of species under changing climates. </abstract>
+   <subject>
+      <topic>Collembola</topic>
+   </subject>
+   <subject>
+      <topic>thermal tolerance</topic>
+   </subject>
+   <subject>
+      <topic>critical thermal limits</topic>
+   </subject>
+   <subject>
+      <topic>supercooling point</topic>
+   </subject>
+   <subject>
+      <topic>lethal temperature</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Current Research in Insect Science</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2666-5158</identifier>
+      <part>
+         <detail type="volume">
+            <number>2</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2022</text>
+         <text type="year">2022</text>
+         <extent unit="pages">
+            <start>100023</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.cris.2021.100023</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.cris.2021.100023</url>
+   </location>
+   <identifier type="pii">S2666-5158(21)00015-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-23"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2666-5158/S2666515821X00029/S2666515821000159/S2666515821000159.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

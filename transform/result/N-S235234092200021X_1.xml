@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Supporting data for the integrated Agent-Based Modelling and Robust Optimization on food supply network design in COVID-19 pandemic</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Tomy</namePart>
+      <namePart type="family">Perdana</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0470-979X</nameIdentifier>
+      <displayForm>Perdana, Tomy</displayForm>
+      <affiliation>Department of Agro Socio-Economics, Faculty of Agriculture, Universitas Padjadjaran, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Diah</namePart>
+      <namePart type="family">Chaerani</namePart>
+      <displayForm>Chaerani, Diah</displayForm>
+      <affiliation>Department of Mathematics, Faculty of Mathematics and Natural Sciences, Universitas Padjadjaran, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Audi Luqmanul Hakim</namePart>
+      <namePart type="family">Achmad</namePart>
+      <displayForm>Achmad, Audi Luqmanul Hakim</displayForm>
+      <affiliation>Master of Mathematics Study Program, Faculty of Mathematics and Natural Sciences, Universitas Padjadjaran, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article presents the data as a support for “Designing a Food Supply Chain Strategy during COVID-19 Pandemic using an Integrated Agent-Based Modelling and Robust Optimization” [1]. An integration framework of Agent-Based Modelling (ABM) and Robust Optimization (RO) is proposed to address the food supply network development involving normal and pandemic condition issue regarding the actual food production data availability. In this article, the data associated with the integrated ABM simulation and RO are discussed. Particularly, this article provides the output rice production capacity data from the ABM simulation. This article also discusses how the output data from ABM simulation are processed to construct the polyhedral uncertainty set, which will later used by RO. By showing the output data from the ABM simulation and explaining how it is processed to be used in RO, other researchers and investigators could integrate their own ABM simulation model with RO to address their respective problems considering any uncertainty. Furthermore, the additional data needed for the optimization model are also included, which are mainly retrieved from the reports of government agencies. </abstract>
+   <subject>
+      <topic>Food supply chain</topic>
+   </subject>
+   <subject>
+      <topic>Rice production</topic>
+   </subject>
+   <subject>
+      <topic>Uncertainty</topic>
+   </subject>
+   <subject>
+      <topic>Simulation</topic>
+   </subject>
+   <subject>
+      <topic>Optimization</topic>
+   </subject>
+   <subject>
+      <topic>Agent-Based Modelling</topic>
+   </subject>
+   <subject>
+      <topic>Robust Optimization</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107809</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107809</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107809</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00021-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-06"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S235234092200021X/S235234092200021X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

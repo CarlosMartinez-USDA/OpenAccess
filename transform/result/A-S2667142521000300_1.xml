@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2021.100031">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Comparative Effects of Methanol Leaf Extract of Moringa oleifera and Ascorbic Acid on Haematological and Histopathological Changes Induced by Subchronic Lead Toxicity in Male Wistar Rats</dct:title>
+         <dct:creator>Abubakar Usman</dct:creator>
+         <dct:creator>Mohammed Umaru Kawu</dct:creator>
+         <dct:creator>Muftau Shittu</dct:creator>
+         <dct:creator>Ahmadu Saleh</dct:creator>
+         <dct:creator>Kelvin Olutimilehin Jolayemi</dct:creator>
+         <dct:creator>Nuraddeen Bello Ibrahim</dct:creator>
+         <dct:creator>Joshua Seyi Oyetunde</dct:creator>
+         <dct:creator>Magdalene Ogbonneya Okoronkwo</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Lead</rdf:li>
+               <rdf:li>Sub-chronic</rdf:li>
+               <rdf:li>toxicity</rdf:li>
+               <rdf:li>hematological</rdf:li>
+               <rdf:li>Moringa oleifera</rdf:li>
+               <rdf:li>Ascorbic acid</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine, Journal Pre-proof. doi:10.1016/j.prmcm.2021.100031</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:doi>10.1016/j.prmcm.2021.100031</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2021.100031</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2021.100031</dct:identifier>
+         <bam:articleNumber>100031</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-12T13:55:21Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100031</ja:aid>
+         <ce:article-number>100031</ce:article-number>
+         <ce:pii>S2667-1425(21)00030-0</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2021.100031</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Comparative Effects of Methanol Leaf Extract of <ce:italic>Moringa oleifera</ce:italic> and Ascorbic Acid on Haematological and Histopathological Changes Induced by Subchronic Lead Toxicity in Male Wistar Rats</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667142521000300-fc2e455cb2baf860d4b257818426728d">
+               <ce:given-name>Abubakar</ce:given-name>
+               <ce:surname>Usman</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:abubakarusman8772@gmail.com">abubakarusman8772@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667142521000300-63c8a847907688b3edd756d3d012d8d8">
+               <ce:given-name>Mohammed Umaru</ce:given-name>
+               <ce:surname>Kawu</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667142521000300-d8aaf57ff3ecf05b65465bb585dc154b">
+               <ce:given-name>Muftau</ce:given-name>
+               <ce:surname>Shittu</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667142521000300-a999aa52e1ee568fa517cb2d106befdf">
+               <ce:given-name>Ahmadu</ce:given-name>
+               <ce:surname>Saleh</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">4</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667142521000300-4166a3221a54774edb6b97042f7f3a9d">
+               <ce:given-name>Kelvin Olutimilehin</ce:given-name>
+               <ce:surname>Jolayemi</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667142521000300-a15de77895c69e8608c4374b8a0dc86f">
+               <ce:given-name>Nuraddeen Bello</ce:given-name>
+               <ce:surname>Ibrahim</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667142521000300-aaf737c3b332e6857205167c846c8ce1">
+               <ce:given-name>Joshua Seyi</ce:given-name>
+               <ce:surname>Oyetunde</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667142521000300-08de87b81643235f8d8dc31acdc0eb61">
+               <ce:given-name>Magdalene Ogbonneya</ce:given-name>
+               <ce:surname>Okoronkwo</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667142521000300-ff89c7bb66da809f72636ce981bc9c0b">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">National Agricultural Extension and Research Liaison Services, Ahmadu Belo University, Zaria, Kaduna, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>National Agricultural Extension and Research Liaison Services</sa:organization>
+                  <sa:organization>Ahmadu Belo University</sa:organization>
+                  <sa:city>Zaria</sa:city>
+                  <sa:state>Kaduna</sa:state>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1National Agricultural Extension and Research Liaison Services, Ahmadu Belo University, Zaria, Kaduna, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667142521000300-a09c3c14f37a3c1ba8018bc2794594db">
+               <ce:label>2</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Veterinary Physiology, Ahmadu Bello University, Zaria, Kaduna, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Veterinary Physiology</sa:organization>
+                  <sa:organization>Ahmadu Bello University</sa:organization>
+                  <sa:city>Zaria</sa:city>
+                  <sa:state>Kaduna</sa:state>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2Department of Veterinary Physiology, Ahmadu Bello University, Zaria, Kaduna, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667142521000300-fa4ccacdb72eb3b8cd662db4b2dcd7d9">
+               <ce:label>3</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Veterinary Pharmacology and Toxicology, Ahmadu Bello University, Zaria, Kaduna, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Veterinary Pharmacology and Toxicology</sa:organization>
+                  <sa:organization>Ahmadu Bello University</sa:organization>
+                  <sa:city>Zaria</sa:city>
+                  <sa:state>Kaduna</sa:state>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">3Department of Veterinary Pharmacology and Toxicology, Ahmadu Bello University, Zaria, Kaduna, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667142521000300-f9041f5d89f16f79646815761bfba398">
+               <ce:label>4</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Veterinary Pathology, Ahmadu Bello University, Zaria, Kaduna, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Veterinary Pathology</sa:organization>
+                  <sa:organization>Ahmadu Bello University</sa:organization>
+                  <sa:city>Zaria</sa:city>
+                  <sa:state>Kaduna</sa:state>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">4Department of Veterinary Pathology, Ahmadu Bello University, Zaria, Kaduna, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667142521000300-881e6d8fd47ff556d32d3acec4081e8e">
+               <ce:label>5</ce:label>
+               <ce:textfn id="cetextfn0005">National Veterinary Research Institute, Vom, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>National Veterinary Research Institute</sa:organization>
+                  <sa:city>Vom</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">5National Veterinary Research Institute, Vom, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">This work was aimed at comparing the effects of methanol leaf extract of <ce:italic>Moringa oleifera</ce:italic> (MLEMO) and ascorbic acid (AA) on hematological changes induced by subchronic lead (Pb) toxicity in male Wistar rats. Thirty-six adult male Wistar rats were randomly grouped into 6 rats per group. Group I received distilled water (2 mL/kg) whereas, groups II, III, IV, V and VI were administered Pb (190 mg/kg), Pb+AA (100 mg/kg), Pb+MLEMO (500 mg/kg), Pb+AA+MLEMO and Pb+AA (50 mg/kg) +MLEMO (250 mg/kg) respectively.  All agents were administered daily by oral gavage for 6 weeks. Blood samples were collected for hematological analysis. Inappetence, facial swelling, emaciation, back arching and nasal discharge were observed only in group II animals. There was significant (P&lt;0.05) decrease in packed cell volume (PCV), mean corpuscular volume (MCV), mean corpuscular haemoglobin (MCH), mean corpuscular haemoglobin concentration (MCHC), red blood cell count (RBC) and haemoglobin concentration (Hb) in group II compared to other groups. The leucocyte counts were higher (P&lt;0.05) in group II compared to group V. However, platelet counts were lower (P&lt;0.001) in group II compared to group V. Results from this study, showed that co-administration of MLEMO (250 mg/kg) and AA (50 mg/kg) exert more ameliorative effects in Pb-induced toxicity in male Wistar rats.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Lead</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Sub-chronic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">toxicity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">hematological</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Moringa oleifera</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Ascorbic acid</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

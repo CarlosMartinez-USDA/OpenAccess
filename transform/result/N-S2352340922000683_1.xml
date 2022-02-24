@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data related to the microstructural identification and analyzing the mechanical properties of maraging stainless steel 13Cr10Ni1.7Mo2Al0.4Mn0.4Si (commercially known as CX) processed by laser powder bed fusion method</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Shahriar</namePart>
+      <namePart type="family">Afkhami</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3162-3214</nameIdentifier>
+      <displayForm>Afkhami, Shahriar</displayForm>
+      <affiliation>Laboratory of Steel Structures, LUT University, Lappeenranta, 53850, Finland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vahid</namePart>
+      <namePart type="family">Javaheri</namePart>
+      <displayForm>Javaheri, Vahid</displayForm>
+      <affiliation>Materials and Mechanical Engineering, University of Oulu, 90014, Finland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Edris</namePart>
+      <namePart type="family">Dabiri</namePart>
+      <displayForm>Dabiri, Edris</displayForm>
+      <affiliation>Laboratory of Steel Structures, LUT University, Lappeenranta, 53850, Finland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Heidi</namePart>
+      <namePart type="family">Piili</namePart>
+      <displayForm>Piili, Heidi</displayForm>
+      <affiliation>Laboratory of Laser Materials Processing and Additive Manufacturing, LUT University, Lappeenranta, 53850, Finland</affiliation>
+      <affiliation>Department of Mechanical and Materials Engineering, University of Turku, Turku, 20520, Finland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Timo</namePart>
+      <namePart type="family">Björk</namePart>
+      <displayForm>Björk, Timo</displayForm>
+      <affiliation>Laboratory of Steel Structures, LUT University, Lappeenranta, 53850, Finland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The data available in this article presents the microstructural information achieved via scanning electron microscopy and electron backscatter diffraction to evaluate the microstructure of maraging stainless steel 13Cr10Ni1.7Mo2Al0.4Mn0.4Si, in its as-built and heat-treated conditions, fabricated by laser powder bed fusion. In addition, the statistical analysis of the defects is included to indicate the quality of the additively manufactured metal. Furthermore, true stress-logarithmic strain diagrams of the material with different types of post-processing are available, indicating the strain hardening behavior of the material. These diagrams were achieved via quasi-static tensile tests performed in conjunction with the digital image correlation technique. Finally, the sample designs, additive manufacturing parameters, and the heat treatment procedure carried out on the material are also available in this paper to guide future research and ensure the repeatability of the data in this data article and its linked research paper. The research paper investigates the effects of processing and post-processing parameters on the microstructure, surface quality, residual stress, and mechanical properties of 13Cr10Ni1.7Mo2Al0.4Mn0.4Si (conventionally known as CX developed by EOS GmbH) processed by laser powder bed fusion [1]. </abstract>
+   <subject>
+      <topic>Additive manufacturing</topic>
+   </subject>
+   <subject>
+      <topic>CX</topic>
+   </subject>
+   <subject>
+      <topic>Scanning electron microscopy</topic>
+   </subject>
+   <subject>
+      <topic>Electron backscatter diffraction</topic>
+   </subject>
+   <subject>
+      <topic>Quasi-static tensile test</topic>
+   </subject>
+   <subject>
+      <topic>Digital image correlation</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>41</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">April 2022</text>
+         <text type="year">2022</text>
+         <text type="month">April</text>
+         <extent unit="pages">
+            <start>107856</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107856</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107856</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00068-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-19"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/123176916641762791-00001/2352-3409/S2352340922X00024/S2352340922000683/S2352340922000683.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

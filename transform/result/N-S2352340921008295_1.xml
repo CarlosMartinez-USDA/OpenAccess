@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>“Mortgage renegotiation, monetary gains and financial literacy: A dataset of Chilean households”</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Carlos</namePart>
+      <namePart type="family">Madeira</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4645-2099</nameIdentifier>
+      <displayForm>Madeira, Carlos</displayForm>
+      <affiliation>Central Bank of Chile, Chile</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article provides data on the Mortgage Renegotiation behavior of a sample of Chilean households, plus estimates of the Present Value of the gains of mortgage refinancing and the number of past months in which it was optimal to make a refinancing choice. Furthermore, I impute the value of the Financial Literacy index of each household, according to the OCDE-INFE methodology. This data is useful for academics, policy makers and business analysts interested in the relationship between mortgage refinancing and financial literacy. </abstract>
+   <subject>
+      <topic>Household finance</topic>
+   </subject>
+   <subject>
+      <topic>Mortgage refinancing</topic>
+   </subject>
+   <subject>
+      <topic>Financial portability</topic>
+   </subject>
+   <subject>
+      <topic>Financial literacy</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107553</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107553</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107553</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00829-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-03"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008295/S2352340921008295.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

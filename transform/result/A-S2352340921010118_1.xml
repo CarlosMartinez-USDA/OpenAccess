@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107736">
+         <dct:format>application/xml</dct:format>
+         <dct:title>The comprehensive transcriptome of human ductus arteriosus smooth muscle cells (hDASMC)</dct:title>
+         <dct:creator>Rachel E.T. Bentley</dct:creator>
+         <dct:creator>Charles C.T. Hindmarch</dct:creator>
+         <dct:creator>Kimberly J. Dunham-Snary</dct:creator>
+         <dct:creator>Brooke Snetsinger</dct:creator>
+         <dct:creator>Jeffrey D. Mewburn</dct:creator>
+         <dct:creator>Arthur Thébaud</dct:creator>
+         <dct:creator>Patricia D.A. Lima</dct:creator>
+         <dct:creator>Bernard Thébaud</dct:creator>
+         <dct:creator>Stephen L. Archer</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Patent ductus arteriosus</rdf:li>
+               <rdf:li>RNAsequencing</rdf:li>
+               <rdf:li>Normoxia</rdf:li>
+               <rdf:li>Hypoxia</rdf:li>
+               <rdf:li>Oxygen sensing</rdf:li>
+               <rdf:li>Smooth muscle cells</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107736</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107736</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107736</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107736</dct:identifier>
+         <bam:articleNumber>107736</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-17T19:10:09Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>CRKN: Canadian Research Knowledge Network2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107736</ja:aid>
+         <ce:article-number>107736</ce:article-number>
+         <ce:pii>S2352-3409(21)01011-8</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107736</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0888-7543(21)00284-6</ce:pii>
+               <ce:doi>10.1016/j.ygeno.2021.07.006</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">The comprehensive transcriptome of human ductus arteriosus smooth muscle cells (hDASMC)</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010118-21003f8c21eea06d86746030874474c5"
+                       orcid="0000-0003-0486-8467">
+               <ce:given-name>Rachel E.T.</ce:given-name>
+               <ce:surname>Bentley</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">*</ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010118-22f162ab8c489f1c7dacd3380ef6d5aa">
+               <ce:given-name>Charles C.T.</ce:given-name>
+               <ce:surname>Hindmarch</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">*</ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010118-a977be33858ef38a4b9139238a2ea484"
+                       orcid="0000-0001-9760-342X">
+               <ce:given-name>Kimberly J.</ce:given-name>
+               <ce:surname>Dunham-Snary</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010118-b647db2ea4b605fba671ec351e633b1d">
+               <ce:given-name>Brooke</ce:given-name>
+               <ce:surname>Snetsinger</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921010118-e8f5a3f81c31646ba8f982b05b3714aa">
+               <ce:given-name>Jeffrey D.</ce:given-name>
+               <ce:surname>Mewburn</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921010118-854a6fea23241a7443278c7d811cd55b"
+                       orcid="0000-0002-0894-1169">
+               <ce:given-name>Arthur</ce:given-name>
+               <ce:surname>Thébaud</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921010118-da1b5cd4b273b260c9e4031892219bba"
+                       orcid="0000-0002-6456-2470">
+               <ce:given-name>Patricia D.A.</ce:given-name>
+               <ce:surname>Lima</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921010118-a369b07b7aab11077fd368fd48151982">
+               <ce:given-name>Bernard</ce:given-name>
+               <ce:surname>Thébaud</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0007">
+                  <ce:sup loc="post">g</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0008">
+                  <ce:sup loc="post">h</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921010118-9b10b7f20f64bb57441895571a0fe0ed">
+               <ce:given-name>Stephen L.</ce:given-name>
+               <ce:surname>Archer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:stephen.archer@queensu.ca">stephen.archer@queensu.ca</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010118-73a20d808a5e6b9fca77e98bf348cc7a">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Medicine, Queen's University, Kingston, Ontario, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Medicine</sa:organization>
+                  <sa:organization>Queen's University</sa:organization>
+                  <sa:city>Kingston</sa:city>
+                  <sa:state>Ontario</sa:state>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Medicine, Queen's University, Kingston, Ontario, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010118-06c973bc5e61a63d2daa746416bb48b1">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">QCPU, Queen's Cardiopulmonary Unit, Translational Institute of Medicine (TIME), Department of Medicine, Queen's University, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>QCPU</sa:organization>
+                  <sa:organization>Queen's Cardiopulmonary Unit</sa:organization>
+                  <sa:organization>Translational Institute of Medicine (TIME)</sa:organization>
+                  <sa:organization>Department of Medicine</sa:organization>
+                  <sa:organization>Queen's University</sa:organization>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bQCPU, Queen's Cardiopulmonary Unit, Translational Institute of Medicine (TIME), Department of Medicine, Queen's University, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010118-52a0275563620c966696b7241a194f57">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Biomedical and Molecular Science, Queen's University, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biomedical and Molecular Science</sa:organization>
+                  <sa:organization>Queen's University</sa:organization>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Biomedical and Molecular Science, Queen's University, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921010118-7a5ee2cae787a83ad87a7de89e8d8bba">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Kinesiology and Health Studies, Queen's University, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Kinesiology and Health Studies</sa:organization>
+                  <sa:organization>Queen's University</sa:organization>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Kinesiology and Health Studies, Queen's University, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921010118-a876fafab6bd24d6d7813b870d7716a7">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Ottawa Hospital Research Institute, Regenerative Medicine Program, Ottawa, Ontario, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Ottawa Hospital Research Institute</sa:organization>
+                  <sa:organization>Regenerative Medicine Program</sa:organization>
+                  <sa:city>Ottawa</sa:city>
+                  <sa:state>Ontario</sa:state>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eOttawa Hospital Research Institute, Regenerative Medicine Program, Ottawa, Ontario, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2352340921010118-568e9472cbc8f3e94d02ce012101bbe4">
+               <ce:label>f</ce:label>
+               <ce:textfn id="cetextfn0006">Department of Pediatrics, Division of Neonatology, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pediatrics</sa:organization>
+                  <sa:organization>Division of Neonatology</sa:organization>
+                  <sa:organization>Children's Hospital of Eastern Ontario</sa:organization>
+                  <sa:city>Ottawa</sa:city>
+                  <sa:state>Ontario</sa:state>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0006">fDepartment of Pediatrics, Division of Neonatology, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0007"
+                            affiliation-id="S2352340921010118-e0be880a116867ca487060afaa303bff">
+               <ce:label>g</ce:label>
+               <ce:textfn id="cetextfn0007">Children's Hospital of Eastern Ontario Research Institute, University of Ottawa, Ottawa, Ontario, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Children's Hospital of Eastern Ontario Research Institute</sa:organization>
+                  <sa:organization>University of Ottawa</sa:organization>
+                  <sa:city>Ottawa</sa:city>
+                  <sa:state>Ontario</sa:state>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0007">gChildren's Hospital of Eastern Ontario Research Institute, University of Ottawa, Ottawa, Ontario, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0008"
+                            affiliation-id="S2352340921010118-64d6df1a155ad761423906f1be13552f">
+               <ce:label>h</ce:label>
+               <ce:textfn id="cetextfn0008">Department of Cellular and Molecular Medicine, University of Ottawa, Ottawa, Ontario, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Cellular and Molecular Medicine</sa:organization>
+                  <sa:organization>University of Ottawa</sa:organization>
+                  <sa:city>Ottawa</sa:city>
+                  <sa:state>Ontario</sa:state>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0008">hDepartment of Cellular and Molecular Medicine, University of Ottawa, Ottawa, Ontario, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author(s).</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>⁎</ce:label>
+               <ce:note-para id="notep0001" view="all">These authors contributed equally and are co-first authors.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="23" month="9" year="2021"/>
+         <ce:date-revised day="15" month="12" year="2021"/>
+         <ce:date-accepted day="16" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara002" view="all">The Ductus Arteriosus (DA) is a fetal vessel that connects the aorta to the pulmonary artery ensuring that placental oxygenated blood is diverted from the lungs to the systemic circulation. Following exposure to oxygen (O<ce:inf loc="post">2</ce:inf>), in the first few days of life, the DA responds with a functional closure that is followed by anatomical closure. Here, we study human DA smooth muscle cells (DASMC) taken from 10 term infants during congenital heart surgery. Purification of these cells using flow cytometry ensured a pure population of DASMCs, which we confirmed as responsive to O<ce:inf loc="post">2</ce:inf>. An oxygen-induced increase in intracellular calcium of 18.1%±4.4% and SMC constriction (-27%±1.5% shortening) occurred in all cell lines within five minutes. These cells were maintained in either hypoxia (2.5% O<ce:inf loc="post">2</ce:inf>), mimicking <ce:italic>in utero</ce:italic> conditions or in normoxia (19% O<ce:inf loc="post">2</ce:inf>) mimicking neonate conditions. We then used 3’ RNAsequencing to identify the transcriptome of DASMCs in each condition [1]. In this paper, we present the full differentially regulated gene list from this experiment.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Patent ductus arteriosus</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">RNAsequencing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Normoxia</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Hypoxia</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Oxygen sensing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Smooth muscle cells</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

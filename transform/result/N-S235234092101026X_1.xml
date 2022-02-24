@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset for field experiments analyzing discrimination in amateur soccer</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Cornel</namePart>
+      <namePart type="family">Nesseler</namePart>
+      <displayForm>Nesseler, Cornel</displayForm>
+      <affiliation>Norwegian University of Science and Technology, Trondheim, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Carlos</namePart>
+      <namePart type="family">Gomez-Gonzalez</namePart>
+      <displayForm>Gomez-Gonzalez, Carlos</displayForm>
+      <affiliation>University of Zurich, Zurich, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Helmut</namePart>
+      <namePart type="family">Dietl</namePart>
+      <displayForm>Dietl, Helmut</displayForm>
+      <affiliation>University of Zurich, Zurich, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christoph</namePart>
+      <namePart type="family">Halser</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2009-4388</nameIdentifier>
+      <displayForm>Halser, Christoph</displayForm>
+      <affiliation>Norwegian University of Science and Technology, Trondheim, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper presents data of field experiments that analyze discrimination in amateur soccer. The studies created fake accounts and asked amateur soccer coaches to come for a trial practice. The fake accounts had either a native- or a foreign-sounding name. The dataset is based on three published studies that analyzed discrimination in 23 countries. The dataset contains 24,915 observations and several variables that are interesting for further research. This data can be used to compare discrimination in amateur soccer with discrimination in diverse fields, such as migration, economics, or political science. For a more detailed discussion, please see the published articles. </abstract>
+   <subject>
+      <topic>Sport science</topic>
+   </subject>
+   <subject>
+      <topic>Experiments</topic>
+   </subject>
+   <subject>
+      <topic>Discrimination</topic>
+   </subject>
+   <subject>
+      <topic>Migration</topic>
+   </subject>
+   <subject>
+      <topic>Integration</topic>
+   </subject>
+   <subject>
+      <topic>Social activities</topic>
+   </subject>
+   <subject>
+      <topic>RCT</topic>
+   </subject>
+   <subject>
+      <topic>Amateur soccer</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107751</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107751</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107751</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01026-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-22"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S235234092101026X/S235234092101026X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

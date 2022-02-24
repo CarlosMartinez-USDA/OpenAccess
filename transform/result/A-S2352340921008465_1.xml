@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107571">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on minerals and crystallinity index of quartz in rock samples collected from Paleolithic archaeological site of Attirampakkam, Tamil Nadu</dct:title>
+         <dct:creator>A. Tamilarasi</dct:creator>
+         <dct:creator>V. Sathish</dct:creator>
+         <dct:creator>S. Manigandan</dct:creator>
+         <dct:creator>A. Chandrasekaran</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Paleolithic archaeological rock</rdf:li>
+               <rdf:li>FT-IR</rdf:li>
+               <rdf:li>Crystallinity index</rdf:li>
+               <rdf:li>XRD</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107571</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107571</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107571</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107571</dct:identifier>
+         <bam:articleNumber>107571</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-10T10:26:26Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107571</ja:aid>
+         <ce:article-number>107571</ce:article-number>
+         <ce:pii>S2352-3409(21)00846-5</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107571</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data on minerals and crystallinity index of quartz in rock samples collected from Paleolithic archaeological site of Attirampakkam, Tamil Nadu</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008465-d6a1579d982798daa85880dbad2272ec">
+               <ce:given-name>A.</ce:given-name>
+               <ce:surname>Tamilarasi</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008465-44b13c32e022a36eb0319a74308a3001">
+               <ce:given-name>V.</ce:given-name>
+               <ce:surname>Sathish</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008465-c077286488e7cb65b141b2252ce33204">
+               <ce:given-name>S.</ce:given-name>
+               <ce:surname>Manigandan</ce:surname>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008465-d6c1f416f799010832d96eb0267a135d"
+                       orcid="0000-0003-3676-0346">
+               <ce:given-name>A.</ce:given-name>
+               <ce:surname>Chandrasekaran</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:chandrasekarana@ssn.edu.in">chandrasekarana@ssn.edu.in</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008465-f0cbf8df4da6c4423db6ddae310a8009">
+               <ce:textfn id="cetextfn0001">Sri Sivasubramaniya Nadar College of Engineering (Autonomous), Chennai, Tamilnadu 603110, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Sri Sivasubramaniya Nadar College of Engineering (Autonomous)</sa:organization>
+                  <sa:city>Chennai</sa:city>
+                  <sa:state>Tamilnadu</sa:state>
+                  <sa:postal-code>603110</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Sri Sivasubramaniya Nadar College of Engineering (Autonomous), Chennai, Tamilnadu 603110, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="9" month="9" year="2021"/>
+         <ce:date-revised day="25" month="10" year="2021"/>
+         <ce:date-accepted day="9" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">In the present work, rock samples were collected from Paleolithic archaeological site of Attirampakkam, Tamil Nadu, India to assess the mineralogical composition using Fourier transform infrared-spectroscopic (FT-IR) technique and X-Ray Diffraction Spectrometry (XRD). The quartz, kaolinite, montmorillonite, calcite, orthoclase, microcline and illite minerals are identified in rock samples and crystallinity index of quartz (SiO<ce:inf loc="post">2</ce:inf>) is estimated for all the samples by comparing the ratio of intensity of the characteristic peak at 778 and 695 cm<ce:sup loc="post">–1</ce:sup> using FT-IR spectrum. In rock samples, calculated crystallinity index of quartz is greater than the 1 from FT-IR spectrum and it shows that the distribution is disordered in nature. Additionally, some more minerals such as hematite and rutile are identified in rock samples by X-ray diffraction technique. This extensive study shows that archeological rock samples are wide variation in mineral composition.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Paleolithic archaeological rock</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">FT-IR</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Crystallinity index</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">XRD</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

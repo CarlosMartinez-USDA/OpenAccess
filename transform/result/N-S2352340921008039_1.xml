@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of angular and compressive responses of biomimetic artificial spinal discs fabricated using multi-material additive manufacturing</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Zhiyang</namePart>
+      <namePart type="family">Yu</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6108-5314</nameIdentifier>
+      <displayForm>Yu, Zhiyang</displayForm>
+      <affiliation>Engineering Design and Computing Laboratory, Department. of Mechanical and Process Engineering, ETH Zürich, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Benjamin</namePart>
+      <namePart type="family">Voumard</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0487-8606</nameIdentifier>
+      <displayForm>Voumard, Benjamin</displayForm>
+      <affiliation>Musculoskeletal Biomechanics, ARTORG Center for Biomedical Engineering Research, University of Bern, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kristina</namePart>
+      <namePart type="family">Shea</namePart>
+      <displayForm>Shea, Kristina</displayForm>
+      <affiliation>Engineering Design and Computing Laboratory, Department. of Mechanical and Process Engineering, ETH Zürich, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tino</namePart>
+      <namePart type="family">Stanković</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9932-8369</nameIdentifier>
+      <displayForm>Stanković, Tino</displayForm>
+      <affiliation>Engineering Design and Computing Laboratory, Department. of Mechanical and Process Engineering, ETH Zürich, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>To explore the influence of different biomimetic designs and multi-material additive manufacturing on the performance of a multi-material artificial spinal disc (ASD) in terms of restoring natural mechanics, four biomimetic ASD designs together with a control design are first fabricated using a Stratasys Connex3 Objet500 inkjet-based, multi-material 3D printer and their mechanical responses are measured using in-vitro mechanical testing. The mechanical tests include an angular test and a compression test to measure the ASD's behavior in the seven most frequent loading scenarios of a spine: flexion, extension, left/right lateral bending, left/right axial rotation, and compression. The angular test is performed using a custom six degrees of freedom, computer-controlled spine testing system together with an optoelectronic motion analysis system, while the compression test is performed using an Instron testing machine. The presented dataset includes 3D models of the five ASD designs, and raw data of the angular and compressive responses at different strain rates of the five ASD designs. This dataset is related to the article “Exploration of the influence of different biomimetic designs of 3D printed multi-material artificial spinal disc on the natural mechanics restoration” where the detailed designs and load responses of the five multi-material ASDs are presented (Yu et al., 2021). This dataset helps to gain insights into the influence of different biomimetic design concepts on the mechanics of a multi-material ASD and serves as a reference for the future design of multi-material ASDs. </abstract>
+   <subject>
+      <topic>Multi-material additive manufacturing (AM)</topic>
+   </subject>
+   <subject>
+      <topic>Artificial spinal disc (ASD)</topic>
+   </subject>
+   <subject>
+      <topic>Biomimetic design</topic>
+   </subject>
+   <subject>
+      <topic>in-vitro mechanical testing</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107527</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107527</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107527</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00803-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-26"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008039/S2352340921008039.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

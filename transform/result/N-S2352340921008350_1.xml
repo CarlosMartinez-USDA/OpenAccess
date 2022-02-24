@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Administrative healthcare data to predict performance status in lung cancer patients</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Anita</namePart>
+      <namePart type="family">Andreano</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9667-7010</nameIdentifier>
+      <displayForm>Andreano, Anita</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Antonio Giampiero</namePart>
+      <namePart type="family">Russo</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5681-5861</nameIdentifier>
+      <displayForm>Russo, Antonio Giampiero</displayForm>
+      <affiliation>Epidemiology Unit, Agency for Health Protection (ATS) of Milan, C.so Italia 52, Milano 20122, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The dataset includes 4488 patients diagnosed with lung cancer (ICD-O 3[3], C33-C34) between 2010–2012 and 2016–2018 in the territory of the Agency for Health Protection (ATS) of Milan, Italy, and selected from its population cancer registry on the basis of availability of the following information: performance status (PS), age, sex, and stage at diagnosis. The dataset includes also the following variables, extracted from the health databases of the ATS and linked to the variables derived from the cancer registry through deterministic record linkage on a unique key (tax code): Charlson comorbidity index, presence of chronic obstructive pulmonary disease, number of hospitalizations, outpatient visits, emergency accesses and prescribed drugs in the previous year, and dispensed durable medical equipment in the previous three years. The dataset was used to develop a logistic prediction model for PS, dichotomized as ‘poor’ (ECOG, 3–5) and ‘good’ (ECOG, 0–2), on the basis of all other variables in the dataset. The prediction model was developed on a 50% random subsample of the described dataset (development dataset, n = 2,244) and validated on the remaining half. The area under the curve (AUC) of the model in the development and validation samples were 0.76 and 0.73, respectively. The developed model was used to predict ‘good’ vs. ‘poor’ PS in a sample of patients with advanced lung cancer, from the same registry and years, for which the information was not available. Researchers using registry data, or electronic claims, to perform studies of oncologic therapy effectiveness for lung cancer could use the reported coefficients to predict PS value, dichotomized as ‘good’ or ‘poor’. </abstract>
+   <subject>
+      <topic>Performance status</topic>
+   </subject>
+   <subject>
+      <topic>Lung cancer</topic>
+   </subject>
+   <subject>
+      <topic>Administrative claims</topic>
+   </subject>
+   <subject>
+      <topic>Healthcare</topic>
+   </subject>
+   <subject>
+      <topic>Cancer registry</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107559</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107559</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107559</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00835-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-05"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008350/S2352340921008350.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

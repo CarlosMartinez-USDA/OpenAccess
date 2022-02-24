@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Escherichia coli strain INF32/16/A: Dataset of raw reads and assembled draft genome</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Shuhaila</namePart>
+      <namePart type="family">Mat-Sharani</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8088-4042</nameIdentifier>
+      <displayForm>Mat-Sharani, Shuhaila</displayForm>
+      <affiliation>School of Health Sciences, Universiti Sains Malaysia, Kubang Kerian, Kelantan 16150, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Suhaila</namePart>
+      <namePart type="family">Sulaiman</namePart>
+      <displayForm>Sulaiman, Suhaila</displayForm>
+      <affiliation>FGV R&amp;D Sdn. Bhd., FGV Innovation Centre, PT 23417 Lengkuk Teknologi, Bandar Enstek, Negeri Sembilan 71760, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nik Yusnoraini</namePart>
+      <namePart type="family">Yusof</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0821-7461</nameIdentifier>
+      <displayForm>Yusof, Nik Yusnoraini</displayForm>
+      <affiliation>Institute for Research in Molecular Medicine (INFORMM), Health Campus, Universiti Sains Malaysia, Kubang Kerian, Kelantan, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Escherichia coli strain INF32/16/A is a gram-negative bacteria which is an extended-spectrum beta-lactamases (ESBL). ESBL is an enzyme that is produced by bacteria to become resistant to existing antibiotic such as extended-spectrum penicillin, cephalosporins, and have been threatening the ability to treat an infection. Therefore, genome analysis will provide an insight of how this bacteria able to evolve and the information obtained will able to facilitate in designing new antibiotics. The genome of E. coli strain was sequenced using Illumina MiSeq and raw genome sequence have been submitted into NCBI SRA database (SRR15334628) under Bioproject accession number PRJNA726861. </abstract>
+   <subject>
+      <topic>Escherichia coli</topic>
+   </subject>
+   <subject>
+      <topic>Genome sequencing</topic>
+   </subject>
+   <subject>
+      <topic>Pathogenic</topic>
+   </subject>
+   <subject>
+      <topic>Extended-spectrum beta-lactamase</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107640</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107640</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107640</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00915-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-25"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S235234092100915X/S235234092100915X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

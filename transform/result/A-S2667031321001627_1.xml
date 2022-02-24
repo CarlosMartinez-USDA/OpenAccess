@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100180">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Ethnobotanical survey: A comprehensive review of medicinal plants used in treatment of gastro intestinal diseases in Kano state, Nigeria.</dct:title>
+         <dct:creator>Asmau Nna Sulaiman</dct:creator>
+         <dct:creator>Auwalu Halliru Arzai</dct:creator>
+         <dct:creator>Dalha Wada Taura</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Medicinal plants</rdf:li>
+               <rdf:li>Traditional medical practitioners</rdf:li>
+               <rdf:li>Kano, Gastro intestinal disease</rdf:li>
+               <rdf:li>Treatment</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100180</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100180</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100180</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100180</dct:identifier>
+         <bam:articleNumber>100180</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-27T18:26:42Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100180</ja:aid>
+         <ce:article-number>100180</ce:article-number>
+         <ce:pii>S2667-0313(21)00162-7</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100180</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Ethnobotanical survey: A comprehensive review of medicinal plants used in treatment of gastro intestinal diseases in Kano state, Nigeria.</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001627-5f8e26ef64bba7ada9997c2755b83a1d">
+               <ce:given-name>Asmau Nna</ce:given-name>
+               <ce:surname>Sulaiman</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:sulaimanasmau@yahoo.co.uk">sulaimanasmau@yahoo.co.uk</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001627-5b9946936852c9eb13148a4f88fc49d6">
+               <ce:given-name>Auwalu Halliru</ce:given-name>
+               <ce:surname>Arzai</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001627-c2fa56789c57db5ba2188fa86f30741b">
+               <ce:given-name>Dalha Wada</ce:given-name>
+               <ce:surname>Taura</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001627-18c73ec10415a3ee6a453ec63aa35f86">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Ahmadu Bello University Zaria, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Ahmadu Bello University Zaria</sa:organization>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aAhmadu Bello University Zaria, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001627-d0d7933a2081373e269846f783a5cd79">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Bayero University Kano<ce:bold>,</ce:bold> Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Bayero University Kano</sa:organization>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bBayero University Kano, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="12" month="10" year="2021"/>
+         <ce:date-revised day="23" month="11" year="2021"/>
+         <ce:date-accepted day="27" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara005" view="all">This work provides the ethnobotanical data concerning the traditional use of medicinal plants in Kano State- Nigeria and its uses for the treatment of gastrointestinal disease which has been poorly investigated. The aim of this study was to review the actual knowledge about the medicinal plants used to treat gastrointestinal diseases by traditional medical practitioners living in Kano metropolis. The objectives were to determine the local (Hausa) and scientific names of the plants used in the treatment of gastrointestinal diseases in Kano State, Nigeria; to document and analyse the traditional and ethnobotanical knowledge inherited by traditional medical practitioners in Kano State- Nigeria.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Method</ce:section-title>
+               <ce:simple-para id="spara006" view="all">The ethnobotanical data was collected from 30 traditional medical practitioners, 5 each from each Local Government Area making up the core Kano metropolis (Dala, Fagge, Tarauni, Kano Municipal, Gwale and Nassarawa). By means of a structured questionnaire focusing on the local (Hausa) names of the medicinal plants, their medicinal uses, the plant parts used, methods of preparation and route of administration to patients.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara007" view="all">The survey identified a total of 33 plant species belonging to 24 families. The Moraceae family was the most commonly used plant family representing 17.4% of all the medicinal plants species recorded in this study. The plant parts most frequently used were the leaves (47.8 %), followed by the bark/stem (34.8 %), roots (10.9 %), whole plant (4.3 %) and the seeds (2.2 %). Most of the traditional medical practitioners obtained their extracts by decoction of the medicinal plants. The most often recurring gastrointestinal disease treated by the practitioners was stomach ache (36.5 %), followed by diarrhoea (30.8 %), and dysentery (19.2 %) using one or more of the medicinal plants reported in this study for preparing such treatments. The three (3) most frequently used plants according to this study were: <ce:italic>Bridelia ferruginea</ce:italic> (90.0 %), <ce:italic>Psidium guajava</ce:italic> (90.0 %) and <ce:italic>Khaya senegalensis</ce:italic> (83.3 %). The survey revealed that the bark of both <ce:italic>Bridelia ferruginea</ce:italic> and <ce:italic>Khaya senegalensis</ce:italic> were the parts used for the herbal preparation while the leaves of <ce:italic>Psidium guajava</ce:italic> were used<ce:italic>.</ce:italic> The main method of preparation was decoction and was administered orally.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusion</ce:section-title>
+               <ce:simple-para id="spara008" view="all">: The traditional medical practitioners in Kano metropolis possess a wealth of information on medicinal plants and their applications. This ethnobotanical survey can help scientists and researchers in identifying those plants with medicinal properties that may be useful in the development of new drugs.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Medicinal plants</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Traditional medical practitioners</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Kano, Gastro intestinal disease</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Treatment</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

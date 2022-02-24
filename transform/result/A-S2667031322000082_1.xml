@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2022.100222">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Hexacosylidenecyclohexane inhibits enzymatic breakdown of dietary sugars and modulates glucose homeostasis</dct:title>
+         <dct:creator>Kavishankar Gawli</dct:creator>
+         <dct:creator>Akshatha Katteri Nataraja</dct:creator>
+         <dct:creator>Sadiq Mareai</dct:creator>
+         <dct:creator>Lakshmidevi Nanjaiah</dct:creator>
+         <dct:creator>Mahadev Murthy Subbaiah</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Antidiabetic</rdf:li>
+               <rdf:li>Streptozotocin</rdf:li>
+               <rdf:li>Enzymes</rdf:li>
+               <rdf:li>Toxicity</rdf:li>
+               <rdf:li>Drug-likeness</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2022.100222</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>2</prism:number>
+         <prism:coverDisplayDate>May 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2022.100222</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2022.100222</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2022.100222</dct:identifier>
+         <bam:articleNumber>100222</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-15T05:56:04Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100222</ja:aid>
+         <ce:article-number>100222</ce:article-number>
+         <ce:pii>S2667-0313(22)00008-2</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2022.100222</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Hexacosylidenecyclohexane inhibits enzymatic breakdown of dietary sugars and modulates glucose homeostasis</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031322000082-c99c836072c56c6812142b1f63bfdf45">
+               <ce:given-name>Kavishankar</ce:given-name>
+               <ce:surname>Gawli</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:kavishankar@cuk.ac.in">kavishankar@cuk.ac.in</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031322000082-2264dddaa18bd44b1b43129b0497f413">
+               <ce:given-name>Akshatha</ce:given-name>
+               <ce:surname>Katteri Nataraja</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031322000082-573576d3d66d3202c037ce41b191b857">
+               <ce:given-name>Sadiq</ce:given-name>
+               <ce:surname>Mareai</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031322000082-be7391dbbe71e78a9eaef660f9227a1d">
+               <ce:given-name>Lakshmidevi</ce:given-name>
+               <ce:surname>Nanjaiah</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031322000082-6a3ba01a4dfbb1ae6354c50bb36cb600">
+               <ce:given-name>Mahadev Murthy</ce:given-name>
+               <ce:surname>Subbaiah</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031322000082-9a8f47d79fdd2628c91d6fd25538dc65">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Microbiology, Yuvarajas College, University of Mysore, Mysore, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Microbiology</sa:organization>
+                  <sa:organization>Yuvarajas College, University of Mysore</sa:organization>
+                  <sa:city>Mysore</sa:city>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Microbiology, Yuvarajas College, University of Mysore, Mysore, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031322000082-0290c83276c7846af0f864c63ca72f99">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Life Science, Central University of Karnataka, Kalaburagi, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Life Science</sa:organization>
+                  <sa:organization>Central University of Karnataka</sa:organization>
+                  <sa:city>Kalaburagi</sa:city>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Life Science, Central University of Karnataka, Kalaburagi, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031322000082-8267ebe85c0e051a7333b4382584fb0b">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Studies in Microbiology, University of Mysore, Mysore, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Studies in Microbiology</sa:organization>
+                  <sa:organization>University of Mysore</sa:organization>
+                  <sa:city>Mysore</sa:city>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Studies in Microbiology, University of Mysore, Mysore, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031322000082-7a66056094a0f0289b56b3178cbef6b5">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Biotechnology and Natural Products, Technical University of Munich, Freinsing, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Biotechnology and Natural Products</sa:organization>
+                  <sa:organization>Technical University of Munich</sa:organization>
+                  <sa:city>Freinsing</sa:city>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dBiotechnology and Natural Products, Technical University of Munich, Freinsing, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667031322000082-232fad9d626f7b560d87a8e9943be77f">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Department of Biochemistry, University of Thamar, Thamar, Yemen</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biochemistry</sa:organization>
+                  <sa:organization>University of Thamar</sa:organization>
+                  <sa:city>Thamar</sa:city>
+                  <sa:country>Yemen</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eDepartment of Biochemistry, University of Thamar, Thamar, Yemen</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara006" view="all">The quest for benign drug to treat diabetes and its complications is a major scientific search. The investigation evaluates the antidiabetic properties of hexacosylidenecyclohexane purified from <ce:italic>Madhuca longifolia</ce:italic> by advanced chromatographic approach.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Methods</ce:section-title>
+               <ce:simple-para id="spara007" view="all">Chloroform, methanol and hexane fractions were analysed by TLC and HPLC to isolate the active molecule followed with structure elucidation by LC-MS, FTIR, CHN and NMR spectroscopy. <ce:italic>In vitro</ce:italic> and <ce:italic>in vivo</ce:italic> antidiabetic methods were adopted to ascertain the potency of the active molecule. Drug-likeness and ADMET analysis of the molecule were carried out using Molinspiration, SwissADME, DruLiTo software, ADMETlab and admetSAR prediction tools.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara008" view="all">Bioassay guided fractionation and purification of the crude extract resulted in 25 fractions; MBCF1 to MBCF25 (<ce:italic>M. longifolia</ce:italic> bark chloroform fraction). MBCF2 showed effective <ce:italic>in vitro</ce:italic> inhibition of aldose reductase, α-amylase and α-glucosidase with an IC<ce:inf loc="post">50</ce:inf> value of 85, 30 and 21 µg/mL, respectively. The active molecule, hexacosylidenecyclohexane at a dose of 50 mg /kg b.w., reduced the blood glucose level to 239 from 340 mg /dL on day 14 (experimental period) and at 25 mg /kg b.w., from 348 to 277 mg /dL. It showed significant reversal of lipid profile and bile acids. Histopathological studies revealed the protective effect on cellular population and size of islets. Drug-likeness property was in the acceptable range with no toxic effect as predicted by ADMET analysis.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusion</ce:section-title>
+               <ce:simple-para id="spara009" view="all">The findings showed that, the active molecule hexacosylidenecyclohexane possesses potential antidiabetic effect with no toxic effect.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Antidiabetic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Streptozotocin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Enzymes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Toxicity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Drug-likeness</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

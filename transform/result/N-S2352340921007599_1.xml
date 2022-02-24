@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>ACHENY: A standard Chenopodiaceae image dataset for deep learning models</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ahmad</namePart>
+      <namePart type="family">Heidary-Sharifabad</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3356-4334</nameIdentifier>
+      <displayForm>Heidary-Sharifabad, Ahmad</displayForm>
+      <affiliation>Department of Computer Engineering, Maybod Branch, Islamic Azad University, Maybod, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mohsen Sardari</namePart>
+      <namePart type="family">Zarchi</namePart>
+      <displayForm>Zarchi, Mohsen Sardari</displayForm>
+      <affiliation>Department of Computer Engineering, Meybod University, Meybod, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sima</namePart>
+      <namePart type="family">Emadi</namePart>
+      <displayForm>Emadi, Sima</displayForm>
+      <affiliation>Department of Computer Engineering, Yazd Branch, Islamic Azad University, Yazd, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gholamreza</namePart>
+      <namePart type="family">Zarei</namePart>
+      <displayForm>Zarei, Gholamreza</displayForm>
+      <affiliation>Department of Agronomy, Maybod Branch, Islamic Azad University, Maybod, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper contains datasets related to the “Efficient Deep Learning Models for Categorizing Chenopodiaceae in the wild” (Heidary-Sharifabad et al., 2021). There are about 1500 species of Chenopodiaceae that are spread worldwide and often are ecologically important. Biodiversity conservation of these species is critical due to the destructive effects of human activities on them. For this purpose, identification and surveillance of Chenopodiaceae species in their natural habitat are necessary and can be facilitated by deep learning. The feasibility of applying deep learning algorithms to identify Chenopodiaceae species depends on access to the appropriate relevant dataset. Therefore, ACHENY dataset was collected from natural habitats of different bushes of Chenopodiaceae species, in real-world conditions from desert and semi-desert areas of the Yazd province of IRAN. This imbalanced dataset is compiled of 27,030 RGB color images from 30 Chenopodiaceae species, each species 300-1461 images. Imaging is performed from multiple bushes for each species, with different camera-to-target distances, viewpoints, angles, and natural sunlight in November and December. The collected images are not pre-processed, only are resized to 224 × 224 dimensions which can be used on some of the successful deep learning models and then were grouped into their respective class. The images in each class are separated by 10% for testing, 18% for validation, and 72% for training. Test images are often manually selected from plant bushes different from the training set. Then training and validation images are randomly separated from the remaining images in each category. The small-sized images with 64 × 64 dimensions also are included in ACHENY which can be used on some other deep models. </abstract>
+   <subject>
+      <topic>Biodiversity protection</topic>
+   </subject>
+   <subject>
+      <topic>Chenopodiaceae</topic>
+   </subject>
+   <subject>
+      <topic>Deep learning</topic>
+   </subject>
+   <subject>
+      <topic>Image classification</topic>
+   </subject>
+   <subject>
+      <topic>Plant classification</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107478</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107478</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107478</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00759-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-12"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007599/S2352340921007599.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of Stagnant Water and Wet Surface Label Images for Detection</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Sonali</namePart>
+      <namePart type="family">Bhutad</namePart>
+      <displayForm>Bhutad, Sonali</displayForm>
+      <affiliation>Vishwakarma University, Pune, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kailas</namePart>
+      <namePart type="family">Patil</namePart>
+      <displayForm>Patil, Kailas</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Clean water is one of the essential things in life. The running water in natural forms is considered as clean water. To avoid exposure to countless diseases, it is imperative to separate stagnant water from clean water. Thus the main objective of the proposed paper is to create an image dataset of stagnant water and wet surface to detect stagnant water. Accordingly, we considered stagnant water images in different forms and sizes to construct the dataset. In addition to that, brown and black earth surface is considered for the wet surface detection. The dataset consists of 1976 labeled images captured from various angles with annotated files. The dataset images are labelled for two classes, namely water and wet surface. This dataset is highly useful for deep learning experts working in the field of disease control management and post-rainfall earth surface monitoring. </abstract>
+   <subject>
+      <topic>Stagnant Water</topic>
+   </subject>
+   <subject>
+      <topic>Wet Surface</topic>
+   </subject>
+   <subject>
+      <topic>Water Sanitation</topic>
+   </subject>
+   <subject>
+      <topic>Potential Mosquito Breeding Site Detection</topic>
+   </subject>
+   <subject>
+      <topic>object detection</topic>
+   </subject>
+   <subject>
+      <topic>Computer Vision</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107752</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107752</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107752</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01027-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-22"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010271/S2352340921010271.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

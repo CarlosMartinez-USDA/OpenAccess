@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on roof renovation and photovoltaic energy production including energy storage in existing residential buildings</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Delia</namePart>
+      <namePart type="family">D'Agostino</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2154-7422</nameIdentifier>
+      <displayForm>D'Agostino, Delia</displayForm>
+      <affiliation>European Commission, Joint Research Centre (JRC), Ispra (VA), Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Danny</namePart>
+      <namePart type="family">Parker</namePart>
+      <displayForm>Parker, Danny</displayForm>
+      <affiliation>Florida Solar Energy Center, University of Central Florida, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Paco</namePart>
+      <namePart type="family">Melià</namePart>
+      <displayForm>Melià, Paco</displayForm>
+      <affiliation>Politecnico di Milano, Dipartimento di Elettronica, Informazione e Bioingegneria, Milan, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Giovanni</namePart>
+      <namePart type="family">Dotelli</namePart>
+      <displayForm>Dotelli, Giovanni</displayForm>
+      <affiliation>Politecnico di Milano, Department of Chemistry, Materials and Chemical Engineering, Milan, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This data article refers to the paper "Optimizing photovoltaic electric generation and roof insulation in existing residential buildings” [1]. The reported data deal with roof retrofit in different types of existing residential buildings (single-family, multi-family and apartment complex) located in Milan (Northern Italy). The study focus on the optimization of envelope insulation and photovoltaic (PV) energy production associated with different building geometries, initial insulation level, roof constructions, and materials. The data linked within this article relate to the modelled building energy consumption, renewable production, potential energy savings, and costs. Data refer to two main scenarios: refurbishment (roof in need of replacement and insulation) and re-roofing (energy intervention for roof improvement). Data allow to visualize energy consumption before and after the optimization, selected insulation level and material, costs and PV renewable production (with and without energy storage). The reduction of energy consumption can be visualized for each building type and scenario. Further data is available on CO₂ emissions, envelope, materials, and systems. </abstract>
+   <subject>
+      <topic>Roof insulation</topic>
+   </subject>
+   <subject>
+      <topic>Energy efficiency</topic>
+   </subject>
+   <subject>
+      <topic>PV systems</topic>
+   </subject>
+   <subject>
+      <topic>Residential building retrofit</topic>
+   </subject>
+   <subject>
+      <topic>Building energy simulations</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>41</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">April 2022</text>
+         <text type="year">2022</text>
+         <text type="month">April</text>
+         <extent unit="pages">
+            <start>107874</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107874</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107874</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00086-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-23"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/123176916641762791-00001/2352-3409/S2352340922X00024/S2352340922000865/S2352340922000865.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

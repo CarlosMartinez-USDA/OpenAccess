@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107621">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data set on work routine management among academic staff in selected Nigerian University: The eustress perspective</dct:title>
+         <dct:creator>Adeshola Peter</dct:creator>
+         <dct:creator>Anthonia Adeniji</dct:creator>
+         <dct:creator>Kehinde Oladele</dct:creator>
+         <dct:creator>Fred Peter</dct:creator>
+         <dct:creator>Henry Inegbedion</dct:creator>
+         <dct:creator>Ademola Sajuyigbe</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Academic</rdf:li>
+               <rdf:li>Cognitive appraisal</rdf:li>
+               <rdf:li>Demand management</rdf:li>
+               <rdf:li>Eustress</rdf:li>
+               <rdf:li>Performance</rdf:li>
+               <rdf:li>Nigeria</rdf:li>
+               <rdf:li>Strategy</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107621</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107621</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107621</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107621</dct:identifier>
+         <bam:articleNumber>107621</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-19T20:41:17Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107621</ja:aid>
+         <ce:article-number>107621</ce:article-number>
+         <ce:pii>S2352-3409(21)00896-9</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107621</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data set on work routine management among academic staff in selected Nigerian University: The eustress perspective</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008969-543b9667dbbe792b8d7bb31f097b9945"
+                       orcid="0000-0002-6604-5178">
+               <ce:given-name>Adeshola</ce:given-name>
+               <ce:surname>Peter</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:Peter.adeshola@lmu.edu.ng">Peter.adeshola@lmu.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008969-18b01ecfaaecc5c64c1f9fd3b1651d52">
+               <ce:given-name>Anthonia</ce:given-name>
+               <ce:surname>Adeniji</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:Anthonia.adeniji@covenantuniversity.edu.ng">Anthonia.adeniji@covenantuniversity.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008969-34894ef09226b9ae5962f0e45bc0e354">
+               <ce:given-name>Kehinde</ce:given-name>
+               <ce:surname>Oladele</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0003"
+                             type="email"
+                             xlink:href="mailto:Kehinde.oladele@covenantuniversity.edu.ng">Kehinde.oladele@covenantuniversity.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008969-090adebace9441e7e9ad225b97e006e2">
+               <ce:given-name>Fred</ce:given-name>
+               <ce:surname>Peter</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0004" type="email" xlink:href="mailto:peter.fred@lmu.edu.ng">peter.fred@lmu.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008969-74bd1199bcb4fda33d5caebc6be13993"
+                       orcid="0000-0003-1941-0715">
+               <ce:given-name>Henry</ce:given-name>
+               <ce:surname>Inegbedion</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0005"
+                             type="email"
+                             xlink:href="mailto:Inegbedion.henry@lmu.edu.ng">Inegbedion.henry@lmu.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008969-f598f2c3087d275107e8e2a3c068e910">
+               <ce:given-name>Ademola</ce:given-name>
+               <ce:surname>Sajuyigbe</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0006"
+                             type="email"
+                             xlink:href="mailto:sajuyigbe.ademola@lmu.edu.ng">sajuyigbe.ademola@lmu.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008969-7ed7480b1b8a6fe1203df9a4bd905457">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Landmark University, Omu Aran, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Landmark University</sa:organization>
+                  <sa:city>Omu Aran</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aLandmark University, Omu Aran, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008969-a16477bbd4ce262cb057eb54d512e5df">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Covenant University, Ota, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Covenant University</sa:organization>
+                  <sa:city>Ota</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bCovenant University, Ota, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="24" month="9" year="2021"/>
+         <ce:date-revised day="17" month="11" year="2021"/>
+         <ce:date-accepted day="18" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">Academics undergo stress, which negatively affects their performance and management does not seem to provide adequate organizational support for people suffering from occupational stress. This data captures eustress among university academic staff and coping strategies to improve performance. Previous studies on stress among academics focused on their experience of distress, with little attempt to explore eustress. particularly in the Nigerian context. A mixed method approach was adopted to elicit information from the sampled 444 respondents and twelve in-depth interviews were also conducted. Descriptive and inferential research methods were used for the analysis. The quantitative data were analyzed using Partial Least Square-Structural Equation Modelling (PLS-SEM), while the qualitative data were subjected to manual thematic analysis.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Academic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Cognitive appraisal</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Demand management</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Eustress</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Performance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Nigeria</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Strategy</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

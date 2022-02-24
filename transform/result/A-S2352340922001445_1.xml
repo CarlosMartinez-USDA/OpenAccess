@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107932">
+         <dct:format>application/xml</dct:format>
+         <dct:title>GLOBALINTO Input-Output Intangibles Database: Industry-level data on intangibles for the EU-27 and the UK.</dct:title>
+         <dct:creator>Petros Dimas</dct:creator>
+         <dct:creator>Dimitrios Stamopoulos</dct:creator>
+         <dct:creator>Aggelos Tsakanikas</dct:creator>
+         <dct:creator>Michail Vasileiadis</dct:creator>
+         <dct:description>Data in Brief, Journal Pre-proof. doi:10.1016/j.dib.2022.107932</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107932</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107932</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107932</dct:identifier>
+         <bam:articleNumber>107932</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-02-04T08:07:12Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107932</ja:aid>
+         <ce:article-number>107932</ce:article-number>
+         <ce:pii>S2352-3409(22)00144-5</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107932</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">GLOBALINTO Input-Output Intangibles Database: Industry-level data on intangibles for the EU-27 and the UK.</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922001445-0ce0bd3e48621c385d8bb8dc4580c449"
+                       orcid="0000-0001-5408-229X">
+               <ce:given-name>Petros</ce:given-name>
+               <ce:surname>Dimas</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:petrdimas@chemeng.ntua.gr">petrdimas@chemeng.ntua.gr</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922001445-8100e2c88c6ffbcab87dc19edc2ee68f"
+                       orcid="0000-0003-4954-0465">
+               <ce:given-name>Dimitrios</ce:given-name>
+               <ce:surname>Stamopoulos</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922001445-e95f0bd77ea54ce9d95a21e904bb1b10"
+                       orcid="0000-0002-9734-3354">
+               <ce:given-name>Aggelos</ce:given-name>
+               <ce:surname>Tsakanikas</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922001445-18ba9e4c3aceea7adcdf39adeb2a189c"
+                       orcid="0000-0002-0570-8863">
+               <ce:given-name>Michail</ce:given-name>
+               <ce:surname>Vasileiadis</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922001445-b5cb7cfa4bea24c68e66bd8b22cb0c15">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Laboratory of Industrial and Energy Economics, National Technical University of Athens, Greece</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Industrial and Energy Economics</sa:organization>
+                  <sa:organization>National Technical University of Athens</sa:organization>
+                  <sa:country>Greece</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aLaboratory of Industrial and Energy Economics, National Technical University of Athens, Greece</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922001445-9f20c5ac45fc4498af9a7253146664d2">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Foundation for Economic and Industrial Research, Athens, Greece</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Foundation for Economic and Industrial Research</sa:organization>
+                  <sa:city>Athens</sa:city>
+                  <sa:country>Greece</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bFoundation for Economic and Industrial Research, Athens, Greece</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author's email address and Twitter handle.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="13" month="1" year="2022"/>
+         <ce:date-accepted day="2" month="2" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">This paper presents the GLOBALINTO Input-Output Intangibles Database, that was constructed in the context of the Horizon2020 project ‘GLOBALINTO: Capturing the value of intangible assets in micro data to promote the EU's Growth and Competitiveness’. The database is formulated under an input-output framework and treats intangibles as producer services that derive from certain knowledge producing sectors in the economy (namely J62-J63 – Computer programming, consultancy, and related activities; Information service activities, M72 – Scientific research and development, M73 – Advertising and market research, and N – Administrative and support service activities) and embeds them withing the context of global value chains (GVCs) as traded knowledge intermediates. Data include intangibles related variables for 56 2-digit NACE Rev. 2/ ISIC Rev. 4 sectors from the EU-27 and the UK and are complemented with export variables and R&amp;D related statistics from Eurostat for the period 2000-2014. The data have been used for the research article ‘Intangibles, innovation, and sector specialization in global value chains: A case study on the EU's and the UK's manufacturing industries’ [1] .</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+      </ja:head>
+   </ja:article>
+</doc:document>

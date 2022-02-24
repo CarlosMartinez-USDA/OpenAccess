@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Fracture resistance dataset of composites under mixed-mode non-proportional loading</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Stergios</namePart>
+      <namePart type="family">Goutianos</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6015-5416</nameIdentifier>
+      <displayForm>Goutianos, Stergios</displayForm>
+      <affiliation>Department of Manufacturing and Civil Engineering, Norwegian University of Science and Technology, Teknologivegen 22, Gjø vik 2815, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Cohesive zone modelling is one of the main tools to simulate fracture of materials and structures. As a result a number of cohesive laws are being developed continuously. In most cases, due to experimental challenges, the response under mixed-mode fracture is assumed based on various models and it is unclear if fracture is path independent or not. In the co-submitted publication (Goutianos, 2021) it is shown, based on mixed mode fracture experiments under non-proportional loading, that for unidirectional composites path independence is to a large extent a reasonable assumption. The datasets of this publication are presented here with the aim to provide a set of experimental data, mixed-mode fracture under non-proportional loading, for testing the predictive capabilities of developed mixed-mode cohesive laws. The datasets include the raw mechanical data (force and end-opening displacement), analysed data (fracture resistance from the raw mechanical data), video recordings of the experiments and data from acoustic emission sensors. </abstract>
+   <subject>
+      <topic>Mixed mode fracture</topic>
+   </subject>
+   <subject>
+      <topic>Path-independent fracture</topic>
+   </subject>
+   <subject>
+      <topic>Non-proportional loading</topic>
+   </subject>
+   <subject>
+      <topic>Cohesive laws</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107668</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107668</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107668</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00943-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-01"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009434/S2352340921009434.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

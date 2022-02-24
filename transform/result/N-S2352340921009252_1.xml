@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Palynological data for the Late Glacial and Holocene (14.5–0 ka BP) from Füramoos, Southern Germany</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Oliver A.</namePart>
+      <namePart type="family">Kern</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9959-3509</nameIdentifier>
+      <displayForm>Kern, Oliver A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andreas</namePart>
+      <namePart type="family">Koutsodendris</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4236-7508</nameIdentifier>
+      <displayForm>Koutsodendris, Andreas</displayForm>
+      <affiliation>Institute of Earth Sciences, Heidelberg University, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jörg</namePart>
+      <namePart type="family">Pross</namePart>
+      <displayForm>Pross, Jörg</displayForm>
+      <affiliation>Institute of Earth Sciences, Heidelberg University, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We here present high-resolution palynological data from the Füramoos peat bog, located in the alpine foreland of Southern Germany. The data represent raw pollen counts of major arboreal pollen as well as agricultural indicator taxa for the Late Glacial and Holocene (14.5 ka BP to present) at Füramoos with an average temporal resolution of 100 years (50 years during critical intervals). The data are also provided as percentages, which are calculated based on the total sum of pollen grains, excluding pollen grains of sedges (Cyperaceae) and strictly aquatic taxa. The data yield insight into the vegetation dynamics in Central Europe in response to climatic and anthropogenic forcing, which are an integral part of the original research article (Kern et al., 2021). Considering its high temporal resolution and the robust age-depth model, the dataset is ideally suited to be included in regional syntheses of vegetation dynamics in Central Europe from the Late Glacial onwards. In addition to the data, we provide a detailed description of the Füramoos site and detail the palynological processing and analysing techniques used. </abstract>
+   <subject>
+      <topic>Holocene and late glacial</topic>
+   </subject>
+   <subject>
+      <topic>Vegetation</topic>
+   </subject>
+   <subject>
+      <topic>Paleoclimate</topic>
+   </subject>
+   <subject>
+      <topic>Paleoenvironment</topic>
+   </subject>
+   <subject>
+      <topic>Human impact</topic>
+   </subject>
+   <subject>
+      <topic>Anthropocene</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107650</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107650</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107650</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00925-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-25"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009252/S2352340921009252.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

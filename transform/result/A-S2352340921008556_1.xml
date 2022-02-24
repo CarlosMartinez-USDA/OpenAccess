@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107580">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset on pore water composition and grain size properties of bottom sediments and subsea permafrost from the Buor-Khaya Bay (Laptev Sea)</dct:title>
+         <dct:creator>Alexander S. Ulyantsev</dct:creator>
+         <dct:creator>Svetlana Yu. Bratskaya</dct:creator>
+         <dct:creator>Natalya V. Polyakova</dct:creator>
+         <dct:creator>Ivan S. Trukhin</dct:creator>
+         <dct:creator>Yulia A. Parotkina</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Arctic</rdf:li>
+               <rdf:li>Coastal zone</rdf:li>
+               <rdf:li>Bottom sediments</rdf:li>
+               <rdf:li>Subsea permafrost</rdf:li>
+               <rdf:li>Grain size</rdf:li>
+               <rdf:li>Pore water</rdf:li>
+               <rdf:li>Major ions</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107580</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107580</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107580</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107580</dct:identifier>
+         <bam:articleNumber>107580</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-11T14:33:04Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107580</ja:aid>
+         <ce:article-number>107580</ce:article-number>
+         <ce:pii>S2352-3409(21)00855-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107580</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset on pore water composition and grain size properties of bottom sediments and subsea permafrost from the Buor-Khaya Bay (Laptev Sea)</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008556-06891a3017025589849fa12141ad2585"
+                       orcid="0000-0003-2230-1069">
+               <ce:given-name>Alexander S.</ce:given-name>
+               <ce:surname>Ulyantsev</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:uliantsev.as@ocean.ru">uliantsev.as@ocean.ru</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008556-774b1d3043603d05df154ecac7a5b68b">
+               <ce:given-name>Svetlana Yu.</ce:given-name>
+               <ce:surname>Bratskaya</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008556-333c7e99f214cbb4d3bbf87432432125"
+                       orcid="0000-0002-6596-9205">
+               <ce:given-name>Natalya V.</ce:given-name>
+               <ce:surname>Polyakova</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008556-38022b82e5ade08dd32caaf905230495">
+               <ce:given-name>Ivan S.</ce:given-name>
+               <ce:surname>Trukhin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008556-91f365a854f3bda317a9a8b3379ceee1"
+                       orcid="0000-0001-7385-0207">
+               <ce:given-name>Yulia A.</ce:given-name>
+               <ce:surname>Parotkina</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008556-61bcc7bd07a0ee2d3f99762442fed9e2">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Shirshov Institute of Oceanology, Russian Academy of Sciences, Moscow 117997, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Shirshov Institute of Oceanology</sa:organization>
+                  <sa:organization>Russian Academy of Sciences</sa:organization>
+                  <sa:state>Moscow</sa:state>
+                  <sa:postal-code>117997</sa:postal-code>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aShirshov Institute of Oceanology, Russian Academy of Sciences, Moscow 117997, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008556-59c8af96314d3441b479c5eb6441ea65">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Institute of Chemistry, Far Eastern Branch of the Russian Academy of Sciences, Vladivostok 690022, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Chemistry</sa:organization>
+                  <sa:organization>Far Eastern Branch of the Russian Academy of Sciences</sa:organization>
+                  <sa:city>Vladivostok</sa:city>
+                  <sa:postal-code>690022</sa:postal-code>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bInstitute of Chemistry, Far Eastern Branch of the Russian Academy of Sciences, Vladivostok 690022, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="18" month="8" year="2021"/>
+         <ce:date-revised day="9" month="11" year="2021"/>
+         <ce:date-accepted day="10" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">The article presents a dataset on ionic composition of pore water and grain size properties of 105 samples of bottom sediments and subsea permafrost from three sediment cores obtained during polar expeditions in the Buor-Khaya Bay in 2014-2015. Collection sites are located southeast of the Lena Delta near the Bykovsky Peninsula at the Buor-Khaya Bay. In this data article, the concentration of sodium, potassium, calcium, and magnesium cations, chlorides and sulphates in water extracts from sediments, as well as grain size characteristics, are presented. Based on these measurements a difference in salinisation dynamics of thawed strata within the Buor-Khaya Bay is shown.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Arctic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002a">
+               <ce:text id="cetext0003a">Coastal zone</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002b">
+               <ce:text id="cetext0003b">Bottom sediments</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002c">
+               <ce:text id="cetext0003c">Subsea permafrost</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002d">
+               <ce:text id="cetext0003d">Grain size</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002e">
+               <ce:text id="cetext0003e">Pore water</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002f">
+               <ce:text id="cetext0003f">Major ions</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

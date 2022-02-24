@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.cris.2021.100023">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Half a century of thermal tolerance studies in springtails (Collembola): A review of metrics, spatial and temporal trends</dct:title>
+         <dct:creator>Pablo Escribano-Álvarez</dct:creator>
+         <dct:creator>Luis R. Pertierra</dct:creator>
+         <dct:creator>Brezo Martínez</dct:creator>
+         <dct:creator>Steven L. Chown</dct:creator>
+         <dct:creator>Miguel Á. Olalla-Tárraga</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Collembola</rdf:li>
+               <rdf:li>thermal tolerance</rdf:li>
+               <rdf:li>critical thermal limits</rdf:li>
+               <rdf:li>supercooling point</rdf:li>
+               <rdf:li>lethal temperature</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Current Research in Insect Science 2 (2022). doi:10.1016/j.cris.2021.100023</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Current Research in Insect Science</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2666-5158</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:coverDisplayDate>2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.cris.2021.100023</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.cris.2021.100023</prism:url>
+         <dct:identifier>doi:10.1016/j.cris.2021.100023</dct:identifier>
+         <bam:articleNumber>100023</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-23T15:33:32Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>CRIS</ja:jid>
+         <ja:aid>100023</ja:aid>
+         <ce:article-number>100023</ce:article-number>
+         <ce:pii>S2666-5158(21)00015-9</ce:pii>
+         <ce:doi>10.1016/j.cris.2021.100023</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Half a century of thermal tolerance studies in springtails (Collembola): A review of metrics, spatial and temporal trends</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2666515821000159-1057693af46a663beb43635c2c90768c"
+                       orcid="0000-0002-6095-5816">
+               <ce:given-name>Pablo</ce:given-name>
+               <ce:surname>Escribano-Álvarez</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:pablo.escribano@urjc.es">pablo.escribano@urjc.es</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2666515821000159-98f7bafd6e3516bbe61a08817336b09f"
+                       orcid="0000-0002-2232-428X">
+               <ce:given-name>Luis R.</ce:given-name>
+               <ce:surname>Pertierra</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2666515821000159-89cb94fdbff3116c50090976cbfb3c97"
+                       orcid="0000-0002-7501-7726">
+               <ce:given-name>Brezo</ce:given-name>
+               <ce:surname>Martínez</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2666515821000159-a981eabc22287cf31520a89e59236f2e"
+                       orcid="0000-0001-6069-5105">
+               <ce:given-name>Steven L.</ce:given-name>
+               <ce:surname>Chown</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2666515821000159-f987cbde675b17357110ba91d691c93e">
+               <ce:given-name>Miguel Á.</ce:given-name>
+               <ce:surname>Olalla-Tárraga</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2666515821000159-8ff1d8357e2dc98d86e0f28db58349d4">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">Dpto. Biología, Geología, Física y Química Inorgánica, Universidad Rey Juan Carlos, 28933, Móstoles, Spain</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Dpto. Biología</sa:organization>
+                  <sa:organization>Geología</sa:organization>
+                  <sa:organization>Física y Química Inorgánica</sa:organization>
+                  <sa:organization>Universidad Rey Juan Carlos</sa:organization>
+                  <sa:city>Móstoles</sa:city>
+                  <sa:postal-code>28933</sa:postal-code>
+                  <sa:country>Spain</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1Dpto. Biología, Geología, Física y Química Inorgánica, Universidad Rey Juan Carlos, 28933, Móstoles, Spain</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2666515821000159-50ca8dcdfa07e5557b4dd0a0417cbffb">
+               <ce:label>2</ce:label>
+               <ce:textfn id="cetextfn0002">Securing Antarctica's Environmental Future, School of Biological Sciences, Monash University, Melbourne, VIC, 3800, Australia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Securing Antarctica's Environmental Future</sa:organization>
+                  <sa:organization>School of Biological Sciences</sa:organization>
+                  <sa:organization>Monash University</sa:organization>
+                  <sa:state>MelbourneVIC</sa:state>
+                  <sa:postal-code>3800</sa:postal-code>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2Securing Antarctica's Environmental Future, School of Biological Sciences, Monash University, Melbourne, VIC, 3800, Australia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="19" month="7" year="2021"/>
+         <ce:date-revised day="17" month="11" year="2021"/>
+         <ce:date-accepted day="23" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Metrics used in thermal tolerance studies in Collembola have diversified over time</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Cold tolerance has been assessed more often than heat tolerance</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Fewer data exist for tropical regions, especially for euedaphic and epedaphic organisms</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Thermal tolerances in Neanuridae are not as well-studied as in the other families</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara006" view="all">Global changes in soil surface temperatures are altering the abundances and distribution ranges of invertebrate species worldwide, including effects on soil microarthropods such as springtails (Collembola), which are vital for maintaining soil health and providing ecosystem services. Studies of thermal tolerance limits in soil invertebrates have the potential to provide information on demographic responses to climate change and guide assessments of possible impacts on the structure and functioning of ecosystems. Here, we review the state of knowledge of thermal tolerance limits in Collembola. Thermal tolerance metrics have diversified over time, which should be taken into account when conducting large-scale comparative studies. A temporal trend shows that the estimation of ‘Critical Thermal Limits’ (CTL) is becoming more common than investigations of ‘Supercooling Point’ (SCP), despite the latter being the most widely used metric. Indeed, most studies (66%) in Collembola have focused on cold tolerance; fewer have assessed heat tolerance. The majority of thermal tolerance data are from temperate and polar regions, with fewer assessments from tropical and subtropical latitudes. While the hemiedaphic life form represents the majority of records at low latitudes, euedaphic and epedaphic groups remain largely unsampled in these regions compared to the situation in temperate and high latitude regions, where sampling records show a more balanced distribution among the different life forms. Most CTL data are obtained during the warmest period of the year, whereas SCP and ‘Lethal Temperature’ (LT) show more variation in terms of the season when the data were collected. We conclude that more attention should be given to understudied zoogeographical regions across the tropics, as well as certain less-studied clades such as the family Neanuridae, to identify the role of thermal tolerance limits in the redistribution of species under changing climates.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara007" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0004">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Collembola</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">thermal tolerance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">critical thermal limits</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">supercooling point</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">lethal temperature</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

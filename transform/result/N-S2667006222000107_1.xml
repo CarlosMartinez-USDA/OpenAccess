@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Mid-infrared spectroscopy for accurate measurement of an extensive set of soil properties for assessing soil functions</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Wartini</namePart>
+      <namePart type="family">Ng</namePart>
+      <displayForm>Ng, Wartini</displayForm>
+      <affiliation>School of Life and Environmental Sciences &amp; Sydney Institute of Agriculture, The University of Sydney, NSW, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Budiman</namePart>
+      <namePart type="family">Minasny</namePart>
+      <displayForm>Minasny, Budiman</displayForm>
+      <affiliation>School of Life and Environmental Sciences &amp; Sydney Institute of Agriculture, The University of Sydney, NSW, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sang Ho</namePart>
+      <namePart type="family">Jeon</namePart>
+      <displayForm>Jeon, Sang Ho</displayForm>
+      <affiliation>National Institute of Agricultural Sciences, Rural Development Administration, Wanju 54875, Republic of Korea</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alex</namePart>
+      <namePart type="family">McBratney</namePart>
+      <displayForm>McBratney, Alex</displayForm>
+      <affiliation>School of Life and Environmental Sciences &amp; Sydney Institute of Agriculture, The University of Sydney, NSW, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Quantitative assessment of soil functions requires the characterization of soil capability and condition. Mid-infrared (MIR) spectroscopy has been suggested as a viable alternative to the wet chemistry method. However, the extensive set of soil properties that can be well predicted have yet to be explored. The USDA MIR spectral library contains approximately 45,000 samples with more than 119 soil properties. This unique dataset allows us to establish which soil properties that can be accurately measured. Memory-based learning (MBL) algorithm achieved higher accuracy than the Cubist. The prediction accuracies of different properties were then categorized further into four classes (A, B, C, and D) based on four accuracy metrics, namely coefficient of determination (R²), Lin's concordance correlation coefficient (LCCC), ratio of performance to the interquartile range (RPIQ), and standardized bias (Stb). We found that a single MIR spectrum can infer 50 soil properties with high accuracy (A or B category), and 44 properties can be estimated approximately (C category). These properties can then be used to evaluate a range of soil functions, including food production, carbon storage, water storage, nutrient cycling, and habitat function. </abstract>
+   <subject>
+      <topic>Mid-infrared spectroscopy</topic>
+   </subject>
+   <subject>
+      <topic>Soil spectral library</topic>
+   </subject>
+   <subject>
+      <topic>Chemometrics</topic>
+   </subject>
+   <subject>
+      <topic>Cubist</topic>
+   </subject>
+   <subject>
+      <topic>Memory-based learning</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Soil Security</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Ltd</publisher>
+      </originInfo>
+      <identifier type="issn">2667-0062</identifier>
+      <part>
+         <detail type="volume">
+            <number>6</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">March 2022</text>
+         <text type="year">2022</text>
+         <text type="month">March</text>
+         <extent unit="pages">
+            <start>100043</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.soisec.2022.100043</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.soisec.2022.100043</url>
+   </location>
+   <identifier type="pii">S2667-0062(22)00010-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2667-0062/S2667006221X00068/S2667006222000107/S2667006222000107.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

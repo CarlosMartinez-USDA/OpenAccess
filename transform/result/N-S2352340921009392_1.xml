@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>An in-silico benchmark for the tricuspid heart valve – Geometry, finite element mesh, Abaqus simulation, and result data set</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Devin W.</namePart>
+      <namePart type="family">Laurence</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9681-4708</nameIdentifier>
+      <displayForm>Laurence, Devin W.</displayForm>
+      <affiliation>School of Aerospace and Mechanical Engineering, The University of Oklahoma, 865 Asp Ave., Felgar Hall 212, Norman, OK 73019, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Chung-Hao</namePart>
+      <namePart type="family">Lee</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8019-3329</nameIdentifier>
+      <displayForm>Lee, Chung-Hao</displayForm>
+      <affiliation>School of Aerospace and Mechanical Engineering, The University of Oklahoma, 865 Asp Ave., Felgar Hall 212, Norman, OK 73019, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Emily L.</namePart>
+      <namePart type="family">Johnson</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2657-9906</nameIdentifier>
+      <displayForm>Johnson, Emily L.</displayForm>
+      <affiliation>Department of Aerospace and Mechanical Engineering, University of Notre Dame, Notre Dame, IN 46556, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ming-Chen</namePart>
+      <namePart type="family">Hsu</namePart>
+      <displayForm>Hsu, Ming-Chen</displayForm>
+      <affiliation>Department of Mechanical Engineering, Iowa State University, Ames, IA 50011, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article provides Abaqus input files and user subroutines for performing finite element simulations of the tricuspid heart valve with an idealized geometry. Additional post-processing steps to obtain a ParaView visualization file (*.vtk) of the deformed geometry are also provided to allow the readers to use the included ParaView state file (*.pvsm) for customizable visualization and evaluation of the simulation results. We expect this first-of-its-kind in-silico benchmark dataset will facilitate user-friendly simulations considering material nonlinearity, leaflet-to-leaflet contact, and large deformations. Additionally, the information included herein can be used to rapidly evaluate other novel in-silico approaches developed for simulating cardiac valve function. The benchmark can be expanded to consider more complex features of the tricuspid valve function, such as the dynamic annulus motion or the time-varying transvalvular pressure. Interested readers are referred to the companion article (Johnson et al., 2021) for an example application of this in-silico tool for isogeometric analysis of tricuspid valves. </abstract>
+   <subject>
+      <topic>Tricuspid valve</topic>
+   </subject>
+   <subject>
+      <topic>Finite element simulations</topic>
+   </subject>
+   <subject>
+      <topic>In-Silico benchmark</topic>
+   </subject>
+   <subject>
+      <topic>Leaflet-to-leaflet contact</topic>
+   </subject>
+   <subject>
+      <topic>Material nonlinearity</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107664</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107664</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107664</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00939-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-30"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009392/S2352340921009392.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

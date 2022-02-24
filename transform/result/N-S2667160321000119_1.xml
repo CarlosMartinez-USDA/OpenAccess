@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Modeling of Ca2+ transients initiated by GPCR agonists in mesenchymal stromal cells</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Nikolai P.</namePart>
+      <namePart type="family">Kaimachnikov</namePart>
+      <displayForm>Kaimachnikov, Nikolai P.</displayForm>
+      <affiliation>Institute of Cell Biophysics, Pushchino Scientific Center for Biological Research of the Russian Academy of Sciences, 3 Institutskaya Street, Pushchino, Moscow Region, 142290, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Polina D.</namePart>
+      <namePart type="family">Kotova</namePart>
+      <displayForm>Kotova, Polina D.</displayForm>
+      <affiliation>Institute of Cell Biophysics, Pushchino Scientific Center for Biological Research of the Russian Academy of Sciences, 3 Institutskaya Street, Pushchino, Moscow Region, 142290, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ekaterina N.</namePart>
+      <namePart type="family">Kochkina</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4587-5930</nameIdentifier>
+      <displayForm>Kochkina, Ekaterina N.</displayForm>
+      <affiliation>Institute of Cell Biophysics, Pushchino Scientific Center for Biological Research of the Russian Academy of Sciences, 3 Institutskaya Street, Pushchino, Moscow Region, 142290, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Olga A.</namePart>
+      <namePart type="family">Rogachevskaja</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9204-2387</nameIdentifier>
+      <displayForm>Rogachevskaja, Olga A.</displayForm>
+      <affiliation>Institute of Cell Biophysics, Pushchino Scientific Center for Biological Research of the Russian Academy of Sciences, 3 Institutskaya Street, Pushchino, Moscow Region, 142290, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander A.</namePart>
+      <namePart type="family">Khokhlov</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9027-9898</nameIdentifier>
+      <displayForm>Khokhlov, Alexander A.</displayForm>
+      <affiliation>Institute of Cell Biophysics, Pushchino Scientific Center for Biological Research of the Russian Academy of Sciences, 3 Institutskaya Street, Pushchino, Moscow Region, 142290, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Marina F.</namePart>
+      <namePart type="family">Bystrova</namePart>
+      <displayForm>Bystrova, Marina F.</displayForm>
+      <affiliation>Institute of Cell Biophysics, Pushchino Scientific Center for Biological Research of the Russian Academy of Sciences, 3 Institutskaya Street, Pushchino, Moscow Region, 142290, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Stanislav S.</namePart>
+      <namePart type="family">Kolesnikov</namePart>
+      <displayForm>Kolesnikov, Stanislav S.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The integrative study that included experimentation and mathematical modeling was carried out to analyze dynamic aspects of transient Ca²⁺ signaling induced by brief pulses of GPCR agonists in mesenchymal stromal cells from the human adipose tissue (AD-MSCs). The experimental findings argued for IP₃/Ca²⁺-regulated Ca²⁺ release via IP₃ receptors (IP₃Rs) as a key mechanism mediating agonist-dependent Ca²⁺ transients. The consistent signaling circuit was proposed to formalize coupling of agonist binding to Ca²⁺ mobilization for mathematical modeling. The model properly simulated the basic phenomenology of agonist transduction in AD-MSCs, which mostly produced single Ca²⁺ spikes upon brief stimulation. The spike-like responses were almost invariantly shaped at different agonist doses above a threshold, while response lag markedly decreased with stimulus strength. In AD-MSCs, agonists and IP₃ uncaging elicited similar Ca²⁺ transients but IP₃ pulses released Ca²⁺ without pronounced delay. This suggested that IP₃ production was rate-limiting in agonist transduction. In a subpopulation of AD-MSCs, brief agonist pulses elicited Ca²⁺ bursts crowned by damped oscillations. With properly adjusted parameters of IP₃R inhibition by cytosolic Ca²⁺, the model reproduced such oscillatory Ca²⁺ responses as well. GEM-GECO1 and R-CEPIA1er, the genetically encoded sensors of cytosolic and reticular Ca²⁺, respectively, were co-expressed in HEK-293 cells that also responded to agonists in an “all-or-nothing” manner. The experimentally observed Ca²⁺ signals triggered by ACh in both compartments were properly simulated with the suggested signaling circuit. Thus, the performed modeling of the transduction process provides sufficient theoretical basis for deeper interpretation of experimental findings on agonist-induced Ca²⁺ signaling in AD-MSCs. </abstract>
+   <subject>
+      <topic>Agonist-induced Ca2+ signaling</topic>
+   </subject>
+   <subject>
+      <topic>IP3 receptors</topic>
+   </subject>
+   <subject>
+      <topic>Ca2+-induced Ca2+ release</topic>
+   </subject>
+   <subject>
+      <topic>Mathematical modeling</topic>
+   </subject>
+   <subject>
+      <topic>Mesenchymal stromal cells</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100012</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100012</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100012</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00011-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-04-12"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S2667160321000119/S2667160321000119.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

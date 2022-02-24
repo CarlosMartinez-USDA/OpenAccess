@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107817">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Single and joint impact of type 2 diabetes and of congestive heart failure on albuminuria: Data from subgroup analysis and data on moderate albuminuria</dct:title>
+         <dct:creator>Christoph H. Saely</dct:creator>
+         <dct:creator>Maximilian Maechler</dct:creator>
+         <dct:creator>Alexander Vonbank</dct:creator>
+         <dct:creator>Lukas Sprenger</dct:creator>
+         <dct:creator>Arthur Mader</dct:creator>
+         <dct:creator>Barbara Larcher</dct:creator>
+         <dct:creator>Daniela Zanolin-Purin</dct:creator>
+         <dct:creator>Andreas Leiherer</dct:creator>
+         <dct:creator>Axel Muendlein</dct:creator>
+         <dct:creator>Heinz Drexel</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Albumin–creatinine ratio</rdf:li>
+               <rdf:li>Heart failure</rdf:li>
+               <rdf:li>Diabetes mellitus</rdf:li>
+               <rdf:li>Gender differences</rdf:li>
+               <rdf:li>Moderate albuminuria</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2022.107817</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2022.107817</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107817</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107817</dct:identifier>
+         <bam:articleNumber>107817</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-07T11:39:01Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107817</ja:aid>
+         <ce:article-number>107817</ce:article-number>
+         <ce:pii>S2352-3409(22)00029-4</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107817</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1056-8727(21)00260-9</ce:pii>
+               <ce:doi>10.1016/j.jdiacomp.2021.108046</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Single and joint impact of type 2 diabetes and of congestive heart failure on albuminuria: Data from subgroup analysis and data on moderate albuminuria</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000294-acfd91d85534220a3a49731fe0773e4d">
+               <ce:given-name>Christoph H.</ce:given-name>
+               <ce:surname>Saely</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000294-63b76bdd0e9a16be7085f588e585f3e4">
+               <ce:given-name>Maximilian</ce:given-name>
+               <ce:surname>Maechler</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000294-842ada686ca73905e2be81010939360e">
+               <ce:given-name>Alexander</ce:given-name>
+               <ce:surname>Vonbank</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922000294-4a34df441b0ac755e47981bbb49af3f6">
+               <ce:given-name>Lukas</ce:given-name>
+               <ce:surname>Sprenger</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340922000294-3e2735ab980f8507f975a7747df5b1a8">
+               <ce:given-name>Arthur</ce:given-name>
+               <ce:surname>Mader</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340922000294-c16a276469e97ee9aebf39202e9f8aa5">
+               <ce:given-name>Barbara</ce:given-name>
+               <ce:surname>Larcher</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340922000294-8b33c4fa2186e91fd0fb0289081a39c4">
+               <ce:given-name>Daniela</ce:given-name>
+               <ce:surname>Zanolin-Purin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340922000294-94761d105e1c0c6a6fccd86680124823">
+               <ce:given-name>Andreas</ce:given-name>
+               <ce:surname>Leiherer</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340922000294-2c393218cf752b902e11508d49efbd8f">
+               <ce:given-name>Axel</ce:given-name>
+               <ce:surname>Muendlein</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2352340922000294-979ff167d8d813364ca41ee5cd5ae6a0">
+               <ce:given-name>Heinz</ce:given-name>
+               <ce:surname>Drexel</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:heinz.drexel@vivit.at">heinz.drexel@vivit.at</ce:e-address>
+               <ce:e-address id="ead0001a" type="email" xlink:href="mailto:vivit@lkhf.at">vivit@lkhf.at</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000294-44b57af40b876474a1e07582cce0c663">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Vorarlberg Institute for Vascular Investigation and Treatment (VIVIT), Carinagasse 47, Feldkirch AT-6800, Austria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Vorarlberg Institute for Vascular Investigation and Treatment (VIVIT)</sa:organization>
+                  <sa:address-line>Carinagasse 47</sa:address-line>
+                  <sa:city>Feldkirch</sa:city>
+                  <sa:postal-code>AT-6800</sa:postal-code>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aVorarlberg Institute for Vascular Investigation and Treatment (VIVIT), Carinagasse 47, Feldkirch AT-6800, Austria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922000294-839b061b45e91c003b88b8e3ea8f7e58">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Private University in the Principality of Liechtenstein, Dorfstrasse 24, Triesen FL-9495, Liechtenstein</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Private University in the Principality of Liechtenstein</sa:organization>
+                  <sa:address-line>Dorfstrasse 24</sa:address-line>
+                  <sa:city>Triesen</sa:city>
+                  <sa:postal-code>FL-9495</sa:postal-code>
+                  <sa:country>Liechtenstein</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bPrivate University in the Principality of Liechtenstein, Dorfstrasse 24, Triesen FL-9495, Liechtenstein</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922000294-1d697cddf4edc0ae0b106f81096d7d0e">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Medicine I, Academic Teaching Hospital Feldkirch, Carinagasse 47, Feldkirch AT-6800, Austria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Medicine I</sa:organization>
+                  <sa:organization>Academic Teaching Hospital Feldkirch</sa:organization>
+                  <sa:address-line>Carinagasse 47</sa:address-line>
+                  <sa:city>Feldkirch</sa:city>
+                  <sa:postal-code>AT-6800</sa:postal-code>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Medicine I, Academic Teaching Hospital Feldkirch, Carinagasse 47, Feldkirch AT-6800, Austria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340922000294-d6f8d64429f8c2ca7d870ebee259d9c4">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Drexel University College of Medicine, 2900 W Queen Ln, Philadelphia, PA 19129, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Drexel University College of Medicine</sa:organization>
+                  <sa:address-line>2900 W Queen Ln</sa:address-line>
+                  <sa:city>Philadelphia</sa:city>
+                  <sa:state>PA</sa:state>
+                  <sa:postal-code>19129</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDrexel University College of Medicine, 2900 W Queen Ln, Philadelphia, PA 19129, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Vorarlberg Institute for Vascular Investigation and Treatment (VIVIT), Carinagasse 47, Feldkirch AT-6800, Austria.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Vorarlberg Institute for Vascular Investigation and Treatment (VIVIT)</sa:organization>
+                  <sa:address-line>Carinagasse 47</sa:address-line>
+                  <sa:city>Feldkirch</sa:city>
+                  <sa:postal-code>AT-6800</sa:postal-code>
+                  <sa:country>Austria</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">These author contributed equaly to this work.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="16" month="12" year="2021"/>
+         <ce:date-revised day="5" month="1" year="2022"/>
+         <ce:date-accepted day="6" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">We investigated 180 consecutive patients with congestive heart failure (CHF), of whom 83 had type 2 diabetes (T2DM) and 97 did not have diabetes as well as 223 controls without CHF, of whom 39 had T2DM and 184 did not have diabetes. Data was recorded by standardized interviews and by standardized examination protocols at our institution and were extracted from medical records. Here, we analyzed data on gender differences. Further, we examined the effect of CHF and T2DM on moderate albuminuria, i.e. on an albumin-creatinine ratio (ACR) of 30–300 mg/g. Table 1 shows baseline characteristics of our patients stratified by gender. Table 2 gives ACRs and prevalence rates of albuminuria separately for men and women.</ce:simple-para>
+               <ce:simple-para id="spara006" view="all">In logistic regression analyses adjusting for age, sex, body mass index, LDL cholesterol, history of smoking, history of hypertension, use of statins, ACE inhibitors/angiotensin II receptor blockers, aldosterone antagonists and other antihypertensive medication CHF and T2DM predicted the prevalence of albuminuria in a mutually independent manner in men (OR 4.93 [95% CI 1.76–13.85]; <ce:italic>p</ce:italic> = 0.002 and OR 2.38 [1.11–5.11]; <ce:italic>p</ce:italic> = 0.027, respectively), as well as in women (OR 5.66 [95% CI 1.76–18.20]; <ce:italic>p</ce:italic> = 0.004 and OR 3.53 [1.38–9.08]; <ce:italic>p</ce:italic> = 0.009, respectively). There was no significant interaction between gender and CHF or T2DM regarding the presence of albuminuria (<ce:italic>p</ce:italic> = 0.933 and 0.533, respectively), indicating that the association of CHF and T2DM with albuminuria did not differ significantly between men and women.</ce:simple-para>
+               <ce:simple-para id="spara007" view="all">In multivariate analysis of covariance, CHF and T2DM proved to be independent predictors of ACR in women after adjustment for age, sex, body mass index, LDL cholesterol, history of smoking, history of hypertension, use of statins, ACE inhibitors/angiotensin II receptor blockers, aldosterone antagonists and other antihypertensive medication (<ce:italic>F</ce:italic> = 5.38; <ce:italic>p</ce:italic> = 0.022 and <ce:italic>F</ce:italic> = 4.95; <ce:italic>p</ce:italic> = 0.028, respectively); for men the corresponding <ce:italic>F</ce:italic>-values were 2.70; <ce:italic>p</ce:italic> = 0.102 and 3.12; <ce:italic>p</ce:italic> = 0.079, respectively. There was no significant interaction between gender and CHF or T2DM regarding ACR (<ce:italic>p</ce:italic> = 0.464 and 0.202, respectively), indicating that the association of CHF and T2DM with the ACR did not differ significantly between men and women.</ce:simple-para>
+               <ce:simple-para id="spara008" view="all">Regarding moderate albuminuria, both CHF and T2DM predicted moderate albuminuria adjusted in a mutually independent manner after the adjustments described above, with ORs of 4.75 [95% CI 2.16–10.45]; p&lt; 0.001 and OR 2.08 [1.13–3.83]; p=0.018, respectively.</ce:simple-para>
+               <ce:simple-para id="spara009" view="all">The data set presented here could be reused with similar patient cohorts for pooled analysis.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="sectt0002a">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Albumin–creatinine ratio</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Heart failure</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Diabetes mellitus</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Gender differences</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Moderate albuminuria</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

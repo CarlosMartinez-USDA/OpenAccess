@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Experimental data on power quality assessment at point of common coupling of a steel mill to an electric power grid</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Emenike</namePart>
+      <namePart type="family">Ugwuagbo</namePart>
+      <displayForm>Ugwuagbo, Emenike</displayForm>
+      <affiliation>High Voltage Technology Centre (HIVOTEC) Nigeria, University of Lagos Campus, Akoka 101017, Lagos, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Adeola</namePart>
+      <namePart type="family">Balogun</namePart>
+      <displayForm>Balogun, Adeola</displayForm>
+      <affiliation>Department of Electrical and Electronics Engineering, Faculty of Engineering, University of Lagos, Akoka 101017, Lagos, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ayobami</namePart>
+      <namePart type="family">Olajube</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8704-445X</nameIdentifier>
+      <displayForm>Olajube, Ayobami</displayForm>
+      <affiliation>Department of Electrical and Information Engineering, College of Engineering, Covenant University, Canaan Land, km 10, Idiroko Road, Ota, Ogun, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Osita</namePart>
+      <namePart type="family">Omeje</namePart>
+      <displayForm>Omeje, Osita</displayForm>
+      <affiliation>Department of Electrical and Electronics Engineering, Faculty of Engineering, University of Lagos, Akoka 101017, Lagos, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ayokunle</namePart>
+      <namePart type="family">Awelewa</namePart>
+      <displayForm>Awelewa, Ayokunle</displayForm>
+      <affiliation>Department of Electrical and Information Engineering, College of Engineering, Covenant University, Canaan Land, km 10, Idiroko Road, Ota, Ogun, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shehu</namePart>
+      <namePart type="family">Abba-Aliyu</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6021-4666</nameIdentifier>
+      <displayForm>Abba-Aliyu, Shehu</displayForm>
+      <affiliation>Transmission Company of Nigeria (TCN), Abuja, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>With the proliferation of non-linear loads in electricity supply industry, interests in improving quality of electrical supply have increased significantly. Power quality challenges have generated disputes between customers, network operators and equipment manufacturers globally. Identification of the sources of harmonics, and the quantification of the identified variables at the points of common coupling (PCC) pose challenges in the electricity supply industry. Critical in the determination of the harmonic contributions are data for harmonic distortions in phase currents and voltages, power factor, apparent power, active power, reactive power, and frequency. The data were obtained at the PCC between 5 different arc furnace steel plant and the transmission network. The data were captured at 33kV and 132kV voltage level at the steel plant PCC using a Circuitor AR6 power analyser connected through incoming voltage transformers (VTs) and current transformers (CTs). Histograms and cumulative probability distribution plots present the harmonic contents of the data. This data can be reused for artificial intelligence and machine learning application in real-time monitoring of state of health at the PCC and design of filter networks to mitigate harmonics. </abstract>
+   <subject>
+      <topic>Power quality (PQ)</topic>
+   </subject>
+   <subject>
+      <topic>Point of common coupling (PCC)</topic>
+   </subject>
+   <subject>
+      <topic>Harmonics</topic>
+   </subject>
+   <subject>
+      <topic>Power factor (PF)</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107681</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107681</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107681</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00956-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-03"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009562/S2352340921009562.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

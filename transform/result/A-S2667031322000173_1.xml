@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2022.100231">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Exploring the antioxidant, anti-inflammatory and antiallergic potential of Brazilian propolis in monocytes</dct:title>
+         <dct:creator>Fernanda Lopes Conte</dct:creator>
+         <dct:creator>Ana Catarina Pereira</dct:creator>
+         <dct:creator>Gonçalo Brites</dct:creator>
+         <dct:creator>Isabel Ferreira</dct:creator>
+         <dct:creator>Ana Cristina Silva</dct:creator>
+         <dct:creator>Ana Isabel Sebastião</dct:creator>
+         <dct:creator>Patrícia Matos</dct:creator>
+         <dct:creator>Cláudia Pereira</dct:creator>
+         <dct:creator>Maria Teresa Batista</dct:creator>
+         <dct:creator>José Maurício Sforcin</dct:creator>
+         <dct:creator>Maria Teresa Cruz</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Propolis</rdf:li>
+               <rdf:li>Monocyte</rdf:li>
+               <rdf:li>Anti-inflammatory action</rdf:li>
+               <rdf:li>Antioxidant activity</rdf:li>
+               <rdf:li>Antiallergic action</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2022.100231</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>2</prism:number>
+         <prism:coverDisplayDate>May 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2022.100231</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2022.100231</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2022.100231</dct:identifier>
+         <bam:articleNumber>100231</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-27T21:10:29Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Brazil: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100231</ja:aid>
+         <ce:article-number>100231</ce:article-number>
+         <ce:pii>S2667-0313(22)00017-3</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2022.100231</ce:doi>
+         <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Exploring the antioxidant, anti-inflammatory and antiallergic potential of Brazilian propolis in monocytes</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031322000173-44d0cdf3b0d26026fe7dd67e47edb54e">
+               <ce:given-name>Fernanda Lopes</ce:given-name>
+               <ce:surname>Conte</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031322000173-9d7ca2fb0a2d3f3aa90309f814ac70a6">
+               <ce:given-name>Ana Catarina</ce:given-name>
+               <ce:surname>Pereira</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031322000173-af1b4966715138750d9b9a66daced005">
+               <ce:given-name>Gonçalo</ce:given-name>
+               <ce:surname>Brites</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031322000173-58da07df1e811df7bfd3dc11bf8b763e">
+               <ce:given-name>Isabel</ce:given-name>
+               <ce:surname>Ferreira</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031322000173-d5ba2c2e55d2160e7a4e0211500b6809">
+               <ce:given-name>Ana Cristina</ce:given-name>
+               <ce:surname>Silva</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031322000173-7a00cfc0e9efaa27b03f48957cd50d70">
+               <ce:given-name>Ana Isabel</ce:given-name>
+               <ce:surname>Sebastião</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667031322000173-23629e6a40113d7255c7a4a1718d1dd6">
+               <ce:given-name>Patrícia</ce:given-name>
+               <ce:surname>Matos</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667031322000173-fe2714ec80bd3e8eeea3ddc14add61a7">
+               <ce:given-name>Cláudia</ce:given-name>
+               <ce:surname>Pereira</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667031322000173-10ea74d1212a5c7fadea8c098bf7a232">
+               <ce:given-name>Maria Teresa</ce:given-name>
+               <ce:surname>Batista</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2667031322000173-5d39b755e4ac0569b11c547df4cd32b2">
+               <ce:given-name>José Maurício</ce:given-name>
+               <ce:surname>Sforcin</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:jose.m.sforcin@unesp.br">jose.m.sforcin@unesp.br</ce:e-address>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S2667031322000173-72dfd0826312ed6e3426a5dc3ea84561">
+               <ce:given-name>Maria Teresa</ce:given-name>
+               <ce:surname>Cruz</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031322000173-f374036a52bbe5a9c3fea8bfb566304d">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Institute of Biosciences, Department of Chemical and Biological Sciences, São Paulo State University (UNESP), Botucatu, SP, 18618-691, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Biosciences</sa:organization>
+                  <sa:organization>Department of Chemical and Biological Sciences</sa:organization>
+                  <sa:organization>São Paulo State University (UNESP)</sa:organization>
+                  <sa:city>Botucatu, SP</sa:city>
+                  <sa:postal-code>18618-691</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aInstitute of Biosciences, Department of Chemical and Biological Sciences, São Paulo State University (UNESP), Botucatu, SP, 18618-691, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031322000173-a6a66a5772c379391a938239e74ecb64">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Center for Neuroscience and Cell Biology (CNC), 3004-504 Coimbra, Portugal</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Center for Neuroscience and Cell Biology (CNC)</sa:organization>
+                  <sa:city>3004-504 Coimbra</sa:city>
+                  <sa:country>Portugal</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bCenter for Neuroscience and Cell Biology (CNC), 3004-504 Coimbra, Portugal</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031322000173-bd96effac2fe9db6bbd7f304ae0fb49f">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Faculty of Pharmacy, Pólo das Ciências da Saúde, University of Coimbra, Coimbra, 3000-548, Portugal</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Pharmacy, Pólo das Ciências da Saúde</sa:organization>
+                  <sa:organization>University of Coimbra</sa:organization>
+                  <sa:city>Coimbra</sa:city>
+                  <sa:postal-code>3000-548</sa:postal-code>
+                  <sa:country>Portugal</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cFaculty of Pharmacy, Pólo das Ciências da Saúde, University of Coimbra, Coimbra, 3000-548, Portugal</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031322000173-b11c8d77e4673dc7376cf93d35c69bab">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">University of Coimbra, CIEPQPF, FFUC, Pólo das Ciências da Saúde, Azinhaga de Santa Comba, 3000-548 Coimbra, Portugal</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Coimbra, CIEPQPF, FFUC, Pólo das Ciências da Saúde</sa:organization>
+                  <sa:address-line>Azinhaga de Santa Comba</sa:address-line>
+                  <sa:city>Coimbra</sa:city>
+                  <sa:postal-code>3000-548</sa:postal-code>
+                  <sa:country>Portugal</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dUniversity of Coimbra, CIEPQPF, FFUC, Pólo das Ciências da Saúde, Azinhaga de Santa Comba, 3000-548 Coimbra, Portugal</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667031322000173-0fc5a772d8ab537c1d4fcdb3ed25e0b5">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">LAQV, REQUIMTE, Faculty of Pharmacy, University of Coimbra, Azinhaga de Santa Comba, 3000-548 Coimbra, Portugal</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>LAQV, REQUIMTE, Faculty of Pharmacy</sa:organization>
+                  <sa:organization>University of Coimbra</sa:organization>
+                  <sa:address-line>Azinhaga de Santa Comba</sa:address-line>
+                  <sa:city>Coimbra</sa:city>
+                  <sa:postal-code>3000-548</sa:postal-code>
+                  <sa:country>Portugal</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eLAQV, REQUIMTE, Faculty of Pharmacy, University of Coimbra, Azinhaga de Santa Comba, 3000-548 Coimbra, Portugal</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: São Paulo State University (UNESP), Institute of Biosciences, Campus Botucatu, Brazil.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>São Paulo State University (UNESP), Institute of Biosciences, Campus Botucatu</sa:organization>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="17" month="11" year="2021"/>
+         <ce:date-revised day="18" month="1" year="2022"/>
+         <ce:date-accepted day="27" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara007" view="all">Propolis is a bee product used since ancient times due to its diverse biological applications<ce:italic>.</ce:italic> We aimed to investigate the antioxidant and anti-inflammatory action of Brazilian propolis in THP-1 cells stimulated with 1‐fluoro‐2,4‐dinitrobenzene (DNFB) or lipopolysaccharide (LPS).</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Methods</ce:section-title>
+               <ce:simple-para id="spara008" view="all">Cell viability was assessed by resazurin assay, antioxidant activity was evaluated by DPPH assay, superoxide dismutase (SOD) 1 and 2 activity was evaluated by colorimetric assay. CD86 expression was determined by flow cytometry. IL-1<ce:italic>β</ce:italic> and HMOX-1 were analysed by Western blot.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara009" view="all">Propolis did not affect cell viability and exhibited a potent antioxidant activity. Propolis alone induced SOD 1 activity. LPS stimulated SOD2, concomitantly or not with propolis. In the presence of LPS, propolis induced a higher HMOX-1 expression. Propolis inhibited CD86 expression stimulated by DNFB. LPS induced pro-IL-1<ce:italic>β</ce:italic> expression and propolis did not affect its action.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusion</ce:section-title>
+               <ce:simple-para id="spara010" view="all">Propolis exhibited an antioxidant action in a cell-free system and in a cell based-model. Propolis exerted an anti-inflammatory/antiallergic action, probably due to its antioxidant activity.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0006">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0006" view="all">
+               <ce:simple-para id="spara011" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0007">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Propolis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Monocyte</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Anti-inflammatory action</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Antioxidant activity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Antiallergic action</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

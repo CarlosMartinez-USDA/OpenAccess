@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of seized wildlife and their intended uses</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Oliver C.</namePart>
+      <namePart type="family">Stringham</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4224-7090</nameIdentifier>
+      <displayForm>Stringham, Oliver C.</displayForm>
+      <affiliation>Invasion Science &amp; Wildlife Ecology Lab, University of Adelaide, SA 5005, Australia</affiliation>
+      <affiliation>School of Mathematical Sciences, University of Adelaide, SA 5005, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Stephanie</namePart>
+      <namePart type="family">Moncayo</namePart>
+      <displayForm>Moncayo, Stephanie</displayForm>
+      <affiliation>Invasion Science &amp; Wildlife Ecology Lab, University of Adelaide, SA 5005, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Eilish</namePart>
+      <namePart type="family">Thomas</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0237-7621</nameIdentifier>
+      <displayForm>Thomas, Eilish</displayForm>
+      <affiliation>Invasion Science &amp; Wildlife Ecology Lab, University of Adelaide, SA 5005, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sarah</namePart>
+      <namePart type="family">Heinrich</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7211-1947</nameIdentifier>
+      <displayForm>Heinrich, Sarah</displayForm>
+      <affiliation>Invasion Science &amp; Wildlife Ecology Lab, University of Adelaide, SA 5005, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Adam</namePart>
+      <namePart type="family">Toomes</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4845-1073</nameIdentifier>
+      <displayForm>Toomes, Adam</displayForm>
+      <affiliation>Invasion Science &amp; Wildlife Ecology Lab, University of Adelaide, SA 5005, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jacob</namePart>
+      <namePart type="family">Maher</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8598-259X</nameIdentifier>
+      <displayForm>Maher, Jacob</displayForm>
+      <affiliation>Invasion Science &amp; Wildlife Ecology Lab, University of Adelaide, SA 5005, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Katherine G.W.</namePart>
+      <namePart type="family">Hill</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6827-6770</nameIdentifier>
+      <displayForm>Hill, Katherine G.W.</displayForm>
+      <affiliation>Invasion Science &amp; Wildlife Ecology Lab, University of Adelaide, SA 5005, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lewis</namePart>
+      <namePart type="family">Mitchell</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8191-1997</nameIdentifier>
+      <displayForm>Mitchell, Lewis</displayForm>
+      <affiliation>School of Mathematical Sciences, University of Adelaide, SA 5005, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Joshua V.</namePart>
+      <namePart type="family">Ross</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9918-8167</nameIdentifier>
+      <displayForm>Ross, Joshua V.</displayForm>
+      <affiliation>School of Mathematical Sciences, University of Adelaide, SA 5005, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Chris R.</namePart>
+      <namePart type="family">Shepherd</namePart>
+      <displayForm>Shepherd, Chris R.</displayForm>
+      <affiliation>Monitor Conservation Research Society, Big Lake Ranch, BC, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Phillip</namePart>
+      <namePart type="family">Cassey</namePart>
+      <displayForm>Cassey, Phillip</displayForm>
+      <affiliation>Invasion Science &amp; Wildlife Ecology Lab, University of Adelaide, SA 5005, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The illegal wildlife trade (IWT) threatens conservation and biosecurity efforts. The Internet has greatly facilitated the trade of wildlife, and researchers have increasingly examined the Internet to uncover illegal trade. However, most efforts to locate illegal trade on the Internet are targeted to one or few taxa or products. Large-scale efforts to find illegal wildlife on the Internet (e-commerce, social media, dark web) may be facilitated by a systematic compilation of illegally traded wildlife taxa and their uses. Here, we provide such a dataset. We used seizure records from three global wildlife trade databases to compile the identity of seized taxa along with their intended usage (i.e., use-type). Our dataset includes c. 4.9k distinct taxa representing c. 3.3k species and contains c. 11k taxa-use combinations from 110 unique use-types. Further, we acquired over 45k common names for seized taxa from over 100 languages. Our dataset can be used to conduct large-scale broad searches of the Internet to find illegally traded wildlife. Further, our dataset can be filtered for more targeted searches of specific taxa or derived products. </abstract>
+   <subject>
+      <topic>CITES</topic>
+   </subject>
+   <subject>
+      <topic>Dark web</topic>
+   </subject>
+   <subject>
+      <topic>Illegal wildlife trade</topic>
+   </subject>
+   <subject>
+      <topic>Internet</topic>
+   </subject>
+   <subject>
+      <topic>LEMIS</topic>
+   </subject>
+   <subject>
+      <topic>Social media</topic>
+   </subject>
+   <subject>
+      <topic>Wildlife products</topic>
+   </subject>
+   <subject>
+      <topic>Wildlife seizures</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107531</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107531</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107531</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00807-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-26"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008076/S2352340921008076.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

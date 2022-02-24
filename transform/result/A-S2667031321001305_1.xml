@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100148">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A versatile flavonoid Quercetin: Study of its toxicity and differential gene expression in the liver of mice</dct:title>
+         <dct:creator>Prabhat Singh</dct:creator>
+         <dct:creator>Sharad Sharma</dct:creator>
+         <dct:creator>Srikanta Kumar Rath</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Flavonoid</rdf:li>
+               <rdf:li>Quercetin</rdf:li>
+               <rdf:li>Hepatotoxicity</rdf:li>
+               <rdf:li>Oxidative stress</rdf:li>
+               <rdf:li>Differential gene expression</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100148</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100148</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100148</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100148</dct:identifier>
+         <bam:articleNumber>100148</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-27T12:02:14Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100148</ja:aid>
+         <ce:article-number>100148</ce:article-number>
+         <ce:pii>S2667-0313(21)00130-5</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100148</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">A versatile flavonoid Quercetin: Study of its toxicity and differential gene expression in the liver of mice</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001305-627392c403254ba3e0f1da809160ea8b">
+               <ce:given-name>Prabhat</ce:given-name>
+               <ce:surname>Singh</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001305-c3c5f05e79a01db5b5a787531b71e02d">
+               <ce:given-name>Sharad</ce:given-name>
+               <ce:surname>Sharma</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001305-470b0c0e6f40c9ff60d5b46d0f1e0f80">
+               <ce:given-name>Srikanta Kumar</ce:given-name>
+               <ce:surname>Rath</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:skrath@cdri.res.in">skrath@cdri.res.in</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001305-0d00562df7422c3356892cc8d6b75667">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Biological Sciences, Indian Institute of Science Education and Research (IISER) Berhampur, Odisha, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biological Sciences</sa:organization>
+                  <sa:organization>Indian Institute of Science Education and Research (IISER) Berhampur</sa:organization>
+                  <sa:state>Odisha</sa:state>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Biological Sciences, Indian Institute of Science Education and Research (IISER) Berhampur, Odisha, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001305-345048a06d2ff4b7296128771dc00926">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Division of Toxicology, CSIR- Central Drug Research Institute (CDRI), Sector 10, Jankipuram Extension, Sitapur Road, Lucknow 226031, Uttar Pradesh, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Division of Toxicology</sa:organization>
+                  <sa:organization>CSIR- Central Drug Research Institute (CDRI)</sa:organization>
+                  <sa:address-line>Sector 10, Jankipuram Extension, Sitapur Road</sa:address-line>
+                  <sa:city>Lucknow</sa:city>
+                  <sa:state>Uttar Pradesh</sa:state>
+                  <sa:postal-code>226031</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDivision of Toxicology, CSIR- Central Drug Research Institute (CDRI), Sector 10, Jankipuram Extension, Sitapur Road, Lucknow 226031, Uttar Pradesh, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara009" view="all">Flavonoid quercetin is widely found in the plant kingdom. Despite having beneficial effects, quercetin shows toxic potential and its ambiguous nature justifies further study. Effect of quercetin on the murine liver has not been studied yet and its toxicogenomic data are scarce.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Method</ce:section-title>
+               <ce:simple-para id="spara010" view="all">: In the present study, 500, 1000, 1500 and 2000 mg/kg of quercetin doses were administered to age and body weight matched swiss mice. Serum was taken to detect the hepatotoxicity biomarkers and the liver tissue was processed for histological assessment. A part of liver tissue was used to measure the oxidative stress markers and to analyze the global gene expression.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara011" view="all">Hepatotoxicity biomarkers e.g. aspartate aminotransferase (AST), alanine aminotransferase (ALT), alkaline phosphatase (ALP), and lactate dehydrogenase (LDH) were elevated in higher treatment groups of quercetin. Lipid peroxidation level (LPO), reduced glutathione content (GSH) and the expression of stress regulated genes were significantly altered in higher treatment groups of quercetin which indicated the generation of oxidative stress. In global gene expression analysis,155 differentially expressed genes consist of 36 upregulated and 119 downregulated genes were identified at statistical stringent criteria (<ce:italic>p</ce:italic>&lt; 0.05- and 2-fold change). Pathway analysis revealed that the majority of upregulated genes were related to metabolic pathways and most downregulated genes were related to endocytosis and lysosomal pathways. 60% of total genes were downregulated in gene interaction network of stress signaling.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusion</ce:section-title>
+               <ce:simple-para id="spara012" view="all">The quantitative modeling suggested a significant relationship between MAP kinase (MAPK) expression and other genes in the stress-signaling sub-network. Altogether, these results indicated that the higher doses of quercetin induce hepatotoxic stress and influence several genes related to multiple biologically relevant pathways.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Flavonoid</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Quercetin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Hepatotoxicity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Oxidative stress</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Differential gene expression</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

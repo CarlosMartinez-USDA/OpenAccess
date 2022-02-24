@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Micro-computed tomography of sandstone rocks: Raw, filtered and segmented datasets</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Everton</namePart>
+      <namePart type="family">Lucas-Oliveira</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1353-918X</nameIdentifier>
+      <displayForm>Lucas-Oliveira, Everton</displayForm>
+      <affiliation>São Carlos Institute of Physics, University of São Paulo, PO Box 369, São Carlos, São Paulo 13560-970, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mariane</namePart>
+      <namePart type="family">Barsi-Andreeta</namePart>
+      <displayForm>Barsi-Andreeta, Mariane</displayForm>
+      <affiliation>São Carlos Institute of Physics, University of São Paulo, PO Box 369, São Carlos, São Paulo 13560-970, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rodrigo F.</namePart>
+      <namePart type="family">Neumann</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4435-0507</nameIdentifier>
+      <displayForm>Neumann, Rodrigo F.</displayForm>
+      <affiliation>IBM Research, Rio de Janeiro 20031-170, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Willian A.</namePart>
+      <namePart type="family">Trevizan</namePart>
+      <displayForm>Trevizan, Willian A.</displayForm>
+      <affiliation>CENPES/Petrobras, Rio de Janeiro 21941-915, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mathias B.</namePart>
+      <namePart type="family">Steiner</namePart>
+      <displayForm>Steiner, Mathias B.</displayForm>
+      <affiliation>IBM Research, Rio de Janeiro 20031-170, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tito J.</namePart>
+      <namePart type="family">Bonagamba</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8894-9170</nameIdentifier>
+      <displayForm>Bonagamba, Tito J.</displayForm>
+      <affiliation>São Carlos Institute of Physics, University of São Paulo, PO Box 369, São Carlos, São Paulo 13560-970, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-25</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>High-resolution computed micro-tomography is an important area of science, which correlates well with several experimental methodologies and serves as a basis for advanced computational physics studies, in which high-resolution images are used as input to different scientific simulation models. The dataset presented herein includes (raw) grayscale images obtained using the Bruker Skyscan 1272 X-Ray tomograph; filtered images acquired through contrast enhancement and noise reduction filters; and segmented images obtained by using the IsoData segmentation method. All images have a resolution of 2.25 µm (isometric voxels) and size of 1000³ voxels. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>MicroCT</topic>
+   </subject>
+   <subject>
+      <topic>Rock core</topic>
+   </subject>
+   <subject>
+      <topic>Digital rock</topic>
+   </subject>
+   <subject>
+      <topic>Permeability</topic>
+   </subject>
+   <subject>
+      <topic>Porosity</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">25</text>
+         <extent unit="pages">
+            <start>107893</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107893</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107893</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00105-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-27"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001056/S2352340922001056.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

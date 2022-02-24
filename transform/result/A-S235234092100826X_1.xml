@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107550">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Assessment of respiratory function in children wearing a N95 mask with or without an exhalation valve: Data compared</dct:title>
+         <dct:creator>Riccardo Lubrano</dct:creator>
+         <dct:creator>Silvia Bloise</dct:creator>
+         <dct:creator>Alessia Marcellino</dct:creator>
+         <dct:creator>Claudia Proietti Ciolli</dct:creator>
+         <dct:creator>Alessia Testa</dct:creator>
+         <dct:creator>Enrica De Luca</dct:creator>
+         <dct:creator>Anna Dilillo</dct:creator>
+         <dct:creator>Saverio Mallardo</dct:creator>
+         <dct:creator>Sara Isoldi</dct:creator>
+         <dct:creator>Vanessa Martucci</dct:creator>
+         <dct:creator>Mariateresa Sanseviero</dct:creator>
+         <dct:creator>Emanuela Del Giudice</dct:creator>
+         <dct:creator>Concetta Malvaso</dct:creator>
+         <dct:creator>Claudio Iacovelli</dct:creator>
+         <dct:creator>Rita Leone</dct:creator>
+         <dct:creator>Donatella Iorfida</dct:creator>
+         <dct:creator>Flavia Ventriglia</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>COVID-19</rdf:li>
+               <rdf:li>Facial mask</rdf:li>
+               <rdf:li>Respiratory function</rdf:li>
+               <rdf:li>Children</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107550</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107550</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107550</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107550</dct:identifier>
+         <bam:articleNumber>107550</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-02T16:54:02Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Italian Institutions (CRUI) 2020</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107550</ja:aid>
+         <ce:article-number>107550</ce:article-number>
+         <ce:pii>S2352-3409(21)00826-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107550</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0022-3476(21)00501-1</ce:pii>
+               <ce:doi>10.1016/j.jpeds.2021.05.050</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Assessment of respiratory function in children wearing a N95 mask with or without an exhalation valve: Data compared</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092100826X-5445bc8b0a66e819576cfaeeab84ac5b"
+                       orcid="0000-0001-8237-955X">
+               <ce:given-name>Riccardo</ce:given-name>
+               <ce:surname>Lubrano</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092100826X-92749676000b2b69c67717aea9fad944">
+               <ce:given-name>Silvia</ce:given-name>
+               <ce:surname>Bloise</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:silvia.bloise@uniroma1.it">silvia.bloise@uniroma1.it</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092100826X-9000f80607eb03f14bb2a05c7971ce8c">
+               <ce:given-name>Alessia</ce:given-name>
+               <ce:surname>Marcellino</ce:surname>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S235234092100826X-64aa6c1e10d2edb58eaf9c3046053d6d">
+               <ce:given-name>Claudia</ce:given-name>
+               <ce:surname>Proietti Ciolli</ce:surname>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S235234092100826X-60d7cb7ad20df62ea129cb21955e4818">
+               <ce:given-name>Alessia</ce:given-name>
+               <ce:surname>Testa</ce:surname>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S235234092100826X-3c2b724197ce869b943533817029c2e9">
+               <ce:given-name>Enrica</ce:given-name>
+               <ce:surname>De Luca</ce:surname>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S235234092100826X-c335289d5c7c2b40eaa8923f01aa27d2">
+               <ce:given-name>Anna</ce:given-name>
+               <ce:surname>Dilillo</ce:surname>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S235234092100826X-0bb56faf885c59244a04dbe9d4f8e08a"
+                       orcid="0000-0001-7412-2279">
+               <ce:given-name>Saverio</ce:given-name>
+               <ce:surname>Mallardo</ce:surname>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S235234092100826X-bec00ba0583dcd39fdea76bf10fb08db"
+                       orcid="0000-0001-8390-5371">
+               <ce:given-name>Sara</ce:given-name>
+               <ce:surname>Isoldi</ce:surname>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S235234092100826X-4fc4d50b477470421ba8ccef4a2f84a8">
+               <ce:given-name>Vanessa</ce:given-name>
+               <ce:surname>Martucci</ce:surname>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S235234092100826X-7cd159eeaaa4d1366ad4c30002d196f9"
+                       orcid="0000-0001-7935-6648">
+               <ce:given-name>Mariateresa</ce:given-name>
+               <ce:surname>Sanseviero</ce:surname>
+            </ce:author>
+            <ce:author id="au0012"
+                       author-id="S235234092100826X-cccaccdd337434210497c080808a0fe0"
+                       orcid="0000-0002-3334-4884">
+               <ce:given-name>Emanuela</ce:given-name>
+               <ce:surname>Del Giudice</ce:surname>
+            </ce:author>
+            <ce:author id="au0013"
+                       author-id="S235234092100826X-c049848732b018cd00cec5acc1c85f91">
+               <ce:given-name>Concetta</ce:given-name>
+               <ce:surname>Malvaso</ce:surname>
+            </ce:author>
+            <ce:author id="au0014"
+                       author-id="S235234092100826X-0c715ee6872d011f7cc5c0974d3d395d">
+               <ce:given-name>Claudio</ce:given-name>
+               <ce:surname>Iacovelli</ce:surname>
+            </ce:author>
+            <ce:author id="au0015"
+                       author-id="S235234092100826X-08195d08d181d81ac0462da4d94860e5">
+               <ce:given-name>Rita</ce:given-name>
+               <ce:surname>Leone</ce:surname>
+            </ce:author>
+            <ce:author id="au0016"
+                       author-id="S235234092100826X-56ab261f9141f0d167ceac57890be54d"
+                       orcid="0000-0002-5288-6371">
+               <ce:given-name>Donatella</ce:given-name>
+               <ce:surname>Iorfida</ce:surname>
+            </ce:author>
+            <ce:author id="au0017"
+                       author-id="S235234092100826X-21879a7b401c2a83a4edc2f55fbbfb94">
+               <ce:given-name>Flavia</ce:given-name>
+               <ce:surname>Ventriglia</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092100826X-2d36063f2920b803e08e63a3555ebd0f">
+               <ce:textfn id="cetextfn0001">Dipartimento Materno Infantile e di Scienze Urologiche, Sapienza Università di Roma, UOC di Pediatria e Neonatologia - Polo Pontino, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Dipartimento Materno Infantile e di Scienze Urologiche</sa:organization>
+                  <sa:organization>Sapienza Università di Roma</sa:organization>
+                  <sa:organization>UOC di Pediatria e Neonatologia - Polo Pontino</sa:organization>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Dipartimento Materno Infantile e di Scienze Urologiche, Sapienza Università di Roma, UOC di Pediatria e Neonatologia - Polo Pontino, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="6" month="8" year="2021"/>
+         <ce:date-revised day="23" month="10" year="2021"/>
+         <ce:date-accepted day="1" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">In response to the current COVID-19 pandemic, universal face masking represents one of the most important strategies to limit the spread of infection. However, their use in children is still highly debated (Esposito and Principi, 2020; Esposito et al., 2020) and there are few data (Lubrano et al., 2021a, 2021b) describing their possible effects on respiratory function in children.</ce:simple-para>
+               <ce:simple-para id="spara008" view="all">A dataset in this paper presents a comparison of the data related to the effects on respiratory function of children wearing a filtering facepiece 2 (N95 mask) with or without exhalation valve. 22 healthy children were randomly assigned to two groups, both groups wearing an N95 mask: one without an exhalation valve (group A), another with an exhalation valve (group B).</ce:simple-para>
+               <ce:simple-para id="spara009" view="all">Children were subjected to a 72 min test: the first 30 min without mask, then 30 min wearing face mask while practiced their usual play activity; finally, 12 min, with face mask in place, while they walked as in a walking test. They were monitored through to microstream capnography system (Rad-97TM with Nomo-Line Capnography, Masimo, Irvine, CA, USA) to log oxygen saturation (SpO2) and respiratory rate (RR).</ce:simple-para>
+               <ce:simple-para id="spara010" view="all">We use the Wilcoxon test to analyzed the differences between the parameters recorded during the study in group A and B. Data analysis was performed using JMP14.3.0 program for Mac by SAS Institute inc.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">COVID-19</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Facial mask</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Respiratory function</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Children</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

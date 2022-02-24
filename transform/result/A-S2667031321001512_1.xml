@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100169">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Mulinum spinosum root extract, rich in antioxidant compounds, mitigates harmful effects in mice with diet-induced metabolic syndrome</dct:title>
+         <dct:creator>Silvia Berruezo</dct:creator>
+         <dct:creator>Susana Ferreyra</dct:creator>
+         <dct:creator>Ariel Fontana</dct:creator>
+         <dct:creator>Matilde de Paola</dct:creator>
+         <dct:creator>María Belén Pérez</dct:creator>
+         <dct:creator>Celina Scapini</dct:creator>
+         <dct:creator>Cecilia Cremer</dct:creator>
+         <dct:creator>Claudia Castro</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Mulinum spinosum</rdf:li>
+               <rdf:li>Metabolic syndrome</rdf:li>
+               <rdf:li>Oxidative stress</rdf:li>
+               <rdf:li>Obesity</rdf:li>
+               <rdf:li>Antioxidant</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100169</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100169</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100169</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100169</dct:identifier>
+         <bam:articleNumber>100169</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-19T11:40:03Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100169</ja:aid>
+         <ce:article-number>100169</ce:article-number>
+         <ce:pii>S2667-0313(21)00151-2</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100169</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">
+            <ce:italic>Mulinum spinosum</ce:italic> root extract, rich in antioxidant compounds, mitigates harmful effects in mice with diet-induced metabolic syndrome</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001512-668879d0d3148df50507c447884036de">
+               <ce:given-name>Silvia</ce:given-name>
+               <ce:surname>Berruezo</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001512-03f5f2b429eebf57815c092b0f1b2870">
+               <ce:given-name>Susana</ce:given-name>
+               <ce:surname>Ferreyra</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001512-12555435245af76f418f00b6c6626e3d">
+               <ce:given-name>Ariel</ce:given-name>
+               <ce:surname>Fontana</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001512-00cdd923e42ec23d4f42b00e3b56fc68">
+               <ce:given-name>Matilde</ce:given-name>
+               <ce:surname>de Paola</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001512-ffd5e6b52b8b2ee89256c7ca5d2049d2">
+               <ce:given-name>María Belén</ce:given-name>
+               <ce:surname>Pérez</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031321001512-5741b6a084aa0175e6344adb44fceb91">
+               <ce:given-name>Celina</ce:given-name>
+               <ce:surname>Scapini</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667031321001512-7e3fbcde135aa000455a57fa2db7623c">
+               <ce:given-name>Cecilia</ce:given-name>
+               <ce:surname>Cremer</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667031321001512-66470b83c2fa2be898386d83e3114f27">
+               <ce:given-name>Claudia</ce:given-name>
+               <ce:surname>Castro</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001512-5a85f165dd8477f2e973d4229d8b096f">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Universidad Nacional del Comahue, Facultad de Ciencias Médicas, Centro Interdisciplinario de Investigaciones Biomédicas y Clínicas (CInIByC). Irigoyen 2000, CP 8324, Cipolletti, Río Negro, Argentina</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Universidad Nacional del Comahue, Facultad de Ciencias Médicas, Centro Interdisciplinario de Investigaciones Biomédicas y Clínicas (CInIByC)</sa:organization>
+                  <sa:address-line>Irigoyen 2000</sa:address-line>
+                  <sa:city>Cipolletti, Río Negro</sa:city>
+                  <sa:state>CP</sa:state>
+                  <sa:postal-code>8324</sa:postal-code>
+                  <sa:country>Argentina</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aUniversidad Nacional del Comahue, Facultad de Ciencias Médicas, Centro Interdisciplinario de Investigaciones Biomédicas y Clínicas (CInIByC). Irigoyen 2000, CP: 8324, Cipolletti, Río Negro, Argentina</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001512-ea14f4925ac06cdd14ce485c052c45de">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">CONICET-Universidad Nacional de Cuyo Facultad de Ciencias Agrarias, Instituto de Biología Agrícola de Mendoza Grupo de Bioquímica Vegetal. Almirante Brown 500, Chacras de Coria, M5528AHB Mendoza, Argentina</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>CONICET-Universidad Nacional de Cuyo Facultad de Ciencias Agrarias</sa:organization>
+                  <sa:organization>Instituto de Biología Agrícola de Mendoza Grupo de Bioquímica Vegetal. Almirante Brown 500, Chacras de Coria</sa:organization>
+                  <sa:city>Mendoza</sa:city>
+                  <sa:postal-code>M5528AHB</sa:postal-code>
+                  <sa:country>Argentina</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bCONICET-Universidad Nacional de Cuyo Facultad de Ciencias Agrarias, Instituto de Biología Agrícola de Mendoza Grupo de Bioquímica Vegetal. Almirante Brown 500, Chacras de Coria, M5528AHB Mendoza, Argentina</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001512-41d71d6df672f43c6a8879a16878b359">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">CONICET, Instituto de Medicina y Biología Experimental de Cuyo (IMBECU), and Universidad Nacional de Cuyo, Facultad de Ciencias Médicas, Instituto de Bioquímica y Biotecnología. Avda. Libertador 80, CP5500 Mendoza, Argentina</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>CONICET, Instituto de Medicina y Biología Experimental de Cuyo (IMBECU), and Universidad Nacional de Cuyo, Facultad de Ciencias Médicas</sa:organization>
+                  <sa:organization>Instituto de Bioquímica y Biotecnología. Avda. Libertador 80</sa:organization>
+                  <sa:city>Mendoza</sa:city>
+                  <sa:postal-code>CP5500</sa:postal-code>
+                  <sa:country>Argentina</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cCONICET, Instituto de Medicina y Biología Experimental de Cuyo (IMBECU), and Universidad Nacional de Cuyo, Facultad de Ciencias Médicas, Instituto de Bioquímica y Biotecnología. Avda. Libertador 80, CP5500 Mendoza, Argentina</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031321001512-b5efd8c94f8b90f16a2658a20fdbd0b8">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">CONICET, <ce:italic>Av</ce:italic>. Rivadavia 1917, Buenos Aires C1033AAJ, Argentina, and Instituto Nacional de Tecnología Agropecuaria (INTA) EEA La Consulta, San Carlos, Mendoza, Argentina</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>CONICET, <ce:italic>Av</ce:italic>. Rivadavia 1917, Buenos Aires C1033AAJ, Argentina, and Instituto Nacional de Tecnología Agropecuaria (INTA) EEA La Consulta</sa:organization>
+                  <sa:city>San Carlos</sa:city>
+                  <sa:state>Mendoza</sa:state>
+                  <sa:country>Argentina</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dCONICET, Av. Rivadavia 1917, Buenos Aires C1033AAJ, Argentina, and Instituto Nacional de Tecnología Agropecuaria (INTA) EEA La Consulta, San Carlos, Mendoza, Argentina</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="27" month="9" year="2021"/>
+         <ce:date-revised day="9" month="11" year="2021"/>
+         <ce:date-accepted day="19" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara012" view="all">Background: Metabolic syndrome (MetS) is a health issue with a high incidence in adult population. Using herbal medicines for the management of serious complications of MetS, such as dyslipidemia and hyperglycemia, is highly promising. An aqueous extract from Mulinum spinosum (M. spinosum), traditionally used as hyperglycemic and anti-inflammatory, could have beneficial effects on the treatment of MetS.</ce:simple-para>
+               <ce:simple-para id="spara013" view="all">Purpose: The present study was aimed to characterize the composition of <ce:italic>M. spinosum</ce:italic> roots decoction, and to evaluate antidiabetic, antilipemic and antioxidant effects in an animal model of MetS.</ce:simple-para>
+               <ce:simple-para id="spara014" view="all">Study design and methods: <ce:italic>M. spinosum</ce:italic> roots extract was characterized using high-performance liquid chromatography coupled with diode array detection (HPLC-DAD) method. Total Phenolic Content (TPC) was spectrophotometrically measured and the antioxidant capacity was determined by the oxygen radical absorbance capacity (ORAC) assay. To generate the MetS model, adult male C57BL/6 mice were fed with a 20% w/v fructose (Fru) in drinking water combined with 30% w/w high fat diet (HFD) over a period of 12 weeks. <ce:italic>M. spinosum</ce:italic> aqueous extracts (3 or 6 g/kg/day) were administered in drinking water together with Fru-HFD. At the end of the exposure period, mice were weighed and glucose tolerance test was determined. After sacrifice, adipose tissues were isolated and blood samples were collected to evaluate lipid profile, lipid peroxidation level (LPO) and ferric reducing antioxidant power (FRAP).</ce:simple-para>
+               <ce:simple-para id="spara015" view="all">Results: The characterization of <ce:italic>M. spinosum</ce:italic> revealed the presence of caffeic acid, <ce:italic>trans-</ce:italic>resveratrol, kaempferol-3-glucoside, (-)-epicatechin, (-)-gallocatechin gallate, (-)-epigallocatechin and (+)-catechin. A high antioxidant capacity of the extract was revealed by ORAC test.  Mice fed a Fru-HF diet and treated with <ce:italic>M. spinosum,</ce:italic> reduced diet-induced weight gain and significantly decreased mesenteric fat compared with Fru-HFD group (<ce:italic>p</ce:italic>&lt;0.01). Post prandial glycaemia significantly diminished when mice were treated with <ce:italic>M. spinosum</ce:italic>, and also total cholesterol, LDL-cholesterol and triglycerides (TG) were reduced. Regarding the antioxidant effect of the consumption of <ce:italic>M. spinosum</ce:italic>, we found a decrease in plasmatic LPO, and a significant increase in plasmatic FRAP.</ce:simple-para>
+               <ce:simple-para id="spara016" view="all">Conclusion: To our knowledge, the phenolic composition and the antioxidant capacity of <ce:italic>M. spinosum</ce:italic> roots decoction is reported for the first time. In addition, we provide evidence that <ce:italic>M. spinosum</ce:italic> root extract is a promising source of antioxidants able to alleviates Fru-HFD-induced metabolic alterations and slow the progression of MetS.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Mulinum spinosum</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Metabolic syndrome</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Oxidative stress</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Obesity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Antioxidant</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

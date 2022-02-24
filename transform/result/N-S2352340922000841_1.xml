@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Simulated chainsaw injury bone fracture data</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Geoffery T.</namePart>
+      <namePart type="family">Desmoulin</namePart>
+      <displayForm>Desmoulin, Geoffery T.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Theodore E.</namePart>
+      <namePart type="family">Milner</namePart>
+      <displayForm>Milner, Theodore E.</displayForm>
+      <affiliation>GTD Scientific Inc., 2037 MacKay Avenue, North Vancouver V7P 2M8, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Forensic analysis is often required to determine the cause of an injury. Data for this purpose were acquired by simulating an injury to a limb inflicted by a chainsaw. A surrogate forearm was constructed from gel and a bone simulant. A series of 10 arms were severed under different conditions of chainsaw operation, arm position and arm resistance. The bone fracture force was determined from force records acquired with a force plate which supported the test rig holding the arm. A break wire in the arm signalled the time of fracture. The data set constitutes the reaction force registered by the force plate and the break wire signal. Both signals were digitally sampled at 1000 Hz. Photographs of the proximal portion of each severed arm were taken with a digital camera and are included in the data set. This data set is of interest to forensic investigators considering injuries inflicted by power tools. The data provide a benchmark for planning tests of simulated injuries. They can also be compared to experiments carried out on cadaveric specimens to determine the accuracy of such simulations. This article is being submitted as a co-submission with the following article, G.T. Desmoulin, T.E. Milner, Methodology for determining accidental versus intentional injury afflicted by a chainsaw. Forensic Science International. https://doi.org/10.1016/j.forsciint.2021.110993. </abstract>
+   <subject>
+      <topic>Chainsaw</topic>
+   </subject>
+   <subject>
+      <topic>Forearm</topic>
+   </subject>
+   <subject>
+      <topic>Laceration</topic>
+   </subject>
+   <subject>
+      <topic>Bone fracture</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>41</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">April 2022</text>
+         <text type="year">2022</text>
+         <text type="month">April</text>
+         <extent unit="pages">
+            <start>107872</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107872</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107872</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00084-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-21"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/123176916641762791-00001/2352-3409/S2352340922X00024/S2352340922000841/S2352340922000841.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

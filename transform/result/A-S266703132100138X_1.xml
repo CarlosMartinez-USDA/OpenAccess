@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100156">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Biochemical constituents and insecticidal activities of Callistemon viminalis essential oil against adults and eggs of Pediculus humanus capitis (Phthiraptera: Pediculidae)</dct:title>
+         <dct:creator>Manachai Yingklang</dct:creator>
+         <dct:creator>Aroonsri Priprem</dct:creator>
+         <dct:creator>Natsajee Nualkaew</dct:creator>
+         <dct:creator>Bunleu Sungthong</dct:creator>
+         <dct:creator>Porntip Pinlaor</dct:creator>
+         <dct:creator>Somchai Pinlaor</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Head lice</rdf:li>
+               <rdf:li>Pediculicide</rdf:li>
+               <rdf:li>Insecticide</rdf:li>
+               <rdf:li>C. viminalis</rdf:li>
+               <rdf:li>Essential oil</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100156</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100156</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100156</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100156</dct:identifier>
+         <bam:articleNumber>100156</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-02T11:53:18Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100156</ja:aid>
+         <ce:article-number>100156</ce:article-number>
+         <ce:pii>S2667-0313(21)00138-X</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100156</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Biochemical constituents and insecticidal activities of <ce:italic>Callistemon viminalis</ce:italic> essential oil against adults and eggs of <ce:italic>Pediculus humanus capitis</ce:italic> (Phthiraptera: Pediculidae)</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S266703132100138X-da91428e2086f699b08c46a87918ab8f">
+               <ce:given-name>Manachai</ce:given-name>
+               <ce:surname>Yingklang</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S266703132100138X-cfe237d2977357501e53a94052187883">
+               <ce:given-name>Aroonsri</ce:given-name>
+               <ce:surname>Priprem</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S266703132100138X-2989c8ccb319b070829a3efeec81fbb6">
+               <ce:given-name>Natsajee</ce:given-name>
+               <ce:surname>Nualkaew</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S266703132100138X-2cbb340170f21d6e03f9641362107d08">
+               <ce:given-name>Bunleu</ce:given-name>
+               <ce:surname>Sungthong</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S266703132100138X-bc0dfcad0f04f4a60bf19ffccc9a9cea">
+               <ce:given-name>Porntip</ce:given-name>
+               <ce:surname>Pinlaor</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S266703132100138X-15d6e192fd2313ea90dcc60d58efcb0f">
+               <ce:given-name>Somchai</ce:given-name>
+               <ce:surname>Pinlaor</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:psomec@kku.ac.th">psomec@kku.ac.th</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S266703132100138X-21982c7731850322a5eaf30365eecc4a">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Parasitology, Faculty of Medicine, Khon Kaen University, Khon Kaen 40002, Thailand</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Parasitology</sa:organization>
+                  <sa:organization>Faculty of Medicine</sa:organization>
+                  <sa:organization>Khon Kaen University</sa:organization>
+                  <sa:city>Khon Kaen</sa:city>
+                  <sa:postal-code>40002</sa:postal-code>
+                  <sa:country>Thailand</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Parasitology, Faculty of Medicine, Khon Kaen University, Khon Kaen 40002, Thailand</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S266703132100138X-7cc846eb0dce03e4792551eec5f8e1e6">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Faculty of Pharmacy, Mahasarakham University, Mahasarakham 44150, Thailand</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Pharmacy</sa:organization>
+                  <sa:organization>Mahasarakham University</sa:organization>
+                  <sa:city>Mahasarakham</sa:city>
+                  <sa:postal-code>44150</sa:postal-code>
+                  <sa:country>Thailand</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bFaculty of Pharmacy, Mahasarakham University, Mahasarakham 44150, Thailand</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S266703132100138X-3fc899b8ba241b278de0606b18af6b40">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Division of Pharmacognosy and Toxicology, Faculty of Pharmaceutical Sciences, Khon Kaen University, Khon Kaen 40002, Thailand</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Division of Pharmacognosy and Toxicology</sa:organization>
+                  <sa:organization>Faculty of Pharmaceutical Science</sa:organization>
+                  <sa:organization>Khon Kaen University</sa:organization>
+                  <sa:city>Khon Kaen</sa:city>
+                  <sa:postal-code>40002</sa:postal-code>
+                  <sa:country>Thailand</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDivision of Pharmacognosy and Toxicology, Faculty of Pharmaceutical Science, Khon Kaen University, Khon Kaen 40002, Thailand</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S266703132100138X-f6b6e64ee5e3e61f97b8dc9cf66d90f9">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Centre for Research and Development of Medical Diagnostic Laboratories, Faculty of Associated Medical Sciences, Khon Kaen University, Khon Kaen 40002, Thailand</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Centre for Research and Development of Medical Diagnostic Laboratories</sa:organization>
+                  <sa:organization>Faculty of Associated Medical Sciences</sa:organization>
+                  <sa:organization>Khon Kaen University</sa:organization>
+                  <sa:city>Khon Kaen</sa:city>
+                  <sa:postal-code>40002</sa:postal-code>
+                  <sa:country>Thailand</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dCentre for Research and Development of Medical Diagnostic Laboratories, Faculty of Associated Medical Sciences, Khon Kaen University, Khon Kaen 40002, Thailand</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Parasitology, Faculty of Medicine, Khon Kaen University, Khon Kaen 40002, Thailand.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Parasitology, Faculty of Medicine</sa:organization>
+                  <sa:organization>Khon Kaen University</sa:organization>
+                  <sa:city>Khon Kaen</sa:city>
+                  <sa:postal-code>40002</sa:postal-code>
+                  <sa:country>Thailand</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="10" month="9" year="2021"/>
+         <ce:date-revised day="29" month="10" year="2021"/>
+         <ce:date-accepted day="2" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Forty-four biochemical constituents were identified from C. viminalis EO.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Louse samples were tested from locations where permethrin treatment had been used.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">C. viminalis EO had higher pediculicidal and ovicidal activities than permethrin.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara010" view="all">Synthetic chemical pediculicides used for head-louse treatment do not kill louse eggs, can induce side effects in humans, and lead to genetic resistance in lice worldwide, including in Thailand. Use of phytoconstituents, particularly plant-derived essential oils, is alternatively recommended for head lice.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" view="all">
+               <ce:section-title id="cesectitle0004">Purpose</ce:section-title>
+               <ce:simple-para id="spara011" view="all">To identify biochemical constituents of <ce:italic>Callistemon viminalis</ce:italic> essential oil (EO) and to assess the <ce:italic>ex vivo</ce:italic> effects of EO on head lice and their eggs.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0005">Methods</ce:section-title>
+               <ce:simple-para id="spara012" view="all">The EO was extracted from fresh leaves <ce:italic>C. viminalis</ce:italic> by stream distillation, and the biochemical constituents were identified by gas chromatography-mass spectrometry (GC–MS). Louse samples were collected from schools in Khon Kaen Province, Thailand for <ce:italic>ex vivo</ce:italic> tests. Pediculicidal activity of EO was investigated using topical contact, and ovicidal activity was assessed using immersion and topical tests. Adult lice were observed for 8 h after treatment and eggs were observed for 3 weeks to assess pediculicidal and ovicidal effects, respectively. Mortality was noted and morphological change was recorded for head lice using scanning electron microscopy. Inhibition of egg hatching was evaluated.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="results" view="all">
+               <ce:section-title id="cesectitle0006">Results</ce:section-title>
+               <ce:simple-para id="spara013" view="all">Forty-four phytochemical components were identified in EO obtained from fresh leaves of <ce:italic>C. viminalis</ce:italic>. The most abundant were 1,8-cineole (66.96%), α-pinene (18.74%) and o-cymene (7.02%). <ce:italic>Ex vivo, C. viminalis</ce:italic> EO at concentrations above 10% for 30 min caused 100% adult mortality using a topical bioassay. In a complete-immersion test, all head louse eggs failed to hatch after exposure to concentrations of <ce:italic>C. viminalis</ce:italic> EO of 10% or greater for 10 min. Eggs were less sensitive using a topical method. Permethrin 1%, coconut oil and distilled water exhibited low efficacy against both crawling and egg stages. Scanning electron micrographs indicated that <ce:italic>C. viminalis</ce:italic> EO caused obstruction in some louse spiracles but had no effect on the cuticle or sensory hairs.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0007" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0007">Conclusion</ce:section-title>
+               <ce:simple-para id="spara014" view="all">The EO derived from <ce:italic>C. viminalis</ce:italic> had higher <ce:italic>ex vivo</ce:italic> efficacy against head lice and their eggs than 1% did permethrin. This EO may be a starting point for developing natural pediculicides to control head lice that are susceptible or resistant to permethrin.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0008">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0008" view="all">
+               <ce:simple-para id="spara015" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="abr" id="pc_icvU7VyIhrXUq7z0buDj70VGAAeimJJw" view="all">
+            <ce:keyword id="pc_wfbLjkOyBA">
+               <ce:text>mA</ce:text>
+               <ce:keyword id="pc_i5mRFC3I9E">
+                  <ce:text>Milliampere</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0009">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Head lice</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Pediculicide</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Insecticide</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">
+                  <ce:italic>C. viminalis</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Essential oil</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

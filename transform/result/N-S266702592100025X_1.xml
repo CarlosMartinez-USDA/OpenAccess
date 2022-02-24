@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Peptidomic analysis of milk fermented by Lactobacillus delbrueckii subsp. bulgaricus and Streptococcus thermophilus</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Yang</namePart>
+      <namePart type="family">Yu</namePart>
+      <displayForm>Yu, Yang</displayForm>
+      <affiliation>CAS Key Laboratory of Separation Science for Analytical Chemistry, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, 457 Zhongshan Road, Dalian, Liaoning 116023, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wenhao</namePart>
+      <namePart type="family">Yu</namePart>
+      <displayForm>Yu, Wenhao</displayForm>
+      <affiliation>CAS Key Laboratory of Separation Science for Analytical Chemistry, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, 457 Zhongshan Road, Dalian, Liaoning 116023, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yan</namePart>
+      <namePart type="family">Jin</namePart>
+      <displayForm>Jin, Yan</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Peptides are important bioactive components in fermented milk, and they are released from dairy proteins by lactic acid bacteria (LAB). This study determined relationships between peptide profiles and LAB during fermentation. Streptococcus thermophilus (S. thermophilus) and Lactobacillus delbrueckii subsp. bulgaricus (Lb. bulgaricus) fermented milk separately and together. A liquid chromatography-tandem mass spectrometry (LC-MS/MS) peptidomic approach was used to profile peptides after 0, 4, and 8 h of fermentation. Most peptides (91.2% of 181 peptides) produced by the 4 h Lb. bulgaricus fermentation had increased in intensity at 8 h, which indicated that prolonging Lb. bulgaricus fermentation was useful for peptide accumulation. The peptide structures were investigated by evaluating the probability of each amino acid in positions P1 and P1’ of peptides accumulating in fermentation. The peptides in fermentations by Lb. bulgaricus primarily had Glu (E) at P1, and those in fermentations by S. thermophilus favored Lys (K) and Val (V) at P1’. In mixed fermentation, Lb. bulgaricus, with stronger proteolytic activity, determined the peptide structure. Twenty-three bioactive peptides were identified, and 5 of them were quantified absolutely. The YQEPVLGPVRGPFPIIV peptide was most abundant in the sample fermented by Lb. bulgaricus for 8 h (19.61 μg/1000 mL). The specificity and proteolytic activity were the key factors determining the structure and concentration of peptides accumulating in milk fermentation. This study revealed the actual situation of milk fermentation, which could provide more practical information for better production of fermented milk. </abstract>
+   <subject>
+      <topic>Fermented milk</topic>
+   </subject>
+   <subject>
+      <topic>Peptide profiling</topic>
+   </subject>
+   <subject>
+      <topic>S. thermophilus</topic>
+   </subject>
+   <subject>
+      <topic>Lb. bulgaricus</topic>
+   </subject>
+   <subject>
+      <topic>Bioactivity</topic>
+   </subject>
+   <subject>
+      <topic>LC-MS/MS</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Food Hydrocolloids for Health</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-0259</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100033</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.fhfh.2021.100033</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.fhfh.2021.100033</url>
+   </location>
+   <identifier type="pii">S2667-0259(21)00025-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-09-27"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-0259/S2667025921X00027/S266702592100025X/S266702592100025X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

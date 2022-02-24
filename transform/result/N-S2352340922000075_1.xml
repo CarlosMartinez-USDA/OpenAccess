@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Hornet 40: Network dataset of geographically placed honeypots</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Veronica</namePart>
+      <namePart type="family">Valeros</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2554-3231</nameIdentifier>
+      <displayForm>Valeros, Veronica</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sebastian</namePart>
+      <namePart type="family">Garcia</namePart>
+      <displayForm>Garcia, Sebastian</displayForm>
+      <affiliation>Artificial Intelligence Center, Department of Computer Science, FEL, Czech Technical University in Prague, Czech Republic</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Deception technologies, and honeypots in particular, have been used for decades to understand how cyber attacks and attackers work. A myriad of factors impact the effectiveness of a honeypot. However, very few is known about the impact of the geographical location of honeypots on the amount and type of attacks. Hornet 40 is the first dataset designed to help understand how the geolocation of honeypots may impact the inflow of network attacks. The data consists of network flows in binary and text format, with up to 118 features, including 480 bytes of the content of each flow. They were created using the Argus flow collector. The passive honeypots are IP addresses connected to the Internet and do not have any honeypot software running, so attacks are not interactive. The data was collected from identically configured honeypot servers in eight locations: Amsterdam, Bangalore, Frankfurt, London, New York, San Francisco, Singapore, and Toronto. The dataset contains over 4.7 million network flows collected during forty days throughout April, May, and June 2021. </abstract>
+   <subject>
+      <topic>Honeypots dataset</topic>
+   </subject>
+   <subject>
+      <topic>Cyber security</topic>
+   </subject>
+   <subject>
+      <topic>Network attacks</topic>
+   </subject>
+   <subject>
+      <topic>Geolocation</topic>
+   </subject>
+   <subject>
+      <topic>Distributed attacks</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107795</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107795</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107795</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00007-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-04"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000075/S2352340922000075.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

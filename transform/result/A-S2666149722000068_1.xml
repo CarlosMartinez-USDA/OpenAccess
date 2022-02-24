@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.hnm.2022.200143">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Assessing association between paternal smoking status and child malnutrition in Albania: An application of ordinal regression model</dct:title>
+         <dct:creator>Ashis Talukder</dct:creator>
+         <dct:creator>Muhammad Mahmudul Hasan</dct:creator>
+         <dct:creator>Asikunnaby</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Paternal smoking</rdf:li>
+               <rdf:li>Malnutrition</rdf:li>
+               <rdf:li>Albania</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Human Nutrition &amp; Metabolism, Journal Pre-proof. doi:10.1016/j.hnm.2022.200143</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Human Nutrition &amp; Metabolism</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2666-1497</prism:issn>
+         <prism:doi>10.1016/j.hnm.2022.200143</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.hnm.2022.200143</prism:url>
+         <dct:identifier>doi:10.1016/j.hnm.2022.200143</dct:identifier>
+         <bam:articleNumber>200143</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-31T14:27:53Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>HNM</ja:jid>
+         <ja:aid>200143</ja:aid>
+         <ce:article-number>200143</ce:article-number>
+         <ce:pii>S2666-1497(22)00006-8</ce:pii>
+         <ce:doi>10.1016/j.hnm.2022.200143</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="title0010">Assessing association between paternal smoking status and child malnutrition in Albania: An application of ordinal regression model</ce:title>
+         <ce:author-group id="augrp0010">
+            <ce:author id="au1"
+                       orcid="0000-0002-2205-0696"
+                       author-id="S2666149722000068-e43f32f224e6df8168c47d89c73dac40">
+               <ce:given-name>Ashis</ce:given-name>
+               <ce:surname>Talukder</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor1">
+                  <ce:sup loc="post">∗</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:ashistalukder3168@ku.ac.bd"
+                             id="eadd0010">ashistalukder3168@ku.ac.bd</ce:e-address>
+            </ce:author>
+            <ce:author id="au2"
+                       orcid="0000-0003-4745-7553"
+                       author-id="S2666149722000068-fbb640bb02ce1c0849345b3ddbdc445c">
+               <ce:given-name>Muhammad Mahmudul</ce:given-name>
+               <ce:surname>Hasan</ce:surname>
+               <ce:cross-ref refid="aff2">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au3" author-id="S2666149722000068-2744a01f21f6cce8bedabe2987438ff4">
+               <ce:surname>Asikunnaby</ce:surname>
+               <ce:cross-ref refid="aff3">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff1"
+                            affiliation-id="S2666149722000068-bc68ad3ef9e6375c6a5aa3eb9f0e67c1">
+               <ce:label>a</ce:label>
+               <ce:textfn>Statistics Discipline, Khulna University, Khulna, 9208, Bangladesh</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Statistics Discipline</sa:organization>
+                  <sa:organization>Khulna University</sa:organization>
+                  <sa:city>Khulna</sa:city>
+                  <sa:postal-code>9208</sa:postal-code>
+                  <sa:country>Bangladesh</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0010">Statistics Discipline, Khulna University, Khulna, 9208, Bangladesh</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff2"
+                            affiliation-id="S2666149722000068-9038eade52e3fbbbbd611965509a9474">
+               <ce:label>b</ce:label>
+               <ce:textfn>Durham University, Mathematical Sciences, County, Durham, United Kingdom</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Durham University</sa:organization>
+                  <sa:organization>Mathematical Sciences</sa:organization>
+                  <sa:address-line>County</sa:address-line>
+                  <sa:city>Durham</sa:city>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0015">Durham University, Mathematical Sciences, County, Durham, United Kingdom</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff3"
+                            affiliation-id="S2666149722000068-2214c5e25254f266198d9d62a9dff8b5">
+               <ce:label>c</ce:label>
+               <ce:textfn>Institue of Hazard, Risk and Resilience, Durham University, County, Durham, United Kingdom</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institue of Hazard</sa:organization>
+                  <sa:organization>Risk and Resilience</sa:organization>
+                  <sa:organization>Durham University</sa:organization>
+                  <sa:address-line>County</sa:address-line>
+                  <sa:city>Durham</sa:city>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0020">Institue of Hazard, Risk and Resilience, Durham University, County, Durham, United Kingdom</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor1">
+               <ce:label>∗</ce:label>
+               <ce:text>Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="22" month="6" year="2021"/>
+         <ce:date-revised day="10" month="1" year="2022"/>
+         <ce:date-accepted day="31" month="1" year="2022"/>
+         <ce:abstract xml:lang="en" id="abs0010" view="all" class="author">
+            <ce:section-title id="sectitle0010">Abstract</ce:section-title>
+            <ce:abstract-sec role="background" id="abssec0010" view="all">
+               <ce:section-title id="sectitle0015">Background</ce:section-title>
+               <ce:simple-para id="abspara0010" view="all">In this study, an attempt has been made to seek out the impact of paternal smoking status over child malnutrition in Albania.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abssec0015" view="all">
+               <ce:section-title id="sectitle0020">Methods</ce:section-title>
+               <ce:simple-para id="abspara0015" view="all">For analysis purposes, data were extracted from Albania Demographic and Health Survey (ADHS), 2017/18. The bivariate analysis set up with chi-square test as well as gamma measure were performed to examine the association between child malnutrition and selected covariates. To measure the consequence of paternal smoking status on malnutrition, two different ordinal regression models (Model I: considering only one covariate such as father’s smoking status, Model II: covariates of the model I along with demographic and clinical variables) were considered.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec role="results" id="abssec0020" view="all">
+               <ce:section-title id="sectitle0025">Results</ce:section-title>
+               <ce:simple-para id="abspara0020" view="all">Father’s smoking status was found to be strongly associated with the increased risk of child malnutrition in Albania and it was statistically significant in both regression models. After controlling all of our demographic and clinical variables, the odds ratio for a smoker father compared to a non-smoker father was 1.109 with 95% confidence interval (1.114, 1.472) for child malnutrition.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec role="conclusion" id="abssec0025" view="all">
+               <ce:section-title id="sectitle0030">Conclusion</ce:section-title>
+               <ce:simple-para id="abspara0025" view="all">This study provides strong evidence for an adverse relationship between father’s smoking status and child malnutrition in Albania. Implementing and enforcing several policies such as significant taxes escalation on cigarettes, promoting cessation for the health care system, and implementation of clean indoor air laws would not only reduce the current smoking rates but also smoking prevalence by raising awareness among the young Albanian generation.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="author-highlights" xml:lang="en" id="abs0015" view="all">
+            <ce:section-title id="sectitle0035">Highlights</ce:section-title>
+            <ce:abstract-sec id="abssec0030" view="all">
+               <ce:simple-para id="abspara0030" view="all">
+                  <ce:list id="ulist0010">
+                     <ce:list-item id="u0010">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0010" view="all">In Albania, this is the first work that tries to establish a relationship between paternal smoking status and child malnutrition by using a nationally representative sample survey, Albania Demographic and Health Survey (ADHS), 2017/18.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="u0015">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0015" view="all">This study reveals that in Albania, parental smoking status is highly associated with an increased risk of malnutrition in children aged 0–59 months.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="u0020">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0020" view="all">Besides father’s smoking status, ordinal regression analyses of large databases have shown that child’s age, father’s education level, mother’s education level, wealth index and mother’s BMI are associated with child malnutrition in Albania.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+            <ce:section-title id="sectitle0040">Keywords</ce:section-title>
+            <ce:keyword id="kwrd0010">
+               <ce:text>Paternal smoking</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0015">
+               <ce:text>Malnutrition</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0020">
+               <ce:text>Albania</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

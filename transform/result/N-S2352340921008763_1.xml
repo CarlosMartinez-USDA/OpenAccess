@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Human and faunal stable and radiogenic isotope data from four Bahraini and three Jordanian assemblages c. 5300 B.C. to 1500 AD</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Damien</namePart>
+      <namePart type="family">Huffer</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4027-1772</nameIdentifier>
+      <displayForm>Huffer, Damien</displayForm>
+      <affiliation>Honourary Adjunct Research Professor, Department of History, Carleton University, Ottawa, ON K1S 5B6, Canada</affiliation>
+      <affiliation>Honourary Research Associate, School of Social Sciences, University of Queensland, St. Lucia, QLD 4072, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This dataset presents carbon, nitrogen, oxygen (carbonates and phosphates) and strontium data from human and faunal remains from that portion of seven assemblages from Jordan and Bahrain currently curated at the Smithsonian Institution's National Museum of Natural History. Human remains from Bahraini assemblages include the Middle Islamic Period (c. 1,400-1,500 AD) cemetery associated with the Qal'at al-Bahrain fort (n=49) and the Early Dilmun City IIa-c Period (c. 2,350-1,800 BC) assemblages of Saar (n=31), Buri North (n=41) and Buri South (n=17). The Saar assemblage, at the time of sampling at the Smithsonian Institution, also included individuals recovered from isolated tombs outside the Saar mound field, with distinct alphanumeric or name designations. The Buri assemblage (also known as Hamad Town) also contained one individual labeled BE (Buri East). Assemblages from Jordan include Early Bronze Age IB (c. 3,550-3,150 BC) Bab edh Dhra (91 individuals selected of a total MNI of 274), the Iron Age IA (c. 1,250-1,100 BC) commingled cave burial assemblage from the Ba'Qa Valley (n=63), and the Late Roman (c. 200-300 AD) assemblage from Zabayir Zahir edh-Diyab, also known as the Queen Alia International Airport assemblage (n=69). Not all individuals from whom a bone sample was taken had a suitable tooth to sample as well. A cumulative total of 13 faunal samples (bone and teeth; cattle and sheep) were also obtained from the Bahraini assemblages, all but two from the Bronze Age assemblages. Results in general are consistent with those from other assemblages from both locations regardless of time period, but they also complement and expand what is known about long-distance migration and dietary diversity and resilience across time within marginal desert environments (e.g., [11]; [16]; [7,8]). </abstract>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107601</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107601</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107601</url>
+   </location>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008763/S2352340921008763.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

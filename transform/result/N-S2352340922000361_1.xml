@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A new hourly dataset for photovoltaic energy production for the continental USA</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Weiming</namePart>
+      <namePart type="family">Hu</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4501-1435</nameIdentifier>
+      <displayForm>Hu, Weiming</displayForm>
+      <affiliation>Scripps Institution of Oceanography, University of California, San Diego, United States</affiliation>
+      <affiliation>Institute for Computational and Data Sciences, The Pennsylvania State University, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Guido</namePart>
+      <namePart type="family">Cervone</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6509-0735</nameIdentifier>
+      <displayForm>Cervone, Guido</displayForm>
+      <affiliation>Institute for Computational and Data Sciences, The Pennsylvania State University, United States</affiliation>
+      <affiliation>Earth and Environmental Systems Institute, The Pennsylvania State University, United States</affiliation>
+      <affiliation>Research Application Laboratory, National Center for Atmospheric Research, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andre</namePart>
+      <namePart type="family">Merzky</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7228-4327</nameIdentifier>
+      <displayForm>Merzky, Andre</displayForm>
+      <affiliation>Department of Electrical and Computer Engineering, Rutgers University, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Matteo</namePart>
+      <namePart type="family">Turilli</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0527-1435</nameIdentifier>
+      <displayForm>Turilli, Matteo</displayForm>
+      <affiliation>Department of Electrical and Computer Engineering, Rutgers University, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shantenu</namePart>
+      <namePart type="family">Jha</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5040-026X</nameIdentifier>
+      <displayForm>Jha, Shantenu</displayForm>
+      <affiliation>Department of Electrical and Computer Engineering, Rutgers University, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This new dataset is an ensemble of solar photovoltaic energy production simulations over the continental US. The simulations are carried out in three steps. First, a weather forecast system is used for the predictions of incoming insolation; then, forecast ensembles with 21 members are generated using the Analog Ensemble technique; finally, each ensemble member is used to simulate 13 different solar panels. In total, there are 21×13=273 simulated scenarios. Simulations are carried out for the entire year 2019, with a temporal resolution of one hour, and a spatial resolution of 12 km. The data provide a high spatio-temporal analysis of the power production under different weather and engineering scenarios. The size of the entire dataset is about 1 TB but can be openly accessed by days and scenarios. Details on how to access and use such a dataset are provided in this article. </abstract>
+   <subject>
+      <topic>Renewable energy</topic>
+   </subject>
+   <subject>
+      <topic>Solar photovoltaic</topic>
+   </subject>
+   <subject>
+      <topic>Ensemble simulation</topic>
+   </subject>
+   <subject>
+      <topic>Distributed computing</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107824</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107824</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107824</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00036-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-11"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000361/S2352340922000361.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

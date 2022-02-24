@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Energy-dispersive X-ray spectroscopy and atom-probe tomography data quantifying component-ratios of multicomponent nano-precipitates in ion-irradiated ceria</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Karen</namePart>
+      <namePart type="family">Kruska</namePart>
+      <displayForm>Kruska, Karen</displayForm>
+      <affiliation>Energy and Environment Directorate, Pacific Northwest National Laboratory, P.O. Box 999, Richland, WA, 99352, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Weilin</namePart>
+      <namePart type="family">Jiang</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8302-8313</nameIdentifier>
+      <displayForm>Jiang, Weilin</displayForm>
+      <affiliation>Energy and Environment Directorate, Pacific Northwest National Laboratory, P.O. Box 999, Richland, WA, 99352, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Xuemei</namePart>
+      <namePart type="family">Wang</namePart>
+      <displayForm>Wang, Xuemei</displayForm>
+      <affiliation>Department of Nuclear Engineering, Texas A&amp;M University, 3133 TAMU, College Station, TX, 77843-3133, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lin</namePart>
+      <namePart type="family">Shao</namePart>
+      <displayForm>Shao, Lin</displayForm>
+      <affiliation>Department of Nuclear Engineering, Texas A&amp;M University, 3133 TAMU, College Station, TX, 77843-3133, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Brian J.</namePart>
+      <namePart type="family">Riley</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7745-6730</nameIdentifier>
+      <displayForm>Riley, Brian J.</displayForm>
+      <affiliation>Energy and Environment Directorate, Pacific Northwest National Laboratory, P.O. Box 999, Richland, WA, 99352, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ram</namePart>
+      <namePart type="family">Devanathan</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8125-4237</nameIdentifier>
+      <displayForm>Devanathan, Ram</displayForm>
+      <affiliation>Energy and Environment Directorate, Pacific Northwest National Laboratory, P.O. Box 999, Richland, WA, 99352, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Samples of ∼1 µm films of CeO₂ doped with 2 wt% Mo, 1.5 wt% Ru, 0.75 wt% Pd, 0.5 wt% Re and 0.25 wt% Rh grown with pulsed laser deposition were irradiated with I²⁺ ions (610 °C and 730 °C, 10¹⁶ and 5 × 10¹⁶ I²⁺/cm²). For selected samples post-irradiation heat treatment was conducted (900 °C, 1100 °C). The specimens were sectioned with focused ion beam milling and characterized in a transmission electron microscope with energy-dispersive x-ray spectroscopy, and with atom-probe tomography. Energy-dispersive x-ray spectroscopy was used to obtain elemental maps showing the distribution of dopants in the specimen after exposure. Some of these maps are discussed in detail in our companion article “Formation of multicomponent alloy particles in doped ceria under I2+ ion irradiation and thermal annealing” in the Journal of Nuclear Materials [1]. Advanced computational analysis could be used to more accurately quantify local compositions. Data is provided for additional regions of interest and one additional irradiation condition. The doped ceria film that was heat treated at 1100 °C delaminated from the substrate in most places. Samples were extracted from the underside of a delaminated piece and analyzed with atom-probe tomography. The resulting data show ceria and a Mo-rich particle and demonstrate that this approach is feasable in principle to study local compositions in a sample exposed to such extreme conditions. </abstract>
+   <subject>
+      <topic>Multicomponent alloy</topic>
+   </subject>
+   <subject>
+      <topic>ε-phase</topic>
+   </subject>
+   <subject>
+      <topic>STEM EDS</topic>
+   </subject>
+   <subject>
+      <topic>Atom-probe tomography</topic>
+   </subject>
+   <subject>
+      <topic>Surrogate fuel</topic>
+   </subject>
+   <subject>
+      <topic>Ion irradiation</topic>
+   </subject>
+   <subject>
+      <topic>Heat treatment</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107460</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107460</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107460</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00742-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-05"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007423/S2352340921007423.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

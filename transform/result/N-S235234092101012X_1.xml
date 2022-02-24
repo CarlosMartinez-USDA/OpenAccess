@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset for the content of bioactive components and phytonutrients of (Ocimum basilicum and Brassica rapa) microgreens</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ali J.</namePart>
+      <namePart type="family">Othman</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8309-1854</nameIdentifier>
+      <displayForm>Othman, Ali J.</displayForm>
+      <affiliation>Department of Commodity Research and Commodity Expertise, Plekhanov Russian University of Economics, Moscow, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ekaterina S.</namePart>
+      <namePart type="family">Vodorezova</namePart>
+      <displayForm>Vodorezova, Ekaterina S.</displayForm>
+      <affiliation>Department of Commodity Research and Commodity Expertise, Plekhanov Russian University of Economics, Moscow, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Majd</namePart>
+      <namePart type="family">Mardini</namePart>
+      <displayForm>Mardini, Majd</displayForm>
+      <affiliation>Center of Molecular Biotechnology, Russian State Agrarian University - Moscow Timiryazev Agricultural Academy, Moscow, Russian Federation</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Muhammad B.</namePart>
+      <namePart type="family">Hanana</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4875-7291</nameIdentifier>
+      <displayForm>Hanana, Muhammad B.</displayForm>
+      <affiliation>Department of Field Crops, Faculty of Agriculture, University of Damascus, Syria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The data provided in this article were obtained from fresh and dry samples of green Basilic (Ocimum Basillicum L.), red Basilic (Ocimum basilicum 'purpurascens'), green Mizuna (Brassica rapa var. niposinica), and red Mizuna (Brassica rapa var. pipposinica) microgreens grown in climatic chamber (phytotron) on jute mats for 15 days. Phytonutrients contents including chlorophylls, pheophytins, carotenoids pigments, total antioxidant capacity, total phenolic content, ascorbic acid, as well as organic acids contents varied between all cultivars. Spectrometry, electrophoresis, coulometric, and liquid chromatography-electrospray ionization quadrupole time-of-flight mass spectrometry (LC-ESI-QTOF/MS) were the principal employed methods. Data of antioxidants and phytonutrients contents contribute to the understanding of the benefits of microgreens as a newly emerging product. Data of pigments content compares the difference of accumulation of chlorophylls, pheophytins, and carotenoids between red and green cultivars of the studied microgreens, and the variability of their concentrations along with the contents of organic acids provide insights to plants physiology during the differentiation phase. </abstract>
+   <subject>
+      <topic>Microgreens</topic>
+   </subject>
+   <subject>
+      <topic>Organic acids</topic>
+   </subject>
+   <subject>
+      <topic>Total phenolic content</topic>
+   </subject>
+   <subject>
+      <topic>Phytonutrients</topic>
+   </subject>
+   <subject>
+      <topic>Pigments</topic>
+   </subject>
+   <subject>
+      <topic>Phytotron</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107737</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107737</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107737</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01012-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S235234092101012X/S235234092101012X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

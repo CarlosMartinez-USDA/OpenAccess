@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2021.100009">
+         <dct:format>application/xml</dct:format>
+         <dct:title>In vivo anti-typhoid and safety evaluation of extracts of Ximenia americana on experimental rats</dct:title>
+         <dct:creator>Hadiza Lami Muhammad</dct:creator>
+         <dct:creator>Rahinat Garba</dct:creator>
+         <dct:creator>Abubakar Siddique Abdullah</dct:creator>
+         <dct:creator>Hadiza Kudu Muhammad</dct:creator>
+         <dct:creator>Musa Bola Busari</dct:creator>
+         <dct:creator>Rabiat Unekwu Hamzah</dct:creator>
+         <dct:creator>Hussaini Anthony Makun</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Ximenia americana</rdf:li>
+               <rdf:li>Enteric fever</rdf:li>
+               <rdf:li>Extracts</rdf:li>
+               <rdf:li>Experimental rats</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine 1 (2021). doi:10.1016/j.prmcm.2021.100009</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.prmcm.2021.100009</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2021.100009</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2021.100009</dct:identifier>
+         <bam:articleNumber>100009</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-09-07T09:41:04Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100009</ja:aid>
+         <ce:article-number>100009</ce:article-number>
+         <ce:pii>S2667-1425(21)00008-7</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2021.100009</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Research article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">
+            <ce:italic>In vivo</ce:italic> anti-typhoid and safety evaluation of extracts of <ce:italic>Ximenia americana</ce:italic> on experimental rats</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667142521000087-1a96de7d3aac3a49d6b407a3ba7e7592">
+               <ce:given-name>Hadiza Lami</ce:given-name>
+               <ce:surname>Muhammad</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:hadizalami@futminna.edu.ng">hadizalami@futminna.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667142521000087-5b6364d79e426b8c4a2ab15bd8f58c5c">
+               <ce:given-name>Rahinat</ce:given-name>
+               <ce:surname>Garba</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667142521000087-494df99ccda270acc5ef0975f9f14aeb">
+               <ce:given-name>Abubakar Siddique</ce:given-name>
+               <ce:surname>Abdullah</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667142521000087-d267c2633045dddffa951d9fa95fa497">
+               <ce:given-name>Hadiza Kudu</ce:given-name>
+               <ce:surname>Muhammad</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667142521000087-115a84a31e1778d0653fe48dd125edac">
+               <ce:given-name>Musa Bola</ce:given-name>
+               <ce:surname>Busari</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667142521000087-e1938f22f8a53b46490e27cbc7bc2b13">
+               <ce:given-name>Rabiat Unekwu</ce:given-name>
+               <ce:surname>Hamzah</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667142521000087-39cbcf248ebcae2495a549c182f17a49">
+               <ce:given-name>Hussaini Anthony</ce:given-name>
+               <ce:surname>Makun</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667142521000087-6e5d85a3d9b9cd7ba4f28a2c24888d03">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Africa Centre of Excellence for Mycotoxin and Food Safety, Federal University of Technology, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Africa Centre of Excellence for Mycotoxin and Food Safety</sa:organization>
+                  <sa:organization>Federal University of Technology</sa:organization>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aAfrica Centre of Excellence for Mycotoxin and Food Safety, Federal University of Technology, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667142521000087-17c69339c1f9c676dcabbe707fd86228">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Biochemistry, Federal University of Technology, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biochemistry</sa:organization>
+                  <sa:organization>Federal University of Technology</sa:organization>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Biochemistry, Federal University of Technology, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667142521000087-c790c69a0a7f3c1665026cdeb9c81cd2">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Internal Medicine, Ahmadu Bello University, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Internal Medicine</sa:organization>
+                  <sa:organization>Ahmadu Bello University</sa:organization>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Internal Medicine, Ahmadu Bello University, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667142521000087-2ad7d7c9a5fd8a9ade9fe54331b5afd5">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Centre for Genetic Engineering and Biotechnology, Global Institute for Bioexploration Unit, Federal University of Technology, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Centre for Genetic Engineering and Biotechnology</sa:organization>
+                  <sa:organization>Global Institute for Bioexploration Unit</sa:organization>
+                  <sa:organization>Federal University of Technology</sa:organization>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dCentre for Genetic Engineering and Biotechnology, Global Institute for Bioexploration Unit, Federal University of Technology, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667142521000087-21044068a8c0f252c297d380c2e454b7">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Food and Toxicology Research Group, Federal University of Technology, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Food and Toxicology Research Group</sa:organization>
+                  <sa:organization>Federal University of Technology</sa:organization>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eFood and Toxicology Research Group, Federal University of Technology, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Correspondence author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="19" month="6" year="2021"/>
+         <ce:date-revised day="31" month="8" year="2021"/>
+         <ce:date-accepted day="7" month="9" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara017" view="all">Typhoid fever is an infectious disease of serious public health concern. The anti-typhoid efficacy and safety of <ce:italic>Ximenia americana</ce:italic> stem bark extracts on the nephrocytes, hepatocytes, and haematological parameters of <ce:italic>Salmonella typhi</ce:italic> infected Wistar albino rats was evaluated.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Methodology</ce:section-title>
+               <ce:simple-para id="spara018" view="all">Experimental rats in their respective groups were infected with <ce:italic>S. typhi</ce:italic> via oral administration of infective dose (0.5 ml of 1.5 × 10<ce:sup loc="post">4</ce:sup> cfu/ml) of cultured <ce:italic>S. typhi,</ce:italic> while group 1 were uninfected. Group 2 were untreated, group 3 were treated with the standard drug (ciprofloxacin), while groups 4, 5, 6 were treated with (100, 200, 300 mg/kg) body weight of the methanol extract of <ce:italic>X. americana</ce:italic> stem bark, and groups 7, 8 and 9 were treated with (100, 200, 300 mg/kg) body weight of the ethyl-acetate fraction of <ce:italic>X. americana</ce:italic> stem bark administered orally for 7 days. Acute toxicity test was carried out using standard methods and signs accompanying toxicity such as drowsiness, respiratory distress, diarrhoea, and possible death of animals were monitored for 24 h in an interval of 2 h. Physical parameters were also monitored to check symptom amelioration as the treatment progresses.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara019" view="all">Acute toxicity test showed that experimental rats administered the methanol extract and ethyl-acetate fraction of <ce:italic>X. americana</ce:italic> had no clinical signs of toxicity such as drowsiness, respiratory distress, diarrhoea, and death. The Physical examination of rats in all the treatment groups showed improvement in symptoms following <ce:italic>Salmonella</ce:italic> infection as treatment progressed when compared to the untreated group. <ce:italic>Salmonella</ce:italic> infection led to a significant (<ce:italic>p</ce:italic> &lt; 0.05) increase in serum urea, sodium, chloride levels, bilirubin concentration, total white cell count and activities of the liver enzymes as compared to normal and apparently healthy rats. A significant (<ce:italic>p</ce:italic> &lt; 0.05) decrease in PCV, haemoglobin concentration, RBC count, serum potassium, total protein and creatinine levels of the infected groups was observed as compared to the normal uninfected group. The methanol extract at the dose of 300 mg/kg body weight had 15%, 37%, 52% reduction in sodium, urea, and alkaline phosphatase respectively and 57% increase in potassium while the ethyl-acetate fraction (300 mg/kg body weight) had 46% and 47% increase in PCV and haemoglobin and 36% reduction in ALT.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusion</ce:section-title>
+               <ce:simple-para id="spara020" view="all">The administration of the methanol extract and ethyl-acetate fraction of <ce:italic>X. americana</ce:italic> was accompanied by a significant (<ce:italic>p</ce:italic> &lt; 0.05) dose dependent decrease in serum electrolytes and alkaline phosphatase in the treated groups. <ce:italic>X. americana</ce:italic> could be a safe natural alternative therapeutic source for enteric fever management.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Ximenia americana</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Enteric fever</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Extracts</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Experimental rats</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

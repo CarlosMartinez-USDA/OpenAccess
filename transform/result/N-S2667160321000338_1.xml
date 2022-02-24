@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Characterization of the MYB-inhibitory potential of the Pan-HDAC inhibitor LAQ824</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Maria V.</namePart>
+      <namePart type="family">Yusenko</namePart>
+      <displayForm>Yusenko, Maria V.</displayForm>
+      <affiliation>Institute for Biochemistry, Westfälische-Wilhelms-Universität, Münster, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Karl-Heinz</namePart>
+      <namePart type="family">Klempnauer</namePart>
+      <displayForm>Klempnauer, Karl-Heinz</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>A large body of work has shown that MYB acts as a master transcription regulator in hematopoietic cells and has pinpointed MYB as a potential drug target for acute myeloid leukemia (AML). Here, we have examined the MYB-inhibitory potential of the HDAC inhibitor LAQ824, which was identified in a screen for novel MYB inhibitors. We show that nanomolar concentrations of LAQ824 and the related HDAC inhibitors vorinostat and panobinostat interfere with MYB function in two ways, by inducing its degradation and inhibiting its activity. Reporter assays show that the inhibition of MYB activity by LAQ824 involves the MYB transactivation domain and the cooperation of MYB with co-activator p300, a key MYB interaction partner and driver of MYB activity. In AML cells, LAQ824-induced degradation of MYB is accompanied by expression of myeloid differentiation markers and apoptotic and necrotic cell death. The ability of LAQ824 to inhibit MYB activity is supported by the observation that down-regulation of direct MYB target genes MYC and GFI1 occurs without apparent decrease of MYB expression already after 2 hours of treatment with LAQ824. Furthermore, ectopic expression of an activated version of MYB In HL60 cells counteracts the induction of myeloid differentiation by LAQ824. Overall, our data identify LAQ824 and related HDAC inhibitors as potent MYB-inhibitory agents that exert dual effects on MYB expression and activity in AML cells. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>MYB</topic>
+   </subject>
+   <subject>
+      <topic>inhibitor</topic>
+   </subject>
+   <subject>
+      <topic>myeloid leukemia</topic>
+   </subject>
+   <subject>
+      <topic>LAQ824</topic>
+   </subject>
+   <subject>
+      <topic>HDAC inhibitor</topic>
+   </subject>
+   <subject>
+      <topic>p300</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100034</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100034</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100034</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00033-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-13"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/aip/S2667160321000338/S2667160321000338.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

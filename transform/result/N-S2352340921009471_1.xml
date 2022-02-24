@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Pillar 3–Pre-processed web server log file dataset of the banking institution</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Michal</namePart>
+      <namePart type="family">Munk</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9913-3596</nameIdentifier>
+      <displayForm>Munk, Michal</displayForm>
+      <affiliation>Constantine the Philosopher University in Nitra, Slovakia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anna</namePart>
+      <namePart type="family">Pilkova</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4296-4823</nameIdentifier>
+      <displayForm>Pilkova, Anna</displayForm>
+      <affiliation>Comenius University in Bratislava, Slovakia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ľubomír</namePart>
+      <namePart type="family">Benko</namePart>
+      <displayForm>Benko, Ľubomír</displayForm>
+      <affiliation>Constantine the Philosopher University in Nitra, Slovakia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Petra</namePart>
+      <namePart type="family">Blazekova</namePart>
+      <displayForm>Blazekova, Petra</displayForm>
+      <affiliation>Comenius University in Bratislava, Slovakia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Peter</namePart>
+      <namePart type="family">Svec</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1713-6444</nameIdentifier>
+      <displayForm>Svec, Peter</displayForm>
+      <affiliation>Constantine the Philosopher University in Nitra, Slovakia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The dataset presented in this article represents the pre-processed web server log file of the commercial bank. The source of data is the web server of the bank and keeps access of web users starting the year 2009 till 2012. It contains accesses to the bank website during and after the financial crisis. Unnecessary data saved by the web server was removed to keep the focus only on the textual content of the website. Many variables were added to the original log file to make the analysis workable. To keep the privacy of website users, sensitive information in the log file were anonymized. The dataset offers a way to understand the behavior of stakeholders during and after the crisis and how they comply with the Basel regulations. The behavior of users can be modeled using the multinomial logit model, which is in detail described in the research article [1] related to this data article. </abstract>
+   <subject>
+      <topic>Pillar 3</topic>
+   </subject>
+   <subject>
+      <topic>Basel II</topic>
+   </subject>
+   <subject>
+      <topic>Web usage mining</topic>
+   </subject>
+   <subject>
+      <topic>Data modeling</topic>
+   </subject>
+   <subject>
+      <topic>Multinomial Logit model</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107672</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107672</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107672</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00947-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-01"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009471/S2352340921009471.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

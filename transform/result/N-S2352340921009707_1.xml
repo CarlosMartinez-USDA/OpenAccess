@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Key performance indicators of Russian universities for 2015–2018: Dataset and Benchmarking Data</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Anna I.</namePart>
+      <namePart type="family">Guseva</namePart>
+      <displayForm>Guseva, Anna I.</displayForm>
+      <affiliation>National Research Nuclear University MEPhI (Moscow Engineering Physics Institute), Moscow, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Viacheslav M.</namePart>
+      <namePart type="family">Kalashnik</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2968-0831</nameIdentifier>
+      <displayForm>Kalashnik, Viacheslav M.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vladimir I.</namePart>
+      <namePart type="family">Kaminskii</namePart>
+      <displayForm>Kaminskii, Vladimir I.</displayForm>
+      <affiliation>National Research Nuclear University MEPhI (Moscow Engineering Physics Institute), Moscow, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sergey V.</namePart>
+      <namePart type="family">Kireev</namePart>
+      <displayForm>Kireev, Sergey V.</displayForm>
+      <affiliation>National Research Nuclear University MEPhI (Moscow Engineering Physics Institute), Moscow, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article presents a performance dataset of 93 Russian universities, collected from 2015 to 2018 and evaluated according to 24 indicators. These data were gathered from materials, published in the process of monitoring the effectiveness of higher education institutions by the Ministry of Science and Higher Education of the Russian Federation, Web of Science (citation-based research analytics tool InCites) and Scopus (citation-based research analytics tool SciVal) databases, and information from international ranking agencies QS, THE, ARWU. The dataset comprises the assessments of university performances according to the most important indicators used in socio-economic studies of comparative analysis of higher education system development levels in different countries: educational, scientific and research, international, financial and economic performance and international public recognition (university positions in leading international rankings). Evaluated universities are grouped pursuant to their missions: Federal Universities (FU), National Research Universities (NRU), Flagship Universities (FlU) and university-participants of the Russian Academic Excellence Project (Project 5-100). The indicators for the comparative analysis are aggregated by the type of activities and analyzed based on the calculation of median values and Displaced Ideal Method. The dataset can be helpful to researchers, university administration, specialists of higher education system, etc. Data processing can be executed using data mining methods, machine learning, and pattern analysis for the development of intellectual structures, applicable for university performance assessment in different educational systems. Presented data allows us to assert that the implementation of targeted support for leading Russian universities has a positive impact on the development of Russian higher education increasing its role on the international academic arena. Leading national research university-participants of the Project 5-100 had the greatest influence on increasing the competitiveness of Russian education in the world. </abstract>
+   <subject>
+      <topic>National Research Universities</topic>
+   </subject>
+   <subject>
+      <topic>World University Rankings</topic>
+   </subject>
+   <subject>
+      <topic>Russian Academic Excellence Project</topic>
+   </subject>
+   <subject>
+      <topic>Data collection and processing algorithms</topic>
+   </subject>
+   <subject>
+      <topic>Displaced Ideal Method</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107695</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107695</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107695</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00970-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-08"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009707/S2352340921009707.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Seismic risk quantification and GIS-based seismic risk maps for Dubai-UAE_Dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Mohammad</namePart>
+      <namePart type="family">AlHamaydeh</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5004-0778</nameIdentifier>
+      <displayForm>AlHamaydeh, Mohammad</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ghaith</namePart>
+      <namePart type="family">Al-Shamsi</namePart>
+      <displayForm>Al-Shamsi, Ghaith</displayForm>
+      <affiliation>Department of Civil Engineering, College of Engineering, American University of Sharjah, PO Box 26666, Sharjah, United Arab Emirates</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nader</namePart>
+      <namePart type="family">Aly</namePart>
+      <displayForm>Aly, Nader</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tarig</namePart>
+      <namePart type="family">Ali</namePart>
+      <displayForm>Ali, Tarig</displayForm>
+      <affiliation>Department of Civil Engineering, College of Engineering, American University of Sharjah, PO Box 26666, Sharjah, United Arab Emirates</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The data provided in this article quantifies the potential seismic losses in multi-story buildings located in Dubai, UAE. Besides, it developed GIS-based seismic risk maps, which form essential inputs towards the seismic resilience of buildings. The GIS data described herein come from different sources. The base map including the major roads, key land use classes, and administrative boundaries are from the ArcMap maps library. The Dubai districts were digitized in ArcMap from a rectified Worldview imagery of Dubai. The seismic risk analysis data are represented as attributes of the centroids of Dubai districts, which is the main data layer. The GIS-based seismic risk maps are raster GIS layers, which are created in ArcGIS using the Inverse Distance Weighted (IDW) interpolation method. The base map template is from the ArcMap maps library. </abstract>
+   <subject>
+      <topic>Seismic resilience</topic>
+   </subject>
+   <subject>
+      <topic>Earthquake damage</topic>
+   </subject>
+   <subject>
+      <topic>Socioeconomic losses</topic>
+   </subject>
+   <subject>
+      <topic>Preparedness</topic>
+   </subject>
+   <subject>
+      <topic>GIS</topic>
+   </subject>
+   <subject>
+      <topic>Dubai</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107566</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107566</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107566</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00842-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-09"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008428/S2352340921008428.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

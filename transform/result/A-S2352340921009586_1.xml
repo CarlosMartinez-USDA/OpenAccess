@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107683">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A data set of a Norwegian energy community</dct:title>
+         <dct:creator>Kjersti Berg</dct:creator>
+         <dct:creator>Markus Löschenbrand</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Energy community</rdf:li>
+               <rdf:li>Electric vehicles</rdf:li>
+               <rdf:li>Electrical power system</rdf:li>
+               <rdf:li>Household appliances</rdf:li>
+               <rdf:li>Local energy community</rdf:li>
+               <rdf:li>Photovoltaics</rdf:li>
+               <rdf:li>Scandinavia</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107683</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107683</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107683</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107683</dct:identifier>
+         <bam:articleNumber>107683</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-04T20:16:15Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Norway institutes 2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107683</ja:aid>
+         <ce:article-number>107683</ce:article-number>
+         <ce:pii>S2352-3409(21)00958-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107683</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">A data set of a Norwegian energy community</ce:title>
+         <ce:short-title id="stitle0010">A data set of a Norwegian energy community</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009586-2ab6987f5ab8d18adeccb730f54302fe"
+                       orcid="0000-0002-9188-618X">
+               <ce:given-name>Kjersti</ce:given-name>
+               <ce:surname>Berg</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:kjersti.berg@ntnu.no" id="ead0001">kjersti.berg@ntnu.no</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009586-41188fd982a97389722bf921a5bcb922">
+               <ce:given-name>Markus</ce:given-name>
+               <ce:surname>Löschenbrand</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009586-a01b6435fa562d27337c452ba94c8680">
+               <ce:label>a</ce:label>
+               <ce:textfn id="textfn0002">Dept. of Electric Power Engineering, NTNU, O.S. Bragstads plass 2E, Trondheim 7034, Norway</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Dept. of Electric Power Engineering</sa:organization>
+                  <sa:organization>NTNU</sa:organization>
+                  <sa:address-line>O.S. Bragstads plass 2E</sa:address-line>
+                  <sa:city>Trondheim</sa:city>
+                  <sa:postal-code>7034</sa:postal-code>
+                  <sa:country>Norway</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">Dept. of Electric Power Engineering, NTNU, O.S. Bragstads plass 2E, Trondheim 7034, Norway</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009586-954d1ffac0fd1fedd99efc1ccf391370">
+               <ce:label>b</ce:label>
+               <ce:textfn id="textfn0003">Dept. of Energy Systems, SINTEF Energy Research, Sem Sælands vei 11, Trondheim 7034, Norway</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Dept. of Energy Systems</sa:organization>
+                  <sa:organization>SINTEF Energy Research</sa:organization>
+                  <sa:address-line>Sem Sælands vei 11</sa:address-line>
+                  <sa:city>Trondheim</sa:city>
+                  <sa:postal-code>7034</sa:postal-code>
+                  <sa:country>Norway</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0002">Dept. of Energy Systems, SINTEF Energy Research, Sem Sælands vei 11, Trondheim 7034, Norway</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="2" month="7" year="2021"/>
+         <ce:date-revised day="29" month="11" year="2021"/>
+         <ce:date-accepted day="3" month="12" year="2021"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">This paper presents a data set designed to represent Norwegian energy communities. As such it includes household consumption data collected from smart meter measurements and divided into consumer groups, appliance consumption data collected from Norwegian households, electric vehicle data regarding charging patterns, simulated photovoltaic power generation data based on temperature and irradiance data sets and wholesale electricity prices.</ce:simple-para>
+               <ce:simple-para id="sp0002" view="all">All data sets are further filtered by season, weekday/weekend and time segment, and then fitted to either a normal, exponential or log-normal distribution. The reason for this specific segmentation is the intention to provide a suitable data set for case studies and experiments on energy communities that consider uncertainty, a main challenge to be overcome in the practical implementation of energy community projects. In addition to this filtered version, the previously unpublished raw data sets on household consumption and photovoltaic power generation are also provided.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">Energy community</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Electric vehicles</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Electrical power system</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Household appliances</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">Local energy community</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="txt0006">Photovoltaics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="txt0007">Scandinavia</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

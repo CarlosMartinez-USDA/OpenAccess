@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100003">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Probucol treatment is associated with an ABCA1-independent mechanism of cholesterol efflux to lipid poor apolipoproteins from foam cell macrophages</dct:title>
+         <dct:creator>Anouar Hafiane MSc PhD</dct:creator>
+         <dct:creator>Alessandro Pisaturo MSc</dct:creator>
+         <dct:creator>Annalisa Ronca</dct:creator>
+         <dct:creator>Matteo Incerti PhD</dct:creator>
+         <dct:creator>Robert S. Kiss PhD</dct:creator>
+         <dct:creator>Elda Favari PhD</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Probucol</rdf:li>
+               <rdf:li>ABCA1</rdf:li>
+               <rdf:li>Apolipoprotein A-I</rdf:li>
+               <rdf:li>High-density lipoprotein</rdf:li>
+               <rdf:li>Cholesterol efflux</rdf:li>
+               <rdf:li>Cholesterol pool</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100003</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100003</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100003</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100003</dct:identifier>
+         <bam:articleNumber>100003</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-01-23T12:48:35Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100003</ja:aid>
+         <ce:article-number>100003</ce:article-number>
+         <ce:pii>S2667-1603(21)00002-8</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100003</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Probucol treatment is associated with an ABCA1-independent mechanism of cholesterol efflux to lipid poor apolipoproteins from foam cell macrophages</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000028-1427bcd948dbcc9fc9f5dda1d8a890ea">
+               <ce:given-name>Anouar</ce:given-name>
+               <ce:surname>Hafiane</ce:surname>
+               <ce:degrees>MSc, PhD</ce:degrees>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:anouar.hafiane@mail.mcgill.ca">anouar.hafiane@mail.mcgill.ca</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000028-5d98c531ed5885a9fd003c4c51c4c213">
+               <ce:given-name>Alessandro</ce:given-name>
+               <ce:surname>Pisaturo</ce:surname>
+               <ce:degrees>MSc</ce:degrees>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead005"
+                             type="email"
+                             xlink:href="mailto:alessandro.pisaturo@mail.mcgill.ca">alessandro.pisaturo@mail.mcgill.ca</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667160321000028-f32955179f50a775964758ca4d965515">
+               <ce:given-name>Annalisa</ce:given-name>
+               <ce:surname>Ronca</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead65" type="email" xlink:href="mailto:annalisa.ronca@unipr.it">annalisa.ronca@unipr.it</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667160321000028-ce6201fda266401f4b91c68e3a9315f6">
+               <ce:given-name>Matteo</ce:given-name>
+               <ce:surname>Incerti</ce:surname>
+               <ce:degrees>PhD</ce:degrees>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead432"
+                             type="email"
+                             xlink:href="mailto:matteo.incerti@unipr.it">matteo.incerti@unipr.it</ce:e-address>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667160321000028-e16c1fb09a5074de8e4252e860de040a">
+               <ce:given-name>Robert S.</ce:given-name>
+               <ce:surname>Kiss</ce:surname>
+               <ce:degrees>PhD</ce:degrees>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead456" type="email" xlink:href="mailto:robert.kiss@mcgill.ca">robert.kiss@mcgill.ca</ce:e-address>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667160321000028-087937f26b662e30a42f435f779b6f32">
+               <ce:given-name>Elda</ce:given-name>
+               <ce:surname>Favari</ce:surname>
+               <ce:degrees>PhD</ce:degrees>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0002">
+                  <ce:sup loc="post">⁎⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:elda.favari@unipr.it">elda.favari@unipr.it</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000028-b7590e2d63ba29a126f3a8b8dc28e26d">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Research Institute, McGill University Health Center, Montreal, QC, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Research Institute</sa:organization>
+                  <sa:organization>McGill University Health Center</sa:organization>
+                  <sa:city>Montreal</sa:city>
+                  <sa:state>QC</sa:state>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aResearch Institute, McGill University Health Center, Montreal, QC, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667160321000028-53e8a9038b85ab17227461e39649fde6">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Food and Drug, University of Parma, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Food and Drug</sa:organization>
+                  <sa:organization>University of Parma</sa:organization>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Food and Drug, University of Parma, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667160321000028-f087e096e7e0b281fcd847273798eb13">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Research Institute of the McGill University Health Center, Montreal, Canada and Department of Medicine, McGill University, Montreal, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Research Institute of the McGill University Health Center, Montreal, Canada and Department of Medicine</sa:organization>
+                  <sa:organization>McGill University</sa:organization>
+                  <sa:city>Montreal</sa:city>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cResearch Institute of the McGill University Health Center, Montreal, Canada and Department of Medicine, McGill University, Montreal, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Medicine, Faculty of Medicine, Research Institute of the McGill University Health Centre. 1001 boul Decarie, Montreal, Québec H3A 1A1, Canada.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Medicine, Faculty of Medicine</sa:organization>
+                  <sa:organization>Research Institute of the McGill University Health Centre</sa:organization>
+                  <sa:address-line>1001 boul Decarie, Montreal, Québec H3A 1A1</sa:address-line>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+            <ce:correspondence id="cor0002">
+               <ce:label>⁎⁎</ce:label>
+               <ce:text id="cetext0002">Corresponding author at: Department of Food and Drug, University of Parma, Parco Area delle Scienze, 27/A, 43124 Parma, Italy.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Food and Drug</sa:organization>
+                  <sa:organization>University of Parma</sa:organization>
+                  <sa:address-line>Parco Area delle Scienze, 27/A</sa:address-line>
+                  <sa:city>Parma</sa:city>
+                  <sa:postal-code>43124</sa:postal-code>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract class="author-highlights" id="abs0001" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara013" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Probucol is unable to completely inhibit cholesterol efflux in foam cells.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Functional nHDL is released from foam cells in the presence of probucol.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">ABCA1 expression is the same in non-foam and foam cells, but with different efflux.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">In probucol pretreated foam cells a new mechanism exists that is ABCA1-independent.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="author" id="abs0002" view="all">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:section-title id="cesectitle0003">Objective</ce:section-title>
+               <ce:simple-para id="spara014" view="all">Probucol is a cholesterol-lowering agent whose ability to prevent atherosclerosis is currently under study. Herein, we investigate the putative mechanism of probucol by observation of changes in cellular cholesterol efflux and lipid droplet morphology in macrophages.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara015" view="all">The inhibitory activity of probucol was assessed in non-foam or foam cell macrophages expressing ABCA1 generated by treatment with fetal calf serum (FCS) alone or in combination with acetylated LDL, respectively. Probucol inhibited cholesterol efflux to apolipoprotein A-I (apoA-I) by 31.5±0.1% in THP-1 non-foam cells and by 18.5±0.2% in foam cells. In probucol-treated non-foam THP-1 cells, nascent high density lipoprotein (nHDL) particles with a diameter &lt; 7 nm were generated, while in probucol-treated THP-1 foam cells nHDL particles of &gt; 7 nm in diameter containing cholesterol were produced. Foam cells also displayed a significant accumulation of free cholesterol at the plasma membrane, as measured by percent cholestenone formed. Intracellularly, there was a significant decrease in lipid droplet number and an increase in size in probucol-treated THP-1 foam cells when compared to non-treated cells.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusions</ce:section-title>
+               <ce:simple-para id="spara016" view="all">We report for the first time that probucol is unable to completely inhibit cholesterol efflux in foam cells to the same extent as in non-foam cells. Indeed, functional nHDL is released from foam cells in the presence of probucol. This difference in inhibitory effect could potentially be explained by changes in the plasma membrane pool as well as intracellular cholesterol storage independently of ABCA1.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="keyword" id="keys0001" view="all">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0003">Probucol</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0004">ABCA1</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0005">Apolipoprotein A-I</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0006">High-density lipoprotein</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0007">Cholesterol efflux</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0008">Cholesterol pool</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords class="abr" id="keys0002" view="all">
+            <ce:section-title id="cesectitle0007">Abbreviations</ce:section-title>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0009">HDL</ce:text>
+               <ce:keyword id="key9a">
+                  <ce:text id="cetext9a">high density lipoprotein</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0010">THP-1</ce:text>
+               <ce:keyword id="key10a">
+                  <ce:text id="cetext10a">Tamm-Horsfall protein 1</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0009">
+               <ce:text id="cetext0011">LD</ce:text>
+               <ce:keyword id="key11a">
+                  <ce:text id="cetext11a">lipid droplet</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0010">
+               <ce:text id="cetext0012">ABCA1</ce:text>
+               <ce:keyword id="key12a">
+                  <ce:text id="cetext12a">ATP-binding cassette A1</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011">
+               <ce:text id="cetext0013">LDL</ce:text>
+               <ce:keyword id="key13a">
+                  <ce:text id="cetext13a">low-density lipoprotein</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0012">
+               <ce:text id="cetext0014">BHK</ce:text>
+               <ce:keyword id="key14a">
+                  <ce:text id="cetext14a">baby hamster kidney cells</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0013">
+               <ce:text id="cetext0015">FCS</ce:text>
+               <ce:keyword id="key15a">
+                  <ce:text id="cetext15a">fetal calf serum</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0014">
+               <ce:text id="cetext0016">BSA</ce:text>
+               <ce:keyword id="key16a">
+                  <ce:text id="cetext16a">bovine serum albumin</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0015">
+               <ce:text id="cetext0017">ApoA-I</ce:text>
+               <ce:keyword id="key17a">
+                  <ce:text id="cetext17a">apolipoprotein A-I</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

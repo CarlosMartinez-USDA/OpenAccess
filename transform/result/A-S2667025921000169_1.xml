@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100024">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Formulation design, production and characterisation of solid lipid nanoparticles (SLN) and nanostructured lipid carriers (NLC) for the encapsulation of a model hydrophobic active</dct:title>
+         <dct:creator>Georgia I. Sakellari</dct:creator>
+         <dct:creator>Ioanna Zafeiri</dct:creator>
+         <dct:creator>Hannah Batchelor</dct:creator>
+         <dct:creator>Fotis Spyropoulos</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Solid lipid nanoparticles</rdf:li>
+               <rdf:li>Nanostructured lipid carriers</rdf:li>
+               <rdf:li>Hydrophobic active</rdf:li>
+               <rdf:li>Crystallinity</rdf:li>
+               <rdf:li>Pickering functionality</rdf:li>
+               <rdf:li>Hansen solubility parameter</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health 1 (2021). doi:10.1016/j.fhfh.2021.100024</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fhfh.2021.100024</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100024</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100024</dct:identifier>
+         <bam:articleNumber>100024</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-08-21T03:00:31Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Biotechnology and Biological Sciences Research Council</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100024</ja:aid>
+         <ce:article-number>100024</ce:article-number>
+         <ce:pii>S2667-0259(21)00016-9</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100024</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Formulation design, production and characterisation of solid lipid nanoparticles (SLN) and nanostructured lipid carriers (NLC) for the encapsulation of a model hydrophobic active</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025921000169-cc8af46f4578db9831729d0b63363fcd">
+               <ce:given-name>Georgia I.</ce:given-name>
+               <ce:surname>Sakellari</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:gis823@bham.ac.uk">gis823@bham.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025921000169-b3ef9a079d0a4c8855921c75956f4267">
+               <ce:given-name>Ioanna</ce:given-name>
+               <ce:surname>Zafeiri</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667025921000169-2677fd51a0562aa2914e76470581d05c">
+               <ce:given-name>Hannah</ce:given-name>
+               <ce:surname>Batchelor</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667025921000169-ec715c3cfacc166cc33ee5a7d49d7321">
+               <ce:given-name>Fotis</ce:given-name>
+               <ce:surname>Spyropoulos</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025921000169-4bcb1f2e776c5e05adaca3bee0cdb22e">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">School of Chemical Engineering, University of Birmingham, Edgbaston, Birmingham, B15 2TT, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Chemical Engineering</sa:organization>
+                  <sa:organization>University of Birmingham</sa:organization>
+                  <sa:city>Edgbaston</sa:city>
+                  <sa:state>Birmingham</sa:state>
+                  <sa:postal-code>B15 2TT</sa:postal-code>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aSchool of Chemical Engineering, University of Birmingham, Edgbaston, Birmingham, B15 2TT, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667025921000169-9de2df277e5e750199bde2b0c3df8ca0">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Strathclyde Institute of Pharmacy and Biomedical Sciences, University of Strathclyde, 161 Cathedral Street, Glasgow, G4 0RE, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Strathclyde Institute of Pharmacy and Biomedical Sciences</sa:organization>
+                  <sa:organization>University of Strathclyde</sa:organization>
+                  <sa:address-line>161 Cathedral Street</sa:address-line>
+                  <sa:city>Glasgow</sa:city>
+                  <sa:postal-code>G4 0RE</sa:postal-code>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bStrathclyde Institute of Pharmacy and Biomedical Sciences, University of Strathclyde, 161 Cathedral Street, Glasgow, G4 0RE, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="31" month="5" year="2021"/>
+         <ce:date-revised day="5" month="8" year="2021"/>
+         <ce:date-accepted day="20" month="8" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara012" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Lipid materials were chosen based on theoretical and experimental lipid screening.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">SLNs and NLCs with high curcumin loading were produced using the selected lipids.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Nano-sized lipid particles fabricated by tuning the processing parameters.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0006" view="all">Lipid matrix component compatibility affects thermal properties as shown by DSC.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0007" view="all">Formation of distinct lipid structures in liquid lipid concentration-dependent manner.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara013" view="all">Lipid nanoparticles have been widely investigated for their use as either carriers for poorly water soluble actives or as (Pickering) emulsion stabilisers. Recent studies have suggested that the fabrication of lipid nanostructures that can display both these performances concurrently, can enable the development of liquid formulations for multi-active encapsulation and release. Understanding the effects of different formulation variables on the microstructural attributes that underline both these functionalities is crucial in developing such lipid nanostructures. In this study, two types of lipid-based nanoparticles, solid lipid nanoparticles and nanostructured lipid carriers, were fabricated using varying formulation parameters, namely type of solid lipid, concentration of liquid lipid and type/concentration of surface active species. The impact of these formulation parameters on the size, thermal properties, encapsulation efficiency, loading capacity and long-term storage stability of the developed lipid systems, was studied. Preliminary lipid screening and processing conditions studies, focused on creating a suitable lipid host matrix of appropriate dimensions that could enable the high loading of a model hydrophobic active (curcumin). Informed by this, selected lipid nanostructures were then produced. These were characterised by encapsulation efficiency and loading capacity values as high as 99% and 5%, respectively, and particle dimensions within the desirable size range (100-200 nm) required to enable Pickering functionality. Compatibility between the lipid matrix components, and liquid lipid/active addition were shown to greatly influence the polymorphism/crystallinity of the fabricated particles, with the latter demonstrating a liquid lipid concentration-dependent behaviour. Successful long-term storage stability of up to 28 weeks was confirmed for certain formulations.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003a">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara014" view="all">Graphical abstract</ce:simple-para>
+               <ce:simple-para id="spara015" view="all"> [Display omitted] .</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Solid lipid nanoparticles</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Nanostructured lipid carriers</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Hydrophobic active</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Crystallinity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Pickering functionality</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Hansen solubility parameter</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

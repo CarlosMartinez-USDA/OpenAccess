@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107562">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset of NMR-spectra pyrrolyl- and indolylazines and evidence of their ability to induce heat shock genes expression in human neurons</dct:title>
+         <dct:creator>Elizaveta A. Dutysheva</dct:creator>
+         <dct:creator>Irina A. Utepova</dct:creator>
+         <dct:creator>Maria A. Trestsova</dct:creator>
+         <dct:creator>Alexander S. Anisimov</dct:creator>
+         <dct:creator>Valery N. Charushin</dct:creator>
+         <dct:creator>Oleg N. Chupakhin</dct:creator>
+         <dct:creator>Boris A. Margulis</dct:creator>
+         <dct:creator>Irina V. Guzhova</dct:creator>
+         <dct:creator>Vladimir F. Lazarev</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Pyrrolylazines</rdf:li>
+               <rdf:li>Indolylazines</rdf:li>
+               <rdf:li>Photocatalysis</rdf:li>
+               <rdf:li>Nuclear magnetic resonance</rdf:li>
+               <rdf:li>Green chemistry</rdf:li>
+               <rdf:li>Heat shock genes</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107562</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107562</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107562</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107562</dct:identifier>
+         <bam:articleNumber>107562</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-09T08:01:41Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107562</ja:aid>
+         <ce:article-number>107562</ce:article-number>
+         <ce:pii>S2352-3409(21)00838-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107562</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0223-5234(21)00426-8</ce:pii>
+               <ce:doi>10.1016/j.ejmech.2021.113577</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset of NMR-spectra pyrrolyl- and indolylazines and evidence of their ability to induce heat shock genes expression in human neurons</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008386-0c8ed1640800807e5ef102cd6841e90e"
+                       orcid="0000-0003-0354-5199">
+               <ce:given-name>Elizaveta A.</ce:given-name>
+               <ce:surname>Dutysheva</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008386-f68efa915ed8ae72189dfc1ebe2a8862"
+                       orcid="0000-0003-4692-9176">
+               <ce:given-name>Irina A.</ce:given-name>
+               <ce:surname>Utepova</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008386-8d7cf7c1e0a063c89e5947f234f11075">
+               <ce:given-name>Maria A.</ce:given-name>
+               <ce:surname>Trestsova</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008386-6a1f62e995a6190b5403efc9d3bdde59">
+               <ce:given-name>Alexander S.</ce:given-name>
+               <ce:surname>Anisimov</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008386-5f139ff6f263f3b7501faf99af686a8b">
+               <ce:given-name>Valery N.</ce:given-name>
+               <ce:surname>Charushin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008386-4d89f0ebc9a85de480b8cb0e1fadc2de">
+               <ce:given-name>Oleg N.</ce:given-name>
+               <ce:surname>Chupakhin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921008386-ddc8bfe9e8435e02a5711afeee61fe01">
+               <ce:given-name>Boris A.</ce:given-name>
+               <ce:surname>Margulis</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921008386-c5099951421c85c0abf21a57e2c340ca"
+                       orcid="0000-0002-8775-7713">
+               <ce:given-name>Irina V.</ce:given-name>
+               <ce:surname>Guzhova</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921008386-cbad639f9a2e56a10580436ea5f5d6d3"
+                       orcid="0000-0002-7117-6789">
+               <ce:given-name>Vladimir F.</ce:given-name>
+               <ce:surname>Lazarev</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:lazarev@incras.ru">lazarev@incras.ru</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008386-14911e1d2e522bdfe7fac4c1977cd66c">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Russian Academy of Sciences, Institute of Cytology, St. Petersburg 194064, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Russian Academy of Sciences</sa:organization>
+                  <sa:organization>Institute of Cytology</sa:organization>
+                  <sa:city>St. Petersburg</sa:city>
+                  <sa:postal-code>194064</sa:postal-code>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aRussian Academy of Sciences, Institute of Cytology, St. Petersburg 194064, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008386-9f0b2fd2490a1869253204b73de5b3b6">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Ural Federal University, Ekaterinburg 620002, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Ural Federal University</sa:organization>
+                  <sa:city>Ekaterinburg</sa:city>
+                  <sa:postal-code>620002</sa:postal-code>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bUral Federal University, Ekaterinburg 620002, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008386-451a82b218a8864d97622b2c634d38b5">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Postovsky Institute of Organic Synthesis, Ural Branch of the Russian Academy of Sciences, Ekaterinburg 620108, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Postovsky Institute of Organic Synthesis</sa:organization>
+                  <sa:organization>Ural Branch of the Russian Academy of Sciences</sa:organization>
+                  <sa:city>Ekaterinburg</sa:city>
+                  <sa:postal-code>620108</sa:postal-code>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cPostovsky Institute of Organic Synthesis, Ural Branch of the Russian Academy of Sciences, Ekaterinburg 620108, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="3" month="9" year="2021"/>
+         <ce:date-revised day="1" month="11" year="2021"/>
+         <ce:date-accepted day="8" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara021" view="all">These data are related to our previous paper “Synthesis and approbation of new neuroprotective chemicals of pyrrolyl- and indolylazine classes in a cell model of Alzheimer's disease” (Dutysheva et al., 2021), in which we demonstrate neuroprotective abilities of pyrrolyl- and indolylazines in a cell model of Alzheimer's disease. Using a novel procedure of photocatalysis we have synthesized a group of new compounds. The current article presents nuclear magnetic resonance spectra including heteronuclear single quantum coherence spectra of chemicals synthesized by us. The effect of new compounds have on heat shock proteins genes expression in reprogrammed human neurons are presented. We also presented data that verify neuronal phenotype of reprogrammed cells.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Pyrrolylazines</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Indolylazines</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Photocatalysis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Nuclear magnetic resonance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Green chemistry</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Heat shock genes</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

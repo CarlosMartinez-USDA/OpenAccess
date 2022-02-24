@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100019">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Quantitative assessment of chlorophyll types in cryo-EM maps of photosystem I acclimated to far-red light</dct:title>
+         <dct:creator>Christopher J. Gisriel</dct:creator>
+         <dct:creator>Hao-Li Huang</dct:creator>
+         <dct:creator>Krystle M. Reiss</dct:creator>
+         <dct:creator>David A. Flesher</dct:creator>
+         <dct:creator>Victor S. Batista</dct:creator>
+         <dct:creator>Donald A. Bryant</dct:creator>
+         <dct:creator>Gary W. Brudvig</dct:creator>
+         <dct:creator>Jimin Wang</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Chlorophyll</rdf:li>
+               <rdf:li>Photosynthesis</rdf:li>
+               <rdf:li>Photosystem I</rdf:li>
+               <rdf:li>Cryo-EM</rdf:li>
+               <rdf:li>Far-red light</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100019</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100019</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100019</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100019</dct:identifier>
+         <bam:articleNumber>100019</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-06-22T12:43:11Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100019</ja:aid>
+         <ce:article-number>100019</ce:article-number>
+         <ce:pii>S2667-1603(21)00018-1</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100019</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Quantitative assessment of chlorophyll types in cryo-EM maps of photosystem I acclimated to far-red light</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000181-2d1b4c3e1b066ee80bbaca1523fee69e">
+               <ce:given-name>Christopher J.</ce:given-name>
+               <ce:surname>Gisriel</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:christopher.gisriel@yale.edu">christopher.gisriel@yale.edu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000181-b716cbac1c77365b4f2ba0cae6935b61">
+               <ce:given-name>Hao-Li</ce:given-name>
+               <ce:surname>Huang</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667160321000181-81bb049d4b43336e0bc51f90bb231f4a">
+               <ce:given-name>Krystle M.</ce:given-name>
+               <ce:surname>Reiss</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667160321000181-04ad6e2f1e8c95a2bd7fb8619a0e4509">
+               <ce:given-name>David A.</ce:given-name>
+               <ce:surname>Flesher</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667160321000181-e9c6d421c53500c8e919fbccca9e9510">
+               <ce:given-name>Victor S.</ce:given-name>
+               <ce:surname>Batista</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667160321000181-94330936458566e6ff48be2a74b22dbd">
+               <ce:given-name>Donald A.</ce:given-name>
+               <ce:surname>Bryant</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667160321000181-341f5ad95a289eefac2c5c0826eb3322">
+               <ce:given-name>Gary W.</ce:given-name>
+               <ce:surname>Brudvig</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667160321000181-7fcc4be9dca25068002029a7547989e5">
+               <ce:given-name>Jimin</ce:given-name>
+               <ce:surname>Wang</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:jimin.wang@yale.edu">jimin.wang@yale.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000181-3c6be69b1645fc726e24e8847a78ab5d">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Chemistry, Yale University, New Haven, CT 06520, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>Yale University</sa:organization>
+                  <sa:city>New Haven</sa:city>
+                  <sa:state>CT</sa:state>
+                  <sa:postal-code>06520</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Chemistry, Yale University, New Haven, CT 06520, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667160321000181-8202627ba7e58e25f8f92c46887c884b">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Molecular Biophysics and Biochemistry</sa:organization>
+                  <sa:organization>Yale University</sa:organization>
+                  <sa:city>New Haven</sa:city>
+                  <sa:state>CT</sa:state>
+                  <sa:postal-code>06520</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667160321000181-c7a8e34b2ba2b85665ba7efdc730efaa">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, PA 16802, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biochemistry and Molecular Biology</sa:organization>
+                  <sa:organization>The Pennsylvania State University</sa:organization>
+                  <sa:organization>University Park</sa:organization>
+                  <sa:state>PA</sa:state>
+                  <sa:postal-code>16802</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, PA 16802, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding authors.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">These authors contributed equally.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:abstract class="author-highlights" id="abs0001" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">A method of cryo-EM map analysis to determine chlorophyll substituents is developed.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">An improved molecular structure of far-red light photosystem I is presented.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Cryo-EM maps of far-red light photosystem I provide direct evidence for chlorophyll <ce:italic>f</ce:italic>.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Chlorophyll <ce:italic>f</ce:italic>-binding sites are predicted in far-red light-acclimated photosystem II.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="author" id="abs0002" view="all">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara006" view="all">Chlorophyll cofactors are vital for the metabolism of photosynthetic organisms. Cryo-electron microscopy (cryo-EM) has been used to elucidate molecular structures of pigment-protein complexes, but the minor structural differences between multiple types of chlorophylls make them difficult to distinguish in cryo-EM maps. This is exemplified by inconsistencies in the assignments of chlorophyll <ce:italic>f</ce:italic> molecules in structures of photosystem I acclimated to far-red light (FRL-PSI). A quantitative assessment of chlorophyll substituents in cryo-EM maps was used to identify chlorophyll <ce:italic>f</ce:italic>-binding sites in structures of FRL-PSI from two cyanobacteria. The two cryo-EM maps provide direct evidence for chlorophyll <ce:italic>f</ce:italic>-binding at two and three binding sites, respectively, and three more sites in each structure exhibit strong indirect evidence for chlorophyll <ce:italic>f</ce:italic>-binding. Common themes in chlorophyll <ce:italic>f</ce:italic>-binding are described that clarify the current understanding of the molecular basis for FRL photoacclimation in photosystems.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="keyword" id="keys0001" view="all">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Chlorophyll</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Photosynthesis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Photosystem I</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Cryo-EM</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Far-red light</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

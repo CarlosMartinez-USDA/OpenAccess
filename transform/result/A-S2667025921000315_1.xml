@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100039">
+         <dct:format>application/xml</dct:format>
+         <dct:title>3D printing of Osage orange extract/Chitosan scaffolds for soft tissue engineering</dct:title>
+         <dct:creator>Elif Saatcioglu</dct:creator>
+         <dct:creator>Muge Koyun</dct:creator>
+         <dct:creator>Songul Ulag</dct:creator>
+         <dct:creator>Ali Sahin</dct:creator>
+         <dct:creator>Betul Karademir Yilmaz</dct:creator>
+         <dct:creator>Burak Aksu</dct:creator>
+         <dct:creator>Oguzhan Gunduz</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Chitosan</rdf:li>
+               <rdf:li>Maclura pomifera</rdf:li>
+               <rdf:li>Osage orange</rdf:li>
+               <rdf:li>Wound healing</rdf:li>
+               <rdf:li>3D printing</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health 1 (2021). doi:10.1016/j.fhfh.2021.100039</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fhfh.2021.100039</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100039</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100039</dct:identifier>
+         <bam:articleNumber>100039</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-12T12:45:49Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100039</ja:aid>
+         <ce:article-number>100039</ce:article-number>
+         <ce:pii>S2667-0259(21)00031-5</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100039</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">3D printing of Osage orange extract/Chitosan scaffolds for soft tissue engineering</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025921000315-32b6d22402f6f0b7ab5b9d2fbebf755d">
+               <ce:given-name>Elif</ce:given-name>
+               <ce:surname>Saatcioglu</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025921000315-312d5fb8ae64318b5208a7a8f78507c6">
+               <ce:given-name>Muge</ce:given-name>
+               <ce:surname>Koyun</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667025921000315-d39a8971454d76c85294bf94c39d8608">
+               <ce:given-name>Songul</ce:given-name>
+               <ce:surname>Ulag</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667025921000315-f14ebabf5913a5dba7b3fccfa8328846">
+               <ce:given-name>Ali</ce:given-name>
+               <ce:surname>Sahin</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667025921000315-8374ffbe7734d5f6997493d33732aae9">
+               <ce:given-name>Betul Karademir</ce:given-name>
+               <ce:surname>Yilmaz</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667025921000315-d18c2b63188f64b15c340907a40e1dcb">
+               <ce:given-name>Burak</ce:given-name>
+               <ce:surname>Aksu</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667025921000315-877ffcff2b8996b4d92526cfbf4605fd">
+               <ce:given-name>Oguzhan</ce:given-name>
+               <ce:surname>Gunduz</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:ucemogu@ucl.ac.uk">ucemogu@ucl.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025921000315-a1b78dfb7df807c68cc21bbb09c836c9">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Center for Nanotechnology &amp; Biomaterials Application and Research (NBUAM), Marmara University, Turkey</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Center for Nanotechnology &amp; Biomaterials Application and Research (NBUAM)</sa:organization>
+                  <sa:organization>Marmara University</sa:organization>
+                  <sa:country>Turkey</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aCenter for Nanotechnology &amp; Biomaterials Application and Research (NBUAM), Marmara University, Turkey</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667025921000315-86107785cb1e430d4805cf0767d90a0a">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Bioengineering, Faculty of Chemistry and Metallurgy, Yildiz Technical University, Turkey</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Bioengineering, Faculty of Chemistry and Metallurgy</sa:organization>
+                  <sa:organization>Yildiz Technical University</sa:organization>
+                  <sa:country>Turkey</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Bioengineering, Faculty of Chemistry and Metallurgy, Yildiz Technical University, Turkey</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667025921000315-fb91c9a7808c2cae3f0fc153b1da70ed">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Biochemistry, Faculty of Medicine, Marmara University, Istanbul, Turkey</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biochemistry, Faculty of Medicine</sa:organization>
+                  <sa:organization>Marmara University</sa:organization>
+                  <sa:state>Istanbul</sa:state>
+                  <sa:country>Turkey</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Biochemistry, Faculty of Medicine, Marmara University, Istanbul, Turkey</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667025921000315-19967250f5d52425ff459efdfcea522d">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Medical Microbiology, Marmara University School of Medicine, Istanbul, Turkey</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Medical Microbiology</sa:organization>
+                  <sa:organization>Marmara University School of Medicine</sa:organization>
+                  <sa:state>Istanbul</sa:state>
+                  <sa:country>Turkey</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Medical Microbiology, Marmara University School of Medicine, Istanbul, Turkey</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667025921000315-814f2373ac80226ed395d6432ff34d79">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Metallurgical and Materials Engineering, Faculty of Technology, Marmara University, Goztepe campus, Metalurji ve Malzeme Müh. Göztepe K., Istanbul 34722, Turkey</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Metallurgical and Materials Engineering, Faculty of Technology</sa:organization>
+                  <sa:organization>Marmara University</sa:organization>
+                  <sa:address-line>Goztepe campus, Metalurji ve Malzeme Müh. Göztepe K.</sa:address-line>
+                  <sa:state>Istanbul</sa:state>
+                  <sa:postal-code>34722</sa:postal-code>
+                  <sa:country>Turkey</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eMetallurgical and Materials Engineering, Faculty of Technology, Marmara University, Goztepe campus, Metalurji ve Malzeme Müh. Göztepe K., Istanbul 34722, Turkey</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="9" month="9" year="2021"/>
+         <ce:date-revised day="8" month="11" year="2021"/>
+         <ce:date-accepted day="12" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara011" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>1</ce:label>
+                        <ce:para id="para0001" view="all">Maclura pomifera (Osage orange) is a good bioactive material candidate for loading into three-dimensional scaffolds.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>2</ce:label>
+                        <ce:para id="para0002" view="all">A novel porous 3D scaffolds were fabricated by 3D printing technology.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>3</ce:label>
+                        <ce:para id="para0003" view="all">Osage orange was successfully extracted and the Chitosan/Osage orange blends in 3D printed scaffolds can be good combinations for soft tissue engineering.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>4</ce:label>
+                        <ce:para id="para0004" view="all">The presence of Osage orange in 3D scaffolds enhanced its biocompatibility.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara012" view="all">In this study, three-dimensional tissue scaffolds were fabricated using a 3D printing process. Chitosan (CS) was used as a matrix polymer, and Osage orange extract (OGE) with different amounts was added as a bioactive material. The scaffolds were characterized by SEM, FTIR, tensile testing, antibacterial, and biocompatibility tests. The SEM images revealed that scaffolds had homogeneous morphology, and the size of the pores ranged from 160 µm to 270 µm. FTIR spectrum of the extracted Osage Orange confirmed the successful extraction of the Osage Orange. The OGE addition decreased the swelling capacity of the CS scaffold proportionally. Biocompatibility results proved the biostability properties of the scaffolds. According to the results, the antibacterial activity of the scaffolds against the <ce:italic>Staphylococcus Aureus (S. aureus)</ce:italic> and <ce:italic>Enterococcus Faecalis (E. faecalis)</ce:italic> should be provided after detailed optimization.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara013" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0004">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Chitosan</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Maclura pomifera</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Osage orange</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Wound healing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">3D printing</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

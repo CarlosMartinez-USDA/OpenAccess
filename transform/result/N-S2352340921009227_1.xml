@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>RNA-seq dataset of subcutaneous adipose tissue: Transcriptional differences between obesity and healthy women</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Letizia</namePart>
+      <namePart type="family">Messa</namePart>
+      <displayForm>Messa, Letizia</displayForm>
+      <affiliation>Department of Chemistry, Materials and Chemical Engineering ``Giulio Natta'', Politecnico di Milano, Milano, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Federica</namePart>
+      <namePart type="family">Rey</namePart>
+      <displayForm>Rey, Federica</displayForm>
+      <affiliation>Department of Biomedical and Clinical Sciences ``L. Sacco'', University of Milan, Via Grassi 74, 20157 Milan, Italy</affiliation>
+      <affiliation>Pediatric Clinical Research Centre Fondazione “Romeo ed Enrica Invernizzi”, University of Milano, Milano, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cecilia</namePart>
+      <namePart type="family">Pandini</namePart>
+      <displayForm>Pandini, Cecilia</displayForm>
+      <affiliation>Genomic and post-Genomic Centre, IRCCS Mondino Foundation, 27100 Pavia, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bianca</namePart>
+      <namePart type="family">Barzaghini</namePart>
+      <displayForm>Barzaghini, Bianca</displayForm>
+      <affiliation>Department of Chemistry, Materials and Chemical Engineering ``Giulio Natta'', Politecnico di Milano, Milano, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Giancarlo</namePart>
+      <namePart type="family">Micheletto</namePart>
+      <displayForm>Micheletto, Giancarlo</displayForm>
+      <affiliation>Department of Pathophysiology and Transplantation, INCO and Department of General Surgery, Istituto Clinico Sant'Ambrogio, University of Milan, Milan, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Manuela Teresa</namePart>
+      <namePart type="family">Raimondi</namePart>
+      <displayForm>Raimondi, Manuela Teresa</displayForm>
+      <affiliation>Department of Chemistry, Materials and Chemical Engineering ``Giulio Natta'', Politecnico di Milano, Milano, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Simona</namePart>
+      <namePart type="family">Bertoli</namePart>
+      <displayForm>Bertoli, Simona</displayForm>
+      <affiliation>Obesity Unit—Laboratory of Nutrition and Obesity Research, Department of Endocrine and Metabolic Diseases, IRCCS Istituto Auxologico Italiano, Milan, Italy</affiliation>
+      <affiliation>International Center for the Assessment of Nutritional Status (ICANS), Department of Food, Environmental and Nutritional Sciences (DeFENS), University of Milan, Milan, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cristina</namePart>
+      <namePart type="family">Cereda</namePart>
+      <displayForm>Cereda, Cristina</displayForm>
+      <affiliation>Department of Women, Mothers and Neonatal Care, Children's Hospital ``V. Buzzi'', Milan, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gianvincenzo</namePart>
+      <namePart type="family">Zuccotti</namePart>
+      <displayForm>Zuccotti, Gianvincenzo</displayForm>
+      <affiliation>Department of Biomedical and Clinical Sciences ``L. Sacco'', University of Milan, Via Grassi 74, 20157 Milan, Italy</affiliation>
+      <affiliation>Pediatric Clinical Research Centre Fondazione “Romeo ed Enrica Invernizzi”, University of Milano, Milano, Italy</affiliation>
+      <affiliation>Department of Pediatrics, Children's Hospital ``V. Buzzi'', Milan, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Raffaella</namePart>
+      <namePart type="family">Cancello</namePart>
+      <displayForm>Cancello, Raffaella</displayForm>
+      <affiliation>Obesity Unit—Laboratory of Nutrition and Obesity Research, Department of Endocrine and Metabolic Diseases, IRCCS Istituto Auxologico Italiano, Milan, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Stephana</namePart>
+      <namePart type="family">Carelli</namePart>
+      <displayForm>Carelli, Stephana</displayForm>
+      <affiliation>Department of Biomedical and Clinical Sciences ``L. Sacco'', University of Milan, Via Grassi 74, 20157 Milan, Italy</affiliation>
+      <affiliation>Pediatric Clinical Research Centre Fondazione “Romeo ed Enrica Invernizzi”, University of Milano, Milano, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In this data article, we present the dataset from the RNA-Seq analysis of subcutaneous adipose tissue collected from 5 healthy normal weight women (NW, age 37 ± 6.7 years, BMI 24.3 ± 0.9 kg/m²) and 5 obese women (OBF, age 41 ± 12.5 years, BMI 38.2 ± 4.6 kg/m²). Raw data obtained from Illumina NextSeq 500 sequencer were processed through BlueBee® Genomics Platform while differential expression analysis was performed with the DESeq2 R package and deposited in the GEO public repository with GSE166047 as accession number. Specifically, 20 samples divided between NW (control), OBF (obese women), OBM (obese male) and OBT2D (obese women with diabetes) are deposited in the GSE166047. We hereby describe only 10 samples (5 healthy normal weight women reported as NW and 5 obese women reported as OBF) because we refer to the data published in the article “Transcriptional characterization of Subcutaneous Adipose Tissue in obesity affected women highlights metabolic dysfunction and implications for lncRNAs” (DOI: 10.1016/j.ygeno.2021.09.014). Pathways analyses were performed on g:Profiler, Enrichr, ClueGO and GSEA to gain biological insights on gene expression. Raw data reported in GEO database along with detailed methods description reported in this data article could be reused for comparisons with other datasets on the topic to obtain transcriptional differences in a wider co-hort. Moreover, detailed pathways analysis along with cross-referenced data with other datasets will allow to identify novel dysregulated pathways and genes responsible for this regulation. The biological interpretation of this dataset, along with related in vitro experiments, is reported by Rey et al., in Genomics (DOI: 10.1016/j.ygeno.2021.09.014). </abstract>
+   <subject>
+      <topic>RNA-Seq analysis</topic>
+   </subject>
+   <subject>
+      <topic>Transcriptome analysis</topic>
+   </subject>
+   <subject>
+      <topic>Deregulated pathways</topic>
+   </subject>
+   <subject>
+      <topic>GSEA</topic>
+   </subject>
+   <subject>
+      <topic>R Studio</topic>
+   </subject>
+   <subject>
+      <topic>UMI</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107647</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107647</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107647</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00922-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-25"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009227/S2352340921009227.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/S2772-2759(21)00013-7">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Editorial Board</dct:title>
+         <dct:description>Measurement: Food 4 (2021). doi:10.1016/S2772-2759(21)00013-7</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Measurement: Food</prism:publicationName>
+         <dct:publisher>Elsevier Ltd</dct:publisher>
+         <prism:issn>2772-2759</prism:issn>
+         <prism:volume>4</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/S2772-2759(21)00013-7</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/S2772-2759(21)00013-7</prism:url>
+         <dct:identifier>doi:10.1016/S2772-2759(21)00013-7</dct:identifier>
+         <bam:articleNumber>100016</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-16T09:07:15Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:simple-article docsubtype="edb" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>MEAFOO</ja:jid>
+         <ja:aid>100016</ja:aid>
+         <ce:article-number>100016</ce:article-number>
+         <ce:pii>S2772-2759(21)00013-7</ce:pii>
+         <ce:doi>10.1016/S2772-2759(21)00013-7</ce:doi>
+         <ce:copyright type="free-of-copyright" year="2019"/>
+      </ja:item-info>
+      <ja:simple-head>
+         <ce:title id="tm001">Editorial Board</ce:title>
+      </ja:simple-head>
+   </ja:simple-article>
+</doc:document>

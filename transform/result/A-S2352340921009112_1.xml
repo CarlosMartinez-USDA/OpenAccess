@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107636">
+         <dct:format>application/xml</dct:format>
+         <dct:title>16S rRNA gene amplicon sequence data from sunflower endosphere bacterial community</dct:title>
+         <dct:creator>Olubukola Oluranti Babalola</dct:creator>
+         <dct:creator>Bartholomew Saanu Adeleke</dct:creator>
+         <dct:creator>Ayansina Segun Ayangbenro</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>DNA extraction</rdf:li>
+               <rdf:li>Endophytes</rdf:li>
+               <rdf:li>Helianthus annus</rdf:li>
+               <rdf:li>Illumina sequencing</rdf:li>
+               <rdf:li>South Africa</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107636</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107636</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107636</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107636</dct:identifier>
+         <bam:articleNumber>107636</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-23T09:21:52Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107636</ja:aid>
+         <ce:article-number>107636</ce:article-number>
+         <ce:pii>S2352-3409(21)00911-2</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107636</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">16S rRNA gene amplicon sequence data from sunflower endosphere bacterial community</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       orcid="0000-0003-4344-1909"
+                       author-id="S2352340921009112-f226a68c59271540486290c996f2bd31">
+               <ce:given-name>Olubukola Oluranti</ce:given-name>
+               <ce:surname>Babalola</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:olubukola.babalola@nwu.ac.za">olubukola.babalola@nwu.ac.za</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       orcid="0000-0001-7707-8816"
+                       author-id="S2352340921009112-60b29c9c8734d3d4d7855fbc53132a20">
+               <ce:given-name>Bartholomew Saanu</ce:given-name>
+               <ce:surname>Adeleke</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009112-9fdcd98c79ae44720091619fb53a6d99"
+                       orcid="0000-0002-3220-1873">
+               <ce:given-name>Ayansina Segun</ce:given-name>
+               <ce:surname>Ayangbenro</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009112-7a0a348809bf96e6a226e0e2392b1a99">
+               <ce:textfn id="cetextfn0001">Food Security and Safety Niche Area, Faculty of Natural and Agricultural Sciences, North-West University, Private Bag X2046, Mmabatho 2735, South Africa</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Food Security and Safety Niche Area</sa:organization>
+                  <sa:organization>Faculty of Natural and Agricultural Sciences</sa:organization>
+                  <sa:organization>North-West University</sa:organization>
+                  <sa:address-line>Private Bag X2046</sa:address-line>
+                  <sa:city>Mmabatho</sa:city>
+                  <sa:postal-code>2735</sa:postal-code>
+                  <sa:country>South Africa</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Food Security and Safety Niche Area, Faculty of Natural and Agricultural Sciences, North-West University, Private Bag X2046, Mmabatho 2735, South Africa</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="3" month="6" year="2021"/>
+         <ce:date-revised day="9" month="10" year="2021"/>
+         <ce:date-accepted day="22" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara004" view="all">Insights into plant endosphere bacterial diversity and exploration of their bioincentives in the formulation of biofertilizers promise to avert ecological disturbances. Here, we presented the sequence dataset of the endophytic bacterial community from the roots and stems of sunflower obtained from farmlands in Itsoseng and Lichtenburg, North West Province of South Africa, using 16S rRNA gene amplicon sequencing. The climatic conditions of this region are characterized by an annual rainfall of about 600 mm and a temperature range of 3 to 21°C during winter and 22 to 34°C during summer. The genomic DNA was obtained from 1 g of each macerated sample using commercial DNA kits (DNeasy® Plant Mini kit, Qiagen, USA). The DNA was amplified through polymerase chain reaction at the V4 region using the specific forward and reverse primers. Amplicon sequencing was performed on the Miseq Illumina platform. Sequence read processing was performed using QIIME 1 16S-based pipeline implemented on Nephele microbial bioinformatics platform using default parameters. The sequence has been deposited in the Sequence Read Archive (SRA) of the National Center for Biotechnology Information (NCBI) with assigned Bioproject accession numbers. The data reveals the endophytic bacterial community structure and functions in sunflower cultivated in organic and nonorganic soils at growing and flowering stages.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">DNA extraction</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Endophytes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">
+                  <ce:italic>Helianthus annus</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Illumina sequencing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">South Africa</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

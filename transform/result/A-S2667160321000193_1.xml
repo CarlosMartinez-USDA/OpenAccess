@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100020">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Fragments of Locusta migratoria apoLp-III provide insight into lipid binding</dct:title>
+         <dct:creator>Blair A. Russell</dct:creator>
+         <dct:creator>James V.C. Horn</dct:creator>
+         <dct:creator>Paul M.M. Weers</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Apolipoprotein</rdf:li>
+               <rdf:li>Apolipophorin</rdf:li>
+               <rdf:li>Phospholipid</rdf:li>
+               <rdf:li>Diacylglycerol</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100020</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100020</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100020</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100020</dct:identifier>
+         <bam:articleNumber>100020</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-07-27T15:20:02Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100020</ja:aid>
+         <ce:article-number>100020</ce:article-number>
+         <ce:pii>S2667-1603(21)00019-3</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100020</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Fragments of <ce:italic>Locusta migratoria</ce:italic> apoLp-III provide insight into lipid binding</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000193-ab234cc56e3faa5395b1123bcc5eb916">
+               <ce:given-name>Blair A.</ce:given-name>
+               <ce:surname>Russell</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000193-d10f5b5d46308a70446ffb796a5a2d13">
+               <ce:given-name>James V.C.</ce:given-name>
+               <ce:surname>Horn</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667160321000193-745611ee9589e90c26b664559493d0ef">
+               <ce:given-name>Paul M.M.</ce:given-name>
+               <ce:surname>Weers</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:paul.weers@csulb.edu">paul.weers@csulb.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000193-e30e89e1848a549a3dfca8206bc200f3">
+               <ce:textfn id="cetextfn0001">Department of Chemistry and Biochemistry, California State University Long Beach, 1250 Bellflower Blvd, Long Beach, CA 90840, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry and Biochemistry</sa:organization>
+                  <sa:organization>California State University Long Beach</sa:organization>
+                  <sa:address-line>1250 Bellflower Blvd</sa:address-line>
+                  <sa:city>Long Beach</sa:city>
+                  <sa:state>CA</sa:state>
+                  <sa:postal-code>90840</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Chemistry and Biochemistry, California State University Long Beach, 1250 Bellflower Blvd, Long Beach, CA 90840, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara011" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Apolipophorin III was cut into an N- terminal and C-terminal fragment.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Both fragments displayed less helical character.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Both fragments solubilized phospholipid vesicles much faser than intact protein.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">C-terminal fragment did not bind to lipoproteins.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">N-terminal fragment contains amino acids required for lipoprotein binding.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara012" view="all">Apolipophorin III (apoLp-III) from <ce:italic>Locusta migratoria</ce:italic> is an exchangeable apolipoprotein with a critical role in lipid transport in insects. The protein is composed of a bundle of five amphipathic α-helices which undergo a large conformational change upon lipid binding. To better understand the apoLp-III lipid binding interaction, the protein was cleaved by cyanogen bromide upon introduction of a S92M mutation, generating an N-terminal fragment corresponding to the first three helices (NT<ce:inf loc="post">H1-3</ce:inf>) and a C-terminal fragment of the last two helices (CT<ce:inf loc="post">H4-5</ce:inf>). MALDI-TOF analysis of the HPLC purified fragments provided masses of 9863.8 Da for NT<ce:inf loc="post">H1-3</ce:inf> and 7497.0 Da for CT<ce:inf loc="post">H4-5</ce:inf> demonstrating that the intended fragments were obtained. Circular dichroism spectra revealed a decrease in helical content from 82% for the intact protein to 57% for NT<ce:inf loc="post">H1-3</ce:inf> and 41% for CT<ce:inf loc="post">H4-5</ce:inf>. The fragments adopted considerably higher α-helical structure in the presence of trifluoroethanol or phospholipids. Equimolar mixing of the two fragments did not result in changes in helical content or tryptophan fluorescence, indicating recombination into the native protein fold did not occur. The rate of protein induced dimyristoylphosphatidylcholine vesicle solubilization increased 15-fold for NT<ce:inf loc="post">H1-3</ce:inf> and 100-fold for CT<ce:inf loc="post">H4-5</ce:inf> compared to the intact protein. Despite the high activity in phospholipid vesicle interaction, CT<ce:inf loc="post">H4-5</ce:inf> did not protect phospholipase-treated low-density lipoprotein from aggregation. In contrast, NT<ce:inf loc="post">H1-3</ce:inf> provided protection to lipoprotein aggregation similar to the intact protein, indicating that specific amino acid residues in this part of apoLp-III are essential for lipoprotein binding interaction.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara013" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0004">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Apolipoprotein</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Apolipophorin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Phospholipid</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Diacylglycerol</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0002" class="abr" view="all">
+            <ce:section-title id="cesectitle0005">Abbreviations</ce:section-title>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">ANS, 8-anilinonaphthalene-1-sulfonic acid, ApoLp-III</ce:text>
+               <ce:keyword id="key6a">
+                  <ce:text id="cetext6a">apolipophorin III</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">NT</ce:text>
+               <ce:keyword id="key7a">
+                  <ce:text id="cetext7a">N-terminal</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">CD</ce:text>
+               <ce:keyword id="key8a">
+                  <ce:text id="cetext8a">circular dichroism</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">CNBr</ce:text>
+               <ce:keyword id="key9a">
+                  <ce:text id="cetext9a">cyanogen bromide</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0009">
+               <ce:text id="cetext0010">CT</ce:text>
+               <ce:keyword id="key10a">
+                  <ce:text id="cetext10a">C-terminal</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0010">
+               <ce:text id="cetext0011">DMS</ce:text>
+               <ce:keyword id="key11a">
+                  <ce:text id="cetext11a">dimethyl suberimidate</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011">
+               <ce:text id="cetext0012">DMPC</ce:text>
+               <ce:keyword id="key12a">
+                  <ce:text id="cetext12a">1,2-dimyristoyl-sn-glycero-3-phosphocholine</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0012">
+               <ce:text id="cetext0013">LUV</ce:text>
+               <ce:keyword id="key13a">
+                  <ce:text id="cetext13a">large unilamellar vesicle</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0013">
+               <ce:text id="cetext0014">LDL</ce:text>
+               <ce:keyword id="key14a">
+                  <ce:text id="cetext14a">low-density lipoprotein</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0014">
+               <ce:text id="cetext0015">PAGE</ce:text>
+               <ce:keyword id="key15a">
+                  <ce:text id="cetext15a">polyacrylamide gel electrophoresis</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0015">
+               <ce:text id="cetext0016">PBS</ce:text>
+               <ce:keyword id="key16a">
+                  <ce:text id="cetext16a">phosphate buffered saline</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0016">
+               <ce:text id="cetext0017">PL-C</ce:text>
+               <ce:keyword id="key17a">
+                  <ce:text id="cetext17a">phospholipase-C</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0017">
+               <ce:text id="cetext0018">SDS</ce:text>
+               <ce:keyword id="key18a">
+                  <ce:text id="cetext18a">sodium dodecyl sulfate</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0019">
+               <ce:text id="cetext0020">TFE</ce:text>
+               <ce:keyword id="key20a">
+                  <ce:text id="cetext20a">2,2,2-trifluoroethanol</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

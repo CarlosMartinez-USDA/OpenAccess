@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Examination of wheat kernels for the presence of Fusarium damage and mycotoxins using near-infrared hyperspectral imaging</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">M.</namePart>
+      <namePart type="family">Nadimi</namePart>
+      <displayForm>Nadimi, M.</displayForm>
+      <affiliation>Department of Biosystems Engineering, University of Manitoba, Winnipeg, Manitoba, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">J.M.</namePart>
+      <namePart type="family">Brown</namePart>
+      <displayForm>Brown, J.M.</displayForm>
+      <affiliation>Department of Biosystems Engineering, University of Manitoba, Winnipeg, Manitoba, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">J.</namePart>
+      <namePart type="family">Morrison</namePart>
+      <displayForm>Morrison, J.</displayForm>
+      <affiliation>Department of Biosystems Engineering, University of Manitoba, Winnipeg, Manitoba, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">J.</namePart>
+      <namePart type="family">Paliwal</namePart>
+      <displayForm>Paliwal, J.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The agriculture industry experiences severe economic losses each year due to infection of cereal crops with Fusarium, often leading to contamination with the secondary metabolite mycotoxin Deoxynivalenol (DON). Timely detection of Fusarium Damaged Kernels (FDK) could provide producers with an opportunity to develop and implement mitigation strategies and minimize corresponding losses, and also to avoid health risks to humans and animals. Given the slow, labor-intensive, and often destructive current FDK and DON detection methods, the agriculture industry is in dire need of fast, non-invasive, and non-destructive alternative screening techniques. Recent research efforts have introduced hyperspectral imaging (HSI) as a promising non-destructive tool for FDK and DON risk management in cereals. However, a simple single scan for both FDK and DON identification is highly desired due to its ease of use and resulting commercial acceptance. To this end, the present research investigated the feasibility of using NIR HSI in the 960–1700 nm wavelength range to detect the presence of FDK and its secondary metabolite DON in Canadian Western Red Spring (CWRS) wheat. The two k-nearest neighbour (kNN)-based classifiers were developed by identifying 0.2% of the classified spectra that identify their classes. These were identified through their consistent categorization using faster 1NN classifiers from samples of spectra. The resulting 3NN classifiers, one for identifying the presence of FDK and the other for determining the presence of DON, gave good results in classification. The FDK classifier obtained 85% accuracy and 92% sensitivity, and the DON classifier achieved 80% accuracy and 77% sensitivity. Our results indicate that a single HSI scan can be used to rapidly identify the presence of both FDK and DON in CWRS wheat samples. The developed model can be used as a pre-screening technique by the wheat industry to reduce the time and labor currently expended in FDK and DON identification. </abstract>
+   <subject>
+      <topic>CWRS, Fusarium</topic>
+   </subject>
+   <subject>
+      <topic>FDK</topic>
+   </subject>
+   <subject>
+      <topic>DON</topic>
+   </subject>
+   <subject>
+      <topic>Wheat</topic>
+   </subject>
+   <subject>
+      <topic>Hyperspectral imaging</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Measurement: Food</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Ltd</publisher>
+      </originInfo>
+      <identifier type="issn">2772-2759</identifier>
+      <part>
+         <detail type="volume">
+            <number>4</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>100011</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.meafoo.2021.100011</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.meafoo.2021.100011</url>
+   </location>
+   <identifier type="pii">S2772-2759(21)00007-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2772-2759/S2772275921X00056/S2772275921000071/S2772275921000071.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

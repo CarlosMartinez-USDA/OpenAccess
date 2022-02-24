@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107870">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset on rbcL-based intra-specific diversity of Gongronema latifolium Benth: (Apocynaceae) in South-East Nigeria</dct:title>
+         <dct:creator>Conrad Asotie Omonhinmin</dct:creator>
+         <dct:creator>Chinedu Charles Onuselogu</dct:creator>
+         <dct:creator>Enameguono Olomukoro</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Evolution</rdf:li>
+               <rdf:li>Genetic diversity</rdf:li>
+               <rdf:li>Gongronema latifolium</rdf:li>
+               <rdf:li>Medicinal</rdf:li>
+               <rdf:li>Phylogeny</rdf:li>
+               <rdf:li>rbcL gene</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 41 (2022). doi:10.1016/j.dib.2022.107870</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>41</prism:volume>
+         <prism:coverDisplayDate>April 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2022.107870</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107870</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107870</dct:identifier>
+         <bam:articleNumber>107870</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-21T08:28:10Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107870</ja:aid>
+         <ce:article-number>107870</ce:article-number>
+         <ce:pii>S2352-3409(22)00082-8</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107870</ce:doi>
+         <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset on rbcL-based intra-specific diversity of <ce:italic>Gongronema latifolium</ce:italic> Benth: (Apocynaceae) in South-East Nigeria</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000828-2db732fcded844eb5d418669ceb97426">
+               <ce:given-name>Conrad Asotie</ce:given-name>
+               <ce:surname>Omonhinmin</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:conrad.omonhinmin@covenantuniversity.edu.ng">conrad.omonhinmin@covenantuniversity.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000828-0714a8ad2be7a29160a6f1873332b17e"
+                       orcid="0000-0003-4315-3544">
+               <ce:given-name>Chinedu Charles</ce:given-name>
+               <ce:surname>Onuselogu</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000828-007896756e224e7ba1667c10aec35823">
+               <ce:given-name>Enameguono</ce:given-name>
+               <ce:surname>Olomukoro</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000828-74687aac1a0408d1e1261b0f3ec4a6d5">
+               <ce:textfn id="cetextfn0001">Department of Biological Sciences Biotechnology Cluster, College of Science and Technology, Covenant University, Canaan land Ota, Ogun State, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biological Sciences Biotechnology Cluster</sa:organization>
+                  <sa:organization>College of Science and Technology</sa:organization>
+                  <sa:organization>Covenant University</sa:organization>
+                  <sa:city>Canaan land Ota</sa:city>
+                  <sa:state>Ogun State</sa:state>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Biological Sciences Biotechnology Cluster, College of Science and Technology, Covenant University, Canaan land Ota, Ogun State, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author:</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="12" month="8" year="2021"/>
+         <ce:date-revised day="17" month="1" year="2022"/>
+         <ce:date-accepted day="20" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara011" view="all">
+                  <ce:italic>Gongronema latifolium</ce:italic> (Apocynaceae) is a versatile plant of nutritional and medicinal value and is widely distributed and endemic to the South-Eastern region of Nigeria. The plant is relatively wild and its natural habitat is threatened by deforestation, excessive exploitation and constant expansion of the urban areas into its endemic space. Hence, there is a need to understand its genetic diversity for breeding and conservation. The data consist of fourteen partial <ce:italic>rbcL</ce:italic> gene sequences, nucleotide compositions and amino acid profiles of <ce:italic>G. latifolium</ce:italic>. The data set provides insight on the species genetic diversity and evolution that is important for scientist and breeders alike as well as for conservation efforts of the species.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Evolution</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Genetic diversity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">
+                  <ce:italic>Gongronema latifolium</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Medicinal</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Phylogeny</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">
+                  <ce:italic>rbcL</ce:italic> gene</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

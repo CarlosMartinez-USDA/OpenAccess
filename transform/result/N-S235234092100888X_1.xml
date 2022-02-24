@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data related to the effect of specimen geometry and orientation on tensile properties of Ti-6Al-4V manufactured by electron beam powder bed fusion</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Gitanjali</namePart>
+      <namePart type="family">Shanbhag</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2443-3172</nameIdentifier>
+      <displayForm>Shanbhag, Gitanjali</displayForm>
+      <affiliation>University of Waterloo, Waterloo, ON N2L 3G1, CANADA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Evan</namePart>
+      <namePart type="family">Wheat</namePart>
+      <displayForm>Wheat, Evan</displayForm>
+      <affiliation>University of Waterloo, Waterloo, ON N2L 3G1, CANADA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shawn</namePart>
+      <namePart type="family">Moylan</namePart>
+      <displayForm>Moylan, Shawn</displayForm>
+      <affiliation>National Institute of Standards and Technology, Gaithersburg, MD 20899, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mihaela</namePart>
+      <namePart type="family">Vlasea</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7281-0622</nameIdentifier>
+      <displayForm>Vlasea, Mihaela</displayForm>
+      <affiliation>University of Waterloo, Waterloo, ON N2L 3G1, CANADA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Additive manufacturing quality assessment often relies on tensile testing as the preferred methodology to qualify builds and materials. The data included in this article provides additional supporting information on our manuscript [1] on the effect of specimen geometry and orientation on tensile properties of Ti-6Al-4V manufactured by electron beam powder bed fusion. As such, the data in brief provides in-depth details on the tensile specimen specifications, the tensile specimen build layout and replicate notations, and the tensile testing datasets. The information presented herein complements the manuscript. </abstract>
+   <subject>
+      <topic>Additive manufacturing</topic>
+   </subject>
+   <subject>
+      <topic>X-ray computed tomography</topic>
+   </subject>
+   <subject>
+      <topic>Ti-6Al-4V</topic>
+   </subject>
+   <subject>
+      <topic>Tensile properties</topic>
+   </subject>
+   <subject>
+      <topic>Geometry</topic>
+   </subject>
+   <subject>
+      <topic>Qualification</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107613</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107613</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107613</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00888-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S235234092100888X/S235234092100888X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

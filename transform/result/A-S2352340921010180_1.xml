@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107743">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Revisiting social vulnerability analysis in Indonesia data</dct:title>
+         <dct:creator>Robert Kurniawan</dct:creator>
+         <dct:creator>Bahrul Ilmi Nasution</dct:creator>
+         <dct:creator>Neli Agustina</dct:creator>
+         <dct:creator>Budi Yuniarto</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Disaster management</rdf:li>
+               <rdf:li>Disaster mitigation</rdf:li>
+               <rdf:li>Fuzzy geographically weighted clustering</rdf:li>
+               <rdf:li>Multistage sampling</rdf:li>
+               <rdf:li>Social vulnerability</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107743</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107743</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107743</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107743</dct:identifier>
+         <bam:articleNumber>107743</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-21T17:26:54Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107743</ja:aid>
+         <ce:article-number>107743</ce:article-number>
+         <ce:pii>S2352-3409(21)01018-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107743</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S2212-4209(20)31303-0</ce:pii>
+               <ce:doi>10.1016/j.ijdrr.2020.101801</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Revisiting social vulnerability analysis in Indonesia data</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010180-25c17360913c30fbb38763f2773e3933"
+                       orcid="0000-0002-8275-4070">
+               <ce:given-name>Robert</ce:given-name>
+               <ce:surname>Kurniawan</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:robertk@stis.ac.id">robertk@stis.ac.id</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010180-40c8e1ed56613e6787cdc59faaa1aa0a"
+                       orcid="0000-0001-6526-7185">
+               <ce:given-name>Bahrul Ilmi</ce:given-name>
+               <ce:surname>Nasution</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010180-feceb86b0415b2786e9b67a3a73ee970">
+               <ce:given-name>Neli</ce:given-name>
+               <ce:surname>Agustina</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010180-fb5051dab1ea1a3292619492f0ef69ed">
+               <ce:given-name>Budi</ce:given-name>
+               <ce:surname>Yuniarto</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010180-ea6209178e37dcfd62fca58124808b01">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Statistical Computing, Polytechnic Statistics STIS, Jakarta 13330, Indonesia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Statistical Computing</sa:organization>
+                  <sa:organization>Polytechnic Statistics STIS</sa:organization>
+                  <sa:city>Jakarta</sa:city>
+                  <sa:postal-code>13330</sa:postal-code>
+                  <sa:country>Indonesia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Statistical Computing, Polytechnic Statistics STIS, Jakarta 13330, Indonesia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010180-9d255de8268bd026e9838173018513ed">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Statistics, Polytechnic Statistics STIS, Jakarta 13330, Indonesia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Statistics</sa:organization>
+                  <sa:organization>Polytechnic Statistics STIS</sa:organization>
+                  <sa:city>Jakarta</sa:city>
+                  <sa:postal-code>13330</sa:postal-code>
+                  <sa:country>Indonesia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Statistics, Polytechnic Statistics STIS, Jakarta 13330, Indonesia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010180-bc2a9ce3c4a0aa98f3a9064966178bdf">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Jakarta Smart City, Department of Communications, Informatics, and Statistics, Jakarta 10110, Indonesia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Jakarta Smart City</sa:organization>
+                  <sa:organization>Department of Communications, Informatics, and Statistics</sa:organization>
+                  <sa:city>Jakarta</sa:city>
+                  <sa:postal-code>10110</sa:postal-code>
+                  <sa:country>Indonesia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cJakarta Smart City, Department of Communications, Informatics, and Statistics, Jakarta 10110, Indonesia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="6" month="10" year="2021"/>
+         <ce:date-revised day="14" month="12" year="2021"/>
+         <ce:date-accepted day="20" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">This paper presents the dataset about the social vulnerability in Indonesia. This dataset contains several dimensions which rely on previous studies. The data was compiled mainly from the 2017 National Socioeconomic Survey (SUSENAS) done by BPS-Statistics Indonesia. We utilize the weight to obtain the estimation based on multistage sampling. We also received additional information on population, the number, and population growth from the BPS-Statistics Indonesia's 2017 Population projection. Furthermore, we provide the distance matrix as the supplementary information and the number of populations to do the Fuzzy Geographically Weighted Clustering (FGWC). This data can be utilized to do further analysis of social vulnerability to promote disaster management. The data can be accessed further at <ce:inter-ref id="interref0001"
+                                xlink:href="https://raw.githubusercontent.com/bmlmcmc/naspaclust/main/data/sovi_data.csv"
+                                xlink:type="simple">https://raw.githubusercontent.com/bmlmcmc/naspaclust/main/data/sovi_data.csv</ce:inter-ref>.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Disaster management</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Disaster mitigation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Fuzzy geographically weighted clustering</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Multistage sampling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Social vulnerability</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

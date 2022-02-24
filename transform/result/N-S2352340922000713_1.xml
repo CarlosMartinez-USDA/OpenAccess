@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>First Report of Gut Bacterial Dataset of a Tribal Bhutia family from West Bengal, India</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Souradip</namePart>
+      <namePart type="family">Basu</namePart>
+      <displayForm>Basu, Souradip</displayForm>
+      <affiliation>Department of Anthropology, Bangabasi College, Kolkata 700009</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kaustav</namePart>
+      <namePart type="family">Das</namePart>
+      <displayForm>Das, Kaustav</displayForm>
+      <affiliation>Department of Anthropology, Bangabasi College, Kolkata 700009</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mahashweta Mitra</namePart>
+      <namePart type="family">Ghosh</namePart>
+      <displayForm>Ghosh, Mahashweta Mitra</displayForm>
+      <affiliation>Department of Microbiology, St. Xavier's College (Autonomous), Kolkata 700016</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rajat</namePart>
+      <namePart type="family">Banerjee</namePart>
+      <displayForm>Banerjee, Rajat</displayForm>
+      <affiliation>Department of Biotechnology, University of Calcutta, Kolkata 700019</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Subrata Sankar</namePart>
+      <namePart type="family">Bagchi</namePart>
+      <displayForm>Bagchi, Subrata Sankar</displayForm>
+      <affiliation>Dr. B.R. Ambedkar Chair, Department of Anthropology, University of Calcutta, Kolkata 700019</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sayak</namePart>
+      <namePart type="family">Ganguli</namePart>
+      <displayForm>Ganguli, Sayak</displayForm>
+      <affiliation>Department of Biotechnology, St. Xavier's College (Autonomous), Kolkata 700016</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-18</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The tribes of West Bengal are distributed in geographically distinct regions with distinctive features of their habitats and many of these tribes still practice a traditional livelihood avoiding the western diet. Hence, it is expected that their gut should remain pristine. In this study, we report the gut bacterial abundance of a Drukpa Bhutia tribal family of Lepchakha, inhabiting the hilly terrain of the Buxa region of Alipurduar district. First fecal matter was collected followed by Illumina Hiseq sequencing. Following standard protocols for metagenomic analysis, quality control (FASTQC), taxonomic profiling (QIIME, KRONA) and pathogenic load analysis were performed. This study revealed a set of core gut bacteria among which Bacteroides was identified to be the most abundant followed by Bifidobacterium, Streptococcus etc. Genera exhibiting lowest abundance were Eggerthella, Ruminococcus, Enterococcus etc. among the male, kid and female respectively. This data provides important insights into the distribution of bacterial members under study. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Mongolian Tribe</topic>
+   </subject>
+   <subject>
+      <topic>Bhutia</topic>
+   </subject>
+   <subject>
+      <topic>Metagenomics</topic>
+   </subject>
+   <subject>
+      <topic>GBP</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">18</text>
+         <extent unit="pages">
+            <start>107859</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107859</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107859</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00071-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-19"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/333921349383348651-00001/2352-3409/aip/S2352340922000713/S2352340922000713.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

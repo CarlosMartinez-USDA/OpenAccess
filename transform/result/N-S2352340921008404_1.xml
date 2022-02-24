@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Steel benchmark frames for structural analysis and validation studies: Finite element models and numerical simulation data</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Constance W.</namePart>
+      <namePart type="family">Ziemian</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2705-4263</nameIdentifier>
+      <displayForm>Ziemian, Constance W.</displayForm>
+      <affiliation>Department of Mechanical Engineering, Bucknell University, PA, Lewisburg, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ronald D.</namePart>
+      <namePart type="family">Ziemian</namePart>
+      <displayForm>Ziemian, Ronald D.</displayForm>
+      <affiliation>Department of Civil and Environmental Engineering, Bucknell University, PA, Lewisburg, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>A sample of twenty-two steel benchmark frames was formed and used to investigate the accuracy of a single increment predictor-corrector (SIPC) solution scheme; an approximate method of second-order elastic analysis. Each of the frames is based on a structure from the literature and, as a collection, the set includes a diverse assortment of practical planar geometries and a wide range of sensitivities to second-order effects. This data article presents the details of these frames, including finite element models, relevant nodal coordinates and element connectivity, and detailed information regarding member sizes, support conditions, and applied loading. In addition, this article presents simulation data obtained from testing the SIPC method using the benchmark frames, and assessing its accuracy and precision. Error analysis results, based on comparisons of joint displacements and member design moments simulated using the SIPC method with those obtained using the more exact and computationally expensive work-control (WC) method, are summarized. The finite element modelling and subsequent structural analysis utilized the software package MASTAN2, which provides user-friendly features to execute both SIPC and WC methods. A detailed description of these analysis methods and the algorithms used to generate data is provided in “Efficient geometric nonlinear elastic analysis for design of steel structures: Benchmark studies” Ziemian and Ziemian [1]. The benchmark frame models are more generally useful for any researcher interested in testing and validating structural analysis and design methods, and the simulation data allow for comparisons with the results of other proposed solution schemes. </abstract>
+   <subject>
+      <topic>Benchmark frames</topic>
+   </subject>
+   <subject>
+      <topic>Frame stability</topic>
+   </subject>
+   <subject>
+      <topic>Structural analysis</topic>
+   </subject>
+   <subject>
+      <topic>Numerical modelling</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107564</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107564</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107564</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00840-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-09"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008404/S2352340921008404.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

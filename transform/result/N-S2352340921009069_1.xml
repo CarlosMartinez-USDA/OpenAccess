@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Searching CUDA code autotuning spaces with hardware performance counters: data from benchmarks running on various GPU architectures</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jana</namePart>
+      <namePart type="family">Hozzová</namePart>
+      <displayForm>Hozzová, Jana</displayForm>
+      <affiliation>Institute of Computer Science, Masaryk University, Botanická 68a, Brno 60200, Czech Republic</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jiří</namePart>
+      <namePart type="family">Filipovič</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5703-9673</nameIdentifier>
+      <displayForm>Filipovič, Jiří</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Amin</namePart>
+      <namePart type="family">Nezarat</namePart>
+      <displayForm>Nezarat, Amin</displayForm>
+      <affiliation>Institute of Computer Science, Masaryk University, Botanická 68a, Brno 60200, Czech Republic</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jaroslav</namePart>
+      <namePart type="family">Ol’ha</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1824-468X</nameIdentifier>
+      <displayForm>Ol’ha, Jaroslav</displayForm>
+      <affiliation>Institute of Computer Science, Masaryk University, Botanická 68a, Brno 60200, Czech Republic</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Filip</namePart>
+      <namePart type="family">Petrovič</namePart>
+      <displayForm>Petrovič, Filip</displayForm>
+      <affiliation>Institute of Computer Science, Masaryk University, Botanická 68a, Brno 60200, Czech Republic</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We have developed several autotuning benchmarks in CUDA that take into account performance-relevant source-code parameters and reach near peak-performance on various GPU architectures. We have used them during the development and evaluation of a search method for tuning space proposed in [1]. With our framework Kernel Tuning Toolkit, freely available at Github, we measured computation times and hardware performance counters on several GPUs for the complete tuning spaces of five benchmarks. These data, which we provide here, might benefit research of search algorithms for the tuning spaces of GPU codes or research of relation between applied code optimization, hardware performance counters, and GPU kernels’ performance. Moreover, we describe the scripts we used for robust evaluation of our searcher and comparison to others in detail. In particular, the script that simulates the tuning, i.e., replaces time-demanding compiling and executing the tuned kernels with a quick reading of the computation time from our measured data, makes it possible to inspect the convergence of tuning search over a large number of experiments. These scripts, freely available with our other codes, make it easier to experiment with search algorithms and compare them in a robust and reproducible way. During our research, we generated models for predicting values of performance counters from values of tuning parameters of our benchmarks. Here, we provide the models themselves and describe the scripts we implemented for their training. These data might benefit researchers who want to reproduce or build on our research. </abstract>
+   <subject>
+      <topic>Auto-tuning</topic>
+   </subject>
+   <subject>
+      <topic>Tuning spaces</topic>
+   </subject>
+   <subject>
+      <topic>Performance counters</topic>
+   </subject>
+   <subject>
+      <topic>Cuda</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107631</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107631</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107631</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00906-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009069/S2352340921009069.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

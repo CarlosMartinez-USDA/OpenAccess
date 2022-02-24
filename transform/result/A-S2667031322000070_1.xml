@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2022.100221">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Therapeutic role of flavonoids in lung inflammatory disorders</dct:title>
+         <dct:creator>Saba Beigh</dct:creator>
+         <dct:creator>Muneeb U Rehman</dct:creator>
+         <dct:creator>Andleeb Khan</dct:creator>
+         <dct:creator>Bhagyashree R. Patil</dct:creator>
+         <dct:creator>Hafiz A. Makeen</dct:creator>
+         <dct:creator>Saiema Rasool</dct:creator>
+         <dct:creator>Summya Rashid</dct:creator>
+         <dct:creator>Azher Arafah</dct:creator>
+         <dct:creator>Mohammad A. Kamal</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Inflammation</rdf:li>
+               <rdf:li>Lung inflammatory disorders</rdf:li>
+               <rdf:li>Flavonoids</rdf:li>
+               <rdf:li>Anti-inflammatory activity</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2022.100221</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2022.100221</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2022.100221</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2022.100221</dct:identifier>
+         <bam:articleNumber>100221</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-13T19:21:05Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Saudi Arabia: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100221</ja:aid>
+         <ce:article-number>100221</ce:article-number>
+         <ce:pii>S2667-0313(22)00007-0</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2022.100221</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Therapeutic role of flavonoids in lung inflammatory disorders</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031322000070-07f17f199a1257bf30ea896ef325840a">
+               <ce:given-name>Saba</ce:given-name>
+               <ce:surname>Beigh</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031322000070-ba97a269000607365cdd3e8b0bbdf64c">
+               <ce:given-name>Muneeb U</ce:given-name>
+               <ce:surname>Rehman</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:muneebjh@gmail.com">muneebjh@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031322000070-479274047a05197092ceaa7f5bf97f02">
+               <ce:given-name>Andleeb</ce:given-name>
+               <ce:surname>Khan</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031322000070-2e802e0bf106a730dcff74dfedf874ad">
+               <ce:given-name>Bhagyashree R.</ce:given-name>
+               <ce:surname>Patil</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031322000070-af46ca630f58519fafe527c663201d79">
+               <ce:given-name>Hafiz A.</ce:given-name>
+               <ce:surname>Makeen</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031322000070-817b8ddad4055674fe1987fc7d63d7c6">
+               <ce:given-name>Saiema</ce:given-name>
+               <ce:surname>Rasool</ce:surname>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667031322000070-2590ff8eaa06ea0fb33c5cefec07412e">
+               <ce:given-name>Summya</ce:given-name>
+               <ce:surname>Rashid</ce:surname>
+               <ce:cross-ref refid="aff0007">
+                  <ce:sup loc="post">g</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667031322000070-24a6690f5190f109ca7541f01e6a97c7">
+               <ce:given-name>Azher</ce:given-name>
+               <ce:surname>Arafah</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667031322000070-5685e499fdd3b7771f4a76c0aaf0fe20">
+               <ce:given-name>Mohammad A.</ce:given-name>
+               <ce:surname>Kamal</ce:surname>
+               <ce:cross-ref refid="aff0008">
+                  <ce:sup loc="post">h</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0009">
+                  <ce:sup loc="post">i</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031322000070-f99843c7c0463ac95a7fd0f0a4843b87">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Public Health, Faculty of Applied Medical Sciences. Albaha University, Albaha, 65431, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Public Health</sa:organization>
+                  <sa:organization>Faculty of Applied Medical Sciences. Albaha University</sa:organization>
+                  <sa:state>Albaha</sa:state>
+                  <sa:postal-code>65411</sa:postal-code>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Public Health, Faculty of Applied Medical Sciences. Albaha University, Albaha, 65411, Saudi Arabia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031322000070-f55f73c801ff93885911a68a7ac32f27">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Clinical Pharmacy, College of Pharmacy, King Saud University, Riyadh, 11451, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Clinical Pharmacy</sa:organization>
+                  <sa:organization>College of Pharmacy, King Saud University</sa:organization>
+                  <sa:state>Riyadh</sa:state>
+                  <sa:postal-code>11451</sa:postal-code>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Clinical Pharmacy, College of Pharmacy, King Saud University, Riyadh, 11451, Saudi Arabia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031322000070-1bc9de19817fb4a45f53f9ab5a9fb48f">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Pharmacology &amp; Toxicology, Faculty of Pharmacy, Jazan University, Jazan, 45142, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacology &amp; Toxicology</sa:organization>
+                  <sa:organization>Faculty of Pharmacy, Jazan University</sa:organization>
+                  <sa:state>Jazan</sa:state>
+                  <sa:postal-code>45142</sa:postal-code>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Pharmacology &amp; Toxicology, Faculty of Pharmacy, Jazan University, Jazan, 45142, Saudi Arabia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031322000070-3c83eb225c7f7de72943fd0ab94b99f5">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Biology for Health Track, Faculty of Science, Jazan University, Jazan, 45142, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Biology for Health Track, Faculty of Science, Jazan University</sa:organization>
+                  <sa:state>Jazan</sa:state>
+                  <sa:postal-code>45142</sa:postal-code>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dBiology for Health Track, Faculty of Science, Jazan University, Jazan, 45142, Saudi Arabia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667031322000070-76a12afd8ad732f8e8af6cac72bb9846">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Department of Clinical Pharmacy, Faculty of Pharmacy, Jazan University, Jazan, 45142, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Clinical Pharmacy</sa:organization>
+                  <sa:organization>Faculty of Pharmacy, Jazan University</sa:organization>
+                  <sa:state>Jazan</sa:state>
+                  <sa:postal-code>45142</sa:postal-code>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eDepartment of Clinical Pharmacy, Faculty of Pharmacy, Jazan University, Jazan, 45142, Saudi Arabia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2667031322000070-7761504818590dd6d5591abbe687b026">
+               <ce:label>f</ce:label>
+               <ce:textfn id="cetextfn0006">Department of School Education, Govt. of Jammu &amp; Kashmir, Srinagar, 190001, Jammu &amp; Kashmir, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of School Education</sa:organization>
+                  <sa:organization>Govt. of Jammu &amp; Kashmir</sa:organization>
+                  <sa:city>Srinagar</sa:city>
+                  <sa:postal-code>190001</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0006">fDepartment of School Education, Govt. of Jammu &amp; Kashmir, Srinagar, 190001, India.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0007"
+                            affiliation-id="S2667031322000070-4e6504f8fdd7d994fe996207fc60245a">
+               <ce:label>g</ce:label>
+               <ce:textfn id="cetextfn0007">Department of Pharmacology &amp; Toxicology, College of Pharmacy Girls Section, Prince Sattam Bin Abdulaziz University, P.O. Box 173, Al-Kharj 11942, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacology &amp; Toxicology</sa:organization>
+                  <sa:organization>College of Pharmacy Girls Section, Prince Sattam Bin Abdulaziz University</sa:organization>
+                  <sa:city>Al-Kharj 11942</sa:city>
+                  <sa:postal-code>P.O. Box 173</sa:postal-code>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0007">gDepartment of Pharmacology &amp; Toxicology, College of Pharmacy Girls Section, Prince Sattam Bin Abdulaziz University, P.O. Box 173, Al-Kharj 11942, Saudi Arabia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0008"
+                            affiliation-id="S2667031322000070-fc7b367f3ef77ad2d9cf4c0a34ee0344">
+               <ce:label>h</ce:label>
+               <ce:textfn id="cetextfn0008">King Fahd Medical Research Center, King Abdulaziz University, Jeddah, Saudi Arabia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>King Fahd Medical Research Center</sa:organization>
+                  <sa:organization>King Abdulaziz University</sa:organization>
+                  <sa:city>Jeddah</sa:city>
+                  <sa:country>Saudi Arabia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0008">hKing Fahd Medical Research Center, King Abdulaziz University, Jeddah, Saudi Arabia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0009"
+                            affiliation-id="S2667031322000070-2f7bbf55af481d17fc0689ca2ba008bd">
+               <ce:label>i</ce:label>
+               <ce:textfn id="cetextfn0009">West China School of Nursing/Institute for Systems Genetics, Frontiers Science Centre for Disease-Related Molecular Network, West China Hospital, Sichuan University, Chengdu 610041, Sichuan, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>West China School of Nursing/Institute for Systems Genetics, Frontiers Science Centre for Disease-Related Molecular Network, West China Hospital, Sichuan University</sa:organization>
+                  <sa:city>Chengdu</sa:city>
+                  <sa:state>Sichuan</sa:state>
+                  <sa:postal-code>610041</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0009">iWest China School of Nursing/Institute for Systems Genetics, Frontiers Science Centre for Disease-Related Molecular Network, West China Hospital, Sichuan University, Chengdu 610041, Sichuan, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="2" month="6" year="2021"/>
+         <ce:date-revised day="2" month="1" year="2022"/>
+         <ce:date-accepted day="13" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara007" view="all">: Pulmonary inflammation has got direct correlation with the progression of various respiratory inflammatory disorders. Numerous respiratory chronic disorders such as acute bronchitis, chronic obstructive pulmonary diseases (COPD), pulmonary emphysema progresses because of long term lung inflammation in and around the involved tissue. Several plant extracts and their polyphenolic constituents exhibited therapeutic effects on numerous preclinical lung inflammatory models. Flavonoids are the most studied polyphenolic composites, and their classification in different forms have been significantly investigated in relation to respiratory ailments. Presently, over 8000 flavonoids from different plants particularly have been explored for having anticancer, antioxidant, and anti-inflammatory potential. Various mechanisms of action of flavonoids have been implicated, but few studies are available to check the anti-inflammatory classes of flavonoids that were published in the last fifteen years. We searched Web of Sciences, Google Scholar, PubMed, Scopus, and Embase databases up to April 2021 by using the relevant keywords for this systemic review.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="results" view="all">
+               <ce:section-title id="cesectitle0003">Results</ce:section-title>
+               <ce:simple-para id="spara008" view="all">: Recent reports showed a significant impact of flavonoids because of their antioxidant, anti-inflammatory, anticancer, etc., properties. Reported research and review articles signify that flavonoid might possibly impede inflammation, oxidative stress and can advance in the progression of different pulmonary function.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0004">Conclusion</ce:section-title>
+               <ce:simple-para id="spara009" view="all">: The flavonoids exhibited in various forms display wide-range of pharmacologic actions in regulating and monitoring various pulmonary disorders. Therefore, the valuable assets of flavonoids so far studied make them a unique candidate for various experimental studies. The main objective of this review was to display a comprehensive understanding of the beneficial activities of various flavonoids in the prevention and treatment of pulmonary illnesses, as well as the diverse phytoconstituents of different flavonoids in the treatment of pulmonary disorders.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0005">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0005" view="all">
+               <ce:simple-para id="spara010" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Inflammation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Lung inflammatory disorders</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Flavonoids</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Anti-inflammatory activity</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

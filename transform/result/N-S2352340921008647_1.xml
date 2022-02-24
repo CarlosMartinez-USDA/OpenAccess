@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Strength curve data for slender geopolymer concrete columns with GFRP, steel and hybrid reinforcement</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Mohammad</namePart>
+      <namePart type="family">AlHamaydeh</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5004-0778</nameIdentifier>
+      <displayForm>AlHamaydeh, Mohammad</displayForm>
+      <affiliation>Professor, Department of Civil Engineering, College of Engineering, American University of Sharjah, Sharjah, PO Box 26666, UAE</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fouad Mostafa</namePart>
+      <namePart type="family">Amin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6903-4629</nameIdentifier>
+      <displayForm>Amin, Fouad Mostafa</displayForm>
+      <affiliation>Graduate research assistant, Department of Civil Engineering, College of Engineering, American University of Sharjah, Sharjah, PO Box 26666, UAE</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article provides a wide range of circular columns strength values under different loading conditions. The provided strength values are dependent on various parameters including the longitudinal and transverse reinforcement ratios. Results for GFRP, steel and hybrid reinforcement configurations are provided. The results were collected from analysis output files of more than 60,000 columns, and tabulated in a form that is suitable for generating analytical strength curves. The provided data format allows the generation of strength curves for a wide range of slenderness ratios and the applied load eccentricities. Inspecting the analytical strength curves could provide insights on the slenderness limits for maintaining specific strength thresholds. Also, further investigations of data could provide a group of recommendations to avoid longitudinal and transverse reinforcement underutilization. Additional data processing could provide axial load-bending moment interaction diagrams for different columns` configurations taking into consideration the slenderness effects. The use of interaction diagrams in inspecting slender columns behavior is a ubiquitous subject that has been utilized in many recent research papers. Moreover, the results of a sensitivity analysis are provided within the article. </abstract>
+   <subject>
+      <topic>Slender circular column</topic>
+   </subject>
+   <subject>
+      <topic>Geopolymer concrete</topic>
+   </subject>
+   <subject>
+      <topic>Glass-fiber-reinforced polymer (GFRP) bars</topic>
+   </subject>
+   <subject>
+      <topic>Hybrid reinforcement</topic>
+   </subject>
+   <subject>
+      <topic>Interaction diagram</topic>
+   </subject>
+   <subject>
+      <topic>Slenderness ratio</topic>
+   </subject>
+   <subject>
+      <topic>Strength curves</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107589</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107589</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107589</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00864-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-16"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008647/S2352340921008647.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

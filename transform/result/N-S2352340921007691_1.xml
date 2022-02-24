@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Pan-tropical Sentinel-2 cloud-free annual composite datasets</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">D.</namePart>
+      <namePart type="family">Simonetti</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3835-6013</nameIdentifier>
+      <displayForm>Simonetti, D.</displayForm>
+      <affiliation>European Commission, Joint Research Centre, Ispra, VA 21027, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">U.</namePart>
+      <namePart type="family">Pimple</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2282-9058</nameIdentifier>
+      <displayForm>Pimple, U.</displayForm>
+      <affiliation>The Joint Graduate School of Energy and Environment (JGSEE) and Centre of Excellence on Energy Technology and Environment, King Mongkut's University of Technology Thonburi, Bangkok 10140, Thailand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Langner</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8083-3779</nameIdentifier>
+      <displayForm>Langner, A.</displayForm>
+      <affiliation>European Commission, Joint Research Centre, Ispra, VA 21027, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Marelli</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7781-4219</nameIdentifier>
+      <displayForm>Marelli, A.</displayForm>
+      <affiliation>Arcadia SIT for European Commission, Joint Research Centre, Ispra, VA 21027, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Sentinel-2 MSI is one of the core missions of the Copernicus Earth Observation programme of the European Union. This mission shows great potential to map the regional high-resolution spatio-temporal dynamics of land use and land cover. In tropical regions, despite the high revisiting time of 5 days including both Sentinel-2A and 2B satellites, the frequent presence of clouds, cloud-shadows, haze and other atmospheric contaminants are precluding the visibility of the Earth surface up to several months. In this paper we present four annual pan-tropical cloud-free composites computed and exported from Google Earth Engine (GEE) by making use of available Sentinel-2 L1C collection for the period spanning from 2015 to 2020. We furthermore propose empirical approaches to reduce the BRDF effect over tropical forest areas by showing pros and cons of image-based versus swath-based methodologies. Additionally, we provide a dedicated web-platform offering a fast and intuitive way to browse and explore the proposed annual composites as well as layers of potential annual changes as a ready-to-use means to visually identify and verify degradation and deforestation activities as well as other land cover changes. </abstract>
+   <subject>
+      <topic>Copernicus Sentinel-2</topic>
+   </subject>
+   <subject>
+      <topic>cloud free composite</topic>
+   </subject>
+   <subject>
+      <topic>cloud mask</topic>
+   </subject>
+   <subject>
+      <topic>pixel-based classification</topic>
+   </subject>
+   <subject>
+      <topic>BRDF correction</topic>
+   </subject>
+   <subject>
+      <topic>annual change</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107488</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107488</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107488</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00769-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007691/S2352340921007691.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

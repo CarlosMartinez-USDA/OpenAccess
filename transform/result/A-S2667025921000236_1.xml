@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100031">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Oxidative stability of eicosapentaenoic acid and docosahexaenoic acid in krill oil microencapsulated by spray drying</dct:title>
+         <dct:creator>Afroza Sultana</dct:creator>
+         <dct:creator>Shisei Takashige</dct:creator>
+         <dct:creator>Yui Maki</dct:creator>
+         <dct:creator>Antonio Fermin</dct:creator>
+         <dct:creator>Shuji Adachi</dct:creator>
+         <dct:creator>Hidefumi Yoshii</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Krill oil</rdf:li>
+               <rdf:li>Saponin</rdf:li>
+               <rdf:li>Stability</rdf:li>
+               <rdf:li>Rosemary oil</rdf:li>
+               <rdf:li>PUFA</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health 1 (2021). doi:10.1016/j.fhfh.2021.100031</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fhfh.2021.100031</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100031</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100031</dct:identifier>
+         <bam:articleNumber>100031</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-09-17T07:26:59Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100031</ja:aid>
+         <ce:article-number>100031</ce:article-number>
+         <ce:pii>S2667-0259(21)00023-6</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100031</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Oxidative stability of eicosapentaenoic acid and docosahexaenoic acid in krill oil microencapsulated by spray drying</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025921000236-74bc22757b5c0c6eb1e1c9d3200e5165">
+               <ce:given-name>Afroza</ce:given-name>
+               <ce:surname>Sultana</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025921000236-f4050a0962608bbc9837a2276d9d7744">
+               <ce:given-name>Shisei</ce:given-name>
+               <ce:surname>Takashige</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667025921000236-796c9f7bfd713b3c08cfc315168e72c7">
+               <ce:given-name>Yui</ce:given-name>
+               <ce:surname>Maki</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667025921000236-795a6d884044e96249b182635511cfe0">
+               <ce:given-name>Antonio</ce:given-name>
+               <ce:surname>Fermin</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667025921000236-f826bebf12c17c6f965814e57ff5d9be">
+               <ce:given-name>Shuji</ce:given-name>
+               <ce:surname>Adachi</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667025921000236-b54f04016978b30665c0d5652fa93687">
+               <ce:given-name>Hidefumi</ce:given-name>
+               <ce:surname>Yoshii</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:hidefumi.yoshii@setsunan.ac.jp">hidefumi.yoshii@setsunan.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025921000236-05d38f40a988097e7ab369cc52bf24e8">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Food Processing and Engineering, Chattogram Veterinary and Animal Sciences University, Chattogram 4225, Bangladesh</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Food Processing and Engineering</sa:organization>
+                  <sa:organization>Chattogram Veterinary and Animal Sciences University</sa:organization>
+                  <sa:city>Chattogram</sa:city>
+                  <sa:postal-code>4225</sa:postal-code>
+                  <sa:country>Bangladesh</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Food Processing and Engineering, Chattogram Veterinary and Animal Sciences University, Chattogram 4225, Bangladesh</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667025921000236-70b8c662048a00df71ad26075b7de823">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Tottori Institute of Industrial Technology, 2023-3 Nakano-cho, Sakaiminato, Tottori 684-0041, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Tottori Institute of Industrial Technology</sa:organization>
+                  <sa:address-line>2023-3 Nakano-cho</sa:address-line>
+                  <sa:city>Sakaiminato, Tottori</sa:city>
+                  <sa:postal-code>684-0041</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bTottori Institute of Industrial Technology, 2023-3 Nakano-cho, Sakaiminato, Tottori 684-0041, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667025921000236-e55e53c1361aa18d8a7865ce875e95b8">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Applied Bioscience, Kagawa University, 2393 Ikenobe, Miki-cho, Kita-gun, Kagawa 761-0795, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Applied Bioscience</sa:organization>
+                  <sa:organization>Kagawa University</sa:organization>
+                  <sa:address-line>2393 Ikenobe</sa:address-line>
+                  <sa:city>Miki-cho, Kita-gun, Kagawa</sa:city>
+                  <sa:postal-code>761-0795</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Applied Bioscience, Kagawa University, 2393 Ikenobe, Miki-cho, Kita-gun, Kagawa 761-0795, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667025921000236-96e8617d7b3935df5bad6d1ae64025ca">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Agriculture and Food Technology, Faculty of Bioenvironmental Sciences, Kyoto University of Advanced Science, 1-1 Nanjo-Otani, Sogabe-cho, Kameoka, Kyoto 621-8555, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Agriculture and Food Technology</sa:organization>
+                  <sa:organization>Faculty of Bioenvironmental Sciences</sa:organization>
+                  <sa:organization>Kyoto University of Advanced Science</sa:organization>
+                  <sa:address-line>1-1 Nanjo-Otani</sa:address-line>
+                  <sa:city>Sogabe-cho, Kameoka, Kyoto</sa:city>
+                  <sa:postal-code>621-8555</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Agriculture and Food Technology, Faculty of Bioenvironmental Sciences, Kyoto University of Advanced Science, 1-1 Nanjo-Otani, Sogabe-cho, Kameoka, Kyoto 621-8555, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667025921000236-943eead820c866fe3eb448c4778e1666">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Department of Food Science and Nutrition, Setsunan University, 45-1 Nagaotouge-cho, Hirakata, Osaka 573-0101, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Food Science and Nutrition</sa:organization>
+                  <sa:organization>Setsunan University</sa:organization>
+                  <sa:address-line>45-1 Nagaotouge-cho</sa:address-line>
+                  <sa:city>Hirakata</sa:city>
+                  <sa:state>Osaka</sa:state>
+                  <sa:postal-code>573-0101</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eDepartment of Food Science and Nutrition, Setsunan University, 45-1 Nagaotouge-cho, Hirakata, Osaka 573-0101, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">This work was done at the Department of Applied Bioscience, Kagawa University.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="4" month="8" year="2021"/>
+         <ce:date-revised day="7" month="9" year="2021"/>
+         <ce:date-accepted day="17" month="9" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>l</ce:label>
+                        <ce:para id="para0002" view="all">EPA is more stable than DHA in krill oil (KO).</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>l</ce:label>
+                        <ce:para id="para0003" view="all">EPA and DHA are more stable in larger oil droplets in microencapsulated KO.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>l</ce:label>
+                        <ce:para id="para0004" view="all">Chemical compensation held for the oxidation of EPA and DHA in the microcapsules.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara011" view="all">Krill oil (KO) is rich in polyunsaturated fatty acids (PUFAs), especially eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), which have many health benefits. However, the oil is unstable owing to its high degree of unsaturation. The oil was microencapsulated using maltodextrin (MD) with a dextrose equivalent of 19 as a wall material to improve its stability. A saponin (Quillayanin) and sodium caseinate were also used as emulsifiers, and rosemary oil (RO) extract or sodium ascorbate was used as an antioxidant. The microencapsulated KO samples were stored at 25, 50, or 70°C to examine the stability of EPA and DHA in the KO. The surface-oil ratios of the KO encapsulated powders by spray-drying were from 4.2 wt% to 52.2 wt% and depended significantly on the reconstituted oil-droplet diameter, 0.48 µm to 9.29 µm. For the microcapsules prepared from emulsions with smaller oil droplets, the surface-oil ratios of EPA and DHA were higher, but the fatty acids were less stable at 50 and 70°C. On the other hand, both EPA and DHA in the microcapsules prepared from emulsions with small oil droplets with 3 wt% Quillayanin, 1 wt% RO, and 2 wt% sodium ascorbate were stable at 25°C. The chemical compensation held for the destabilization of both EPA and DHA in microencapsulated KO.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Krill oil</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Saponin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Stability</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Rosemary oil</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">PUFA</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

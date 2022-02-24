@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Historical-crack18-19: A dataset of annotated images for non-invasive surface crack detection in historical buildings</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Esraa</namePart>
+      <namePart type="family">Elhariri</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2362-1574</nameIdentifier>
+      <displayForm>Elhariri, Esraa</displayForm>
+      <affiliation>Faculty of Computers and Information, Fayoum University, Fayoum - Egypt</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nashwa</namePart>
+      <namePart type="family">El-Bendary</namePart>
+      <displayForm>El-Bendary, Nashwa</displayForm>
+      <affiliation>College of Computing and Information Technology, Arab Academy for Science, Technology and Maritime Transport (AASTMT), Aswan - Egypt</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shereen A.</namePart>
+      <namePart type="family">Taie</namePart>
+      <displayForm>Taie, Shereen A.</displayForm>
+      <affiliation>Faculty of Computers and Information, Fayoum University, Fayoum - Egypt</affiliation>
+      <affiliation>Faculty of Computers and Information, Misr University for Science and Technology, 6 October, Giza - Egypt</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article presents the details of Historical-crack18-19 dataset containing around 3886 annotated concrete surface images from historical buildings. The dataset comprises about 40 raw images collected from an ancient mosque (Masjid) in Historic Cairo, Egypt, with about 757 cracked and 3139 non-cracked surface instances. The images of Historical-crack18-19 dataset were captured using Canon EOS REBEL T3i digital camera with 5184 × 3456 resolution over two years (2018 and 2019). The images of Historical-crack18-19 dataset are annotated with the help of an expert and are intended for training and validation of automated non-invasive crack detection and crack severity recognition as well as crack segmentation approaches based on Machine learning (ML) and Deep Learning (DL) models. According to the environmental circumstances, where the dataset was collected, several challenges are encountered by crack detection/segmentation systems in surface images of historical buildings (illumination, crack-like patterns, separators, dust, blurring, deep texture, etc.). Further, researchers can use the dataset for benchmarking the performance of state-of-the-art methods designed for solving related (image classification and object detection problems. Historical-crack18-19 dataset is freely available at [https://data.mendeley.com/datasets/xfk99kpmj9/1]. </abstract>
+   <subject>
+      <topic>Crack severity recognition</topic>
+   </subject>
+   <subject>
+      <topic>Crack</topic>
+   </subject>
+   <subject>
+      <topic>Historical buildings</topic>
+   </subject>
+   <subject>
+      <topic>Deep learning</topic>
+   </subject>
+   <subject>
+      <topic>Machine learning</topic>
+   </subject>
+   <subject>
+      <topic>Data augmentation</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>41</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">April 2022</text>
+         <text type="year">2022</text>
+         <text type="month">April</text>
+         <extent unit="pages">
+            <start>107865</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107865</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107865</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00077-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340922X00024/S2352340922000774/S2352340922000774.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

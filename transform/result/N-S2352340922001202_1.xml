@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Transcriptome Dataset of Sago Palm in Peat Soil</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Wei-Jie</namePart>
+      <namePart type="family">Yan</namePart>
+      <displayForm>Yan, Wei-Jie</displayForm>
+      <affiliation>Centre for Sago Research (CoSAR)</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hasnain</namePart>
+      <namePart type="family">Hussain</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2630-450X</nameIdentifier>
+      <displayForm>Hussain, Hasnain</displayForm>
+      <affiliation>Centre for Sago Research (CoSAR)</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hung Hui</namePart>
+      <namePart type="family">Chung</namePart>
+      <displayForm>Chung, Hung Hui</displayForm>
+      <affiliation>Faculty of Resource Science and Technology, Universiti Malaysia Sarawak, 94300 Kota Samarahan, Sarawak, Malaysia.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Norzainizul</namePart>
+      <namePart type="family">Julaihi</namePart>
+      <displayForm>Julaihi, Norzainizul</displayForm>
+      <affiliation>Land Custody and Development Authority, Level 4, 8 &amp; 12, Wisma Satok, Jalan Satok, 93400 Kuching, Sarawak, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rina</namePart>
+      <namePart type="family">Tommy</namePart>
+      <displayForm>Tommy, Rina</displayForm>
+      <affiliation>Land Custody and Development Authority, Level 4, 8 &amp; 12, Wisma Satok, Jalan Satok, 93400 Kuching, Sarawak, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-31</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Sago palm (Metroxylon sagu Rottb.) is an important agricultural starch-producing palm that contributes to Malaysia's economics, especially in the State of Sarawak, Malaysian Borneo. In this palm tree, the central part of the plant storage-starch. However, sago palms planted on peat soil failed to develop their trunk even after 17 years of being planted. This phenomenon is known as ‘non-trunking’, which eliminates the economic value of the palms. Numerous research has been done to address the phenomenon, but the molecular mechanisms of sago palm responding toward the responsible stresses are still lacking. Therefore, in this study, leaf samples were collected from trunking (normal) and non-trunking sago palms planted on peat soil for total RNA extraction, followed by next-generation sequencing using the BGISEQ-500 platform. The raw reads were cleaned, and de novo assembled using TRINITY software package. A total of 40.11 Gb bases were sequenced from the sago palm leaf samples. The assembled sequence produced 102,447 unigenes, with N50 score 1,809 bp and GC ratio of 44.34%. The alignment of unigenes with seven functional databases (NR, NT, GO, KOG, KEGG, SwissProt and InterPro) resulted in the annotation of 65,523 (63.96%) unigenes. Functional annotation results in the detection of 46,335 coding DNA sequences by Transdecoder. A total of 30,039 simple-sequence repeats distributed on 21,676 unigenes were detected using Primer3 software, and 2,355 transcription factor coding unigenes were predicted using getorf and hmmseach software. This work is registered under NCBI BioProject PRJNA781491. The raw RNA sequencing data are available in Sequence Read Archive (SRA) database with accession numbers SRX13165895, SRX13165896, SRX13165897, SRX13165898, SRX13165899, and SRX13165900. Gene expression and annotation information are accessible in public functional genomics data repository Gene Expression Omnibus (GEO) with accession number GSE189085 </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Sago palm</topic>
+   </subject>
+   <subject>
+      <topic>Metroxylon sagu</topic>
+   </subject>
+   <subject>
+      <topic>RNA sequencing</topic>
+   </subject>
+   <subject>
+      <topic>transcriptome</topic>
+   </subject>
+   <subject>
+      <topic>non-trunking</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">31</text>
+         <extent unit="pages">
+            <start>107908</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107908</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107908</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00120-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-31"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001202/S2352340922001202.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

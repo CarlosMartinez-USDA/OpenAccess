@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Draft genome assembly and sequencing dataset of the marine diatom Skeletonema costatum RCC75</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Maria</namePart>
+      <namePart type="family">Sorokina</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9359-7149</nameIdentifier>
+      <displayForm>Sorokina, Maria</displayForm>
+      <affiliation>Institute for Inorganic and Analytical Chemistry, Friedrich Schiller University, Lessingstrasse 8, Jena, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Emanuel</namePart>
+      <namePart type="family">Barth</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0803-8858</nameIdentifier>
+      <displayForm>Barth, Emanuel</displayForm>
+      <affiliation>Bioinformatics Core Facility, Friedrich Schiller University, Leutragraben 1, Jena, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mahnoor</namePart>
+      <namePart type="family">Zulfiqar</namePart>
+      <displayForm>Zulfiqar, Mahnoor</displayForm>
+      <affiliation>Institute for Inorganic and Analytical Chemistry, Friedrich Schiller University, Lessingstrasse 8, Jena, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michiel</namePart>
+      <namePart type="family">Kwantes</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2627-2122</nameIdentifier>
+      <displayForm>Kwantes, Michiel</displayForm>
+      <affiliation>Institute for Inorganic and Analytical Chemistry, Friedrich Schiller University, Lessingstrasse 8, Jena, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Georg</namePart>
+      <namePart type="family">Pohnert</namePart>
+      <displayForm>Pohnert, Georg</displayForm>
+      <affiliation>Institute for Inorganic and Analytical Chemistry, Friedrich Schiller University, Lessingstrasse 8, Jena, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christoph</namePart>
+      <namePart type="family">Steinbeck</namePart>
+      <displayForm>Steinbeck, Christoph</displayForm>
+      <affiliation>Institute for Inorganic and Analytical Chemistry, Friedrich Schiller University, Lessingstrasse 8, Jena, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Diatoms (Bacillariophyceae) are a major constituent of the phytoplankton and have a universally recognized ecological importance. Between 1,000 and 1,300 diatom genera have been described in the literature, but only 10 nuclear genomes have been published and made available to the public up to date. Skeletonema costatum is a cosmopolitan marine diatom, principally occurring in coastal regions, and is one of the most abundant members of the Skeletonema genus. Here we present a draft assembly of the Skeletonema costatum RCC75 genome, obtained from PacBio and Illumina NovaSeq data. This dataset will expand the knowledge of the Bacillariophyceae genetics and contribute to the global understanding of phytoplankton's physiological, ecological, and environmental functioning. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Genome Sequencing</topic>
+   </subject>
+   <subject>
+      <topic>Diatoms</topic>
+   </subject>
+   <subject>
+      <topic>Bacillariophyceae</topic>
+   </subject>
+   <subject>
+      <topic>PacBio Sequencing</topic>
+   </subject>
+   <subject>
+      <topic>Illumina Sequencing</topic>
+   </subject>
+   <subject>
+      <topic>Skeletonema costatum</topic>
+   </subject>
+   <subject>
+      <topic>Algal Genome</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">02</text>
+         <text type="day">03</text>
+         <extent unit="pages">
+            <start>107931</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107931</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107931</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00143-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-02-04"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001433/S2352340922001433.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

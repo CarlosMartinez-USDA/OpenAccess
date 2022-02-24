@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100177">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A critical review on phytopharmacology, spectral and computational analysis of phytoconstituents from Streblus asper Lour</dct:title>
+         <dct:creator>Rinkal Chamariya</dct:creator>
+         <dct:creator>Radhika Raheja</dct:creator>
+         <dct:creator>Vasanti Suvarna</dct:creator>
+         <dct:creator>Richie Bhandare</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Streblus asper</rdf:li>
+               <rdf:li>Anti-filarial</rdf:li>
+               <rdf:li>Anti-HBV</rdf:li>
+               <rdf:li>Anticancer</rdf:li>
+               <rdf:li>Spectral analysis</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100177</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100177</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100177</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100177</dct:identifier>
+         <bam:articleNumber>100177</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-24T09:52:22Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100177</ja:aid>
+         <ce:article-number>100177</ce:article-number>
+         <ce:pii>S2667-0313(21)00159-7</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100177</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">A critical review on phytopharmacology, spectral and computational analysis of phytoconstituents from <ce:italic>Streblus asper</ce:italic> Lour</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001597-154c7e92f3f0d34fc4dcc48c6aa697c7">
+               <ce:given-name>Rinkal</ce:given-name>
+               <ce:surname>Chamariya</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001597-ed7d526fe9029c6a21607534ad1ae893">
+               <ce:given-name>Radhika</ce:given-name>
+               <ce:surname>Raheja</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:radhika.raheja@bncp.ac.in">radhika.raheja@bncp.ac.in</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001597-0a20a4984d23c42b3a7c70941d57948b">
+               <ce:given-name>Vasanti</ce:given-name>
+               <ce:surname>Suvarna</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001597-b778dc788725469be2d57474ffceddab">
+               <ce:given-name>Richie</ce:given-name>
+               <ce:surname>Bhandare</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001597-9ef142b05c648f4156c7338fc4e3939b">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Pharmaceutical Chemistry, SVKM's Dr. Bhanuben Nanavati College of Pharmacy, Mumbai, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutical Chemistry</sa:organization>
+                  <sa:organization>SVKM's Dr. Bhanuben Nanavati College of Pharmacy</sa:organization>
+                  <sa:city>Mumbai</sa:city>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Pharmaceutical Chemistry, SVKM's Dr. Bhanuben Nanavati College of Pharmacy, Mumbai, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001597-7605c88148f8a26ee0aaaa4780e7ccd0">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Pharmaceutical Sciences, College of Pharmacy &amp; Health Sciences, Ajman University, Ajman, UAE</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutical Sciences</sa:organization>
+                  <sa:organization>College of Pharmacy &amp; Health Sciences</sa:organization>
+                  <sa:organization>Ajman University</sa:organization>
+                  <sa:state>Ajman</sa:state>
+                  <sa:country>UAE</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Pharmaceutical Sciences, College of Pharmacy &amp; Health Sciences, Ajman University, Ajman, UAE</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Pharmaceutical Chemistry, SVKM's Dr. Bhanuben Nanavati College of Pharmacy, Mumbai 400056, India.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutical Chemistry</sa:organization>
+                  <sa:organization>SVKM's Dr. Bhanuben Nanavati College of Pharmacy</sa:organization>
+                  <sa:city>Mumbai</sa:city>
+                  <sa:postal-code>400056</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">
+                           <ce:italic>Streblus asper</ce:italic> (Family: Moraceae) shows antioxidant, anti-inflammatory, antidiabetic, and antimicrobial activity.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Asperoside and strebloside possess antifilarial activity.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">
+                           <ce:italic>Streblus asper</ce:italic> has shown anticancer, anti-hepatitis B, antidiarrheal, and analgesic activity.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">
+                           <ce:italic>Streblus asper</ce:italic> is shown to be cardioprotective, chemoprotective, hepatoprotective, and neuroprotective.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara008" view="all">Phytomedicine has been practiced since time immemorial for alleviating human diseases. However, since plants offer unique phytoconstituents with specific biological activities, a systematic approach towards the use of phytomedicine is gaining immense importance since the past few decades. Family <ce:italic>Moraceae</ce:italic> comprises trees, shrubs, herbs, and lianas. This family includes not only fruit-bearing trees but also plants of ornamental value. <ce:italic>Streblus asper</ce:italic> Lour, a rigid evergreen tree, belonging to the family <ce:italic>Moraceae</ce:italic>, is of great importance and is widely used in folklore medicine. The plant exhibits traditional prevalence in the treatment of leprosy, piles, diarrhoea, dysentery, elephantiasis, and dental caries. Several pharmacological studies have established therapeutic potential and health benefits of <ce:italic>Streblus asper</ce:italic> in various diseases. The focus of this review was to present an updated yet comprehensive information of the biological activities reported on the various extracts of <ce:italic>Streblus asper</ce:italic> Lour and to collate the information available on isolated phytoconstituents, their spectral and computational analysis, and probable mechanistic studies.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Methods</ce:section-title>
+               <ce:simple-para id="spara009" view="all">SciFinder Scholar database, PubMed, Scopus, ScienceDirect, Google Scholar, and other web sources such as Kew Botanical Garden and The Plant List were visited for an exhaustive literature search on the medicinal uses, pharmacological activities, isolation, structural elucidation, and computational studies on phytoconstituents from S<ce:italic>treblus asper</ce:italic> Lour. Research articles available to date, focusing on these areas were used in this review, thus upgrading the information presented in the latest review of 2017.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara010" view="all">The extracts of various plant parts of <ce:italic>Streblus asper</ce:italic> possess several potentially bioactive compounds credited with various biological activities including anti-hepatitis B virus, antimicrobial, analgesic, anti-inflammatory, anti-diarrhoeal, neuroprotective, hypoglycaemia, and cytotoxicity.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusions</ce:section-title>
+               <ce:simple-para id="spara011" view="all">The phytoconstituents from <ce:italic>Streblus asper</ce:italic> have been found to exhibit a broad gamut of pharmacological activities, thereby making them unique candidates for exploratory studies. Extensive clinical data may ascertain their potential use in humans to alleviate the disorders in which these extracts are significantly useful <ce:italic>in vitro.</ce:italic>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0007">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0007" view="all">
+               <ce:simple-para id="spara013a" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="abr" id="pc_28QoGUHLEiKjEzfc90gHg0unYENSh5Uy" view="all">
+            <ce:keyword id="pc_muh61hTRvr">
+               <ce:text>
+                  <ce:sup loc="post">13</ce:sup>C NMR</ce:text>
+               <ce:keyword id="pc_s3DvB6Cahy">
+                  <ce:text>Carbon-13 Nuclear Magnetic Resonance</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_1nLwwxDeJp">
+               <ce:text>COSY</ce:text>
+               <ce:keyword id="pc_6NpKwBABMe">
+                  <ce:text>Correlation spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_vnLPXXkbDf">
+               <ce:text>DEPT</ce:text>
+               <ce:keyword id="pc_q7HzuX81fz">
+                  <ce:text>Dynamic Excitation of Proton Transitions</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_Khm23zlgUe">
+               <ce:text>ECD</ce:text>
+               <ce:keyword id="pc_O7Zw0HI67u">
+                  <ce:text>Electronic Circular Dichroism</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_PE6uElzRDw">
+               <ce:text>ESI-MS</ce:text>
+               <ce:keyword id="pc_Orz4KdEIFE">
+                  <ce:text>Electrospray ionization mass spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_1YvSKUrZ1a">
+               <ce:text>FAB-MS</ce:text>
+               <ce:keyword id="pc_qpCWpbO9yL">
+                  <ce:text>Fast Atom Bombardment Mass Spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_QsdXdUaVdi">
+               <ce:text>FTIR</ce:text>
+               <ce:keyword id="pc_IYTFC9jQTv">
+                  <ce:text>Fourier Transform Infrared Spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_rgGYf6WMP8">
+               <ce:text>GC-FID</ce:text>
+               <ce:keyword id="pc_zaKAsVFVJ3">
+                  <ce:text>Gas Chromatography Flame Ionization Detector</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_IonTje4spa">
+               <ce:text>GC–MS</ce:text>
+               <ce:keyword id="pc_toIFqWw7lu">
+                  <ce:text>Gas Chromatography-Mass Spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_lurbocJfMq">
+               <ce:text>HMBC</ce:text>
+               <ce:keyword id="pc_Ro192HKyXQ">
+                  <ce:text>Heteronuclear Multiple Bond Correlation</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_dWzkDLCG3U">
+               <ce:text>HMQC</ce:text>
+               <ce:keyword id="pc_LT2TDd9zoo">
+                  <ce:text>Heteronuclear Multiple Quantum Correlation</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_z4SBDllQTQ">
+               <ce:text>
+                  <ce:sup loc="post">1</ce:sup>H NMR</ce:text>
+               <ce:keyword id="pc_fkBE75brBa">
+                  <ce:text>Proton Nuclear Magnetic Resonance</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_ar51gtbKjG">
+               <ce:text>HPTLC</ce:text>
+               <ce:keyword id="pc_nj8E286dS6">
+                  <ce:text>High Performance Liquid Chromatography</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_R6D3JcaJgF">
+               <ce:text>HPLC-Q-TOF-MS</ce:text>
+               <ce:keyword id="pc_gFruZBGloP">
+                  <ce:text>High Performance Liquid Chromatography coupled with Quadrupole Time-Of-Flight Mass Spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_kANYFZmtmj">
+               <ce:text>HR-MS</ce:text>
+               <ce:keyword id="pc_DIFy7DaIel">
+                  <ce:text>High Resolution Mass Spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_xigM9kHHoF">
+               <ce:text>HR-EI-MS</ce:text>
+               <ce:keyword id="pc_pwe00vDzHv">
+                  <ce:text>High Resolution Electron Ionization Mass Spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_dKNWnWjQCe">
+               <ce:text>HR-FAB-MS</ce:text>
+               <ce:keyword id="pc_mQiDi7UewC">
+                  <ce:text>High Resolution Fast Atom Bombardment Mass Spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_rS8Q3Bx2R1">
+               <ce:text>IR</ce:text>
+               <ce:keyword id="pc_zoB3gys1Ze">
+                  <ce:text>Infrared Spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_MHo3FHp71r">
+               <ce:text>LC-MS</ce:text>
+               <ce:keyword id="pc_nJv5lVna8m">
+                  <ce:text>Liquid Chromatography-Mass Spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_sUei1Suvnw">
+               <ce:text>MS</ce:text>
+               <ce:keyword id="pc_XrAgInd8Oo">
+                  <ce:text>Mass Spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_zNmP2mV89P">
+               <ce:text>NOESY</ce:text>
+               <ce:keyword id="pc_0sjUWl9HNf">
+                  <ce:text>Nuclear Overhauser Enhancement Spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_943ZFd11EW">
+               <ce:text>TDDFT</ce:text>
+               <ce:keyword id="pc_GHNK3MDliO">
+                  <ce:text>Time Dependent Density Functional Theory</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_uZypnu0EVr">
+               <ce:text>UV</ce:text>
+               <ce:keyword id="pc_Df6rBoiseK">
+                  <ce:text>Ultraviolet-Visible Spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0008">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Streblus asper</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Anti-filarial</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Anti-HBV</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Anticancer</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Spectral analysis</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

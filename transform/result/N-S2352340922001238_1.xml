@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A dataset of cassava whitefly count images</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Joyce</namePart>
+      <namePart type="family">Nakatumba-Nabende</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0108-3798</nameIdentifier>
+      <displayForm>Nakatumba-Nabende, Joyce</displayForm>
+      <affiliation>Department of Computer Science, Makerere University, Uganda</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jeremy Francis</namePart>
+      <namePart type="family">Tusubira</namePart>
+      <displayForm>Tusubira, Jeremy Francis</displayForm>
+      <affiliation>Makerere University Artificial Intelligence Lab, Uganda</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Claire</namePart>
+      <namePart type="family">Babirye</namePart>
+      <displayForm>Babirye, Claire</displayForm>
+      <affiliation>Makerere University Artificial Intelligence Lab, Uganda</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Solomon</namePart>
+      <namePart type="family">Nsumba</namePart>
+      <displayForm>Nsumba, Solomon</displayForm>
+      <affiliation>Makerere University Artificial Intelligence Lab, Uganda</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christopher Omongo</namePart>
+      <namePart type="family">Abu</namePart>
+      <displayForm>Abu, Christopher Omongo</displayForm>
+      <affiliation>Root Crops Research Programme, National Crops Resources Research Institute, Uganda</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-01</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Whiteflies are insect vectors that affect a variety of plants such as tomatoes, cabbages, sweet potatoes, eggplants, and cassava. In Uganda, whiteflies are a major contributor to the spread of Cassava Brown Streak Disease (CBSD). By suckling on infected cassava plants, whiteflies can potentially transfer the Cassava Brown Streak Virus that causes CBSD to uninfected clean plants nearby when they migrate. When they attack the cassava plants in large numbers, whiteflies can also cause significant physical damage through suckling. This eventually can lead to leaf loss or plant death. Whiteflies also excrete “honeydew”, which harbors a fungus known as “sooty mold” that covers the leaves, limiting access to sunlight which in turn affects plant food production. As part of their work, the cassava breeders often conduct studies to assess the population of whiteflies in cassava fields through a manual process of visual inspection which can be arduous and time-consuming. This paper presents a cassava whitefly dataset that has been curated to enable researchers to build solutions for the automation of the count and detection of whiteflies. The dataset contains 3,000 images captured in a whitefly trial site in Uganda. It depicts different variations of whitefly infestation from low to high infestation. This data has already been used to provide a proof-of-concept solution for whitefly counting based on Machine Learning approaches. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Cassava</topic>
+   </subject>
+   <subject>
+      <topic>Whitefly</topic>
+   </subject>
+   <subject>
+      <topic>Whitefly count</topic>
+   </subject>
+   <subject>
+      <topic>CBSD</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">02</text>
+         <text type="day">01</text>
+         <extent unit="pages">
+            <start>107911</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107911</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107911</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00123-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-02-01"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001238/S2352340922001238.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

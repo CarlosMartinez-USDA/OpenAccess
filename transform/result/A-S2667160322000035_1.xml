@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2022.100042">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Effects of serotype and species dependency of bacterial lipopolysaccharides in human melanocytes from lightly and darkly-pigmented skin</dct:title>
+         <dct:creator>Shilpi Goenka</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Lipopolysaccharide serotype</rdf:li>
+               <rdf:li>E Coli</rdf:li>
+               <rdf:li>P. Gingivalis</rdf:li>
+               <rdf:li>lightly-pigmented</rdf:li>
+               <rdf:li>Darkly-pigmented</rdf:li>
+               <rdf:li>IL-6 cytokine</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 2 (2022). doi:10.1016/j.bbadva.2022.100042</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:coverDisplayDate>2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2022.100042</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2022.100042</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2022.100042</dct:identifier>
+         <bam:articleNumber>100042</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-11T21:06:07Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="sco" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100042</ja:aid>
+         <ce:article-number>100042</ce:article-number>
+         <ce:pii>S2667-1603(22)00003-5</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2022.100042</ce:doi>
+         <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="doc1101">
+            <ce:textfn id="cetextfn7861">BBA Research Letters</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Effects of serotype and species dependency of bacterial lipopolysaccharides in human melanocytes from lightly and darkly-pigmented skin</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160322000035-8b2ba0c0a2cc20a2e13dc018160a1cd9">
+               <ce:given-name>Shilpi</ce:given-name>
+               <ce:surname>Goenka</ce:surname>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:shilpi.goenka@stonybrook.edu">shilpi.goenka@stonybrook.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160322000035-6dfdf8d56cbf782999494177300005aa">
+               <ce:textfn id="cetextfn0001">Department of Biochemistry and Cellular Biology, Department of Biomedical Engineering, Stony Brook University, Stony Brook, NY, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biochemistry and Cellular Biology</sa:organization>
+                  <sa:organization>Department of Biomedical Engineering</sa:organization>
+                  <sa:organization>Stony Brook University</sa:organization>
+                  <sa:city>Stony Brook</sa:city>
+                  <sa:state>NY</sa:state>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Biochemistry and Cellular Biology, Department of Biomedical Engineering, Stony Brook University, Stony Brook, NY, USA</ce:source-text>
+            </ce:affiliation>
+         </ce:author-group>
+         <ce:date-received day="30" month="10" year="2021"/>
+         <ce:date-revised day="28" month="12" year="2021"/>
+         <ce:date-accepted day="11" month="1" year="2022"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara002" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">This study represents a direct comparison of different serotypes (O55:B5, O26:B6 and O128:B12) of lipopolysaccharide (LPS) from species <ce:italic>Escherichia coli</ce:italic> and LPS from another species <ce:italic>Porphyromonas gingivalis</ce:italic>.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Effects were examined on primary human melanocytes from lightly pigmented (LP) and darkly pigmented (DP) donor skin.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">None of LPSs altered melanin production in both cells after 48 h exposure.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">LPS serotype O26:B6 showed the highest potency in the induction of IL-6 cytokine that was dependent on the pigmentation phenotype, while other serotypes and species were less effective or ineffective.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara003" view="all">Lipopolysaccharides (LPS) alter melanin synthesis and induce cytokine secretion in melanocytes; however, effects of different serotypes or species of LPS have been rarely addressed. Herein, LPS from serotypes (O55:B5, O26:B6, O128:B12) of <ce:italic>E Coli</ce:italic> and <ce:italic>P gingivalis</ce:italic> (LPS-PG) was examined in human melanocytes of lightly-pigmented (LP) and darkly-pigmented (DP) donors. Results showed no effect of any LPS on melanin production in both cells. B6 and B12 elicited higher levels of IL-6 than B5 in LP cells while B6 was more potent than B12 in DP cells. B5 and PG did not show any effect on IL-6 in both cells.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0001">Lipopolysaccharide serotype</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0002">E Coli</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0003">P. Gingivalis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0004">lightly-pigmented</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0005">Darkly-pigmented</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0006">IL-6 cytokine</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0002" class="abr" view="all">
+            <ce:section-title id="cesectitle0004">Abbreviations</ce:section-title>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0007">LPS</ce:text>
+               <ce:keyword id="key7a">
+                  <ce:text id="cetext7a">lipopolysaccharide</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0008">TLR</ce:text>
+               <ce:keyword id="key8a">
+                  <ce:text id="cetext8a">toll-like receptor</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0009">
+               <ce:text id="cetext0009">EC</ce:text>
+               <ce:keyword id="key9a">
+                  <ce:text id="cetext9a">escherichia coli</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0010">
+               <ce:text id="cetext0010">PG</ce:text>
+               <ce:keyword id="key10a">
+                  <ce:text id="cetext10a">porphyromonas gingivalis</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011">
+               <ce:text id="cetext0011">IL-6</ce:text>
+               <ce:keyword id="key11a">
+                  <ce:text id="cetext11a">interleukin-6</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0012">
+               <ce:text id="cetext0012">HEM</ce:text>
+               <ce:keyword id="key12a">
+                  <ce:text id="cetext12a">human epidermal melanocyte</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0013">
+               <ce:text id="cetext0013">LP</ce:text>
+               <ce:keyword id="key13a">
+                  <ce:text id="cetext13a">lightly-pigmented</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0014">
+               <ce:text id="cetext0014">DP</ce:text>
+               <ce:keyword id="key14a">
+                  <ce:text id="cetext14a">darkly-pigmented</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0015">
+               <ce:text id="cetext0015">HMGS</ce:text>
+               <ce:keyword id="key15a">
+                  <ce:text id="cetext15a">human melanocyte growth supplement</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0016">
+               <ce:text id="cetext0016">ANOVA</ce:text>
+               <ce:keyword id="key16a">
+                  <ce:text id="cetext16a">analysis of variance</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

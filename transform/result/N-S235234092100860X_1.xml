@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of the electrochemical potential windows for the Au(hkl)|ionic liquid interfaces defined by the cut-off current densities</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Hiroyuki</namePart>
+      <namePart type="family">Ueda</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1278-8734</nameIdentifier>
+      <displayForm>Ueda, Hiroyuki</displayForm>
+      <affiliation>Graduate School of Science and Technology, Kumamoto University, 2-39-1 Kurokami, Chuo-ku, Kumamoto 860-8555, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Soichiro</namePart>
+      <namePart type="family">Yoshimoto</namePart>
+      <displayForm>Yoshimoto, Soichiro</displayForm>
+      <affiliation>Institute of Industrial Nanomaterials, Kumamoto University, 2-39-1 Kurokami, Chuo-ku, Kumamoto 860-8555, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This data article describes the linear sweep voltammetry (LSV) profiles of five ionic liquids (ILs) at the low-index (hkl) (hkl = 111, 100, and 110) planes of Au. The LSV profiles were recorded at 25 ± 1°C for the Au(hkl)|IL interfaces maintained in a hanging meniscus configuration in an inert Ar atmosphere (with H₂O and O₂ concentrations being lower than 5 ppm). The width of the electrical double-layer regions (Edₗ) and the electrochemical potential windows (Eₚw) of the ILs were evaluated based on the cut-off current densities (jcᵤₜ₋ₒff): ±5, ±10, and ±20 µA cm–² for Edₗ and ±0.1, ±0.5, and ±1.0 mA cm–² for Eₚw. The potential values were calibrated to the redox potential of ferrocene/ferrocenium in each IL. A detailed discussion on the electrochemical behaviors of the ILs on Au(hkl) is provided in the related article “Voltammetric Investigation of Anodic and Cathodic Processes at Au(hkl)|Ionic Liquid Interfaces”, published in the Journal of Electroanalytical Chemistry (Ueda and Yoshimoto, 2021). </abstract>
+   <subject>
+      <topic>Au(hkl)</topic>
+   </subject>
+   <subject>
+      <topic>Electrical double layer</topic>
+   </subject>
+   <subject>
+      <topic>Electrochemical potential window</topic>
+   </subject>
+   <subject>
+      <topic>Interfacial processes</topic>
+   </subject>
+   <subject>
+      <topic>Ionic liquids</topic>
+   </subject>
+   <subject>
+      <topic>Linear sweep voltammetry</topic>
+   </subject>
+   <subject>
+      <topic>Single crystal electrodes</topic>
+   </subject>
+   <subject>
+      <topic>Specific desorption</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107585</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107585</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107585</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00860-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-13"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S235234092100860X/S235234092100860X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

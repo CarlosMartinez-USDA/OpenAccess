@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on minerals and crystallinity index of quartz in rock samples collected from Paleolithic archaeological site of Attirampakkam, Tamil Nadu</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Tamilarasi</namePart>
+      <displayForm>Tamilarasi, A.</displayForm>
+      <affiliation>Sri Sivasubramaniya Nadar College of Engineering (Autonomous), Chennai, Tamilnadu 603110, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">V.</namePart>
+      <namePart type="family">Sathish</namePart>
+      <displayForm>Sathish, V.</displayForm>
+      <affiliation>Sri Sivasubramaniya Nadar College of Engineering (Autonomous), Chennai, Tamilnadu 603110, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Manigandan</namePart>
+      <displayForm>Manigandan, S.</displayForm>
+      <affiliation>Sri Sivasubramaniya Nadar College of Engineering (Autonomous), Chennai, Tamilnadu 603110, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Chandrasekaran</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3676-0346</nameIdentifier>
+      <displayForm>Chandrasekaran, A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In the present work, rock samples were collected from Paleolithic archaeological site of Attirampakkam, Tamil Nadu, India to assess the mineralogical composition using Fourier transform infrared-spectroscopic (FT-IR) technique and X-Ray Diffraction Spectrometry (XRD). The quartz, kaolinite, montmorillonite, calcite, orthoclase, microcline and illite minerals are identified in rock samples and crystallinity index of quartz (SiO₂) is estimated for all the samples by comparing the ratio of intensity of the characteristic peak at 778 and 695 cm–¹ using FT-IR spectrum. In rock samples, calculated crystallinity index of quartz is greater than the 1 from FT-IR spectrum and it shows that the distribution is disordered in nature. Additionally, some more minerals such as hematite and rutile are identified in rock samples by X-ray diffraction technique. This extensive study shows that archeological rock samples are wide variation in mineral composition. </abstract>
+   <subject>
+      <topic>Paleolithic archaeological rock</topic>
+   </subject>
+   <subject>
+      <topic>FT-IR</topic>
+   </subject>
+   <subject>
+      <topic>Crystallinity index</topic>
+   </subject>
+   <subject>
+      <topic>XRD</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107571</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107571</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107571</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00846-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-10"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008465/S2352340921008465.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

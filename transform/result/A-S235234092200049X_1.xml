@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107837">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Multiyear Maize Management Dataset collected in Chiapas, Mexico</dct:title>
+         <dct:creator>Rodrigo G. Trevisan</dct:creator>
+         <dct:creator>Nicolas F. Martin</dct:creator>
+         <dct:creator>Simon Fonteyne</dct:creator>
+         <dct:creator>Nele Verhulst</dct:creator>
+         <dct:creator>Hugo A. Dorado Betancourt</dct:creator>
+         <dct:creator>Daniel Jimenez</dct:creator>
+         <dct:creator>Andrea Gardeazabal</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Explanatory machine learning</rdf:li>
+               <rdf:li>Sustainable intensification</rdf:li>
+               <rdf:li>Smallholders</rdf:li>
+               <rdf:li>Tropical agriculture</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2022.107837</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2022.107837</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107837</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107837</dct:identifier>
+         <bam:articleNumber>107837</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-13T14:04:36Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107837</ja:aid>
+         <ce:article-number>107837</ce:article-number>
+         <ce:pii>S2352-3409(22)00049-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107837</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Multiyear Maize Management Dataset collected in Chiapas, Mexico</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092200049X-0abb98eb5b552523e3b6d464266c47c7"
+                       orcid="0000-0002-2896-9820">
+               <ce:given-name>Rodrigo G.</ce:given-name>
+               <ce:surname>Trevisan</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092200049X-a9594fe1998052280b026a4ae07b9ca8">
+               <ce:given-name>Nicolas F.</ce:given-name>
+               <ce:surname>Martin</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092200049X-0380560c9ef9837d7b74ffb46c4c18e3"
+                       orcid="0000-0001-9965-5266">
+               <ce:given-name>Simon</ce:given-name>
+               <ce:surname>Fonteyne</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/sgfonteyne">@sgfonteyne</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S235234092200049X-23577957051b9c98d52cc4e8935110bf"
+                       orcid="0000-0001-5032-4386">
+               <ce:given-name>Nele</ce:given-name>
+               <ce:surname>Verhulst</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:n.verhulst@cgiar.org">n.verhulst@cgiar.org</ce:e-address>
+               <ce:e-address id="ead0001b"
+                             type="email"
+                             xlink:href="mailto:nele.verhulst@gmail.com">nele.verhulst@gmail.com</ce:e-address>
+               <ce:e-address id="ea3a"
+                             type="social-media"
+                             xlink:href="https://twitter.com/ACCIMMYT">@ACCIMMYT</ce:e-address>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S235234092200049X-92515bbf839ee9149fc60e5a496ca690"
+                       orcid="0000-0002-0103-7505">
+               <ce:given-name>Hugo A.</ce:given-name>
+               <ce:surname>Dorado Betancourt</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S235234092200049X-d290334ba3e57bec9f97c23a330f7128"
+                       orcid="0000-0003-4218-4306">
+               <ce:given-name>Daniel</ce:given-name>
+               <ce:surname>Jimenez</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S235234092200049X-e3ac8a739d6deeb4c7576b71799176b0"
+                       orcid="0000-0003-1529-4200">
+               <ce:given-name>Andrea</ce:given-name>
+               <ce:surname>Gardeazabal</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092200049X-1aa921c7a030cd97fabb2eabad8eb290">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Crop Sciences, University of Illinois at Urbana-Champaign, 1102 Goodwin Ave. Urbana, IL, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Crop Sciences</sa:organization>
+                  <sa:organization>University of Illinois at Urbana-Champaign</sa:organization>
+                  <sa:address-line>1102 Goodwin Ave</sa:address-line>
+                  <sa:city>Urbana</sa:city>
+                  <sa:state>IL</sa:state>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Crop Sciences, University of Illinois at Urbana-Champaign, 1102 Goodwin Ave. Urbana, IL, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092200049X-2e874235373816298f9a5bf29cbb1400">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">International Maize and Wheat Improvement Center (CIMMYT), Carretera México-Veracruz Km. 45, El Batán, Texcoco, Mexico</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>International Maize and Wheat Improvement Center (CIMMYT)</sa:organization>
+                  <sa:address-line>Carretera México-Veracruz Km. 45, El Batán</sa:address-line>
+                  <sa:city>Texcoco</sa:city>
+                  <sa:country>Mexico</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bInternational Maize and Wheat Improvement Center (CIMMYT), Carretera México-Veracruz Km. 45, El Batán, Texcoco, Mexico</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S235234092200049X-232fad06e86e16cde7a71cd58c31c3d9">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">International Center for Tropical Agriculture (CIAT) Km 17 Recta Cali-Palmira, 763537 - A.A. 6713, Cali, Colombia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>International Center for Tropical Agriculture (CIAT)</sa:organization>
+                  <sa:address-line>Km 17 Recta Cali-Palmira, 763537 - A.A. 6713</sa:address-line>
+                  <sa:city>Cali</sa:city>
+                  <sa:country>Colombia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cInternational Center for Tropical Agriculture (CIAT) Km 17 Recta Cali-Palmira, 763537 - A.A. 6713, Cali, Colombia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S235234092200049X-9e172e177c39dc5bd78d8f3d7bfc447c">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Universidad Icesi. Calle 18 # 122-135, Valle del Cauca 760031, Pance, Cali, Colombia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Universidad Icesi</sa:organization>
+                  <sa:address-line>Calle 18 # 122-135, Valle del Cauca 760031, Pance</sa:address-line>
+                  <sa:city>Cali</sa:city>
+                  <sa:country>Colombia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dUniversidad Icesi. Calle 18 # 122-135, Valle del Cauca 760031, Pance, Cali, Colombia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author's.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="28" month="10" year="2021"/>
+         <ce:date-revised day="4" month="1" year="2022"/>
+         <ce:date-accepted day="12" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">For several decades, maize (<ce:italic>Zea mays</ce:italic> L.) management decisions in smallholder farming in tropical regions have been a puzzle. To best balance alternative management practices' environmental and economic outcomes, an extensive dataset was gathered through CIMMYT's knowledge hub in Chiapas, a state in southern Mexico. In a knowledge hub, farmers, with the support of farm advisors, compare conventional and improved agronomic practices side-by-side and install demonstration fields where they implement improved practices. In all these fields data on on-farm operations and results is collected. The dataset was assembled using field variables (yield, cultivars, fertilization and tillage practice), as well as environment variables from soil mapping (slope, elevation, soil texture, pH and organic matter concentration) and gridded weather datasets (precipitation, temperature, radiation and evapotranspiration). The dataset contains observations from 4585 fields and comprises a period of 7 years between 2012 and 2018. This dataset will facilitate analytical approaches to represent spatial and temporal variability of alternative crop management decisions based on observational data and explain model-generated predictions for maize in Chiapas, Mexico. In addition, this data can serve as an example for similar efforts in Big Data in Agriculture.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Explanatory machine learning</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Sustainable intensification</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002a">
+               <ce:text id="cetext0003a">Smallholders</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Tropical agriculture</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

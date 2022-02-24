@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Erythrocyte (red blood cell) dataset in thalassemia case</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Dyah Aruming</namePart>
+      <namePart type="family">Tyas</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8505-7836</nameIdentifier>
+      <displayForm>Tyas, Dyah Aruming</displayForm>
+      <affiliation>Department of Computer Science and Electronics, Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tri</namePart>
+      <namePart type="family">Ratnaningsih</namePart>
+      <displayForm>Ratnaningsih, Tri</displayForm>
+      <affiliation>Department of Clinical Pathology and Laboratory Medicine, Faculty of Medicine, Nursing and Public Health, Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Agus</namePart>
+      <namePart type="family">Harjoko</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8677-9593</nameIdentifier>
+      <displayForm>Harjoko, Agus</displayForm>
+      <affiliation>Department of Computer Science and Electronics, Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sri</namePart>
+      <namePart type="family">Hartati</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5511-3921</nameIdentifier>
+      <displayForm>Hartati, Sri</displayForm>
+      <affiliation>Department of Computer Science and Electronics, Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-26</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Red blood cell (RBC) dataset was obtained from four thalassemia peripheral blood smears and a healthy peripheral blood smear. The dataset contains 7108 images of individual red blood cells for nine cell types. The first process is image acquisition, which is the process of retrieving microscopic image data from peripheral blood smears through a Olympus CX21 microscope using an Optilab advance plus camera. Laboratory assistants helped obtain ideal erythrocyte images. We provide peripheral blood smear from four thalassemia patients in the ThalassemiaPBS dataset. After image acquisition, the image is resized from 4100 × 3075 pixels to 800 × 600 pixels to reduce the computing load in the next stage. We extracted the green color component (green channel) of the RGB image and used it in the next process. We chose the green channel because it is not affected by variations in color and brightness. Furthermore, the segmentation stage is carried out to obtain an object in the form of a single red blood cell. After that, the object can be classified according to the type of red blood cell. This dataset can become an opportunity for international researchers to develop the classification method for red blood cells. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Erythrocyte</topic>
+   </subject>
+   <subject>
+      <topic>RBC</topic>
+   </subject>
+   <subject>
+      <topic>Thalassemia</topic>
+   </subject>
+   <subject>
+      <topic>Classification</topic>
+   </subject>
+   <subject>
+      <topic>Peripheral blood smears</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">26</text>
+         <extent unit="pages">
+            <start>107886</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107886</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107886</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00098-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-27"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922000981/S2352340922000981.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

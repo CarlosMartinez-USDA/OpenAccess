@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107699">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Distribution level electric current consumption and meteorological data set of the east region of Paraguay</dct:title>
+         <dct:creator>Gustavo Velázquez</dct:creator>
+         <dct:creator>Félix Morales</dct:creator>
+         <dct:creator>Miguel García-Torres</dct:creator>
+         <dct:creator>Francisco Gómez-Vela</dct:creator>
+         <dct:creator>Federico Divina</dct:creator>
+         <dct:creator>José Luis Vázquez Noguera</dct:creator>
+         <dct:creator>Federico Daumas-Ladouce</dct:creator>
+         <dct:creator>Carlos Sauer Ayala</dct:creator>
+         <dct:creator>Diego P. Pinto-Roa</dct:creator>
+         <dct:creator>Pedro E. Gardel-Sotomayor</dct:creator>
+         <dct:creator>Julio César Mello Román</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Electric current consumption</rdf:li>
+               <rdf:li>Meteorological data</rdf:li>
+               <rdf:li>Forecasting</rdf:li>
+               <rdf:li>Machine learning</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107699</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107699</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107699</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107699</dct:identifier>
+         <bam:articleNumber>107699</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-09T13:32:16Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Spain OA journals discount: 2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107699</ja:aid>
+         <ce:article-number>107699</ce:article-number>
+         <ce:pii>S2352-3409(21)00974-4</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107699</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">Distribution level electric current consumption and meteorological data set of the east region of Paraguay</ce:title>
+         <ce:short-title id="stitle0010">Distribution level electric current consumption and meteorological data set of the east region of Paraguay</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009744-117227302c382756ab2ac08926e10c5e"
+                       orcid="0000-0001-8891-7208">
+               <ce:given-name>Gustavo</ce:given-name>
+               <ce:surname>Velázquez</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009744-bdb1049132741f28a2c074b86e3455cf">
+               <ce:given-name>Félix</ce:given-name>
+               <ce:surname>Morales</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009744-c0ea3012adf3a714b17cca66ef477c15"
+                       orcid="0000-0002-6867-7080">
+               <ce:given-name>Miguel</ce:given-name>
+               <ce:surname>García-Torres</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:mgarciat@upo.es" id="ead0001">mgarciat@upo.es</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009744-c2b5231f8d60d2dd2512ecd868f2219e"
+                       orcid="0000-0001-7376-5790">
+               <ce:given-name>Francisco</ce:given-name>
+               <ce:surname>Gómez-Vela</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921009744-18583c09b8a58d1cea76e641515acf08">
+               <ce:given-name>Federico</ce:given-name>
+               <ce:surname>Divina</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921009744-c1a4a9e4ef480d783e205323dff6ba0f">
+               <ce:given-name>José Luis</ce:given-name>
+               <ce:surname>Vázquez Noguera</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921009744-6a5031caf5ad43db76d6c0e5f4b5c69f">
+               <ce:given-name>Federico</ce:given-name>
+               <ce:surname>Daumas-Ladouce</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921009744-240dfaf64bedea84f2b9a99be96fa621">
+               <ce:given-name>Carlos</ce:given-name>
+               <ce:surname>Sauer Ayala</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921009744-f3d6a8e75ba631bb2909f40862789aa1">
+               <ce:given-name>Diego P.</ce:given-name>
+               <ce:surname>Pinto-Roa</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2352340921009744-92b12a1866fc3e56f45987ca12837741"
+                       orcid="0000-0003-3161-8383">
+               <ce:given-name>Pedro E.</ce:given-name>
+               <ce:surname>Gardel-Sotomayor</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S2352340921009744-6d9ee4d59db6c28cf29d8cdef6c00b09"
+                       orcid="0000-0002-3698-4043">
+               <ce:given-name>Julio César</ce:given-name>
+               <ce:surname>Mello Román</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0006">
+                  <ce:sup loc="post">f</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009744-0dcdd167155737b6625ec32b7dafac49">
+               <ce:label>a</ce:label>
+               <ce:textfn id="textfn0002">Computer Engineer Department, Universidad Americana, Asunción 1029, Paraguay</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Computer Engineer Department</sa:organization>
+                  <sa:organization>Universidad Americana</sa:organization>
+                  <sa:city>Asunción</sa:city>
+                  <sa:postal-code>1029</sa:postal-code>
+                  <sa:country>Paraguay</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">Computer Engineer Department, Universidad Americana, Asunción 1029, Paraguay</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009744-4ae07c004598182dd770dcbce1fb0402">
+               <ce:label>b</ce:label>
+               <ce:textfn id="textfn0003">Data Science and Big Data Lab, Universidad Pablo de Olavide, Seville ES-41013, Spain</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Data Science and Big Data Lab</sa:organization>
+                  <sa:organization>Universidad Pablo de Olavide</sa:organization>
+                  <sa:city>Seville</sa:city>
+                  <sa:postal-code>ES-41013</sa:postal-code>
+                  <sa:country>Spain</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0002">Data Science and Big Data Lab, Universidad Pablo de Olavide, Seville ES-41013, Spain</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921009744-d78c011aef7e2c76b4d0ac410f651ba3">
+               <ce:label>c</ce:label>
+               <ce:textfn id="textfn0004">Facultad de Ingeniería, Universidad Nacional de Asunción, San Lorenzo 111421, Paraguay</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Facultad de Ingeniería</sa:organization>
+                  <sa:organization>Universidad Nacional de Asunción</sa:organization>
+                  <sa:city>San Lorenzo</sa:city>
+                  <sa:postal-code>111421</sa:postal-code>
+                  <sa:country>Paraguay</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0003">Facultad de Ingeniería, Universidad Nacional de Asunción, San Lorenzo 111421, Paraguay</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921009744-8e57894555a86fb37b94041bb842132e">
+               <ce:label>d</ce:label>
+               <ce:textfn id="textfn0005">Facultad Politécnica, Universidad Nacional de Asunción, San Lorenzo 111421, Paraguay</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Facultad Politécnica</sa:organization>
+                  <sa:organization>Universidad Nacional de Asunción</sa:organization>
+                  <sa:city>San Lorenzo</sa:city>
+                  <sa:postal-code>111421</sa:postal-code>
+                  <sa:country>Paraguay</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0004">Facultad Politécnica, Universidad Nacional de Asunción, San Lorenzo 111421, Paraguay</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921009744-7450d998ef8865bb6c3d573ebcc32367">
+               <ce:label>e</ce:label>
+               <ce:textfn id="textfn0006">Facultad de Ciencias y Tecnológia, Universidad Católica Nuestra Señora de la Asunción, Campus Alto Párana, Paraguay</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Facultad de Ciencias y Tecnológia</sa:organization>
+                  <sa:organization>Universidad Católica Nuestra Señora de la Asunción</sa:organization>
+                  <sa:address-line>Campus Alto Párana</sa:address-line>
+                  <sa:country>Paraguay</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0005">Facultad de Ciencias y Tecnológia, Universidad Católica Nuestra Señora de la Asunción, Campus Alto Párana, Paraguay</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0006"
+                            affiliation-id="S2352340921009744-f24e9e333506bdb3b55b864f79840d86">
+               <ce:label>f</ce:label>
+               <ce:textfn id="textfn0007">Facultad de Ciencias y Tecnología, Universidad Caólica Nuestra Señora de la Asunción, Campus Alto Paraná, Paraguay</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Facultad de Ciencias y Tecnología</sa:organization>
+                  <sa:organization>Universidad Caólica Nuestra Señora de la Asunción</sa:organization>
+                  <sa:country>Paraguay</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0006">Facultad de Ciencias y Tecnología, Universidad Caólica Nuestra Señora de la Asunción, Campus Alto Paraná, Paraguay</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author at: Data Science and Big Data Lab, Universidad Pablo de Olavide, ES-41013 Seville, Spain.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Data Science and Big Data Lab</sa:organization>
+                  <sa:organization>Universidad Pablo de Olavide</sa:organization>
+                  <sa:city>Seville</sa:city>
+                  <sa:postal-code>ES-41013</sa:postal-code>
+                  <sa:country>Spain</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="13" month="7" year="2021"/>
+         <ce:date-revised day="16" month="11" year="2021"/>
+         <ce:date-accepted day="8" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">This paper presents a data set with information on meteorological data and electricity consumption in the department of Alto Paraná, Paraguay. The meteorological data were registered every three hours at the Aeropuerto Guarani, Department of Alto Paraná, which belongs to the Dirección Nacional de Aeronáutica Civil of Paraguay. The final data consists of a total of 22.445 records of temperature, relative humidity, wind speed and atmospheric pressure. On the other hand, the electrical energy consumption data set contains a total of 1.848.947 records, all of them coming from the one hundred and fifteen feeders located throughout the Alto Paraná region of Paraguay. Electrical energy consumption data was provided by Administración Nacional de Electricidad (ANDE). The analysis of this data can yield insights regarding the energy consumption in the area.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">Electric current consumption</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Meteorological data</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Forecasting</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Machine learning</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

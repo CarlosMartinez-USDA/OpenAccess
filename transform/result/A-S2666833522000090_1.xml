@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fufo.2022.100121">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Artificial Steak: a 3D printable hydrogel composed of egg albumen, pea protein, gellan gum, sodium alginate and rice mill by-products</dct:title>
+         <dct:creator>Cheng-Rong TSAI</dct:creator>
+         <dct:creator>Yung-Kai LIN</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Zero hunger</rdf:li>
+               <rdf:li>Ovo-lacto vegan meat</rdf:li>
+               <rdf:li>3D print</rdf:li>
+               <rdf:li>Artificial steak</rdf:li>
+               <rdf:li>elderly’ foods</rdf:li>
+               <rdf:li>Optimization</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Future Foods, Journal Pre-proof. doi:10.1016/j.fufo.2022.100121</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Future Foods</prism:publicationName>
+         <prism:copyright>© 2022 Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2666-8335</prism:issn>
+         <prism:doi>10.1016/j.fufo.2022.100121</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fufo.2022.100121</prism:url>
+         <dct:identifier>doi:10.1016/j.fufo.2022.100121</dct:identifier>
+         <bam:articleNumber>100121</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-28T04:18:02Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FUFO</ja:jid>
+         <ja:aid>100121</ja:aid>
+         <ce:article-number>100121</ce:article-number>
+         <ce:pii>S2666-8335(22)00009-0</ce:pii>
+         <ce:doi>10.1016/j.fufo.2022.100121</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Artificial Steak: a 3D printable hydrogel composed of egg albumen, pea protein, gellan gum, sodium alginate and rice mill by-products</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2666833522000090-260eea7959ff3d2eea237240a43b03f3">
+               <ce:given-name>Cheng-Rong</ce:given-name>
+               <ce:surname>TSAI</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2666833522000090-234f6a32e2b0cc8701d906a9a66b6ab6">
+               <ce:given-name>Yung-Kai</ce:given-name>
+               <ce:surname>LIN</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:yklin@ntou.edu.tw">yklin@ntou.edu.tw</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2666833522000090-238c8555af80ad4ac1c0d3171860eb0c">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Food Science, National Taiwan Ocean University, Keelung, Taiwan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Food Science</sa:organization>
+                  <sa:organization>National Taiwan Ocean University</sa:organization>
+                  <sa:city>Keelung</sa:city>
+                  <sa:country>Taiwan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1Department of Food Science, National Taiwan Ocean University, Keelung, Taiwan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2666833522000090-5b6f0fc5e1727152e8031d429e8eb6bf">
+               <ce:label>2</ce:label>
+               <ce:textfn id="cetextfn0002">Institute of Food Safety and Risk Management, National Taiwan Ocean University, Keelung, Taiwan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Food Safety and Risk Management</sa:organization>
+                  <sa:organization>National Taiwan Ocean University</sa:organization>
+                  <sa:city>Keelung</sa:city>
+                  <sa:country>Taiwan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2Institute of Food Safety and Risk Management, National Taiwan Ocean University, Keelung, Taiwan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2666833522000090-18b973db50767d6ea74f8a13c7520f95">
+               <ce:label>3</ce:label>
+               <ce:textfn id="cetextfn0003">Graduate Institute of Biomedical Engineering, National Chung Hsing University, Taichung, Taiwan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Graduate Institute of Biomedical Engineering</sa:organization>
+                  <sa:organization>National Chung Hsing University</sa:organization>
+                  <sa:state>Taichung</sa:state>
+                  <sa:country>Taiwan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">3Graduate Institute of Biomedical Engineering, National Chung Hsing University, Taichung, Taiwan</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author. Tel.: +886-2-24622192 ext 5172; No.2 Pei-Ning Road, Keelung, Taiwan 20224.</ce:text>
+               <sa:affiliation>
+                  <sa:address-line>No.2 Pei-Ning Road</sa:address-line>
+                  <sa:city>Keelung</sa:city>
+                  <sa:postal-code>20224</sa:postal-code>
+                  <sa:country>Taiwan</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara011" view="all">Food security and sustainability are the most urgent problems in worldwide. In the present study, the combinations of egg albumen, pea protein, and gellan gum were optimized to fabricate an artificial steak for specific populations. The relationships among the different components on the texture profile analysis, sensory evaluation, viscoelastic properties, and thermal behavior were conducted. 3D printing food was an emerging issue, this study also investigated how to fabricated an artificial steak and mitigate the impacts of meat production. Gellan gum was found to compensate for the proportion of proteins and regulate the instrumental hardness ranged from 453.82±39.75 g to 2515.62±144.55 g, the instrumental chewiness ranged from 156.29±22.77 to 1054.66±85.70 being feasible to regulated by different formulations, and extend to the customized platform and the applications of elderly’ foods. In sustainability orientation, 8.0% egg albumen /9.5% pea protein /0.7 gellan gel was computed as the optimal formulation, 9.5% egg albumen /5.5% pea protein /0.7 gellan gel wich was conducted as the optimal solution in marketing orientation. The “Artificial steak” has the potential to improve food security and human well-being, reduce animal suffering, and mitigate most of the environmental impacts associated with meat production.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003a" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003a">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003a" view="all">
+               <ce:simple-para id="spara0007a" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Zero hunger</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Ovo-lacto vegan meat</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">3D print</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Artificial steak</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">elderly’ foods</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Optimization</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

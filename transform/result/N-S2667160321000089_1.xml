@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>The 1.3-Å resolution structure of bovine cytochrome c oxidase suggests a dimerization mechanism</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Kyoko</namePart>
+      <namePart type="family">Shinzawa-Itoh</namePart>
+      <displayForm>Shinzawa-Itoh, Kyoko</displayForm>
+      <affiliation>Graduate School of Life Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Miki</namePart>
+      <namePart type="family">Hatanaka</namePart>
+      <displayForm>Hatanaka, Miki</displayForm>
+      <affiliation>Graduate School of Life Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kazuya</namePart>
+      <namePart type="family">Fujita</namePart>
+      <displayForm>Fujita, Kazuya</displayForm>
+      <affiliation>School of Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Naomine</namePart>
+      <namePart type="family">Yano</namePart>
+      <displayForm>Yano, Naomine</displayForm>
+      <affiliation>Graduate School of Life Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yumi</namePart>
+      <namePart type="family">Ogasawara</namePart>
+      <displayForm>Ogasawara, Yumi</displayForm>
+      <affiliation>Graduate School of Life Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jun</namePart>
+      <namePart type="family">Iwata</namePart>
+      <displayForm>Iwata, Jun</displayForm>
+      <affiliation>School of Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Eiki</namePart>
+      <namePart type="family">Yamashita</namePart>
+      <displayForm>Yamashita, Eiki</displayForm>
+      <affiliation>Institute for Protein Research, Osaka University, 3-2 Yamada-oka, Suita, Osaka 565-0871, Japan.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tomitake</namePart>
+      <namePart type="family">Tsukihara</namePart>
+      <displayForm>Tsukihara, Tomitake</displayForm>
+      <affiliation>Institute for Protein Research, Osaka University, 3-2 Yamada-oka, Suita, Osaka 565-0871, Japan.</affiliation>
+      <affiliation>Picobiology Institute, School of Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shinya</namePart>
+      <namePart type="family">Yoshikawa</namePart>
+      <displayForm>Yoshikawa, Shinya</displayForm>
+      <affiliation>Picobiology Institute, School of Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kazumasa</namePart>
+      <namePart type="family">Muramoto</namePart>
+      <displayForm>Muramoto, Kazumasa</displayForm>
+      <affiliation>Graduate School of Life Science, University of Hyogo, 3-2-1 Kouto, Kamigori, Ako, Hyogo 678-1297, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Cytochrome c oxidase (CcO) in the respiratory chain catalyzes oxygen reduction by coupling electron and proton transfer through the enzyme and proton pumping across the membrane. Although the functional unit of CcO is monomeric, mitochondrial CcO forms a monomer and a dimer, as well as a supercomplex with respiratory complexes I and III. A recent study showed that dimeric CcO has lower activity than monomeric CcO and proposed that dimeric CcO is a standby form for enzymatic activation in the mitochondrial membrane. Other studies have suggested that the dimerization is dependent on specifically arranged lipid molecules, peptide segments, and post-translationally modified amino acid residues. To re-examine the structural basis of dimerization, we improved the resolution of the crystallographic structure to 1.3 Å by optimizing the method for cryoprotectant soaking. The observed electron density map revealed many weakly bound detergent and lipid molecules at the interface of the dimer. The dimer interface also contained hydrogen bonds with tightly bound cholate molecules, hydrophobic interactions between the transmembrane helices, and a Met–Met interaction between the extramembrane regions. These results imply that binding of physiological ligands structurally similar to cholate could trigger dimerization in the mitochondrial membrane and that non-specifically bound lipid molecules at the transmembrane surface between monomers support the stabilization of the dimer. The weak interactions involving the transmembrane helices and extramembrane regions may play a role in positioning each monomer at the correct orientation in the dimer. </abstract>
+   <subject>
+      <topic>Cytochrome c oxidase</topic>
+   </subject>
+   <subject>
+      <topic>X-ray crystallography</topic>
+   </subject>
+   <subject>
+      <topic>Cryoprotectant soaking</topic>
+   </subject>
+   <subject>
+      <topic>Lipid</topic>
+   </subject>
+   <subject>
+      <topic>3OM</topic>
+   </subject>
+   <subject>
+      <topic>AS fractionation</topic>
+   </subject>
+   <subject>
+      <topic>BN-PAGE</topic>
+   </subject>
+   <subject>
+      <topic>CcO</topic>
+   </subject>
+   <subject>
+      <topic>CH</topic>
+   </subject>
+   <subject>
+      <topic>CHAPS</topic>
+   </subject>
+   <subject>
+      <topic>CL</topic>
+   </subject>
+   <subject>
+      <topic>DDM</topic>
+   </subject>
+   <subject>
+      <topic>DM</topic>
+   </subject>
+   <subject>
+      <topic>EG</topic>
+   </subject>
+   <subject>
+      <topic>LMNG</topic>
+   </subject>
+   <subject>
+      <topic>Na-Pi buffer</topic>
+   </subject>
+   <subject>
+      <topic>PC</topic>
+   </subject>
+   <subject>
+      <topic>PE</topic>
+   </subject>
+   <subject>
+      <topic>PEG</topic>
+   </subject>
+   <subject>
+      <topic>PG</topic>
+   </subject>
+   <subject>
+      <topic>PGP</topic>
+   </subject>
+   <subject>
+      <topic>PI</topic>
+   </subject>
+   <subject>
+      <topic>PS</topic>
+   </subject>
+   <subject>
+      <topic>PTM</topic>
+   </subject>
+   <subject>
+      <topic>ROS</topic>
+   </subject>
+   <subject>
+      <topic>TEG</topic>
+   </subject>
+   <subject>
+      <topic>TG</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100009</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100009</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100009</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00008-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-03-18"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S2667160321000089/S2667160321000089.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

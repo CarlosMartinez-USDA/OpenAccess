@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107760">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset for dynamics and conformational changes in human NEIL2 protein analyzed by integrative structural biology approach</dct:title>
+         <dct:creator>Polina V. Zhdanova</dct:creator>
+         <dct:creator>Alexander A. Ishchenko</dct:creator>
+         <dct:creator>Alexander A. Chernonosov</dct:creator>
+         <dct:creator>Dmitry O. Zharkov</dct:creator>
+         <dct:creator>Vladimir V. Koval</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>DNA damage</rdf:li>
+               <rdf:li>DNA repair</rdf:li>
+               <rdf:li>Base excision repair</rdf:li>
+               <rdf:li>DNA glycosylases</rdf:li>
+               <rdf:li>NEIL2</rdf:li>
+               <rdf:li>HDX-MS</rdf:li>
+               <rdf:li>Molecular dynamics</rdf:li>
+               <rdf:li>Structural dynamics</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107760</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107760</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107760</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107760</dct:identifier>
+         <bam:articleNumber>107760</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-16T01:31:00Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Russia: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107760</ja:aid>
+         <ce:article-number>107760</ce:article-number>
+         <ce:pii>S2352-3409(21)01005-2</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107760</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0022-2836(21)00571-4</ce:pii>
+               <ce:doi>10.1016/j.jmb.2021.167334</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset for dynamics and conformational changes in human NEIL2 protein analyzed by integrative structural biology approach</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010052-bc3ca33d6da208e20a7cdf4f064153e6">
+               <ce:given-name>Polina V.</ce:given-name>
+               <ce:surname>Zhdanova</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010052-58f593f734f1c5694f6c8165e37c8134">
+               <ce:given-name>Alexander A.</ce:given-name>
+               <ce:surname>Ishchenko</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010052-a15e8c0b16f919182b18d8f7d3a3963f">
+               <ce:given-name>Alexander A.</ce:given-name>
+               <ce:surname>Chernonosov</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010052-62375bb6b01dd8cbb1b948f2178ac218">
+               <ce:given-name>Dmitry O.</ce:given-name>
+               <ce:surname>Zharkov</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921010052-918ebbaa09983a64c4fec7f8232409ba">
+               <ce:given-name>Vladimir V.</ce:given-name>
+               <ce:surname>Koval</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:koval@niboch.nsc.ru">koval@niboch.nsc.ru</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010052-e8c796b298475b5436a875de2b20580e">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Institute of Chemical Biology and Fundamental Medicine SB RAS, Novosibisk, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Chemical Biology and Fundamental Medicine SB RAS</sa:organization>
+                  <sa:city>Novosibisk</sa:city>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aInstitute of Chemical Biology and Fundamental Medicine SB RAS, Novosibisk, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010052-02adb72b50158bc17523e23405634bd1">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Novosibirsk State University, Novosibisk, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Novosibirsk State University</sa:organization>
+                  <sa:city>Novosibisk</sa:city>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bNovosibirsk State University, Novosibisk, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010052-795b2218b6938fa671a8686d3e24bde0">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Groupe «Réparation de l'ADN», Equipe Labellisée par la Ligue Nationale contre le Cancer, CNRS UMR 8200, Univ. Paris-Sud, Université Paris-Saclay, Villejuif F-94805, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Groupe «Réparation de l'ADN»</sa:organization>
+                  <sa:organization>Equipe Labellisée par la Ligue Nationale contre le Cancer</sa:organization>
+                  <sa:organization>CNRS UMR 8200</sa:organization>
+                  <sa:organization>Univ. Paris-Sud</sa:organization>
+                  <sa:organization>Université Paris-Saclay</sa:organization>
+                  <sa:city>Villejuif</sa:city>
+                  <sa:postal-code>F-94805</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cGroupe «Réparation de l'ADN», Equipe Labellisée par la Ligue Nationale contre le Cancer, CNRS UMR 8200, Univ. Paris-Sud, Université Paris-Saclay, Villejuif F-94805, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921010052-a7991c6cbec44fe3e9816f7b83dacec2">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Gustave Roussy, Université Paris-Saclay, Villejuif F-94805, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Gustave Roussy</sa:organization>
+                  <sa:organization>Université Paris-Saclay</sa:organization>
+                  <sa:city>Villejuif</sa:city>
+                  <sa:postal-code>F-94805</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dGustave Roussy, Université Paris-Saclay, Villejuif F-94805, France</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="4" month="11" year="2021"/>
+         <ce:date-revised day="10" month="12" year="2021"/>
+         <ce:date-accepted day="15" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">This work presents new data on human endonuclease VIII-like 2 protein (hNEIL2), a part of DNA glycosylases of the helix–two-turn–helix structural superfamily. While X-ray structure of oNEIL2 (opossum Monodelphis) was resolved partially [1], the structure of hNEIL2 has not yet been determined. This data article describes a powerful combination of hydrogen-deuterium exchange mass spectrometry, homology modeling, and molecular dynamics simulations for protein conformational dynamics analysis.</ce:simple-para>
+               <ce:simple-para id="spara010" view="all">The data supplied in this work are related to the research article entitled “Dynamics and Conformational Changes in Human NEIL2 DNA Glycosylase Analyzed by Hydrogen/Deuterium Exchange Mass Spectrometry”.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">DNA damage</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">DNA repair</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Base excision repair</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">DNA glycosylases</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">NEIL2</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">HDX-MS</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Molecular dynamics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Structural dynamics</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0002" class="abr" view="all">
+            <ce:section-title id="cesectitle0003">Abbreviations</ce:section-title>
+            <ce:keyword id="key0009">
+               <ce:text id="cetext0010a">hNEIL2</ce:text>
+               <ce:keyword id="key0010">
+                  <ce:text id="cetext0011b">human endonuclease VIII-like 2 protein</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key10a">
+               <ce:text id="cetext10a">HDX-MS</ce:text>
+               <ce:keyword id="key11c">
+                  <ce:text id="cetext11a">hydrogen-deuterium exchange mass spectrometry</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011d">
+               <ce:text id="cetext0012e">MD</ce:text>
+               <ce:keyword id="key11f">
+                  <ce:text id="cetext11ea">molecular dynamics</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011g">
+               <ce:text id="cetext0012h">CD</ce:text>
+               <ce:keyword id="key12i">
+                  <ce:text id="cetext12j">circular dichroism</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011k">
+               <ce:text id="cetext0012l">LC-MS</ce:text>
+               <ce:keyword id="key12m">
+                  <ce:text id="cetext12n">liquid chromatography–mass spectrometry</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011o">
+               <ce:text id="cetext0012p">ESI</ce:text>
+               <ce:keyword id="key12q">
+                  <ce:text id="cetext12r">electrospray ionization</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011q">
+               <ce:text id="cetext0012r">SDS-PAGE</ce:text>
+               <ce:keyword id="key0011s">
+                  <ce:text id="cetext0012t">sodium dodecyl sulphate–polyacrylamide gel electrophoresis</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key12u">
+               <ce:text id="cetext12v">PDB</ce:text>
+               <ce:keyword id="key11w">
+                  <ce:text id="cetext11x">Protein Data Bank</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011y">
+               <ce:text id="cetext0012z">MDTRA</ce:text>
+               <ce:keyword id="key0012aa">
+                  <ce:text id="cetext0013bb">Molecular Dynamics Trajectory Reader &amp; Analyzer</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key13a">
+               <ce:text id="cetext13a">DTT</ce:text>
+               <ce:keyword id="key0013cc">
+                  <ce:text id="cetext0014dd">(2S,3S)-1,4-Bis(sulfanyl)butane-2,3-diol</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key13ae">
+               <ce:text id="cetext13ar">HEPES</ce:text>
+               <ce:keyword id="key0014ee">
+                  <ce:text id="cetext0015ff">2-[4-(2-Hydroxyethyl)piperazin-1-yl]ethane-1-sulfonic acid</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key15gg">
+               <ce:text id="cetext15hh">TCEP</ce:text>
+               <ce:keyword id="key0015ii">
+                  <ce:text id="cetext0016jj">3,3’,3’’-Phosphanetriyltripropanoic acid</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key15gerg">
+               <ce:text id="cetext15herh">RMSD</ce:text>
+               <ce:keyword id="key0016kk">
+                  <ce:text id="cetext0017ll">root-mean-square deviation</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key17mm">
+               <ce:text id="cetext17nn">LB</ce:text>
+               <ce:keyword id="key0017oo">
+                  <ce:text id="cetext0018pp">Lysogeny broth</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key18qq">
+               <ce:text id="cetext18rr">IPTG</ce:text>
+               <ce:keyword id="key0018ss">
+                  <ce:text id="cetext0019tt">Propan-2-yl 1-thio-β-D-galactopyranoside</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on the occurrence of a Brass texture and elastic anisotropy in laser blown powder processed superalloy IN718</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">J.F.S.</namePart>
+      <namePart type="family">Markanday</namePart>
+      <displayForm>Markanday, J.F.S.</displayForm>
+      <affiliation>Department of Materials Science &amp; Metallurgy, University of Cambridge, 27 Charles Babbage Road, Cambridge CB3 0FS, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.A.</namePart>
+      <namePart type="family">Carpenter</namePart>
+      <displayForm>Carpenter, M.A.</displayForm>
+      <affiliation>Department of Earth Sciences, University of Cambridge, Downing Street, Cambridge CB2 3EQ, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">R.P.</namePart>
+      <namePart type="family">Thompson</namePart>
+      <displayForm>Thompson, R.P.</displayForm>
+      <affiliation>Department of Materials Science &amp; Metallurgy, University of Cambridge, 27 Charles Babbage Road, Cambridge CB3 0FS, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.E.</namePart>
+      <namePart type="family">Rhodes</namePart>
+      <displayForm>Rhodes, S.E.</displayForm>
+      <affiliation>Department of Materials Science &amp; Metallurgy, University of Cambridge, 27 Charles Babbage Road, Cambridge CB3 0FS, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">C.P.</namePart>
+      <namePart type="family">Heason</namePart>
+      <displayForm>Heason, C.P.</displayForm>
+      <affiliation>Rolls-Royce plc, PO Box 31, Derby DE24 8BJ, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">H.J.</namePart>
+      <namePart type="family">Stone</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9753-4441</nameIdentifier>
+      <displayForm>Stone, H.J.</displayForm>
+      <affiliation>Department of Materials Science &amp; Metallurgy, University of Cambridge, 27 Charles Babbage Road, Cambridge CB3 0FS, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The additive manufacturing (AM) of components through laser-blown-powder directed-energy-deposition (LBP-DED) is highly applicable to the repair of aerospace components. Fabrication of superalloys with this technique, as with other AM methods, often encounters complications that include the formation of undesired phases, irregular microstructure and texture leading to anisotropic elastic properties. Heat treatments and other post-processing techniques can be used to mitigate these issues. The collected data demonstrates the effects of different heat treatment protocols on the microstructure, elastic properties, and hardness of LBP-DED IN718. In this study eight different heat treatment were used to investigate the effects of treatment time and temperature. The microstructure was investigated through SEM, with XRD and EDX used for phase analysis. The texture was characterised using SEM coupled with EBSD and the elastic properties were determined from resonant ultrasound spectroscopy. </abstract>
+   <subject>
+      <topic>Additive manufacturing</topic>
+   </subject>
+   <subject>
+      <topic>Nickel</topic>
+   </subject>
+   <subject>
+      <topic>Superalloys</topic>
+   </subject>
+   <subject>
+      <topic>Anisotropy</topic>
+   </subject>
+   <subject>
+      <topic>Resonant ultrasound spectroscopy</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107570</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107570</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107570</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00845-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-10"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008453/S2352340921008453.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>RNA-Seq transcriptome data of the liver of common Pekin, Muscovy, mule and Hinny ducks fed ad libitum or overfed</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Frédéric</namePart>
+      <namePart type="family">Hérault</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5824-4081</nameIdentifier>
+      <displayForm>Hérault, Frédéric</displayForm>
+      <affiliation>PEGASE, INRAE, Institut Agro, Saint Gilles 35590, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Elisabeth</namePart>
+      <namePart type="family">Baéza</namePart>
+      <displayForm>Baéza, Elisabeth</displayForm>
+      <affiliation>INRAE, Université de Tours, BOA, Nouzilly 37380, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christian</namePart>
+      <namePart type="family">Diot</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9525-6401</nameIdentifier>
+      <displayForm>Diot, Christian</displayForm>
+      <affiliation>PEGASE, INRAE, Institut Agro, Saint Gilles 35590, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Duck species are known to have different ability to fatty liver production in response to overfeeding and gene expression analyses can help to characterize mechanisms involved in these differences. This data article reports the sequencing of RNAs extracted from the liver of Pekin and Muscovy duck species and of their reciprocal hybrids, Mule and Hinny ducks fed ad libitum or overfed. Libraries were prepared by selecting polyadenylated mRNAs and RNA Sequencing (RNASeq) was performed using Illumina HiSeq2000 platform. RNASeq data presented in this article were deposited in the NCBI sequence read archive (SRA) under the accession number SRP144764 and links to these data were also indicated in the Data INRAE repository (https://doi.org/10.15454/JJZ3QQ). Transcriptome analyses of these data were published in Hérault et al. (2019) and Liu et al. (2020). </abstract>
+   <subject>
+      <topic>Ducks</topic>
+   </subject>
+   <subject>
+      <topic>Interspecific hybrids</topic>
+   </subject>
+   <subject>
+      <topic>Liver</topic>
+   </subject>
+   <subject>
+      <topic>RNA sequencing</topic>
+   </subject>
+   <subject>
+      <topic>Overfeeding</topic>
+   </subject>
+   <subject>
+      <topic>Hepatic steatosis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107516</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107516</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107516</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00780-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007800/S2352340921007800.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

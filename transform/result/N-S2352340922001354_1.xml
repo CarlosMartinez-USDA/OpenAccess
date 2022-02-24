@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Whole genome sequencing data of native isolates of Bacillus and Trichoderma having potential biocontrol and plant growth promotion activities in rice</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">C</namePart>
+      <namePart type="family">Kannan</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-5852-2341</nameIdentifier>
+      <displayForm>Kannan, C</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M</namePart>
+      <namePart type="family">Divya</namePart>
+      <displayForm>Divya, M</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">G</namePart>
+      <namePart type="family">Rekha</namePart>
+      <displayForm>Rekha, G</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kalyani M</namePart>
+      <namePart type="family">Barbadikar</namePart>
+      <displayForm>Barbadikar, Kalyani M</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">P</namePart>
+      <namePart type="family">Maruthi</namePart>
+      <displayForm>Maruthi, P</displayForm>
+      <affiliation>ICAR-Indian Institute of Rice Research, Rajendranagar, Hyderabad, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">SK</namePart>
+      <namePart type="family">Hajira</namePart>
+      <displayForm>Hajira, SK</displayForm>
+      <affiliation>ICAR-Indian Institute of Rice Research, Rajendranagar, Hyderabad, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">RM</namePart>
+      <namePart type="family">Sundaram</namePart>
+      <displayForm>Sundaram, RM</displayForm>
+      <affiliation>ICAR-Indian Institute of Rice Research, Rajendranagar, Hyderabad, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-01</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Six native isolates of Trichoderma and Bacillus having potential for biocontrol and plant growth promoting activities in rice were isolated from different rice growing regions of India. These isolates were screened for their efficiency in both invitro and invivo conditions for about 3 years. The identity of the isolates were confirmed both by morphological and molecular characterization. Three Bacillus spp. viz., Bacillus velenzensis strain BIK2, Bacillus cabrialesii strain BIK3 and Bacillus paralicheniformis strain BIK4 and Trichoderma spp. viz., Trichoderma asperellum strain TAIK1, and T. asperellum strain TAIK5, native to the Telangana state, in Southern India except for strain TAIK4 (Rewa district in the state of Madhya Pradesh in Central India). These promising isolates were subjected for whole genome sequencing using Illumina platform and data was presented. The data was emanated for Trichoderma asperellum (TAIK1), Trichoderma asperellum (TAIK4), Trichoderma asperellum (TAIK5), Bacillus velezensis (BIK2), Bacillus cabrialesii (BIK3) and Bacillus paralicheniformis (BIK4) isolates had an average 100X coverage of 109X, 150X and 116X; 1447X, 905X and 585X respectively. Further studies on annotation of the data obtained in correlation with the lab and field performance of these microbes would enable them to be used in metagenomics studies to compare their performance under natural conditions with different microbiota and popular rice varieties. Bioformulation of these strains would be more appropriate with the availability of this genomic data. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Biocontrol agents</topic>
+   </subject>
+   <subject>
+      <topic>Bacillus</topic>
+   </subject>
+   <subject>
+      <topic>Trichoderma</topic>
+   </subject>
+   <subject>
+      <topic>Whole genome sequencing</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">02</text>
+         <text type="day">01</text>
+         <extent unit="pages">
+            <start>107923</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107923</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107923</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00135-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-02-02"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001354/S2352340922001354.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

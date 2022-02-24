@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.meafoo.2021.100014">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Potential contribution of captured fishes to the recommended nutrient intakes (RNIs): A case study of commercial fish species from Ikpoba reservoir, Edo State, Nigeria</dct:title>
+         <dct:creator>Nkonyeasua Kingsley EGUN</dct:creator>
+         <dct:creator>Ijeoma Patience OBOH</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Nutritional composition</rdf:li>
+               <rdf:li>Clarias gariepinus</rdf:li>
+               <rdf:li>Tilapia zillii</rdf:li>
+               <rdf:li>Micronutrients infant and young child nutrition</rdf:li>
+               <rdf:li>Ikpoba reservoir</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Measurement: Food 5 (2022). doi:10.1016/j.meafoo.2021.100014</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Measurement: Food</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Ltd.</prism:copyright>
+         <dct:publisher>Elsevier Ltd</dct:publisher>
+         <prism:issn>2772-2759</prism:issn>
+         <prism:volume>5</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.meafoo.2021.100014</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.meafoo.2021.100014</prism:url>
+         <dct:identifier>doi:10.1016/j.meafoo.2021.100014</dct:identifier>
+         <bam:articleNumber>100014</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-07T10:08:09Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>MEAFOO</ja:jid>
+         <ja:aid>100014</ja:aid>
+         <ce:article-number>100014</ce:article-number>
+         <ce:pii>S2772-2759(21)00011-3</ce:pii>
+         <ce:doi>10.1016/j.meafoo.2021.100014</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Potential contribution of captured fishes to the recommended nutrient intakes (RNIs): A case study of commercial fish species from Ikpoba reservoir, Edo State, Nigeria</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2772275921000113-d0c1d0105c71c388d9e56b92c982c460">
+               <ce:given-name>Nkonyeasua Kingsley</ce:given-name>
+               <ce:surname>EGUN</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:kenegun@yahoo.com">kenegun@yahoo.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2772275921000113-ef86f89ffa2a558323373e8618ec7ab2">
+               <ce:given-name>Ijeoma Patience</ce:given-name>
+               <ce:surname>OBOH</ce:surname>
+               <ce:e-address type="email" id="ead001a" xlink:href="mailto:obohij@yahoo.com">obohij@yahoo.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2772275921000113-2d0d751dfa786d91637dae50352e45bc">
+               <ce:textfn id="cetextfn0001">Department of Animal and Environmental Biology, University of Benin, Benin, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Animal and Environmental Biology</sa:organization>
+                  <sa:organization>University of Benin</sa:organization>
+                  <sa:city>Benin</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Animal and Environmental Biology, University of Benin, Benin, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="7" month="6" year="2021"/>
+         <ce:date-revised day="6" month="12" year="2021"/>
+         <ce:date-accepted day="7" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara013" view="all">Global concern for good health and well-being of human populations especially in underdeveloped and developing nations has necessitated the need for routine nutritional assessment of food sources. This study was undertaken to determine the nutrient composition of commonly consumed freshwater fish species in Ikpoba reservoir and to assess the potential contribution of selected key nutrients in the fishes to recommended nutrient intakes (RNIs). Proximate composition of <ce:italic>Clarias gariepinus</ce:italic> and <ce:italic>Tilapia zillii</ce:italic> showed moisture content of 61.09% and 63.39%; protein value of 15.15% and 15.71%; lipid value of 6.03% and 1.48%; and ash content of 4.58% and 5.09% respectively. Mineral content of fish species ranged from 3.32 to 5.64 mg/100 g (sodium); 8.14 to 12.64 mg/100 g (potassium); 2.56 to 4.42 mg/100 g (magnesium); 1.75 to 5.85 mg/100 g (calcium); 5.47 to 9.35 mg/100 g (iron) and 1.40 to 3.66 mg/100 g (zinc). Potential contribution to RNIs for preschool children and adults indicated that <ce:italic>Clarias gariepinus</ce:italic> and <ce:italic>Tilapia zillii</ce:italic> contributed ≥25% of RNIs for iron (38.71% and 44.57%) and zinc (38.33% and 25.67%) for preschool children. This study has increased the knowledge on the contribution of fishes to RNI in combating nutritional deficiencies in Nigeria.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Nutritional composition</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Clarias gariepinus</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Tilapia zillii</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Micronutrients infant and young child nutrition</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Ikpoba reservoir</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

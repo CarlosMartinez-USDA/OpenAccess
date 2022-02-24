@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107618">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Umbrella sampling and double decoupling data for methanol binding to Candida antarctica lipase B</dct:title>
+         <dct:creator>Daniel Markthaler</dct:creator>
+         <dct:creator>Niels Hansen</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>MD simulation</rdf:li>
+               <rdf:li>GROMACS</rdf:li>
+               <rdf:li>Umbrella sampling</rdf:li>
+               <rdf:li>Methanol</rdf:li>
+               <rdf:li>CALB</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107618</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107618</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107618</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107618</dct:identifier>
+         <bam:articleNumber>107618</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-18T19:12:00Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107618</ja:aid>
+         <ce:article-number>107618</ce:article-number>
+         <ce:pii>S2352-3409(21)00893-3</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107618</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">Umbrella sampling and double decoupling data for methanol binding to <ce:italic>Candida antarctica</ce:italic> lipase B</ce:title>
+         <ce:short-title id="stitle0010">Umbrella sampling and double decoupling data for methanol binding to Candida antarctica lipase B</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008933-2eb67a415ffa56c419e2f49c039f9288">
+               <ce:given-name>Daniel</ce:given-name>
+               <ce:surname>Markthaler</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008933-e9cc17882da8bd6c452fc637a1b0d6ef"
+                       orcid="0000-0003-4366-6120">
+               <ce:given-name>Niels</ce:given-name>
+               <ce:surname>Hansen</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:niels.hansen@itt.uni-stuttgart.de"
+                             id="ead0001">niels.hansen@itt.uni-stuttgart.de</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008933-6171c69e93a6a793959efde1e73dd4c0">
+               <ce:textfn id="textfn0002">University of Stuttgart, Institute of Thermodynamics and Thermal Process Engineering, Pfaffenwaldring 9, Stuttgart D-70569, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Stuttgart, Institute of Thermodynamics and Thermal Process Engineering</sa:organization>
+                  <sa:address-line>Pfaffenwaldring 9</sa:address-line>
+                  <sa:city>Stuttgart</sa:city>
+                  <sa:postal-code>D-70569</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">University of Stuttgart, Institute of Thermodynamics and Thermal Process Engineering, Pfaffenwaldring 9, Stuttgart D-70569, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="29" month="7" year="2021"/>
+         <ce:date-revised day="16" month="11" year="2021"/>
+         <ce:date-accepted day="17" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">The binding free-energy profile of methanol to <ce:italic>Candida antarctica</ce:italic> lipase B (CALB) was calculated at infinite dilution and at a finite methanol concentration of 6.1 M using umbrella sampling molecular dynamics simulations with the OPLS all-atom force field. An additional validation of the results was performed by employing alchemical double decoupling simulations. The binding free-energy profiles have been used in a related research article to validate free-energy profiles obtained from direct counting simulations with the aim to use the kinetic information encoded in the latter. The data provided in this work will be useful to study concentration effects on binding, to test alternative free energy methods or to use the proposed simulation protocol for related systems.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">MD simulation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">GROMACS</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Umbrella sampling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Methanol</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">CALB</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

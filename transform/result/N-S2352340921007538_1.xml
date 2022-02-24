@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset on in-vitro study of chitosan-graphene oxide films for regenerative medicine</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ana Maria</namePart>
+      <namePart type="family">Valencia</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4257-9252</nameIdentifier>
+      <displayForm>Valencia, Ana Maria</displayForm>
+      <affiliation>Grupo de investigación SIMERQO polímeros, Departamento de Química, Universidad del Valle, Calle 13 # 100-00, Cali 76001, Colombia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Carlos Humberto</namePart>
+      <namePart type="family">Valencia</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4892-9786</nameIdentifier>
+      <displayForm>Valencia, Carlos Humberto</displayForm>
+      <affiliation>Escuela de Odontología, Grupo Biomateriales dentales, Universidad del Valle, Calle 4B No. 36-00, Cali 76001, Colombia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fabio</namePart>
+      <namePart type="family">Zuluaga</namePart>
+      <displayForm>Zuluaga, Fabio</displayForm>
+      <affiliation>Grupo de investigación SIMERQO polímeros, Departamento de Química, Universidad del Valle, Calle 13 # 100-00, Cali 76001, Colombia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Carlos David</namePart>
+      <namePart type="family">Grande-Tovar</namePart>
+      <displayForm>Grande-Tovar, Carlos David</displayForm>
+      <affiliation>Grupo de investigación de Fotoquímica y Fotobiología, Universidad del Atlántico, Carrera 30 Número 8-49, Puerto Colombia, 081008, Colombia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Chitosan (CS) is well-known for its biological properties, especially its ability to induce tissue cicatrization. However, considerable research proved that CS presents a high inflammatory response and poor mechanical properties. For these reasons, we decided to use chitosan (CS) functionalized GO by a covalent bond (CS-GO). Due to the resistant structure of the GO and the high presence of oxygen functional groups on it, it will enhance the biocompatibility of the material. The data obtained in this investigation aimed to prove the possible application of CS-GO in regenerative medicine. For this reason, it was performed an In vitro analysis using brine shrimp to prove materials biocompatibility and gingival fibroblasts for a cell growth test. </abstract>
+   <subject>
+      <topic>Chitosan</topic>
+   </subject>
+   <subject>
+      <topic>Graphene Oxide</topic>
+   </subject>
+   <subject>
+      <topic>Biocompatibility</topic>
+   </subject>
+   <subject>
+      <topic>Cell growth test</topic>
+   </subject>
+   <subject>
+      <topic>Regenerative medicine</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107472</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107472</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107472</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00753-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-11"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007538/S2352340921007538.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

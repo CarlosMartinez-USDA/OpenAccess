@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107585">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset of the electrochemical potential windows for the Au(hkl)|ionic liquid interfaces defined by the cut-off current densities</dct:title>
+         <dct:creator>Hiroyuki Ueda</dct:creator>
+         <dct:creator>Soichiro Yoshimoto</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Au(hkl)</rdf:li>
+               <rdf:li>Electrical double layer</rdf:li>
+               <rdf:li>Electrochemical potential window</rdf:li>
+               <rdf:li>Interfacial processes</rdf:li>
+               <rdf:li>Ionic liquids</rdf:li>
+               <rdf:li>Linear sweep voltammetry</rdf:li>
+               <rdf:li>Single crystal electrodes</rdf:li>
+               <rdf:li>Specific desorption</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107585</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107585</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107585</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107585</dct:identifier>
+         <bam:articleNumber>107585</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-13T11:48:19Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Japan:LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107585</ja:aid>
+         <ce:article-number>107585</ce:article-number>
+         <ce:pii>S2352-3409(21)00860-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107585</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1572-6657(21)00717-7</ce:pii>
+               <ce:doi>10.1016/j.jelechem.2021.115691</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset of the electrochemical potential windows for the Au(<ce:italic>hkl</ce:italic>)|ionic liquid interfaces defined by the cut-off current densities</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092100860X-5d0ead2c318c3c023a8da439cb300865"
+                       orcid="0000-0002-1278-8734">
+               <ce:given-name>Hiroyuki</ce:given-name>
+               <ce:surname>Ueda</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/Hi__Ueda">@Hi__Ueda</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092100860X-80468e18895e8d7e26edd269b54b3d21">
+               <ce:given-name>Soichiro</ce:given-name>
+               <ce:surname>Yoshimoto</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:so-yoshi@kumamoto-u.ac.jp"
+                             id="ead0001">so-yoshi@kumamoto-u.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092100860X-46102a9d85646e3273f65fe2d6b15c5d">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Graduate School of Science and Technology, Kumamoto University, 2-39-1 Kurokami, Chuo-ku, Kumamoto 860-8555, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Graduate School of Science and Technology</sa:organization>
+                  <sa:organization>Kumamoto University</sa:organization>
+                  <sa:address-line>2-39-1 Kurokami, Chuo-ku</sa:address-line>
+                  <sa:city>Kumamoto</sa:city>
+                  <sa:postal-code>860-8555</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aGraduate School of Science and Technology, Kumamoto University, 2-39-1 Kurokami, Chuo-ku, Kumamoto 860-8555, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092100860X-b117c2fb07e661720454d46099613dfe">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Institute of Industrial Nanomaterials, Kumamoto University, 2-39-1 Kurokami, Chuo-ku, Kumamoto 860-8555, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Industrial Nanomaterials</sa:organization>
+                  <sa:organization>Kumamoto University</sa:organization>
+                  <sa:address-line>2-39-1 Kurokami, Chuo-ku</sa:address-line>
+                  <sa:city>Kumamoto</sa:city>
+                  <sa:postal-code>860-8555</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bInstitute of Industrial Nanomaterials, Kumamoto University, 2-39-1 Kurokami, Chuo-ku, Kumamoto 860-8555, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">Present address: Institute for Frontier Materials (IFM), Deakin University, Burwood, Victoria 3125, Australia.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="2" month="11" year="2021"/>
+         <ce:date-revised day="11" month="11" year="2021"/>
+         <ce:date-accepted day="12" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara017" view="all">This data article describes the linear sweep voltammetry (LSV) profiles of five ionic liquids (ILs) at the low-index (<ce:italic>hkl</ce:italic>) (<ce:italic>hkl</ce:italic> = 111, 100, and 110) planes of Au. The LSV profiles were recorded at 25 ± 1°C for the Au(<ce:italic>hkl</ce:italic>)|IL interfaces maintained in a hanging meniscus configuration in an inert Ar atmosphere (with H<ce:inf loc="post">2</ce:inf>O and O<ce:inf loc="post">2</ce:inf> concentrations being lower than 5 ppm). The width of the electrical double-layer regions (<ce:italic>E</ce:italic>
+                  <ce:inf loc="post">dl</ce:inf>) and the electrochemical potential windows (<ce:italic>E</ce:italic>
+                  <ce:inf loc="post">pw</ce:inf>) of the ILs were evaluated based on the cut-off current densities (<ce:italic>j</ce:italic>
+                  <ce:inf loc="post">cut-off</ce:inf>): ±5, ±10, and ±20 µA cm<ce:sup loc="post">–2</ce:sup> for <ce:italic>E</ce:italic>
+                  <ce:inf loc="post">dl</ce:inf> and ±0.1, ±0.5, and ±1.0 mA cm<ce:sup loc="post">–2</ce:sup> for <ce:italic>E</ce:italic>
+                  <ce:inf loc="post">pw</ce:inf>. The potential values were calibrated to the redox potential of ferrocene/ferrocenium in each IL. A detailed discussion on the electrochemical behaviors of the ILs on Au(<ce:italic>hkl</ce:italic>) is provided in the related article “Voltammetric Investigation of Anodic and Cathodic Processes at Au(<ce:italic>hkl</ce:italic>)|Ionic Liquid Interfaces”, published in the Journal of Electroanalytical Chemistry (Ueda and Yoshimoto, 2021).</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0002">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara018" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Au(<ce:italic>hkl</ce:italic>)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Electrical double layer</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Electrochemical potential window</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Interfacial processes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Ionic liquids</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Linear sweep voltammetry</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Single crystal electrodes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Specific desorption</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

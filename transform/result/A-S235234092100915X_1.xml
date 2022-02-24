@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107640">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Escherichia coli strain INF32/16/A: Dataset of raw reads and assembled draft genome</dct:title>
+         <dct:creator>Shuhaila Mat-Sharani</dct:creator>
+         <dct:creator>Suhaila Sulaiman</dct:creator>
+         <dct:creator>Nik Yusnoraini Yusof</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Escherichia coli</rdf:li>
+               <rdf:li>Genome sequencing</rdf:li>
+               <rdf:li>Pathogenic</rdf:li>
+               <rdf:li>Extended-spectrum beta-lactamase</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107640</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107640</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107640</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107640</dct:identifier>
+         <bam:articleNumber>107640</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-25T01:41:40Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107640</ja:aid>
+         <ce:article-number>107640</ce:article-number>
+         <ce:pii>S2352-3409(21)00915-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107640</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">
+            <ce:italic>Escherichia coli</ce:italic> strain INF32/16/A: Dataset of raw reads and assembled draft genome</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092100915X-868d42e1f560148cd980c310e4ef69a5"
+                       orcid="0000-0001-8088-4042">
+               <ce:given-name>Shuhaila</ce:given-name>
+               <ce:surname>Mat-Sharani</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092100915X-d61ce879a087bcb808ea28d6a6f7b8f2">
+               <ce:given-name>Suhaila</ce:given-name>
+               <ce:surname>Sulaiman</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092100915X-f24ca1dd763fe164386c9dff13aa6221"
+                       orcid="0000-0002-0821-7461">
+               <ce:given-name>Nik Yusnoraini</ce:given-name>
+               <ce:surname>Yusof</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:nikyus@usm.my">nikyus@usm.my</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092100915X-3d701da285a83b973aaf2aa889ca2854">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">School of Health Sciences, Universiti Sains Malaysia, Kubang Kerian, Kelantan 16150, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Health Sciences</sa:organization>
+                  <sa:organization>Universiti Sains Malaysia</sa:organization>
+                  <sa:city>Kubang Kerian</sa:city>
+                  <sa:state>Kelantan</sa:state>
+                  <sa:postal-code>16150</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aSchool of Health Sciences, Universiti Sains Malaysia, Kubang Kerian, Kelantan 16150, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092100915X-3310cc1e9d64878f0b99b9acea05c01b">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">FGV R&amp;D Sdn. Bhd., FGV Innovation Centre, PT 23417 Lengkuk Teknologi, Bandar Enstek, Negeri Sembilan 71760, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>FGV R&amp;D Sdn. Bhd., FGV Innovation Centre</sa:organization>
+                  <sa:address-line>PT 23417 Lengkuk Teknologi</sa:address-line>
+                  <sa:city>Bandar Enstek</sa:city>
+                  <sa:state>Negeri Sembilan</sa:state>
+                  <sa:postal-code>71760</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bFGV R&amp;D Sdn. Bhd., FGV Innovation Centre, PT 23417 Lengkuk Teknologi, Bandar Enstek, Negeri Sembilan 71760, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S235234092100915X-8789b912690e84631b7cdfc9968d33b4">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Institute for Research in Molecular Medicine (INFORMM), Health Campus, Universiti Sains Malaysia, Kubang Kerian, Kelantan, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute for Research in Molecular Medicine (INFORMM), Health Campus</sa:organization>
+                  <sa:organization>Universiti Sains Malaysia</sa:organization>
+                  <sa:city>Kubang Kerian</sa:city>
+                  <sa:state>Kelantan</sa:state>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cInstitute for Research in Molecular Medicine (INFORMM), Health Campus, Universiti Sains Malaysia, Kubang Kerian, Kelantan, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="11" month="8" year="2021"/>
+         <ce:date-revised day="16" month="11" year="2021"/>
+         <ce:date-accepted day="23" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">
+                  <ce:italic>Escherichia coli</ce:italic> strain INF32/16/A is a gram-negative bacteria which is an extended-spectrum beta-lactamases (ESBL). ESBL is an enzyme that is produced by bacteria to become resistant to existing antibiotic such as extended-spectrum penicillin, cephalosporins, and have been threatening the ability to treat an infection. Therefore, genome analysis will provide an insight of how this bacteria able to evolve and the information obtained will able to facilitate in designing new antibiotics. The genome of <ce:italic>E. coli</ce:italic> strain was sequenced using Illumina MiSeq and raw genome sequence have been submitted into NCBI SRA database (SRR15334628) under Bioproject accession number PRJNA726861.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Escherichia coli</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001a">
+               <ce:text id="cetext0002a">Genome sequencing</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Pathogenic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Extended-spectrum beta-lactamase</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

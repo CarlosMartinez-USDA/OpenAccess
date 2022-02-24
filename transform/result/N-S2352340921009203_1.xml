@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Experimental measurements of Xe and Kr releases from UO2 and determination of their migration mechanisms – Release rate data</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">M.</namePart>
+      <namePart type="family">Gérardin</namePart>
+      <displayForm>Gérardin, M.</displayForm>
+      <affiliation>CEA, DEN, DEC, F-13108 Saint Paul lez Durance Cedex, France</affiliation>
+      <affiliation>Université de Lorraine, GeoRessources, CNRS, F54000 Nancy, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">E.</namePart>
+      <namePart type="family">Gilabert</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0692-8718</nameIdentifier>
+      <displayForm>Gilabert, E.</displayForm>
+      <affiliation>Université de Bordeaux, CNRS, CENBG-IN2P3, F-33170 Gradignan, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">D.</namePart>
+      <namePart type="family">Horlait</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2645-6896</nameIdentifier>
+      <displayForm>Horlait, D.</displayForm>
+      <affiliation>Université de Bordeaux, CNRS, CENBG-IN2P3, F-33170 Gradignan, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M-F.</namePart>
+      <namePart type="family">Barthe</namePart>
+      <displayForm>Barthe, M-F.</displayForm>
+      <affiliation>CEMHTI/CNRS, Université d'Orléans, 3A rue de La Férollerie, 45071 Orléans CEDEX 2, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">G.</namePart>
+      <namePart type="family">Carlot</namePart>
+      <displayForm>Carlot, G.</displayForm>
+      <affiliation>CEA, DEN, DEC, F-13108 Saint Paul lez Durance Cedex, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We present the raw data obtained from release rate at 1300°C of Xe and Kr implanted in UO₂, related to [1]. We performed different sample preparation (polishing treatment) on polycrystalline and monocrystalline UO₂. Ion implantation were performed at various fluences between 9.5 × 10¹⁰ to 5 × 10¹⁴ i/cm² in UO₂ samples. Release rate of Xe and Kr are obtained at 1300°C under vacuum from desorption experiments performed on the PIAGARA plateform at the CENBG (Centre d'Etudes Nucléaires de Bordeaux-Gradignan). Since we made a variety of samples depending on multiple parameters (sample type, sample preparation, ion implantation type and fluence), these data represent a serious amount of work that could be saved for the scientific community that might use them for other purposes such as burst modelling. </abstract>
+   <subject>
+      <topic>Uranium dioxide</topic>
+   </subject>
+   <subject>
+      <topic>Xenon and krypton release</topic>
+   </subject>
+   <subject>
+      <topic>Diffusion</topic>
+   </subject>
+   <subject>
+      <topic>Radiation induced defects</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107645</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107645</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107645</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00920-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-25"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009203/S2352340921009203.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

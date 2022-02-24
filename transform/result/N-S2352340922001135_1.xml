@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Benchmark dataset for multi depot vehicle routing problem with road capacity and damage road consideration for humanitarian operation in critical supply delivery</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Wadi Khalid</namePart>
+      <namePart type="family">Anuar</namePart>
+      <displayForm>Anuar, Wadi Khalid</displayForm>
+      <affiliation>Department of Logistics and Transportation, School of Technology Management and Logistics, Universiti Utara Malaysia, Sintok, Kedah 06010, Malaysia</affiliation>
+      <affiliation>Laboratory of Computational Statistics and Operations Research, Institute for Mathematical Research, Universiti Putra Malaysia, Serdang, Selangor 43400, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lai Soon</namePart>
+      <namePart type="family">Lee</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6270-1414</nameIdentifier>
+      <displayForm>Lee, Lai Soon</displayForm>
+      <affiliation>Laboratory of Computational Statistics and Operations Research, Institute for Mathematical Research, Universiti Putra Malaysia, Serdang, Selangor 43400, Malaysia</affiliation>
+      <affiliation>Department of Mathematics and Statistics, Faculty of Science, Universiti Putra Malaysia, Serdang, Selangor 43400, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Stefan</namePart>
+      <namePart type="family">Pickl</namePart>
+      <displayForm>Pickl, Stefan</displayForm>
+      <affiliation>Fakultät für Informatik, Universität der Bundeswehr München, Neubiberg 85577, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The dataset for Multi Depot Dynamic Vehicle Routing Problem with Stochastic Road Capacity (MDDVRPSRC) is presented in this paper. The data consist of 10 independent designs of evolving road networks ranging from 14-49 nodes. Together with the road networks are the Damage file (DF) for each corresponding road network. The DF simulates the damage level of roads within the networks due to a disaster source, thus affecting travel time and road capacity. We applied this data to test our proposed algorithm and validate our proposed model. This dataset served as an addition to the Vehicle Routing Problem (VRP) datasets that specifically addressed the road capacity problem during a disaster from an epicentre and could be used for other applications that constitute chaotic events and compromised road networks. </abstract>
+   <subject>
+      <topic>Multi depot routing problem</topic>
+   </subject>
+   <subject>
+      <topic>Road capacity</topic>
+   </subject>
+   <subject>
+      <topic>Humanitarian operations</topic>
+   </subject>
+   <subject>
+      <topic>Disaster</topic>
+   </subject>
+   <subject>
+      <topic>Chaotic event</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>41</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">April 2022</text>
+         <text type="year">2022</text>
+         <text type="month">April</text>
+         <extent unit="pages">
+            <start>107901</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107901</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107901</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00113-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-28"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340922X00024/S2352340922001135/S2352340922001135.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

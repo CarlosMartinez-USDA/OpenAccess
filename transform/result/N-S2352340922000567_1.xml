@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Problem instances dataset of a real-world sequencing problem with transition constraints and asymmetric costs</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Nicolás</namePart>
+      <namePart type="family">Álvarez-Gil</namePart>
+      <displayForm>Álvarez-Gil, Nicolás</displayForm>
+      <affiliation>Department of Business Administration, University of Oviedo, C\ Luis Ortiz Berrocal s/n Campus de Gijón, Gijón, Asturias 33203, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Segundo Álvarez</namePart>
+      <namePart type="family">García</namePart>
+      <displayForm>García, Segundo Álvarez</displayForm>
+      <affiliation>ArcelorMittal Global R&amp;D Asturias, P.O. Box 90, Avilés, Asturias 33400, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rafael</namePart>
+      <namePart type="family">Rosillo</namePart>
+      <displayForm>Rosillo, Rafael</displayForm>
+      <affiliation>Department of Business Administration, University of Oviedo, C\ Luis Ortiz Berrocal s/n Campus de Gijón, Gijón, Asturias 33203, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">David</namePart>
+      <namePart type="family">de la Fuente</namePart>
+      <displayForm>de la Fuente, David</displayForm>
+      <affiliation>Department of Business Administration, University of Oviedo, C\ Luis Ortiz Berrocal s/n Campus de Gijón, Gijón, Asturias 33203, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-14</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This data article describes 30 instances of the real-world problem of sequencing steel coils in a continuous galvanizing line. Each instance is represented by a cost matrix that gives information of the cost of sequencing each pair of coils or items together (e.g. a transition). Some transitions are forbidden due to technical limitations of the line and/or because of the properties of the coils, what makes the problem more challenging. These costs were previously obtained by a cost model that estimates the final cost of each transition for a set of coils to be sequenced in the line. Although the instances come from this real context, the problem can be theoretically seen as finding a minimum cost Hamiltonian path (e.g. a minimum cost feasible production sequence with all the coils appearing just once). It is a well-known NP-Hard combinatorial optimization problem. Since these instances represent real challenges found in the industry, they can be very useful for algorithm development and testing. Due to the cost distributions obtained for the given coils, just finding a feasible sequence can be a challenging task, especially for some types of approximate algorithms (Alvarez-Gil et al., 2022). </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Steel industry</topic>
+   </subject>
+   <subject>
+      <topic>Combinatorial optimization</topic>
+   </subject>
+   <subject>
+      <topic>Manufacturing scheduling</topic>
+   </subject>
+   <subject>
+      <topic>Metaheuristics</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">14</text>
+         <extent unit="pages">
+            <start>107844</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107844</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107844</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00056-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-16"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/333921349383348651-00001/2352-3409/aip/S2352340922000567/S2352340922000567.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

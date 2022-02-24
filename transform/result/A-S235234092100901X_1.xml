@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107626">
+         <dct:format>application/xml</dct:format>
+         <dct:title>SRPES and STM data for the model bimetallic Pd-In/HOPG catalysts: Effects of mild post-synthesis oxidative treatments</dct:title>
+         <dct:creator>M.A. Panafidin</dct:creator>
+         <dct:creator>A.V. Bukhtiyarov</dct:creator>
+         <dct:creator>I.P. Prosvirin</dct:creator>
+         <dct:creator>I.A. Chetyrin</dct:creator>
+         <dct:creator>A.Yu. Klyushin</dct:creator>
+         <dct:creator>A. Knop-Gericke</dct:creator>
+         <dct:creator>N.S. Smirnova</dct:creator>
+         <dct:creator>P.V. Markov</dct:creator>
+         <dct:creator>I.S. Mashkovsky</dct:creator>
+         <dct:creator>Y.V. Zubavichus</dct:creator>
+         <dct:creator>A.Yu. Stakheev</dct:creator>
+         <dct:creator>V.I. Bukhtiyarov</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>PdIn intermetallic compound</rdf:li>
+               <rdf:li>model catalyst</rdf:li>
+               <rdf:li>synchrotron radiation-based photoelectron spectroscopy</rdf:li>
+               <rdf:li>scanning tunneling microscopy</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107626</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107626</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107626</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107626</dct:identifier>
+         <bam:articleNumber>107626</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-19T20:09:49Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107626</ja:aid>
+         <ce:article-number>107626</ce:article-number>
+         <ce:pii>S2352-3409(21)00901-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107626</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0169-4332(21)02403-X</ce:pii>
+               <ce:doi>10.1016/j.apsusc.2021.151350</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">SRPES and STM data for the model bimetallic Pd-In/HOPG catalysts: Effects of mild post-synthesis oxidative treatments</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092100901X-98dc54bd1ba6071765cdaa84c3b6d0c9"
+                       orcid="0000-0001-6897-7692">
+               <ce:given-name>M.A.</ce:given-name>
+               <ce:surname>Panafidin</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092100901X-d121db0ada4b4bd596e7e0fdfa3c0bb7"
+                       orcid="0000-0002-0199-8111">
+               <ce:given-name>A.V.</ce:given-name>
+               <ce:surname>Bukhtiyarov</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:avb@catalysis.ru">avb@catalysis.ru</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092100901X-da2a69d8e5a9a17d6465c7bf019331b5">
+               <ce:given-name>I.P.</ce:given-name>
+               <ce:surname>Prosvirin</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S235234092100901X-8114905495763b0ea02f42daa8d52ddf">
+               <ce:given-name>I.A.</ce:given-name>
+               <ce:surname>Chetyrin</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S235234092100901X-b0efaaa8a784de52cbdcc2ec5b377609"
+                       orcid="0000-0003-1305-6911">
+               <ce:given-name>A.Yu.</ce:given-name>
+               <ce:surname>Klyushin</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S235234092100901X-a4954fc225935a4f493b450812f8b31a">
+               <ce:given-name>A.</ce:given-name>
+               <ce:surname>Knop-Gericke</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S235234092100901X-e1c13e52983bf030fc7c2028f2a2ff64">
+               <ce:given-name>N.S.</ce:given-name>
+               <ce:surname>Smirnova</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S235234092100901X-f9e53b13884da03f63a9639f832f323b">
+               <ce:given-name>P.V.</ce:given-name>
+               <ce:surname>Markov</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S235234092100901X-d823ed4e88206912786b7247d69f0e2b"
+                       orcid="0000-0002-0867-0645">
+               <ce:given-name>I.S.</ce:given-name>
+               <ce:surname>Mashkovsky</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S235234092100901X-443631c6f15c0a839139227053b6dbad"
+                       orcid="0000-0003-2266-8944">
+               <ce:given-name>Y.V.</ce:given-name>
+               <ce:surname>Zubavichus</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S235234092100901X-f670702f87ff0175bf44cda462a95963">
+               <ce:given-name>A.Yu.</ce:given-name>
+               <ce:surname>Stakheev</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0012"
+                       author-id="S235234092100901X-fdefb54ecec870ccdef8d0ebfe1b667a">
+               <ce:given-name>V.I.</ce:given-name>
+               <ce:surname>Bukhtiyarov</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092100901X-ce910bc9d947f43e2a6ab918b3d68b6b">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">G. K. Boreskov Institute of Catalysis, Siberian Branch of the Russian Academy of Sciences, 630090 Novosibirsk, Russian Federation</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>G. K. Boreskov Institute of Catalysis</sa:organization>
+                  <sa:organization>Siberian Branch of the Russian Academy of Sciences</sa:organization>
+                  <sa:city>Novosibirsk</sa:city>
+                  <sa:postal-code>630090</sa:postal-code>
+                  <sa:country>Russian Federation</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aG. K. Boreskov Institute of Catalysis, Siberian Branch of the Russian Academy of Sciences, 630090 Novosibirsk, Russian Federation</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092100901X-a7d3d4e02d70b14ceb5f0dbb8a6ff353">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Fritz Haber Institute of the Max Planck Society, 14195 Berlin, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Fritz Haber Institute of the Max Planck Society</sa:organization>
+                  <sa:city>Berlin</sa:city>
+                  <sa:postal-code>14195</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bFritz Haber Institute of the Max Planck Society, 14195 Berlin, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S235234092100901X-c2bc6a05bf36af9f1cf7316503063b83">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Helmholtz Center for Materials and Energy, 12489 Berlin, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Helmholtz Center for Materials and Energy</sa:organization>
+                  <sa:postal-code>12489 Berlin</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cHelmholtz Center for Materials and Energy, 12489 Berlin, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S235234092100901X-47cd342a0d8fa9035dfc8a30f1a7a499">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Max Planck Institute for Chemical Energy Conversion, Department of Heterogeneous Reactions,45470 Mülheim an der Ruhr, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Max Planck Institute for Chemical Energy Conversion</sa:organization>
+                  <sa:organization>Department of Heterogeneous Reactions</sa:organization>
+                  <sa:city>Mülheim an der Ruhr</sa:city>
+                  <sa:postal-code>45470</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dMax Planck Institute for Chemical Energy Conversion, Department of Heterogeneous Reactions,45470 Mülheim an der Ruhr, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S235234092100901X-07d3aade245ab3f65bb04ced9bf76aa2">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">N. D. Zelinsky Institute of Organic Chemistry, Russian Academy of Sciences, 119991 Moscow, Russian Federation</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>N. D. Zelinsky Institute of Organic Chemistry</sa:organization>
+                  <sa:organization>Russian Academy of Sciences</sa:organization>
+                  <sa:city>Moscow</sa:city>
+                  <sa:postal-code>119991</sa:postal-code>
+                  <sa:country>Russian Federation</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eN. D. Zelinsky Institute of Organic Chemistry, Russian Academy of Sciences, 119991 Moscow, Russian Federation</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="3" month="10" year="2021"/>
+         <ce:date-revised day="9" month="11" year="2021"/>
+         <ce:date-accepted day="18" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">Post-synthesis treatment of bimetallic catalysts in different gas phases resulting in the adsorption-induced segregation is among promising approaches to enhance their activity not compromising selectivity towards a number of low-temperature reactions. Our recently published paper (M.A. Panafidin, A.V. Bukhtiyarov, I.P. Prosvirin, I.A. Chetyrin, A.Yu. Klyushin, A. Knop-Gericke, N.S. Smirnova, P.V. Markov, I.S. Mashkovsky, Y.V. Zubavichus, A.Yu. Stakheev, V.I. Bukhtiyarov, A mild post-synthesis oxidative treatment of Pd-In/HOPG bimetallic catalysts as a tool of their surface structure fine tuning. Appl. Surf. Sci.) reports on Pd-In intermetallic formation regularities and their evolution after storage in air as well as during treatment in oxygen at submillibar pressures. The current paper gives an extended representation of experimental <ce:italic>ex situ/in situ</ce:italic> synchrotron-based photoelectron spectroscopy (SRPES) and scanning tunnelling microscopy (STM) data used to derive scientific conclusions in the paper quoted above.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">PdIn intermetallic compound</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">model catalyst</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">synchrotron radiation-based photoelectron spectroscopy</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">scanning tunneling microscopy</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

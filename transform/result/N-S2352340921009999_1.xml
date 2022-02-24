@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Medical Radar Signal Dataset for Non-Contact Respiration and Heart Rate Measurement</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Keisuke</namePart>
+      <namePart type="family">Edanami</namePart>
+      <displayForm>Edanami, Keisuke</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Guanghao</namePart>
+      <namePart type="family">Sun</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5639-3171</nameIdentifier>
+      <displayForm>Sun, Guanghao</displayForm>
+      <affiliation>Graduate School of Informatics and Engineering, The University of Electro-Communications, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Medical radars remotely measure the periodic movements of the chest wall induced by breathing and heartbeat and have been widely recognized in healthcare. To the best of our knowledge, no well-characterized medical radar datasets are shared publicly. Therefore, in this article, we provide non-contact respiratory and cardiac signal datasets measured using a medical radar and simultaneously measured reference signals using electrocardiogram (ECG) and respiratory belt transducer. The datasets were collected from nine healthy subjects using 24.25 GHz and 10.525 GHz Doppler radars at a physiological laboratory in Japan. Furthermore, we generated MATLAB code to pre-process the signals and calculate the respiratory and heart rates. The datasets generated could be reused by biomedical researchers to investigate the signal-processing algorithm for non-contact vital sign measurement. </abstract>
+   <subject>
+      <topic>Biomedical engineering</topic>
+   </subject>
+   <subject>
+      <topic>Non-contact monitoring</topic>
+   </subject>
+   <subject>
+      <topic>Medical radar</topic>
+   </subject>
+   <subject>
+      <topic>Heart rate</topic>
+   </subject>
+   <subject>
+      <topic>Respiratory rate</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107724</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107724</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107724</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00999-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009999/S2352340921009999.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

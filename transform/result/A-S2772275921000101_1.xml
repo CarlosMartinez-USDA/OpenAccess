@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.meafoo.2021.100013">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Camera-based system for quality assessment of fresh beef based on image analysis</dct:title>
+         <dct:creator>Leandro Martins Pereira</dct:creator>
+         <dct:creator>Romulo Gonçalves Lins</dct:creator>
+         <dct:creator>Ricardo Gaspar</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Beef shelf-Life</rdf:li>
+               <rdf:li>Computer system measurement techniques</rdf:li>
+               <rdf:li>Color</rdf:li>
+               <rdf:li>Food microbiology</rdf:li>
+               <rdf:li>Statistical analysis</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Measurement: Food 5 (2022). doi:10.1016/j.meafoo.2021.100013</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Measurement: Food</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Ltd.</prism:copyright>
+         <dct:publisher>Elsevier Ltd</dct:publisher>
+         <prism:issn>2772-2759</prism:issn>
+         <prism:volume>5</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.meafoo.2021.100013</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.meafoo.2021.100013</prism:url>
+         <dct:identifier>doi:10.1016/j.meafoo.2021.100013</dct:identifier>
+         <bam:articleNumber>100013</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-29T11:10:15Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>MEAFOO</ja:jid>
+         <ja:aid>100013</ja:aid>
+         <ce:article-number>100013</ce:article-number>
+         <ce:pii>S2772-2759(21)00010-1</ce:pii>
+         <ce:doi>10.1016/j.meafoo.2021.100013</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:article-footnote>
+            <ce:label>☆</ce:label>
+            <ce:note-para id="np0001" view="all">Fully documented templates are available in the elsarticle package on CTAN.</ce:note-para>
+         </ce:article-footnote>
+         <ce:title id="ct0001">Camera-based system for quality assessment of fresh beef based on image analysis</ce:title>
+         <ce:short-title id="stitle0010">Camera-based system for quality assessment of fresh beef based on image analysis</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2772275921000101-08ee99632d7fa5548886bdcead9fe27f">
+               <ce:given-name>Leandro Martins</ce:given-name>
+               <ce:surname>Pereira</ce:surname>
+               <ce:e-address type="email" xlink:href="mailto:lmartins@ufabc.edu.br" id="ead0001">lmartins@ufabc.edu.br</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2772275921000101-14598f0924bde88665625a59ab7d100d">
+               <ce:given-name>Romulo Gonçalves</ce:given-name>
+               <ce:surname>Lins</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:romulo.lins@ufabc.com.br"
+                             id="ead0002">romulo.lins@ufabc.com.br</ce:e-address>
+               <ce:e-address type="email"
+                             xlink:href="mailto:romulo.lins@ufabc.edu.br"
+                             id="ead0003">romulo.lins@ufabc.edu.br</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2772275921000101-9cf7ce5d6f6b091709ed626bf3bb2929">
+               <ce:given-name>Ricardo</ce:given-name>
+               <ce:surname>Gaspar</ce:surname>
+               <ce:e-address type="email"
+                             xlink:href="mailto:ricardo.gaspar@ufabc.edu.br"
+                             id="ead0004">ricardo.gaspar@ufabc.edu.br</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2772275921000101-5586ab022a71a23e968b34e12a550bda">
+               <ce:textfn id="textfn0001">Federal University of ABC, States avenue, 5001, Santo André, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Federal University of ABC</sa:organization>
+                  <sa:city>States avenue</sa:city>
+                  <sa:state>Santo André</sa:state>
+                  <sa:postal-code>5001</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">Federal University of ABC, States avenue, 5001, Santo André, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="29" month="4" year="2021"/>
+         <ce:date-revised day="18" month="8" year="2021"/>
+         <ce:date-accepted day="29" month="11" year="2021"/>
+         <ce:abstract class="author-highlights" id="absh001" view="all">
+            <ce:section-title id="sctt0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">
+                  <ce:list id="lst0005">
+                     <ce:list-item id="lstitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0001" view="all">Computer Vision System for meat quality assessment.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="lstitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0002" view="all">Estimating the meat age through the comparison of the count of microorganisms raise in the Lab.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="lstitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0003" view="all">Measuring the meat quality on the shelf in a few seconds.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="lstitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0004" view="all">Device and software development based on mobile platforms.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="lstitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0005" view="all">Meat age is estimated by image processing methods.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="graphical" id="absh0002" view="all">
+            <ce:section-title id="sctt0002">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0002" view="all">
+               <ce:simple-para id="sp0002" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0003">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0003" view="all">
+               <ce:simple-para id="sp0003" view="all">Beef cut in steaks is one of the most common forms of food consumption, but it is very perishable and has its main limitation in microbiological proliferation. This work presents a system based on image analysis that can assure the quality of the meat in the act of its purchase. The developed system uses only a smartphone running a dedicated algorithm to estimate meat quality quickly. Instrumental evaluations of beef color and counts of mesophilic and psychrotrophic microorganisms were carried out in the laboratory. The assessment of the obtained data allowed the comparison with the standard established by the AMSA (American Meat Science Association) to establish a correlation between the color and the microbiological conditions. Additionally, an Analysis of Variance with subsequent Tukey’s test was processed to validate the experiments. The results demonstrate that the system is capable of estimating the actual meat condition correlating the microorganisms and the measured color with reliability.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0004">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">Beef shelf-Life</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Computer system measurement techniques</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Color</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Food microbiology</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">Statistical analysis</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

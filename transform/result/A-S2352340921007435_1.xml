@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107461">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Spectroscopic ellipsometric study datasets of the fluorinated polymers: Bifunctional urethane methacrylate perfluoropolyether (PFPE) and polyvinylidene fluoride (PVDF)</dct:title>
+         <dct:creator>Joseph Gibbons</dct:creator>
+         <dct:creator>Samuel B.H. Patterson</dct:creator>
+         <dct:creator>Adilet Zhakeyev</dct:creator>
+         <dct:creator>Filipe Vilela</dct:creator>
+         <dct:creator>Jose Marques-Hueso</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>PFPE</rdf:li>
+               <rdf:li>PVDF</rdf:li>
+               <rdf:li>Refractive index</rdf:li>
+               <rdf:li>Transmission intensity</rdf:li>
+               <rdf:li>Optical absorbance</rdf:li>
+               <rdf:li>Spectroscopic ellipsometry</rdf:li>
+               <rdf:li>Polymer optical properties</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107461</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107461</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107461</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107461</dct:identifier>
+         <bam:articleNumber>107461</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-06T18:09:52Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Engineering and Physical Sciences Research Council</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107461</ja:aid>
+         <ce:article-number>107461</ce:article-number>
+         <ce:pii>S2352-3409(21)00743-5</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107461</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Spectroscopic ellipsometric study datasets of the fluorinated polymers: Bifunctional urethane methacrylate perfluoropolyether (PFPE) and polyvinylidene fluoride (PVDF)</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007435-8b9ba71bf7298b8ad4f4308383a60d43"
+                       orcid="0000-0002-1223-3210">
+               <ce:given-name>Joseph</ce:given-name>
+               <ce:surname>Gibbons</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007435-eb1799ced7a5817bb0a02feabfe6f30c">
+               <ce:given-name>Samuel B.H.</ce:given-name>
+               <ce:surname>Patterson</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007435-ad0e72399b717c79dbcad17416c78d94"
+                       orcid="0000-0003-2571-5398">
+               <ce:given-name>Adilet</ce:given-name>
+               <ce:surname>Zhakeyev</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007435-4002162262d74e62f39922ccc1a18362">
+               <ce:given-name>Filipe</ce:given-name>
+               <ce:surname>Vilela</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921007435-5d0a9ee50cd0fb4aabe1941ec94c35c4"
+                       orcid="0000-0002-1807-3369">
+               <ce:given-name>Jose</ce:given-name>
+               <ce:surname>Marques-Hueso</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:j.marques@hw.ac.uk">j.marques@hw.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007435-5cc1043ddb1f5bd69f554cb1b1166e9d">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Institute of Sensors, Signals and Systems, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, Scotland EH14 4AS, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Sensors</sa:organization>
+                  <sa:organization>Signals and Systems</sa:organization>
+                  <sa:organization>School of Engineering and Physical Sciences</sa:organization>
+                  <sa:organization>Heriot-Watt University</sa:organization>
+                  <sa:city>Edinburgh</sa:city>
+                  <sa:state>Scotland</sa:state>
+                  <sa:postal-code>EH14 4AS</sa:postal-code>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aInstitute of Sensors, Signals and Systems, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, Scotland EH14 4AS, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007435-4c3033226e82abcd259255e4f2c18e64">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Institute of Chemical Sciences, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, Scotland EH14 4AS, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Chemical Sciences</sa:organization>
+                  <sa:organization>School of Engineering and Physical Sciences</sa:organization>
+                  <sa:organization>Heriot-Watt University</sa:organization>
+                  <sa:city>Edinburgh</sa:city>
+                  <sa:state>Scotland</sa:state>
+                  <sa:postal-code>EH14 4AS</sa:postal-code>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bInstitute of Chemical Sciences, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, Scotland EH14 4AS, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="8" month="7" year="2021"/>
+         <ce:date-revised day="3" month="10" year="2021"/>
+         <ce:date-accepted day="5" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">The datasets in this work contain the experimentally measured (real) refractive indices, optical transmission intensity, and optical absorption spectra of bifunctional urethane methacrylate perfluoropolyether (PFPE; Fluorolink® MD700) substrate of (0.98 ± 0.13) mm thickness and polyvinylidene fluoride (PVDF; Kynar® 705) thin-film of (4.47 ± 0.29) µm thickness over a spectral range from 300 nm to 1000 nm, as measured <ce:italic>via</ce:italic> variable angle spectroscopic ellipsometry. The refractive indices data were determined by employing a single Cauchy optical constants function based layer using a Levenberg-Marquardt multi-iterative regression algorithm for all model minimizations. The mean-squared error (MSE) was used as the maximum likelihood estimator, with a convergence of the Levenberg-Marquardt algorithm reached when successive iterations were unable to improve the MSE. The resulting best-fit parameter values were evaluated for sensitivity (expressed as a confidence limit), and possible correlations. Furthermore, the experimentally measured optical transmission intensity and determined optical absorption of PFPE and PVDF, over a spectral range from 300 nm to 1000 nm, is also presented, as measured <ce:italic>via</ce:italic> ellipsometry and corrected using Fresnel equations to accommodate surface interference. Given the high transmission of (88.4 ± 0.5)% for PFPE and (95.6 ± 0.6) % for PVDF found, and the low refractive index 1.27 (λ = 589.3 nm) found for PFPE; it is thought that these datasets may be useful for optical applications, such as for photo-curable synthesis processes, or being used as a host-matrix material for photoluminescent compounds.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">PFPE</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">PVDF</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Refractive index</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Transmission intensity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Optical absorbance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Spectroscopic ellipsometry</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Polymer optical properties</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

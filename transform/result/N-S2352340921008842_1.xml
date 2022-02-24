@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset on the mass spectrometry-based proteomic profiling of mouse embryonic fibroblasts from a wild type and DYT-TOR1A mouse model of dystonia, basally and during stress</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Kunal</namePart>
+      <namePart type="family">Shroff</namePart>
+      <displayForm>Shroff, Kunal</displayForm>
+      <affiliation>Department of Neurology, Duke University Medical Center, Durham, NC, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Zachary F.</namePart>
+      <namePart type="family">Caffall</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4601-6799</nameIdentifier>
+      <displayForm>Caffall, Zachary F.</displayForm>
+      <affiliation>Department of Neurology, Duke University Medical Center, Durham, NC, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Erik J.</namePart>
+      <namePart type="family">Soderblom</namePart>
+      <displayForm>Soderblom, Erik J.</displayForm>
+      <affiliation>Department of Cell Biology, Duke University Medical Center, Durham, NC, United States</affiliation>
+      <affiliation>Proteomics and Metabolomics Core Facility, Duke Center for Genomic and Computational Biology, Durham, NC, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Greg</namePart>
+      <namePart type="family">Waitt</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1306-5885</nameIdentifier>
+      <displayForm>Waitt, Greg</displayForm>
+      <affiliation>Proteomics and Metabolomics Core Facility, Duke Center for Genomic and Computational Biology, Durham, NC, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tricia</namePart>
+      <namePart type="family">Ho</namePart>
+      <displayForm>Ho, Tricia</displayForm>
+      <affiliation>Proteomics and Metabolomics Core Facility, Duke Center for Genomic and Computational Biology, Durham, NC, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nicole</namePart>
+      <namePart type="family">Calakos</namePart>
+      <displayForm>Calakos, Nicole</displayForm>
+      <affiliation>Department of Neurology, Duke University Medical Center, Durham, NC, United States</affiliation>
+      <affiliation>Department of Neurobiology, Duke University Medical Center, Durham, NC, United States</affiliation>
+      <affiliation>Department of Cell Biology, Duke University Medical Center, Durham, NC, United States</affiliation>
+      <affiliation>Duke Institute for Brain Sciences, Duke University, Durham, NC, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Here, we present quantitative subcellular compartment-specific proteomic data from wildtype and DYT-TOR1A heterozygous mouse embryonic fibroblasts (MEFs) basally and following thapsigargin (Tg) treatment [1]. In this experiment, we generated MEFs from wild type (WT) and a heterozygous DYT-TOR1A mouse model of dystonia. Subsequently, these MEF cultures were treated with either 1 µM Tg or dimethylsulfoxide vehicle (Veh) for six hours. Following treatment, the cells were fractionated into nuclear and cytosolic fractions. Liquid chromatography, tandem mass spectrometry (LC/MS/MS)-based proteomic profiling identified 65,056 unique peptides and 4801 unique proteins across all samples. The data presented here provide subcellular compartment-specific proteomic information within a dystonia model system both basally and under cellular stress. These data can inform future experiments focused on studying the function of TorsinA, the protein encoded by TOR1A, and its potential role in nucleocytoplasmic transport and proteostasis. In addition, the information in this article can also inform future mechanistic studies investigating the relationship between DYT-TOR1A dystonia and the cellular stress response to advance understanding of the pathogenesis of dystonia. </abstract>
+   <subject>
+      <topic>Dystonia</topic>
+   </subject>
+   <subject>
+      <topic>TorsinA</topic>
+   </subject>
+   <subject>
+      <topic>Proteomics</topic>
+   </subject>
+   <subject>
+      <topic>Subcellular fractionation</topic>
+   </subject>
+   <subject>
+      <topic>Thapsigargin</topic>
+   </subject>
+   <subject>
+      <topic>Stress response</topic>
+   </subject>
+   <subject>
+      <topic>Movement disorder</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107609</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107609</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107609</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00884-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008842/S2352340921008842.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

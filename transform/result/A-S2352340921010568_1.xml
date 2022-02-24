@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107782">
+         <dct:format>application/xml</dct:format>
+         <dct:title>The Piraeus AIS dataset for large-scale maritime data analytics</dct:title>
+         <dct:creator>Andreas Tritsarolis</dct:creator>
+         <dct:creator>Yannis Kontoulis</dct:creator>
+         <dct:creator>Yannis Theodoridis</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>AIS data</rdf:li>
+               <rdf:li>Maritime</rdf:li>
+               <rdf:li>Piraeus</rdf:li>
+               <rdf:li>Big data analytics</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107782</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107782</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107782</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107782</dct:identifier>
+         <bam:articleNumber>107782</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-30T13:48:14Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107782</ja:aid>
+         <ce:article-number>107782</ce:article-number>
+         <ce:pii>S2352-3409(21)01056-8</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107782</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">The Piraeus AIS dataset for large-scale maritime data analytics</ce:title>
+         <ce:short-title id="stitle0010">The Piraeus AIS dataset for large-scale maritime data analytics</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010568-d782bb7b0cb3722fdc501af1cb76f82e">
+               <ce:given-name>Andreas</ce:given-name>
+               <ce:surname>Tritsarolis</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:andrewt@unipi.gr" id="ead0001">andrewt@unipi.gr</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010568-16bf6942710e13fa9b444a105124545d">
+               <ce:given-name>Yannis</ce:given-name>
+               <ce:surname>Kontoulis</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:e-address type="email" xlink:href="mailto:ikontoulis@unipi.gr" id="ead0002">ikontoulis@unipi.gr</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/jkontoulis">@jkontoulis</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010568-a3ab36f0aae90205125a2501b81173d9">
+               <ce:given-name>Yannis</ce:given-name>
+               <ce:surname>Theodoridis</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:e-address type="email" xlink:href="mailto:ytheod@unipi.gr" id="ead0003">ytheod@unipi.gr</ce:e-address>
+               <ce:e-address id="ea3a"
+                             type="social-media"
+                             xlink:href="https://twitter.com/ytheod">@ytheod</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010568-621cacdcf47b9a41eb2721eb34c508c1">
+               <ce:textfn id="textfn0002">Data Science Laboratory, Department of Informatics, University of Piraeus, Piraeus, Greece</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Data Science Laboratory, Department of Informatics</sa:organization>
+                  <sa:organization>University of Piraeus</sa:organization>
+                  <sa:city>Piraeus</sa:city>
+                  <sa:country>Greece</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">Data Science Laboratory, Department of Informatics, University of Piraeus, Piraeus, Greece</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="15" month="11" year="2021"/>
+         <ce:date-revised day="24" month="12" year="2021"/>
+         <ce:date-accepted day="29" month="12" year="2021"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">The advent of Big Data and streaming technologies has resulted in a swarm of voluminous, heterogeneous information, especially in the domains of Internet of Things (IoT) and transportation. Focusing on the maritime field, in this paper, we present a dataset that contains vessel position information transmitted by vessels of different types and collected via the Automatic Identification System (AIS). The AIS dataset comes along with spatially and temporally correlated data about the vessels and the area of interest, including weather information. It covers a time span of over 2.5 years, from May 9th, 2017 to December 26th, 2019 and provides anonymised vessel positions within the wider area of the port of Piraeus (Greece), one of the busiest ports in Europe and worldwide. The dataset consists of over 244 million AIS records, an average of more than 10,000 records per hour, which makes it, to our knowledge, perhaps the largest and densest, to this extent of time, open AIS dataset to date, an ideal input for large-scale mobility data processing and analytics purposes.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">AIS data</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Maritime</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Piraeus</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Big data analytics</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

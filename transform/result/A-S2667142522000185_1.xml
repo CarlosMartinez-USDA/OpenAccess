@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2022.100057">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Jianpi Huayu Decoction enhances the effect of sorafenib and alleviates adverse events in hepatocellular carcinoma by remodeling the gut microbiota</dct:title>
+         <dct:creator>Xue Deng</dct:creator>
+         <dct:creator>Yingjie Xie</dct:creator>
+         <dct:creator>Yantong Lu</dct:creator>
+         <dct:creator>Xueyan Li</dct:creator>
+         <dct:creator>Xuan Guo</dct:creator>
+         <dct:creator>Xuhui Huang</dct:creator>
+         <dct:creator>Xiaohe Lan</dct:creator>
+         <dct:creator>Juze Lin</dct:creator>
+         <dct:creator>Wei Tan</dct:creator>
+         <dct:creator>Changjun Wang</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Hepatocellular carcinoma</rdf:li>
+               <rdf:li>Jianpi Huayu</rdf:li>
+               <rdf:li>Decoction</rdf:li>
+               <rdf:li>Sorafenib</rdf:li>
+               <rdf:li>Microbiota</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine 2 (2022). doi:10.1016/j.prmcm.2022.100057</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2022 Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:coverDisplayDate>March 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.prmcm.2022.100057</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2022.100057</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2022.100057</dct:identifier>
+         <bam:articleNumber>100057</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-25T15:47:21Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100057</ja:aid>
+         <ce:article-number>100057</ce:article-number>
+         <ce:pii>S2667-1425(22)00018-5</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2022.100057</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Jianpi Huayu Decoction enhances the effect of sorafenib and alleviates adverse events in hepatocellular carcinoma by remodeling the gut microbiota</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667142522000185-a20c8f50c49c75fbcde016c070a95b72">
+               <ce:given-name>Xue</ce:given-name>
+               <ce:surname>Deng</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667142522000185-fad14ec000a73838faa983a55b7c7c73">
+               <ce:given-name>Yingjie</ce:given-name>
+               <ce:surname>Xie</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667142522000185-dd0bcc289f3615fbb662f64f5ed762ce">
+               <ce:given-name>Yantong</ce:given-name>
+               <ce:surname>Lu</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667142522000185-7785325d2331680fa44ad89d722b1fa3">
+               <ce:given-name>Xueyan</ce:given-name>
+               <ce:surname>Li</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667142522000185-57a96e519e6c6b8f525dfe3587180fb0">
+               <ce:given-name>Xuan</ce:given-name>
+               <ce:surname>Guo</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667142522000185-38212890b3513968b2c29f722620531b">
+               <ce:given-name>Xuhui</ce:given-name>
+               <ce:surname>Huang</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667142522000185-058c8491276718ada4771edca4f7923e">
+               <ce:given-name>Xiaohe</ce:given-name>
+               <ce:surname>Lan</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667142522000185-78bae5b01668eb57b0e3e2e52502dc4a">
+               <ce:given-name>Juze</ce:given-name>
+               <ce:surname>Lin</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667142522000185-5ca33076af44269dd420f678add08260">
+               <ce:given-name>Wei</ce:given-name>
+               <ce:surname>Tan</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2667142522000185-a3b2deb74f5dc2525ffe037c53999c00">
+               <ce:given-name>Changjun</ce:given-name>
+               <ce:surname>Wang</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:gzwchj@126.com">gzwchj@126.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667142522000185-274edaf930df88b00969b8b17f40d542">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, 510515, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Traditional Chinese Medicine, Southern Medical University</sa:organization>
+                  <sa:city>Guangzhou</sa:city>
+                  <sa:postal-code>510515</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aSchool of Traditional Chinese Medicine, Southern Medical University, Guangzhou, 510515, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667142522000185-8a425f50cb76368191e6649f29c06546">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Guangdong Geriatric Institute, Guangzhou, 510508, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Guangdong Geriatric Institute</sa:organization>
+                  <sa:city>Guangzhou</sa:city>
+                  <sa:postal-code>510508</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bGuangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Guangdong Geriatric Institute, Guangzhou, 510508, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667142522000185-fa1f895c9e29f3dbb0d4cd34ac6751d8">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">General Hospital of Southern Theater Command of PLA, Guangzhou, 510010, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>General Hospital of Southern Theater Command of PLA</sa:organization>
+                  <sa:city>Guangzhou</sa:city>
+                  <sa:postal-code>510010</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cGeneral Hospital of Southern Theater Command of PLA, Guangzhou, 510010, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667142522000185-eb239e1e8fb7257390ca3d18458b0f34">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Guangzhou University of Chinese Medicine, Guangzhou, 510006, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Guangzhou University of Chinese Medicine</sa:organization>
+                  <sa:city>Guangzhou</sa:city>
+                  <sa:postal-code>510006</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dGuangzhou University of Chinese Medicine, Guangzhou, 510006, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667142522000185-7d6eae921c0cba37facf3b8e01146db8">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">School of Medicine, South China University of Technology, Guangzhou, 510641, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Medicine, South China University of Technology</sa:organization>
+                  <sa:city>Guangzhou</sa:city>
+                  <sa:postal-code>510641</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eSchool of Medicine, South China University of Technology, Guangzhou, 510641, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">These authors contributed equally to this work.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="14" month="11" year="2021"/>
+         <ce:date-revised day="27" month="12" year="2021"/>
+         <ce:date-accepted day="25" month="1" year="2022"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara011" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">JHD enhanced the therapeutic effect of sorafenib and alleviated the adverse effect of sorafenib.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">JHD protected sorafenib-induced increasing pro-inflammatory microbiota and led to downregulation of IL-6/STAT3 inflammation signaling.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">The combination of JHD and sorafenib provided a promising treatment for advanced HCC.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara012" view="all">There is an urgent need for effective treatment for advanced hepatocellular carcinoma (HCC). Sorafenib, a multi-kinase inhibitor, is the first-line treatment for advanced HCC, which has a modest efficacy due to severe adverse effects (AEs), acquired resistance, and others. Jianpi Huayu Decoction (JHD) is a traditional Chinese medicine formulation, effective as an alternative and complementary therapy of HCC. Combined sorafenib with JHD is a potential approach to overcome sorafenib resistance.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Methods</ce:section-title>
+               <ce:simple-para id="spara013" view="all">Effect and AEs of clinical-dose sorafenib combined JHD were evaluated in a subcutaneous model. Diarrhea, the most frequently reported AEs, was evaluated by diarrhea score. Illumina NovaSeq analyzed the gut microbiota (GM) composition of the mice.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara014" view="all">JHD administration enhanced anti-tumor response to sorafenib and prevented the occurrence of sorafenib-induced diarrhea and body weight loss. Proinflammatory GM <ce:italic>Helicobacter</ce:italic> positively correlated with sorafenib treatment while anti-inflammatory GM, <ce:italic>Muribaculum, Fusicatenibacter,</ce:italic> and <ce:italic>Dorea</ce:italic> positively correlated with JHD treatment. In addition, JHD decreased the infiltration of inflammatory cells and downregulated signaling of interleukin 6/signal transducer and activator of the transcription-3 pathway.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusions</ce:section-title>
+               <ce:simple-para id="spara015" view="all">Our finding suggested that JHD with microbiota modulation properties could significantly potentiate sorafenib and provide a promising treatment for advanced HCC.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0007">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Hepatocellular carcinoma</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Jianpi Huayu</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Decoction</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Sorafenib</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Microbiota</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords class="abr" id="pc_QdBkBAtTwwjb34g4SkTwmAXZievBM3di" view="all">
+            <ce:section-title id="cesectitle0008k1">Abbreviations</ce:section-title>
+            <ce:keyword id="pc_QhZsCaJRHp">
+               <ce:text>AE</ce:text>
+               <ce:keyword id="pc_bR1arjEweJ">
+                  <ce:text>adverse event</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_m6G1RU2UB6">
+               <ce:text>GM</ce:text>
+               <ce:keyword id="pc_x1eXJRH4i6">
+                  <ce:text>gut microbiota</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_to8NWrln7i">
+               <ce:text>HCC</ce:text>
+               <ce:keyword id="pc_H1Lf1tWQ0T">
+                  <ce:text>hepatocellular carcinoma</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_Ej4JjjUk5K">
+               <ce:text>H&amp;E</ce:text>
+               <ce:keyword id="pc_mIyobtbcGf">
+                  <ce:text>hematoxylin-eosin staining</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_zhP2dgPIOF">
+               <ce:text>HPLC</ce:text>
+               <ce:keyword id="pc_fwBLqBM3ka">
+                  <ce:text>high-performance liquid chromatography</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_819bNw0RQQ">
+               <ce:text>JAK2</ce:text>
+               <ce:keyword id="pc_G53aUz50G1">
+                  <ce:text>janus kinase 2</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_DYYgufMO2F">
+               <ce:text>JHD</ce:text>
+               <ce:keyword id="pc_6mY7gqIsAN">
+                  <ce:text>Jianpi Huayu Decoction</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_pRAZYgDT5A">
+               <ce:text>LPS</ce:text>
+               <ce:keyword id="pc_ryTKwwFZpj">
+                  <ce:text>lipopolysaccharide</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_RSqoFzw7uN">
+               <ce:text>IHC</ce:text>
+               <ce:keyword id="pc_1OLUxMzCjG">
+                  <ce:text>immunohistochemistry</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_bdu4GsD5uV">
+               <ce:text>IF</ce:text>
+               <ce:keyword id="pc_slFZqW1pYi">
+                  <ce:text>immunofluorescence</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_Uj8VOIKivW">
+               <ce:text>MVD</ce:text>
+               <ce:keyword id="pc_acUZJqWuzM">
+                  <ce:text>microvascular density</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_FSVxj2mM1J">
+               <ce:text>PCNA</ce:text>
+               <ce:keyword id="pc_ygCrE9P5eS">
+                  <ce:text>proliferating cell nuclear antigen</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_mzCIf2RifK">
+               <ce:text>STAT3</ce:text>
+               <ce:keyword id="pc_mKtc5yU6mk">
+                  <ce:text>signal transducerand activator of transcription</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_IKqELm627g">
+               <ce:text>TCM</ce:text>
+               <ce:keyword id="pc_jbXwIwKJP7">
+                  <ce:text>traditional Chinese medicine</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_4gH9rRn8cl">
+               <ce:text>VEGF</ce:text>
+               <ce:keyword id="pc_H1AuRWPSXr">
+                  <ce:text>vascular endothelial growth factor</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

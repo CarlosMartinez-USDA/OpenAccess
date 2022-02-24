@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107492">
+         <dct:format>application/xml</dct:format>
+         <dct:title>HR-SEM and FT-IR dataset for green corrosion inhibition activity of 4-{[4-(pyridin-2-yl)piperazin-1-yl]methyl}aniline at CO2 atmosphere</dct:title>
+         <dct:creator>Raman Govindhan</dct:creator>
+         <dct:creator>Srinivasan Anbalagan</dct:creator>
+         <dct:creator>Meenakshisundaram Ravishankar</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>PMMA</rdf:li>
+               <rdf:li>Novel catalyst</rdf:li>
+               <rdf:li>Corrosion inhibition</rdf:li>
+               <rdf:li>HR-SEM</rdf:li>
+               <rdf:li>NMR</rdf:li>
+               <rdf:li>FT-IR data</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107492</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107492</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107492</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107492</dct:identifier>
+         <bam:articleNumber>107492</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-16T18:47:10Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107492</ja:aid>
+         <ce:article-number>107492</ce:article-number>
+         <ce:pii>S2352-3409(21)00773-3</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107492</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">HR-SEM and FT-IR dataset for green corrosion inhibition activity of 4-{[4-(pyridin-2-yl)piperazin-1-yl]methyl}aniline at CO<ce:inf loc="post">2</ce:inf> atmosphere</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007733-89f6e1882bd0d3a71d4e333796e84939">
+               <ce:given-name>Raman</ce:given-name>
+               <ce:surname>Govindhan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:dr.rga01@gmail.com">dr.rga01@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007733-6fb17350ffd32f2fe6b506decb08f03b">
+               <ce:given-name>Srinivasan</ce:given-name>
+               <ce:surname>Anbalagan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007733-94b05e9532ed2de2beaf5ab2fbacf629">
+               <ce:given-name>Meenakshisundaram</ce:given-name>
+               <ce:surname>Ravishankar</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007733-9817cac877b4722d516ff078584247f4">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Chemistry, Sri Moogambigai Arts &amp; Science College (women), Affiliated to Periyar University, Dharmapuri, Tamilnadu 636 805, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>Sri Moogambigai Arts &amp; Science College (women)</sa:organization>
+                  <sa:organization>Affiliated to Periyar University</sa:organization>
+                  <sa:city>Dharmapuri</sa:city>
+                  <sa:state>Tamilnadu</sa:state>
+                  <sa:postal-code>636 805</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Chemistry, Sri Moogambigai Arts &amp; Science College (women), Affiliated to Periyar University, Dharmapuri, Tamilnadu 636 805, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007733-01562cb35dbf18db0e5ba7acd95c623f">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Chemistry, Laxminarayana College of Arts &amp; Science (women), affiliated to University, Dharmapuri, Tamilnadu 636 705, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>Laxminarayana College of Arts &amp; Science (women)</sa:organization>
+                  <sa:organization>affiliated to University</sa:organization>
+                  <sa:city>Dharmapuri</sa:city>
+                  <sa:state>Tamilnadu</sa:state>
+                  <sa:postal-code>636 705</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Chemistry, Laxminarayana College of Arts &amp; Science (women), affiliated to University, Dharmapuri, Tamilnadu 636 705, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921007733-27d9d7480949d26d568a364ca41c6f18">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Chemistry, Rajah Serfoji Government College (Autonomus), Thanjavur, Tamilnadu 613 005, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>Rajah Serfoji Government College (Autonomus)</sa:organization>
+                  <sa:city>Thanjavur</sa:city>
+                  <sa:state>Tamilnadu</sa:state>
+                  <sa:postal-code>613 005</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Chemistry, Rajah Serfoji Government College (Autonomus), Thanjavur, Tamilnadu 613 005, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="2" month="9" year="2021"/>
+         <ce:date-revised day="6" month="10" year="2021"/>
+         <ce:date-accepted day="15" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">Mild steel (MS) corrosion inhibiting aptitude of 4-{[4-(pyridin-2-yl)piperazin-1-yl]methyl}aniline (PPMA), is presented [1–3] in this data set. Explorations of synthesized PPMA are carried out by FT-IR spectral analysis, nuclear magnetic resonance (NMR) and high resolution scanning electron microscopy (HR-SEM). The inhibition activity is investigated by potentio-dynamic method. The FT-IR and NMR results revealed that structure. These data sets are ideal tool for the applications like physical and chemical-engineering field.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0002">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara008" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">PMMA</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Novel catalyst</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Corrosion inhibition</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">HR-SEM</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">NMR</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">FT-IR data</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

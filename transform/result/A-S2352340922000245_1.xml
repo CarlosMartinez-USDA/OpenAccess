@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107812">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Circadian rhythms of locomotor activity in rats: Data on the effect of morphine administered from the early stages of embryonic development until weaning</dct:title>
+         <dct:creator>Dominika Pačesová</dct:creator>
+         <dct:creator>Veronika Spišská</dct:creator>
+         <dct:creator>Jiří Novotný</dct:creator>
+         <dct:creator>Zdeňka Bendová</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Circadian clock</rdf:li>
+               <rdf:li>Rat</rdf:li>
+               <rdf:li>Morphine</rdf:li>
+               <rdf:li>Locomotor activity</rdf:li>
+               <rdf:li>Development</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2022.107812</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2022.107812</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107812</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107812</dct:identifier>
+         <bam:articleNumber>107812</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-06T15:05:06Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Czechia: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107812</ja:aid>
+         <ce:article-number>107812</ce:article-number>
+         <ce:pii>S2352-3409(22)00024-5</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107812</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0361-9230(21)00287-2</ce:pii>
+               <ce:doi>10.1016/j.brainresbull.2021.09.016</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Circadian rhythms of locomotor activity in rats: Data on the effect of morphine administered from the early stages of embryonic development until weaning</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000245-9e383f3becf94bde03ffb4d3fbf75b15">
+               <ce:given-name>Dominika</ce:given-name>
+               <ce:surname>Pačesová</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000245-9dfb52ca08694ca7b593cf17f7b9f55f"
+                       orcid="0000-0003-2339-4906">
+               <ce:given-name>Veronika</ce:given-name>
+               <ce:surname>Spišská</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000245-20bf42d829d1a8c2f2368322cb7e85f9"
+                       orcid="0000-0002-6372-0131">
+               <ce:given-name>Jiří</ce:given-name>
+               <ce:surname>Novotný</ce:surname>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922000245-4a0e6d2ff99e1ccced3d050fe30ded9d"
+                       orcid="0000-0002-2693-2143">
+               <ce:given-name>Zdeňka</ce:given-name>
+               <ce:surname>Bendová</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:zdenka.bendova@natur.cuni.cz">zdenka.bendova@natur.cuni.cz</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000245-ddc3ad7ce35092c493bfe756b55e8dde">
+               <ce:textfn id="cetextfn0001">Department of Physiology, Faculty of Science, Charles University, Prague, Czech Republic</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Physiology</sa:organization>
+                  <sa:organization>Faculty of Science</sa:organization>
+                  <sa:organization>Charles University</sa:organization>
+                  <sa:city>Prague</sa:city>
+                  <sa:country>Czech Republic</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Physiology, Faculty of Science, Charles University, Prague, Czech Republic</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="22" month="11" year="2021"/>
+         <ce:date-revised day="26" month="12" year="2021"/>
+         <ce:date-accepted day="5" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">The circadian clock generates behavioural and physiological rhythms to maximize the efficacy of organismal functions. The circadian system with a major circadian pacemaker in the suprachiasmatic nucleus of the hypothalamus develops gradually and its proper function in adulthood depends on an appropriate neurochemical milieu during ontogeny [1]. Locomotor activity is under direct control by the circadian clock, and alterations in its rhythmicity indicate changes of circadian clock function. We evaluated circadian parameters of locomotor rhythms of adult male Wistar rats born to mothers that were exposed to a stable dose of 0.1 mg/ml of morphine in drinking water (36 ml water on average/day/each rat) from embryonic day 10 (E10) until weaning at postnatal day 28 (P28). Increasing the dose of morphine in drinking water was used to evaluate the changes in the rhythmic gene expression in the suprachiasmatic nucleus and in the livers of young rats at P20 [2]. At P90, we started measurement of endogenous rhythmicity for 12 days in constant darkness (DD), then we applied a 15 min light pulse at circadian time 15 (CT15) and followed the animals for the next 15 days in DD. We evaluated the magnitude of light-induced phase shift and compared the circadian parameters of free-running rhythmicity in the intervals before and after the light pulse. All data were also compared between morphine-exposed animals (M group) and controls (C group) that were not exposed to morphine. An unpaired <ce:italic>t</ce:italic>-test confirmed a significantly longer light-induced phase delay in M group compared with C group, a prolonged circadian period in M group in the interval after the light pulse, and greater amplitude for C group in the first interval, i.e. before the light pulse. No change in total activity counts between groups was confirmed.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Circadian clock</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Rat</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Morphine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Locomotor activity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Development</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

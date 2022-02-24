@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107891">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data for modelling US projections of product approvals, patients treated, and product revenues for durable cell and gene therapies</dct:title>
+         <dct:creator>Colin M. Young</dct:creator>
+         <dct:creator>Mark Trusheim</dct:creator>
+         <dct:creator>Casey Quinn</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Markov chain Monte Carlo</rdf:li>
+               <rdf:li>Clinical trials</rdf:li>
+               <rdf:li>Time in phase</rdf:li>
+               <rdf:li>Success probability</rdf:li>
+               <rdf:li>Durable cell and gene therapies</rdf:li>
+               <rdf:li>Incidence and prevalence</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107891</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107891</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107891</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107891</dct:identifier>
+         <bam:articleNumber>107891</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-27T18:29:53Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Massachusetts Institute of Technology</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107891</ja:aid>
+         <ce:article-number>107891</ce:article-number>
+         <ce:pii>S2352-3409(22)00103-2</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107891</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1359-6446(21)00390-1</ce:pii>
+               <ce:doi>10.1016/j.drudis.2021.09.001</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data for modelling US projections of product approvals, patients treated, and product revenues for durable cell and gene therapies</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922001032-c5f63074725109f24825b04e991927be"
+                       orcid="0000-0002-8225-3567">
+               <ce:given-name>Colin M.</ce:given-name>
+               <ce:surname>Young</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:colyoung@mit.edu">colyoung@mit.edu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922001032-1658016f3a96665d6cb6227b4bd6ae68"
+                       orcid="0000-0002-6318-9037">
+               <ce:given-name>Mark</ce:given-name>
+               <ce:surname>Trusheim</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922001032-47d80bd4dfef156c11e324938664cbea"
+                       orcid="0000-0002-4329-7882">
+               <ce:given-name>Casey</ce:given-name>
+               <ce:surname>Quinn</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922001032-e3edcaca4c511b4c909f672925523ef8">
+               <ce:textfn id="cetextfn0001">NEWDIGS Initiative, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>NEWDIGS Initiative</sa:organization>
+                  <sa:organization>Massachusetts Institute of Technology</sa:organization>
+                  <sa:address-line>77 Massachusetts Avenue</sa:address-line>
+                  <sa:city>Cambridge</sa:city>
+                  <sa:state>MA</sa:state>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">NEWDIGS Initiative, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="21" month="9" year="2021"/>
+         <ce:date-revised day="14" month="12" year="2021"/>
+         <ce:date-accepted day="25" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">The recent marketing approval of several durable gene and cell therapies (2017-2020), together with observations that 7,000 monogenic indications and many cancers were potential targets, led to concern about the potential economic impact of such therapies on the US healthcare system. Using a Markov chain Monte Carlo simulation model, driven stochastically by our estimates of the time in phase of clinical trials and each clinical trial phase probability of success, we forecast the pattern of future US regulatory approvals for such therapies currently undergoing clinical trials. Using parameters of those trials, such as inclusion and exclusion criteria, and other epidemiological data we estimate potential treatable patient populations and use these together with pricing estimates to forecast a range for the potential future list price product revenues associated with these therapies.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Markov chain Monte Carlo</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Clinical trials</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Time in phase</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Success probability</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Durable cell and gene therapies</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Incidence and prevalence</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

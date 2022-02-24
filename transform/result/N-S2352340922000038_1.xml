@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A pixel-wise annotated dataset of small overlooked indoor objects for semantic segmentation applications.</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Elhassan</namePart>
+      <namePart type="family">Mohamed</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9746-1564</nameIdentifier>
+      <displayForm>Mohamed, Elhassan</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Konstantinos</namePart>
+      <namePart type="family">Sirlantzis</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0847-8880</nameIdentifier>
+      <displayForm>Sirlantzis, Konstantinos</displayForm>
+      <affiliation>School of Engineering, University of Kent, Canterbury, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gareth</namePart>
+      <namePart type="family">Howells</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5590-0880</nameIdentifier>
+      <displayForm>Howells, Gareth</displayForm>
+      <affiliation>School of Engineering, University of Kent, Canterbury, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The purpose of the dataset is to provide annotated images for pixel classification tasks with application to powered wheelchair users. As some of the widely available datasets contain only general objects, we introduced this dataset to cover the missing pieces, which can be considered as application-specific objects. However, these objects of interest are not only important for powered wheelchair users but also for indoor navigation and environmental understanding in general. For example, indoor assistive and service robots need to comprehend their surroundings to ease navigation and interaction with different size objects. The proposed dataset is recorded using a camera installed on a powered wheelchair. The camera is installed beneath the joystick so that it can have a clear vision with no obstructions from the user's body or legs. The powered wheelchair is then driven through the corridors of the indoor environment, and a one-minute video is recorded. The collected video is annotated on the pixel level for semantic segmentation (pixel classification) tasks. Pixels of different objects are annotated using MATLAB software. The dataset has various object sizes (small, medium, and large), which can explain the variation of the pixel's distribution in the dataset. Usually, Deep Convolutional Neural Networks (DCNNs) that perform well on large-size objects fail to produce accurate results on small-size objects. Whereas training a DCNN on a multi-size objects dataset can build more robust systems. Although the recorded objects are vital for many applications, we have included more images of different kinds of door handles with different angles, orientations, and illuminations as they are rare in the publicly available datasets. The proposed dataset has 1549 images and covers nine different classes. We used the dataset to train and test a semantic segmentation system that can aid and guide visually impaired users by providing visual cues. The dataset is made publicly available at this link. </abstract>
+   <subject>
+      <topic>Semantic segmentation</topic>
+   </subject>
+   <subject>
+      <topic>Indoor objects</topic>
+   </subject>
+   <subject>
+      <topic>Door handles</topic>
+   </subject>
+   <subject>
+      <topic>Image dataset</topic>
+   </subject>
+   <subject>
+      <topic>Deep learning</topic>
+   </subject>
+   <subject>
+      <topic>Pixels classification</topic>
+   </subject>
+   <subject>
+      <topic>Convolutional neural network</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107791</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107791</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107791</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00003-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-04"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000038/S2352340922000038.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

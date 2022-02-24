@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107577">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on the individual problems and strengths scale from the systemic therapy inventory of change. Clinical samples from Norway</dct:title>
+         <dct:creator>Rune Zahl-Olsen</dct:creator>
+         <dct:creator>Åshild Tellefsen Haaland</dct:creator>
+         <dct:creator>Terje Tilden</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Systemic therapy inventory of change</rdf:li>
+               <rdf:li>STIC</rdf:li>
+               <rdf:li>Individual problems and strength</rdf:li>
+               <rdf:li>IPS</rdf:li>
+               <rdf:li>Couple and family therapy</rdf:li>
+               <rdf:li>Psychotherapy</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107577</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107577</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107577</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107577</dct:identifier>
+         <bam:articleNumber>107577</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-10T12:54:10Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107577</ja:aid>
+         <ce:article-number>107577</ce:article-number>
+         <ce:pii>S2352-3409(21)00852-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107577</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data on the individual problems and strengths scale from the systemic therapy inventory of change. Clinical samples from Norway</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008520-8b7b87c024580f3333fbc30f405b5b0c"
+                       orcid="0000-0002-3747-4184">
+               <ce:given-name>Rune</ce:given-name>
+               <ce:surname>Zahl-Olsen</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:rune.zahl-olsen@sshf.no">rune.zahl-olsen@sshf.no</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008520-37ac8343c267903ff06a9290983260c2">
+               <ce:given-name>Åshild Tellefsen</ce:given-name>
+               <ce:surname>Haaland</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008520-0cdd5e8038b12e9627d6079b0aea3254"
+                       orcid="0000-0002-9164-8851">
+               <ce:given-name>Terje</ce:given-name>
+               <ce:surname>Tilden</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008520-7180fc8488876cf364e709d8600a626e">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of child and adolescent mental health, Sorlandet Hospital, Norway</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of child and adolescent mental health</sa:organization>
+                  <sa:organization>Sorlandet Hospital</sa:organization>
+                  <sa:country>Norway</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of child and adolescent mental health, Sorlandet Hospital, Norway</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008520-bf1ad1e2723e2c0199af5b989eb105b9">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Modum Bad Research Institute, Norway</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Modum Bad Research Institute</sa:organization>
+                  <sa:country>Norway</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bModum Bad Research Institute, Norway</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="28" month="7" year="2021"/>
+         <ce:date-revised day="27" month="10" year="2021"/>
+         <ce:date-accepted day="9" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">These data stem from 841 clients at different couple and family therapy sites in Norway that was collected between 2010 and 2016. They all answered the Individual Problems and Strengths scale (IPS) that is a part of the Systemic Therapy Inventory of Change (STIC) system in addition to some demographic variables. In addition to the 22 items constructing the IPS scale, the data contain 14 demographic variables describing age, educational level, civil status, prior therapeutic experience, use of medicine and year of data collection. Summary statistics are provided. Male and female clients between 12 and 72 years of age answered these questions prior to or at their first session of psychotherapy. The four sites collecting the data are located at different cities in the southern part of the country and represents low and high threshold agencies.</ce:simple-para>
+               <ce:simple-para id="spara004" view="all">The data can be used to test the construct validity of the measure for different populations. The data could, with a sample from the normal population, also be used for norming the scale and thus provide data to calculate cut off scores for clinical and non-clinical levels for each of the eight subscales. Further, the data could be used in combination with other measures of individual distress to test the construct validity of the scale within a Norwegian clinical sample and perhaps also within other countries.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="abr" id="pc_xVgfNBCAJ8f11MpIaUImXhlvhCIqlsVs" view="all">
+            <ce:section-title id="cesectitle0002a">Abbreviations</ce:section-title>
+            <ce:keyword id="pc_jKrD7gNnD4">
+               <ce:text>STIC</ce:text>
+               <ce:keyword id="pc_cMIdcSRd0c">
+                  <ce:text>Systemic Therapy Inventory of Change</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_mVNvRDhdYf">
+               <ce:text>IPS</ce:text>
+               <ce:keyword id="pc_VxIBHlgMmj">
+                  <ce:text>Individual Problems and Strengths scale</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_jY7sBEMmhk">
+               <ce:text>EFA</ce:text>
+               <ce:keyword id="pc_hIYD72o98w">
+                  <ce:text>Exploratory Factor Analysis</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_MPsPRRbzis">
+               <ce:text>CFA</ce:text>
+               <ce:keyword id="pc_DgsIFMhJmO">
+                  <ce:text>Confirmatory Factor Analysis</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Systemic therapy inventory of change</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">STIC</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Individual problems and strength</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">IPS</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Couple and family therapy</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Psychotherapy</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>FinTech and macroeconomics: Dataset from the US peer-to-peer lending platform</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Asror</namePart>
+      <namePart type="family">Nigmonov</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0372-2909</nameIdentifier>
+      <displayForm>Nigmonov, Asror</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Syed</namePart>
+      <namePart type="family">Shams</namePart>
+      <displayForm>Shams, Syed</displayForm>
+      <affiliation>Business School, University of New South Wales, Australia; School of Business, Centre for Health Research University of Southern Queensland, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Khorshed</namePart>
+      <namePart type="family">Alam</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2232-0745</nameIdentifier>
+      <displayForm>Alam, Khorshed</displayForm>
+      <affiliation>Business School, University of New South Wales, Australia; School of Business, Centre for Health Research University of Southern Queensland, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We aggregate the United States (US) state-level data with LendingClub's loan book covering the period from 2008 to 2019. LendingClub is a FinTech lending company that provides loans through a technology-driven platform. It was one of the pioneering and leading US peer-to-peer (P2P) lending platforms. Our dataset consists of over two million observations (N=2,703,430) with diverse loan, borrowers and state-specific features. We provide the description of variables, descriptive statistics, and STATA code with the full dataset. The US possesses significant cross-state variation in terms of economic and demographic characteristics while having risk-sharing policies at the federal level to protect states' creditworthiness. This unique feature of our combined database creates an ideal opportunity to explore the P2P lending market within the context of macroeconomic variables. As the dataset covers a 12-year period for all US states, it enables further cross-sectional and longitudinal analyses of the FinTech lending market. </abstract>
+   <subject>
+      <topic>Crowdfunding</topic>
+   </subject>
+   <subject>
+      <topic>Default</topic>
+   </subject>
+   <subject>
+      <topic>Marketplace lending</topic>
+   </subject>
+   <subject>
+      <topic>Peer-to-peer lending</topic>
+   </subject>
+   <subject>
+      <topic>United States</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107666</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107666</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107666</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00941-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-30"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009410/S2352340921009410.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

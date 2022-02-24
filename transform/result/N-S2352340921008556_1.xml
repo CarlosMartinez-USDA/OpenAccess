@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset on pore water composition and grain size properties of bottom sediments and subsea permafrost from the Buor-Khaya Bay (Laptev Sea)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Alexander S.</namePart>
+      <namePart type="family">Ulyantsev</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2230-1069</nameIdentifier>
+      <displayForm>Ulyantsev, Alexander S.</displayForm>
+      <affiliation>Shirshov Institute of Oceanology, Russian Academy of Sciences, Moscow 117997, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Svetlana Yu.</namePart>
+      <namePart type="family">Bratskaya</namePart>
+      <displayForm>Bratskaya, Svetlana Yu.</displayForm>
+      <affiliation>Institute of Chemistry, Far Eastern Branch of the Russian Academy of Sciences, Vladivostok 690022, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Natalya V.</namePart>
+      <namePart type="family">Polyakova</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6596-9205</nameIdentifier>
+      <displayForm>Polyakova, Natalya V.</displayForm>
+      <affiliation>Institute of Chemistry, Far Eastern Branch of the Russian Academy of Sciences, Vladivostok 690022, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ivan S.</namePart>
+      <namePart type="family">Trukhin</namePart>
+      <displayForm>Trukhin, Ivan S.</displayForm>
+      <affiliation>Shirshov Institute of Oceanology, Russian Academy of Sciences, Moscow 117997, Russia</affiliation>
+      <affiliation>Institute of Chemistry, Far Eastern Branch of the Russian Academy of Sciences, Vladivostok 690022, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yulia A.</namePart>
+      <namePart type="family">Parotkina</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7385-0207</nameIdentifier>
+      <displayForm>Parotkina, Yulia A.</displayForm>
+      <affiliation>Shirshov Institute of Oceanology, Russian Academy of Sciences, Moscow 117997, Russia</affiliation>
+      <affiliation>Institute of Chemistry, Far Eastern Branch of the Russian Academy of Sciences, Vladivostok 690022, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The article presents a dataset on ionic composition of pore water and grain size properties of 105 samples of bottom sediments and subsea permafrost from three sediment cores obtained during polar expeditions in the Buor-Khaya Bay in 2014-2015. Collection sites are located southeast of the Lena Delta near the Bykovsky Peninsula at the Buor-Khaya Bay. In this data article, the concentration of sodium, potassium, calcium, and magnesium cations, chlorides and sulphates in water extracts from sediments, as well as grain size characteristics, are presented. Based on these measurements a difference in salinisation dynamics of thawed strata within the Buor-Khaya Bay is shown. </abstract>
+   <subject>
+      <topic>Arctic</topic>
+   </subject>
+   <subject>
+      <topic>Coastal zone</topic>
+   </subject>
+   <subject>
+      <topic>Bottom sediments</topic>
+   </subject>
+   <subject>
+      <topic>Subsea permafrost</topic>
+   </subject>
+   <subject>
+      <topic>Grain size</topic>
+   </subject>
+   <subject>
+      <topic>Pore water</topic>
+   </subject>
+   <subject>
+      <topic>Major ions</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107580</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107580</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107580</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00855-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-11"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008556/S2352340921008556.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

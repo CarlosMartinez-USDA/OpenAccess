@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107753">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Simulated dataset of corn response to nitrogen over thousands of fields and multiple years in Illinois</dct:title>
+         <dct:creator>German Mandrini</dct:creator>
+         <dct:creator>Sotirios V. Archontoulis</dct:creator>
+         <dct:creator>Cameron M. Pittelkow</dct:creator>
+         <dct:creator>Taro Mieno</dct:creator>
+         <dct:creator>Nicolas F. Martin</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>APSIM</rdf:li>
+               <rdf:li>Crop modeling</rdf:li>
+               <rdf:li>Maize</rdf:li>
+               <rdf:li>Nitrogen leaching</rdf:li>
+               <rdf:li>Nitrogen fertilizer</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107753</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107753</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107753</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107753</dct:identifier>
+         <bam:articleNumber>107753</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-22T16:43:18Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107753</ja:aid>
+         <ce:article-number>107753</ce:article-number>
+         <ce:pii>S2352-3409(21)01028-3</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107753</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0002">
+               <ce:pii>S0308-521X(21)00228-6</ce:pii>
+               <ce:doi>10.1016/j.agsy.2021.103275</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">Simulated dataset of corn response to nitrogen over thousands of fields and multiple years in Illinois</ce:title>
+         <ce:short-title id="stitle0010">Simulated dataset of corn response to nitrogen over thousands of fields and multiple years in Illinois</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010283-728d8b21f9eda870faa3b375756fa6a3"
+                       orcid="0000-0001-5923-6104">
+               <ce:given-name>German</ce:given-name>
+               <ce:surname>Mandrini</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010283-f7e3a6a6558e0a802a9b364fb1b9ef08">
+               <ce:given-name>Sotirios V.</ce:given-name>
+               <ce:surname>Archontoulis</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010283-5ac662f17425ab9d1fbf5b8a1141fb97"
+                       orcid="0000-0001-8654-9552">
+               <ce:given-name>Cameron M.</ce:given-name>
+               <ce:surname>Pittelkow</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010283-8235675a8347b3733e385a2bf5c0e13e"
+                       orcid="0000-0002-0614-0771">
+               <ce:given-name>Taro</ce:given-name>
+               <ce:surname>Mieno</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921010283-a9594fe1998052280b026a4ae07b9ca8"
+                       orcid="0000-0002-1587-665X">
+               <ce:given-name>Nicolas F.</ce:given-name>
+               <ce:surname>Martin</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:nfmartin@illinois.edu" id="ead0001">nfmartin@illinois.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010283-acb5b2c9dcdebc9678ca56a788dfaf0f">
+               <ce:label>a</ce:label>
+               <ce:textfn id="textfn0002">Department of Crop Sciences, University of Illinois at Urbana-Champaign, W201 Turner Hall, 1102 S. Goodwin Avenue, Urbana, IL 61801, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Crop Sciences</sa:organization>
+                  <sa:organization>University of Illinois at Urbana-Champaign</sa:organization>
+                  <sa:address-line>W201 Turner Hall, 1102 S. Goodwin Avenue</sa:address-line>
+                  <sa:city>Urbana</sa:city>
+                  <sa:state>IL</sa:state>
+                  <sa:postal-code>61801</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">Department of Crop Sciences, University of Illinois at Urbana-Champaign, W201 Turner Hall, 1102 S. Goodwin Avenue, Urbana, IL 61801, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010283-e389eea116224d28f8a91267ddd2e55d">
+               <ce:label>b</ce:label>
+               <ce:textfn id="textfn0003">Department of Agronomy, Iowa State University, Ames, IA 50011, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Agronomy</sa:organization>
+                  <sa:organization>Iowa State University</sa:organization>
+                  <sa:city>Ames</sa:city>
+                  <sa:state>IA</sa:state>
+                  <sa:postal-code>50011</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0002">Department of Agronomy, Iowa State University, Ames, IA 50011, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010283-fff074b1e9fbde874911632e73836ae9">
+               <ce:label>c</ce:label>
+               <ce:textfn id="textfn0004">Department of Plant Sciences, University of California, Davis, CA 95616 USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Plant Sciences</sa:organization>
+                  <sa:organization>University of California</sa:organization>
+                  <sa:city>Davis</sa:city>
+                  <sa:state>CA</sa:state>
+                  <sa:postal-code>95616</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0003">Department of Plant Sciences, University of California, Davis, CA 95616 USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921010283-e4045b86a2fcda10d39bf2b0b46b9769">
+               <ce:label>d</ce:label>
+               <ce:textfn id="textfn0005">Department of Agricultural Economics, University of Nebraska-Lincoln, Lincoln, NE 68583 0922, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Agricultural Economics</sa:organization>
+                  <sa:organization>University of Nebraska-Lincoln</sa:organization>
+                  <sa:city>Lincoln</sa:city>
+                  <sa:state>NE</sa:state>
+                  <sa:postal-code>68583 0922</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0004">Department of Agricultural Economics, University of Nebraska-Lincoln, Lincoln, NE 68583 0922, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="15" month="11" year="2021"/>
+         <ce:date-revised day="28" month="11" year="2021"/>
+         <ce:date-accepted day="21" month="12" year="2021"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">Nitrogen (N) fertilizer recommendations for corn (Zea mays L.) in the US Midwest have been a puzzle for several decades, without agreement among stakeholders for which methodology is the best to balance environmental and economic outcomes. Part of the reason is the lack of long-term data of crop responses to N over multiple fields since trial data is often limited in the number of soils and years it can explore. To overcome this limitation, we designed an analytical platform based on crop simulations run over millions of farming scenarios over extensive geographies. The database was calibrated and validated using data from more than four hundred trials in the region. This dataset can have an important role for research and education in N management, machine leaching, and environmental policy analysis. The calibration and validation procedure provides a framework for future gridded crop model studies. We describe dataset characteristics and provide thorough descriptions of the model setup.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">APSIM</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Crop modeling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Maize</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Nitrogen leaching</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">Nitrogen fertilizer</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

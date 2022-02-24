@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset for the simulated biomass pyrolysis in rotary kilns with varying particle residence time distributions</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Mario</namePart>
+      <namePart type="family">Pichler</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7932-8951</nameIdentifier>
+      <displayForm>Pichler, Mario</displayForm>
+      <affiliation>Institute of Chemical, Environmental and Bioscience Engineering, TU Wien, Getreidemarkt 9/166, Vienna 1060, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bahram</namePart>
+      <namePart type="family">Haddadi</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3403-6346</nameIdentifier>
+      <displayForm>Haddadi, Bahram</displayForm>
+      <affiliation>Institute of Chemical, Environmental and Bioscience Engineering, TU Wien, Getreidemarkt 9/166, Vienna 1060, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christian</namePart>
+      <namePart type="family">Jordan</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9661-0959</nameIdentifier>
+      <displayForm>Jordan, Christian</displayForm>
+      <affiliation>Institute of Chemical, Environmental and Bioscience Engineering, TU Wien, Getreidemarkt 9/166, Vienna 1060, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hamidreza</namePart>
+      <namePart type="family">Norouzi</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0113-058X</nameIdentifier>
+      <displayForm>Norouzi, Hamidreza</displayForm>
+      <affiliation>Center of Engineering and Multiscale Modeling of Fluid Flow (CEMF), Department of Chemical Engineering, Amirkabir University of Technology (Tehran Polytechnique), PO Box: 15875-4413, Hafez 424, Tehran, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michael</namePart>
+      <namePart type="family">Harasek</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6490-5840</nameIdentifier>
+      <displayForm>Harasek, Michael</displayForm>
+      <affiliation>Institute of Chemical, Environmental and Bioscience Engineering, TU Wien, Getreidemarkt 9/166, Vienna 1060, Austria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Slow pyrolysis of biomass is commonly performed in rotary kilns. The effect of the particle residence time distribution on biomass conversion is often neglected when numerically modeling such systems. But this effect might be significant under certain conditions. The data presented here are results of numerical simulation of the biomass pyrolysis in rotary kilns under numerous operating conditions and levels of axial dispersion of biomass particles. The varied operating conditions are the kiln diameter (D=0.1–1 m), the ratio of particle to kiln diameter (d/D=5×10−3–40×10−3), the ratio of kiln length to kiln diameter (L/D=1–10), the kiln’s inclination angle (β=0.1–8∘), the Froude number (Fr=10−3–10−2), the rotational Reynolds number (Re=102–16×103), and the Péclet number (Pe=5–100). Data of 13,851 single case simulations are provided with this article. This includes the mean particle residence time, gas, bed and kiln wall temperatures, solid and gaseous species mass flows, heat fluxes, and the solid bed height over the kiln length. These comprehensive data have the potential to help in modeling, design, analysis, and optimization of rotary kilns used for the pyrolysis of biomass. The main characterization and interpretation is presented in the related main research paper by Pichler et al. (2021)[1]. </abstract>
+   <subject>
+      <topic>Residence time distribution</topic>
+   </subject>
+   <subject>
+      <topic>Biomass</topic>
+   </subject>
+   <subject>
+      <topic>Pyrolysis</topic>
+   </subject>
+   <subject>
+      <topic>Rotary kiln</topic>
+   </subject>
+   <subject>
+      <topic>Numerical simulation</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107603</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107603</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107603</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00878-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008787/S2352340921008787.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

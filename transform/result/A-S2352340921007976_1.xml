@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107521">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A dataset for multi-sensor drone detection</dct:title>
+         <dct:creator>Fredrik Svanström</dct:creator>
+         <dct:creator>Fernando Alonso-Fernandez</dct:creator>
+         <dct:creator>Cristofer Englund</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Drone detection</rdf:li>
+               <rdf:li>UAV detection</rdf:li>
+               <rdf:li>Anti-drone systems</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107521</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107521</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107521</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107521</dct:identifier>
+         <bam:articleNumber>107521</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-22T19:45:14Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Sweden Institutes</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107521</ja:aid>
+         <ce:article-number>107521</ce:article-number>
+         <ce:pii>S2352-3409(21)00797-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107521</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">A dataset for multi-sensor drone detection</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007976-e50b3fc32c593bae2f9d138f03e36869">
+               <ce:given-name>Fredrik</ce:given-name>
+               <ce:surname>Svanström</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007976-115bead3fb4c11b536d62bc69c2040b2"
+                       orcid="0000-0002-1400-346X">
+               <ce:given-name>Fernando</ce:given-name>
+               <ce:surname>Alonso-Fernandez</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:feralo@hh.se">feralo@hh.se</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007976-eee27f3b827211a51610ca3eeae1fda3">
+               <ce:given-name>Cristofer</ce:given-name>
+               <ce:surname>Englund</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007976-6d5a0f3f6df9685282ca7e39b421d700">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Air Defence Regiment, Swedish Armed Forces, Sweden</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Air Defence Regiment</sa:organization>
+                  <sa:organization>Swedish Armed Forces</sa:organization>
+                  <sa:country>Sweden</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aAir Defence Regiment, Swedish Armed Forces, Sweden</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007976-fab9ed96734e08bc13eb082315e3bb9f">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Center for Applied Intelligent Systems Research (CAISR), Halmstad University, Halmstad SE 301 18, Sweden</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Center for Applied Intelligent Systems Research (CAISR)</sa:organization>
+                  <sa:organization>Halmstad University</sa:organization>
+                  <sa:city>Halmstad</sa:city>
+                  <sa:postal-code>SE 301 18</sa:postal-code>
+                  <sa:country>Sweden</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bCenter for Applied Intelligent Systems Research (CAISR), Halmstad University, Halmstad SE 301 18, Sweden</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921007976-e98348fc877879f703a3b5d83ac355dc">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">RISE, Lindholmspiren 3A, Gothenburg SE 417 56, Sweden</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>RISE</sa:organization>
+                  <sa:address-line>Lindholmspiren 3A</sa:address-line>
+                  <sa:city>Gothenburg</sa:city>
+                  <sa:postal-code>SE 417 56</sa:postal-code>
+                  <sa:country>Sweden</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cRISE, Lindholmspiren 3A, Gothenburg SE 417 56, Sweden</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="12" month="3" year="2021"/>
+         <ce:date-revised day="13" month="9" year="2021"/>
+         <ce:date-accepted day="21" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara022" view="all">The use of small and remotely controlled unmanned aerial vehicles (UAVs), referred to as drones, has increased dramatically in recent years, both for professional and recreative purposes. This goes in parallel with (intentional or unintentional) misuse episodes, with an evident threat to the safety of people or facilities [1]. As a result, the detection of UAV has also emerged as a research topic [2].</ce:simple-para>
+               <ce:simple-para id="spara023" view="all">Most of the existing studies on drone detection fail to specify the type of acquisition device, the drone type, the detection range, or the employed dataset. The lack of proper UAV detection studies employing thermal infrared cameras is also acknowledged as an issue, despite its success in detecting other types of targets [2]. Beside, we have not found any previous study that addresses the detection task as a function of distance to the target. Sensor fusion is indicated as an open research issue as well to achieve better detection results in comparison to a single sensor, although research in this direction is scarce too [3–6].</ce:simple-para>
+               <ce:simple-para id="spara024" view="all">To help in counteracting the mentioned issues and allow fundamental studies with a common public benchmark, we contribute with an annotated multi-sensor database for drone detection that includes infrared and visible videos and audio files. The database includes three different drones, a small-sized model (Hubsan H107D+), a medium-sized drone (DJI Flame Wheel in quadcopter configuration), and a performance-grade model (DJI Phantom 4 Pro). It also includes other flying objects that can be mistakenly detected as drones, such as birds, airplanes or helicopters. In addition to using several different sensors, the number of classes is higher than in previous studies [4]. The video part contains 650 infrared and visible videos (365 IR and 285 visible) of drones, birds, airplanes and helicopters. Each clip is of ten seconds, resulting in a total of 203,328 annotated frames. The database is complemented with 90 audio files of the classes drones, helicopters and background noise.</ce:simple-para>
+               <ce:simple-para id="spara025" view="all">To allow studies as a function of the sensor-to-target distance, the dataset is divided into three categories (Close, Medium, Distant) according to the industry-standard Detect, Recognize and Identify (DRI) requirements [7], built on the Johnson criteria [8]. Given that the drones must be flown within visual range due to regulations, the largest sensor-to-target distance for a drone in the dataset is 200 m, and acquisitions are made in daylight. The data has been obtained at three airports in Sweden: Halmstad Airport (IATA code: HAD/ICAO code: ESMT), Gothenburg City Airport (GSE/ESGP) and Malmö Airport (MMX/ESMS). The acquisition sensors are mounted on a pan-tilt platform that steers the cameras to the objects of interest. All sensors and the platform are controlled with a standard laptop vis a USB hub.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Drone detection</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">UAV detection</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Anti-drone systems</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

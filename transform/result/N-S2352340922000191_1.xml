@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Datasets for the development of hemp (Cannabis sativa L.) as a crop for the future in tropical environments (Malaysia)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Eranga M.</namePart>
+      <namePart type="family">Wimalasiri</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2527-7650</nameIdentifier>
+      <displayForm>Wimalasiri, Eranga M.</displayForm>
+      <affiliation>Crops For the Future UK, NIAB, 93 Lawrence Weaver Road, Cambridge CB3 0LE, UK.</affiliation>
+      <affiliation>Department of Export Agriculture, Faculty of Agricultural Sciences, Sabaragamuwa University of Sri Lanka, Belihuloya, Sri Lanka</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ebrahim</namePart>
+      <namePart type="family">Jahanshiri</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9110-1880</nameIdentifier>
+      <displayForm>Jahanshiri, Ebrahim</displayForm>
+      <affiliation>Crops For the Future UK, NIAB, 93 Lawrence Weaver Road, Cambridge CB3 0LE, UK.</affiliation>
+      <affiliation>Department of Computer Science, University of Gothenburge, Gothenburg 40530, Sweden</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tengku Adhwa</namePart>
+      <namePart type="family">Syaherah</namePart>
+      <displayForm>Syaherah, Tengku Adhwa</displayForm>
+      <affiliation>Crops For the Future UK, NIAB, 93 Lawrence Weaver Road, Cambridge CB3 0LE, UK.</affiliation>
+      <affiliation>Faculty of Engineering, University Putra Malaysia, Serdang, Selangor Darul Ehsan 43400, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Niluka</namePart>
+      <namePart type="family">Kuruppuarachchi</namePart>
+      <displayForm>Kuruppuarachchi, Niluka</displayForm>
+      <affiliation>Postgraduate Institute of Agriculture, University of Peradeniya, Sri Lanka</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vimbayi G.P.</namePart>
+      <namePart type="family">Chimonyo</namePart>
+      <displayForm>Chimonyo, Vimbayi G.P.</displayForm>
+      <affiliation>CIMMYT-Zimbabwe, 12.5 KM Peg, Mazowe Road, Mount Pleasant, Harare, Zimbabwe</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sayed N.</namePart>
+      <namePart type="family">Azam-Ali</namePart>
+      <displayForm>Azam-Ali, Sayed N.</displayForm>
+      <affiliation>Crops For the Future UK, NIAB, 93 Lawrence Weaver Road, Cambridge CB3 0LE, UK.</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Peter J.</namePart>
+      <namePart type="family">Gregory</namePart>
+      <displayForm>Gregory, Peter J.</displayForm>
+      <affiliation>Crops For the Future UK, NIAB, 93 Lawrence Weaver Road, Cambridge CB3 0LE, UK.</affiliation>
+      <affiliation>School of Agriculture, Policy &amp; Development, University of Reading, Earley Gate, Reading, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>An evidence base was developed to facilitate adoption of hemp (Cannabis sativa L.) in tropical environments (Wimalasiri et al. (2021)). Agro-ecological requirements data of hemp were acquired from international databases and was contrasted against local climate and soil conditions using an augmented species ecological niche modeling. The outputs were then used to map the suitability for all locations for 12 possible calendar-year seasons within peninsular Malaysia. The most probable seasonal map was then used to generate a land suitability map for agricultural areas across 5 standard land suitability categories. Having developed the general suitability maps of hemp in Malaysia, detailed crop growth data were collected from literature and was then used to simulate an ideotype crop model (for both seed and fiber) for selected locations across Malaysia, where detailed daily climate data and soil information were available. Following the development of a downscaled future climate dataset, a simulated dataset of yield for the future conditions were also developed. Next, the simulated seed and fiber yield data were used to create yield maps for hemp across peninsular Malaysia. An economic value and cost-benefit analyses were also carried out using data that were collected from literature and local sources to simulate the true cost and benefit of growing hemp both for now and future conditions. This data provides the first ever evidence base for an underutilized crop in Southeast Asia. All data that was generated using the proposed published framework for the adoption of hemp in the future are stored in their original format in an online repository and is described in this article. The data can be used to map the suitability at finer scales, analyze and re-calibrate a yield model using any climate scenario and evaluate the economics of production using the standard methodology described in the above-mentioned publication. </abstract>
+   <subject>
+      <topic>Agri-environmental data</topic>
+   </subject>
+   <subject>
+      <topic>AquaCrop</topic>
+   </subject>
+   <subject>
+      <topic>Hemp economics</topic>
+   </subject>
+   <subject>
+      <topic>Industrial hemp</topic>
+   </subject>
+   <subject>
+      <topic>Land suitability assessment</topic>
+   </subject>
+   <subject>
+      <topic>NPVB</topic>
+   </subject>
+   <subject>
+      <topic>Yield potential</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107807</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107807</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107807</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00019-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-06"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000191/S2352340922000191.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

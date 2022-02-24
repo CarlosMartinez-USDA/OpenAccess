@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.soisec.2021.100029">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Money, soils and stewardship–creating a more fruitful relationship?</dct:title>
+         <dct:creator>Paul Martin</dct:creator>
+         <dct:creator>Andrew Lawson</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Stewardship funding</rdf:li>
+               <rdf:li>Soil stewardship</rdf:li>
+               <rdf:li>Soils governance</rdf:li>
+               <rdf:li>Sustainable agriculture</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Soil Security 6 (2022). doi:10.1016/j.soisec.2021.100029</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Soil Security</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Ltd.</prism:copyright>
+         <dct:publisher>Elsevier Ltd</dct:publisher>
+         <prism:issn>2667-0062</prism:issn>
+         <prism:volume>6</prism:volume>
+         <prism:coverDisplayDate>March 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.soisec.2021.100029</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.soisec.2021.100029</prism:url>
+         <dct:identifier>doi:10.1016/j.soisec.2021.100029</dct:identifier>
+         <bam:articleNumber>100029</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-12T23:48:45Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>SOISEC</ja:jid>
+         <ja:aid>100029</ja:aid>
+         <ce:article-number>100029</ce:article-number>
+         <ce:pii>S2667-0062(21)00026-5</ce:pii>
+         <ce:doi>10.1016/j.soisec.2021.100029</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Money, soils and stewardship–creating a more fruitful relationship?</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667006221000265-0fa36c7ed8bc74f184f99dff43fa5e99">
+               <ce:given-name>Paul</ce:given-name>
+               <ce:surname>Martin</ce:surname>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:pmartin9@une.edu.au">pmartin9@une.edu.au</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667006221000265-8affb39ccabae936046e371bbf9caa14">
+               <ce:given-name>Andrew</ce:given-name>
+               <ce:surname>Lawson</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:andrew.lawson@une.edu.au">andrew.lawson@une.edu.au</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667006221000265-079d5d52d1b96f3b35a6b6c50333d2b9">
+               <ce:textfn id="cetextfn0001">Australian Centre for Agriculture and Law, School of Law, University of New England, Armidale NSW 2351 Australia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Australian Centre for Agriculture and Law, School of Law</sa:organization>
+                  <sa:organization>University of New England</sa:organization>
+                  <sa:city>Armidale</sa:city>
+                  <sa:state>NSW</sa:state>
+                  <sa:postal-code>2351</sa:postal-code>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Australian Centre for Agriculture and Law, School of Law, University of New England, Armidale NSW 2351 Australia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="22" month="9" year="2021"/>
+         <ce:date-revised day="29" month="11" year="2021"/>
+         <ce:date-accepted day="12" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara001" view="all">This paper examines the complicated linkages between money, soils, and ethical land stewardship. Law and policy reform is important, but the many impediments to voluntary soil stewardship that exist must be dealt with. To expect that people will do things that are not financially feasible for them is to invite failure.</ce:simple-para>
+               <ce:simple-para id="spara002" view="all">The paper focuses on the economic capacity of volunteers to ‘do the right thing’. It initially uses a “coupled systems” framework to examine the ecological, social and institutional system that must be managed to achieve soils sustainability. The paper then considers the role of money, including in voluntary stewardship. Finally, the paper considers how to address the financial impediments to voluntarism, and possible policies to make land stewardship more feasible, efficient and equitable.</ce:simple-para>
+               <ce:simple-para id="spara003" view="all">We discuss “soil” as a unit, “soil systems” when considering soil's components, and “terrestrial systems” when considering the surrounding landscape or biological system. We canvass some unique aspects of soils that are challenging for governance and management. We also consider ‘socio-ecological’ and ‘social-ecological-economic’ systems to help us understand human interactions with the biophysical world. These system perspectives show that soils governance also interacts with the governance of agriculture, biodiversity and other relevant topics.</ce:simple-para>
+               <ce:simple-para id="spara004" view="all">The discussion draws on theory, international examples, and Australian evidence. Systems thinking involves observation to identify patterns to explain the dynamic relationships between the components of what is being studied (e.g. machines, nature, soils or society). We apologise to readers who may find this approach daunting, but some complexity is inevitable.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Stewardship funding</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Soil stewardship</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Soils governance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Sustainable agriculture</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

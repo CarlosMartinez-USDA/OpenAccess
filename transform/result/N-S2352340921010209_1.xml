@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset from analytical pyrolysis assays for converting waste tires into valuable chemicals in the presence of noble-metal catalysts</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Beatriz Smith</namePart>
+      <namePart type="family">Azócar</namePart>
+      <displayForm>Azócar, Beatriz Smith</displayForm>
+      <affiliation>Laboratory of Thermal and Catalytic Processes (LPTC-UBB), Universidad del Bío-Bío, Facultad de Ingeniería, Departamento Ing. en Maderas, Collao 1202, Concepción 4030000, Chile</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Paula Osorio</namePart>
+      <namePart type="family">Vargas</namePart>
+      <displayForm>Vargas, Paula Osorio</displayForm>
+      <affiliation>Laboratory of Thermal and Catalytic Processes (LPTC-UBB), Universidad del Bío-Bío, Facultad de Ingeniería, Departamento Ing. en Maderas, Collao 1202, Concepción 4030000, Chile</affiliation>
+      <affiliation>Centro de Investigación y Desarrollo en Ciencias Aplicadas “Dr. J.J. Ronco” (CINDECA), Departamento de Química, Facultad de Ciencias Exactas, UNLP-CCT La Plata, CONICET, 47 No. 257, 1900 La Plata, Buenos Aires, Argentina</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cristian</namePart>
+      <namePart type="family">Campos</namePart>
+      <displayForm>Campos, Cristian</displayForm>
+      <affiliation>Universidad de Concepción, Facultad de Ciencias Químicas, Departamento de Físico-Química, Edmundo Larenas 129. Concepción 4030000, Chile</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Francisco</namePart>
+      <namePart type="family">Medina</namePart>
+      <displayForm>Medina, Francisco</displayForm>
+      <affiliation>Laboratory of Thermal and Catalytic Processes (LPTC-UBB), Universidad del Bío-Bío, Facultad de Ingeniería, Departamento Ing. en Maderas, Collao 1202, Concepción 4030000, Chile</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Luis E.</namePart>
+      <namePart type="family">Arteaga-Pérez</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3982-4165</nameIdentifier>
+      <displayForm>Arteaga-Pérez, Luis E.</displayForm>
+      <affiliation>Laboratory of Thermal and Catalytic Processes (LPTC-UBB), Universidad del Bío-Bío, Facultad de Ingeniería, Departamento Ing. en Maderas, Collao 1202, Concepción 4030000, Chile</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>About 25.7 million tons of waste tires (WT) are discarded each year worldwide causing important environmental, and health problems. This waste is difficult to manage and dispose due to its huge rate of generation and its extremely slow biodegradation. Therefore, many efforts are being made to valorise WTs into a series of marketable products under a circular economy framework. In the attempt to convert WT into higher-value products, thermochemical decomposition by pyrolysis has emerged as a promising process [1]. The pyrolysis is a thermochemical transformation (under an oxygen-depleted atmosphere) of the tire´s polymeric constituents: natural rubber (NR), styrene-butadiene rubber (SBR), and butadiene rubber (BR) into three major fractions. These fractions are a gas (10–35%, TPG) which is usually used as a heat source (50 MJ kg⁻¹), a solid consisting mainly of recovered carbon black (12–45%, rCB), and a liquid fraction (35-65%, TPO) containing a complex mixture of organic compounds. Among the high-value compounds that can be found in the TPO are D,L-limonene, isoprene, benzene, toluene, mixed-xylene, ethylbenzene, styrene, p-cymene, and some polycyclic aromatic hydrocarbons. This mixture is commonly used as a diesel substitute and owing to its complex composition it rarely is seen as a source for more valuable products. To overcome such a complexity, and selectively produce specific chemical identities, different types of catalysts have been used [2,3]. Herein, we provide a dataset from a systematic study about catalytic pyrolysis of WT for selectively producing benzene, toluene, and xylenes (BTX) and p-cymene on noble metals (Pd, Pt, Au) supported on titanate nanotubes (NT-Ti). The comprehensive analysis of this data was recently published, thus, the analytical techniques, experimental conditions and dataset are given in the present paper as a complement to that publication [1]. The reaction was evaluated in an analytical pyrolysis unit consisting in a micropyrolizer coupled to a mass spectrometer (Py-GC/MS) operating at temperatures between 400 and 450 °C in a fast pyrolysis regime (12 s). The effectivity of catalysts was measured in terms of selectivity to monoaromatics as BTX and p-cymene, under non-catalytic and for catalytic pyrolysis conditions. Moreover, the reaction was conducted on individual rubbers (Polyisoprene, Polybutadiene, and Styrene-Butadiene) and DL-limonene, to get deep insights into the transformation behaviour and reaction pathways. Therefore, the reader will find a data-in-brief paper containing some characterizations of the WTs used for the investigation, along with a complete dataset of Py-GC/MS results. Finally, the original files for the interpretation of the MS results are also provided, so that the reader can easily use this information to further expand the study to their own interest (industrial or scientific). </abstract>
+   <subject>
+      <topic>Waste tire</topic>
+   </subject>
+   <subject>
+      <topic>Catalytic pyrolysis</topic>
+   </subject>
+   <subject>
+      <topic>Noble metals</topic>
+   </subject>
+   <subject>
+      <topic>Py-GC/MS</topic>
+   </subject>
+   <subject>
+      <topic>Dataset</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107745</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107745</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107745</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01020-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-21"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010209/S2352340921010209.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

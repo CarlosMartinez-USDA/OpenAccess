@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107657">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Characterization data of reference industrial polycarboxylate superplasticizer VP 2020/15.2 used for Priority Program DFG SPP 2005 “Opus Fluidum Futurum - Rheology of reactive, multiscale, multiphase construction materials”</dct:title>
+         <dct:creator>Lin Zhang</dct:creator>
+         <dct:creator>Ran Li</dct:creator>
+         <dct:creator>Lei Lei</dct:creator>
+         <dct:creator>Johann Plank</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Polycarboxylate</rdf:li>
+               <rdf:li>Characterization</rdf:li>
+               <rdf:li>Molecular properties</rdf:li>
+               <rdf:li>Dispersing effectiveness</rdf:li>
+               <rdf:li>Fluidity</rdf:li>
+               <rdf:li>DFG SPP 2005</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107657</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107657</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107657</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107657</dct:identifier>
+         <bam:articleNumber>107657</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-27T11:25:28Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107657</ja:aid>
+         <ce:article-number>107657</ce:article-number>
+         <ce:pii>S2352-3409(21)00932-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107657</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Characterization data of reference industrial polycarboxylate superplasticizer VP 2020/15.2 used for Priority Program DFG SPP 2005 “Opus Fluidum Futurum - Rheology of reactive, multiscale, multiphase construction materials”</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092100932X-0cb3302ff356893f510d490f572920db">
+               <ce:given-name>Lin</ce:given-name>
+               <ce:surname>Zhang</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092100932X-8be73a5a58e9d90bdb1902d92fba1fd8"
+                       orcid="0000-0002-5911-5633">
+               <ce:given-name>Ran</ce:given-name>
+               <ce:surname>Li</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092100932X-cbba3990a63327b9c735862b8c8371d2">
+               <ce:given-name>Lei</ce:given-name>
+               <ce:surname>Lei</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:lei.lei@bauchemie.ch.tum.de">lei.lei@bauchemie.ch.tum.de</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S235234092100932X-32b69693754ef763c3638e44da74e12b">
+               <ce:given-name>Johann</ce:given-name>
+               <ce:surname>Plank</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092100932X-44aec523f5beeee12b30a6ca32ed9df8">
+               <ce:textfn id="cetextfn0001">Technische Universität München, Chair for Construction Chemistry, 85747 Garching, Lichtenbergstraße 4, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Technische Universität München</sa:organization>
+                  <sa:organization>Chair for Construction Chemistry</sa:organization>
+                  <sa:organization>85747 Garching</sa:organization>
+                  <sa:organization>Lichtenbergstraße 4</sa:organization>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Technische Universität München, Chair for Construction Chemistry, 85747 Garching, Lichtenbergstraße 4, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="5" month="11" year="2021"/>
+         <ce:date-accepted day="26" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara010" view="all">An industrial polycarboxylate superplasticizer sample has been chosen in the Priority Program 2005 of the German Research Foundation (DFG SPP 2005). The molecular properties of this superplasticizer sample, such as molecular weight (<ce:italic>M<ce:inf loc="post">w</ce:inf>, M<ce:inf loc="post">n</ce:inf>
+                  </ce:italic>), the polydispersity index (PDI) and the macromononmer conversion rate were determined using Size Exclusion Chromatography (SEC), and the sample's specific anionic charge amount was obtained via charge titration. Furthermore, the dispersing effectiveness of this superplasticizer sample was assessed through ‘mini-slump’ tests in pure OPC (CEM I 42.5 R) and in a limestone-calcined clay (LCC) cement. Moreover, the adsorption of the superplasticizer on both cements, and the dosage-dependent development of the zeta potential of both cement suspensions were captured. The data shall be used for the ongoing research within the Priority Program.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Polycarboxylate</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Characterization</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Molecular properties</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Dispersing effectiveness</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Fluidity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">DFG SPP 2005</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

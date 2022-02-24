@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100210">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Evolution of Pharmacological activity with Molecular Docking of active constituents present in roots and small branches of Aegle Marmelos: A comparative study using HPLC, GC–MS, LC-MS</dct:title>
+         <dct:creator>Ajay Kumar Meena</dct:creator>
+         <dct:creator>R. Ilavarasan</dct:creator>
+         <dct:creator>Ravindra Singh</dct:creator>
+         <dct:creator>Deepesh Parashar</dct:creator>
+         <dct:creator>Mohit Motiwale</dct:creator>
+         <dct:creator>Ayyam Perumal</dct:creator>
+         <dct:creator>N. Srikanth</dct:creator>
+         <dct:creator>K.S. Dhiman</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Aegle Marmelos</rdf:li>
+               <rdf:li>GC-MS</rdf:li>
+               <rdf:li>LC-MS</rdf:li>
+               <rdf:li>HPLC</rdf:li>
+               <rdf:li>Marmelosin</rdf:li>
+               <rdf:li>And molecular docking</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100210</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100210</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100210</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100210</dct:identifier>
+         <bam:articleNumber>100210</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-21T20:57:14Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100210</ja:aid>
+         <ce:article-number>100210</ce:article-number>
+         <ce:pii>S2667-0313(21)00192-5</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100210</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Evolution of Pharmacological activity with Molecular Docking of active constituents present in roots and small branches of <ce:italic>Aegle Marmelos</ce:italic>: A comparative study using HPLC, GC–MS, LC-MS</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001925-d78c2cf954a4cd28d6f4082983680a11">
+               <ce:given-name>Ajay Kumar</ce:given-name>
+               <ce:surname>Meena</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:ajaysheera@gmail.com">ajaysheera@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001925-1edf081875859d61fa9839a2f721bafb">
+               <ce:given-name>R.</ce:given-name>
+               <ce:surname>Ilavarasan</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001925-4b7db09ce0c78a93f3a6bbc545b8c1cf">
+               <ce:given-name>Ravindra</ce:given-name>
+               <ce:surname>Singh</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001925-9f43b79bc5e927e1861a019b7e3fc3cd">
+               <ce:given-name>Deepesh</ce:given-name>
+               <ce:surname>Parashar</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001925-f277eecd60b820c03c6c6bb7ce020d60">
+               <ce:given-name>Mohit</ce:given-name>
+               <ce:surname>Motiwale</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031321001925-1c6e41c52ae966a06bcceefd56d3a07d">
+               <ce:given-name>Ayyam</ce:given-name>
+               <ce:surname>Perumal</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667031321001925-26b98517d1a5eaab90f22e2f0fa15346">
+               <ce:given-name>N.</ce:given-name>
+               <ce:surname>Srikanth</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667031321001925-137d5f701c741d98187a9d6ebe4cdbde">
+               <ce:given-name>K.S.</ce:given-name>
+               <ce:surname>Dhiman</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001925-200c6022c263ca09c45ae434af683cec">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Regional Ayurveda Research Institute, Aamkho, Gwalior, 474009, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Regional Ayurveda Research Institute</sa:organization>
+                  <sa:address-line>Aamkho</sa:address-line>
+                  <sa:city>Gwalior</sa:city>
+                  <sa:postal-code>474009</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aRegional Ayurveda Research Institute, Aamkho, Gwalior, 474009, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001925-3a19090e708402540f73f0daf4db1eca">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Captain Srinivasa Murthy Central Ayurveda Research Institute, Chennai 600106, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Captain Srinivasa Murthy Central Ayurveda Research Institute</sa:organization>
+                  <sa:city>Chennai</sa:city>
+                  <sa:postal-code>600106</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bCaptain Srinivasa Murthy Central Ayurveda Research Institute, Chennai 600106, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001925-dad642ad2f4556c82e62ec0cb5b737cd">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Central Council for Research in Ayurvedic Sciences, Ministry of A.Y.U.S.H., Government of India, New Delhi, 110058, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Central Council for Research in Ayurvedic Sciences</sa:organization>
+                  <sa:organization>Ministry of A.Y.U.S.H., Government of India</sa:organization>
+                  <sa:city>New Delhi</sa:city>
+                  <sa:postal-code>110058</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cCentral Council for Research in Ayurvedic Sciences, Ministry of A.Y.U.S.H., Government of India, New Delhi, 110058, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara027" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">
+                           <ce:italic>In-silico</ce:italic> evaluation various chemical constituents in root and small branches extracts of <ce:italic>Aegle Marmelos</ce:italic>.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">HPLC, LC-MS, GC–MS fingerprint profiling of root and small branches extracts of <ce:italic>Aegle Marmelos</ce:italic>.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Quantification of marmelosin by HPLC in root and small branches extracts of <ce:italic>Aegle Marmelos</ce:italic>.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Comparative study for evaluation therapeutic potential of root and small branches extracts of <ce:italic>Aegle Marmelos</ce:italic>.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Results revealed small branches of aegle marmelos can be used in place of roots for large scale production of herbal formulations.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstrac</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara028" view="all">
+                  <ce:italic>Aegle marmelos</ce:italic> is a traditional plant belonging to India. Very few and sporadic works are there in the literature regarding the physicochemical evaluation of the plant.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Method</ce:section-title>
+               <ce:simple-para id="spara029" view="all">The major parameters of this study includes the quantification marmelosine, WHO-recommended physicochemical investigation, preliminary phytochemical examination and chemical profiling using advanced techniques like HPLC, LC-MS, and GC–MS.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara030" view="all">The presence of different phytochemicals was determined using HPLC profiling of ethanolic leaf extracts. The number of peaks in the root and small branches of the <ce:italic>Aegle marmelos</ce:italic> (L.) plant sample were almost identical, and the retention time of the maximum peak in root was coinciding with the retention of small branches of the sample, according to HPLC chromatographic profiling of successive extracts and total ethanol extracts of the <ce:italic>Aegle marmelos</ce:italic> (L.). When LC-MS chromatographic profiling of <ce:italic>Aegle marmelos</ce:italic> (L.) root and small branches was compared, it was discovered that the active components were identical in both root and small branch extracts. In the GC–MS chromatographic profiling of the volatile content of the Aegle marmelos (L.) root and tiny branches, significant similarities were found. The results of HPLC quantitative analysis demonstrate that <ce:italic>Aegle marmelos</ce:italic> has 0.0565 percent marmelosin in the root and only 0.0145 percent in the small branches (L.). Molecular docking investigations back up the findings, and we discovered compounds that block V. cholera's UDP-N-acetylenolpyruvoylglucosamine reductase in both the root and small branches.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusion</ce:section-title>
+               <ce:simple-para id="spara031" view="all">As a result, the research lays the groundwork for future studies that will prescribe short branches instead of roots and vice versa after comparing and validating pharmacological actions, for usefulness as commercial usage and plant-conservation.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0007">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0007" view="all">
+               <ce:simple-para id="spara032" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0008">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Aegle Marmelos</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">GC-MS</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">LC-MS</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">HPLC</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Marmelosin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">And molecular docking</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

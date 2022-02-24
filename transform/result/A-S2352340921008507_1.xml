@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107575">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Isotherm, kinetic, thermodynamics and reusability data on the adsorption of antidepressant onto silver nanoparticle-loaded biowaste</dct:title>
+         <dct:creator>Kovo G. Akpomie</dct:creator>
+         <dct:creator>Jeanet Conradie</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Nortriptyline</rdf:li>
+               <rdf:li>Desorption</rdf:li>
+               <rdf:li>Water-treatment</rdf:li>
+               <rdf:li>Nanoparticle-based adsorbents</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107575</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107575</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107575</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107575</dct:identifier>
+         <bam:articleNumber>107575</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-10T11:13:57Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107575</ja:aid>
+         <ce:article-number>107575</ce:article-number>
+         <ce:pii>S2352-3409(21)00850-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107575</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Isotherm, kinetic, thermodynamics and reusability data on the adsorption of antidepressant onto silver nanoparticle-loaded biowaste</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008507-271a07fbb1354b58eabc907e4daf8620">
+               <ce:given-name>Kovo G.</ce:given-name>
+               <ce:surname>Akpomie</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:kovo.akpomie@unn.edu.ng">kovo.akpomie@unn.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008507-423d06b3b4be311bb9311612435c6106"
+                       orcid="0000-0002-8120-6830">
+               <ce:given-name>Jeanet</ce:given-name>
+               <ce:surname>Conradie</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008507-a5dfff0a94a96e58f6ed935ad84ba5b8">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Chemistry, University of the Free State, Bloemfontein, South Africa</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>University of the Free State</sa:organization>
+                  <sa:city>Bloemfontein</sa:city>
+                  <sa:country>South Africa</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Chemistry, University of the Free State, Bloemfontein, South Africa</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008507-6f24df1b7bae13025d9a13513e4ba249">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Pure and Industrial Chemistry, University of Nigeria, Nsukka, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pure and Industrial Chemistry</sa:organization>
+                  <sa:organization>University of Nigeria</sa:organization>
+                  <sa:city>Nsukka</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Pure and Industrial Chemistry, University of Nigeria, Nsukka, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Chemistry, University of the Free State, Bloemfontein, South Africa.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>University of the Free State</sa:organization>
+                  <sa:city>Bloemfontein</sa:city>
+                  <sa:country>South Africa</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="27" month="10" year="2021"/>
+         <ce:date-revised day="5" month="11" year="2021"/>
+         <ce:date-accepted day="9" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">There has been an increase in the use of antidepressant drugs owing to significant economic challenges across the globe. Consequently, the increase in production of such drugs has impacted pharmaceutical pollution of industrial wastewaters discharged into the environment. Hence, there is a need to develop efficient adsorbents for antidepressant wastewater treatment. The impregnation of silver nanoparticles on biowaste was found to be highly effective in the treatment of oil-polluted water but has not been utilized in the adsorption of drugs. Herein, the dataset associated with the adsorption of antidepressants onto <ce:italic>Ananas Comosus</ce:italic> Peel (AP) and Silver nanoparticle-loaded <ce:italic>Ananas Comosus</ce:italic> peel (AgAP) was reported. Batch adsorption methodology was used to study the effect of antidepressant concentration (10–50 mg/L), sonication time (10–120 min), temperature (300–320 K) and adsorbent dosage (0.10–0.18 g). The concentration of antidepressant (Nortriptyline) in solution before and after adsorption was determined by the UV-Spectrophotometer at a maximum wavelength of 239 nm. The isotherm dataset was obtained from the Langmuir, Freundlich, Temkin and Dubinin-Raduskevich models, while kinetic data was evaluated by the pseudo-first order-pseudo-second-order, film diffusion and intraparticle diffusion rate equations. The data on the thermodynamics and adsorbent reusability were also provided. The dataset showed an adsorption capacity of 3.27 mg/g and 4.74 mg/g for AP and AgAP, respectively. The dataset is important to material and environmental scientists and revealed the efficiency of AP and AgAP in the treatment of antidepressant wastewater.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Nortriptyline</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Desorption</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Water-treatment</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Nanoparticle-based adsorbents</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

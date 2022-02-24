@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107449">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Optic disc Edema in patients with fibrous dysplasia/McCune-Albright syndrome: Craniomorphometric analysis and peripapillary retinal nerve fiber layer data</dct:title>
+         <dct:creator>Layne N. Raborn</dct:creator>
+         <dct:creator>Kristen S. Pan</dct:creator>
+         <dct:creator>Edmond J. FitzGibbon</dct:creator>
+         <dct:creator>Michael T. Collins</dct:creator>
+         <dct:creator>Alison M. Boyce</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Papilledema</rdf:li>
+               <rdf:li>OSIRIX</rdf:li>
+               <rdf:li>Optic canal area</rdf:li>
+               <rdf:li>Retinal nerve fiber layer</rdf:li>
+               <rdf:li>Intracranial volume</rdf:li>
+               <rdf:li>Spectral-domain optical coherence tomography</rdf:li>
+               <rdf:li>3D multiplanar reconstruction</rdf:li>
+               <rdf:li>Optic neuropathy</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107449</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107449</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107449</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107449</dct:identifier>
+         <bam:articleNumber>107449</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-01T12:03:34Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107449</ja:aid>
+         <ce:article-number>107449</ce:article-number>
+         <ce:pii>S2352-3409(21)00731-9</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107449</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S8756-3282(20)30441-5</ce:pii>
+               <ce:doi>10.1016/j.bone.2020.115661</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Optic disc Edema in patients with fibrous dysplasia/McCune-Albright syndrome: Craniomorphometric analysis and peripapillary retinal nerve fiber layer data</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007319-6d03617d7aed1da9cde991632449bb04"
+                       orcid="0000-0001-6925-2677">
+               <ce:given-name>Layne N.</ce:given-name>
+               <ce:surname>Raborn</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007319-00404326e6abf688d02e040541e35c97">
+               <ce:given-name>Kristen S.</ce:given-name>
+               <ce:surname>Pan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007319-c0c5760d24a9067f1316a98330b835f9">
+               <ce:given-name>Edmond J.</ce:given-name>
+               <ce:surname>FitzGibbon</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007319-5074b0878bf00d30867a2e9a1dcb1d55">
+               <ce:given-name>Michael T.</ce:given-name>
+               <ce:surname>Collins</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921007319-984a247448ef78ff1dcfa8468df60ecf">
+               <ce:given-name>Alison M.</ce:given-name>
+               <ce:surname>Boyce</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:boyceam@mail.nih.gov">boyceam@mail.nih.gov</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007319-09d0368da663e4930a08088749d2a34f">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Skeletal Disorders and Mineral Homeostasis Section, National Institute of Dental and Craniofacial Research, National Institutes of Health, Bethesda, MD, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Skeletal Disorders and Mineral Homeostasis Section</sa:organization>
+                  <sa:organization>National Institute of Dental and Craniofacial Research</sa:organization>
+                  <sa:organization>National Institutes of Health</sa:organization>
+                  <sa:city>Bethesda</sa:city>
+                  <sa:state>MD, USA</sa:state>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aSkeletal Disorders and Mineral Homeostasis Section, National Institute of Dental and Craniofacial Research, National Institutes of Health, Bethesda, MD, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007319-a52077f622bb4a240565758c026d23d3">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Laboratory of Sensorimotor Research, National Eye Institute, National Institutes of Health, Bethesda, MD, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Sensorimotor Research</sa:organization>
+                  <sa:organization>National Eye Institute</sa:organization>
+                  <sa:organization>National Institutes of Health</sa:organization>
+                  <sa:city>Bethesda</sa:city>
+                  <sa:state>MD</sa:state>
+                  <sa:country>, USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bLaboratory of Sensorimotor Research, National Eye Institute, National Institutes of Health, Bethesda, MD, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="23" month="4" year="2021"/>
+         <ce:date-revised day="4" month="7" year="2021"/>
+         <ce:date-accepted day="30" month="9" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara016" view="all">This article reports quantitative measurements of intracranial volume, optic canal area, and peripapillary retinal nerve fiber layer (RNFL) for a cohort of 124 patients with craniofacial fibrous dysplasia/McCune-Albright Syndrome (FD/MAS), previously used to determine risks for developing optic disc edema [1]. Of these, 7 subjects were diagnosed with optic disc edema. OSIRIX imaging analysis software was used to collect intracranial volume and optic canal diameter for 107 patients, via 3D multiplanar reconstruction (MPR) of ≤5 mm axial CT slices. Spectral-domain Optical Coherence Tomography (OCT) was performed with the Cirrus-HD OCT (Carl Zeiss Meditec, Inc., Dublin, CA). The Optic Disc Cube 200 × 200 protocol was used for acquisition and analysis of the RNFL for 69 patients. The data can be used to assess typical ranges for intracranial volume, optic canal area, and RNFL in the craniofacial FD/MAS population and to assess ranges concerning for optic disc edema.</ce:simple-para>
+               <ce:simple-para id="spara017" view="all">[1] Raborn LN, Pan KS, FitzGibbon EJ, Collins MT, Boyce AM. Optic disc edema in fibrous dysplasia/McCune-Albright syndrome: Prevalence, etiologies, and clinical implications. Bone. 2021 Feb;143:115661. doi: 10.1016/j.bone.2020.115661. Epub 2020 Sep 24. PMID: <ce:inter-ref id="interref0001" xlink:href="pmid:32979536" xlink:type="simple">32979536</ce:inter-ref>.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Papilledema</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001a">
+               <ce:text id="cetext0002a">OSIRIX</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001b">
+               <ce:text id="cetext0002b">Optic canal area</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001c">
+               <ce:text id="cetext0002c">Retinal nerve fiber layer</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001d">
+               <ce:text id="cetext0002d">Intracranial volume</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001e">
+               <ce:text id="cetext0002e">Spectral-domain optical coherence tomography</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001f">
+               <ce:text id="cetext0002f">3D multiplanar reconstruction</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001g">
+               <ce:text id="cetext0002g">Optic neuropathy</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

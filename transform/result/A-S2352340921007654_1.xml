@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107484">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Imaging data reveal divergent longitudinal trajectories in PLS, ALS and poliomyelitis survivors: Group-level and single-subject traits</dct:title>
+         <dct:creator>Marlene Tahedl</dct:creator>
+         <dct:creator>Stacey Li Hi Shing</dct:creator>
+         <dct:creator>Eoin Finegan</dct:creator>
+         <dct:creator>Rangariroyashe H. Chipika</dct:creator>
+         <dct:creator>Jasmin Lope</dct:creator>
+         <dct:creator>Aizuri Murad</dct:creator>
+         <dct:creator>Orla Hardiman</dct:creator>
+         <dct:creator>Peter Bede</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Motor neuron disease</rdf:li>
+               <rdf:li>Amyotrophic lateral sclerosis</rdf:li>
+               <rdf:li>Primary lateral sclerosis</rdf:li>
+               <rdf:li>Poliomyelitis</rdf:li>
+               <rdf:li>Neuroimaging</rdf:li>
+               <rdf:li>Clinical trials</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107484</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107484</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107484</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107484</dct:identifier>
+         <bam:articleNumber>107484</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-12T14:29:50Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Ireland institutions 2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107484</ja:aid>
+         <ce:article-number>107484</ce:article-number>
+         <ce:pii>S2352-3409(21)00765-4</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107484</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0197-4580(21)00306-7</ce:pii>
+               <ce:doi>10.1016/j.neurobiolaging.2021.04.031</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Imaging data reveal divergent longitudinal trajectories in PLS, ALS and poliomyelitis survivors: Group-level and single-subject traits</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007654-c68555de7db932c7aac0a8d19c8c3155"
+                       orcid="0000-0003-1762-4824">
+               <ce:given-name>Marlene</ce:given-name>
+               <ce:surname>Tahedl</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007654-b04777a5d4fa97b252b9e881878c0e84">
+               <ce:given-name>Stacey</ce:given-name>
+               <ce:surname>Li Hi Shing</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007654-bc1154b0006823249668fbd5ba5b0302">
+               <ce:given-name>Eoin</ce:given-name>
+               <ce:surname>Finegan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007654-caa7f887d0ab958b8febdaa0c4282f96">
+               <ce:given-name>Rangariroyashe H.</ce:given-name>
+               <ce:surname>Chipika</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921007654-fa9ae8ec9f6614b4a330dbce4480d250">
+               <ce:given-name>Jasmin</ce:given-name>
+               <ce:surname>Lope</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921007654-9d18cf9438b880eaa8512a343bec99ce">
+               <ce:given-name>Aizuri</ce:given-name>
+               <ce:surname>Murad</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921007654-e43d5de7e540c7071553a9120a13b938">
+               <ce:given-name>Orla</ce:given-name>
+               <ce:surname>Hardiman</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921007654-bee502e5d5e2e4ca5cb7c9b425dabd16">
+               <ce:given-name>Peter</ce:given-name>
+               <ce:surname>Bede</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:bedep@tcd.ie">bedep@tcd.ie</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007654-34b8db1c939acc49e67a1297da39ad45">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Computational Neuroimaging Group, Trinity Biomedical Sciences Institute, Trinity College Dublin, Pearse Street Room 5.43, Dublin, Ireland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Computational Neuroimaging Group</sa:organization>
+                  <sa:organization>Trinity Biomedical Sciences Institute</sa:organization>
+                  <sa:organization>Trinity College Dublin</sa:organization>
+                  <sa:address-line>Pearse Street Room 5.43</sa:address-line>
+                  <sa:city>Dublin</sa:city>
+                  <sa:country>Ireland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aComputational Neuroimaging Group, Trinity Biomedical Sciences Institute, Trinity College Dublin, Pearse Street Room 5.43, Dublin, Ireland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007654-588cb314dd8af801e8baddd06ade5f83">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Psychiatry and Psychotherapy and Institute for Psychology, University of Regensburg, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Psychiatry and Psychotherapy and Institute for Psychology</sa:organization>
+                  <sa:organization>University of Regensburg</sa:organization>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Psychiatry and Psychotherapy and Institute for Psychology, University of Regensburg, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921007654-500caff2e78906ad9eeb98a341a37df9">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Pitié-Salpêtrière University Hospital, Sorbonne University, Paris, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Pitié-Salpêtrière University Hospital</sa:organization>
+                  <sa:organization>Sorbonne University</sa:organization>
+                  <sa:city>Paris</sa:city>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cPitié-Salpêtrière University Hospital, Sorbonne University, Paris, France</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Computational Neuroimaging Group, Trinity Biomedical Sciences Institute, Trinity College Dublin, Pearse Street Room 5.43, Dublin, Ireland.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Computational Neuroimaging Group</sa:organization>
+                  <sa:organization>Trinity Biomedical Sciences Institute</sa:organization>
+                  <sa:organization>Trinity College Dublin</sa:organization>
+                  <sa:address-line>Pearse Street Room 5.43</sa:address-line>
+                  <sa:city>Dublin</sa:city>
+                  <sa:country>Ireland</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="24" month="8" year="2021"/>
+         <ce:date-revised day="28" month="9" year="2021"/>
+         <ce:date-accepted day="11" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">Imaging profiles from a longitudinal single-centre motor neuron disease study are presented. A standardized T1-weighted MRI protocol was implemented to characterise cortical disease burden trajectories across the UMN (upper motor neuron) - LMN (lower motor neuron) spectrum of motor neuron diseases (MNDs) (Tahedl et al., 2021). Patients with amyotrophic lateral sclerosis (ALS <ce:italic>n</ce:italic> = 61), patients with primary lateral sclerosis (PLS <ce:italic>n</ce:italic> = 23) and poliomyelitis survivors (PMS <ce:italic>n</ce:italic> = 45) were included. Up to four longitudinal scans were available for each patient, separated by an inter-scan-interval of four months. Individual and group-level cortical thickness profiles were appraised using a normalisation procedure with reference to subject-specific control groups. A <ce:italic>z</ce:italic>-scoring approach was utilised, where each patients’ cortex was first segmented into 1000 cortical regions, and then rated as ‘thin’, ‘thick’, or ‘comparable’ to the corresponding region of a demographically-matched control cohort. Fractions of significantly ‘thin’ and ‘thick’ patches were calculated across the entire cerebral vertex as well as in specific brain regions, such as the motor cortex, parietal, frontal and temporal cortices. This approach allows the characterisation of disease burden in individual subjects as well as at a group-level, both cross-sectionally and longitudinally. The presented framework may aid the interpretation of individual cortical disease burden in other patient cohorts.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Motor neuron disease</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Amyotrophic lateral sclerosis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Primary lateral sclerosis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Poliomyelitis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Neuroimaging</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Clinical trials</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

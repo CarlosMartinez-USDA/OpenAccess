@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107746">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Data on the soil and vegetation properties at the small gully catchment area: Steppe region of Kalmykia Republic (South Russia)</dct:title>
+         <dct:creator>Ivan N. Semenkov</dct:creator>
+         <dct:creator>Maria V. Konyushkova</dct:creator>
+         <dct:creator>Galya V. Klink</dct:creator>
+         <dct:creator>Victoria V. Krupskaya</dct:creator>
+         <dct:creator>Polina R. Enchilik</dct:creator>
+         <dct:creator>Nina M. Novikova</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Heavy metals</rdf:li>
+               <rdf:li>Semi-arid landscapes</rdf:li>
+               <rdf:li>Salt-effected soils</rdf:li>
+               <rdf:li>Partitioning</rdf:li>
+               <rdf:li>Fractionation</rdf:li>
+               <rdf:li>Black soils</rdf:li>
+               <rdf:li>Plant communities</rdf:li>
+               <rdf:li>Above ground phytomass</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107746</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107746</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107746</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107746</dct:identifier>
+         <bam:articleNumber>107746</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-21T19:03:56Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Russia: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107746</ja:aid>
+         <ce:article-number>107746</ce:article-number>
+         <ce:pii>S2352-3409(21)01021-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107746</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Data on the soil and vegetation properties at the small gully catchment area: Steppe region of Kalmykia Republic (South Russia)</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010210-f063f9fec78e71de5ce9e4dd875d9e73">
+               <ce:given-name>Ivan N.</ce:given-name>
+               <ce:surname>Semenkov</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:semenkov@geogr.msu.ru">semenkov@geogr.msu.ru</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010210-01792e742ad35b298a020d9c59e7e39f">
+               <ce:given-name>Maria V.</ce:given-name>
+               <ce:surname>Konyushkova</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010210-705ba58cee96fe8afb999821350cfda4">
+               <ce:given-name>Galya V.</ce:given-name>
+               <ce:surname>Klink</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010210-866216dcf6f3ba2ca69e71f448c99495">
+               <ce:given-name>Victoria V.</ce:given-name>
+               <ce:surname>Krupskaya</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921010210-a97f50e70b2c06970c06dbd05bac1b81">
+               <ce:given-name>Polina R.</ce:given-name>
+               <ce:surname>Enchilik</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921010210-a8041a56b6340b2f595b08ab8a0cb972">
+               <ce:given-name>Nina M.</ce:given-name>
+               <ce:surname>Novikova</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010210-85f87d8582b1fd2025944bf85aa2dc37">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Lomonosov Moscow State University, Leninskie gory st. 1, Moscow 119991, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Lomonosov Moscow State University</sa:organization>
+                  <sa:address-line>Leninskie gory st. 1</sa:address-line>
+                  <sa:city>Moscow</sa:city>
+                  <sa:postal-code>119991</sa:postal-code>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aLomonosov Moscow State University, Leninskie gory st. 1, Moscow 119991, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010210-f64d514420775b3fe0feedc82096c044">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Institute for Information Transmission Problems Kharkevich Institute of the Russian Academy of Sciences, Bolshoy Karetny per. 19-1, Moscow 127051, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute for Information Transmission Problems Kharkevich Institute of the Russian Academy of Sciences</sa:organization>
+                  <sa:address-line>Bolshoy Karetny per. 19-1</sa:address-line>
+                  <sa:city>Moscow</sa:city>
+                  <sa:postal-code>127051</sa:postal-code>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bInstitute for Information Transmission Problems Kharkevich Institute of the Russian Academy of Sciences, Bolshoy Karetny per. 19-1, Moscow 127051, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010210-bd6036c4dc2836a31e9cd055ca1441ec">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Institute of Geology of Ore Deposits, Petrography, Mineralogy and Geochemistry of the Russian Academy of Sciences, Staromonetny per. 35, Moscow 119017, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Geology of Ore Deposits</sa:organization>
+                  <sa:organization>Petrography</sa:organization>
+                  <sa:organization>Mineralogy and Geochemistry of the Russian Academy of Sciences</sa:organization>
+                  <sa:address-line>Staromonetny per. 35</sa:address-line>
+                  <sa:city>Moscow</sa:city>
+                  <sa:postal-code>119017</sa:postal-code>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cInstitute of Geology of Ore Deposits, Petrography, Mineralogy and Geochemistry of the Russian Academy of Sciences, Staromonetny per. 35, Moscow 119017, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921010210-2071d12f70371bc1021359a80d0c38e7">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Water Problems Institute of the Russian Academy of Sciences, Gubkina st. 3, Moscow 119333, Russia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Water Problems Institute of the Russian Academy of Sciences</sa:organization>
+                  <sa:address-line>Gubkina st. 3</sa:address-line>
+                  <sa:city>Moscow</sa:city>
+                  <sa:postal-code>119333</sa:postal-code>
+                  <sa:country>Russia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dWater Problems Institute of the Russian Academy of Sciences, Gubkina st. 3, Moscow 119333, Russia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="23" month="11" year="2021"/>
+         <ce:date-revised day="15" month="12" year="2021"/>
+         <ce:date-accepted day="20" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara023" view="all">In rural areas, research on the environment in native (untaught) soils is important to understand the rate of pedogenesis and to prevent the problems associated with hidden huger. In this article, original data on vegetation, chemical properties and elemental and mineralogical composition of Kastanozems (Protosalic, Siltic) and Hypersalic Solonetz (Siltic) of the small gully catchment (2 ha in total) located at the NE Ergeni Upland (Western Kalmykia, Russia) were presented. Vegetation was described and cut off (to characterize an aboveground biomass) at 13 key plots of 1 × 1 m. The list of species of the small gully catchment area amounts to 23 species (predominantly, perennial herbs) belonging to 13 families and 11 orders. The main dominants <ce:italic>are Artemisia lerchiana, A. austriaca, Festuca valesiaca</ce:italic> and <ce:italic>Poa bulbosa</ce:italic>. Soils were described and sampled in 11 cross-sections and two key plots (0 – 10 cm topsoil sampling). In soil water extracts (79 samples in total), electrical conductivity (EC) and pH were measured. In soil samples, particle size distribution, soil organic carbon and CaCO<ce:inf loc="post">3</ce:inf> contents, total concentration of all the macro elements, some trace (Cl, Nb, Rb, Th, Y, Zr) and potentially toxic elements (As, Co, Cr, Cu, Ni, Pb, Sr, V, and Zn) were described. Moreover, the concentration of three mobile fractions of elements (Li, Be, B, Na, Mg, Al, Si, P, S, K, Ca, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Sr, Ba, Cd, Pb) measured using Inductively Coupled Plasma Atomic Emission Spectrometry (AES-ICP) was presented. Geochemical indexes of weathering (R – Silica/Alumina, CIW – Chemical Index of Weathering, CIA - Chemical Index of Alteration, WIP – Weathering Index of Parker, PWI –Product of Weathering Index, Vogt Ratio, PIA – Plagioclase Index of Alteration, STI – Silica-Titanium Index, B/A – Bases/Alumina, B/R – Bases/R<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, Si/R - Silica/R<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, Weathering indexes WI-1 and WI-2, Si/Ses – Silica/Sesquioxides, Si/Fe – Silica/Iron, a – Potassium/Sodium, ba-1 – (Potassium-Sodium)/Alumina, ba-2 – (Calcium-Magnesium)/Alumina, Ba – (Potassium-Sodium-Calcium)/Alumina) were calculated. In 12 bulk soil samples from Kastanozems and Solonetz, mineralogy (X-Ray diffractometry, the Rietveld full-pattern fitting method for quantitative analysis) was described. Data obtained can be used for more confident identification of pollution sources and pollutants’ migration routes, as well as for more effective land-use management, calculating the required doses of nutrients and for adaptation of land use.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Heavy metals</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Semi-arid landscapes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Salt-effected soils</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Partitioning</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Fractionation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Black soils</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Plant communities</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Above ground phytomass</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

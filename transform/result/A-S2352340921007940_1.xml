@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107518">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Multicultural classroom discourse dataset on teachers’ and students’ dialogic empathy</dct:title>
+         <dct:creator>Chrysi Rapanta</dct:creator>
+         <dct:creator>Cláudia Gonçalves</dct:creator>
+         <dct:creator>João Rui Pereira</dct:creator>
+         <dct:creator>Dilar Cascalheira</dct:creator>
+         <dct:creator>Beatriz Gil</dct:creator>
+         <dct:creator>Rita Morais</dct:creator>
+         <dct:creator>Anna Čermáková</dct:creator>
+         <dct:creator>Julia Peck</dct:creator>
+         <dct:creator>Benjamin Brummernhenrich</dct:creator>
+         <dct:creator>Regina Jucks</dct:creator>
+         <dct:creator>Mercè Garcia-Milà</dct:creator>
+         <dct:creator>Andrea Miralda-Banda</dct:creator>
+         <dct:creator>José Luna</dct:creator>
+         <dct:creator>Maria Vrikki</dct:creator>
+         <dct:creator>Maria Evagorou</dct:creator>
+         <dct:creator>Fabrizio Macagno</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Classroom discourse</rdf:li>
+               <rdf:li>Dialogic empathy</rdf:li>
+               <rdf:li>Multicultural data</rdf:li>
+               <rdf:li>Intercultural pragmatics</rdf:li>
+               <rdf:li>Dialogicity</rdf:li>
+               <rdf:li>Relevance</rdf:li>
+               <rdf:li>Dialogue moves</rdf:li>
+               <rdf:li>Cross-sectional analysis</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107518</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107518</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107518</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107518</dct:identifier>
+         <bam:articleNumber>107518</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-22T18:15:14Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Portugal Institutes</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107518</ja:aid>
+         <ce:article-number>107518</ce:article-number>
+         <ce:pii>S2352-3409(21)00794-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107518</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Multicultural classroom discourse dataset on teachers’ and students’ dialogic empathy</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007940-b46ca838262db7182beb34e898a41865"
+                       orcid="0000-0002-9424-3286">
+               <ce:given-name>Chrysi</ce:given-name>
+               <ce:surname>Rapanta</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:crapanta@fcsh.unl.pt">crapanta@fcsh.unl.pt</ce:e-address>
+               <ce:e-address id="ea3a"
+                             type="social-media"
+                             xlink:href="https://twitter.com/dialls2020">@dialls2020</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007940-3621e74cce37ac921e63505d7e345127">
+               <ce:given-name>Cláudia</ce:given-name>
+               <ce:surname>Gonçalves</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007940-84589e011c3c038bb8c81bdee161d57b"
+                       orcid="0000-0002-4376-4997">
+               <ce:given-name>João Rui</ce:given-name>
+               <ce:surname>Pereira</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007940-fb72b03fcdb4c3bc7b87a72dd63aa527"
+                       orcid="0000-0001-7607-9761">
+               <ce:given-name>Dilar</ce:given-name>
+               <ce:surname>Cascalheira</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921007940-7a7049bf80b4cb11805d29bac331378a">
+               <ce:given-name>Beatriz</ce:given-name>
+               <ce:surname>Gil</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921007940-1ef68bd2ed97daf412af6f948100d85d"
+                       orcid="0000-0003-0043-8785">
+               <ce:given-name>Rita</ce:given-name>
+               <ce:surname>Morais</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921007940-9d02028658408d6737e6720cfd803c1c"
+                       orcid="0000-0001-8597-520X">
+               <ce:given-name>Anna</ce:given-name>
+               <ce:surname>Čermáková</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921007940-57ae0115a4be03c004b791443bc806ea"
+                       orcid="0000-0002-1309-9068">
+               <ce:given-name>Julia</ce:given-name>
+               <ce:surname>Peck</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921007940-174ad5da3fa45f97745d01288bfdfeee"
+                       orcid="0000-0002-5680-9170">
+               <ce:given-name>Benjamin</ce:given-name>
+               <ce:surname>Brummernhenrich</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2352340921007940-d3e49499773eb911691e4364193892d5">
+               <ce:given-name>Regina</ce:given-name>
+               <ce:surname>Jucks</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0011"
+                       author-id="S2352340921007940-2dfe24716ab020128b28c4901014a053">
+               <ce:given-name>Mercè</ce:given-name>
+               <ce:surname>Garcia-Milà</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0012"
+                       author-id="S2352340921007940-81b3fb0cc64620deb905723e6bff0b14">
+               <ce:given-name>Andrea</ce:given-name>
+               <ce:surname>Miralda-Banda</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0013"
+                       author-id="S2352340921007940-979e838fc73be259ddc3ad700e5271bd"
+                       orcid="0000-0002-4539-6163">
+               <ce:given-name>José</ce:given-name>
+               <ce:surname>Luna</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0014"
+                       author-id="S2352340921007940-3bdc8404fc6a53bbafbfbfcf073e97eb"
+                       orcid="0000-0002-2748-4418">
+               <ce:given-name>Maria</ce:given-name>
+               <ce:surname>Vrikki</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0015"
+                       author-id="S2352340921007940-8783ff793c0bfa1508963188ab5c6c77"
+                       orcid="0000-0002-1299-946X">
+               <ce:given-name>Maria</ce:given-name>
+               <ce:surname>Evagorou</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0016"
+                       author-id="S2352340921007940-d8ad8dcdbaa44657e9c778aba5e392f8"
+                       orcid="0000-0003-0712-421X">
+               <ce:given-name>Fabrizio</ce:given-name>
+               <ce:surname>Macagno</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007940-4aa6cd52eb23ee65837f62f7cffc521d">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Faculty of Social Sciences and Humanities, Universidade NOVA de Lisboa, Avenida de Berna 26, 1069-061, Lisbon, Portugal</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Social Sciences and Humanities</sa:organization>
+                  <sa:organization>Universidade NOVA de Lisboa</sa:organization>
+                  <sa:address-line>Avenida de Berna 26</sa:address-line>
+                  <sa:city>Lisbon</sa:city>
+                  <sa:postal-code>1069-061</sa:postal-code>
+                  <sa:country>Portugal</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aFaculty of Social Sciences and Humanities, Universidade NOVA de Lisboa, Avenida de Berna 26, 1069-061, Lisbon, Portugal</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007940-2850ffa951f7e3ee952a03d1d801e7d0">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Faculty of Education, University of Cambridge, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Education</sa:organization>
+                  <sa:organization>University of Cambridge</sa:organization>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bFaculty of Education, University of Cambridge, UK</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921007940-af8416872092fd16e52eb838168902c0">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Institute of Psychology for Education, University of Münster, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Psychology for Education</sa:organization>
+                  <sa:organization>University of Münster</sa:organization>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cInstitute of Psychology for Education, University of Münster, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921007940-7b9669ebe2e6fc4c350089a6747e1196">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Cognition, Development and Educational Psychology Department, University of Barcelona, Spain</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Cognition, Development and Educational Psychology Department</sa:organization>
+                  <sa:organization>University of Barcelona</sa:organization>
+                  <sa:country>Spain</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dCognition, Development and Educational Psychology Department, University of Barcelona, Spain</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921007940-c72709da44423f85f9f4e964af9bafd6">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Department of Education, University of Nicosia, Cyprus</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Education</sa:organization>
+                  <sa:organization>University of Nicosia</sa:organization>
+                  <sa:country>Cyprus</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eDepartment of Education, University of Nicosia, Cyprus</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="11" month="7" year="2021"/>
+         <ce:date-revised day="19" month="10" year="2021"/>
+         <ce:date-accepted day="22" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">This dataset belongs to a large-scale educational intervention project introducing cultural literacy learning in schools. The dataset includes transcribed dialogic interactions from 111 lessons conducted in classrooms of five countries: England, Portugal, Germany, Spain, and Cyprus. The lessons were part of the same Cultural Literacy Learning Programme made available to teachers from three age groups (pre-primary, primary, secondary) to implement with their ordinary classes during ten sessions. The data are from the third and eighth sessions and followed the same structure, content, and objectives. As the main goal of the project to which the dataset belongs was on cultural literacy learning, understood as dialogic dispositions and values, the data were coded according to a Dialogic Empathy coding scheme presented in detail in Macagno et al. (2020). This rich multicultural, and multilinguistic, dataset is offered for further analysis by different types of researchers, such as linguists interested in intercultural pragmatics or educational psychologists interested in cross-sectional studies of dialogue and reasoning skills.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Classroom discourse</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Dialogic empathy</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Multicultural data</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Intercultural pragmatics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Dialogicity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Relevance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Dialogue moves</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Cross-sectional analysis</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fsiae.2022.100042">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Forensic science and environmental offences: Litter, DNA analysis and surveillance</dct:title>
+         <dct:creator>Tersia Oosthuizen</dct:creator>
+         <dct:creator>Loene M. Howes</dct:creator>
+         <dct:creator>Rob White</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Litter</rdf:li>
+               <rdf:li>Environmental harm</rdf:li>
+               <rdf:li>Forensic DNA analysis</rdf:li>
+               <rdf:li>DNA phenotyping</rdf:li>
+               <rdf:li>Surveillance</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Forensic Science International: Animals and Environments 2 (2022). doi:10.1016/j.fsiae.2022.100042</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Forensic Science International: Animals and Environments</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2666-9374</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:coverDisplayDate>December 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fsiae.2022.100042</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fsiae.2022.100042</prism:url>
+         <dct:identifier>doi:10.1016/j.fsiae.2022.100042</dct:identifier>
+         <bam:articleNumber>100042</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-25T01:53:36Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Australian and New Zealand Institutes</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="sco" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>FSIAE</ja:jid>
+         <ja:aid>100042</ja:aid>
+         <ce:article-number>100042</ce:article-number>
+         <ce:pii>S2666-9374(22)00002-6</ce:pii>
+         <ce:doi>10.1016/j.fsiae.2022.100042</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="doc0005">
+            <ce:textfn>Commentary</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tit0005">Forensic science and environmental offences: Litter, DNA analysis and surveillance</ce:title>
+         <ce:author-group id="ag0005">
+            <ce:author id="au0005"
+                       author-id="S2666937422000026-f85d07f25d8991aa4b92236b4cfeadaa">
+               <ce:given-name>Tersia</ce:given-name>
+               <ce:surname>Oosthuizen</ce:surname>
+               <ce:cross-ref refid="cor1">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="eadd0005"
+                             type="email"
+                             xlink:href="mailto:Tersia.Oosthuizen@utas.edu.au">Tersia.Oosthuizen@utas.edu.au</ce:e-address>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2666937422000026-bd1d12b4b3f7a9f8cfff4e45360a25f8">
+               <ce:given-name>Loene M.</ce:given-name>
+               <ce:surname>Howes</ce:surname>
+               <ce:e-address id="eadd0010"
+                             type="email"
+                             xlink:href="mailto:Loene.Howes@utas.edu.au">Loene.Howes@utas.edu.au</ce:e-address>
+            </ce:author>
+            <ce:author id="au0015"
+                       author-id="S2666937422000026-a5230c0c64bc39bcec192432d08a3fc0">
+               <ce:given-name>Rob</ce:given-name>
+               <ce:surname>White</ce:surname>
+               <ce:e-address id="eadd0015"
+                             type="email"
+                             xlink:href="mailto:R.D.White@utas.edu.au">R.D.White@utas.edu.au</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2666937422000026-20beaca4476495de636285c3632f4f31">
+               <ce:textfn>School of Social Sciences, College of Arts, Law and Education, University of Tasmania, Private Bag 22, Hobart 7001, Tasmania, Australia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Social Sciences, College of Arts, Law and Education, University of Tasmania</sa:organization>
+                  <sa:address-line>Private Bag 22</sa:address-line>
+                  <sa:city>Hobart</sa:city>
+                  <sa:state>Tasmania</sa:state>
+                  <sa:postal-code>7001</sa:postal-code>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0010">Private Bag 22, Hobart 7001, Tasmania, Australia, School of Social Sciences, College of Arts, Law and Education, University of Tasmania</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor1">
+               <ce:label>⁎</ce:label>
+               <ce:text>Correspondence to: Private Bag 22, Hobart 7001, Tasmania, Australia.</ce:text>
+               <sa:affiliation>
+                  <sa:address-line>Private Bag 22</sa:address-line>
+                  <sa:city>Hobart</sa:city>
+                  <sa:state>Tasmania</sa:state>
+                  <sa:postal-code>7001</sa:postal-code>
+                  <sa:country>Australia</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="30" month="11" year="2021"/>
+         <ce:date-accepted day="24" month="1" year="2022"/>
+         <ce:abstract id="ab0010" class="author" view="all">
+            <ce:section-title id="sect0005">Abstract</ce:section-title>
+            <ce:abstract-sec id="abs0010" view="all">
+               <ce:simple-para id="sp0005" view="all">Items of litter such as chewing gum, cigarette butts, and dog droppings are each small but collectively have considerable negative environmental impacts. Accordingly, governments at all levels have used media campaigns to raise awareness of the environmental issues associated with litter in efforts to prevent its proliferation. In a similar vein, artists have developed thought-provoking works about waste and litter, including some about the potential to identify litter culprits through DNA analysis. In a case of life imitating art, recent advances in DNA analysis techniques make possible a range of ways in which DNA taken from litter could be used, including for purposes of social regulation. This article discusses examples of the use of litter as a source of DNA for analysis and the resulting genetic surveillance. In doing so, it raises questions about proportionality and justifications for such uses of DNA analysis techniques in regard to regulation and enforcement objectives, with particular concerns about permissions, privacy and the public interest.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0005" class="keyword" view="all">
+            <ce:section-title id="sect0010">Keywords</ce:section-title>
+            <ce:keyword id="key0005">
+               <ce:text>Litter</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0010">
+               <ce:text>Environmental harm</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0015">
+               <ce:text>Forensic DNA analysis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0020">
+               <ce:text>DNA phenotyping</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0025">
+               <ce:text>Surveillance</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>LCMS dataset on compounds in Syzygium polyanthum (Wight) Walp. leaves variant from the East coast of Peninsular Malaysia</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">T.A. Faiz T.</namePart>
+      <namePart type="family">Anuar</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7662-3971</nameIdentifier>
+      <displayForm>Anuar, T.A. Faiz T.</displayForm>
+      <affiliation>Department of Chemistry, Kulliyyah of Science, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Azlini</namePart>
+      <namePart type="family">Ismail</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8941-540X</nameIdentifier>
+      <displayForm>Ismail, Azlini</displayForm>
+      <affiliation>Department of Fundamental Dental and Medical Sciences, Kulliyah of Dentistry, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Izzat Fahimuddin</namePart>
+      <namePart type="family">Mohamed Suffian</namePart>
+      <displayForm>Mohamed Suffian, Izzat Fahimuddin</displayForm>
+      <affiliation>Department of Pharmaceutical Chemistry, Kulliyyah of Pharmacy, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Azzmer Azzar</namePart>
+      <namePart type="family">Abdul Hamid</namePart>
+      <displayForm>Abdul Hamid, Azzmer Azzar</displayForm>
+      <affiliation>Department of Biotechnology, Kulliyyah of Science, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mohd Hafiz</namePart>
+      <namePart type="family">Arzmi</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9470-6412</nameIdentifier>
+      <displayForm>Arzmi, Mohd Hafiz</displayForm>
+      <affiliation>Department of Fundamental Dental and Medical Sciences, Kulliyah of Dentistry, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Muhammad Nor</namePart>
+      <namePart type="family">Omar</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3094-717X</nameIdentifier>
+      <displayForm>Omar, Muhammad Nor</displayForm>
+      <affiliation>Department of Biotechnology, Kulliyyah of Science, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The data presented here is the liquid chromatography and mass spectrometry (LC-MS) profile of phytochemical compounds in the aqueous extract of Syzygium polyanthum (Wight) Walp. leaves. This plant is consumed raw and sometimes added to local dishes of people in Southeast Asia countries. Most importantly, it has ethnomedicinal values mainly in treating diabetes and hypertension, and at the same time, this plant has anti-microbial, anti-oxidant, anti-cancer, and anti-tumor properties [1]. There are chemical composition variations reported between the same species of different geographical locations, which eventually affect the plant's therapeutic potential [2,3]. This dataset represents the identified compounds for S. polyanthum (Wight) Walp. leaves, a variant collected from Kuantan, a city located in the Pahang state on the East Coast of Peninsular Malaysia. The leaves were then dried in an open-air at room temperature for three weeks, ground, and then macerated in water inside a bath-sonicator, freeze-dried, and then run using LCMS. The LCMS was run using the ultra-performance liquid chromatography equipped with an electrospray time-of-flight mass spectrometer detector, operated in a negative-ion mode. The mass spectral features from samples raw data were matched with Traditional Medicine (en) and Waters Screening libraries in the Waters UNIFI™ Scientific Information System software version 1.7 (Waters, USA) for compounds identification. </abstract>
+   <subject>
+      <topic>Syzygium polyanthum</topic>
+   </subject>
+   <subject>
+      <topic>LCMS</topic>
+   </subject>
+   <subject>
+      <topic>Serai kayu</topic>
+   </subject>
+   <subject>
+      <topic>Salam</topic>
+   </subject>
+   <subject>
+      <topic>Traditional plant</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107485</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107485</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107485</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00766-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007666/S2352340921007666.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

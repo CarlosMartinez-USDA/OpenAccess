@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on annotated approximate bilaterally symmetric leaf-off trees based on particle flow simulation and predefined tree crown shape</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Štefan</namePart>
+      <namePart type="family">Kohek</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6210-0889</nameIdentifier>
+      <displayForm>Kohek, Štefan</displayForm>
+      <affiliation>Faculty of Electrical Engineering and Computer Science, University of Maribor, Maribor, Slovenia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Niko</namePart>
+      <namePart type="family">Lukač</namePart>
+      <displayForm>Lukač, Niko</displayForm>
+      <affiliation>Faculty of Electrical Engineering and Computer Science, University of Maribor, Maribor, Slovenia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Damjan</namePart>
+      <namePart type="family">Strnad</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4468-0290</nameIdentifier>
+      <displayForm>Strnad, Damjan</displayForm>
+      <affiliation>Faculty of Electrical Engineering and Computer Science, University of Maribor, Maribor, Slovenia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ivana</namePart>
+      <namePart type="family">Kolingerova</namePart>
+      <displayForm>Kolingerova, Ivana</displayForm>
+      <affiliation>Faculty of Applied Sciences, University of West Bohemia, Plzen, Czech Republic</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Borut</namePart>
+      <namePart type="family">Žalik</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4372-5020</nameIdentifier>
+      <displayForm>Žalik, Borut</displayForm>
+      <affiliation>Faculty of Electrical Engineering and Computer Science, University of Maribor, Maribor, Slovenia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Trees are natural objects, where deviations through the branches amplify geometric data for 3D representation and bring challenges to various applications dealing with 3D models, such as compression, visualization, symmetry detection, and radiative transfer simulation. This data article describes dataset of approximately symmetric 3D tree models with manually identified predominant symmetry plane in each tree model. Parameters for procedural tree synthesis were manually adjusted to produce approximately bilaterally symmetric trees which are grouped into species with distinct features. In the last step, each tree was manually annotated with approximate symmetry plane. This dataset contains geometric data of branches, manually defined parameters for tree synthesis method, point clouds, and a division plane with a score of bilateral symmetry strength. The generated trees can be used as benchmark data for verification of approximate reflectional symmetry detection methods. Additionally, generated 3D tree models can be used for other applications requiring pregenerated trees, such as compression of tree models, instancing, decimation methods, and radiative transfer simulation and modeling. </abstract>
+   <subject>
+      <topic>Approximate symmetry</topic>
+   </subject>
+   <subject>
+      <topic>Symmetry detection</topic>
+   </subject>
+   <subject>
+      <topic>Tree synthesis</topic>
+   </subject>
+   <subject>
+      <topic>3D tree modeling</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107806</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107806</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107806</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00018-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-06"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S235234092200018X/S235234092200018X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

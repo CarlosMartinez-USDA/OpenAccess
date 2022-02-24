@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100032">
+         <dct:format>application/xml</dct:format>
+         <dct:title>The modulatory effect of guar gum on freeze-thaw stability of cooked oat roll</dct:title>
+         <dct:creator>Yvyuan Gong</dct:creator>
+         <dct:creator>Rui Dong</dct:creator>
+         <dct:creator>Kailong Zhang</dct:creator>
+         <dct:creator>Yuwei Li</dct:creator>
+         <dct:creator>Xinzhong Hu</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Cooked oat roll</rdf:li>
+               <rdf:li>Freeze-thaw cycles</rdf:li>
+               <rdf:li>Guar gum</rdf:li>
+               <rdf:li>Water</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health 1 (2021). doi:10.1016/j.fhfh.2021.100032</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fhfh.2021.100032</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100032</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100032</dct:identifier>
+         <bam:articleNumber>100032</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-09-20T13:31:04Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>China Institutes Tracking agreement</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100032</ja:aid>
+         <ce:article-number>100032</ce:article-number>
+         <ce:pii>S2667-0259(21)00024-8</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100032</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">The modulatory effect of guar gum on freeze-thaw stability of cooked oat roll</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025921000248-6ddf113f6296e580dc773c8be4810440">
+               <ce:given-name>Yvyuan</ce:given-name>
+               <ce:surname>Gong</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025921000248-8ffebc62f66c5e159e7c1cbcdd7aa511">
+               <ce:given-name>Rui</ce:given-name>
+               <ce:surname>Dong</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667025921000248-21d20753b9f74a80212fd986d8caea3b">
+               <ce:given-name>Kailong</ce:given-name>
+               <ce:surname>Zhang</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667025921000248-cbf5c8577eb2233f678a2a4106430af3">
+               <ce:given-name>Yuwei</ce:given-name>
+               <ce:surname>Li</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667025921000248-6b33c51126b5732b8819d58af228eb5e">
+               <ce:given-name>Xinzhong</ce:given-name>
+               <ce:surname>Hu</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:hxinzhong@snnu.edu.cn">hxinzhong@snnu.edu.cn</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025921000248-627e0f4a30c666ae1710933009116d6f">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">College of Food Engineering and Nutritional Science, Shaanxi Normal University, Xi'an, Shaanxi, China 710119</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>College of Food Engineering and Nutritional Science</sa:organization>
+                  <sa:organization>Shaanxi Normal University</sa:organization>
+                  <sa:city>Xi'an</sa:city>
+                  <sa:state>Shaanxi</sa:state>
+                  <sa:postal-code>710119</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aCollege of Food Engineering and Nutritional Science, Shaanxi Normal University, Xi'an, Shaanxi, China 710119</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667025921000248-75d5540a1f1ea3cce35a6867b7f56066">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Guilin Seamild Food Co. Ltd., Guilin,Guangxi, China 541000</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Guilin Seamild Food Co.</sa:organization>
+                  <sa:organization>Ltd.</sa:organization>
+                  <sa:city>Guilin</sa:city>
+                  <sa:state>Guangxi</sa:state>
+                  <sa:postal-code>541000</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bGuilin Seamild Food Co. Ltd., Guilin,Guangxi, China 541000</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="28" month="6" year="2021"/>
+         <ce:date-revised day="20" month="8" year="2021"/>
+         <ce:date-accepted day="20" month="9" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara021" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">FT cycles caused water loss, aging and increased hardness of cooked oat roll.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">The addition of guar gum restricted the migration to free water and water loss.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Guar gum enhanced the water absorption capacity and gelatinization ability.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">The addition of 0.3 % and 0.5 % guar gum could delay starch retrogradation.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Excess guar gum (1%) impeded starch gelatinization, increased hardness.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara022" view="all">Oat roll is a traditional Chinese food made of whole oat flour. The purpose of this work was to investigate the role of guar gum on starch retrogradation and water migration of cooked oat roll during freeze-thaw cycles by low-field nuclear magnetic resonance (LF-NMR) measurement, differential scanning calorimetry (DSC) and so on. The results showed that freeze-thaw cycles affected the migration of strong bound water to weak bound water and free water, and thus deteriorated the quality of products. As the addition of guar gum increased, the water mobility and the consequent water loss caused by the freeze-thaw cycles were significantly reduced. The addition of 0.3 % and 0.5 % guar gum could decrease the number and size of pores in cooked oat roll, enhanced the water absorption and gelatinization capacity. Moreover, hindered rearrangement of starch molecular chains to delay retrogradation by restricting the water mobility. Finally the increase of hardness caused by freeze-thaw cycles was decelerated. However, 1 % added amount of guar gum due to its excessive viscosity, caused hindrance to the water absorption and gelatinization of starch granules. Resulted in a greater increase in hardness and adhesiveness, which reduced the edible quality.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Cooked oat roll</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Freeze-thaw cycles</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Guar gum</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Water</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

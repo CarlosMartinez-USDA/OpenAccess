@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset concerning the mental health of healthcare professionals during COVID-19 pandemic in Bangladesh</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Md. Rabiul</namePart>
+      <namePart type="family">Islam</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2820-3144</nameIdentifier>
+      <displayForm>Islam, Md. Rabiul</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sumaiya</namePart>
+      <namePart type="family">Quaiyum</namePart>
+      <displayForm>Quaiyum, Sumaiya</displayForm>
+      <affiliation>Department of Pharmacy, University of Asia Pacific, 74/A Green Road, Farmgate, Dhaka 1215, Bangladesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sajuti Akter</namePart>
+      <namePart type="family">Pakhe</namePart>
+      <displayForm>Pakhe, Sajuti Akter</displayForm>
+      <affiliation>Department of Pharmacy, University of Asia Pacific, 74/A Green Road, Farmgate, Dhaka 1215, Bangladesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Md Azim Uddin</namePart>
+      <namePart type="family">Repon</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7191-7754</nameIdentifier>
+      <displayForm>Repon, Md Azim Uddin</displayForm>
+      <affiliation>Department of Pharmacy, University of Asia Pacific, 74/A Green Road, Farmgate, Dhaka 1215, Bangladesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mohiuddin Ahmed</namePart>
+      <namePart type="family">Bhuiyan</namePart>
+      <displayForm>Bhuiyan, Mohiuddin Ahmed</displayForm>
+      <affiliation>Department of Pharmacy, University of Asia Pacific, 74/A Green Road, Farmgate, Dhaka 1215, Bangladesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The present dataset is concerned with an article entitled “Effect of COVID-19 pandemic on mental health among Bangladeshi healthcare professionals: A cross-sectional study” [1]. This data article consists of a dataset regarding the mental health of Bangladeshi healthcare professionals (HCPs) during the ongoing COVID-19 pandemic. We collected the data from July 15, 2020, to September 20, 2020, using Google survey tools (Google Forms). A total of 355 complete responses have been obtained from the Bangladeshi HCPs aged between 20–60 years (male: 204, female: 151). We obtained informed consent from all participants for this study. We assessed the sociodemographic profile and four psychometric measures of HCPs working in Bangladesh during the COVID-19 pandemic. A structured questionnaire was used to collect the demographic information. We used the UCLA loneliness scale-8 (UCLA-8), the patient health questionnaire-9 (PHQ-9), the 7-item generalized anxiety disorder scale (GAD-7), and the Pittsburgh sleep quality index (PSQI) were applied to measure loneliness, depression, generalized anxiety, and sleep disturbance, respectively. This dataset presents the descriptive analysis of psychometric variables of participants. Also, the dataset might be used as a platform for future research on psychometric evaluation using the above scales. We included participants regardless of the sociodemographic backgrounds of HCPs. Therefore, the policymakers, government, and non-government organizations can use this data to develop different programs for promoting the mental health of HCPs and the general population in Bangladesh. </abstract>
+   <subject>
+      <topic>Healthcare professionals</topic>
+   </subject>
+   <subject>
+      <topic>HCPs</topic>
+   </subject>
+   <subject>
+      <topic>Mental health</topic>
+   </subject>
+   <subject>
+      <topic>Loneliness</topic>
+   </subject>
+   <subject>
+      <topic>Depression</topic>
+   </subject>
+   <subject>
+      <topic>Anxiety</topic>
+   </subject>
+   <subject>
+      <topic>Sleep disturbance</topic>
+   </subject>
+   <subject>
+      <topic>COVID-19</topic>
+   </subject>
+   <subject>
+      <topic>Bangladesh</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107506</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107506</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107506</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00787-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007873/S2352340921007873.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

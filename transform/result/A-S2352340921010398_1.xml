@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107765">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Mushroom and cereal β-D-glucan solid state NMR and FTIR datasets</dct:title>
+         <dct:creator>Alexandra Kremmyda</dct:creator>
+         <dct:creator>William MacNaughtan</dct:creator>
+         <dct:creator>Dimitris Arapoglou</dct:creator>
+         <dct:creator>Christos Eliopoulos</dct:creator>
+         <dct:creator>Maria Metafa</dct:creator>
+         <dct:creator>Stephen E. Harding</dct:creator>
+         <dct:creator>Cleanthes Israilides</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Mushroom</rdf:li>
+               <rdf:li>Oat</rdf:li>
+               <rdf:li>Wheat</rdf:li>
+               <rdf:li>Barley</rdf:li>
+               <rdf:li>Solid state CP/MAS NMR</rdf:li>
+               <rdf:li>FTIR</rdf:li>
+               <rdf:li>β-D-Glucan database</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107765</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107765</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107765</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107765</dct:identifier>
+         <bam:articleNumber>107765</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-23T14:29:48Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107765</ja:aid>
+         <ce:article-number>107765</ce:article-number>
+         <ce:pii>S2352-3409(21)01039-8</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107765</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Mushroom and cereal β-D-glucan solid state NMR and FTIR datasets</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010398-a5e557b730b5f84d14799afe3781c859"
+                       orcid="0000-0003-1520-472X">
+               <ce:given-name>Alexandra</ce:given-name>
+               <ce:surname>Kremmyda</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:stxak39@nottingham.ac.uk">stxak39@nottingham.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010398-8fa0bbcb6c6ddcb46579c1ee252f4179">
+               <ce:given-name>William</ce:given-name>
+               <ce:surname>MacNaughtan</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010398-2a4fac77681cd82024b5e8d71704fcf5"
+                       orcid="0000-0002-6526-5945">
+               <ce:given-name>Dimitris</ce:given-name>
+               <ce:surname>Arapoglou</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010398-a38cfa25e31b6b715e7a2e30bef81a0f">
+               <ce:given-name>Christos</ce:given-name>
+               <ce:surname>Eliopoulos</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921010398-8e1b066bcce12674a55284e8e232626b">
+               <ce:given-name>Maria</ce:given-name>
+               <ce:surname>Metafa</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921010398-7c642287bca4d11559e1ab6c89ad99c0">
+               <ce:given-name>Stephen E.</ce:given-name>
+               <ce:surname>Harding</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921010398-6a95bb1b7c79fccaccace7a9e87bf118">
+               <ce:given-name>Cleanthes</ce:given-name>
+               <ce:surname>Israilides</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010398-234d92f9736091a382128c891c1b495e">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Division of Food, Nutrition and Dietetics, School of Biosciences, University of Nottingham, Sutton Bonington Campus, Loughborough LE12 5RD, United Kingdom</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Division of Food, Nutrition and Dietetics</sa:organization>
+                  <sa:organization>School of Biosciences</sa:organization>
+                  <sa:organization>University of Nottingham</sa:organization>
+                  <sa:organization>Sutton Bonington Campus</sa:organization>
+                  <sa:city>Loughborough</sa:city>
+                  <sa:postal-code>LE12 5RD</sa:postal-code>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDivision of Food, Nutrition and Dietetics, School of Biosciences, University of Nottingham, Sutton Bonington Campus, Loughborough LE12 5RD, United Kingdom</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010398-4afbd7b7c491988020c0de6a7419f333">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Institute of Technology of Agricultural Products, National Agricultural Research Foundation, 1, Sofokli Venizelou St., Lycovrissi 141 23, Greece</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Technology of Agricultural Products</sa:organization>
+                  <sa:organization>National Agricultural Research Foundation</sa:organization>
+                  <sa:address-line>1, Sofokli Venizelou St.</sa:address-line>
+                  <sa:city>Lycovrissi</sa:city>
+                  <sa:postal-code>141 23</sa:postal-code>
+                  <sa:country>Greece</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bInstitute of Technology of Agricultural Products, National Agricultural Research Foundation, 1, Sofokli Venizelou St., Lycovrissi 141 23, Greece</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010398-3c31698bb5381f004c2d0126221c5028">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">National Centre for Molecular Hydrodynamics, Division of Food, Nutrition and Dietetics, School of Biosciences, University of Nottingham, Sutton Bonington Campus, Loughborough LE12 5RD, United Kingdom</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>National Centre for Molecular Hydrodynamics</sa:organization>
+                  <sa:organization>Division of Food, Nutrition and Dietetics</sa:organization>
+                  <sa:organization>School of Biosciences</sa:organization>
+                  <sa:organization>University of Nottingham</sa:organization>
+                  <sa:organization>Sutton Bonington Campus</sa:organization>
+                  <sa:city>Loughborough</sa:city>
+                  <sa:postal-code>LE12 5RD</sa:postal-code>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cNational Centre for Molecular Hydrodynamics, Division of Food, Nutrition and Dietetics, School of Biosciences, University of Nottingham, Sutton Bonington Campus, Loughborough LE12 5RD, United Kingdom</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Division of Food, Nutrition and Dietetics, School of Biosciences, University of Nottingham, Sutton Bonington Campus, Loughborough LE12 5RD, United Kingdom.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Division of Food, Nutrition and Dietetics</sa:organization>
+                  <sa:organization>School of Biosciences</sa:organization>
+                  <sa:organization>University of Nottingham</sa:organization>
+                  <sa:organization>Sutton Bonington Campus</sa:organization>
+                  <sa:city>Loughborough</sa:city>
+                  <sa:postal-code>LE12 5RD</sa:postal-code>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="27" month="9" year="2021"/>
+         <ce:date-revised day="27" month="11" year="2021"/>
+         <ce:date-accepted day="22" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara002" view="all">In the associated published article Kremmyda et al. (2021), the C1 region of the NMR spectra were examined in detail, as the C1 carbon was common to the crucial linkages in the glucan, and the most clearly separated region in the spectra. We provide the original measurement data here in topspin format, in order that different authors can examine the regions corresponding to the other carbons and in addition repeat our processing of the FID's using different parameters.</ce:simple-para>
+               <ce:simple-para id="spara003" view="all">Mushroom, Cereal, Reference and other samples, such as salts and salt hydrates have been measured. A series of different experiments on individual samples is also given. All of the samples and experiments available in the database are summarised in the Table below.</ce:simple-para>
+               <ce:simple-para id="spara004" view="all">We also provide an FTIR database in the form of an excel workbook with spectra in frequency/absorbence pairs.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Mushroom</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Oat</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Wheat</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Barley</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Solid state CP/MAS NMR</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">FTIR</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">β-D-Glucan database</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

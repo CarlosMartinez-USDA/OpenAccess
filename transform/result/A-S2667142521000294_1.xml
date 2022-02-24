@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2021.100030">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Phytotherapy: A promising approach for the treatment of Alzheimer's disease</dct:title>
+         <dct:creator>Ogbodo Onyebuchi John</dct:creator>
+         <dct:creator>Ihim Stella Amarachi</dct:creator>
+         <dct:creator>Agbo Precious Chinazom</dct:creator>
+         <dct:creator>Echezona Adaeze</dct:creator>
+         <dct:creator>Mayur B. Kale</dct:creator>
+         <dct:creator>Mohit D. Umare</dct:creator>
+         <dct:creator>Aman B. Upaganlawar</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Alzheimer's disease</rdf:li>
+               <rdf:li>Medicinal plants</rdf:li>
+               <rdf:li>Phytoconstituents</rdf:li>
+               <rdf:li>Drug interaction</rdf:li>
+               <rdf:li>Stability studies</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine, Journal Pre-proof. doi:10.1016/j.prmcm.2021.100030</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:doi>10.1016/j.prmcm.2021.100030</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2021.100030</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2021.100030</dct:identifier>
+         <bam:articleNumber>100030</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-10T19:54:41Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100030</ja:aid>
+         <ce:article-number>100030</ce:article-number>
+         <ce:pii>S2667-1425(21)00029-4</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2021.100030</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Phytotherapy: A promising approach for the treatment of Alzheimer's disease</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667142521000294-a0f98e55fd6c6776312dc2f03482aa13">
+               <ce:given-name>Ogbodo Onyebuchi</ce:given-name>
+               <ce:surname>John</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667142521000294-6fb09df83e709b4129ccd6cdc20787f4">
+               <ce:given-name>Ihim Stella</ce:given-name>
+               <ce:surname>Amarachi</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">2</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667142521000294-20327d298781ca7050dddac8f4960c4e">
+               <ce:given-name>Agbo Precious</ce:given-name>
+               <ce:surname>Chinazom</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667142521000294-0c53b8d373364629a78e44d777177523">
+               <ce:given-name>Echezona</ce:given-name>
+               <ce:surname>Adaeze</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">3</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667142521000294-75e0a07fe35036aa2d5d2abbae933793">
+               <ce:given-name>Mayur B.</ce:given-name>
+               <ce:surname>Kale</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667142521000294-8e27196181166295646279acf070cd17">
+               <ce:given-name>Mohit D.</ce:given-name>
+               <ce:surname>Umare</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">5</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667142521000294-f9dbc157b19bbbcd126bf9a660ba1321">
+               <ce:given-name>Aman B.</ce:given-name>
+               <ce:surname>Upaganlawar</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">4</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:amanrxy@gmail.com">amanrxy@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667142521000294-639f29be125b9e441c6230a05a075ef8">
+               <ce:label>1</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Science Laboratory Technology, University of Nigeria Nsukka</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Science Laboratory Technology</sa:organization>
+                  <sa:organization>University of Nigeria Nsukka</sa:organization>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">1Department of Science Laboratory Technology, University of Nigeria Nsukka</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667142521000294-8dd4c5b03c16ab83858a6d02b05eae98">
+               <ce:label>2</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Cellular and Molecular Biology, University of Shizuoka, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Cellular and Molecular Biology</sa:organization>
+                  <sa:organization>University of Shizuoka</sa:organization>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">2Department of Cellular and Molecular Biology, University of Shizuoka, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667142521000294-9cfbd863d1389d5ab0e157a36eae34a9">
+               <ce:label>3</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Pharmaceutics, University of Nigeria, Nsukka</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutics</sa:organization>
+                  <sa:organization>University of Nigeria</sa:organization>
+                  <sa:city>Nsukka</sa:city>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">3Department of Pharmaceutics, University of Nigeria, Nsukka</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667142521000294-d015bbf8d788d7b87bf5f0abec4b886d">
+               <ce:label>4</ce:label>
+               <ce:textfn id="cetextfn0004">SNJB's Shriman Sureshdada Jain College of Pharmacy, Neminagar, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>SNJB's Shriman Sureshdada Jain College of Pharmacy</sa:organization>
+                  <sa:city>Neminagar</sa:city>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">4SNJB's Shriman Sureshdada Jain College of Pharmacy, Neminagar, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667142521000294-f0f17d1292da69734f05027af6d893d6">
+               <ce:label>5</ce:label>
+               <ce:textfn id="cetextfn0005">Smt. Kishoritai Bhoyar College of Pharmacy, Kamptee, Nagpur, India, 441002</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Smt. Kishoritai Bhoyar College of Pharmacy</sa:organization>
+                  <sa:city>Nagpur</sa:city>
+                  <sa:state>Kamptee</sa:state>
+                  <sa:postal-code>441002</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">5Smt. Kishoritai Bhoyar College of Pharmacy, Kamptee, Nagpur, India, 441002</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Alzheimer's disease is a major neurodegenerative disorder leading to memory loss.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Herbal medicines have shown promising results in preventing Alzheimer's disease.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Performing stability studies of herbal medicine may help in the standardization of therapy.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara009" view="all">Alzheimer's disease (AD) is a progressive neurological disease and the most common form of dementia, affecting more than 10 million people all over the world. Clinically, AD is characterized by progressive deficits in memory, cognitive impairment, and altered behavior. Although researches have largely continued, there is still no appropriate treatment option for disease-modifying AD. However, symptomatic treatment options exist. Medicinal plants have been used in different systems of medicine from ancient times for the treatment of diseases. Numerous herbs have been shown to improve brain function and may have a role to play in AD treatment. In this review, we provide a systematic review on the role of medicinal plants and herbs useful for the treatment of Alzheimer's disease, the effect of these herbs on hormones, herb-drug interactions as well as stability-related testing for the herbal pharmaceutical medicines.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Alzheimer's disease</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Medicinal plants</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Phytoconstituents</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Drug interaction</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Stability studies</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

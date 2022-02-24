@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Synthetic European road freight transport flow data</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Daniel</namePart>
+      <namePart type="family">Speth</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1472-7019</nameIdentifier>
+      <displayForm>Speth, Daniel</displayForm>
+      <affiliation>Fraunhofer Institute for Systems and Innovation Research ISI, Breslauer Str. 48, Karlsruhe 76139, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Verena</namePart>
+      <namePart type="family">Sauter</namePart>
+      <displayForm>Sauter, Verena</displayForm>
+      <affiliation>Fraunhofer Institute for Systems and Innovation Research ISI, Breslauer Str. 48, Karlsruhe 76139, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Patrick</namePart>
+      <namePart type="family">Plötz</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6790-0183</nameIdentifier>
+      <displayForm>Plötz, Patrick</displayForm>
+      <affiliation>Fraunhofer Institute for Systems and Innovation Research ISI, Breslauer Str. 48, Karlsruhe 76139, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tim</namePart>
+      <namePart type="family">Signer</namePart>
+      <displayForm>Signer, Tim</displayForm>
+      <affiliation>Fraunhofer Institute for Systems and Innovation Research ISI, Breslauer Str. 48, Karlsruhe 76139, Germany</affiliation>
+      <affiliation>Karlsruhe Institute for Technology (KIT), Institute for Industrial Production (IIP), Hertzstr. 12, Karlsruhe 76185, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This data article describes a dataset on European road freight traffic. The dataset includes truck traffic flows between 1675 regions all over Europe. In addition to the road freight flows in tons as well as number of vehicles, the dataset also contains the shortest path between the respective regions on the European highway network (E-roads). Fifteen columns provide the following information for each pair of regions: (1) ID origin region, (2) name origin region, (3) ID destination region, (4) name destination region, (5) path in the E-road network, (6) distance from origin region to the E-road network, (7) distance within the E-road network, (8) distance from the E-road network to the destination region, (9) total distance, (10) road freight flow in tons for 2010, (11) road freight flow in tons for 2019, (12) road freight flow in tons for 2030, (13) truck traffic flow in number of vehicles for 2010, (14) truck traffic flow in number of vehicles for 2019, (15) truck traffic flow in number of vehicles for 2030. In addition, a table of nodes and a table of edges of the modelled E-road network is available. Finally, a list with supplementary information on the regions under consideration is given. In 2010, the ETISplus project collected Europe-wide freight volumes from various EU sources as well as from the EU countries and calibrated the resulting origin-destination matrices with measured traffic flows. For the dataset described here, the road freight volume was updated using Eurostat data and a forecast up to 2030 was added. The freight volume was converted into vehicles travelling. Subsequently, the highway network relevant for trucks was extracted from the ETISplus project and manually updated with the current E-road network. Finally, each origin-destination freight volume was allocated to the network using Dijkstra's algorithm. This provides a synthetically generated road freight traffic volume for each road section. The generated data provide an extremely relevant basis for the design of future road infrastructure in Europe, for example hydrogen refuelling stations or charging stations for electric trucks. Thus, the data are not only relevant for traffic science studies, but also of high importance for planners in practice. </abstract>
+   <subject>
+      <topic>Transport</topic>
+   </subject>
+   <subject>
+      <topic>Road freight transport</topic>
+   </subject>
+   <subject>
+      <topic>Truck-transport</topic>
+   </subject>
+   <subject>
+      <topic>Origin-destination</topic>
+   </subject>
+   <subject>
+      <topic>Traffic</topic>
+   </subject>
+   <subject>
+      <topic>Traffic flow</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107786</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107786</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107786</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01060-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-31"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S235234092101060X/S235234092101060X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

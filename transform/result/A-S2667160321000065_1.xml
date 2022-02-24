@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100007">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Effects of CpG methylation on the thermal stability of c-kit2, c-kit*, and c-kit1 G-quadruplex structures</dct:title>
+         <dct:creator>Saowalak Laddachote</dct:creator>
+         <dct:creator>Rika Ishii</dct:creator>
+         <dct:creator>Wataru Yoshida</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>G-quadruplex</rdf:li>
+               <rdf:li>CpG methylation</rdf:li>
+               <rdf:li>Thermal stability</rdf:li>
+               <rdf:li>c-kit</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100007</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100007</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100007</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100007</dct:identifier>
+         <bam:articleNumber>100007</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-03-11T11:10:16Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100007</ja:aid>
+         <ce:article-number>100007</ce:article-number>
+         <ce:pii>S2667-1603(21)00006-5</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100007</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Effects of CpG methylation on the thermal stability of <ce:italic>c-kit</ce:italic>2, <ce:italic>c-kit</ce:italic>*, and <ce:italic>c-kit</ce:italic>1 G-quadruplex structures</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000065-107211ebf5cc68324fb0d729969a7ca2">
+               <ce:given-name>Saowalak</ce:given-name>
+               <ce:surname>Laddachote</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000065-7489417d5101740793611e6f0cca21e2">
+               <ce:given-name>Rika</ce:given-name>
+               <ce:surname>Ishii</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667160321000065-46a8658820e377b723f53f91beabf8ea"
+                       orcid="0000-0001-9828-0896">
+               <ce:given-name>Wataru</ce:given-name>
+               <ce:surname>Yoshida</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:yoshidawtr@stf.teu.ac.jp">yoshidawtr@stf.teu.ac.jp</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000065-80584a74bc6af58a3cbc11f3026eeba3">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">School of Bioscience and Biotechnology, Tokyo University of Technology, 1404-1 Katakura, Hachioji, Tokyo, 192-0982, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Bioscience and Biotechnology</sa:organization>
+                  <sa:organization>Tokyo University of Technology</sa:organization>
+                  <sa:address-line>1404-1 Katakura</sa:address-line>
+                  <sa:city>HachiojiTokyo</sa:city>
+                  <sa:state>,</sa:state>
+                  <sa:postal-code>192-0982</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aSchool of Bioscience and Biotechnology, Tokyo University of Technology, 1404-1 Katakura, Hachioji, Tokyo, 192-0982, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667160321000065-c74d75c919b7691be5e3d40357c398f9">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Graduate School of Bionics, Tokyo University of Technology, 1404-1 Katakura, Hachioji, Tokyo, 192-0982, Japan</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Graduate School of Bionics</sa:organization>
+                  <sa:organization>Tokyo University of Technology</sa:organization>
+                  <sa:address-line>1404-1 Katakura</sa:address-line>
+                  <sa:city>HachiojiTokyo</sa:city>
+                  <sa:state>,</sa:state>
+                  <sa:postal-code>192-0982</sa:postal-code>
+                  <sa:country>Japan</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bGraduate School of Bionics, Tokyo University of Technology, 1404-1 Katakura, Hachioji, Tokyo, 192-0982, Japan</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">These authors contributed equally.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="21" month="12" year="2020"/>
+         <ce:date-revised day="24" month="2" year="2021"/>
+         <ce:date-accepted day="10" month="3" year="2021"/>
+         <ce:abstract class="author-highlights" id="abs0001" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">CpG methylation at C1 or C11 decreases stability of <ce:italic>c-kit</ce:italic>2 G4 in Na<ce:sup loc="post">+</ce:sup> and Mg<ce:sup loc="post">2+</ce:sup>.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">CpG methylation at C5 increases stability of <ce:italic>c-kit</ce:italic>2 G4 in Na<ce:sup loc="post">+</ce:sup> and Mg<ce:sup loc="post">2+</ce:sup>.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Oligomerization of <ce:italic>c-kit</ce:italic>2 G4-forming oligonucleotide is induced by C1 methylation.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="author" id="abs0002" view="all">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara007" view="all">In genomic DNA, G-quadruplex (G4)-forming DNA can form either a duplex or G4 structure, suggesting that understanding the factors regulating G4 formation is important for revealing the cellular functions controlled by G4 formation. Cytosine DNA methylation in the CpG islands is known to play an important role in transcriptional regulation. Additionally, CpG methylation increases the thermal stability of G4 structures such as <ce:italic>BCL2</ce:italic> and <ce:italic>VEGF</ce:italic> G4. In this study, we evaluated the effects of CpG methylation in three G4 structures (<ce:italic>c-kit</ce:italic>2, <ce:italic>c-kit</ce:italic>*, and <ce:italic>c-kit</ce:italic>1) produced by the <ce:italic>c-KIT</ce:italic> promoter. Each was analyzed using circular dichroism (CD) melting analysis. The results demonstrate that CpG methylation does not alter the thermal stability of <ce:italic>c-kit</ce:italic>2 G4 structure when formed in the presence of K<ce:sup loc="post">+</ce:sup>; a single-CpG methylation at C1 or C11 decreases the thermal stability of any <ce:italic>c-kit</ce:italic>2 G4 structure formed in the presence of Na<ce:sup loc="post">+</ce:sup> and Mg<ce:sup loc="post">2+</ce:sup> while methylation at C5 increases the thermal stability; CpG methylation does not alter the thermal stability of <ce:italic>c-kit</ce:italic>1 or <ce:italic>c-kit</ce:italic>* G4 structures formed in the presence of K<ce:sup loc="post">+</ce:sup>; and the <ce:italic>c-kit</ce:italic>1 and <ce:italic>c-kit</ce:italic>* G4-forming oligonucleotides do not form G4 structures in the presence of Na<ce:sup loc="post">+</ce:sup> and Mg<ce:sup loc="post">2+</ce:sup>. These results provide important clues for understanding the regulatory mechanisms underlying the formation of CpG methylation-induced G4 structures.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="keyword" id="keys0001" view="all">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">G-quadruplex</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">CpG methylation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Thermal stability</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">
+                  <ce:italic>c-kit</ce:italic>
+               </ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

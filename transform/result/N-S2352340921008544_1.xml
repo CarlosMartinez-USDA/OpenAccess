@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Covid-19 pandemic policy monitor (COV-PPM) - European level tracking data of non-pharmaceutical interventions</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Kayvan</namePart>
+      <namePart type="family">Bozorgmehr</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1411-1209</nameIdentifier>
+      <displayForm>Bozorgmehr, Kayvan</displayForm>
+      <affiliation>Department of Population Medicine and Health Services Research, School of Public Health, Bielefeld University, Bielefeld 33501, Germany</affiliation>
+      <affiliation>Section for Health Equity Studies and Migration, Department of General Practice and Health Services Research, Heidelberg University Hospital, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sven</namePart>
+      <namePart type="family">Rohleder</namePart>
+      <displayForm>Rohleder, Sven</displayForm>
+      <affiliation>Department of Population Medicine and Health Services Research, School of Public Health, Bielefeld University, Bielefeld 33501, Germany</affiliation>
+      <affiliation>Section for Health Equity Studies and Migration, Department of General Practice and Health Services Research, Heidelberg University Hospital, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Stella</namePart>
+      <namePart type="family">Duwendag</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9259-2442</nameIdentifier>
+      <displayForm>Duwendag, Stella</displayForm>
+      <affiliation>Department of Population Medicine and Health Services Research, School of Public Health, Bielefeld University, Bielefeld 33501, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Amir</namePart>
+      <namePart type="family">Mohsenpour</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8419-2430</nameIdentifier>
+      <displayForm>Mohsenpour, Amir</displayForm>
+      <affiliation>Department of Population Medicine and Health Services Research, School of Public Health, Bielefeld University, Bielefeld 33501, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Victoria</namePart>
+      <namePart type="family">Saint</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4663-1716</nameIdentifier>
+      <displayForm>Saint, Victoria</displayForm>
+      <affiliation>Department of Population Medicine and Health Services Research, School of Public Health, Bielefeld University, Bielefeld 33501, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andreas W.</namePart>
+      <namePart type="family">Gold</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4414-1177</nameIdentifier>
+      <displayForm>Gold, Andreas W.</displayForm>
+      <affiliation>Section for Health Equity Studies and Migration, Department of General Practice and Health Services Research, Heidelberg University Hospital, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sukhvir</namePart>
+      <namePart type="family">Kaur</namePart>
+      <displayForm>Kaur, Sukhvir</displayForm>
+      <affiliation>Section for Health Equity Studies and Migration, Department of General Practice and Health Services Research, Heidelberg University Hospital, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Niklas</namePart>
+      <namePart type="family">Nutsch</namePart>
+      <displayForm>Nutsch, Niklas</displayForm>
+      <affiliation>Department of Population Medicine and Health Services Research, School of Public Health, Bielefeld University, Bielefeld 33501, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Diogo</namePart>
+      <namePart type="family">Costa</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9696-7088</nameIdentifier>
+      <displayForm>Costa, Diogo</displayForm>
+      <affiliation>Department of Population Medicine and Health Services Research, School of Public Health, Bielefeld University, Bielefeld 33501, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The Covid-19 Pandemic Policy Monitor (COV-PPM) dataset prospectively documents non-pharmaceutical interventions (NPIs) taken to contain SARS-Cov-2 transmission across countries in EU27, EEA and UK. In Germany, measures have also been recorded at the federal state and, partially, at the district levels. NPIs implemented since January 2020 have been retrieved and updated weekly from March 2020, from official governments webpages, Ministries of Health, National (Public) Health Institutes or Administrations. NPI categories collected refer to restrictions, closures or changes in functioning implemented in 13 domains: public events (gatherings in indoor or outdoor spaces); public institutions (kindergartens, schools, universities); public spaces (shops, bars, restaurants); public transport (trains, buses, trams, metro); citizens movement/mobility (e.g. pedestrians, cars, ships); border closures (air, land or sea, all incoming travels, from high-risk regions, only non-nationals); measures to improve the healthcare system (e.g. human resources or technical reinforcement, redistribution, material or infrastructural); measures for risk/vulnerable groups (e.g. elderly, chronically ill, pregnant); economic measures (e.g. lay-off rules establishment, actions to avoid job-loss, tax relaxation); testing policies (e.g. testing criteria changes); nose and mouth protection rules, vaccination and others/miscellaneous measures. </abstract>
+   <subject>
+      <topic>Covid-19</topic>
+   </subject>
+   <subject>
+      <topic>SARS-Cov-2</topic>
+   </subject>
+   <subject>
+      <topic>Non-pharmaceutical interventions</topic>
+   </subject>
+   <subject>
+      <topic>Policy measures</topic>
+   </subject>
+   <subject>
+      <topic>Europe</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107579</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107579</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107579</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00854-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-11"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008544/S2352340921008544.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

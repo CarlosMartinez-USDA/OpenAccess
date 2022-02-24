@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100181">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Co-administration of metformin and gallic acid modulates JAK/STAT signaling pathway and glutathione metabolism in fructose-fed streptozotocin diabetic Rats</dct:title>
+         <dct:creator>Olusola Olalekan Elekofehinti</dct:creator>
+         <dct:creator>Esther Opeyemi Ariyo</dct:creator>
+         <dct:creator>Opeyemi Iwaloye</dct:creator>
+         <dct:creator>Tajudeen O Obafemi</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Gallic acid</rdf:li>
+               <rdf:li>Metformin</rdf:li>
+               <rdf:li>Inflammatory genes</rdf:li>
+               <rdf:li>Diabetes mellitus</rdf:li>
+               <rdf:li>Janus kinase</rdf:li>
+               <rdf:li>Signal transducer and activator of transcription</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100181</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100181</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100181</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100181</dct:identifier>
+         <bam:articleNumber>100181</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-27T18:58:55Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100181</ja:aid>
+         <ce:article-number>100181</ce:article-number>
+         <ce:pii>S2667-0313(21)00163-9</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100181</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Co-administration of metformin and gallic acid modulates JAK/STAT signaling pathway and glutathione metabolism in fructose-fed streptozotocin diabetic Rats</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001639-1a0911eab48b427698ece7b2bc18a7bf">
+               <ce:given-name>Olusola Olalekan</ce:given-name>
+               <ce:surname>Elekofehinti</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:ooelekofehinti@futa.edu.ng">ooelekofehinti@futa.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001639-dcaa574956f91417171aa6091448c26c">
+               <ce:given-name>Esther Opeyemi</ce:given-name>
+               <ce:surname>Ariyo</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001639-ae2686ac7c2967ce709e38623171fcd1">
+               <ce:given-name>Opeyemi</ce:given-name>
+               <ce:surname>Iwaloye</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001639-0e387624fd1daec2f3252cd3d6ca81a7">
+               <ce:given-name>Tajudeen O</ce:given-name>
+               <ce:surname>Obafemi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001639-98cfa27da10cb286c6b4317968d64082">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Bioinformatics and Molecular Biology Unit, Department of Biochemistry, Federal University of Technology Akure, Ondo State, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Bioinformatics and Molecular Biology Unit, Department of Biochemistry</sa:organization>
+                  <sa:organization>Federal University of Technology Akure</sa:organization>
+                  <sa:state>Ondo State</sa:state>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aBioinformatics and Molecular Biology Unit, Department of Biochemistry, Federal University of Technology Akure, Ondo State, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001639-3ed3ab0fb99e551dcd26abd9d9293ce0">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Biochemistry, Afe Babalola University, PMB 5454 Ado-Ekiti, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biochemistry</sa:organization>
+                  <sa:organization>Afe Babalola University, PMB</sa:organization>
+                  <sa:city>Ado-Ekiti</sa:city>
+                  <sa:postal-code>5454</sa:postal-code>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Biochemistry, Afe Babalola University, PMB 5454 Ado-Ekiti, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Bioinformatics and Molecular Biology Unit, Department of Biochemistry, Federal University of Technology Akure, Ondo State, Nigeria.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Bioinformatics and Molecular Biology Unit, Department of Biochemistry</sa:organization>
+                  <sa:organization>Federal University of Technology Akure</sa:organization>
+                  <sa:state>Ondo State</sa:state>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="23" month="8" year="2021"/>
+         <ce:date-revised day="23" month="11" year="2021"/>
+         <ce:date-accepted day="27" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara025" view="all">Incidence of diabetes Mellitus (DM) is on the rise with each passing year in spite of available therapies in the management of DM. Metformin, a standard antidiabetic drug, and gallic acid (GA) are some of the compounds with established antidiabetic properties. However, there is dearth of information on their combination on JAK/STAT signaling pathway and glutathione metabolism in diabetic model. This study investigated the combined effect of metformin and GA on diabetic rats.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Methods</ce:section-title>
+               <ce:simple-para id="spara026" view="all">Forty male wistar rats were divided into 5 groups viz: diabetic control, normal control, Metformin (100 mg/kg), GA (100 mg/kg) and GA (100 mg/kg) + Metformin (100 mg/kg). Diabetes was induced by administration of 10% fructose for 14 days followed by injection of streptozotocin (40 mg/kg). The therapy was administered for a total of 21 days. The pancreatic mRNA expression of antioxidant genes (glutamate cysteine ligase catalytic subunits (GCLC), glutamate cysteine ligase modifier subunits (GCLM) and Glutathione Synthetase (GSS), inflammatory genes (tumor necrosis factor alpha (TNF-α), interleukin 1 beta (IL-1β), interleukin 6 (IL-6) and proteins of the Janus Kinase/ Signal Transducer and Activator of Transcription pathway (Janus Kinase (JAK), Signal Transducer and Activator of Transcription (STAT), were quantified using reverse-transcriptase polymerase chain reaction (RT-PCR). Metformin and GA were also docked with Insulin, GSS, and Janus Kinase 2 (JAK2) to determine their binding affinity.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="results" view="all">
+               <ce:section-title id="cesectitle0004">Results</ce:section-title>
+               <ce:simple-para id="spara027" view="all">Rats treated with co-administration of GA and metformin significantly (<ce:italic>p</ce:italic> &lt; 0.05) decreased fasting blood glucose level in comparison with groups treated with gallic acid only and metformin only. The gene expression analysis shows that co-administering metformin and gallic acid protects the pancreas of STZ-induced rats by increasing glutathione production, alleviating inflammation (IL-1, IL-6, IFN-), and modulating the JAK/STAT signaling pathway though upregulation of GCLC, GCLM, GSS mRNA expression and IL-1, IL-6, TNF-<ce:italic>α</ce:italic>, JAK2, STAT3 and STA5 mRNA expression.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0005">Conclusion</ce:section-title>
+               <ce:simple-para id="spara028" view="all">This study showed that the combination therapy of metformin and GA modulated JAK/STAT pathway mediated by the cytokines, and replenished glutathione in the pancreas of diabetic rats.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Gallic acid</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Metformin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Inflammatory genes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Diabetes mellitus</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Janus kinase</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Signal transducer and activator of transcription</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

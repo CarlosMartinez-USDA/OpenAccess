@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107644">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Glacial and postglacial sedimentary infill in Slovakian High Tatra Mts. lakes: Acoustic survey and lithological data</dct:title>
+         <dct:creator>Ramachandran Dhavamani</dct:creator>
+         <dct:creator>Radovan Pipík</dct:creator>
+         <dct:creator>Valentín Sočuvka</dct:creator>
+         <dct:creator>Juraj Šurka</dct:creator>
+         <dct:creator>Dušan Starek</dct:creator>
+         <dct:creator>Rastislav Milovský</dct:creator>
+         <dct:creator>Peter Uhlík</dct:creator>
+         <dct:creator>Marina Vidhya</dct:creator>
+         <dct:creator>Lucia Žatková</dct:creator>
+         <dct:creator>Pavol Král</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Chirp sonar</rdf:li>
+               <rdf:li>AUV Ecomapper sonar</rdf:li>
+               <rdf:li>CT-numbers</rdf:li>
+               <rdf:li>Acoustic profiling</rdf:li>
+               <rdf:li>Alpine lakes</rdf:li>
+               <rdf:li>Pockmarks</rdf:li>
+               <rdf:li>Central Europe</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107644</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107644</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107644</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107644</dct:identifier>
+         <bam:articleNumber>107644</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-25T01:41:40Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107644</ja:aid>
+         <ce:article-number>107644</ce:article-number>
+         <ce:pii>S2352-3409(21)00919-7</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107644</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="doc0001">
+               <ce:pii>S0341-8162(21)00645-7</ce:pii>
+               <ce:doi>10.1016/j.catena.2021.105787</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Glacial and postglacial sedimentary infill in Slovakian High Tatra Mts. lakes: Acoustic survey and lithological data<ce:cross-ref refid="afn001">**</ce:cross-ref>
+         </ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009197-68a6b46d2d442d554ac235d1842df96e">
+               <ce:given-name>Ramachandran</ce:given-name>
+               <ce:surname>Dhavamani</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009197-dfbc9d54f650dc96795d4b68e64ad03a"
+                       orcid="0000-0001-6646-5984">
+               <ce:given-name>Radovan</ce:given-name>
+               <ce:surname>Pipík</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:pipik@savbb.sk">pipik@savbb.sk</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921009197-d500ebe09d5e3993e8e143e3ad0f0b83"
+                       orcid="0000-0002-1541-173X">
+               <ce:given-name>Valentín</ce:given-name>
+               <ce:surname>Sočuvka</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921009197-1ade8f4d21bb6e24761855ff44c1f78d">
+               <ce:given-name>Juraj</ce:given-name>
+               <ce:surname>Šurka</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921009197-191304964834d95e7f70307cf5c30afe">
+               <ce:given-name>Dušan</ce:given-name>
+               <ce:surname>Starek</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921009197-070f3819b2239cb8b07dfa67b7bb2973"
+                       orcid="0000-0003-1880-865X">
+               <ce:given-name>Rastislav</ce:given-name>
+               <ce:surname>Milovský</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340921009197-7f427318c299a8cbef0c0df3c8b27d7a">
+               <ce:given-name>Peter</ce:given-name>
+               <ce:surname>Uhlík</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340921009197-b5bd1d09018e3bb282c6d35bc1f7bd61">
+               <ce:given-name>Marina</ce:given-name>
+               <ce:surname>Vidhya</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2352340921009197-1dd422c94b94727cd488b121b4882351"
+                       orcid="0000-0002-8570-4845">
+               <ce:given-name>Lucia</ce:given-name>
+               <ce:surname>Žatková</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2352340921009197-b8624d7d52d7afaf3aea63e73c068aed">
+               <ce:given-name>Pavol</ce:given-name>
+               <ce:surname>Král</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009197-c51d758bdacfc15f037c779214967011">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Earth Science Institute, Slovak Academy of Sciences, Ďumbierska 1, Banská Bystrica SK-97411, Slovakia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Earth Science Institute</sa:organization>
+                  <sa:organization>Slovak Academy of Sciences</sa:organization>
+                  <sa:address-line>Ďumbierska 1</sa:address-line>
+                  <sa:city>Banská Bystrica</sa:city>
+                  <sa:postal-code>SK-97411</sa:postal-code>
+                  <sa:country>Slovakia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aEarth Science Institute, Slovak Academy of Sciences, Ďumbierska 1, Banská Bystrica SK-97411, Slovakia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921009197-e10f2b73ce814b3b644ada2a14df0de5">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Institute of Hydrology, Slovak Academy of Sciences, Dúbravská cesta 9, Bratislava SK-84005, Slovakia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Hydrology</sa:organization>
+                  <sa:organization>Slovak Academy of Sciences</sa:organization>
+                  <sa:address-line>Dúbravská cesta 9</sa:address-line>
+                  <sa:city>Bratislava</sa:city>
+                  <sa:postal-code>SK-84005</sa:postal-code>
+                  <sa:country>Slovakia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bInstitute of Hydrology, Slovak Academy of Sciences, Dúbravská cesta 9, Bratislava SK-84005, Slovakia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921009197-37f445c6a8597153d871302d0df5f780">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Earth Science Institute, Slovak Academy of Sciences, Dúbravská cesta 9, Bratislava SK-84005, Slovakia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Earth Science Institute</sa:organization>
+                  <sa:organization>Slovak Academy of Sciences</sa:organization>
+                  <sa:address-line>Dúbravská cesta 9</sa:address-line>
+                  <sa:city>Bratislava</sa:city>
+                  <sa:postal-code>SK-84005</sa:postal-code>
+                  <sa:country>Slovakia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cEarth Science Institute, Slovak Academy of Sciences, Dúbravská cesta 9, Bratislava SK-84005, Slovakia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921009197-6d11e4348b85e3addf2118f2255cdf31">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Mineralogy, Petrology and Economic Geology, Faculty of Natural Sciences, Comenius University in Bratislava, Mlynská dolina, Ilkovičova 6, Bratislava SK-84215, Slovakia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Mineralogy, Petrology and Economic Geology</sa:organization>
+                  <sa:organization>Faculty of Natural Sciences</sa:organization>
+                  <sa:organization>Comenius University in Bratislava</sa:organization>
+                  <sa:address-line>Mlynská dolina, Ilkovičova 6</sa:address-line>
+                  <sa:city>Bratislava</sa:city>
+                  <sa:postal-code>SK-84215</sa:postal-code>
+                  <sa:country>Slovakia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Mineralogy, Petrology and Economic Geology, Faculty of Natural Sciences, Comenius University in Bratislava, Mlynská dolina, Ilkovičova 6, Bratislava SK-84215, Slovakia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921009197-bc6fd5bc26a06f69b35e162b94c5fe2e">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Štátne lesy TANAPu, Tatranská Lomnica SK-059 60, Slovakia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Štátne lesy TANAPu</sa:organization>
+                  <sa:city>Tatranská Lomnica</sa:city>
+                  <sa:postal-code>SK-059 60</sa:postal-code>
+                  <sa:country>Slovakia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eŠtátne lesy TANAPu, Tatranská Lomnica SK-059 60, Slovakia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="afn001">
+               <ce:label>⁎⁎</ce:label>
+               <ce:note-para id="np001a" view="all">ResearchGate.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="22" month="10" year="2021"/>
+         <ce:date-revised day="18" month="11" year="2021"/>
+         <ce:date-accepted day="23" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara015" view="all">The data presented in this paper are related to the research article “Sub-bottom and bathymetry sonar inspection of postglacial lacustrine infill of the alpine lakes (Tatra Mts., Slovakia)” (Dhavamani et al., 2022). An implementation of acoustic sonar protocols provided data for the interpretation of glacigene, glaciolacustrine, postglacial, mass-movement deposits, and geodynamic factors influencing the sedimentation in seven alpine and sub-alpine Tatra Mountains lakes. The field data document the survey track lines of the sonars and allow to identify the location of the geomorphologic phenomena described in (Dhavamani et al., 2022). The laboratory data obtained by micro-CT document the lithology of glaciolacustrine and postglacial lake infill and support the interpretation of sub-bottom sonar record.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Chirp sonar</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">AUV Ecomapper sonar</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">CT-numbers</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Acoustic profiling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Alpine lakes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Pockmarks</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Central Europe</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

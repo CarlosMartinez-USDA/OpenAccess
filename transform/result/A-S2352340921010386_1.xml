@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107764">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Complete genome sequence data of tropical thermophilic bacterium Parageobacillus caldoxylosilyticus ER4B</dct:title>
+         <dct:creator>Xin Jie Ching</dct:creator>
+         <dct:creator>Nazalan Najimudin</dct:creator>
+         <dct:creator>Yoke Kqueen Cheah</dct:creator>
+         <dct:creator>Clemente Michael Vui Ling Wong</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Parageobacillus caldoxylosilyticus</rdf:li>
+               <rdf:li>Complete whole genome sequence</rdf:li>
+               <rdf:li>Thermophile</rdf:li>
+               <rdf:li>Thermal stress</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107764</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107764</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107764</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107764</dct:identifier>
+         <bam:articleNumber>107764</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-23T14:27:16Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107764</ja:aid>
+         <ce:article-number>107764</ce:article-number>
+         <ce:pii>S2352-3409(21)01038-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107764</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Complete genome sequence data of tropical thermophilic bacterium <ce:italic>Parageobacillus caldoxylosilyticus</ce:italic> ER4B</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010386-2176465f09292850f73b7857b944f689">
+               <ce:given-name>Xin Jie</ce:given-name>
+               <ce:surname>Ching</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010386-97879139b2e69f17f023c11ab39a7ea8">
+               <ce:given-name>Nazalan</ce:given-name>
+               <ce:surname>Najimudin</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010386-a075d46d48c35a45cae517c29f85a917"
+                       orcid="0000-0001-9258-3749">
+               <ce:given-name>Yoke Kqueen</ce:given-name>
+               <ce:surname>Cheah</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010386-ea8b602927a4a39f9e92946b420dbca1"
+                       orcid="0000-0003-3431-8896">
+               <ce:given-name>Clemente Michael Vui Ling</ce:given-name>
+               <ce:surname>Wong</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:michaelw@ums.edu.my">michaelw@ums.edu.my</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010386-394ba01930af4fc4af40c4d646651b35">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Biotechnology Research Institute, Universiti Malaysia Sabah, Jalan UMS, 88400 Kota Kinabalu, Sabah, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Biotechnology Research Institute</sa:organization>
+                  <sa:organization>Universiti Malaysia Sabah</sa:organization>
+                  <sa:address-line>Jalan UMS</sa:address-line>
+                  <sa:city>Kota Kinabalu</sa:city>
+                  <sa:state>Sabah</sa:state>
+                  <sa:postal-code>88400</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aBiotechnology Research Institute, Universiti Malaysia Sabah, Jalan UMS, Sabah 88400, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010386-d05511985ec995d28e8b31cefa504d19">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">School of Biological Science, Universiti Sains Malaysia, Persiaran Bukit Jambul, Bayan Lepas, Penang 11900, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Biological Science</sa:organization>
+                  <sa:organization>Universiti Sains Malaysia</sa:organization>
+                  <sa:organization>Persiaran Bukit Jambul</sa:organization>
+                  <sa:city>Bayan Lepas</sa:city>
+                  <sa:state>Penang</sa:state>
+                  <sa:postal-code>11900</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bSchool of Biological Science, Universiti Sains Malaysia, Persiaran Bukit Jambul, Bayan Lepas, Penang 11900, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010386-d99a3f4d2029d95b216017fe79241491">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Biomedical Science, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, 43400 UPM Serdang, Selangor Darul Ehsan, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biomedical Science</sa:organization>
+                  <sa:organization>Faculty of Medicine and Health Sciences</sa:organization>
+                  <sa:organization>Universiti Putra Malaysia</sa:organization>
+                  <sa:address-line>43400 UPM Serdang</sa:address-line>
+                  <sa:city>Selangor Darul Ehsan</sa:city>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Biomedical Science, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, 43400 UPM Serdang, Selangor Darul Ehsan, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="25" month="8" year="2021"/>
+         <ce:date-revised day="11" month="12" year="2021"/>
+         <ce:date-accepted day="22" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">
+                  <ce:italic>Parageobacillus caldoxylosilyticus</ce:italic>, or previously identified as <ce:italic>Geobacillus caldoxylosilyticus</ce:italic>, is a thermophilic Gram-positive bacterium which can easily withstand growth temperatures ranging from 40 °C to 70 °C. Here, we present the first complete genome sequence of <ce:italic>Parageobacillus caldoxylosilyticus</ce:italic> ER4B which was isolated from an empty oil palm fruit bunch compost in Malaysia. Whole genome sequencing was performed using the PacBio RSII platform. The genome size of strain ER4B was around 3.9Mbp, with GC content of 44.31%. The genome consists of two contigs, in which the larger contig (3,909,276bp) represents the chromosome, while the smaller one (54,250bp) represents the plasmid. A total of 4,164 genes were successfully predicted, including 3,972 protein coding sequences, 26 rRNAs, 91 tRNAs, 74 miscRNA, and 1 tmRNA. The genome sequence data of strain ER4B reported here may contribute to the current molecular information of the species. It may also facilitate the discovery of molecular traits related to thermal stress, thus, expanding our understanding in the acclimation or adaptation towards extreme temperature in bacteria.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Parageobacillus caldoxylosilyticus</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Complete whole genome sequence</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Thermophile</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Thermal stress</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

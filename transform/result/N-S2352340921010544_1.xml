@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>High frequency accuracy and loss data of random neural networks trained on image datasets</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ariel Keller</namePart>
+      <namePart type="family">Rorabaugh</namePart>
+      <displayForm>Rorabaugh, Ariel Keller</displayForm>
+      <affiliation>University of Tennessee, Knoxville, TN 37996, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Silvina</namePart>
+      <namePart type="family">Caíno-Lores</namePart>
+      <displayForm>Caíno-Lores, Silvina</displayForm>
+      <affiliation>University of Tennessee, Knoxville, TN 37996, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Travis</namePart>
+      <namePart type="family">Johnston</namePart>
+      <displayForm>Johnston, Travis</displayForm>
+      <affiliation>Striveworks, Austin, TX, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michela</namePart>
+      <namePart type="family">Taufer</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0031-6377</nameIdentifier>
+      <displayForm>Taufer, Michela</displayForm>
+      <affiliation>University of Tennessee, Knoxville, TN 37996, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Neural Networks (NNs) are increasingly used across scientific domains to extract knowledge from experimental or computational data. An NN is composed of natural or artificial neurons that serve as simple processing units and are interconnected into a model architecture; it acquires knowledge from the environment through a learning process and stores this knowledge in its connections. The learning process is conducted by training. During NN training, the learning process can be tracked by periodically validating the NN and calculating its fitness. The resulting sequence of fitness values (i.e., validation accuracy or validation loss) is called the NN learning curve. The development of tools for NN design requires knowledge of diverse NNs and their complete learning curves. Generally, only final fully-trained fitness values for highly accurate NNs are made available to the community, hampering efforts to develop tools for NN design and leaving unaddressed aspects such as explaining the generation of an NN and reproducing its learning process. Our dataset fills this gap by fully recording the structure, metadata, and complete learning curves for a wide variety of random NNs throughout their training. Our dataset captures the lifespan of 6000 NNs throughout generation, training, and validation stages. It consists of a suite of 6000 tables, each table representing the lifespan of one NN. We generate each NN with randomized parameter values and train it for 40 epochs on one of three diverse image datasets (i.e., CIFAR-100, FashionMNIST, SVHN). We calculate and record each NN’s fitness with high frequency—every half epoch—to capture the evolution of the training and validation process. As a result, for each NN, we record the generated parameter values describing the structure of that NN, the image dataset on which the NN trained, and all loss and accuracy values for the NN every half epoch. We put our dataset to the service of researchers studying NN performance and its evolution throughout training and validation. Statistical methods can be applied to our dataset to analyze the shape of learning curves in diverse NNs, and the relationship between an NN’s structure and its fitness. Additionally, the structural data and metadata that we record enable the reconstruction and reproducibility of the associated NN. </abstract>
+   <subject>
+      <topic>Loss curve</topic>
+   </subject>
+   <subject>
+      <topic>Accuracy curve</topic>
+   </subject>
+   <subject>
+      <topic>Classification</topic>
+   </subject>
+   <subject>
+      <topic>Performance prediction</topic>
+   </subject>
+   <subject>
+      <topic>Early stopping</topic>
+   </subject>
+   <subject>
+      <topic>Neural architecture search</topic>
+   </subject>
+   <subject>
+      <topic>Machine learning</topic>
+   </subject>
+   <subject>
+      <topic>Artificial intelligence</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107780</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107780</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107780</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01054-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-30"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010544/S2352340921010544.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

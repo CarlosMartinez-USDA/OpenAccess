@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Development of Hausa dataset a baseline for speech recognition</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Umar Adam</namePart>
+      <namePart type="family">Ibrahim</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0448-0008</nameIdentifier>
+      <displayForm>Ibrahim, Umar Adam</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Moussa Mahamat</namePart>
+      <namePart type="family">Boukar</namePart>
+      <displayForm>Boukar, Moussa Mahamat</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Muhammed Aliyu</namePart>
+      <namePart type="family">Suleiman</namePart>
+      <displayForm>Suleiman, Muhammed Aliyu</displayForm>
+      <affiliation>Faculty of Natural and Applied Sciences, Computer Science Department, Nile University of Nigeria, Abuja, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The Hausa language read-speech dataset was created by recording native Hausa speakers. The recording took place at Nile university of Nigeria audio studio and radio broadcasting studio. The recorded dataset was segmented into unigram and bigram. The Hausa speech dataset contain 47hr of recorded audio speech. The dataset can be used for automatic speech recognition, speech synthesis, Text-to-Speech and speech-to-text application. </abstract>
+   <subject>
+      <topic>Corpus</topic>
+   </subject>
+   <subject>
+      <topic>Automatic speech</topic>
+   </subject>
+   <subject>
+      <topic>NLP</topic>
+   </subject>
+   <subject>
+      <topic>Text-to-speech</topic>
+   </subject>
+   <subject>
+      <topic>Hausa corpus</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107820</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107820</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107820</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00032-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-07"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000324/S2352340922000324.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

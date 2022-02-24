@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107802">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Direct current geared motor data: Voltage, current, and speed measured under different experimental conditions</dct:title>
+         <dct:creator>Wallace Pereira Neves dos Reis</dct:creator>
+         <dct:creator>Giselle Elias Couto</dct:creator>
+         <dct:creator>Orides Morandin Junior</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>DC motor</rdf:li>
+               <rdf:li>Modeling</rdf:li>
+               <rdf:li>System Identification</rdf:li>
+               <rdf:li>Motor dynamics</rdf:li>
+               <rdf:li>Automated Guided Vehicle</rdf:li>
+               <rdf:li>Position control</rdf:li>
+               <rdf:li>Mobile robot</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2022.107802</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2022.107802</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107802</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107802</dct:identifier>
+         <bam:articleNumber>107802</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-05T19:03:16Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Brazil: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107802</ja:aid>
+         <ce:article-number>107802</ce:article-number>
+         <ce:pii>S2352-3409(22)00014-2</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107802</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Direct current geared motor data: Voltage, current, and speed measured under different experimental conditions</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000142-d930b5f731443809638e7af0db63002b"
+                       orcid="0000-0002-5184-7848">
+               <ce:given-name>Wallace Pereira Neves</ce:given-name>
+               <ce:surname>dos Reis</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:wallace.reis@ifrj.edu.br">wallace.reis@ifrj.edu.br</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000142-e0806eff6adcb73be942bbe0a5b37276"
+                       orcid="0000-0001-9248-6447">
+               <ce:given-name>Giselle Elias</ce:given-name>
+               <ce:surname>Couto</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000142-3cef915ad447244a21467d61804f8e02">
+               <ce:given-name>Orides</ce:given-name>
+               <ce:surname>Morandin Junior</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000142-f11dabc9842f7575a1767aca1ad80d9c">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Federal Institute of Education, Science, and Tehcnology of Rio de Janeiro (IFRJ), Volta Redonda campus, Volta Redonda - 27215-350, Rio de Janeiro, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Federal Institute of Education</sa:organization>
+                  <sa:organization>Science, and Tehcnology of Rio de Janeiro (IFRJ)</sa:organization>
+                  <sa:organization>Volta Redonda campus</sa:organization>
+                  <sa:address-line>Volta Redonda - 27215-350</sa:address-line>
+                  <sa:city>Rio de Janeiro</sa:city>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aFederal Institute of Education, Science, and Tehcnology of Rio de Janeiro (IFRJ), Volta Redonda campus, Volta Redonda - 27215-350, Rio de Janeiro, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922000142-d517158701cedd4d8a4d75a197a04ce0">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Federal Center for Technological Education Celso Suckow da Fonseca (CEFET-RJ), Itaguaí Campus, Itaguaí - 23812-101, Rio de Janeiro, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Federal Center for Technological Education Celso Suckow da Fonseca (CEFET-RJ)</sa:organization>
+                  <sa:organization>Itaguaí Campus</sa:organization>
+                  <sa:address-line>Itaguaí - 23812-101</sa:address-line>
+                  <sa:city>Rio de Janeiro</sa:city>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bFederal Center for Technological Education Celso Suckow da Fonseca (CEFET-RJ), Itaguaí Campus, Itaguaí - 23812-101, Rio de Janeiro, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922000142-b6900328d18c896d1a379cb9af2df9fb">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Computing Department, Federal University of São Carlos (UFSCar), São Carlos - 13565-905, São Paulo, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Computing Department</sa:organization>
+                  <sa:organization>Federal University of São Carlos (UFSCar)</sa:organization>
+                  <sa:address-line>São Carlos - 13565-905</sa:address-line>
+                  <sa:city>São Paulo</sa:city>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cComputing Department, Federal University of São Carlos (UFSCar), São Carlos - 13565-905, São Paulo, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Federal Institute of Education, Science, and Tehcnology of Rio de Janeiro (IFRJ), Volta Redonda campus, Volta Redonda - 27215-350, Rio de Janeiro, Brazil.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Federal Institute of Education</sa:organization>
+                  <sa:organization>Science, and Tehcnology of Rio de Janeiro (IFRJ)</sa:organization>
+                  <sa:organization>Volta Redonda campus</sa:organization>
+                  <sa:address-line>Volta Redonda - 27215-350</sa:address-line>
+                  <sa:city>Rio de Janeiro</sa:city>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="18" month="10" year="2021"/>
+         <ce:date-revised day="9" month="12" year="2021"/>
+         <ce:date-accepted day="4" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara020" view="all">This data article describes eleven datasets collected from laboratory individual tests with two DC motors of the same model. The motors are proposed to be used as the actuators of an Automated Guided Vehicle (AGV). Each dataset shares the same structure, with the measurement of twelve variables: instant of measurement, encoder pulse counts, calculated motor velocity, raw current, calculated current, raw voltage from output A1, raw voltage from output B1, calculated voltage from output A1, calculated voltage from output B1, potential difference applied to the motor terminals, motor status, and the Arduino analog output value in pulse width modulation (PWM). The data are helpful to model and identify the system considering its dynamics. Such consideration on control systems design, specifically on AGV position control, can improve the controller accuracy. It also can be useful to study robot design, and mobile robot and AGV simulation.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">DC motor</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Modeling</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">System Identification</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Motor dynamics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Automated Guided Vehicle</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Position control</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Mobile robot</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

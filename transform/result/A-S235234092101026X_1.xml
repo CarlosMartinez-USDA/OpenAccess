@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107751">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset for field experiments analyzing discrimination in amateur soccer</dct:title>
+         <dct:creator>Cornel Nesseler</dct:creator>
+         <dct:creator>Carlos Gomez-Gonzalez</dct:creator>
+         <dct:creator>Helmut Dietl</dct:creator>
+         <dct:creator>Christoph Halser</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Sport science</rdf:li>
+               <rdf:li>Experiments</rdf:li>
+               <rdf:li>Discrimination</rdf:li>
+               <rdf:li>Migration</rdf:li>
+               <rdf:li>Integration</rdf:li>
+               <rdf:li>Social activities</rdf:li>
+               <rdf:li>RCT</rdf:li>
+               <rdf:li>Amateur soccer</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107751</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107751</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107751</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107751</dct:identifier>
+         <bam:articleNumber>107751</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-22T17:26:53Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Norway institutes 2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107751</ja:aid>
+         <ce:article-number>107751</ce:article-number>
+         <ce:pii>S2352-3409(21)01026-X</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107751</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset for field experiments analyzing discrimination in amateur soccer</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S235234092101026X-f59e8e531c8417d128f154bcb04f29c1">
+               <ce:given-name>Cornel</ce:given-name>
+               <ce:surname>Nesseler</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:Cornel.m.nesseler@ntnu.no">Cornel.m.nesseler@ntnu.no</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S235234092101026X-7800ff6faae6800b775487b437014bab">
+               <ce:given-name>Carlos</ce:given-name>
+               <ce:surname>Gomez-Gonzalez</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea1"
+                             type="social-media"
+                             xlink:href="https://twitter.com/carlosgomez_id">@carlosgomez_id</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S235234092101026X-c704cca1b3dcd8d31fbba88fdde6b510">
+               <ce:given-name>Helmut</ce:given-name>
+               <ce:surname>Dietl</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S235234092101026X-25f9f27c62e7a104064660e1c2a1b75c"
+                       orcid="0000-0002-2009-4388">
+               <ce:given-name>Christoph</ce:given-name>
+               <ce:surname>Halser</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S235234092101026X-2b92722fef90350e763a57cece7d18b3">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Norwegian University of Science and Technology, Trondheim, Norway</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Norwegian University of Science and Technology</sa:organization>
+                  <sa:city>Trondheim</sa:city>
+                  <sa:country>Norway</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aNorwegian University of Science and Technology, Trondheim, Norway</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S235234092101026X-0cc3b8bd9b83f8faf730612b826f9ad9">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">University of Zurich, Zurich, Switzerland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>University of Zurich</sa:organization>
+                  <sa:city>Zurich</sa:city>
+                  <sa:country>Switzerland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bUniversity of Zurich, Zurich, Switzerland</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="25" month="11" year="2021"/>
+         <ce:date-revised day="18" month="12" year="2021"/>
+         <ce:date-accepted day="21" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara004" view="all">This paper presents data of field experiments that analyze discrimination in amateur soccer. The studies created fake accounts and asked amateur soccer coaches to come for a trial practice. The fake accounts had either a native- or a foreign-sounding name. The dataset is based on three published studies that analyzed discrimination in 23 countries. The dataset contains 24,915 observations and several variables that are interesting for further research. This data can be used to compare discrimination in amateur soccer with discrimination in diverse fields, such as migration, economics, or political science. For a more detailed discussion, please see the published articles.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Sport science</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Experiments</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Discrimination</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Migration</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Integration</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Social activities</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">RCT</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Amateur soccer</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

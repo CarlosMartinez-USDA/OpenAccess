@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107485">
+         <dct:format>application/xml</dct:format>
+         <dct:title>LCMS dataset on compounds in Syzygium polyanthum (Wight) Walp. leaves variant from the East coast of Peninsular Malaysia</dct:title>
+         <dct:creator>T.A. Faiz T. Anuar</dct:creator>
+         <dct:creator>Azlini Ismail</dct:creator>
+         <dct:creator>Izzat Fahimuddin Mohamed Suffian</dct:creator>
+         <dct:creator>Azzmer Azzar Abdul Hamid</dct:creator>
+         <dct:creator>Mohd Hafiz Arzmi</dct:creator>
+         <dct:creator>Muhammad Nor Omar</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Syzygium polyanthum</rdf:li>
+               <rdf:li>LCMS</rdf:li>
+               <rdf:li>Serai kayu</rdf:li>
+               <rdf:li>Salam</rdf:li>
+               <rdf:li>Traditional plant</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107485</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107485</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107485</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107485</dct:identifier>
+         <bam:articleNumber>107485</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-14T13:10:49Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107485</ja:aid>
+         <ce:article-number>107485</ce:article-number>
+         <ce:pii>S2352-3409(21)00766-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107485</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">LCMS dataset on compounds in <ce:italic>Syzygium polyanthum</ce:italic> (Wight) Walp. leaves variant from the East coast of Peninsular Malaysia</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007666-61fb849bbc5b342aad0130f17134fe28"
+                       orcid="0000-0002-7662-3971">
+               <ce:given-name>T.A. Faiz T.</ce:given-name>
+               <ce:surname>Anuar</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007666-de5130de1a22af62819543966101d432"
+                       orcid="0000-0002-8941-540X">
+               <ce:given-name>Azlini</ce:given-name>
+               <ce:surname>Ismail</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:dr_azlini@iium.edu.my">dr_azlini@iium.edu.my</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007666-69706e47fa83a0a23e17de64a24f9887">
+               <ce:given-name>Izzat Fahimuddin</ce:given-name>
+               <ce:surname>Mohamed Suffian</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007666-7e43dcdd5349add2b9ecf5f5b0eb03b8">
+               <ce:given-name>Azzmer Azzar</ce:given-name>
+               <ce:surname>Abdul Hamid</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921007666-ce431472b3a38e9c35f1ecb84df53d2e"
+                       orcid="0000-0002-9470-6412">
+               <ce:given-name>Mohd Hafiz</ce:given-name>
+               <ce:surname>Arzmi</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921007666-1d9993f604f09c9466b4df2e6e7aaeed"
+                       orcid="0000-0002-3094-717X">
+               <ce:given-name>Muhammad Nor</ce:given-name>
+               <ce:surname>Omar</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007666-ed525df73d3bb3d0720b588db2651b2b">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Chemistry, Kulliyyah of Science, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>Kulliyyah of Science</sa:organization>
+                  <sa:organization>International Islamic University Malaysia</sa:organization>
+                  <sa:city>Kuantan</sa:city>
+                  <sa:state>Pahang</sa:state>
+                  <sa:postal-code>25200</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Chemistry, Kulliyyah of Science, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007666-61cb0c8cfe7dc566e2fc05c1eaa952f0">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Fundamental Dental and Medical Sciences, Kulliyah of Dentistry, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Fundamental Dental and Medical Sciences</sa:organization>
+                  <sa:organization>Kulliyah of Dentistry</sa:organization>
+                  <sa:organization>International Islamic University Malaysia</sa:organization>
+                  <sa:city>Kuantan</sa:city>
+                  <sa:state>Pahang</sa:state>
+                  <sa:postal-code>25200</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Fundamental Dental and Medical Sciences, Kulliyah of Dentistry, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921007666-cfae8767ce7ee7290cd570de854e8eb7">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Pharmaceutical Chemistry, Kulliyyah of Pharmacy, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmaceutical Chemistry</sa:organization>
+                  <sa:organization>Kulliyyah of Pharmacy</sa:organization>
+                  <sa:organization>International Islamic University Malaysia</sa:organization>
+                  <sa:city>Kuantan</sa:city>
+                  <sa:state>Pahang</sa:state>
+                  <sa:postal-code>25200</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Pharmaceutical Chemistry, Kulliyyah of Pharmacy, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921007666-8e9e11c9662d4dbcfa8397400d534eff">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Biotechnology, Kulliyyah of Science, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biotechnology</sa:organization>
+                  <sa:organization>Kulliyyah of Science</sa:organization>
+                  <sa:organization>International Islamic University Malaysia</sa:organization>
+                  <sa:city>Kuantan</sa:city>
+                  <sa:state>Pahang</sa:state>
+                  <sa:postal-code>25200</sa:postal-code>
+                  <sa:country>Malaysia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Biotechnology, Kulliyyah of Science, International Islamic University Malaysia, Kuantan, Pahang 25200, Malaysia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="11" month="2" year="2021"/>
+         <ce:date-revised day="7" month="10" year="2021"/>
+         <ce:date-accepted day="14" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">The data presented here is the liquid chromatography and mass spectrometry (LC-MS) profile of phytochemical compounds in the aqueous extract of <ce:italic>Syzygium polyanthum</ce:italic> (Wight) Walp. leaves. This plant is consumed raw and sometimes added to local dishes of people in Southeast Asia countries. Most importantly, it has ethnomedicinal values mainly in treating diabetes and hypertension, and at the same time, this plant has anti-microbial, anti-oxidant, anti-cancer, and anti-tumor properties [1]. There are chemical composition variations reported between the same species of different geographical locations, which eventually affect the plant's therapeutic potential [2,3]. This dataset represents the identified compounds for <ce:italic>S. polyanthum</ce:italic> (Wight) Walp. leaves, a variant collected from Kuantan, a city located in the Pahang state on the East Coast of Peninsular Malaysia. The leaves were then dried in an open-air at room temperature for three weeks, ground, and then macerated in water inside a bath-sonicator, freeze-dried, and then run using LCMS. The LCMS was run using the ultra-performance liquid chromatography equipped with an electrospray time-of-flight mass spectrometer detector, operated in a negative-ion mode. The mass spectral features from samples raw data were matched with Traditional Medicine (en) and Waters Screening libraries in the Waters UNIFI™ Scientific Information System software version 1.7 (Waters, USA) for compounds identification.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Syzygium polyanthum</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">LCMS</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Serai kayu</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Salam</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Traditional plant</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

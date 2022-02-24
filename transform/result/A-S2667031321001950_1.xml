@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100213">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Effect of herbal decoctions used in Mexican traditional medicine attenuate the adverse effects of a hypercaloric diet.</dct:title>
+         <dct:creator>Ana K. Castellanos-Jiménez</dct:creator>
+         <dct:creator>Rosalía Reynoso-Camacho</dct:creator>
+         <dct:creator>Nuria E. Rocha-Guzmán</dct:creator>
+         <dct:creator>María A. Corella-Madueño</dct:creator>
+         <dct:creator>Erika A. de los Ríos</dct:creator>
+         <dct:creator>Luis M. Salgado</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Diabetes</rdf:li>
+               <rdf:li>Insulin resistance</rdf:li>
+               <rdf:li>Herbal decoctions</rdf:li>
+               <rdf:li>Hypoglycemic effect</rdf:li>
+               <rdf:li>Traditional medicine</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100213</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100213</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100213</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100213</dct:identifier>
+         <bam:articleNumber>100213</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-30T06:38:17Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Mexico: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100213</ja:aid>
+         <ce:article-number>100213</ce:article-number>
+         <ce:pii>S2667-0313(21)00195-0</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100213</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Effect of herbal decoctions used in Mexican traditional medicine attenuate the adverse effects of a hypercaloric diet.</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001950-55b4baf35316e879a9342545522a4ac8">
+               <ce:given-name>Ana K.</ce:given-name>
+               <ce:surname>Castellanos-Jiménez</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001950-7f6b96a6f10b5cb6b16c2ac8eaa0487a">
+               <ce:given-name>Rosalía</ce:given-name>
+               <ce:surname>Reynoso-Camacho</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001950-55a7f0df3915df3b3fb93a957ebeadf6">
+               <ce:given-name>Nuria E.</ce:given-name>
+               <ce:surname>Rocha-Guzmán</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001950-df38acddbf2cf1f3050535f947d20ae9">
+               <ce:given-name>María A.</ce:given-name>
+               <ce:surname>Corella-Madueño</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001950-db99f62561f2d995178dcd7d9f5953c3">
+               <ce:given-name>Erika A.</ce:given-name>
+               <ce:surname>de los Ríos</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031321001950-47b4d0af610c9d64c588931d4e542aa4">
+               <ce:given-name>Luis M.</ce:given-name>
+               <ce:surname>Salgado</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:lmsalgador@ipn.mx">lmsalgador@ipn.mx</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001950-5dda1cd1c8bfc0b0182d33b3356fa8eb">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada (CICATA), Instituto Politécnico Nacional (IPN), Querétaro, 76090 Mexico</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada (CICATA), Instituto Politécnico Nacional (IPN)</sa:organization>
+                  <sa:city>Querétaro</sa:city>
+                  <sa:postal-code>76090</sa:postal-code>
+                  <sa:country>Mexico</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aCentro de Investigación en Ciencia Aplicada y Tecnología Avanzada (CICATA), Instituto Politécnico Nacional (IPN), Querétaro, 76090 Mexico</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001950-7722b5e25fde338bd6e5903ebfdeddb4">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Universidad Autónoma de Querétaro (UAQ), Facultad de Química, Querétaro, 76010 Mexico</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Universidad Autónoma de Querétaro (UAQ), Facultad de Química</sa:organization>
+                  <sa:city>Querétaro</sa:city>
+                  <sa:postal-code>76010</sa:postal-code>
+                  <sa:country>Mexico</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bUniversidad Autónoma de Querétaro (UAQ), Facultad de Química, Querétaro, 76010 Mexico</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001950-df92fbbf5b1bd28cbabcd0cfa28ef256">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Departamento de Ingeniería Química y Bioquímica, Unidad de Posgrado, Investigación y Desarrollo Tecnológico (UPIDET), TecNM/Instituto Tecnológico de Durango, Durango, Mexico</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Departamento de Ingeniería Química y Bioquímica, Unidad de Posgrado, Investigación y Desarrollo Tecnológico (UPIDET), TecNM/Instituto Tecnológico de Durango</sa:organization>
+                  <sa:state>Durango</sa:state>
+                  <sa:country>Mexico</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartamento de Ingeniería Química y Bioquímica, Unidad de Posgrado, Investigación y Desarrollo Tecnológico (UPIDET), TecNM/Instituto Tecnológico de Durango, Durango, Mexico</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031321001950-a779ba3fbf2a6f694050c8a491900248">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Departamento de Ciencias Químico Biológicas, Universidad de Sonora, 83000 Hermosillo, Sonora, Mexico</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Departamento de Ciencias Químico Biológicas, Universidad de Sonora</sa:organization>
+                  <sa:city>Hermosillo</sa:city>
+                  <sa:state>Sonora</sa:state>
+                  <sa:postal-code>83000</sa:postal-code>
+                  <sa:country>Mexico</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartamento de Ciencias Químico Biológicas, Universidad de Sonora, 83000 Hermosillo, Sonora, Mexico</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667031321001950-a09b8c096d48d710bbf43ef507e9fb0d">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Instituto de Neurobiología, Universidad Autónoma de México (UNAM), Campus UNAM-Juriquilla, Quéretaro, 76230 Mexico</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Instituto de Neurobiología, Universidad Autónoma de México (UNAM), Campus UNAM-Juriquilla</sa:organization>
+                  <sa:state>Quéretaro</sa:state>
+                  <sa:postal-code>76230</sa:postal-code>
+                  <sa:country>Mexico</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eInstituto de Neurobiología, Universidad Autónoma de México (UNAM), Campus UNAM-Juriquilla, Quéretaro, 76230 Mexico</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: CICATA-Querétaro, Instituto Politécnico Nacional (IPN), Cerro Blanco 141, Col. Colinas del Cimatario, Querétaro, 76090 México</ce:text>
+               <sa:affiliation>
+                  <sa:organization>CICATA-Querétaro, Instituto Politécnico Nacional (IPN)</sa:organization>
+                  <sa:address-line>Cerro Blanco 141, Col. Colinas del Cimatario</sa:address-line>
+                  <sa:city>Querétaro</sa:city>
+                  <sa:postal-code>76090</sa:postal-code>
+                  <sa:country>México</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="5" month="10" year="2021"/>
+         <ce:date-revised day="18" month="11" year="2021"/>
+         <ce:date-accepted day="30" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara008" view="all">In Mexico, plants as <ce:italic>Ibervillea sonorae, Justicia spicigera, Mentha spicata</ce:italic>, or <ce:italic>Hibiscus sabdariffa</ce:italic> are used to prepare decoctions that are traditionally used by the population to prevent or treat several diseases such as obesity and diabetes; scientific evidence is still in process.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:section-title id="cesectitle0003">Purpose</ce:section-title>
+               <ce:simple-para id="spara009" view="all">This study evaluated the therapeutic effects of traditional preparations (aqueous decoctions) of four herbs on obesity and its complications, such as insulin resistance, hypertriglyceridemia, and hepatic steatosis induced by a hypercaloric diet.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Materials and methods</ce:section-title>
+               <ce:simple-para id="spara010" view="all">UPLC-PDA-ESI-QqQ analysis was performed to identify and quantify extractable phenolic constituents of each decoction. Metabolic alterations were induced by high fat and fructose diet in Wistar rats; decoctions were administered for 12 weeks. The effects of herbs on insulin resistant animals, glucose tolerance, insulin resistance, hypertriglyceridemia, and lipid storage in the liver and adipose tissue were assessed by biochemical assays and histological examination.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara011" view="all">Rats treated with <ce:italic>H. sabdariffa</ce:italic> preventing body weight gain, improving glucose homeostasis, and decreasing adipocyte size. Meanwhile, the triglycerides and glucose levels in obese rats decreased after <ce:italic>I. sonorae</ce:italic> treatment. All decoctions showed no adverse effects. UPLC-PDA-ESI-QqQ analysis revealed caffeoylquinic acid derivatives as the most abundant phenolic compounds in aqueous decoctions.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusions</ce:section-title>
+               <ce:simple-para id="spara012" view="all">Decoctions of <ce:italic>H. sabdariffa</ce:italic> or <ce:italic>I. sonorae</ce:italic> attenuated the adverse effects of a hypercaloric diet via improving glucose homeostasis and triglycerides levels without any observed adverse effects. These decoctions could be helpful for the treatment of metabolic diseases such as obesity and its complications.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0007">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Diabetes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Insulin resistance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Herbal decoctions</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Hypoglycemic effect</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Traditional medicine</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

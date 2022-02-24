@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.meafoo.2021.100011">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Examination of wheat kernels for the presence of Fusarium damage and mycotoxins using near-infrared hyperspectral imaging</dct:title>
+         <dct:creator>M. Nadimi</dct:creator>
+         <dct:creator>J.M. Brown</dct:creator>
+         <dct:creator>J. Morrison</dct:creator>
+         <dct:creator>J. Paliwal</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>CWRS, Fusarium</rdf:li>
+               <rdf:li>FDK</rdf:li>
+               <rdf:li>DON</rdf:li>
+               <rdf:li>Wheat</rdf:li>
+               <rdf:li>Hyperspectral imaging</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Measurement: Food 4 (2021). doi:10.1016/j.meafoo.2021.100011</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Measurement: Food</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Ltd.</prism:copyright>
+         <dct:publisher>Elsevier Ltd</dct:publisher>
+         <prism:issn>2772-2759</prism:issn>
+         <prism:volume>4</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.meafoo.2021.100011</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.meafoo.2021.100011</prism:url>
+         <dct:identifier>doi:10.1016/j.meafoo.2021.100011</dct:identifier>
+         <bam:articleNumber>100011</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-20T02:14:05Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>MEAFOO</ja:jid>
+         <ja:aid>100011</ja:aid>
+         <ce:article-number>100011</ce:article-number>
+         <ce:pii>S2772-2759(21)00007-1</ce:pii>
+         <ce:doi>10.1016/j.meafoo.2021.100011</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Examination of wheat kernels for the presence of <ce:italic>Fusarium</ce:italic> damage and mycotoxins using near-infrared hyperspectral imaging</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2772275921000071-d7a55191848721897261fdf9a8fd9528">
+               <ce:given-name>M.</ce:given-name>
+               <ce:surname>Nadimi</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2772275921000071-672eca48cc005cee05c49d6812751186">
+               <ce:given-name>J.M.</ce:given-name>
+               <ce:surname>Brown</ce:surname>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2772275921000071-5f1b6d59db6b38d432f567a3022a4718">
+               <ce:given-name>J.</ce:given-name>
+               <ce:surname>Morrison</ce:surname>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2772275921000071-a1c7be4774f7d7ee14b6d072ca41c16a">
+               <ce:given-name>J.</ce:given-name>
+               <ce:surname>Paliwal</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:j.paliwal@umanitoba.ca">j.paliwal@umanitoba.ca</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2772275921000071-863466959a541336a30cb083bd40784e">
+               <ce:textfn id="cetextfn0001">Department of Biosystems Engineering, University of Manitoba, Winnipeg, Manitoba, Canada</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biosystems Engineering</sa:organization>
+                  <sa:organization>University of Manitoba</sa:organization>
+                  <sa:city>Winnipeg</sa:city>
+                  <sa:state>Manitoba</sa:state>
+                  <sa:country>Canada</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Biosystems Engineering, University of Manitoba, Winnipeg, Manitoba, Canada</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="20" month="7" year="2021"/>
+         <ce:date-revised day="12" month="10" year="2021"/>
+         <ce:date-accepted day="19" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">The agriculture industry experiences severe economic losses each year due to infection of cereal crops with <ce:italic>Fusarium,</ce:italic> often leading to contamination with the secondary metabolite mycotoxin Deoxynivalenol (DON). Timely detection of <ce:italic>Fusarium</ce:italic> Damaged Kernels (FDK) could provide producers with an opportunity to develop and implement mitigation strategies and minimize corresponding losses, and also to avoid health risks to humans and animals. Given the slow, labor-intensive, and often destructive current FDK and DON detection methods, the agriculture industry is in dire need of fast, non-invasive, and non-destructive alternative screening techniques. Recent research efforts have introduced hyperspectral imaging (HSI) as a promising non-destructive tool for FDK and DON risk management in cereals. However, a simple single scan for both FDK and DON identification is highly desired due to its ease of use and resulting commercial acceptance. To this end, the present research investigated the feasibility of using NIR HSI in the 960–1700 nm wavelength range to detect the presence of FDK and its secondary metabolite DON in Canadian Western Red Spring (CWRS) wheat. The two k-nearest neighbour (kNN)-based classifiers were developed by identifying 0.2% of the classified spectra that identify their classes. These were identified through their consistent categorization using faster 1NN classifiers from samples of spectra. The resulting 3NN classifiers, one for identifying the presence of FDK and the other for determining the presence of DON, gave good results in classification. The FDK classifier obtained 85% accuracy and 92% sensitivity, and the DON classifier achieved 80% accuracy and 77% sensitivity. Our results indicate that a single HSI scan can be used to rapidly identify the presence of both FDK and DON in CWRS wheat samples. The developed model can be used as a pre-screening technique by the wheat industry to reduce the time and labor currently expended in FDK and DON identification.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">CWRS, <ce:italic>Fusarium</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">FDK</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">DON</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Wheat</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Hyperspectral imaging</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

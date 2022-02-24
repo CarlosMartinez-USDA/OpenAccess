@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data for electricity consumption, thermo-physical characteristics of residential buildings in Tehran</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Mahsa</namePart>
+      <namePart type="family">Torabi</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1058-9165</nameIdentifier>
+      <displayForm>Torabi, Mahsa</displayForm>
+      <affiliation>Faculty of Architecture, University of Tehran, Tehran, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sahar</namePart>
+      <namePart type="family">Labbafan</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7473-1744</nameIdentifier>
+      <displayForm>Labbafan, Sahar</displayForm>
+      <affiliation>Faculty of Architecture, Pars University, Tehran, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bahareh</namePart>
+      <namePart type="family">Farajnia</namePart>
+      <displayForm>Farajnia, Bahareh</displayForm>
+      <affiliation>Faculty of Architecture, Pars University, Tehran, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This data article presents data related to 100 residential units in Tehran, Iran. For each building the ``average monthly electricity consumption'' data for 190 months has been provided. In addition, some physical characteristics of each building are given in the dataset. Presented data includes collected electricity end-users in residential units as well as thermos-physical characteristics of the buildings through a structured questionnaire. The physical characteristics covered in this study include; the number of floors, morphology of the yard and the ratio of the windows on each side window material, area, floor number of the studied residential unit, location in the city, cooling system, heating system, and so on. Information provided in this data article can be useful for research on energy prediction studies and also energy management strategies, and policy making to achieve sustainability targets. Having few datasets published on this topic, especially in hot and arid geographic regions, authors believe that the result of this data study can be generalized to the larger region of the Middle East and North Africa (MENA). The data consists of two parts; 1. Physical specifications of the building and 2. History of electricity consumption. </abstract>
+   <subject>
+      <topic>Monthly electricity consumption</topic>
+   </subject>
+   <subject>
+      <topic>Building physical characteristics</topic>
+   </subject>
+   <subject>
+      <topic>Residential buildings</topic>
+   </subject>
+   <subject>
+      <topic>Real-time data</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107813</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107813</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107813</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00025-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-06"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000257/S2352340922000257.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

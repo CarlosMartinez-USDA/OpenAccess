@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.jtcms.2021.12.004">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Effects of Lycium barbarum polysaccharides on the proliferation and differentiation of primary Sertoli cells in young rats</dct:title>
+         <dct:creator>Suqin Hu</dct:creator>
+         <dct:creator>Chunrui Li</dct:creator>
+         <dct:creator>Dianlong Liu</dct:creator>
+         <dct:creator>Jian Guo</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Lycium barbarum polysaccharide</rdf:li>
+               <rdf:li>Spermatogenesis</rdf:li>
+               <rdf:li>Sertoli cells</rdf:li>
+               <rdf:li>Proliferation</rdf:li>
+               <rdf:li>Differentiation</rdf:li>
+               <rdf:li>Androgen receptor</rdf:li>
+               <rdf:li>Phosphorylated-Akt</rdf:li>
+               <rdf:li>Male fertility</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Journal of Traditional Chinese Medical Sciences 9 (2022) 78-84. doi:10.1016/j.jtcms.2021.12.004</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Journal of Traditional Chinese Medical Sciences</prism:publicationName>
+         <prism:copyright>© 2022 Beijing University of Chinese Medicine. Production and hosting by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2095-7548</prism:issn>
+         <prism:volume>9</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>January 2022</prism:coverDisplayDate>
+         <prism:pageRange>78-84</prism:pageRange>
+         <prism:startingPage>78</prism:startingPage>
+         <prism:endingPage>84</prism:endingPage>
+         <prism:doi>10.1016/j.jtcms.2021.12.004</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.jtcms.2021.12.004</prism:url>
+         <dct:identifier>doi:10.1016/j.jtcms.2021.12.004</dct:identifier>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-31T01:09:08Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Beijing University of Chinese Medicine</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>JTCMS</ja:jid>
+         <ja:aid>355</ja:aid>
+         <ce:pii>S2095-7548(21)00102-2</ce:pii>
+         <ce:doi>10.1016/j.jtcms.2021.12.004</ce:doi>
+         <ce:copyright type="society" year="2022">Beijing University of Chinese Medicine</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:article-footnote>
+            <ce:note-para id="ntpara0010" view="all">Peer review under responsibility of Beijing University of Chinese Medicine.</ce:note-para>
+         </ce:article-footnote>
+         <ce:title id="title0010">Effects of <ce:italic>Lycium barbarum</ce:italic> polysaccharides on the proliferation and differentiation of primary Sertoli cells in young rats</ce:title>
+         <ce:author-group id="augrp0010">
+            <ce:author id="au1"
+                       orcid="0000-0003-4277-5309"
+                       author-id="S2095754821001022-a50b79378f7193558fc994b207b0794a">
+               <ce:given-name>Suqin</ce:given-name>
+               <ce:surname>Hu</ce:surname>
+            </ce:author>
+            <ce:author id="au2" author-id="S2095754821001022-a168109178bfcd34f06affda64eb73fa">
+               <ce:given-name>Chunrui</ce:given-name>
+               <ce:surname>Li</ce:surname>
+            </ce:author>
+            <ce:author id="au3" author-id="S2095754821001022-3a1a04f56dd5b215b5955f50e5b5ece1">
+               <ce:given-name>Dianlong</ce:given-name>
+               <ce:surname>Liu</ce:surname>
+            </ce:author>
+            <ce:author id="au4"
+                       orcid="0000-0002-5941-5820"
+                       author-id="S2095754821001022-9422c720c8029b8fd5d151957742d6ae">
+               <ce:given-name>Jian</ce:given-name>
+               <ce:surname>Guo</ce:surname>
+               <ce:cross-ref refid="cor1">
+                  <ce:sup loc="post">∗</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:guojian@bucm.edu.cn" id="eadd0010">guojian@bucm.edu.cn</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff1"
+                            affiliation-id="S2095754821001022-29f50aacc4c7baeccc720469ddc001e2">
+               <ce:textfn>School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, 102488, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Traditional Chinese Medicine</sa:organization>
+                  <sa:organization>Beijing University of Chinese Medicine</sa:organization>
+                  <sa:city>Beijing</sa:city>
+                  <sa:postal-code>102488</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0010">School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, 102488, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor1">
+               <ce:label>∗</ce:label>
+               <ce:text>Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="10" month="3" year="2021"/>
+         <ce:date-revised day="30" month="12" year="2021"/>
+         <ce:date-accepted day="30" month="12" year="2021"/>
+         <ce:abstract xml:lang="en" id="abs0010" view="all" class="author">
+            <ce:section-title id="sectitle0010">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0010" view="all">
+               <ce:section-title id="sectitle0015">Objective</ce:section-title>
+               <ce:simple-para id="abspara0010" view="all">Sertoli cells (SCs) provide physical support and material supply for germ cells and participate in the formation of blood-testis barrier. The number of SCs is directly proportional to the number of germ cells. And mature SCs ensure the growth of germ cells and the production of sperm. In this study, we explored the effect and underlying mechanism of <ce:italic>Lycium barbarum</ce:italic> polysaccharides (LBP) on primary SCs in young rats.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abssec0015" view="all">
+               <ce:section-title id="sectitle0020">Methods</ce:section-title>
+               <ce:simple-para id="abspara0015" view="all">Primary SCs were isolated from the testis of 20-day old rats. The cells were then treated with different concentrations of LBP. Immunocytochemistry was used to detect the expression of Ki67 and the androgen receptor (AR), and western blotting was used to detect the expression of cytokeratin-18 (CK-18), AR and phosphorylated Akt (Ser473) in SCs.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec role="results" id="abssec0020" view="all">
+               <ce:section-title id="sectitle0025">Results</ce:section-title>
+               <ce:simple-para id="abspara0020" view="all">The number of SCs increased significantly after LBP treatment, and the 100 mg/mL. LBP group had 14% more cells than the control group. The expression of Ki67 in LBP treated groups also increased significantly. LBP inhibited the expression of cytokeratin 18 in SCs. Besides, LBP increased the expression of AR on SCs and promoted the activation of Akt at the ser473 phosphorylation site.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec role="conclusion" id="abssec0025" view="all">
+               <ce:section-title id="sectitle0030">Conclusion</ce:section-title>
+               <ce:simple-para id="abspara0025" view="all">LBP promotes the proliferation of immature SCs in young rats and also accelerates their differentiation and maturation. This seems to be associated with activation of the Akt signaling pathway via up-regulation of AR.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+            <ce:section-title id="sectitle0035">Keywords</ce:section-title>
+            <ce:keyword id="kwrd0010">
+               <ce:text>Lycium barbarum polysaccharide</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0015">
+               <ce:text>Spermatogenesis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0020">
+               <ce:text>Sertoli cells</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0025">
+               <ce:text>Proliferation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0030">
+               <ce:text>Differentiation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0035">
+               <ce:text>Androgen receptor</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0040">
+               <ce:text>Phosphorylated-Akt</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0045">
+               <ce:text>Male fertility</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

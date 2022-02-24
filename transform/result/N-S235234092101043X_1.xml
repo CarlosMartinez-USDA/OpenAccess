@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Oceanography dataset in Bonpies archipelago as remote island in Java Seas, Indonesia</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Noir P.</namePart>
+      <namePart type="family">Purba</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0812-9629</nameIdentifier>
+      <displayForm>Purba, Noir P.</displayForm>
+      <affiliation>Department of Marine Science, Faculty of Fishery and Marine Science, Universitas Padjadjaran, Jl. Raya Bandung-Sumedang Km. 21, Bandung, West Java, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ibnu</namePart>
+      <namePart type="family">Faizal</namePart>
+      <displayForm>Faizal, Ibnu</displayForm>
+      <affiliation>Department of Marine Science, Faculty of Fishery and Marine Science, Universitas Padjadjaran, Jl. Raya Bandung-Sumedang Km. 21, Bandung, West Java, Indonesia</affiliation>
+      <affiliation>Yayasan Segara Bakti, MOCEAN Institute, Jl. Batununggal Indah Raya No.199, Batununggal, Bandung, West Java, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mega L.</namePart>
+      <namePart type="family">Syamsuddin</namePart>
+      <displayForm>Syamsuddin, Mega L.</displayForm>
+      <affiliation>Department of Marine Science, Faculty of Fishery and Marine Science, Universitas Padjadjaran, Jl. Raya Bandung-Sumedang Km. 21, Bandung, West Java, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ajeng</namePart>
+      <namePart type="family">Wulandari</namePart>
+      <displayForm>Wulandari, Ajeng</displayForm>
+      <affiliation>Marine Conservation Programme, Faculty of Fishery and Marine Science, Universitas Padjadjaran, Jl. Raya Bandung-Sumedang Km. 21, Bandung, West Java, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tonny</namePart>
+      <namePart type="family">Bratasena</namePart>
+      <displayForm>Bratasena, Tonny</displayForm>
+      <affiliation>Yayasan Segara Bakti, MOCEAN Institute, Jl. Batununggal Indah Raya No.199, Batununggal, Bandung, West Java, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ryadelle</namePart>
+      <namePart type="family">Therie</namePart>
+      <displayForm>Therie, Ryadelle</displayForm>
+      <affiliation>KOMITMEN Research Group, Universitas Padjadjaran, Gedung 3 FPIK UNPAD, Jl. Raya Bandung-Sumedang Km. 21, Bandung, West Java, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The oceanographic data presented in this article were collected in the Bonpies island, as part of the Java Seas. The data were collected by in-situ measurement from several expeditions from 2011 to 2016. The data presented here include bathymetry, sea surface temperature (SST), sea surface salinity (SSS), ocean transparency, dissolved oxygen, and pH. All data were collected by daily in-situ measurements in different seasons. There were 5768 data measured from several portable instruments, including echo-sounder and portable instruments. Calibration of the instrument was carried out before and after the survey in accordance with the protocol provided by the manufacturer. Measurements are made directly and recorded into a log sheet paper and the data format is Comma Separated Files (.csv). This in-situ data would be most useful for regional climate studies, including forecasting such as El Nino and Indian Ocean Dipole effects, oceanographic condition, and marine resources management. </abstract>
+   <subject>
+      <topic>Sea surface temperature</topic>
+   </subject>
+   <subject>
+      <topic>Physical oceanography</topic>
+   </subject>
+   <subject>
+      <topic>Biawak island</topic>
+   </subject>
+   <subject>
+      <topic>Small island</topic>
+   </subject>
+   <subject>
+      <topic>Indonesia throughflow</topic>
+   </subject>
+   <subject>
+      <topic>Ocean expedition</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107769</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107769</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107769</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01043-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-28"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S235234092101043X/S235234092101043X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

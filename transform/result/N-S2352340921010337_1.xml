@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset regarding the mechanical properties of roads unbound treated with synthetic fluid based on isoalkane and tall oil</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Diego Maria</namePart>
+      <namePart type="family">Barbieri</namePart>
+      <displayForm>Barbieri, Diego Maria</displayForm>
+      <affiliation>Norwegian University of Science and Technology, Department of Civil and Environmental Engineering, Høgskoleringen 7A, Trondheim, Trøndelag 7491, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Baowen</namePart>
+      <namePart type="family">Lou</namePart>
+      <displayForm>Lou, Baowen</displayForm>
+      <affiliation>Norwegian University of Science and Technology, Department of Civil and Environmental Engineering, Høgskoleringen 7A, Trondheim, Trøndelag 7491, Norway</affiliation>
+      <affiliation>Chang'an University, School of Highway, Nan Er Huan Road (Mid-section), Xi'an, Shaanxi 710064, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Robert Jason</namePart>
+      <namePart type="family">Dyke</namePart>
+      <displayForm>Dyke, Robert Jason</displayForm>
+      <affiliation>Oslo Metropolitan University, Department of Civil Engineering and Energy Technology, Pilestredet 35, Oslo 0166 Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hao</namePart>
+      <namePart type="family">Chen</namePart>
+      <displayForm>Chen, Hao</displayForm>
+      <affiliation>Norwegian University of Science and Technology, Department of Civil and Environmental Engineering, Høgskoleringen 7A, Trondheim, Trøndelag 7491, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fusong</namePart>
+      <namePart type="family">Wang</namePart>
+      <displayForm>Wang, Fusong</displayForm>
+      <affiliation>State Key Laboratory of Silicate Materials for Architectures, Wuhan University of Technology, Luoshi road 122, Wuhan, Hubei 430070, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Billy</namePart>
+      <namePart type="family">Connor</namePart>
+      <displayForm>Connor, Billy</displayForm>
+      <affiliation>College of Engineering and Mines, University of Alaska Fairbanks, Tanan Loop 1760, Fairbanks, Alaska 99709, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Inge</namePart>
+      <namePart type="family">Hoff</namePart>
+      <displayForm>Hoff, Inge</displayForm>
+      <affiliation>Norwegian University of Science and Technology, Department of Civil and Environmental Engineering, Høgskoleringen 7A, Trondheim, Trøndelag 7491, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The dataset revolves around the laboratory testing of an innovative additive technology for possible stabilization of unbound courses in road pavements. The product is a synthetic fluid based on isoalkane and tall oil pitch. Two test types are performed. Repeated load triaxial tests evaluate the elastic stiffness and the deformation properties of both untreated and treated aggregates. Moreover, some specimens are also tested before and after being subjected to freezing-thawing actions. A modified version of the rolling bottle test appraises the integrity with stripping loss on loose aggregates covered by the additive. Considering the necessity for road maintenance and rehabilitation worldwide, experimental data dealing with the stabilization potential of an innovative synthetic fluid stabilizer can be relevant for several road stakeholders. </abstract>
+   <subject>
+      <topic>Stabilized roads unbound</topic>
+   </subject>
+   <subject>
+      <topic>Isoalkane</topic>
+   </subject>
+   <subject>
+      <topic>Tall oil pitch</topic>
+   </subject>
+   <subject>
+      <topic>Repeated load triaxial test</topic>
+   </subject>
+   <subject>
+      <topic>Freeze-thaw cycles</topic>
+   </subject>
+   <subject>
+      <topic>Rolling bottle test</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107758</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107758</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107758</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01033-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-22"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010337/S2352340921010337.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

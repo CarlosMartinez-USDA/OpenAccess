@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Logit models, the area under receiver characteristic curves, sensitivity, and specificity for Co-enrollment density in college networks dataset.</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Eric Leonardo</namePart>
+      <namePart type="family">Huerta-Manzanilla</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2788-1990</nameIdentifier>
+      <displayForm>Huerta-Manzanilla, Eric Leonardo</displayForm>
+      <affiliation>Universidad Autónoma de Querétaro, México</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Matthew W.</namePart>
+      <namePart type="family">Ohland</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4052-1452</nameIdentifier>
+      <displayForm>Ohland, Matthew W.</displayForm>
+      <affiliation>Purdue University, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Manuel</namePart>
+      <namePart type="family">Toledano-Ayala</namePart>
+      <displayForm>Toledano-Ayala, Manuel</displayForm>
+      <affiliation>Universidad Autónoma de Querétaro, México</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Juan Carlos</namePart>
+      <namePart type="family">Jáuregui-Correa</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8961-103X</nameIdentifier>
+      <displayForm>Jáuregui-Correa, Juan Carlos</displayForm>
+      <affiliation>Universidad Autónoma de Querétaro, México</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article describes the data related to co-enrollment density (CD), a new network clustering index, that can predict persistence and graduation. The data hold the raw results and charts obtained with the algorithm for CD introduced in ``Co-Enrollment Density Predicts Engineering Students' Persistence and Graduation: College Networks and Logistic Regression Analysis.'' There are data for eight institutions that show CD as a predictor for graduation at four years, graduation at six years, and ever graduated. The files were processed using R to estimate CD at one, two, three, and four years. Logistic regression models, receiver operating characteristic curves, specificity, sensitivity, and cut-off points were estimated for each model. The R code to reproduce the metanalysis for the summary data is included. The displays for the logistic regression models, receiver operating characteristic curves, density curves for classes, models, and parameters are included. </abstract>
+   <subject>
+      <topic>Student retention in college</topic>
+   </subject>
+   <subject>
+      <topic>Logistic regression in education</topic>
+   </subject>
+   <subject>
+      <topic>Receiver operating characteristics roc curves</topic>
+   </subject>
+   <subject>
+      <topic>Social network relations strength</topic>
+   </subject>
+   <subject>
+      <topic>Sensitivity and specificity</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107509</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107509</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107509</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00781-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-20"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007812/S2352340921007812.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

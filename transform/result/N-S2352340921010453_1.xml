@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on the frequency and causes of icteric interference in clinical chemistry laboratory tests</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Anna E.</namePart>
+      <namePart type="family">Merrill</namePart>
+      <displayForm>Merrill, Anna E.</displayForm>
+      <affiliation>Department of Pathology, University of Iowa Hospitals and Clinics, 200 Hawkins Drive, C-671 GH, Iowa City, IA 52242, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sandhya</namePart>
+      <namePart type="family">Mainali</namePart>
+      <displayForm>Mainali, Sandhya</displayForm>
+      <affiliation>Carver College of Medicine, University of Iowa, 451 Newton Road, Iowa City, IA 52242, USA</affiliation>
+      <affiliation>Department of Psychiatry and Behavioral Sciences, University of Kansas School of Medicine-Wichita, Wichita, KS 67214, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Matthew D.</namePart>
+      <namePart type="family">Krasowski</namePart>
+      <displayForm>Krasowski, Matthew D.</displayForm>
+      <affiliation>Department of Pathology, University of Iowa Hospitals and Clinics, 200 Hawkins Drive, C-671 GH, Iowa City, IA 52242, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The presence of elevated levels of bilirubin (icterus) in serum or plasma specimens has the potential to interfere with clinical chemistry and other laboratory assays. Along with hemolysis and lipemia, icterus represents one of the most common endogenous interferences with laboratory tests. There are two common mechanisms by which icterus can cause assay interference. The first common mechanism is spectral interference due to absorption at wavelengths used in assays by bilirubin and/or bilirubin breakdown products. The second common mechanism involves chemical reaction of bilirubin with the reagents used in some enzymatic assays. Most automated clinical chemistry platforms can perform rapid estimates of indices for hemolysis, icterus, and lipemia (HIL), typically by measuring absorbance at wavelengths impacted by these interferences. The data in this article provides results from a detailed 12-month retrospective review of icteric indices and the impact on 114 clinical chemistry assays at an academic medical center in the United States. The data include 414,502 specimens from 94,081 unique patients (51,851 females; 42,230 males), with a total of 2,791,591 discrete clinical chemistry assays performed on the specimens. Detailed chart review was performed for all patients who had one or more specimens with an icteric index of 40 or higher (‘severe icterus’), including determination of the medical diagnoses likely causing icterus and the mortality of these patients within 1 and 3 years following laboratory testing. Data for all specimens include patient location at time of testing (emergency department, inpatient unit, or outpatient site), sex, age, HIL indices, specific clinical chemistry assays performed, and number of times specimens had icteric indices exceeding the icteric index threshold in the package inserts for the clinical chemistry assays performed. The dataset reported is related to the research entitled “Frequency of Icteric Interference in Clinical Chemistry Laboratory Tests and Causes of Severe Icterus” [S. Mainali, A.E. Merrill, M.D. Krasowski, Frequency of icteric interference in clinical chemistry laboratory tests and causes of severe icterus, Pract. Lab. Med. (2021) 27: e00259] </abstract>
+   <subject>
+      <topic>Alcoholic liver disease</topic>
+   </subject>
+   <subject>
+      <topic>Biliary tract diseases</topic>
+   </subject>
+   <subject>
+      <topic>Bilirubin</topic>
+   </subject>
+   <subject>
+      <topic>Clinical chemistry tests</topic>
+   </subject>
+   <subject>
+      <topic>Jaundice</topic>
+   </subject>
+   <subject>
+      <topic>Viral hepatitis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107771</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107771</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107771</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01045-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-28"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010453/S2352340921010453.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

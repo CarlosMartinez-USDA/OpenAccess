@@ -1,0 +1,142 @@
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+    xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+    xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+    xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+    xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+    xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+    xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+    xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+    xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+    xmlns:ce="http://www.elsevier.com/xml/common/schema"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML"
+    xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+    xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+    xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+    xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <rdf:RDF>
+        <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107688">
+            <dct:format>application/xml</dct:format>
+            <dct:title>Corrigendum to &#x201c;A dataset for accounting, finance and economics
+                research on US data breaches&#x201d; [Data in Brief 35 (2021) 1&#x2013;6/
+                106924]</dct:title>
+            <dct:creator>Pierangelo Rosati</dct:creator>
+            <dct:creator>Theo Lynn</dct:creator>
+            <dct:description>Data in Brief 40 (2022).
+                doi:10.1016/j.dib.2021.107688</dct:description>
+            <prism:aggregationType>journal</prism:aggregationType>
+            <prism:publicationName>Data in Brief</prism:publicationName>
+            <prism:copyright>&#169; 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+            <dct:publisher>Elsevier Inc.</dct:publisher>
+            <prism:issn>2352-3409</prism:issn>
+            <prism:volume>40</prism:volume>
+            <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+            <prism:doi>10.1016/j.dib.2021.107688</prism:doi>
+            <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107688</prism:url>
+            <dct:identifier>doi:10.1016/j.dib.2021.107688</dct:identifier>
+            <bam:articleNumber>107688</bam:articleNumber>
+            <oa:openAccessInformation>
+                <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    >http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+                <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    >2021-12-07T07:00:02Z</oa:openAccessEffective>
+                <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <oa:sponsorName>Ireland institutions 2021</oa:sponsorName>
+                    <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+                </oa:sponsor>
+                <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    >http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+            </oa:openAccessInformation>
+            <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open
+                access article under the CC BY license.</cp:licenseLine>
+        </rdf:Description>
+    </rdf:RDF>
+    <dp:document-properties>
+        <dp:aggregation-type>Journals</dp:aggregation-type>
+        <dp:version-number>S300.2</dp:version-number>
+    </dp:document-properties>
+    <ja:article docsubtype="err" version="5.6" xml:lang="en">
+        <ja:item-info>
+            <ja:jid>DIB</ja:jid>
+            <ja:aid>107688</ja:aid>
+            <ce:article-number>107688</ce:article-number>
+            <ce:pii>S2352-3409(21)00963-X</ce:pii>
+            <ce:doi>10.1016/j.dib.2021.107688</ce:doi>
+            <ce:document-thread>
+                <ce:refers-to-document id="ref0001">
+                    <ce:pii>S2352-3409(21)00208-0</ce:pii>
+                    <ce:doi>10.1016/j.dib.2021.106924</ce:doi>
+                </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+        </ja:item-info>
+        <ja:head>
+            <ce:dochead id="doc001">
+                <ce:textfn id="cetextfn0001a">Corrigendum</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">Corrigendum to &#x201c;A dataset for accounting, finance and
+                economics research on US data breaches&#x201d; [Data in Brief 35 (2021) 1&#x2013;6/
+                106924]</ce:title>
+            <ce:author-group id="aut0001">
+                <ce:author id="au0001"
+                    author-id="S235234092100963X-4e010a1fed6c9b4d399d80b38305cc67">
+                    <ce:given-name>Pierangelo</ce:given-name>
+                    <ce:surname>Rosati</ce:surname>
+                    <ce:cross-ref refid="aff0001">
+                        <ce:sup loc="post">a</ce:sup>
+                    </ce:cross-ref>
+                    <ce:cross-ref refid="cor0001">
+                        <ce:sup loc="post">&#x204e;</ce:sup>
+                    </ce:cross-ref>
+                    <ce:e-address id="ead0001" type="email"
+                        xlink:href="mailto:pierangelo.rosati@dcu.ie"
+                        >pierangelo.rosati@dcu.ie</ce:e-address>
+                    <ce:e-address id="ea3" type="social-media"
+                        xlink:href="https://twitter.com/pierosati">@pierosati</ce:e-address>
+                </ce:author>
+                <ce:author id="au0002"
+                    author-id="S235234092100963X-1ca40c5d765097657dc949426d097b0f">
+                    <ce:given-name>Theo</ce:given-name>
+                    <ce:surname>Lynn</ce:surname>
+                    <ce:cross-ref refid="aff0002">
+                        <ce:sup loc="post">b</ce:sup>
+                    </ce:cross-ref>
+                    <ce:e-address id="ea3a" type="social-media"
+                        xlink:href="https://twitter.com/theolynn">@theolynn</ce:e-address>
+                </ce:author>
+                <ce:affiliation id="aff0001"
+                    affiliation-id="S235234092100963X-8acaeb28c679b604300efd99194e14f6">
+                    <ce:label>a</ce:label>
+                    <ce:textfn id="cetextfn0001">Irish Institute of Digital Business, Dublin City
+                        University, Ireland</ce:textfn>
+                    <sa:affiliation>
+                        <sa:organization>Irish Institute of Digital Business</sa:organization>
+                        <sa:organization>Dublin City University</sa:organization>
+                        <sa:country>Ireland</sa:country>
+                    </sa:affiliation>
+                    <ce:source-text id="staff0001">aIrish Institute of Digital Business, Dublin City
+                        University, Ireland</ce:source-text>
+                </ce:affiliation>
+                <ce:affiliation id="aff0002"
+                    affiliation-id="S235234092100963X-8acaeb28c679b604300efd99194e14f6">
+                    <ce:label>b</ce:label>
+                    <ce:textfn id="cetextfn0002">Irish Institute of Digital Business, Dublin City
+                        University, Ireland</ce:textfn>
+                    <sa:affiliation>
+                        <sa:organization>Irish Institute of Digital Business</sa:organization>
+                        <sa:organization>Dublin City University</sa:organization>
+                        <sa:country>Ireland</sa:country>
+                    </sa:affiliation>
+                    <ce:source-text id="staff0002">bIrish Institute of Digital Business, Dublin City
+                        University, Ireland</ce:source-text>
+                </ce:affiliation>
+                <ce:correspondence id="cor0001">
+                    <ce:label>&#x204e;</ce:label>
+                    <ce:text id="cetext0001">Corresponding author.</ce:text>
+                </ce:correspondence>
+            </ce:author-group>
+        </ja:head>
+    </ja:article>
+</doc:document>

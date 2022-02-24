@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107750">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset of endodontic microorganisms killed at 265 nm wavelength by an ultraviolet C light emitting diode in root canals of extracted, instrumented teeth</dct:title>
+         <dct:creator>Kimberly A. Morio</dct:creator>
+         <dct:creator>Robert H. Sternowski</dct:creator>
+         <dct:creator>Kim A. Brogden</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Ultraviolet C</rdf:li>
+               <rdf:li>UVC</rdf:li>
+               <rdf:li>Light emitting diode</rdf:li>
+               <rdf:li>LED</rdf:li>
+               <rdf:li>Antimicrobial</rdf:li>
+               <rdf:li>Root canal infection</rdf:li>
+               <rdf:li>Endodontic infection</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107750</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107750</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107750</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107750</dct:identifier>
+         <bam:articleNumber>107750</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-22T17:53:20Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107750</ja:aid>
+         <ce:article-number>107750</ce:article-number>
+         <ce:pii>S2352-3409(21)01025-8</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107750</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0099-2399(19)30125-6</ce:pii>
+               <ce:doi>10.1016/j.joen.2019.02.016</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset of endodontic microorganisms killed at 265 nm wavelength by an ultraviolet C light emitting diode in root canals of extracted, instrumented teeth</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010258-e1206daaf1941e1f277330e693424f60">
+               <ce:given-name>Kimberly A.</ce:given-name>
+               <ce:surname>Morio</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:kimberly@apexendoiowa.com">kimberly@apexendoiowa.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010258-894f36d66132edeff22b37a5d0443f5c">
+               <ce:given-name>Robert H.</ce:given-name>
+               <ce:surname>Sternowski</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010258-0063c167a68ec70b1f5d49495171bd8f"
+                       orcid="0000-0003-3296-3867">
+               <ce:given-name>Kim A.</ce:given-name>
+               <ce:surname>Brogden</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010258-e6459042dce808686e2420d2530febad">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Apex Endodontics, Hiawatha, IA United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Apex Endodontics</sa:organization>
+                  <sa:city>Hiawatha</sa:city>
+                  <sa:state>IA</sa:state>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aApex Endodontics, Hiawatha, IA United States</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010258-d55a3afbaf414424bc9c61cf3620bcaf">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Softronics, Ltd., Marion, IA United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Softronics, Ltd.</sa:organization>
+                  <sa:city>Marion</sa:city>
+                  <sa:state>IA</sa:state>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bSoftronics, Ltd., Marion, IA United States</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010258-55816a345861133114d565829849187e">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">College of Dentistry, Iowa Institute for Oral Health Research, the University of Iowa, Iowa City, IA United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>College of Dentistry</sa:organization>
+                  <sa:organization>Iowa Institute for Oral Health Research</sa:organization>
+                  <sa:organization>the University of Iowa</sa:organization>
+                  <sa:city>Iowa City</sa:city>
+                  <sa:state>IA</sa:state>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cCollege of Dentistry, Iowa Institute for Oral Health Research, the University of Iowa, Iowa City, IA United States</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="20" month="10" year="2021"/>
+         <ce:date-revised day="9" month="12" year="2021"/>
+         <ce:date-accepted day="21" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara005" view="all">Ultraviolet C (UVC) light emitting diode (LED) can kill the endodontic pathogen <ce:italic>Enterococcus faecalis</ce:italic> and has the potential to kill other oral microorganisms associated with endodontic infections. This same bacteriocidal device shows great promise in the stimulation of periapical healing and pain reduction resulting from inflammation in root canals. Previously, we found that 255 nm UVC LED killed <ce:italic>E. faecalis</ce:italic> and induced the production of cellular biomarkers in HEPM cells and gingival fibroblasts (Morio et al., 2019). Here, we extend those findings and hypothesize that UVC LED at other wavelengths and power levels kill microorganisms associated with root canal infections. Units emitting UVC LED at 265 nm (12 mW), 265 nm (22.5 mW), and 280 nm (8 mW) wavelenths were assembled and the energy levels of their emissions were measured. The energy doses in millijoules (mJ) were calculated from the power readings of the meter (µW) × time of exposure (seconds). <ce:italic>Ex vivo</ce:italic> models of root canals were prepared in extracted, instrumented, single canal human premolars. Five cultures of microorganisms were treated with 265 nm (12 mW), 265 nm (22.5 mW), or 280 nm (8 mW) UVC LED on discs in laboratory assays and 4 cultures of microorganisms were treated with 265 nm (22.5 mW) UVC LED in root canals of extracted, instrumented teeth. After UVC LED treatment, all microorganisms were cultivated on microbiological media. Colony forming units (CFU) of viable microorganisms treated with UVC LED were counted and compared with those of viable microorganisms not treated with UVC LED as controls. Tukey's Honestly Significant Difference was used to determine statistical significances (0.05). Units emitting UVC LED at 265 nm (12 mW), 265 nm (22.5 mW), and 280 nm (8 mW) killed <ce:italic>Candida albicans, Staphylococcus aureus,</ce:italic> methicillin-resistant <ce:italic>S. aureus</ce:italic> (MRSA), <ce:italic>E. faecalis, and Streptococcus sanguinis</ce:italic> after 30-90 seconds of exposure in laboratory assays (<ce:italic>p</ce:italic> &lt; 0.05). Microbial killing differed among treatment times, UVC LED wavelengths, power levels of each unit, and specific microorganism. The unit emitting UVC LED at 265 nm (22.5 mW) killed <ce:italic>C. albicans, S. aureus,</ce:italic> MRSA, and <ce:italic>E. faecalis</ce:italic> in 30 s in root canals of extracted, instrumented teeth (<ce:italic>p</ce:italic> &lt; 0.05). This dataset can be reused to assess the ability of other wavelengths and power levels to kill microorganisms as well as improve procedures for treating endodontic infections and inflammation in root canals.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Ultraviolet C</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">UVC</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Light emitting diode</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">LED</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Antimicrobial</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Root canal infection</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Endodontic infection</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

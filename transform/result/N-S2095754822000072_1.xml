@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Wu Youxing, an anti-epidemic vanguard</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Yongxuan</namePart>
+      <namePart type="family">Liang</namePart>
+      <displayForm>Liang, Yongxuan</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yinghua</namePart>
+      <namePart type="family">Huang</namePart>
+      <displayForm>Huang, Yinghua</displayForm>
+      <affiliation>Beijing University of Chinese Medicine, Beijing, 100029, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Journal of Traditional Chinese Medical Sciences</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2095-7548</identifier>
+      <part>
+         <detail type="volume">
+            <number>9</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>1</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="display-date">January 2022</text>
+         <text type="year">2022</text>
+         <text type="month">January</text>
+         <extent unit="pages">
+            <start>1</start>
+            <end>1</end>
+            <total xmlns="http://www.loc.gov/mods/v3">1</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.jtcms.2022.01.007</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.jtcms.2022.01.007</url>
+   </location>
+   <identifier type="pii">S2095-7548(22)00007-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-19"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2095-7548/S2095754822X00021/S2095754822000072/S2095754822000072.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

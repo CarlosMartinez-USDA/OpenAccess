@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Music genre neuroimaging dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Tomoya</namePart>
+      <namePart type="family">Nakai</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5225-0894</nameIdentifier>
+      <displayForm>Nakai, Tomoya</displayForm>
+      <affiliation>Center for Information and Neural Networks, National Institute of Information and Communications Technology, Suita, Japan</affiliation>
+      <affiliation>Lyon Neuroscience Research Center (CRNL), INSERM U1028 - CNRS UMR5292, University of Lyon, Lyon, France</affiliation>
+      <affiliation>JSPS Overseas Research Fellow, Tokyo, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Naoko</namePart>
+      <namePart type="family">Koide-Majima</namePart>
+      <displayForm>Koide-Majima, Naoko</displayForm>
+      <affiliation>Center for Information and Neural Networks, National Institute of Information and Communications Technology, Suita, Japan</affiliation>
+      <affiliation>Graduate School of Frontier Biosciences, Osaka University, Suita, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shinji</namePart>
+      <namePart type="family">Nishimoto</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8015-340X</nameIdentifier>
+      <displayForm>Nishimoto, Shinji</displayForm>
+      <affiliation>Center for Information and Neural Networks, National Institute of Information and Communications Technology, Suita, Japan</affiliation>
+      <affiliation>Graduate School of Frontier Biosciences, Osaka University, Suita, Japan</affiliation>
+      <affiliation>Graduate School of Medicine, Osaka University, Suita, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This dataset includes functional magnetic resonance imaging (fMRI) data collected while five subjects extensively listened to 540 music pieces from 10 music genres over the course of 3 days. Behavioral data are also available. Data are separated into training and test samples to facilitate the application of machine learning algorithms. Test stimuli were repeated four times and can be used to evaluate the signal to noise ratio of brain activity. Using this dataset, both neuroimaging and machine learning researchers can test multiple algorithms regarding the prediction performance of brain activity induced by various music stimuli. Although two previous studies have used this dataset, there remains much room to apply different acoustic models. This dataset can contribute to integration of the fields of auditory neuroscience and machine learning. </abstract>
+   <subject>
+      <topic>Music genre recognition</topic>
+   </subject>
+   <subject>
+      <topic>Brain activity</topic>
+   </subject>
+   <subject>
+      <topic>fMRI</topic>
+   </subject>
+   <subject>
+      <topic>Machine learning</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107675</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107675</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107675</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00950-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-02"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009501/S2352340921009501.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset describing Aotearoa New Zealand young adults’ psychological well-being and behaviour during nationwide lockdown</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Terise</namePart>
+      <namePart type="family">Broodryk</namePart>
+      <displayForm>Broodryk, Terise</displayForm>
+      <affiliation>Te Herenga Waka—Victoria University of Wellington, New Zealand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kealagh</namePart>
+      <namePart type="family">Robinson</namePart>
+      <displayForm>Robinson, Kealagh</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This dataset provides a comprehensive snapshot of 277 New Zealand young adult's (M age = 18.93, SD = 3.28) real-time behaviours and experiences during a seven-week nationwide lockdown. Participants were recruited through a university student participant pool and data were collected online during 20–27ᵗʰ April 2020 (Alert Level 4) and 6–13ᵗʰ May 2020 (Alert Level 3), constituting the 26ᵗʰ–33ʳᵈ and 42ⁿᵈ–49ᵗʰ day (respectively) of a nationwide lockdown to manage the first wave of COVID-19 in Aotearoa New Zealand. Data have been used previously [1]. Data includes participants’ self-reported compliance with legally mandated COVID-19 lockdown policies, as well as participants’ self-reported knowledge of lockdown policies, lockdown characteristics, trust in government and information sources, COVID-19 specific worries, recent anxiety, depression, and stress symptoms, cognitive reappraisal and expressive suppression use, and Big Five personality traits. The dataset is freely accessible (CC-BY-4.0 license) at https://osf.io/pa4n3/. This database can provide insight into the psychological experience of strict COVID-19 lockdown, support policy makers to evaluate the efficiency COVID-19 public health messaging, and inform future policy to support public health and wellbeing during widespread lockdown and quarantine. </abstract>
+   <subject>
+      <topic>Pandemic</topic>
+   </subject>
+   <subject>
+      <topic>Preventative behaviour</topic>
+   </subject>
+   <subject>
+      <topic>Public health behaviour</topic>
+   </subject>
+   <subject>
+      <topic>Quarantine</topic>
+   </subject>
+   <subject>
+      <topic>Self-regulation</topic>
+   </subject>
+   <subject>
+      <topic>Stress</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107808</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107808</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107808</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00020-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-06"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000208/S2352340922000208.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

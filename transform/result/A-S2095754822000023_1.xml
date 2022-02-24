@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.jtcms.2022.01.001">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Anti-melanoma action of small molecular peptides derived from Brucea javanica (L.) Merr. globulin in vitro</dct:title>
+         <dct:creator>Yi Zhao</dct:creator>
+         <dct:creator>Huiyun Wang</dct:creator>
+         <dct:creator>Yanyan Yin</dct:creator>
+         <dct:creator>Haoyu Shi</dct:creator>
+         <dct:creator>Dong Wang</dct:creator>
+         <dct:creator>Fengjue Shu</dct:creator>
+         <dct:creator>Rongchun Wang</dct:creator>
+         <dct:creator>Lingzhi Wang</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Brucea javanica (L.) Merr.</rdf:li>
+               <rdf:li>Melanoma</rdf:li>
+               <rdf:li>Globulin</rdf:li>
+               <rdf:li>In vitro wound-scratch assay</rdf:li>
+               <rdf:li>Peptide</rdf:li>
+               <rdf:li>Cell-cycle assay</rdf:li>
+               <rdf:li>Apoptosis assay</rdf:li>
+               <rdf:li>Hydrolyze</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Journal of Traditional Chinese Medical Sciences 9 (2022) 85-91. doi:10.1016/j.jtcms.2022.01.001</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Journal of Traditional Chinese Medical Sciences</prism:publicationName>
+         <prism:copyright>© 2022 Beijing University of Chinese Medicine. Production and hosting by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2095-7548</prism:issn>
+         <prism:volume>9</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>January 2022</prism:coverDisplayDate>
+         <prism:pageRange>85-91</prism:pageRange>
+         <prism:startingPage>85</prism:startingPage>
+         <prism:endingPage>91</prism:endingPage>
+         <prism:doi>10.1016/j.jtcms.2022.01.001</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.jtcms.2022.01.001</prism:url>
+         <dct:identifier>doi:10.1016/j.jtcms.2022.01.001</dct:identifier>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-02T00:48:07Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Beijing University of Chinese Medicine</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>JTCMS</ja:jid>
+         <ja:aid>357</ja:aid>
+         <ce:pii>S2095-7548(22)00002-3</ce:pii>
+         <ce:doi>10.1016/j.jtcms.2022.01.001</ce:doi>
+         <ce:copyright type="society" year="2022">Beijing University of Chinese Medicine</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:article-footnote>
+            <ce:note-para id="ntpara0010" view="all">Peer review under responsibility of Beijing University of Chinese Medicine.</ce:note-para>
+         </ce:article-footnote>
+         <ce:title id="title0010">Anti-melanoma action of small molecular peptides derived from <ce:italic>Brucea javanica</ce:italic> (L.) Merr. globulin <ce:italic>in vitro</ce:italic>
+         </ce:title>
+         <ce:author-group id="augrp0010">
+            <ce:author id="au1" author-id="S2095754822000023-1191bb2594d26279b295c55eabb2609b">
+               <ce:given-name>Yi</ce:given-name>
+               <ce:surname>Zhao</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au2" author-id="S2095754822000023-3703686e5e40e06eddee38a22929ffd5">
+               <ce:given-name>Huiyun</ce:given-name>
+               <ce:surname>Wang</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au3" author-id="S2095754822000023-61faaf34d9b8363cc45b2881a3947017">
+               <ce:given-name>Yanyan</ce:given-name>
+               <ce:surname>Yin</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au4" author-id="S2095754822000023-4abad36088b8d38aeb18a34bae687d55">
+               <ce:given-name>Haoyu</ce:given-name>
+               <ce:surname>Shi</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au5" author-id="S2095754822000023-10c305bd736ec42c74c26e82f3c55db2">
+               <ce:given-name>Dong</ce:given-name>
+               <ce:surname>Wang</ce:surname>
+               <ce:cross-ref refid="aff2">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au6" author-id="S2095754822000023-ecc8bb1283b55d18f32f342ba1dda17a">
+               <ce:given-name>Fengjue</ce:given-name>
+               <ce:surname>Shu</ce:surname>
+               <ce:cross-ref refid="aff3">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au7" author-id="S2095754822000023-3b41c72ac6729f66f4dfdf16ff4b2ed9">
+               <ce:given-name>Rongchun</ce:given-name>
+               <ce:surname>Wang</ce:surname>
+               <ce:cross-ref refid="aff4">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au8" author-id="S2095754822000023-24fb61348de73e3c4c2d0057aaa02a0a">
+               <ce:given-name>Lingzhi</ce:given-name>
+               <ce:surname>Wang</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor1">
+                  <ce:sup loc="post">∗</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:wanglz@bucm.edu.cn" id="eadd0010">wanglz@bucm.edu.cn</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff1"
+                            affiliation-id="S2095754822000023-42f018919d9e1ce2bec6f5e13b4d56b3">
+               <ce:label>a</ce:label>
+               <ce:textfn>School of Life Sciences, Beijing University of Chinese Medicine, Beijing, 102488, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Life Sciences</sa:organization>
+                  <sa:organization>Beijing University of Chinese Medicine</sa:organization>
+                  <sa:city>Beijing</sa:city>
+                  <sa:postal-code>102488</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0010">School of Life Science, Beijing University of Chinese Medicine, Beijing, 102488, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff2"
+                            affiliation-id="S2095754822000023-29f50aacc4c7baeccc720469ddc001e2">
+               <ce:label>b</ce:label>
+               <ce:textfn>School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, 102488, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Traditional Chinese Medicine</sa:organization>
+                  <sa:organization>Beijing University of Chinese Medicine</sa:organization>
+                  <sa:city>Beijing</sa:city>
+                  <sa:postal-code>102488</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0015">School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, 102488, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff3"
+                            affiliation-id="S2095754822000023-05848101eee0ec199d8dc5937def8b61">
+               <ce:label>c</ce:label>
+               <ce:textfn>Karna Limited Liability Company, Atlanta, 30345, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Karna Limited Liability Company</sa:organization>
+                  <sa:city>Atlanta</sa:city>
+                  <sa:postal-code>30345</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0020">Karna Limited liability Company, Atlanta, 30345, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff4"
+                            affiliation-id="S2095754822000023-60fd77fcfbd0a80d60e007c0c4081162">
+               <ce:label>d</ce:label>
+               <ce:textfn>Biology Institute, Qilu University of Technology (Shandong Academy of Sciences), Jinan, 250103, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Biology Institute</sa:organization>
+                  <sa:organization>Qilu University of Technology (Shandong Academy of Sciences)</sa:organization>
+                  <sa:city>Jinan</sa:city>
+                  <sa:postal-code>250103</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0025">Biology Institute, Qilu University of Technology (Shandong Academy of Sciences), Jinan, 250103, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor1">
+               <ce:label>∗</ce:label>
+               <ce:text>Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="ntpara0015" view="all">These authors have contributed equally to this work.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="3" month="10" year="2021"/>
+         <ce:date-revised day="31" month="12" year="2021"/>
+         <ce:date-accepted day="1" month="1" year="2022"/>
+         <ce:abstract xml:lang="en" id="abs0010" view="all" class="author">
+            <ce:section-title id="sectitle0010">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0010" view="all">
+               <ce:section-title id="sectitle0015">Objective</ce:section-title>
+               <ce:simple-para id="abspara0010" view="all">The morbidity of malignant melanoma keeps increasing annually. It has high risks of metastasis, drug resistance, and poor prognosis in clinics. Moreover, the available medicines used commonly, such as dacarbazine, temozolomide, the v-Raf murine sarcoma viral oncogene homolog B1 (BRAF) inhibitor vemurafenib, and the programmed cell death protein 1 inhibitor pembrolizumab, have some limitations at some extent. Therefore, a more effective therapeutic strategy is still urgently necessary.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abssec0015" view="all">
+               <ce:section-title id="sectitle0020">Methods</ce:section-title>
+               <ce:simple-para id="abspara0015" view="all">In this study, <ce:italic>Brucea javanica</ce:italic>(L.)Merr. globulins were hydrolyzed with pepsin, then ultra-filtrated to collect small molecular peptides (≤3 kDa). The peptides were then analyzed by anti-proliferative assay, cell-cycle distribution, apoptosis assay, and <ce:italic>in vitro</ce:italic> wound-scratch assay. Finally, western blotting was conducted to elucidate the underlying anti-melanoma mechanism.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec role="results" id="abssec0020" view="all">
+               <ce:section-title id="sectitle0025">Results</ce:section-title>
+               <ce:simple-para id="abspara0020" view="all">The small molecular peptide from <ce:italic>B. javanica</ce:italic> significantly inhibited malignant melanoma cell proliferation with the IC<ce:inf loc="post">50</ce:inf> of 2.72 μg/mL for 72 h. Further analysis indicated that <ce:italic>B. javanica</ce:italic> peptides arrested cell cycle at the S and G2/M phases and induced apoptosis by upregulating p21, p53, Bax, caspase-3, and cleaved PARP while downregulating Bcl-2 expression. The inhibitory migration effects were also confirmed by wound-healing assay.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec role="conclusion" id="abssec0025" view="all">
+               <ce:section-title id="sectitle0030">Conclusion</ce:section-title>
+               <ce:simple-para id="abspara0025" view="all">The small molecular biopeptides from <ce:italic>B. javanica</ce:italic> may be a promising bioactive agent candidate for melanoma treatment.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+            <ce:section-title id="sectitle0035">Keywords</ce:section-title>
+            <ce:keyword id="kwrd0010">
+               <ce:text>
+                  <ce:italic>Brucea javanica</ce:italic> (L.) Merr.</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0015">
+               <ce:text>Melanoma</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0020">
+               <ce:text>Globulin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0025">
+               <ce:text>
+                  <ce:italic>In vitro</ce:italic> wound-scratch assay</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0030">
+               <ce:text>Peptide</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0035">
+               <ce:text>Cell-cycle assay</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0040">
+               <ce:text>Apoptosis assay</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0045">
+               <ce:text>Hydrolyze</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

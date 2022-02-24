@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107716">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Questionnaire dataset: The Greek Smart Cities - Municipalities dataset</dct:title>
+         <dct:creator>Georgios Siokas</dct:creator>
+         <dct:creator>Aggelos Tsakanikas</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Smart cities</rdf:li>
+               <rdf:li>Urban development</rdf:li>
+               <rdf:li>Smart urban strategy</rdf:li>
+               <rdf:li>Urban economy</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107716</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107716</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107716</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107716</dct:identifier>
+         <bam:articleNumber>107716</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-14T16:22:29Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Greece Institutes</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107716</ja:aid>
+         <ce:article-number>107716</ce:article-number>
+         <ce:pii>S2352-3409(21)00991-4</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107716</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Questionnaire dataset: The Greek Smart Cities - Municipalities dataset</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921009914-775455419918a72fb8ae0836b0bc290f"
+                       orcid="0000-0002-7017-874X">
+               <ce:given-name>Georgios</ce:given-name>
+               <ce:surname>Siokas</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:geosiok@mail.ntua.gr">geosiok@mail.ntua.gr</ce:e-address>
+               <ce:e-address id="ea3"
+                             type="social-media"
+                             xlink:href="https://twitter.com/GeorgeSiokas">@GeorgeSiokas</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921009914-e95f0bd77ea54ce9d95a21e904bb1b10">
+               <ce:given-name>Aggelos</ce:given-name>
+               <ce:surname>Tsakanikas</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921009914-64e9d177c49b18319692c56c39c57176">
+               <ce:textfn id="cetextfn0001">Laboratory of Industrial and Energy Economics, School of Chemical Engineering, National Technical University of Athens<ce:cross-ref refid="afn1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>, Zografou Campus, 9 Iroon Polytechniou str., Zografou 15780, Greece</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Industrial and Energy Economics</sa:organization>
+                  <sa:organization>School of Chemical Engineering</sa:organization>
+                  <sa:organization>National Technical University of Athens</sa:organization>
+                  <sa:address-line>Zografou Campus, 9 Iroon Polytechniou str.</sa:address-line>
+                  <sa:city>Zografou</sa:city>
+                  <sa:postal-code>15780</sa:postal-code>
+                  <sa:country>Greece</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Laboratory of Industrial and Energy Economics, School of Chemical Engineering, National Technical University of Athens, Zografou Campus, 9 Iroon Polytechniou str., Zografou 15780, Greece</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="afn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="np001a" view="all">
+                  <ce:inter-ref id="interref0002ba"
+                                xlink:href="https://twitter.com/LIEENTUA"
+                                xlink:type="simple">@LIEENTUA</ce:inter-ref>
+               </ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="29" month="10" year="2021"/>
+         <ce:date-revised day="9" month="12" year="2021"/>
+         <ce:date-accepted day="14" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara004" view="all">The dataset was formulated through field research in the Greek Municipalities. The survey was undertaken with an online questionnaire (available in Greek) and the contact person was the Chief Digital Officer or a person with similar responsibilities. The final sample is 252 out of a total of 325 Municipalities. Each respondent had to answer to 26 questions, including sub-questions, of different types (1) 5-point Likert scale, (2) rating scale, (3) closed type “Yes/no”, (4) open-ended and (5) dropdown, and, depending on them, there are 3 types of variables (1) ordinal, (2) nominal, and (3) scale variables. The concepts included in the questionnaire are a) the level of integration and use of digital technologies, b) the difficulties and the challenges municipality authorities face when trying to implement a smart strategy and c) the level of diverse collaborations and partnerships which are necessary in order to develop a strategy. The data can be used to analyse the strategic capabilities of the Greek Municipalities under the three concepts evaluated in the questionnaire. The data's primary beneficiaries include researchers, public authorities, digital platforms entrepreneurs, smart city specialists and smart city entrepreneurs, as they can use the dataset to develop models against already known results, to identify factors important in an urban strategy and to further study the correlations between the different factors, design and draft an urban strategy on real data.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Smart cities</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Urban development</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Smart urban strategy</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Urban economy</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

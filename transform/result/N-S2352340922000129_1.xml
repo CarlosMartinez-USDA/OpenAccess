@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>First high-quality genome assembly data of sago palm (Metroxylon sagu Rottboll)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Leonard Whye Kit</namePart>
+      <namePart type="family">Lim</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4079-9630</nameIdentifier>
+      <displayForm>Lim, Leonard Whye Kit</displayForm>
+      <affiliation>Faculty of Resource Science and Technology, Universiti Malaysia Sarawak, 94300 Kota Samarahan, Sarawak, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Melinda Mei Lin</namePart>
+      <namePart type="family">Lau</namePart>
+      <displayForm>Lau, Melinda Mei Lin</displayForm>
+      <affiliation>Faculty of Resource Science and Technology, Universiti Malaysia Sarawak, 94300 Kota Samarahan, Sarawak, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hung Hui</namePart>
+      <namePart type="family">Chung</namePart>
+      <displayForm>Chung, Hung Hui</displayForm>
+      <affiliation>Faculty of Resource Science and Technology, Universiti Malaysia Sarawak, 94300 Kota Samarahan, Sarawak, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hasnain</namePart>
+      <namePart type="family">Hussain</namePart>
+      <displayForm>Hussain, Hasnain</displayForm>
+      <affiliation>Centre for Sago Research (CoSAR), Faculty of Resource Science and Technology, Universiti Malaysia Sarawak, 94300 Kota Samarahan, Sarawak, Malaysia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Han Ming</namePart>
+      <namePart type="family">Gan</namePart>
+      <displayForm>Gan, Han Ming</displayForm>
+      <affiliation>GeneSEQ Sdn Bhd, Bukit Beruntung, 48300 Rawang, Selangor, Malaysia</affiliation>
+      <affiliation>Centre for Integrative Ecology, School of Life and Environmental Sciences, Deakin University, Geelong, Victoria, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The sago palm (Metroxylon sagu Rottboll) is a tropical halophytic starch-producing, economically important crop palm mainly located in Southeast Asian countries. Recently, a genome survey was conducted on this palm using the Illumina sequencing platform, with a very low (21.5%) BUSCO genome completeness score, and most of them (∼78%) are either fragmented or missing. Thus, in this study, the sago palm genome completeness was further improved with the utilization of the Nanopore sequencing platform that produced longer reads. A hybrid genome assembly was conducted, and the outcome was a much complete sago palm genome with BUSCO completeness achieved at as high as 97.9%, with only ∼2% of them either fragmented or missing. The estimated genome size of the sago palm is 509,812,790 bp in this study. A sum of 33,242 protein-coding genes was revealed from the sago palm genome and around 96.39% of them had been functionally annotated. An investigation on the carbohydrate metabolism KEGG pathways also unearthed that starch synthesis was one of the major sago palm activities. The genome data obtained from this work is indispensable for future molecular evolutionary and genome-wide association studies on the economically important sago palm. </abstract>
+   <subject>
+      <topic>aa</topic>
+   </subject>
+   <subject>
+      <topic>bp</topic>
+   </subject>
+   <subject>
+      <topic>BUSCO</topic>
+   </subject>
+   <subject>
+      <topic>KEGG</topic>
+   </subject>
+   <subject>
+      <topic>SDS</topic>
+   </subject>
+   <subject>
+      <topic>Metroxylon sagu</topic>
+   </subject>
+   <subject>
+      <topic>Sago palm</topic>
+   </subject>
+   <subject>
+      <topic>Genome annotation</topic>
+   </subject>
+   <subject>
+      <topic>Starch synthesis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107800</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107800</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107800</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00012-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-05"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000129/S2352340922000129.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

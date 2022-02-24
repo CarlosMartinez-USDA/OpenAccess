@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Image dataset on the Chinese medicinal blossoms for classification through convolutional neural network</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Mei-Ling</namePart>
+      <namePart type="family">Huang</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0187-6130</nameIdentifier>
+      <displayForm>Huang, Mei-Ling</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yi-Xuan</namePart>
+      <namePart type="family">Xu</namePart>
+      <displayForm>Xu, Yi-Xuan</displayForm>
+      <affiliation>Department of Industrial Engineering &amp; Management, National Chin-Yi University of Technology, Taichung, Taiwan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yu-Chieh</namePart>
+      <namePart type="family">Liao</namePart>
+      <displayForm>Liao, Yu-Chieh</displayForm>
+      <affiliation>Department of Industrial Engineering &amp; Management, National Chin-Yi University of Technology, Taichung, Taiwan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Tree blossoms have been widely used on the prevention and treatment of a variety of diseases in traditional Chinese medicine for thousand years [1,2]. The growth of flowers is not only for their ornamental value, but also for nutritional, medicinal, cooking, cosmetic and aromatic properties. They are a rich source of many compounds, which play an important role in various metabolic processes of the human body [3]. Edible flowers can promote the global demand for more attractive and delicious food, and can improve the nutritional content of gourmet food [4]. Flowers are beneficial for anti-anxiety, anti-cancer, anti-inflammatory, antioxidant, diuretic and immune-modulator, etc. It is very important to identify edible flowers correctly, because only a few are edible [5]. The shapes or colors of different flowers may be very similar. Visual evaluation is one of the classification methods, but it is error-prone and time-consuming [6]. Flowers are divided into flowers from herbaceous plants (flower) and flower trees (blossom). Now there is a public herbaceous flower dataset [7], but lack of dataset for Chinese medicinal blossoms. This article presents and establishes the dataset for twelve most commonly and economically valuable blossoms used in traditional Chinese medicine. The dataset provide a collection of blossom images on traditional Chinese herbs help Chinese pharmacist to classify the categories of Chinese herbs. In addition, the dataset can serve as a resource for researchers who use different algorithms of machine learning or deep learning for image segmentation and image classification. </abstract>
+   <subject>
+      <topic>Chinese medicinal blossom</topic>
+   </subject>
+   <subject>
+      <topic>Classification</topic>
+   </subject>
+   <subject>
+      <topic>Data augmentation</topic>
+   </subject>
+   <subject>
+      <topic>Deep learning</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107655</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107655</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107655</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00930-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-27"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009306/S2352340921009306.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

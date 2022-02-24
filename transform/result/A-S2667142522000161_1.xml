@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2022.100055">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Mitigative potentials of methanol leaf extract of Moringa oleifera on chronic carbamazepine-induced haemo-biochemical and thyrotoxicity in male Wistar rats</dct:title>
+         <dct:creator>Ganiu Jimoh Akorede</dct:creator>
+         <dct:creator>Suleiman Folorunsho Ambali</dct:creator>
+         <dct:creator>Aisha Omobolanle Olatunji</dct:creator>
+         <dct:creator>Abdulfatai Aremu</dct:creator>
+         <dct:creator>Afisu Basiru</dct:creator>
+         <dct:creator>Akeem Olayiwola Ahmed</dct:creator>
+         <dct:creator>Mistura Olabisi Azeez</dct:creator>
+         <dct:creator>Isiaku Abdulmajeed</dct:creator>
+         <dct:creator>Rafiu Adebisi Kadir</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Chronic exposure</rdf:li>
+               <rdf:li>carbamazepine</rdf:li>
+               <rdf:li>haemotoxicity</rdf:li>
+               <rdf:li>thyrotoxicosis</rdf:li>
+               <rdf:li>Moringa oleifera</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine 2 (2022). doi:10.1016/j.prmcm.2022.100055</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:coverDisplayDate>March 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.prmcm.2022.100055</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2022.100055</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2022.100055</dct:identifier>
+         <bam:articleNumber>100055</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-24T18:50:01Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100055</ja:aid>
+         <ce:article-number>100055</ce:article-number>
+         <ce:pii>S2667-1425(22)00016-1</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2022.100055</ce:doi>
+         <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Mitigative potentials of methanol leaf extract of Moringa oleifera on chronic carbamazepine-induced haemo-biochemical and thyrotoxicity in male Wistar rats</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667142522000161-1f5832ea558daa7af792161a640cf87d">
+               <ce:given-name>Ganiu Jimoh</ce:given-name>
+               <ce:surname>Akorede</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:akorede.gj@unilorin.edu.ng">akorede.gj@unilorin.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667142522000161-59308da849d91d8c169c697b7793a564">
+               <ce:given-name>Suleiman Folorunsho</ce:given-name>
+               <ce:surname>Ambali</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667142522000161-d970a2ef76202b4dd0c08b07c16f1f94">
+               <ce:given-name>Aisha Omobolanle</ce:given-name>
+               <ce:surname>Olatunji</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667142522000161-5e129930e649366f6091f00bb3cceb7e">
+               <ce:given-name>Abdulfatai</ce:given-name>
+               <ce:surname>Aremu</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667142522000161-1cc3bfe874d2a7dab2c3db76a29dc362">
+               <ce:given-name>Afisu</ce:given-name>
+               <ce:surname>Basiru</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667142522000161-a1ff384902cd0a20658ab1f00b24527c">
+               <ce:given-name>Akeem Olayiwola</ce:given-name>
+               <ce:surname>Ahmed</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667142522000161-73cf4c3f0f7f2e8cf1bd5ae2ad1ddb5f">
+               <ce:given-name>Mistura Olabisi</ce:given-name>
+               <ce:surname>Azeez</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667142522000161-6d391f70b92009089c093da26f082db5">
+               <ce:given-name>Isiaku</ce:given-name>
+               <ce:surname>Abdulmajeed</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667142522000161-1170678cfd8fa079da12ff62ec12fa23">
+               <ce:given-name>Rafiu Adebisi</ce:given-name>
+               <ce:surname>Kadir</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667142522000161-1106f755c3552bf3cf48ce5339b628b5">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Veterinary Pharmacology and Toxicology, University of Ilorin, Ilorin, Nigeria.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Veterinary Pharmacology and Toxicology</sa:organization>
+                  <sa:organization>University of Ilorin</sa:organization>
+                  <sa:city>Ilorin</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Veterinary Pharmacology and Toxicology, University of Ilorin, Ilorin, Nigeria.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667142522000161-8896260bf8cd0ba4af4df32d4838d40c">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Veterinary Physiology and Biochemistry, University of Ilorin, Ilorin, Nigeria.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Veterinary Physiology and Biochemistry</sa:organization>
+                  <sa:organization>University of Ilorin</sa:organization>
+                  <sa:city>Ilorin</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Veterinary Physiology and Biochemistry, University of Ilorin, Ilorin, Nigeria.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667142522000161-b363ab9bdcbc68352d0df46141e03865">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Veterinary Microbiology, University of Ilorin, Ilorin, Nigeria.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Veterinary Microbiology</sa:organization>
+                  <sa:organization>University of Ilorin</sa:organization>
+                  <sa:city>Ilorin</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Veterinary Microbiology, University of Ilorin, Ilorin, Nigeria.</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667142522000161-58489946a6429927bb95ea6f392b8762">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Veterinary Medicine, University of Ilorin, Ilorin, Nigeria.</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Veterinary Medicine</sa:organization>
+                  <sa:organization>University of Ilorin</sa:organization>
+                  <sa:city>Ilorin</sa:city>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Veterinary Medicine, University of Ilorin, Ilorin, Nigeria.</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author: Ganiu Jimoh Akorede, Tell: +2347033553270</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="30" month="12" year="2021"/>
+         <ce:date-revised day="24" month="1" year="2022"/>
+         <ce:date-accepted day="24" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara014" view="all">Carbamazepine (CBZ) is commonly used for treating epilepsy and neuropathic pain. This present research was carried out to evaluate ameliorative potentials of methanol leaves extract of <ce:italic>Moringa oleifera</ce:italic> on chronic CBZ-induced haemotoxicity and thyrotoxicosis in male Wistar rats.</ce:simple-para>
+               <ce:simple-para id="spara015" view="all">32 adult male Wistar rats were divided into four groups of 8 animals each and exposed to the following regimens: Group I (DW) was administered distilled water (2 ml/kg); group II (MO) was exposed <ce:italic>M. oleifera</ce:italic> (200 mg/kg); group III (CBZ) was given carbamazepine at 20 mg/kg, while group IV (CBZ+MO) was exposed to carbamazepine (20 mg/kg) then followed by <ce:italic>M. oleifera</ce:italic> (200 mg/kg) 30 minutes later. The regimens were given once daily for 15 weeks via gavage. Blood and serum samples were evaluated for haematological parameters, liver biochemical enzymes and thyroid hormone.</ce:simple-para>
+               <ce:simple-para id="spara016" view="all">The results revealed that <ce:italic>M. oleifera</ce:italic> leaves extract mitigate against alteration in parameters measuring haematological, biochemical and thyroid functions.</ce:simple-para>
+               <ce:simple-para id="spara017" view="all">The study concluded that amelioration against CBZ-evoked alteration in haematological indices, biochemical enzymes and thyroid function by <ce:italic>M. oleifera</ce:italic> leave extract was partly due to its nutritional values and phytochemical constituents that confer protection on blood vascular system, and hypothalamic-pituitary axis.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="abr" id="pc_j7DZ925UYezVuJxVROp7pSVWffff70Q6" view="all">
+            <ce:keyword id="pc_9Qr8rSVcWk">
+               <ce:text>MO-</ce:text>
+               <ce:keyword id="pc_yLh4Sznk6t">
+                  <ce:text>Moringa oleifera</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_KqaOLeWPA7">
+               <ce:text>CBZ-</ce:text>
+               <ce:keyword id="pc_hylzuE8Rb5">
+                  <ce:text>Carbamazepine</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_05oRymQ4pi">
+               <ce:text>DW-</ce:text>
+               <ce:keyword id="pc_gsaUYAlKWl">
+                  <ce:text>Distilled water</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_4QS0QdNgbI">
+               <ce:text>PCV-</ce:text>
+               <ce:keyword id="pc_er7bxHGQuW">
+                  <ce:text>Parked cell volume</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_IygsdnbAk0">
+               <ce:text>RBC-</ce:text>
+               <ce:keyword id="pc_cLjdTbWKpb">
+                  <ce:text>Red blood cell</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_VWmxRWtP50">
+               <ce:text>MCV-</ce:text>
+               <ce:keyword id="pc_7WcD2VCDS6">
+                  <ce:text>Mean corpuscular volume</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_RrWwz5ojEW">
+               <ce:text>MCH-</ce:text>
+               <ce:keyword id="pc_by4GNBH4Jd">
+                  <ce:text>Mean corpuscular haemoglobin</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_k9orDJGsT9">
+               <ce:text>MCHC-</ce:text>
+               <ce:keyword id="pc_2HtoXD7EWQ">
+                  <ce:text>Mean corpuscular haemoglobin concentration</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_GEAYhacOAq">
+               <ce:text>Hb-</ce:text>
+               <ce:keyword id="pc_0LKaLwazIa">
+                  <ce:text>Haemoglobin</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_nrwoKcvAhx">
+               <ce:text>WBC-</ce:text>
+               <ce:keyword id="pc_u3Fvt30Bot">
+                  <ce:text>White blood cell</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_XLAjcBk6WX">
+               <ce:text>TSH-</ce:text>
+               <ce:keyword id="pc_CyexWl9ooC">
+                  <ce:text>Thyroid stimulating hormone</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_oTgkKSp9ID">
+               <ce:text>T3</ce:text>
+               <ce:keyword id="pc_iAqSmtxzqJ">
+                  <ce:text>Triiodothyronine</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_a5HrajWSxf">
+               <ce:text>T4-</ce:text>
+               <ce:keyword id="pc_Vz9DsLiDEw">
+                  <ce:text>Thyroxine</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_OPFQj8vINV">
+               <ce:text>ALP-</ce:text>
+               <ce:keyword id="pc_n4dXKdbqCL">
+                  <ce:text>Alkaline phosphatase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_sRjWD30RJH">
+               <ce:text>ALT-</ce:text>
+               <ce:keyword id="pc_mQb1RMvCrb">
+                  <ce:text>Alamine aminotransferase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_VJnHErEOAU">
+               <ce:text>AST-</ce:text>
+               <ce:keyword id="pc_IQxpYPKyyu">
+                  <ce:text>Aspartate aminotransferase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_JswnZTk8gZ">
+               <ce:text>AED-</ce:text>
+               <ce:keyword id="pc_P4QDolzgFr">
+                  <ce:text>Antiepileptic drug</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="pc_9qGLrh1IgV">
+               <ce:text>PLT-</ce:text>
+               <ce:keyword id="pc_gvPbB0LvF6">
+                  <ce:text>Platelet</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Chronic exposure</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">carbamazepine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">haemotoxicity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">thyrotoxicosis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Moringa oleifera</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

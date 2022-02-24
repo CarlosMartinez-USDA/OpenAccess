@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107568">
+         <dct:format>application/xml</dct:format>
+         <dct:title>More than eleven years of temperature and displacements recorded on and in a limestone cliff: Dataset</dct:title>
+         <dct:creator>Didier Virely</dct:creator>
+         <dct:creator>Muriel Gasc-Barbier</dct:creator>
+         <dct:creator>Véronique Merrien-Soukatchoff</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Rock joints</rdf:li>
+               <rdf:li>Rock cliff stability</rdf:li>
+               <rdf:li>In situ monitoring</rdf:li>
+               <rdf:li>Temperature and displacement recording</rdf:li>
+               <rdf:li>In depth evolution of the rock mass</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107568</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107568</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107568</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107568</dct:identifier>
+         <bam:articleNumber>107568</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-09T09:02:14Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>French Institutes</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107568</ja:aid>
+         <ce:article-number>107568</ce:article-number>
+         <ce:pii>S2352-3409(21)00844-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107568</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">More than eleven years of temperature and displacements recorded on and in a limestone cliff: Dataset</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008441-65ebf65811e57450a19db3cfb6dfe94d">
+               <ce:given-name>Didier</ce:given-name>
+               <ce:surname>Virely</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:Didier.Virely@cerema.fr">Didier.Virely@cerema.fr</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008441-96dc98669e4a20a2fe199f942858e621"
+                       orcid="0000-0001-9192-9816">
+               <ce:given-name>Muriel</ce:given-name>
+               <ce:surname>Gasc-Barbier</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008441-83353d6653bd8dcedcf30bd53ea313a8">
+               <ce:given-name>Véronique</ce:given-name>
+               <ce:surname>Merrien-Soukatchoff</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008441-f4442e211f9797bfb5c5844e392a2046">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Cerema, GeoCoD, Complexe Scientifique de Rangueil, 1, avenue du colonel Roche, Toulouse 31400, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Cerema</sa:organization>
+                  <sa:organization>GeoCoD</sa:organization>
+                  <sa:organization>Complexe Scientifique de Rangueil</sa:organization>
+                  <sa:address-line>1, avenue du colonel Roche</sa:address-line>
+                  <sa:city>Toulouse</sa:city>
+                  <sa:postal-code>31400,</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aCerema, GeoCoD, Complexe Scientifique de Rangueil, 1, avenue du colonel Roche, Toulouse 31400, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008441-69841581c2cf8e3093cfda1d704f4a8e">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Cerema, GeoCoD, avenue Albert Einstein, CS 70499, Aix-en-Provence 13593Cedex 3, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Cerema</sa:organization>
+                  <sa:organization>GeoCoD</sa:organization>
+                  <sa:address-line>avenue Albert Einstein, CS 70499</sa:address-line>
+                  <sa:state>Aix-en-Provence</sa:state>
+                  <sa:postal-code>13593Cedex 3,</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bCerema, GeoCoD, avenue Albert Einstein, CS 70499, Aix-en-Provence 13593Cedex 3, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008441-6fff73be04f79255da9990c7e13807a7">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">GeF - EA 4630, CNAM, 2, rue Conté, Paris 75141Cedex 03, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>GeF - EA 4630</sa:organization>
+                  <sa:organization>CNAM</sa:organization>
+                  <sa:address-line>2, rue Conté</sa:address-line>
+                  <sa:city>Paris</sa:city>
+                  <sa:postal-code>75141Cedex 03</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cGeF - EA 4630, CNAM, 2, rue Conté, Paris 75141Cedex 03, France</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="6" month="9" year="2021"/>
+         <ce:date-revised day="3" month="11" year="2021"/>
+         <ce:date-accepted day="8" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara002" view="all">This data set gives more than 11 years of temperature and displacements recorded on and in a limestone cliff. An extensive presentation of the monitoring devices and interpretation of data is proposed in Gasc-Barbier et al. (2021) [1].</ce:simple-para>
+               <ce:simple-para id="spara003" view="all">The hazard-monitored zone is a perched cave in a limestone cliff where a part of its roof had collapsed. On its roof, an unstable beam reminds. A horizontal interlayer thinning from East to West, hanging to the roof of the cave at the west and east-clamped in the rock mass, delimits this remaining beam. Opened fractures can be observed all around the beam. In order to assess the remaining hazard, four fissurometers (F1 to F4) and a thermal probe were installed on the roof of the cave and two borehole extensometers (D1 and D2) were drilled perpendicular to the face of the cliff, above the cave, to understand the global behaviour of the rock mass. Measurements have been made between sockets embedded in the rock mass by means of INVAR wire measurements. Four bases made of two sockets each have been installed inside the cavity and five were put on the face of the cliff outside and above the cavity. Measurements last between January 2011 and June 2021. A 1.5-year gap is observed in the measurements because they were temporally stopped when reinforcement works were preceded carried out in the cave in order to secure the village.</ce:simple-para>
+               <ce:simple-para id="spara004" view="all">Thus, datasets provide more than 11 years of temperature and displacements recorded on and in the cliff, providing insight on the relation between climate and the deformation inside the rock mass. This dataset is novel because this type of data is not readily available in the literature, on the one hand, because of its length (nearly 11 years) and, on the other hand, because it is not only surface evolution of temperature and aperture but because the evolution of temperature and deformation inside the rock mass was monitored. Researchers could use these data for a better understanding of the thermomechanical coupling in rock. They could test their own modelling, constitutive laws specifically on crack propagation or thermal fatigue.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Rock joints</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Rock cliff stability</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">
+                  <ce:italic>In situ</ce:italic> monitoring</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Temperature and displacement recording</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">In depth evolution of the rock mass</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100011">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Design of dietary fiber azadiracta indica gum based hydrogels for use in drug delivery</dct:title>
+         <dct:creator>Baljit Singh</dct:creator>
+         <dct:creator>Baldev Singh</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Azadirachta indica gum</rdf:li>
+               <rdf:li>Graft copolymerization</rdf:li>
+               <rdf:li>Hydrogels</rdf:li>
+               <rdf:li>Drug delivery</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health 1 (2021). doi:10.1016/j.fhfh.2021.100011</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fhfh.2021.100011</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100011</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100011</dct:identifier>
+         <bam:articleNumber>100011</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-06-30T19:10:22Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100011</ja:aid>
+         <ce:article-number>100011</ce:article-number>
+         <ce:pii>S2667-0259(21)00004-2</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100011</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Design of dietary fiber azadiracta indica gum based hydrogels for use in drug delivery</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025921000042-c1e41f80b914d0fef10dc39e0ea21bf1">
+               <ce:given-name>Baljit</ce:given-name>
+               <ce:surname>Singh</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:baljitsinghhpu@yahoo.com">baljitsinghhpu@yahoo.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025921000042-0724ed34dddba6f4c34b108b5fd26356">
+               <ce:given-name>Baldev</ce:given-name>
+               <ce:surname>Singh</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025921000042-e6a47b6c0d8132c33e4b2f218980c786">
+               <ce:textfn id="cetextfn0001">Department of Chemistry, Himachal Pradesh University, Shimla -171005, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>Himachal Pradesh University</sa:organization>
+                  <sa:city>Shimla</sa:city>
+                  <sa:postal-code>171005</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Chemistry, Himachal Pradesh University, Shimla -171005, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="11" month="4" year="2021"/>
+         <ce:date-revised day="24" month="6" year="2021"/>
+         <ce:date-accepted day="30" month="6" year="2021"/>
+         <ce:abstract class="author" id="abs0001" view="all">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara011" view="all">Keeping in view the therapeutic importance of dietary fiber azadiracta indica gum in anti-inflammatory action, in the present work, gum has been modified to develop the drug delivery carrier for methyl prednisolone used for treatment of inflammatory colonic ailments to enhance its potential. Hydrogels were formed gum polysaccharide by modified by grafting and crosslinking method. Polymers were characterized by cryo-SEM, AFM, FTIR, and <ce:sup loc="post">13</ce:sup>C-NMR. The cryo-SEM images confirmed the porous network structure of the hydrogels. The results showed that porosity and crosslinking density of hydrogels were influenced by the content of the monomer AAc and crosslinker NNMBA. The polymeric gels were found to have non-haemolytic (haemolytic index = 3.36 ± 1.20%), and antioxidant nature (DPPH radical scavenging = 76.88 ± 10.16%). The gel strength of the gels was 9.41 ± 0.46 Nmm. The release of methyl prednisolone was found with non-Fickian diffusion mechanism. Overall, gum based hydrogels were pH responsive and could be explored to design of colon drug delivery system for colonic ailments .</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords class="keyword" id="keys0001" view="all">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Azadirachta indica gum</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Graft copolymerization</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Hydrogels</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Drug delivery</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

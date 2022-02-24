@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2022.100047">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Induction of apoptosis by Oleracein A and Oleracein B in HepG2 cancerous cells is mediated by ceramide generation, caspase-9/caspase-3 pathway activation, and oxidative damage</dct:title>
+         <dct:creator>Hamidreza Khodajou-Masouleh</dct:creator>
+         <dct:creator>Masoud Mashhadi Akbar Boojar</dct:creator>
+         <dct:creator>Sarah Khavari-Nejad</dct:creator>
+         <dct:creator>Gilda Karimi</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Oleracein A</rdf:li>
+               <rdf:li>Oleracein B</rdf:li>
+               <rdf:li>Chemoprevention</rdf:li>
+               <rdf:li>Ceramide</rdf:li>
+               <rdf:li>Caspase-9/caspase-3 pathway</rdf:li>
+               <rdf:li>Oxidative damage</rdf:li>
+               <rdf:li>Apoptosis</rdf:li>
+               <rdf:li>HepG2 cell line</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine 2 (2022). doi:10.1016/j.prmcm.2022.100047</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:coverDisplayDate>March 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.prmcm.2022.100047</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2022.100047</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2022.100047</dct:identifier>
+         <bam:articleNumber>100047</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-10T14:33:17Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100047</ja:aid>
+         <ce:article-number>100047</ce:article-number>
+         <ce:pii>S2667-1425(22)00008-2</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2022.100047</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Induction of apoptosis by Oleracein A and Oleracein B in HepG2 cancerous cells is mediated by ceramide generation, caspase-9/caspase-3 pathway activation, and oxidative damage</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667142522000082-0ce87f55b258af749b99c82270c17910">
+               <ce:given-name>Hamidreza</ce:given-name>
+               <ce:surname>Khodajou-Masouleh</ce:surname>
+               <ce:cross-ref refid="fn0001">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002d"
+                             type="email"
+                             xlink:href="mailto:std_h.khodajou@khu.ac.ir">std_h.khodajou@khu.ac.ir</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667142522000082-1e7bea2dbe25de3a821a88ceb6a86fe0">
+               <ce:given-name>Masoud</ce:given-name>
+               <ce:surname>Mashhadi Akbar Boojar</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:mboojar1960@gmail.com">mboojar1960@gmail.com</ce:e-address>
+               <ce:e-address id="ead0001t" type="email" xlink:href="mailto:boojar@khu.ac.ir">boojar@khu.ac.ir</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667142522000082-17947e2e0be9d1bd0fa1858c21c66fb8">
+               <ce:given-name>Sarah</ce:given-name>
+               <ce:surname>Khavari-Nejad</ce:surname>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667142522000082-c3ce78413cf018d9b4af6d7a4e54ddec">
+               <ce:given-name>Gilda</ce:given-name>
+               <ce:surname>Karimi</ce:surname>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:g.karimi@khu.ac.ir">g.karimi@khu.ac.ir</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667142522000082-83a98a34d32c8f1da3738ee6ed1327c3">
+               <ce:textfn id="cetextfn0001">Department of Cell and Molecular Biology, Faculty of Biological Sciences, Kharazmi University, No.43.South Mofatteh Ave., Tehran, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Cell and Molecular Biology</sa:organization>
+                  <sa:organization>Faculty of Biological Sciences</sa:organization>
+                  <sa:organization>Kharazmi University</sa:organization>
+                  <sa:address-line>No.43.South Mofatteh Ave.</sa:address-line>
+                  <sa:city>Tehran</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Cell and Molecular Biology, Faculty of Biological Sciences, Kharazmi University, No.43.South Mofatteh Ave., Tehran, Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn0001">
+               <ce:label>1</ce:label>
+               <ce:note-para id="fn1" view="all">ORCID ID: 0000-0002-2930-7984</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+         <ce:date-received day="28" month="10" year="2021"/>
+         <ce:date-revised day="9" month="1" year="2022"/>
+         <ce:date-accepted day="10" month="1" year="2022"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara007" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Oleracein derivatives inhibit the cell viability and enhance the apoptosis of HepG2 cells.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Oleracein derivatives increase the generation of ceramide in HepG2 cells.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Oleracein derivatives regulate the activity of ceramide metabolizing enzymes.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Oleracein derivatives activate the caspase-9/caspase-3 pathway in HepG2 cells.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Oleracein derivatives reduce the activity of antioxidant enzymes, causing oxidative damage.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara008" view="all">The present study aimed to discover whether oleracein A (OA) and oleracein B (OB) have anti-proliferative effects on HepG2 cell line and, if so, by which mechanisms they exert their effects. The results demonstrate that both OA and OB are independently able to decrease the viability of HepG2 cells in a concentration-dependent manner. The levels of ceramide in HepG2 cells, however, were increased after treatment with both OA and OB, a phenomenon further confirmed by the alteration of the post-treatment activity of some ceramide-related enzymes, including acid ceramidase (aCDase), neutral sphingomyelinase (SMase), and glucosylceramide synthase (GCS). Moreover, the cellular redox status of oleracein-treated HepG2 cells was evaluated by measuring the activity of some antioxidant enzymes, including catalase (CAT), superoxide dismutase (SOD), and glutathione peroxidase (GPX). The activity of the mentioned enzymes was reduced in the presence of OA and OB, leading to oxidative damage. The caspase-9/caspase-3 pathway was also activated in oleracein-treated HepG2 cells. The overall results suggest that ceramide generation, oxidative damage, and caspase activation are the mechanisms of action of apoptosis induction in oleracein-treated HepG2 cells.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Oleracein A</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Oleracein B</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Chemoprevention</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Ceramide</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Caspase-9/caspase-3 pathway</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Oxidative damage</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Apoptosis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">HepG2 cell line</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0002" class="abr" view="all">
+            <ce:section-title id="cesectitle0004">Abbreviations</ce:section-title>
+            <ce:keyword id="key0009">
+               <ce:text id="cetext0010">aCDase</ce:text>
+               <ce:keyword id="key10a">
+                  <ce:text id="cetext10a">Acid ceramidase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0010">
+               <ce:text id="cetext0011">ADHP</ce:text>
+               <ce:keyword id="key11a">
+                  <ce:text id="cetext11a">N-acetyl-3,7-dihydroxyphenoxazin</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011">
+               <ce:text id="cetext0012">Apaf-1</ce:text>
+               <ce:keyword id="key12a">
+                  <ce:text id="cetext12a">Apoptotic protease activating factor-1</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0012">
+               <ce:text id="cetext0013">ANOVA</ce:text>
+               <ce:keyword id="key13a">
+                  <ce:text id="cetext13a">Analysis of variance</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0013">
+               <ce:text id="cetext0014">CAT</ce:text>
+               <ce:keyword id="key14a">
+                  <ce:text id="cetext14a">Catalase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0014">
+               <ce:text id="cetext0015">CBI</ce:text>
+               <ce:keyword id="key15a">
+                  <ce:text id="cetext15a">1-cyanobenz[f]isoindole</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0015">
+               <ce:text id="cetext0016">DPPH</ce:text>
+               <ce:keyword id="key16a">
+                  <ce:text id="cetext16a">1,1-diphenyl-2-picryl-hydrazyl</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0016">
+               <ce:text id="cetext0017">DISK</ce:text>
+               <ce:keyword id="key17a">
+                  <ce:text id="cetext17a">Death-inducing signaling complex</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0017">
+               <ce:text id="cetext0018">DMEM</ce:text>
+               <ce:keyword id="key18a">
+                  <ce:text id="cetext18a">Dulbecco's Modified Eagle's medium</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0018">
+               <ce:text id="cetext0019">EDTA</ce:text>
+               <ce:keyword id="key19a">
+                  <ce:text id="cetext19a">Ethylenediaminetetraacetic acid</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0019">
+               <ce:text id="cetext0020">FADD</ce:text>
+               <ce:keyword id="key20a">
+                  <ce:text id="cetext20a">FAS-associated death domain</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0020">
+               <ce:text id="cetext0021">FBS</ce:text>
+               <ce:keyword id="key21a">
+                  <ce:text id="cetext21a">Fetal bovine serum</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0021">
+               <ce:text id="cetext0022">FasR</ce:text>
+               <ce:keyword id="key22a">
+                  <ce:text id="cetext22a">Fas receptor</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0022">
+               <ce:text id="cetext0023">GPX</ce:text>
+               <ce:keyword id="key23a">
+                  <ce:text id="cetext23a">Glutathione peroxidase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0023">
+               <ce:text id="cetext0024">GCS</ce:text>
+               <ce:keyword id="key24a">
+                  <ce:text id="cetext24a">Glucosylceramide synthase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0024">
+               <ce:text id="cetext0025">HCC</ce:text>
+               <ce:keyword id="key25a">
+                  <ce:text id="cetext25a">Hepatocellular carcinoma</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0025">
+               <ce:text id="cetext0026">HPLC</ce:text>
+               <ce:keyword id="key26a">
+                  <ce:text id="cetext26a">High performance liquid chromatography</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0026">
+               <ce:text id="cetext0027">MTT</ce:text>
+               <ce:keyword id="key27a">
+                  <ce:text id="cetext27a">3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0027">
+               <ce:text id="cetext0028">NBD</ce:text>
+               <ce:keyword id="key28a">
+                  <ce:text id="cetext28a">C6-4-nitrobenzo-2-oxa-1,3-diazole</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0028">
+               <ce:text id="cetext0029">NBT</ce:text>
+               <ce:keyword id="key29a">
+                  <ce:text id="cetext29a">Nitroblue Tetrazolium</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0029">
+               <ce:text id="cetext0030">NDA</ce:text>
+               <ce:keyword id="key30a">
+                  <ce:text id="cetext30a">Naphthalene-2,3-dialdehyde</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0030">
+               <ce:text id="cetext0031">OA</ce:text>
+               <ce:keyword id="key31a">
+                  <ce:text id="cetext31a">Oleracein A</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0031">
+               <ce:text id="cetext0032">OB</ce:text>
+               <ce:keyword id="key32a">
+                  <ce:text id="cetext32a">Oleracein B</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0032">
+               <ce:text id="cetext0033">pNA</ce:text>
+               <ce:keyword id="key33a">
+                  <ce:text id="cetext33a">p-nitroanilide</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0033">
+               <ce:text id="cetext0034">rhAC</ce:text>
+               <ce:keyword id="key34a">
+                  <ce:text id="cetext34a">recombinant human acid ceramidase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0034">
+               <ce:text id="cetext0035">ROS</ce:text>
+               <ce:keyword id="key35a">
+                  <ce:text id="cetext35a">Reactive oxygen species</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0035">
+               <ce:text id="cetext0036">SMase</ce:text>
+               <ce:keyword id="key36a">
+                  <ce:text id="cetext36a">Sphingomyelinase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0036">
+               <ce:text id="cetext0037">SOD</ce:text>
+               <ce:keyword id="key37a">
+                  <ce:text id="cetext37a">Superoxide dismutase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0037">
+               <ce:text id="cetext0038">tBid</ce:text>
+               <ce:keyword id="key38a">
+                  <ce:text id="cetext38a">truncated Bid</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0038">
+               <ce:text id="cetext0039">TLC</ce:text>
+               <ce:keyword id="key39a">
+                  <ce:text id="cetext39a">Thin layer chromatography</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0039">
+               <ce:text id="cetext0040">TRADD</ce:text>
+               <ce:keyword id="key40a">
+                  <ce:text id="cetext40a">Tumor necrosis factor receptor type 1- associated death domain</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0040">
+               <ce:text id="cetext0041">TNFαR1</ce:text>
+               <ce:keyword id="key41a">
+                  <ce:text id="cetext41a">Tumor necrosis factor alpha receptor 1</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107794">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Trauma risk score matching for observational studies in orthopedic trauma dataset and code</dct:title>
+         <dct:creator>Rown Parola</dct:creator>
+         <dct:creator>Abhishek Ganta</dct:creator>
+         <dct:creator>Kenneth A. Egol</dct:creator>
+         <dct:creator>Sanjit R. Konda</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Propensity Score Matching</rdf:li>
+               <rdf:li>Propensity Matching</rdf:li>
+               <rdf:li>Orthopedic Trauma</rdf:li>
+               <rdf:li>Research Methods</rdf:li>
+               <rdf:li>Trauma Risk Score</rdf:li>
+               <rdf:li>Database Analytics</rdf:li>
+               <rdf:li>Hip fracture</rdf:li>
+               <rdf:li>Geriatric Trauma</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2022.107794</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2022.107794</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107794</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107794</dct:identifier>
+         <bam:articleNumber>107794</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-04T11:47:34Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107794</ja:aid>
+         <ce:article-number>107794</ce:article-number>
+         <ce:pii>S2352-3409(22)00006-3</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107794</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0020-1383(21)00994-3</ce:pii>
+               <ce:doi>10.1016/j.injury.2021.12.009</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Trauma risk score matching for observational studies in orthopedic trauma dataset and code</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000063-05c788a1a0df56e8d41455affe0de0b4">
+               <ce:given-name>Rown</ce:given-name>
+               <ce:surname>Parola</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea1"
+                             type="social-media"
+                             xlink:href="https://twitter.com/RownDoesScience">@RownDoesScience</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000063-9317532b9f8c70d2755a5d8956e5457e">
+               <ce:given-name>Abhishek</ce:given-name>
+               <ce:surname>Ganta</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000063-eb1a1c5eaf53351e643f54ed5de572e8">
+               <ce:given-name>Kenneth A.</ce:given-name>
+               <ce:surname>Egol</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922000063-8d270387e6175084b601b668892a1bd5">
+               <ce:given-name>Sanjit R.</ce:given-name>
+               <ce:surname>Konda</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:Sanjit.Konda@NYULangone.org">Sanjit.Konda@NYULangone.org</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000063-e0980c0f9633d9901db9bce38997c3b4">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">NYU Langone Orthopedic Hospital, 301 E 17th St, New York NY 10010, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>NYU Langone Orthopedic Hospital</sa:organization>
+                  <sa:address-line>301 E 17th St</sa:address-line>
+                  <sa:city>New York</sa:city>
+                  <sa:state>NY</sa:state>
+                  <sa:postal-code>10010</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aNYU Langone Orthopedic Hospital, 301 E 17th St, New York NY 10010, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922000063-c1142152ed1401b2cc6c247feb33cb5f">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Jamaica Hospital Medical Center, 8900 Van Wyck Expy, Richmond Hill, NY 11418, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Jamaica Hospital Medical Center</sa:organization>
+                  <sa:address-line>8900 Van Wyck Expy</sa:address-line>
+                  <sa:city>Richmond Hill</sa:city>
+                  <sa:state>NY</sa:state>
+                  <sa:postal-code>11418</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bJamaica Hospital Medical Center, 8900 Van Wyck Expy, Richmond Hill, NY 11418, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: NYU Langone Orthopedic Hospital, 301 E 17th St, New York NY 10010, United States.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>NYU Langone Orthopedic Hospital</sa:organization>
+                  <sa:address-line>301 E 17th St</sa:address-line>
+                  <sa:city>New York</sa:city>
+                  <sa:state>NY</sa:state>
+                  <sa:postal-code>10010</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="14" month="12" year="2021"/>
+         <ce:date-revised day="29" month="12" year="2021"/>
+         <ce:date-accepted day="3" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara001" view="all">The dataset presented was collected via retrospective review from an orthopedic trauma database approved by the institutional review board at the author's institution from patients treated at any of the four hospitals serviced by the academic orthopedic surgery department. Femoral neck and intertrochanteric hip fracture patients from low energy mechanisms admitted between October 2014 and February 2020, were selected if they were age 55 or older and had recorded sex, body mass index (BMI), Charlson Comorbidity Index (CCI), American Society of Anaesthesiologists (ASA) physical status classification, Glasgow Coma Score, Abbreviated Injury Severity score for the chest, head and neck, and extremities, and ambulation status prior to injury.</ce:simple-para>
+               <ce:simple-para id="spara002" view="all">The resultant 1,590 subject dataset may be analysed via the supplied R statistical code to determine the frequency of equipoise in baseline and outcome variables from propensity matching via three matching schemes. The code implements three matching schemes including matching by (1) The Score for Trauma Triage in Geriatric and Middle-Aged (STTGMA) (2) CCI alone, or (3) a combination of sex, age, CCI and BMI. The code selects a subset of ten percent of hip fracture patients by a pseudorandom number generator (PRNG). The code matches the remaining patients 1:1 to the selected patients by propensity score generated by logistic regression of STTGMA, CCI, or a combination of sex, age, CCI and BMI using greedy nearest neighbor matching without replacement by the MatchIt package for R software. The code then compares matched cohorts by Chi-square, Fisher, or Mann-Whitney U test with significance level of 0.05 representing a 5% chance of significant differences due to random sampling of subjects.</ce:simple-para>
+               <ce:simple-para id="spara003" view="all">The supplied code repeats the random selection, matching and testing process 100,000 times for each matching method. The resultant code output is the frequency of significantly different demographic or outcome parameters among matched cohorts by matching method.</ce:simple-para>
+               <ce:simple-para id="spara004" view="all">This data and statistical code have reuse potential to explore alternative matching schemes. The supplied baseline variables should be robust enough to derive alternative risk scores for each patient which may be included as a matching variable for comparison. The authors also look forward to unexpected ways that this data may be used by readers.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Propensity Score Matching</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Propensity Matching</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Orthopedic Trauma</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Research Methods</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Trauma Risk Score</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Database Analytics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Hip fracture</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">Geriatric Trauma</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

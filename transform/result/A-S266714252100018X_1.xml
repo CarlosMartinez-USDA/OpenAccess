@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.prmcm.2021.100019">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Current research progress in identifying the mechanism of berberine in pain regulation</dct:title>
+         <dct:creator>Shuai Han</dct:creator>
+         <dct:creator>Ru-Bing Yan</dct:creator>
+         <dct:creator>Sen Guan</dct:creator>
+         <dct:creator>Wen-Jie Fan</dct:creator>
+         <dct:creator>Hai-Chen Chu</dct:creator>
+         <dct:creator>Yong-Xin Liang</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Natural product</rdf:li>
+               <rdf:li>Berberine</rdf:li>
+               <rdf:li>Pain</rdf:li>
+               <rdf:li>Inflammation</rdf:li>
+               <rdf:li>Oxidative stress</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Pharmacological Research - Modern Chinese Medicine 1 (2021). doi:10.1016/j.prmcm.2021.100019</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Pharmacological Research - Modern Chinese Medicine</prism:publicationName>
+         <prism:copyright>© 2021 Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1425</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.prmcm.2021.100019</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.prmcm.2021.100019</prism:url>
+         <dct:identifier>doi:10.1016/j.prmcm.2021.100019</dct:identifier>
+         <bam:articleNumber>100019</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-12T12:05:46Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PRMCM</ja:jid>
+         <ja:aid>100019</ja:aid>
+         <ce:article-number>100019</ce:article-number>
+         <ce:pii>S2667-1425(21)00018-X</ce:pii>
+         <ce:doi>10.1016/j.prmcm.2021.100019</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Review article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Current research progress in identifying the mechanism of berberine in pain regulation</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S266714252100018X-c372ae4f56506ac0558893b29aba4585">
+               <ce:given-name>Shuai</ce:given-name>
+               <ce:surname>Han</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S266714252100018X-72764bd317a6b2d2516f48f9c04848b7">
+               <ce:given-name>Ru-Bing</ce:given-name>
+               <ce:surname>Yan</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S266714252100018X-2cd7150af85115fcc66e9391a5cd8ede">
+               <ce:given-name>Sen</ce:given-name>
+               <ce:surname>Guan</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S266714252100018X-fad73ba69319726684c8bdc07536c35c">
+               <ce:given-name>Wen-Jie</ce:given-name>
+               <ce:surname>Fan</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S266714252100018X-dc32e8b6e40ba822626dc163f6285119">
+               <ce:given-name>Hai-Chen</ce:given-name>
+               <ce:surname>Chu</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S266714252100018X-926e5bcea8190977fa3b7dae9575b1ab">
+               <ce:given-name>Yong-Xin</ce:given-name>
+               <ce:surname>Liang</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:liangzi66@hotmail.com">liangzi66@hotmail.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S266714252100018X-717ee0f998f4675b06ca7dad3b02aa7d">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Qingdao University, Qingdao, Shandong, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Qingdao University</sa:organization>
+                  <sa:city>Qingdao</sa:city>
+                  <sa:state>Shandong</sa:state>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aQingdao University, Qingdao, Shandong, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S266714252100018X-588050764401b0831229c2c55f4aba54">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Anesthesiology, Women's and Children's Hospital Affiliated to Qingdao University, Qingdao, Shandong, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Anesthesiology</sa:organization>
+                  <sa:organization>Women's and Children's Hospital Affiliated to Qingdao University</sa:organization>
+                  <sa:city>Qingdao</sa:city>
+                  <sa:state>Shandong</sa:state>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Anesthesiology, Women's and Children's Hospital Affiliated to Qingdao University, Qingdao, Shandong, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S266714252100018X-0822d9921c984ca29b14defa22aca04a">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Anesthesiology, The Affiliated Hospital of Qingdao University, 59 Hai Er Road, Qingdao, Shandong, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Anesthesiology</sa:organization>
+                  <sa:organization>The Affiliated Hospital of Qingdao University</sa:organization>
+                  <sa:address-line>59 Hai Er Road</sa:address-line>
+                  <sa:city>Qingdao</sa:city>
+                  <sa:state>Shandong</sa:state>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Anesthesiology, The Affiliated Hospital of Qingdao University, 59 Hai Er Road, Qingdao, Shandong, China</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author: Department of Anesthesiology, Women's and Children's Hospital Affiliated to Qingdao University, Qingdao, Shandong, China.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Anesthesiology</sa:organization>
+                  <sa:organization>Women's and Children's Hospital Affiliated to Qingdao University</sa:organization>
+                  <sa:city>Qingdao</sa:city>
+                  <sa:state>Shandong</sa:state>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="7" month="7" year="2021"/>
+         <ce:date-revised day="30" month="10" year="2021"/>
+         <ce:date-accepted day="12" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara015" view="all">Pain is accompanied by high morbidity and imposes a substantial economic burden on individuals and society. Unfortunately, few effective therapeutic methods are available for pain relief. Berberine is a natural product that has attracted widespread attention in recent years. Studies have shown that berberine has various pharmacological effects, such as analgesic, anti-inflammatory, anti-bacterial, anti-oxidative stress, anti-thrombotic, anti-tumor, and hypoglycemic activity. According to the literature, berberine exerts its pain-relieving activity by downregulation of transient receptor potential vanilloid (TRPV)-1; suppression of toll-like receptor 4 (TLR4), mitogen-activated protein kinase (MAPK), and nuclear factor kappa-B (NF-κB); and modulation of μ opioid receptors. Moreover, berberine could regulate the dopamine and N-methyl-<ce:small-caps>D</ce:small-caps>-aspartic acid (NMDA) systems and induce the expression of Nrf2 to promote analgesia. The present literature review discusses the analgesic effects of berberine in inflammatory pain, neuropathic pain, cancer pain, chemotherapy pain, and morphine tolerance, and discusses the possible mechanism of berberine in pain regulation.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0002">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara016" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Natural product</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Berberine</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Pain</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Inflammation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Oxidative stress</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

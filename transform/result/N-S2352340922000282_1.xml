@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Nitrogen fertilization of intercropped cereal-legume: A potassium, sulfur, magnesium and calcium plant acquisition dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Edith</namePart>
+      <namePart type="family">Le Cadre</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5859-5682</nameIdentifier>
+      <displayForm>Le Cadre, Edith</displayForm>
+      <affiliation>SAS, INRAE, Institut Agro, Rennes 35042, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ana Beatriz</namePart>
+      <namePart type="family">de Oliveira</namePart>
+      <displayForm>de Oliveira, Ana Beatriz</displayForm>
+      <affiliation>SAS, INRAE, Institut Agro, Rennes 35042, France</affiliation>
+      <affiliation>Centre Mondial de l'Innovation, Saint Malo, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mustapha</namePart>
+      <namePart type="family">Arkoun</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7676-5494</nameIdentifier>
+      <displayForm>Arkoun, Mustapha</displayForm>
+      <affiliation>Centre Mondial de l'Innovation, Saint Malo, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jean Claude</namePart>
+      <namePart type="family">Yvin</namePart>
+      <displayForm>Yvin, Jean Claude</displayForm>
+      <affiliation>Centre Mondial de l'Innovation, Saint Malo, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Philippe</namePart>
+      <namePart type="family">Hinsinger</namePart>
+      <displayForm>Hinsinger, Philippe</displayForm>
+      <affiliation>INRAE, CIRAD, IRD, University Montpellier, Institut Agro, Montpellier, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Cereal-legume mixture is a well-known successful intercrop model for an efficient use of soil nutrients [1,2]. Effects of mineral N gradient on the acquisition of major nutrients: potassium (K), calcium (Ca), magnesium (Mg) and sulfur (S) is presented. A greenhouse pot experiment was conducted with wheat (Triticum aestivum L. cv. Lennox) and white lupin (Lupinus albus L. cv. Feodora) grown as sole crops and intercropped along a soil mineral N gradient obtained by ¹⁵N addition. Plants were harvested at flowering stage and dry weights of shoots and roots were measured. Potassium, calcium, magnesium and sulfur concentrations in shoots and roots were determined by Inductively Coupled Plasma Mass Spectrometry (ICP-MS). </abstract>
+   <subject>
+      <topic>Plant mixtures</topic>
+   </subject>
+   <subject>
+      <topic>Fertilization</topic>
+   </subject>
+   <subject>
+      <topic>Gradient</topic>
+   </subject>
+   <subject>
+      <topic>Competition</topic>
+   </subject>
+   <subject>
+      <topic>Nutrient</topic>
+   </subject>
+   <subject>
+      <topic>Abiotic stress</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107816</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107816</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107816</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00028-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-07"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340922000282/S2352340922000282.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

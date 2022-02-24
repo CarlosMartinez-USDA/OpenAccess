@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data describing cattle performance and feed characteristics to calculate enteric methane emissions in smallholder livestock systems in Bomet County, Kenya</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Phyllis Wanjugu</namePart>
+      <namePart type="family">Ndung'u</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7125-5313</nameIdentifier>
+      <displayForm>Ndung'u, Phyllis Wanjugu</displayForm>
+      <affiliation>Department of Animal and Wildlife Sciences, University of Pretoria, Hatfield 0002, South Africa</affiliation>
+      <affiliation>Mazingira Centre, International Livestock Research Institute, P.O. Box 30709, Nairobi, Kenya</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Peter</namePart>
+      <namePart type="family">Kirui</namePart>
+      <displayForm>Kirui, Peter</displayForm>
+      <affiliation>Animal Science department, Egerton University, P.O. Box 536-20115, Egerton-Njoro, Kenya</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Taro</namePart>
+      <namePart type="family">Takahashi</namePart>
+      <displayForm>Takahashi, Taro</displayForm>
+      <affiliation>Rothamsted Research, North Wyke, Okehampton, Devon EX20 2SB, United Kingdom</affiliation>
+      <affiliation>University of Bristol, Langford House, Langford, Somerset BS40 5DU, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cornelius Jacobus Lindeque</namePart>
+      <namePart type="family">du Toit</namePart>
+      <displayForm>du Toit, Cornelius Jacobus Lindeque</displayForm>
+      <affiliation>Department of Animal and Wildlife Sciences, University of Pretoria, Hatfield 0002, South Africa</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lutz</namePart>
+      <namePart type="family">Merbold</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4974-170X</nameIdentifier>
+      <displayForm>Merbold, Lutz</displayForm>
+      <affiliation>Agroscope, Research Division Agroecology and Environment, Reckenholzstrasse 191, 8046 Zurich, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">John Patrick</namePart>
+      <namePart type="family">Goopy</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7177-1310</nameIdentifier>
+      <displayForm>Goopy, John Patrick</displayForm>
+      <affiliation>Department of Animal and Wildlife Sciences, University of Pretoria, Hatfield 0002, South Africa</affiliation>
+      <affiliation>Mazingira Centre, International Livestock Research Institute, P.O. Box 30709, Nairobi, Kenya</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This dataset describes the performance of cattle in smallholder livestock systems of Bomet county in western Kenya. Information on live weight, milk production and quality, herd dynamics, and other production parameters were collected from field visits. Animals were weighed on scales; milk yield was recorded using a Mazzican® milk collection and transport vessel provided to each farm and milk was analyzed for butterfat content (%). Pasture biomass yield was determined, and feed samples collected for each agro-ecological zone and nutrient composition was determined for nitrogen (N) using the Kjeldahl method and gross energy (GE) using a bomb calorimeter. Distance covered while grazing was determined using GPS collars fitted to several animals for three consecutive days per area. Enteric methane (CH₄) emissions factors (EF) were estimated for five animal classes to develop site-specific EFs as per the Intergovernmental panel on climate change (IPCC) protocol. This dataset has the potential to be used, amongst other purposes, for animal-scale life cycle assessment (LCA) to evaluate the efficacy of various greenhouse gas (GHG) mitigation options. </abstract>
+   <subject>
+      <topic>Emission factor</topic>
+   </subject>
+   <subject>
+      <topic>Metabolizable energy requirement</topic>
+   </subject>
+   <subject>
+      <topic>Feed-basket</topic>
+   </subject>
+   <subject>
+      <topic>Mitigation</topic>
+   </subject>
+   <subject>
+      <topic>Seasonal live-weight change</topic>
+   </subject>
+   <subject>
+      <topic>Agro-ecological zone</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107673</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107673</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107673</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00948-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-01"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009483/S2352340921009483.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

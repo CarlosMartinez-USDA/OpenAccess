@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Camera-based system for quality assessment of fresh beef based on image analysis</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Leandro Martins</namePart>
+      <namePart type="family">Pereira</namePart>
+      <displayForm>Pereira, Leandro Martins</displayForm>
+      <affiliation>Federal University of ABC, States avenue, 5001, Santo André, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Romulo Gonçalves</namePart>
+      <namePart type="family">Lins</namePart>
+      <displayForm>Lins, Romulo Gonçalves</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ricardo</namePart>
+      <namePart type="family">Gaspar</namePart>
+      <displayForm>Gaspar, Ricardo</displayForm>
+      <affiliation>Federal University of ABC, States avenue, 5001, Santo André, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Beef cut in steaks is one of the most common forms of food consumption, but it is very perishable and has its main limitation in microbiological proliferation. This work presents a system based on image analysis that can assure the quality of the meat in the act of its purchase. The developed system uses only a smartphone running a dedicated algorithm to estimate meat quality quickly. Instrumental evaluations of beef color and counts of mesophilic and psychrotrophic microorganisms were carried out in the laboratory. The assessment of the obtained data allowed the comparison with the standard established by the AMSA (American Meat Science Association) to establish a correlation between the color and the microbiological conditions. Additionally, an Analysis of Variance with subsequent Tukey’s test was processed to validate the experiments. The results demonstrate that the system is capable of estimating the actual meat condition correlating the microorganisms and the measured color with reliability. </abstract>
+   <subject>
+      <topic>Beef shelf-Life</topic>
+   </subject>
+   <subject>
+      <topic>Computer system measurement techniques</topic>
+   </subject>
+   <subject>
+      <topic>Color</topic>
+   </subject>
+   <subject>
+      <topic>Food microbiology</topic>
+   </subject>
+   <subject>
+      <topic>Statistical analysis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Measurement: Food</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Ltd</publisher>
+      </originInfo>
+      <identifier type="issn">2772-2759</identifier>
+      <part>
+         <detail type="volume">
+            <number>5</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>100013</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.meafoo.2021.100013</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.meafoo.2021.100013</url>
+   </location>
+   <identifier type="pii">S2772-2759(21)00010-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-29"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2772-2759/S2772275921X00068/S2772275921000101/S2772275921000101.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

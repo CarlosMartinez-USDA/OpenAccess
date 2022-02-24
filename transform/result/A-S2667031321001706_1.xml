@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100188">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Complementary and alternative medicine for the treatment of diabetes and associated complications: A review on therapeutic role of polyphenols</dct:title>
+         <dct:creator>Preeti Sharma</dct:creator>
+         <dct:creator>Younis Ahmad Hajam</dct:creator>
+         <dct:creator>Rajesh Kumar</dct:creator>
+         <dct:creator>Seema Rai</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Diabetes</rdf:li>
+               <rdf:li>Complications</rdf:li>
+               <rdf:li>Polyphenols</rdf:li>
+               <rdf:li>Pharmacological approaches</rdf:li>
+               <rdf:li>Metabolic disorders</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100188</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100188</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100188</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100188</dct:identifier>
+         <bam:articleNumber>100188</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-29T19:54:05Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100188</ja:aid>
+         <ce:article-number>100188</ce:article-number>
+         <ce:pii>S2667-0313(21)00170-6</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100188</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Complementary and alternative medicine for the treatment of diabetes and associated complications: A review on therapeutic role of polyphenols</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001706-e4ccc7ca44c52e8a1368dae6f1374fa9">
+               <ce:given-name>Preeti</ce:given-name>
+               <ce:surname>Sharma</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001706-a3b55b9ac5629b258fc640d646cb6f8c">
+               <ce:given-name>Younis Ahmad</ce:given-name>
+               <ce:surname>Hajam</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:younismajeed64@gmail.com">younismajeed64@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001706-b99932e4cfac9671a8b3907ac015918b">
+               <ce:given-name>Rajesh</ce:given-name>
+               <ce:surname>Kumar</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001706-5cee994aa72e22132185a0eed46ac646">
+               <ce:given-name>Seema</ce:given-name>
+               <ce:surname>Rai</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001706-bcaae7f1a43ea1b7995883ccc14f179a">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Biosciences, Division Zoology, Career Point University, Hamirpur, Himachal Pradesh, 176041 India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biosciences, Division Zoology</sa:organization>
+                  <sa:organization>Career Point University</sa:organization>
+                  <sa:city>Hamirpur</sa:city>
+                  <sa:state>Himachal Pradesh</sa:state>
+                  <sa:postal-code>176041</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Biosciences, Division Zoology, Career Point University, Hamirpur, Himachal Pradesh, 176041 India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001706-3d05b9ae25e973aa50f5149ecbb2e6e3">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Biosciences, Himachal Pradesh University, Shimla, Himachal Pradesh, 175001 India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biosciences</sa:organization>
+                  <sa:organization>Himachal Pradesh University</sa:organization>
+                  <sa:city>Shimla</sa:city>
+                  <sa:state>Himachal Pradesh</sa:state>
+                  <sa:postal-code>175001</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Biosciences, Himachal Pradesh University, Shimla, Himachal Pradesh, 175001 India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001706-254462f6b6d472602b8c8f2f80ff5921">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Zoology, Guru Ghasidas Vishwavidayalaya (A Central University), Bilaspur, Chhattisgarh, 495001 India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Zoology</sa:organization>
+                  <sa:organization>Guru Ghasidas Vishwavidayalaya (A Central University)</sa:organization>
+                  <sa:city>Bilaspur</sa:city>
+                  <sa:state>Chhattisgarh</sa:state>
+                  <sa:postal-code>495001</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Zoology, Guru Ghasidas Vishwavidayalaya (A Central University), Bilaspur, Chhattisgarh, 495001 India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara011" view="all">
+                  <ce:bold>Background:</ce:bold> Diabetes is one of the most challenging health problems in 21st century. It is a group of endocrine-metabolic disorder characterized by high glucose level (hyperglycemia) due to insufficient insulin secretion/action or both. It causes multi-organ failure viz hepatorenal damage, adult-onset blindness, lower-limb amputations, heart diseases and stroke, high blood pressure and nerve damage. Moreover, diabetic patients are having higher risk of cardiovascular complications including atherosclerosis, hypertension, lipoprotein abnormalities and cerebrovascular disease.</ce:simple-para>
+               <ce:simple-para id="spara012" view="all">
+                  <ce:bold>Study design:</ce:bold> Considering the potencies of currently available drugs for the treatment of diabetes and associated complications, present study was focussed to explore the role of plant bioactive components as alternative and easily accessible therapeutic remedies.</ce:simple-para>
+               <ce:simple-para id="spara013" view="all">
+                  <ce:bold>Hypothesis/Purpose</ce:bold>: This study the pooled status of diabetes, available treatments, attitude and traditional herbal polyphenols regarding diabetes.</ce:simple-para>
+               <ce:simple-para id="spara014" view="all">
+                  <ce:bold>Results:</ce:bold> This study was aimed to summarize the natural polyphenols having anti-diabetic, anti-inflammatory, anti-apoptotic and anti-cancerous activities. Polyphenols can decrease other metabolic diseases such as insulin resistance, hyperglycemia, hyperlipidemic, and obesity and Type-2 diabetes.</ce:simple-para>
+               <ce:simple-para id="spara015" view="all">
+                  <ce:bold>Conclusion:</ce:bold> Polyphenols are promising alternatives that can decrease the severity of diabetes and promote the other protective roles by decreasing the adverse effects of diabetes on other metabolic organs and their functions.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" class="graphical" view="all">
+            <ce:section-title id="cesectitle0002">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara016" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Diabetes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Complications</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Polyphenols</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Pharmacological approaches</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Metabolic disorders</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

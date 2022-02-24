@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Investigating the utility of a handheld X-ray fluorescence (XRF) device as a field test for suspected ivory</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Mark J.</namePart>
+      <namePart type="family">McLellan</namePart>
+      <displayForm>McLellan, Mark J.</displayForm>
+      <affiliation>California Department of Fish and Wildlife, Wildlife Forensic Laboratory, 1415 North Market Blvd. Suite 3, Sacramento, CA 95834, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kelly L.</namePart>
+      <namePart type="family">Carrothers</namePart>
+      <displayForm>Carrothers, Kelly L.</displayForm>
+      <affiliation>California Department of Fish and Wildlife, Genetic Research Laboratory, 1415 North Market Blvd. Suite 9, Sacramento, CA 95834, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ashley M.</namePart>
+      <namePart type="family">Spicer</namePart>
+      <displayForm>Spicer, Ashley M.</displayForm>
+      <affiliation>California Department of Fish and Wildlife, Wildlife Forensic Laboratory, 1415 North Market Blvd. Suite 3, Sacramento, CA 95834, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Forensic or field investigators can use X-ray fluorescence (XRF) to determine the elemental profile of an item. The elemental composition of an item can subsequently be used to identify the source of that item when compared with the elemental compositions of known potential source materials. For example, illegal trafficking of animal parts, including ivory, requires investigators to identify that an item originated from an animal source. Here, we describe a quick and effective field test that enables law enforcement officers to differentiate genuine ivory, bone, and antler from fake ivory, and to seize genuine ivory items with greater certainty. We used a handheld XRF device to scan 445 items from 9 categories to represent a range of biological and non-biological materials that may be encountered in the field. We established an XRF Ivory Flowchart with ranges for ivory based on a calcium to phosphorus (Ca/P) ratio of 1.2–4.0 and a light element (LE) percentage range of 27%− 76%. Four volunteers used the XRF device to scan 21 items (9 ivory and 12 non-ivory items) in combination with the XRF Ivory Flowchart to effectively identify 97% of the ivory items and to eliminate 83% of the non-ivory items. We believe the utility of the XRF device combined with the XRF Ivory Flowchart provides law enforcement officers with a valuable tool to combat illegal ivory trafficking and can assist with efforts to eliminate the poaching of protected ivory-bearing species. </abstract>
+   <subject>
+      <topic>Ivory</topic>
+   </subject>
+   <subject>
+      <topic>XRF</topic>
+   </subject>
+   <subject>
+      <topic>Forensic</topic>
+   </subject>
+   <subject>
+      <topic>Field test</topic>
+   </subject>
+   <subject>
+      <topic>Ca/P ratio</topic>
+   </subject>
+   <subject>
+      <topic>LE percentage</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Forensic Science International: Animals and Environments</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2666-9374</identifier>
+      <part>
+         <detail type="volume">
+            <number>2</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2022</text>
+         <text type="year">2022</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>100041</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.fsiae.2022.100041</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.fsiae.2022.100041</url>
+   </location>
+   <identifier type="pii">S2666-9374(22)00001-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-25"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2666-9374/S2666937421X00030/S2666937422000014/S2666937422000014.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

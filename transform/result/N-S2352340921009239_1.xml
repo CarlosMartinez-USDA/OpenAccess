@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Microbiome dataset of the cardiopulmonary nematode Angiostrongylus vasorum</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Annageldi</namePart>
+      <namePart type="family">Tayyrov</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4426-1408</nameIdentifier>
+      <displayForm>Tayyrov, Annageldi</displayForm>
+      <affiliation>Institute of Parasitology, Vetsuisse-Faculty, University of Zurich, Winterthurerstrasse 266a, 8057 Zurich, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Manuela</namePart>
+      <namePart type="family">Schnyder</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6523-7952</nameIdentifier>
+      <displayForm>Schnyder, Manuela</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Angiostrongylus vasorum is an emerging parasitic nematode of dogs, red foxes, and other wild canids. The severity of infection in dogs ranges from subclinical to fatal cardiopulmonary and bleeding disorders collectively known as canine angiostrongylosis. A symbiotic relationship between microorganisms such as bacteria and their eukaryotic hosts is commonly observed in nature. The mutualistic role of bacteria has been documented in plant-parasitic nematodes, gastrointestinal nematodes, and filarial nematodes. The importance of the bacteria for the survival of these parasites has been demonstrated with antibiotic treatments. To characterize associated bacteria of adult A. vasorum parasites, 36 individual worm samples were used. The worms were extracted from foxes hunted either in the city or in the rural regions within the Canton of Zurich, Switzerland. DNA was isolated and the V3/V4 hypervariable region of the bacterial 16S rRNA gene was amplified. Sequenced Illumina MiSeq reads were analysed using QIIME2. The data were used to profile the abundance and diversity of microbial communities in worms originating from either rural or urban foxes. </abstract>
+   <subject>
+      <topic>Angiostrongylus vasorum</topic>
+   </subject>
+   <subject>
+      <topic>Microbiome</topic>
+   </subject>
+   <subject>
+      <topic>16S rRNA sequencing</topic>
+   </subject>
+   <subject>
+      <topic>Cardiopulmonary nematode</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107648</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107648</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107648</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00923-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-25"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009239/S2352340921009239.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

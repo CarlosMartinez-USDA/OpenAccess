@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>A dataset for mobile edge computing network topologies</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Bin</namePart>
+      <namePart type="family">Xiang</namePart>
+      <displayForm>Xiang, Bin</displayForm>
+      <affiliation>Politecnico di Milano, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jocelyne</namePart>
+      <namePart type="family">Elias</namePart>
+      <displayForm>Elias, Jocelyne</displayForm>
+      <affiliation>University of Bologna, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fabio</namePart>
+      <namePart type="family">Martignon</namePart>
+      <displayForm>Martignon, Fabio</displayForm>
+      <affiliation>University of Bergamo, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Elisabetta</namePart>
+      <namePart type="family">Di Nitto</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3422-5171</nameIdentifier>
+      <displayForm>Di Nitto, Elisabetta</displayForm>
+      <affiliation>Politecnico di Milano, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Mobile Edge Computing (MEC) is vital to support the numerous, future applications that are envisioned in the 5G and beyond mobile networks. Since computation capabilities are available at the edge of the network, applications that need ultra low-latency, high bandwidth and reliability can be deployed more easily. This opens up the possibility of developing smart resource allocation approaches that can exploit the MEC infrastructure in an optimized way and, at the same time, fulfill the requirements of applications. However, up to date, the progress of research in this area is limited by the unavailability of publicly available true MEC topologies that could be used to run extensive experiments and to compare the performance on different solutions concerning planning, scheduling, routing etc. For this reason, we decided to infer and make publicly available several synthetic MEC topologies and scenarios. Specifically, based on the experience we have gathered with our experiments Xiang et al. [1], we provide data related to 3 randomly generated topologies, with increasing network size (from 25 to 100 nodes). Moreover, we propose a MEC topology generated from OpenCellID [2] real data and concerning the Base Stations’ location of 234 LTE cells owned by a mobile operator (Vodafone) in the center of Milan. We also provide realistic reference parameters (link bandwidth, computation and storage capacity, offered traffic), derived from real services provided by MEC in the deployment of 5G networks. </abstract>
+   <subject>
+      <topic>5G Network</topic>
+   </subject>
+   <subject>
+      <topic>Mobile edge computing</topic>
+   </subject>
+   <subject>
+      <topic>Base stations</topic>
+   </subject>
+   <subject>
+      <topic>Network topology</topic>
+   </subject>
+   <subject>
+      <topic>Geographic location</topic>
+   </subject>
+   <subject>
+      <topic>Random graphs</topic>
+   </subject>
+   <subject>
+      <topic>Network parameters</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107557</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107557</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107557</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00833-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-03"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008337/S2352340921008337.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

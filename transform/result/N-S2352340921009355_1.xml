@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>ECSMP: A dataset on emotion, cognition, sleep, and multi-model physiological signals</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Zhilin</namePart>
+      <namePart type="family">Gao</namePart>
+      <displayForm>Gao, Zhilin</displayForm>
+      <affiliation>State Key Laboratory of Bioelectronics, School of Biological Science and Medical Engineering, Southeast University, Nanjing 210096, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Xingran</namePart>
+      <namePart type="family">Cui</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1887-8631</nameIdentifier>
+      <displayForm>Cui, Xingran</displayForm>
+      <affiliation>Key Laboratory of Child Development and Learning Science, Ministry of Education, School of Biological Science and Medical Engineering, Southeast University, Nanjing 210096, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wang</namePart>
+      <namePart type="family">Wan</namePart>
+      <displayForm>Wan, Wang</displayForm>
+      <affiliation>State Key Laboratory of Bioelectronics, School of Biological Science and Medical Engineering, Southeast University, Nanjing 210096, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wenming</namePart>
+      <namePart type="family">Zheng</namePart>
+      <displayForm>Zheng, Wenming</displayForm>
+      <affiliation>Key Laboratory of Child Development and Learning Science, Ministry of Education, School of Biological Science and Medical Engineering, Southeast University, Nanjing 210096, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Zhongze</namePart>
+      <namePart type="family">Gu</namePart>
+      <displayForm>Gu, Zhongze</displayForm>
+      <affiliation>State Key Laboratory of Bioelectronics, School of Biological Science and Medical Engineering, Southeast University, Nanjing 210096, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper described the collection of multi-modal physiological signals, which include electroencephalography, electrocardiograph (ECG), photoplethysmography, electrodermal activity, temperature, and accelerometer data, recorded from 89 healthy college students during resting state, the emotion induction and recovery, and a set of cognitive function assessment tasks. Emotion, sleep, cognition, depression, mood, and other factors were evaluated through different methods, and were included in this dataset. Six emotions (neutral, fear, sad, happy, anger, and disgust) were induced by movie clips. The cognitive functions such as sustained attention, response inhibition, working memory, and strategy use, were quantitatively measured by Cambridge neuropsychological test automatic battery. The sleep ECG was collected the night before the emotion-induction experiment, and the sleep quality was analysed based on the sleep ECG. After the experiment, the participants were required to fill in questionnaires to evaluate the emotion regulation strategies, depression score, recent mood, and sleep quality index. The database can not only be directly used for the research of emotion recognition on multi-modal physiological signals, but also can further explore the interactions between emotion, cognition, and sleep. </abstract>
+   <subject>
+      <topic>Video-induced emotion</topic>
+   </subject>
+   <subject>
+      <topic>Cognitive function assessment</topic>
+   </subject>
+   <subject>
+      <topic>Sleep quality</topic>
+   </subject>
+   <subject>
+      <topic>EEG</topic>
+   </subject>
+   <subject>
+      <topic>Multi-model physiological signals</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107660</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107660</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107660</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00935-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-30"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009355/S2352340921009355.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

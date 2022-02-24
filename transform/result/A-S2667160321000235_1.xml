@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.bbadva.2021.100024">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Corrigendum to Quantitative assessment of chlorophyll types in cryo-EM maps of photosystem I acclimated to far-red light BBA Advances 1 (2021) 100019</dct:title>
+         <dct:creator>Christopher J. Gisriel</dct:creator>
+         <dct:creator>Hao-Li Huang</dct:creator>
+         <dct:creator>Krystle Reiss</dct:creator>
+         <dct:creator>David A. Flesher</dct:creator>
+         <dct:creator>Victor S. Batista</dct:creator>
+         <dct:creator>Donald A. Bryant</dct:creator>
+         <dct:creator>Gary W. Brudvig</dct:creator>
+         <dct:creator>Jimin Wang</dct:creator>
+         <dct:description>BBA Advances 1 (2021). doi:10.1016/j.bbadva.2021.100024</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>BBA Advances</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V. All rights reserved.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-1603</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.bbadva.2021.100024</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.bbadva.2021.100024</prism:url>
+         <dct:identifier>doi:10.1016/j.bbadva.2021.100024</dct:identifier>
+         <bam:articleNumber>100024</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-08-06T08:18:11Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+         </oa:openAccessInformation>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:simple-article docsubtype="err" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>BBADVA</ja:jid>
+         <ja:aid>100024</ja:aid>
+         <ce:article-number>100024</ce:article-number>
+         <ce:pii>S2667-1603(21)00023-5</ce:pii>
+         <ce:doi>10.1016/j.bbadva.2021.100024</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S2667-1603(21)00018-1</ce:pii>
+               <ce:doi>10.1016/j.bbadva.2021.100019</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:simple-head>
+         <ce:article-footnote>
+            <ce:note-para id="notep0002" view="all">DOI of original article: 10.1016/j.bbadva.2021.100019</ce:note-para>
+         </ce:article-footnote>
+         <ce:article-footnote>
+            <ce:note-para id="notep0003" view="all">The original published article listed the Protein Data Bank accession number 7PX0 for the associated cryo-EM structure coordinates which is incorrect. The correct Protein Data Bank accession number is 7LX0.</ce:note-para>
+         </ce:article-footnote>
+         <ce:article-footnote>
+            <ce:note-para id="notep0004" view="all">The authors would like to apologise for any inconvenience caused.</ce:note-para>
+         </ce:article-footnote>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Corrigendum</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Corrigendum to Quantitative assessment of chlorophyll types in cryo-EM maps of photosystem I acclimated to far-red light BBA Advances 1 (2021) 100019</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667160321000235-2d1b4c3e1b066ee80bbaca1523fee69e">
+               <ce:given-name>Christopher J.</ce:given-name>
+               <ce:surname>Gisriel</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:christopher.gisriel@yale.edu">christopher.gisriel@yale.edu</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667160321000235-b716cbac1c77365b4f2ba0cae6935b61">
+               <ce:given-name>Hao-Li</ce:given-name>
+               <ce:surname>Huang</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">1</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667160321000235-81bb049d4b43336e0bc51f90bb231f4a">
+               <ce:given-name>Krystle</ce:given-name>
+               <ce:surname>Reiss</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667160321000235-04ad6e2f1e8c95a2bd7fb8619a0e4509">
+               <ce:given-name>David A.</ce:given-name>
+               <ce:surname>Flesher</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667160321000235-e9c6d421c53500c8e919fbccca9e9510">
+               <ce:given-name>Victor S.</ce:given-name>
+               <ce:surname>Batista</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667160321000235-94330936458566e6ff48be2a74b22dbd">
+               <ce:given-name>Donald A.</ce:given-name>
+               <ce:surname>Bryant</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667160321000235-341f5ad95a289eefac2c5c0826eb3322">
+               <ce:given-name>Gary W.</ce:given-name>
+               <ce:surname>Brudvig</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667160321000235-7fcc4be9dca25068002029a7547989e5">
+               <ce:given-name>Jimin</ce:given-name>
+               <ce:surname>Wang</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0002" type="email" xlink:href="mailto:jimin.wang@yale.edu">jimin.wang@yale.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667160321000235-3c6be69b1645fc726e24e8847a78ab5d">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Chemistry, Yale University, New Haven, CT 06520, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>Yale University</sa:organization>
+                  <sa:city>New Haven</sa:city>
+                  <sa:state>CT</sa:state>
+                  <sa:postal-code>06520</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Chemistry, Yale University, New Haven, CT 06520, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667160321000235-8202627ba7e58e25f8f92c46887c884b">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Molecular Biophysics and Biochemistry</sa:organization>
+                  <sa:organization>Yale University</sa:organization>
+                  <sa:city>New Haven</sa:city>
+                  <sa:state>CT</sa:state>
+                  <sa:postal-code>06520</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667160321000235-c7a8e34b2ba2b85665ba7efdc730efaa">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, PA 16802, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biochemistry and Molecular Biology</sa:organization>
+                  <sa:organization>The Pennsylvania State University</sa:organization>
+                  <sa:organization>University Park</sa:organization>
+                  <sa:state>PA</sa:state>
+                  <sa:postal-code>16802</sa:postal-code>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, PA 16802, USA</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Correspondence author.</ce:text>
+            </ce:correspondence>
+            <ce:footnote id="fn1">
+               <ce:label>1</ce:label>
+               <ce:note-para id="notep0001" view="all">These authors contributed equally.</ce:note-para>
+            </ce:footnote>
+         </ce:author-group>
+      </ja:simple-head>
+   </ja:simple-article>
+</doc:document>

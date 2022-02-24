@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107886">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Erythrocyte (red blood cell) dataset in thalassemia case</dct:title>
+         <dct:creator>Dyah Aruming Tyas</dct:creator>
+         <dct:creator>Tri Ratnaningsih</dct:creator>
+         <dct:creator>Agus Harjoko</dct:creator>
+         <dct:creator>Sri Hartati</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Erythrocyte</rdf:li>
+               <rdf:li>RBC</rdf:li>
+               <rdf:li>Thalassemia</rdf:li>
+               <rdf:li>Classification</rdf:li>
+               <rdf:li>Peripheral blood smears</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107886</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107886</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107886</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107886</dct:identifier>
+         <bam:articleNumber>107886</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-27T17:49:50Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Indonesia: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107886</ja:aid>
+         <ce:article-number>107886</ce:article-number>
+         <ce:pii>S2352-3409(22)00098-1</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107886</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Erythrocyte (red blood cell) dataset in thalassemia case</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922000981-1d58843d036ab72a0e4dfba233a1e3cf"
+                       orcid="0000-0002-8505-7836">
+               <ce:given-name>Dyah Aruming</ce:given-name>
+               <ce:surname>Tyas</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922000981-0ba00e128eb46c3e775a07b09993fb2a">
+               <ce:given-name>Tri</ce:given-name>
+               <ce:surname>Ratnaningsih</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922000981-749ad7b37ab382320a7cf2f3c1fd60ad"
+                       orcid="0000-0001-8677-9593">
+               <ce:given-name>Agus</ce:given-name>
+               <ce:surname>Harjoko</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:aharjoko@ugm.ac.id">aharjoko@ugm.ac.id</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922000981-350160e2862d3b9bf4fc05e2f2063534"
+                       orcid="0000-0002-5511-3921">
+               <ce:given-name>Sri</ce:given-name>
+               <ce:surname>Hartati</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922000981-1b308849449372245f74abad6174a285">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Computer Science and Electronics, Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Computer Science and Electronics</sa:organization>
+                  <sa:organization>Universitas Gadjah Mada (UGM)</sa:organization>
+                  <sa:state>Yogyakarta</sa:state>
+                  <sa:country>Indonesia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Computer Science and Electronics, Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922000981-bb9fd2695356a27d7eed1646da98b563">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Clinical Pathology and Laboratory Medicine, Faculty of Medicine, Nursing and Public Health, Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Clinical Pathology and Laboratory Medicine</sa:organization>
+                  <sa:organization>Faculty of Medicine</sa:organization>
+                  <sa:organization>Nursing and Public Health</sa:organization>
+                  <sa:organization>Universitas Gadjah Mada (UGM)</sa:organization>
+                  <sa:state>Yogyakarta</sa:state>
+                  <sa:country>Indonesia</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Clinical Pathology and Laboratory Medicine, Faculty of Medicine, Nursing and Public Health, Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="25" month="11" year="2021"/>
+         <ce:date-revised day="20" month="1" year="2022"/>
+         <ce:date-accepted day="26" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">Red blood cell (RBC) dataset was obtained from four thalassemia peripheral blood smears and a healthy peripheral blood smear. The dataset contains 7108 images of individual red blood cells for nine cell types. The first process is image acquisition, which is the process of retrieving microscopic image data from peripheral blood smears through a Olympus CX21 microscope using an Optilab advance plus camera. Laboratory assistants helped obtain ideal erythrocyte images. We provide peripheral blood smear from four thalassemia patients in the ThalassemiaPBS dataset. After image acquisition, the image is resized from 4100 × 3075 pixels to 800 × 600 pixels to reduce the computing load in the next stage. We extracted the green color component (green channel) of the RGB image and used it in the next process. We chose the green channel because it is not affected by variations in color and brightness. Furthermore, the segmentation stage is carried out to obtain an object in the form of a single red blood cell. After that, the object can be classified according to the type of red blood cell. This dataset can become an opportunity for international researchers to develop the classification method for red blood cells.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Erythrocyte</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">RBC</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Thalassemia</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Classification</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Peripheral blood smears</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

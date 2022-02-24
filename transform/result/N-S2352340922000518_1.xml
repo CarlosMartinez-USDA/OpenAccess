@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Non-invasive auditory brain stimulation for gamma-band entrainment in dementia patients: An EEG dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Mojtaba</namePart>
+      <namePart type="family">Lahijanian</namePart>
+      <displayForm>Lahijanian, Mojtaba</displayForm>
+      <affiliation>Department of Electrical Engineering, Sharif University of Technology, Tehran, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mohammad Javad</namePart>
+      <namePart type="family">Sedghizadeh</namePart>
+      <displayForm>Sedghizadeh, Mohammad Javad</displayForm>
+      <affiliation>Department of Electrical Engineering, Sharif University of Technology, Tehran, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hamid</namePart>
+      <namePart type="family">Aghajan</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9054-5642</nameIdentifier>
+      <displayForm>Aghajan, Hamid</displayForm>
+      <affiliation>Department of Electrical Engineering, Sharif University of Technology, Tehran, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Zahra</namePart>
+      <namePart type="family">Vahabi</namePart>
+      <displayForm>Vahabi, Zahra</displayForm>
+      <affiliation>Department of Geriatric Medicine, Ziaeian Hospital, Tehran University of Medical Sciences, Tehran, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-14</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Gamma entrainment has been shown to enhance beta amyloid (Aβ) uptake in mouse models of Alzheimer's disease (AD) as well as improve cognitive symptoms of dementia in both humans and mice. Similar improvements have been reported for both invasive and non-invasive brain stimulation in the gamma oscillatory band, with 40 Hz auditory and visual sensory stimulants employed in non-invasive approaches. Non-invasive stimulation techniques possess the clear advantage of not requiring surgical procedures and can hence be applicable to a wider set of patients. The dataset introduced here was acquired with the aim of examining the network-level mechanisms governing the production of the brain's oscillatory activity during non-invasive auditory gamma-band stimulation, and thereby helping to explain the reported therapeutic effects of entrainment in AD patients. Thirteen elderly participants with memory complaints whose conditions were diagnosed as normal aging (non-AD) or mild AD based on the standard criteria for the diagnosis of AD including the mini-mental state exam (MMSE) took part in data collection in which EEG signals were recorded during auditory stimulation of the brain. The data collection session consisted of an initial one-minute rest followed by an alternating set of six stimulation trials interleaved with five rest trials. During each stimulation trial, an auditory stimulant in the form of a 40 Hz chirp was presented to the participant. The collected data from all participants were preprocessed following the full pipeline of Makoto with the use of EEGLAB and posted as a dataset named: Auditory Gamma Entrainment at OpenNeuro repository. The data record for each participant includes the EEG signal represented in standard BIDS format for one-minute rest followed by the auditory task data. A copy of the source EEG data is also provided in .txt format. The dataset can be used to study the characteristics of brain oscillations during entrainment, as well as for studies on auditory perception, analysis of resting state potentials in dementia patients, comparison of auditory evoked potentials with resting state potentials, ERP, ERSP, and SSAVP analysis of auditory response in dementia patients, time series analysis of the stimulation and rest trials, and brain connectivity analysis in dementia patients. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Brain oscillations</topic>
+   </subject>
+   <subject>
+      <topic>Alzheimer's disease</topic>
+   </subject>
+   <subject>
+      <topic>Dementia therapy</topic>
+   </subject>
+   <subject>
+      <topic>Brain entrainment</topic>
+   </subject>
+   <subject>
+      <topic>Non-invasive auditory brain stimulation</topic>
+   </subject>
+   <subject>
+      <topic>Network-level synchronization</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">14</text>
+         <extent unit="pages">
+            <start>107839</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107839</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107839</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00051-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-16"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/333921349383348651-00001/2352-3409/aip/S2352340922000518/S2352340922000518.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

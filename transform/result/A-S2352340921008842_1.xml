@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107609">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset on the mass spectrometry-based proteomic profiling of mouse embryonic fibroblasts from a wild type and DYT-TOR1A mouse model of dystonia, basally and during stress</dct:title>
+         <dct:creator>Kunal Shroff</dct:creator>
+         <dct:creator>Zachary F. Caffall</dct:creator>
+         <dct:creator>Erik J. Soderblom</dct:creator>
+         <dct:creator>Greg Waitt</dct:creator>
+         <dct:creator>Tricia Ho</dct:creator>
+         <dct:creator>Nicole Calakos</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Dystonia</rdf:li>
+               <rdf:li>TorsinA</rdf:li>
+               <rdf:li>Proteomics</rdf:li>
+               <rdf:li>Subcellular fractionation</rdf:li>
+               <rdf:li>Thapsigargin</rdf:li>
+               <rdf:li>Stress response</rdf:li>
+               <rdf:li>Movement disorder</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107609</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107609</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107609</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107609</dct:identifier>
+         <bam:articleNumber>107609</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-17T18:35:47Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107609</ja:aid>
+         <ce:article-number>107609</ce:article-number>
+         <ce:pii>S2352-3409(21)00884-2</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107609</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0969-9961(21)00213-8</ce:pii>
+               <ce:doi>10.1016/j.nbd.2021.105464</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset on the mass spectrometry-based proteomic profiling of mouse embryonic fibroblasts from a wild type and DYT-TOR1A mouse model of dystonia, basally and during stress</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008842-09ecdbf14177ade2a335d3035d6c7e12">
+               <ce:given-name>Kunal</ce:given-name>
+               <ce:surname>Shroff</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008842-877b3fe2aa543a0e0e9c67eb029caa47"
+                       orcid="0000-0003-4601-6799">
+               <ce:given-name>Zachary F.</ce:given-name>
+               <ce:surname>Caffall</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008842-2623bae4cd09e0f8c342b237a81a8ab0">
+               <ce:given-name>Erik J.</ce:given-name>
+               <ce:surname>Soderblom</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008842-768976bcda9e2018269757ec51b3b294"
+                       orcid="0000-0003-1306-5885">
+               <ce:given-name>Greg</ce:given-name>
+               <ce:surname>Waitt</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921008842-5a0e5d1a3da458b891cc8f6225705c85">
+               <ce:given-name>Tricia</ce:given-name>
+               <ce:surname>Ho</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340921008842-fda6981086ad4db98e431b00b8a078d8">
+               <ce:given-name>Nicole</ce:given-name>
+               <ce:surname>Calakos</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:nicole.calakos@duke.edu">nicole.calakos@duke.edu</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008842-5dfb31450899fb924c45334d801c0165">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Neurology, Duke University Medical Center, Durham, NC, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Neurology</sa:organization>
+                  <sa:organization>Duke University Medical Center</sa:organization>
+                  <sa:city>Durham</sa:city>
+                  <sa:state>NC</sa:state>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartments of Neurology, Duke University Medical Center, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008842-27ecca6b4246914a3fb174db86371084">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Neurobiology, Duke University Medical Center, Durham, NC, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Neurobiology</sa:organization>
+                  <sa:organization>Duke University Medical Center</sa:organization>
+                  <sa:city>Durham</sa:city>
+                  <sa:state>NC</sa:state>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bNeurobiology, Duke University Medical Center, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921008842-4f596199bc29549a181c8a172eeb37e1">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Cell Biology, Duke University Medical Center, Durham, NC, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Cell Biology</sa:organization>
+                  <sa:organization>Duke University Medical Center</sa:organization>
+                  <sa:city>Durham</sa:city>
+                  <sa:state>NC</sa:state>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cCell Biology, Duke University Medical Center, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340921008842-fe4c031ddb68c735f9160804c53369ed">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Proteomics and Metabolomics Core Facility, Duke Center for Genomic and Computational Biology, Durham, NC, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Proteomics and Metabolomics Core Facility</sa:organization>
+                  <sa:organization>Duke Center for Genomic and Computational Biology</sa:organization>
+                  <sa:city>Durham</sa:city>
+                  <sa:state>NC</sa:state>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dProteomics and Metabolomics Core Facility, Duke Center for Genomic and Computational Biology, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2352340921008842-180054ccf15e6d2c918e22ba411ae646">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Duke Institute for Brain Sciences, Duke University, Durham, NC, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Duke Institute for Brain Sciences</sa:organization>
+                  <sa:organization>Duke University</sa:organization>
+                  <sa:city>Durham</sa:city>
+                  <sa:state>NC</sa:state>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eDuke Institute for Brain Sciences, Duke University, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text>Corresponding author at: Department of Neurology, Duke University Medical Center, Durham, NC, United States</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Neurology</sa:organization>
+                  <sa:organization>Duke University Medical Center</sa:organization>
+                  <sa:city>Durham</sa:city>
+                  <sa:state>NC</sa:state>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="22" month="9" year="2021"/>
+         <ce:date-revised day="1" month="11" year="2021"/>
+         <ce:date-accepted day="16" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara002" view="all">Here, we present quantitative subcellular compartment-specific proteomic data from wildtype and DYT-TOR1A heterozygous mouse embryonic fibroblasts (MEFs) basally and following thapsigargin (Tg) treatment [1]. In this experiment, we generated MEFs from wild type (WT) and a heterozygous DYT-TOR1A mouse model of dystonia. Subsequently, these MEF cultures were treated with either 1 µM Tg or dimethylsulfoxide vehicle (Veh) for six hours. Following treatment, the cells were fractionated into nuclear and cytosolic fractions. Liquid chromatography, tandem mass spectrometry (LC/MS/MS)-based proteomic profiling identified 65,056 unique peptides and 4801 unique proteins across all samples. The data presented here provide subcellular compartment-specific proteomic information within a dystonia model system both basally and under cellular stress. These data can inform future experiments focused on studying the function of TorsinA, the protein encoded by TOR1A, and its potential role in nucleocytoplasmic transport and proteostasis. In addition, the information in this article can also inform future mechanistic studies investigating the relationship between DYT-TOR1A dystonia and the cellular stress response to advance understanding of the pathogenesis of dystonia.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Dystonia</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">TorsinA</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Proteomics</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Subcellular fractionation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Thapsigargin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Stress response</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">Movement disorder</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

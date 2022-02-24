@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Brno urban dataset: Winter extension</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Adam</namePart>
+      <namePart type="family">Ligocki</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6813-4318</nameIdentifier>
+      <displayForm>Ligocki, Adam</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ales</namePart>
+      <namePart type="family">Jelinek</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7519-2092</nameIdentifier>
+      <displayForm>Jelinek, Ales</displayForm>
+      <affiliation>Brno University of Technology, Technicka 12, Brno 612 00, Czechia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ludek</namePart>
+      <namePart type="family">Zalud</namePart>
+      <displayForm>Zalud, Ludek</displayForm>
+      <affiliation>Brno University of Technology, Technicka 12, Brno 612 00, Czechia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This paper presents our latest extension of the Brno Urban Dataset (BUD), the Winter Extension (WE). The dataset contains data from commonly used sensors in the automotive industry, like four RGB and single IR cameras, three 3D LiDARs, differential RTK GNSS receiver with heading estimation, the IMU and FMCW radar. Data from all sensors are precisely timestamped for future offline interpretation and data fusion. The most significant gain of the dataset is the focus on the winter conditions in snow-covered environments. Only a few public datasets deal with these kinds of conditions. We recorded the dataset during February 2021 in Brno, Czechia, when fresh snow covers the entire city and the surrounding countryside. The dataset contains situations from the city center, suburbs, highways as well as the countryside. Overall, the new extension adds three hours of real-life traffic situations from the mid-size city to the existing 10 h of original records. Additionally, we provide the precalculated YOLO neural network object detection annotations for all five cameras for the entire old data and the new ones. The dataset is suitable for developing mapping and navigation algorithms as well as the collision and object detection pipelines. The entire dataset is available as open-source under the MIT license. </abstract>
+   <subject>
+      <topic>Multimodal dataset</topic>
+   </subject>
+   <subject>
+      <topic>Navigation data</topic>
+   </subject>
+   <subject>
+      <topic>RGB camera</topic>
+   </subject>
+   <subject>
+      <topic>IR camera</topic>
+   </subject>
+   <subject>
+      <topic>3D LiDAR</topic>
+   </subject>
+   <subject>
+      <topic>RTK GNSS</topic>
+   </subject>
+   <subject>
+      <topic>IMU</topic>
+   </subject>
+   <subject>
+      <topic>Neural networks</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107667</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107667</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107667</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00942-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-01"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009422/S2352340921009422.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

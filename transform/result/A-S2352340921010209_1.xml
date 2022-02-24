@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107745">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Dataset from analytical pyrolysis assays for converting waste tires into valuable chemicals in the presence of noble-metal catalysts</dct:title>
+         <dct:creator>Beatriz Smith Azócar</dct:creator>
+         <dct:creator>Paula Osorio Vargas</dct:creator>
+         <dct:creator>Cristian Campos</dct:creator>
+         <dct:creator>Francisco Medina</dct:creator>
+         <dct:creator>Luis E. Arteaga-Pérez</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Waste tire</rdf:li>
+               <rdf:li>Catalytic pyrolysis</rdf:li>
+               <rdf:li>Noble metals</rdf:li>
+               <rdf:li>Py-GC/MS</rdf:li>
+               <rdf:li>Dataset</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 40 (2022). doi:10.1016/j.dib.2021.107745</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>40</prism:volume>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107745</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107745</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107745</dct:identifier>
+         <bam:articleNumber>107745</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-12-21T18:31:56Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Chile: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107745</ja:aid>
+         <ce:article-number>107745</ce:article-number>
+         <ce:pii>S2352-3409(21)01020-9</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107745</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Dataset from analytical pyrolysis assays for converting waste tires into valuable chemicals in the presence of noble-metal catalysts</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921010209-cc015de396a9c1963d47b8fc5635146a">
+               <ce:given-name>Beatriz Smith</ce:given-name>
+               <ce:surname>Azócar</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921010209-fa4727ddf3df9f5a423dc57b8560f7d4">
+               <ce:given-name>Paula Osorio</ce:given-name>
+               <ce:surname>Vargas</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921010209-3ed3b8a500549fc6dfe0a6d20d022072">
+               <ce:given-name>Cristian</ce:given-name>
+               <ce:surname>Campos</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921010209-3fdbb7ff001fcd7146647a25772d6ff3">
+               <ce:given-name>Francisco</ce:given-name>
+               <ce:surname>Medina</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340921010209-3b73795aaff8fb2167f74a922385689b"
+                       orcid="0000-0003-3982-4165">
+               <ce:given-name>Luis E.</ce:given-name>
+               <ce:surname>Arteaga-Pérez</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:larteaga@ubiobio.cl">larteaga@ubiobio.cl</ce:e-address>
+               <ce:e-address id="ea1"
+                             type="social-media"
+                             xlink:href="https://twitter.com/LptcUbb">@LptcUbb</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921010209-d77ce047aa6784bf224dc67cb4184126">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Laboratory of Thermal and Catalytic Processes (LPTC-UBB), Universidad del Bío-Bío, Facultad de Ingeniería, Departamento Ing. en Maderas, Collao 1202, Concepción 4030000, Chile</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratory of Thermal and Catalytic Processes (LPTC-UBB)</sa:organization>
+                  <sa:organization>Universidad del Bío-Bío</sa:organization>
+                  <sa:organization>Facultad de Ingeniería</sa:organization>
+                  <sa:organization>Departamento Ing. en Maderas</sa:organization>
+                  <sa:address-line>Collao 1202</sa:address-line>
+                  <sa:city>Concepción</sa:city>
+                  <sa:postal-code>4030000</sa:postal-code>
+                  <sa:country>Chile</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aLaboratory of Thermal and Catalytic Processes (LPTC-UBB), Universidad del Bío-Bío, Facultad de Ingeniería, Departamento Ing. en Maderas, Collao 1202, Concepción 4030000, Chile</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921010209-2e9571e4050ddba2ed3151b037f7c40b">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Centro de Investigación y Desarrollo en Ciencias Aplicadas “Dr. J.J. Ronco” (CINDECA), Departamento de Química, Facultad de Ciencias Exactas, UNLP-CCT La Plata, CONICET, 47 No. 257, 1900 La Plata, Buenos Aires, Argentina</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Centro de Investigación y Desarrollo en Ciencias Aplicadas “Dr. J.J. Ronco” (CINDECA)</sa:organization>
+                  <sa:organization>Departamento de Química</sa:organization>
+                  <sa:organization>Facultad de Ciencias Exactas</sa:organization>
+                  <sa:address-line>UNLP-CCT La Plata, CONICET, 47 No. 257, 1900 La Plata</sa:address-line>
+                  <sa:city>Buenos Aires</sa:city>
+                  <sa:country>Argentina</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bCentro de Investigación y Desarrollo en Ciencias Aplicadas “Dr. J.J. Ronco” (CINDECA), Departamento de Química, Facultad de Ciencias Exactas, UNLP-CCT La Plata, CONICET, 47 No. 257, 1900 La Plata, Buenos Aires, Argentina</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921010209-a9c8379f6b808791a882705ddae19219">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Universidad de Concepción, Facultad de Ciencias Químicas, Departamento de Físico-Química, Edmundo Larenas 129. Concepción 4030000, Chile</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Universidad de Concepción</sa:organization>
+                  <sa:organization>Facultad de Ciencias Químicas</sa:organization>
+                  <sa:organization>Departamento de Físico-Química</sa:organization>
+                  <sa:address-line>Edmundo Larenas 129</sa:address-line>
+                  <sa:city>Concepción</sa:city>
+                  <sa:postal-code>4030000</sa:postal-code>
+                  <sa:country>Chile</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cUniversidad de Concepción, Facultad de Ciencias Químicas, Departamento de Físico-Química, Edmundo Larenas 129. Concepción 4030000, Chile</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="18" month="11" year="2021"/>
+         <ce:date-accepted day="20" month="12" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">About 25.7 million tons of waste tires (WT) are discarded each year worldwide causing important environmental, and health problems. This waste is difficult to manage and dispose due to its huge rate of generation and its extremely slow biodegradation. Therefore, many efforts are being made to valorise WTs into a series of marketable products under a circular economy framework. In the attempt to convert WT into higher-value products, thermochemical decomposition by pyrolysis has emerged as a promising process [1]. The pyrolysis is a thermochemical transformation (under an oxygen-depleted atmosphere) of the tire´s polymeric constituents: natural rubber (NR), styrene-butadiene rubber (SBR), and butadiene rubber (BR) into three major fractions. These fractions are a gas (10–35%, TPG) which is usually used as a heat source (50 MJ kg<ce:sup loc="post">−1</ce:sup>), a solid consisting mainly of recovered carbon black (12–45%, rCB), and a liquid fraction (35-65%, TPO) containing a complex mixture of organic compounds. Among the high-value compounds that can be found in the TPO are D,L-limonene, isoprene, benzene, toluene, mixed-xylene, ethylbenzene, styrene, p-cymene, and some polycyclic aromatic hydrocarbons. This mixture is commonly used as a diesel substitute and owing to its complex composition it rarely is seen as a source for more valuable products. To overcome such a complexity, and selectively produce specific chemical identities, different types of catalysts have been used [2,3].</ce:simple-para>
+               <ce:simple-para id="spara009" view="all">Herein, we provide a dataset from a systematic study about catalytic pyrolysis of WT for selectively producing benzene, toluene, and xylenes (BTX) and p-cymene on noble metals (Pd, Pt, Au) supported on titanate nanotubes (NT-Ti). The comprehensive analysis of this data was recently published, thus, the analytical techniques, experimental conditions and dataset are given in the present paper as a complement to that publication [1]. The reaction was evaluated in an analytical pyrolysis unit consisting in a micropyrolizer coupled to a mass spectrometer (Py-GC/MS) operating at temperatures between 400 and 450 °C in a fast pyrolysis regime (12 s). The effectivity of catalysts was measured in terms of selectivity to monoaromatics as BTX and p-cymene, under non-catalytic and for catalytic pyrolysis conditions. Moreover, the reaction was conducted on individual rubbers (Polyisoprene, Polybutadiene, and Styrene-Butadiene) and DL-limonene, to get deep insights into the transformation behaviour and reaction pathways. Therefore, the reader will find a data-in-brief paper containing some characterizations of the WTs used for the investigation, along with a complete dataset of Py-GC/MS results. Finally, the original files for the interpretation of the MS results are also provided, so that the reader can easily use this information to further expand the study to their own interest (industrial or scientific).</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Waste tire</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001a">
+               <ce:text id="cetext0002a">Catalytic pyrolysis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001b">
+               <ce:text id="cetext0002b">Noble metals</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001c">
+               <ce:text id="cetext0002c">Py-GC/MS</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0001d">
+               <ce:text id="cetext0002d">Dataset</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

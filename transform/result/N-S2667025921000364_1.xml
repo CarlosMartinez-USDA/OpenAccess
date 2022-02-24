@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>3D printing of kappa-carrageenan emulsion gels</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Michael-Alex</namePart>
+      <namePart type="family">Kamlow</namePart>
+      <displayForm>Kamlow, Michael-Alex</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fotis</namePart>
+      <namePart type="family">Spyropoulos</namePart>
+      <displayForm>Spyropoulos, Fotis</displayForm>
+      <affiliation>School of Chemical Engineering, University of Birmingham, Edgbaston, Birmingham B15 2TT, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tom</namePart>
+      <namePart type="family">Mills</namePart>
+      <displayForm>Mills, Tom</displayForm>
+      <affiliation>School of Chemical Engineering, University of Birmingham, Edgbaston, Birmingham B15 2TT, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The interest in personalised food through 3D printing has led to an increased interest in the formulation and production of more complex foodstuffs rather than simple water-based systems. 3% w/w Kappa-carrageenan (кC) emulsion gels were created containing 5–40% w/w sunflower oil (SFO); using two different emulsifiers, Tween 20 (T20) and Whey protein isolate (WPI). Differential scanning calorimetry showed that both T20 and WPI stabilised emulsions had only minor effects on the gelling and melting enthalpies of the кC, and had the same gelling temperatures. All tested formulations were printable under the same printing parameters, provided the feed rate was increased with SFO concentration. Confocal microscopy showed the presence of layering throughout the printed gels and that T20-stabilised emulsion gels had flocculated. Texture profile analysis was used to compare printed and cast 20 × 20 × 9.6 mm cuboids. For cast cuboids, as the SFO concentration increased, the hardness values decreased from 75 N ± 4 N to 18 N ± 1.5 N. For printed cuboids the hardness values were constant at 13 N ± 2 N. Upon compression, printed cuboids delaminated at the areas between the printed layers. Oscillatory rheology showed that cast gels were more resistant to shear strain compared to the printed gels and this was again believed to occur due to delamination between the semi-fused printed layers. This work demonstrates that кC emulsion gels can be 3D printed without a change in their physical performance regardless of SFO concentration up to 40%. </abstract>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Food Hydrocolloids for Health</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-0259</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100044</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.fhfh.2021.100044</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.fhfh.2021.100044</url>
+   </location>
+   <identifier type="pii">S2667-0259(21)00036-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-22"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-0259/S2667025921X00027/S2667025921000364/S2667025921000364.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

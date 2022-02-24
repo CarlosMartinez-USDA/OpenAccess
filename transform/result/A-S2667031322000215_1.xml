@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2022.100235">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Phytochemical and biological characterization of dry outer scales extract from Tropea red onion (Allium cepa L. var. Tropea): a promising inhibitor of pancreatic lipase</dct:title>
+         <dct:creator>Mariangela Marrelli</dct:creator>
+         <dct:creator>Concetta Russo</dct:creator>
+         <dct:creator>Giancarlo Statti</dct:creator>
+         <dct:creator>Maria Pia Argentieri</dct:creator>
+         <dct:creator>Daniela Meleleo</dct:creator>
+         <dct:creator>Rosanna Mallamaci</dct:creator>
+         <dct:creator>Pinarosa Avato</dct:creator>
+         <dct:creator>Filomena Conforti</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Allium cepa L. var. Tropea</rdf:li>
+               <rdf:li>Amaryllidaceae</rdf:li>
+               <rdf:li>Red onion</rdf:li>
+               <rdf:li>Pancreatic lipase inhibitors</rdf:li>
+               <rdf:li>Planar membranes</rdf:li>
+               <rdf:li>Inhibition of lipid ester hydrolysis</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus, Journal Pre-proof. doi:10.1016/j.phyplu.2022.100235</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:doi>10.1016/j.phyplu.2022.100235</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2022.100235</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2022.100235</dct:identifier>
+         <bam:articleNumber>100235</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-02-02T14:35:10Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Italy: LE Tracking</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100235</ja:aid>
+         <ce:article-number>100235</ce:article-number>
+         <ce:pii>S2667-0313(22)00021-5</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2022.100235</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Research article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Phytochemical and biological characterization of dry outer scales extract from Tropea red onion (<ce:italic>Allium cepa</ce:italic> L. var. Tropea): a promising inhibitor of pancreatic lipase</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031322000215-3e0d3b02ae3e32736107455ded3e0e57">
+               <ce:given-name>Mariangela</ce:given-name>
+               <ce:surname>Marrelli</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031322000215-8eb16ff71486b75e06341432c4504553">
+               <ce:given-name>Concetta</ce:given-name>
+               <ce:surname>Russo</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031322000215-fe1b2191ccb6e83dd9884b4f149e2e7c">
+               <ce:given-name>Giancarlo</ce:given-name>
+               <ce:surname>Statti</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031322000215-ebb7abc59adb93d43ba03adb947f66db">
+               <ce:given-name>Maria Pia</ce:given-name>
+               <ce:surname>Argentieri</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031322000215-decb5252644bd3fce447af8f0413e0cb">
+               <ce:given-name>Daniela</ce:given-name>
+               <ce:surname>Meleleo</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031322000215-b55a0977e976fe9fc8c6dec934aa5700">
+               <ce:given-name>Rosanna</ce:given-name>
+               <ce:surname>Mallamaci</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667031322000215-3128f3dfd17ea2724422940ae9fd9298">
+               <ce:given-name>Pinarosa</ce:given-name>
+               <ce:surname>Avato</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:pinarosa.avato@uniba.it">pinarosa.avato@uniba.it</ce:e-address>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667031322000215-daaf8fbe6692540563b7a28d9ac2c59c">
+               <ce:given-name>Filomena</ce:given-name>
+               <ce:surname>Conforti</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031322000215-9d75d936f24d09b68eaa8d84f13a0971">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Pharmacy, Health and Nutritional Sciences, University of Calabria-DFSSN, I-87036 Rende (CS), Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacy, Health and Nutritional Sciences</sa:organization>
+                  <sa:organization>University of Calabria-DFSSN</sa:organization>
+                  <sa:city>Rende (CS)</sa:city>
+                  <sa:postal-code>I-87036</sa:postal-code>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Pharmacy, Health and Nutritional Sciences, University of Calabria-DFSSN, I-87036 Rende (CS), Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031322000215-5b9b4a67c23dcde198c2eddaf34345f1">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Pharmacy-Drug Sciences, University of Bari Aldo Moro, I-70125 Bari, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacy-Drug Sciences</sa:organization>
+                  <sa:organization>University of Bari Aldo Moro</sa:organization>
+                  <sa:city>Bari</sa:city>
+                  <sa:postal-code>I-70125</sa:postal-code>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Pharmacy-Drug Sciences, University of Bari Aldo Moro, I-70125 Bari, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031322000215-e770e5f0d8bd67a485f1a19c397a8bc1">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Bioscience, Biotechnology and Biopharmaceutic, University of Bari Aldo Moro, I-70125, Bari, Italy</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Bioscience, Biotechnology and Biopharmaceutic</sa:organization>
+                  <sa:organization>University of Bari Aldo Moro</sa:organization>
+                  <sa:city>Bari</sa:city>
+                  <sa:postal-code>I-70125</sa:postal-code>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Bioscience, Biotechnology and Biopharmaceutic, University of Bari Aldo Moro, I-70125, Bari, Italy</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author. Department of Pharmacy-Drug Sciences, University of Bari Aldo Moro, I-70125 Bari, Italy Cell. +39 3355610606.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Pharmacy-Drug Sciences</sa:organization>
+                  <sa:organization>University of Bari Aldo Moro</sa:organization>
+                  <sa:city>Bari</sa:city>
+                  <sa:postal-code>I-70125</sa:postal-code>
+                  <sa:country>Italy</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">An hydroalcoholic extract from the dry outer scales of Allium cepa var. Tropea-IGP was investigated for its chemical and biological properties</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Phenolics are the main components</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">The extract shows high lipase inhibition effect</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">The extract prevents lipid hydrolysis and has a protective effect against phospholipase</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">ABSTRACT</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara010" view="all">
+                  <ce:italic>Allium cepa</ce:italic> L. var. Tropea is typically cultivated in Calabria (Italy) and it is certified as “<ce:italic>Cipolla Rossa di Tropea Calabria-PGI</ce:italic>” (Tropea red onion). The use of clinically available anti-obesity drugs such as Orlistat is being gradually dismissed due to their side-effects and this has encouraged the search for alternative inhibitors of intestinal lipases such as phytochemicals showing less side-effects. In this study we aimed to evaluate for the first time the anti-obesity potential of the hydroalcoholic extract from the dry outer scales of Tropea red onion by the assesment of its capacity to inhibit pancreatic lipase. Its possible mechanism of action was also studied with planar lipid membranes (PLMs) surrogate of intestinal membranes.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0004">Methods</ce:section-title>
+               <ce:simple-para id="spara011" view="all">Specialized metabolites in the extract were determined by GC-MS, HPLC-DAD, HPLC-UV-DAD and HPLC-HRMS analyses. Inhibition of pancreatic lipase was studied <ce:italic>in vitro</ce:italic> against crude lipase Type II from porcine pancreas. PLMs used in the electrophysiology measurements were made up of DOPS:DOPE:POPC.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="results" view="all">
+               <ce:section-title id="cesectitle0005">Results</ce:section-title>
+               <ce:simple-para id="spara012" view="all">The extract contained quercetin-4’-<ce:italic>O</ce:italic>-glucoside, quercetin and quercetin-3,4’-<ce:italic>O</ce:italic>-diglucoside as the most abundant phenolics. Among apolar constituents, γ-sitosterol, linoleic and stearic acids were dominant. The lipase inhibitory effect of the extract had an IC<ce:inf loc="post">50</ce:inf> value equal to 0.77 ± 0.03 mg/mL (positive control, IC<ce:inf loc="post">50</ce:inf> = 0.018 mg/mL). The electrophysiological study demonstrated that the extract is able to incorporate into PLMs and form transient channel-like events.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0006">Conclusions</ce:section-title>
+               <ce:simple-para id="spara013" view="all">Taken altogether, the results allows us to suggest that the hydroalcoholic extract from the dry outer scales of Tropea red onion could prevent lipid ester hydrolysis and it has a protective effect against phospholipase as found for interfacially active compounds.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0007">Graphical Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0007" view="all">
+               <ce:simple-para id="spara014" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0008">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">
+                  <ce:italic>Allium cepa</ce:italic> L. var. Tropea</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Amaryllidaceae</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Red onion</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Pancreatic lipase inhibitors</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Planar membranes</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Inhibition of lipid ester hydrolysis</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

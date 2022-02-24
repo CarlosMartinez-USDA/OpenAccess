@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of the COVID-19 post-lockdown survey conducted by GIPEyOP in Spain</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Virgilio</namePart>
+      <namePart type="family">Pérez</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7628-2855</nameIdentifier>
+      <displayForm>Pérez, Virgilio</displayForm>
+      <affiliation>GIPEyOP, Department of Applied Economics, University of Valencia, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cristina</namePart>
+      <namePart type="family">Aybar</namePart>
+      <displayForm>Aybar, Cristina</displayForm>
+      <affiliation>GIPEyOP, Department of Applied Economics, University of Valencia, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jose M.</namePart>
+      <namePart type="family">Pavía</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0129-726X</nameIdentifier>
+      <displayForm>Pavía, Jose M.</displayForm>
+      <affiliation>GIPEyOP, UMMICS, Department of Applied Economics, University of Valencia, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>2020 was a year marked by COVID-19, an infectious disease caused by the SARS-CoV-2 virus. Since the official beginning of the pandemic (March 2020), the authorities in Spain have been imposing significant restrictions (mainly on mobility) to stop the spread of the disease. In October 2020, the research group GIPEyOP (Elections and Public Opinion Research Group from the University of Valencia) conducted a survey to analyse whether the Spanish population has maintained or modified their habits and customs once the strict measures imposed in Spain during the onset of the pandemic were relaxed. This article describes the dataset collected, which is provided as an attachment. The dataset is made up of 196 variables, following elimination of those variables that could potentially identify the respondents to ensure their anonymity. Over 22 days, from September 23 to October 14, 2020, GIPEyOP collected 1755 valid responses. Respondents were contacted by chain or snowball sampling via email and social media and answered a self-administered web questionnaire consisting of 40 questions. amongst other uses, the resulting dataset can be (re)used to analyse whether the period of home confinement that Spaniards experienced between March and June 2020 has caused them to change their habits and customs, such as how often they do sport or go to bars or restaurants. The data also permit the study of whether there have been changes in the distribution of household chores by comparing three clearly differentiated moments (before confinement, during confinement and after confinement), what type of work (telework or face-to-face) the respondents would prefer or to know how the management of the crisis by govern authorities impacted on their votes preferences. </abstract>
+   <subject>
+      <topic>SARS-CoV-2</topic>
+   </subject>
+   <subject>
+      <topic>New normal</topic>
+   </subject>
+   <subject>
+      <topic>Change of habits</topic>
+   </subject>
+   <subject>
+      <topic>Social distancing</topic>
+   </subject>
+   <subject>
+      <topic>Online surveys</topic>
+   </subject>
+   <subject>
+      <topic>Snowball method</topic>
+   </subject>
+   <subject>
+      <topic>Political assessment</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107763</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107763</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107763</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01037-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-23"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010374/S2352340921010374.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

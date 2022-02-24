@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>An account of Fusarium wilt resistance in flax Linum usitatissimum: The disease severity data</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Tatyana</namePart>
+      <namePart type="family">Rozhmina</namePart>
+      <displayForm>Rozhmina, Tatyana</displayForm>
+      <affiliation>Federal Research Center for Bast Fiber Crops, Thorzhok 172002, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anastasia</namePart>
+      <namePart type="family">Samsonova</namePart>
+      <displayForm>Samsonova, Anastasia</displayForm>
+      <affiliation>Centre for Computational Biology, Peter the Great St.Petersburg Polytechnic University, St.Petersburg, 195251, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander</namePart>
+      <namePart type="family">Kanapin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9802-5297</nameIdentifier>
+      <displayForm>Kanapin, Alexander</displayForm>
+      <affiliation>Centre for Computational Biology, Peter the Great St.Petersburg Polytechnic University, St.Petersburg, 195251, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Maria</namePart>
+      <namePart type="family">Samsonova</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2530-0395</nameIdentifier>
+      <displayForm>Samsonova, Maria</displayForm>
+      <affiliation>Mathematical Biology and Bioinformatics Laboratory, Peter the Great St.Petersburg Polytechnic University, St.Petersburg, 195251, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>A collection of flax accessions maintained by the Russian Federal Research Center for Bast Fiber Crops was characterized to evaluate its resistance to Fusarium wilt. 297 samples representing different morphotypes and selection status were infected with highly virulent MI39 strain of Fusarium oxysporum f. sp. lini. Evaluation of disease symptoms was performed at the full emergence stage in a greenhouse. The experiment lasted for 3 successive years. The disease severity index (DSI) record was obtained for every genotype in each year of the experiment. The data set was produced in a framework of a project focused on both a) deciphering the mechanisms of plant immunity, and b) development of flax cultivars resistant to Fusarium wilt. The data is available via Figshare repository. </abstract>
+   <subject>
+      <topic>Flax</topic>
+   </subject>
+   <subject>
+      <topic>Disease resistance</topic>
+   </subject>
+   <subject>
+      <topic>Fusarium wilt</topic>
+   </subject>
+   <subject>
+      <topic>Cultivars</topic>
+   </subject>
+   <subject>
+      <topic>Landraces</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>41</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">April 2022</text>
+         <text type="year">2022</text>
+         <text type="month">April</text>
+         <extent unit="pages">
+            <start>107869</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107869</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107869</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00081-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-21"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340922X00024/S2352340922000816/S2352340922000816.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

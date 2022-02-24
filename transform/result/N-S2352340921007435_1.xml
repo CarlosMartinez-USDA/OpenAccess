@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Spectroscopic ellipsometric study datasets of the fluorinated polymers: Bifunctional urethane methacrylate perfluoropolyether (PFPE) and polyvinylidene fluoride (PVDF)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Joseph</namePart>
+      <namePart type="family">Gibbons</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1223-3210</nameIdentifier>
+      <displayForm>Gibbons, Joseph</displayForm>
+      <affiliation>Institute of Sensors, Signals and Systems, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, Scotland EH14 4AS, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Samuel B.H.</namePart>
+      <namePart type="family">Patterson</namePart>
+      <displayForm>Patterson, Samuel B.H.</displayForm>
+      <affiliation>Institute of Chemical Sciences, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, Scotland EH14 4AS, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Adilet</namePart>
+      <namePart type="family">Zhakeyev</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2571-5398</nameIdentifier>
+      <displayForm>Zhakeyev, Adilet</displayForm>
+      <affiliation>Institute of Sensors, Signals and Systems, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, Scotland EH14 4AS, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Filipe</namePart>
+      <namePart type="family">Vilela</namePart>
+      <displayForm>Vilela, Filipe</displayForm>
+      <affiliation>Institute of Chemical Sciences, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, Scotland EH14 4AS, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jose</namePart>
+      <namePart type="family">Marques-Hueso</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1807-3369</nameIdentifier>
+      <displayForm>Marques-Hueso, Jose</displayForm>
+      <affiliation>Institute of Sensors, Signals and Systems, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, Scotland EH14 4AS, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The datasets in this work contain the experimentally measured (real) refractive indices, optical transmission intensity, and optical absorption spectra of bifunctional urethane methacrylate perfluoropolyether (PFPE; Fluorolink® MD700) substrate of (0.98 ± 0.13) mm thickness and polyvinylidene fluoride (PVDF; Kynar® 705) thin-film of (4.47 ± 0.29) µm thickness over a spectral range from 300 nm to 1000 nm, as measured via variable angle spectroscopic ellipsometry. The refractive indices data were determined by employing a single Cauchy optical constants function based layer using a Levenberg-Marquardt multi-iterative regression algorithm for all model minimizations. The mean-squared error (MSE) was used as the maximum likelihood estimator, with a convergence of the Levenberg-Marquardt algorithm reached when successive iterations were unable to improve the MSE. The resulting best-fit parameter values were evaluated for sensitivity (expressed as a confidence limit), and possible correlations. Furthermore, the experimentally measured optical transmission intensity and determined optical absorption of PFPE and PVDF, over a spectral range from 300 nm to 1000 nm, is also presented, as measured via ellipsometry and corrected using Fresnel equations to accommodate surface interference. Given the high transmission of (88.4 ± 0.5)% for PFPE and (95.6 ± 0.6) % for PVDF found, and the low refractive index 1.27 (λ = 589.3 nm) found for PFPE; it is thought that these datasets may be useful for optical applications, such as for photo-curable synthesis processes, or being used as a host-matrix material for photoluminescent compounds. </abstract>
+   <subject>
+      <topic>PFPE</topic>
+   </subject>
+   <subject>
+      <topic>PVDF</topic>
+   </subject>
+   <subject>
+      <topic>Refractive index</topic>
+   </subject>
+   <subject>
+      <topic>Transmission intensity</topic>
+   </subject>
+   <subject>
+      <topic>Optical absorbance</topic>
+   </subject>
+   <subject>
+      <topic>Spectroscopic ellipsometry</topic>
+   </subject>
+   <subject>
+      <topic>Polymer optical properties</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107461</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107461</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107461</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00743-5</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-06"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007435/S2352340921007435.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

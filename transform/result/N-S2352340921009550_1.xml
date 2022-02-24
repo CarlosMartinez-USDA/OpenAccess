@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Scalp EEG recordings of pediatric epilepsy patients: A dataset for automatic detection of interictal epileptiform discharges from routine EEG</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Fasil</namePart>
+      <namePart type="family">OK</namePart>
+      <displayForm>OK, Fasil</displayForm>
+      <affiliation>Department of Computer Science, Central University of Kerala, Kasaragod, Kerala, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rajesh</namePart>
+      <namePart type="family">R</namePart>
+      <displayForm>R, Rajesh</displayForm>
+      <affiliation>Department of Computer Science, Central University of Kerala, Kasaragod, Kerala, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rajith K.</namePart>
+      <namePart type="family">Ravindren</namePart>
+      <displayForm>Ravindren, Rajith K.</displayForm>
+      <affiliation>Institute of Mental Health and Neurosciences, Kozhikode, Kerala, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Interictal Epileptiform Discharges (IEDs) in routine EEG is crucial evidence of epilepsy in one patient. Though some studies have reported on automated detection of IEDs, the availability of open benchmark datasets for evaluating these methods is limited. This article presents a scalp EEG dataset of pediatric epilepsy patients. The dataset contains 19 channel EEG recordings of 21 subjects who are advised to undergo routine EEG tests to diagnose epilepsy. Among these 21 subjects, IEDs are found in EEG recordings of 11 subjects as confirmed by neurologists. The routine EEG recordings of the remaining 10 subjects are free from IEDs. A 32 channel EEG machine is used to record the routine EEG, and an international 10-20 electrode placement system is used to place the electrodes on the subject’s scalp. A longitudinal bipolar montage channel configuration is used to collect the signals. IEDs present in routine EEG of epileptic patients are annotated by a neuro-technician and are provided with the dataset. The raw EEG data is further segmented into 10 s epochs based on the annotations for easy analysis and validation in automated IED detection systems. These 10 s epochs are also included in the dataset. The dataset is very useful for modeling novel automated IED detection systems that reduce the burdens of neurologists or neurophysiologists. In addition, the usability of the proposed dataset has also been experimented on a model based on exponential energy and support vector machine. The classification performance of the model indicates that the proposed dataset can be used as a benchmark dataset for automated IED detection. </abstract>
+   <subject>
+      <topic>Electroencephalography</topic>
+   </subject>
+   <subject>
+      <topic>Routine EEG data</topic>
+   </subject>
+   <subject>
+      <topic>Interictal epileptiform discharges</topic>
+   </subject>
+   <subject>
+      <topic>Epilepsy detection</topic>
+   </subject>
+   <subject>
+      <topic>Pediatric epilepsy patients</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107680</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107680</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107680</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00955-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-03"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009550/S2352340921009550.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

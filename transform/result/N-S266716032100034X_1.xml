@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>APP deficiency and HTRA2 modulates PrPc proteostasis in human cancer cells</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Denis S.F.</namePart>
+      <namePart type="family">Biard</namePart>
+      <displayForm>Biard, Denis S.F.</displayForm>
+      <affiliation>CEA. Institut de Biologie François Jacob (IBFJ), SEPIA, Université Paris-Saclay, F-92265 Fontenay-aux-Roses, France</affiliation>
+      <affiliation>Université Paris Est Créteil (UPEC), Glycobiology, Cell Growth and Tissue Repair Research Unit (Gly-CRRET), F-94010 Creteil, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rafika</namePart>
+      <namePart type="family">Jarray</namePart>
+      <displayForm>Jarray, Rafika</displayForm>
+      <affiliation>CEA. Institut de Biologie François Jacob (IBFJ), SEPIA, Université Paris-Saclay, F-92265 Fontenay-aux-Roses, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nicolas</namePart>
+      <namePart type="family">Rebergue</namePart>
+      <displayForm>Rebergue, Nicolas</displayForm>
+      <affiliation>Université Paris Est Créteil (UPEC), Glycobiology, Cell Growth and Tissue Repair Research Unit (Gly-CRRET), F-94010 Creteil, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">François</namePart>
+      <namePart type="family">Leteurtre</namePart>
+      <displayForm>Leteurtre, François</displayForm>
+      <affiliation>CEA. Institut de Biologie François Jacob (IBFJ), SREIT, Laboratoire de Cancérologie Expérimentale Université Paris-Saclay, F-92265 Fontenay-aux-Roses, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dulce</namePart>
+      <namePart type="family">Papy-Garcia</namePart>
+      <displayForm>Papy-Garcia, Dulce</displayForm>
+      <affiliation>Université Paris Est Créteil (UPEC), Glycobiology, Cell Growth and Tissue Repair Research Unit (Gly-CRRET), F-94010 Creteil, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Cellular protein homeostasis (proteostasis) requires an accurate balance between protein biosynthesis, folding, and degradation, and its instability is causally related to human diseases and cancers. Here, we created numerous engineered cancer cell lines targeting APP (amyloid ß precursor protein) and/or PRNP (cellular prion) genes and we showed that APP knocking-down impaired PRNP mRNA level and vice versa, suggesting a link between their gene regulation. PRNPᴷᴰ, APPᴷᴰ and PRNPᴷᴰ/APPᴷᴰ HeLa cells encountered major difficulties to grow in a 3D tissue-like environment. Unexpectedly, we found a cytoplasmic accumulation of the PrPᶜ protein without PRNP gene up regulation, in both APPᴷᴰ and APPᴷᴼ HeLa cells. Interestingly, APP and/or PRNP gene ablation enhanced the chaperone/serine protease HTRA2 gene expression, which is a protein processing quality factor involved in Alzheimer's disease. Importantly, HTRA2 gene silencing decreased PRNP mRNA level and lowered PrPᶜ protein amounts, and conversely, HTRA2 overexpression increased PRNP gene regulation and enhanced membrane-anchored and cytoplasmic PrPᶜ fractions. PrPᶜ, APP and HTRA2 destabilized membrane-associated CD24 protein, suggesting changes in the lipid raft structure. Our data show for the first time that APP and the dual chaperone/serine protease HTRA2 protein could modulate PrPᶜ proteostasis hampering cancer cell behavior. </abstract>
+   <subject>
+      <topic>AD</topic>
+   </subject>
+   <subject>
+      <topic>APP</topic>
+   </subject>
+   <subject>
+      <topic>Aβ</topic>
+   </subject>
+   <subject>
+      <topic>CDS</topic>
+   </subject>
+   <subject>
+      <topic>GAG</topic>
+   </subject>
+   <subject>
+      <topic>GPI</topic>
+   </subject>
+   <subject>
+      <topic>HTRA</topic>
+   </subject>
+   <subject>
+      <topic>ICC</topic>
+   </subject>
+   <subject>
+      <topic>KD</topic>
+   </subject>
+   <subject>
+      <topic>KO</topic>
+   </subject>
+   <subject>
+      <topic>PrPc</topic>
+   </subject>
+   <subject>
+      <topic>QC</topic>
+   </subject>
+   <subject>
+      <topic>UPRER</topic>
+   </subject>
+   <subject>
+      <topic>UPRmt</topic>
+   </subject>
+   <subject>
+      <topic>PRNP</topic>
+   </subject>
+   <subject>
+      <topic>PrPc</topic>
+   </subject>
+   <subject>
+      <topic>APP</topic>
+   </subject>
+   <subject>
+      <topic>HTRA2</topic>
+   </subject>
+   <subject>
+      <topic>CD24</topic>
+   </subject>
+   <subject>
+      <topic>cancer cells</topic>
+   </subject>
+   <subject>
+      <topic>proteostasis</topic>
+   </subject>
+   <subject>
+      <topic>pEBVsiRNA</topic>
+   </subject>
+   <subject>
+      <topic>RNA interference</topic>
+   </subject>
+   <subject>
+      <topic>CRISPR-Cas9</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>2</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2022</text>
+         <text type="year">2022</text>
+         <extent unit="pages">
+            <start>100035</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100035</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100035</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00034-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/333921349383348651-00001/2667-1603/S2667160321X00038/S266716032100034X/S266716032100034X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

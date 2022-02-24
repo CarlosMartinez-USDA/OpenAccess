@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Source data from a systematic review and meta-analysis of EEG and MEG studies investigating functional connectivity in idiopathic generalized epilepsy</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Anita L.</namePart>
+      <namePart type="family">Dharan</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3968-656X</nameIdentifier>
+      <displayForm>Dharan, Anita L.</displayForm>
+      <affiliation>Melbourne School of Psychological Sciences, The University of Melbourne, Parkville, VIC, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Stephen C.</namePart>
+      <namePart type="family">Bowden</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8473-716X</nameIdentifier>
+      <displayForm>Bowden, Stephen C.</displayForm>
+      <affiliation>Melbourne School of Psychological Sciences, The University of Melbourne, Parkville, VIC, Australia</affiliation>
+      <affiliation>Department of Clinical Neurosciences, St Vincent's Hospital Melbourne, Fitzroy, VIC, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alan</namePart>
+      <namePart type="family">Lai</namePart>
+      <displayForm>Lai, Alan</displayForm>
+      <affiliation>Department of Medicine, St Vincent's Hospital, The University of Melbourne, Fitzroy, VIC, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andre D.H.</namePart>
+      <namePart type="family">Peterson</namePart>
+      <displayForm>Peterson, Andre D.H.</displayForm>
+      <affiliation>Department of Medicine, St Vincent's Hospital, The University of Melbourne, Fitzroy, VIC, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mike W.-L.</namePart>
+      <namePart type="family">Cheung</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0113-0758</nameIdentifier>
+      <displayForm>Cheung, Mike W.-L.</displayForm>
+      <affiliation>Department of Psychology, National University of Singapore, Singapore</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wessel</namePart>
+      <namePart type="family">Woldman</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2957-6276</nameIdentifier>
+      <displayForm>Woldman, Wessel</displayForm>
+      <affiliation>Centre for Systems Modelling and Quantitative Biomedicine, University of Birmingham, Edgbaston, United Kingdom</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wendyl J.</namePart>
+      <namePart type="family">D'Souza</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1750-5131</nameIdentifier>
+      <displayForm>D'Souza, Wendyl J.</displayForm>
+      <affiliation>Department of Medicine, St Vincent's Hospital, The University of Melbourne, Fitzroy, VIC, Australia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article describes source data from a systematic review and meta-analysis of electroencephalography (EEG) and magnetoencephalography (MEG) studies investigating functional connectivity in idiopathic generalized epilepsy. Data selection, analysis and reporting was performed according to PRISMA guidelines. Eligible studies for review were identified from human case-control, and cohort studies. Twenty-two studies were included in the review. Extracted descriptive data included sample characteristics, acquisition of EEG or MEG recordings and network construction. Reported differences between IGE and control groups in functional connectivity or network metrics were extracted as the main outcome measure. Qualitative group differences in functional connectivity were synthesized through narrative review. Meta-analysis was performed for group-level, quantitative estimates of common network metrics clustering coefficient, path length, mean degree and nodal strength. Six studies were included in the meta-analysis. Risk of bias was assessed across all studies. Raw and synthesized data for included studies are reported, alongside effect size and heterogeneity statistics from meta-analyses. Network neurosciences is a rapidly expanding area of research, with significant potential for clinical applications in epilepsy. This data article provides novel, statistical estimates of brain network differences from patients with IGE relative to healthy controls, across the existing literature. Increasing data accessibility supports study replication and improves study comparability for future reviews, enabling a better understanding of network characteristics in IGE. </abstract>
+   <subject>
+      <topic>Network analysis</topic>
+   </subject>
+   <subject>
+      <topic>Functional connectivity</topic>
+   </subject>
+   <subject>
+      <topic>Generalized epilepsy</topic>
+   </subject>
+   <subject>
+      <topic>Meta-analysis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107665</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107665</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107665</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00940-9</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-30"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921009409/S2352340921009409.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

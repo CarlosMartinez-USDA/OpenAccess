@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Incoming news on the F-type ATPase structure and functions in mammalian mitochondria</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Salvatore</namePart>
+      <namePart type="family">Nesci</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8569-7158</nameIdentifier>
+      <displayForm>Nesci, Salvatore</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alessandra</namePart>
+      <namePart type="family">Pagliarani</namePart>
+      <displayForm>Pagliarani, Alessandra</displayForm>
+      <affiliation>Department of Veterinary Medical Science, University of Bologna, Via Tolara di Sopra, 50, Ozzano Emilia 40064 (BO), Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <subject>
+      <topic>F1FO-ATPase</topic>
+   </subject>
+   <subject>
+      <topic>Mitochondria</topic>
+   </subject>
+   <subject>
+      <topic>Permeability transition pore</topic>
+   </subject>
+   <subject>
+      <topic>Calcium</topic>
+   </subject>
+   <subject>
+      <topic>Structures</topic>
+   </subject>
+   <subject>
+      <topic>Membrane</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100001</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2020.100001</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2020.100001</url>
+   </location>
+   <identifier type="pii">S2667-1603(20)30001-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2020-11-25"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S2667160320300016/S2667160320300016.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

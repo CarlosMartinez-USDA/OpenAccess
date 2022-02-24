@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fufo.2021.100098">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Innovative technologies for manufacturing plant-based non-dairy alternative milk and their impact on nutritional, sensory and safety aspects</dct:title>
+         <dct:creator>Ramon Bocker</dct:creator>
+         <dct:creator>Eric Keven Silva</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Lactose intolerance</rdf:li>
+               <rdf:li>Milk allergy</rdf:li>
+               <rdf:li>Almond milk</rdf:li>
+               <rdf:li>Soy milk</rdf:li>
+               <rdf:li>Pulsed electric field</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Future Foods 5 (2022). doi:10.1016/j.fufo.2021.100098</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Future Foods</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2666-8335</prism:issn>
+         <prism:volume>5</prism:volume>
+         <prism:coverDisplayDate>June 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fufo.2021.100098</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fufo.2021.100098</prism:url>
+         <dct:identifier>doi:10.1016/j.fufo.2021.100098</dct:identifier>
+         <bam:articleNumber>100098</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-10T01:25:17Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FUFO</ja:jid>
+         <ja:aid>100098</ja:aid>
+         <ce:article-number>100098</ce:article-number>
+         <ce:pii>S2666-8335(21)00088-5</ce:pii>
+         <ce:doi>10.1016/j.fufo.2021.100098</ce:doi>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Innovative technologies for manufacturing plant-based non-dairy alternative milk and their impact on nutritional, sensory and safety aspects</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2666833521000885-c5402405c29960fc6445632794f4e391">
+               <ce:given-name>Ramon</ce:given-name>
+               <ce:surname>Bocker</ce:surname>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2666833521000885-b454adac68ffacb07736bd3894b1d4ee">
+               <ce:given-name>Eric Keven</ce:given-name>
+               <ce:surname>Silva</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:engerickeven@gmail.com">engerickeven@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2666833521000885-6a417e9ec9510ba4f64546346da12e82">
+               <ce:textfn id="cetextfn0001">School of Food Engineering, University of Campinas, Rua Monteiro Lobato, 80, Campinas-SP, CEP 13083-862, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Food Engineering</sa:organization>
+                  <sa:organization>University of Campinas</sa:organization>
+                  <sa:address-line>Rua Monteiro Lobato, 80</sa:address-line>
+                  <sa:city>Campinas-SP</sa:city>
+                  <sa:state>CEP</sa:state>
+                  <sa:postal-code>13083-862</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">School of Food Engineering, University of Campinas, Rua Monteiro Lobato, 80, Campinas-SP, CEP 13083-862, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="23" month="7" year="2021"/>
+         <ce:date-revised day="9" month="11" year="2021"/>
+         <ce:date-accepted day="9" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara009" view="all">Cow's milk is considered a staple in many diets due to its high nutritional value. It contains almost every nutrient that the human body needs. Milk is consumed as a beverage, poured on several foods, and added to coffee, tea, and smoothies. Furthermore, many food products are produced from cow's milk, such as ice cream, yogurt, cheese, butter, cake, desserts, and others. However, it is not a suitable option for everyone for reasons, including lactose intolerance, milk allergy, dietary restrictions, and potential health risks. Plant-based milk substitutes are good options to meet the current demand for non-dairy beverages similar to milk. Also, the production chain of plant-based milk is environmentally friendly and promotes lower carbon emissions compared to dairy products. In this regard, this review discussed the current status of using innovative technologies (ultrasound, high-pressure processing, pulsed electric field, supercritical CO<ce:inf loc="post">2</ce:inf>, ultraviolet radiation, microwave, and ohmic heating) for manufacturing plant-based milk substitutes and their impact on nutritional, sensory, and safety aspects of these emerging beverages.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Lactose intolerance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Milk allergy</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Almond milk</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Soy milk</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Pulsed electric field</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

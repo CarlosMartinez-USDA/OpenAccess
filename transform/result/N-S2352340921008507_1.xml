@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Isotherm, kinetic, thermodynamics and reusability data on the adsorption of antidepressant onto silver nanoparticle-loaded biowaste</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Kovo G.</namePart>
+      <namePart type="family">Akpomie</namePart>
+      <displayForm>Akpomie, Kovo G.</displayForm>
+      <affiliation>Department of Chemistry, University of the Free State, Bloemfontein, South Africa</affiliation>
+      <affiliation>Department of Pure and Industrial Chemistry, University of Nigeria, Nsukka, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jeanet</namePart>
+      <namePart type="family">Conradie</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-8120-6830</nameIdentifier>
+      <displayForm>Conradie, Jeanet</displayForm>
+      <affiliation>Department of Chemistry, University of the Free State, Bloemfontein, South Africa</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>There has been an increase in the use of antidepressant drugs owing to significant economic challenges across the globe. Consequently, the increase in production of such drugs has impacted pharmaceutical pollution of industrial wastewaters discharged into the environment. Hence, there is a need to develop efficient adsorbents for antidepressant wastewater treatment. The impregnation of silver nanoparticles on biowaste was found to be highly effective in the treatment of oil-polluted water but has not been utilized in the adsorption of drugs. Herein, the dataset associated with the adsorption of antidepressants onto Ananas Comosus Peel (AP) and Silver nanoparticle-loaded Ananas Comosus peel (AgAP) was reported. Batch adsorption methodology was used to study the effect of antidepressant concentration (10–50 mg/L), sonication time (10–120 min), temperature (300–320 K) and adsorbent dosage (0.10–0.18 g). The concentration of antidepressant (Nortriptyline) in solution before and after adsorption was determined by the UV-Spectrophotometer at a maximum wavelength of 239 nm. The isotherm dataset was obtained from the Langmuir, Freundlich, Temkin and Dubinin-Raduskevich models, while kinetic data was evaluated by the pseudo-first order-pseudo-second-order, film diffusion and intraparticle diffusion rate equations. The data on the thermodynamics and adsorbent reusability were also provided. The dataset showed an adsorption capacity of 3.27 mg/g and 4.74 mg/g for AP and AgAP, respectively. The dataset is important to material and environmental scientists and revealed the efficiency of AP and AgAP in the treatment of antidepressant wastewater. </abstract>
+   <subject>
+      <topic>Nortriptyline</topic>
+   </subject>
+   <subject>
+      <topic>Desorption</topic>
+   </subject>
+   <subject>
+      <topic>Water-treatment</topic>
+   </subject>
+   <subject>
+      <topic>Nanoparticle-based adsorbents</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107575</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107575</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107575</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00850-7</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-10"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008507/S2352340921008507.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

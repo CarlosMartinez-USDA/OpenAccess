@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Simulated dataset of corn response to nitrogen over thousands of fields and multiple years in Illinois</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">German</namePart>
+      <namePart type="family">Mandrini</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5923-6104</nameIdentifier>
+      <displayForm>Mandrini, German</displayForm>
+      <affiliation>Department of Crop Sciences, University of Illinois at Urbana-Champaign, W201 Turner Hall, 1102 S. Goodwin Avenue, Urbana, IL 61801, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sotirios V.</namePart>
+      <namePart type="family">Archontoulis</namePart>
+      <displayForm>Archontoulis, Sotirios V.</displayForm>
+      <affiliation>Department of Agronomy, Iowa State University, Ames, IA 50011, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cameron M.</namePart>
+      <namePart type="family">Pittelkow</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-8654-9552</nameIdentifier>
+      <displayForm>Pittelkow, Cameron M.</displayForm>
+      <affiliation>Department of Plant Sciences, University of California, Davis, CA 95616 USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Taro</namePart>
+      <namePart type="family">Mieno</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0614-0771</nameIdentifier>
+      <displayForm>Mieno, Taro</displayForm>
+      <affiliation>Department of Agricultural Economics, University of Nebraska-Lincoln, Lincoln, NE 68583 0922, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nicolas F.</namePart>
+      <namePart type="family">Martin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1587-665X</nameIdentifier>
+      <displayForm>Martin, Nicolas F.</displayForm>
+      <affiliation>Department of Crop Sciences, University of Illinois at Urbana-Champaign, W201 Turner Hall, 1102 S. Goodwin Avenue, Urbana, IL 61801, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Nitrogen (N) fertilizer recommendations for corn (Zea mays L.) in the US Midwest have been a puzzle for several decades, without agreement among stakeholders for which methodology is the best to balance environmental and economic outcomes. Part of the reason is the lack of long-term data of crop responses to N over multiple fields since trial data is often limited in the number of soils and years it can explore. To overcome this limitation, we designed an analytical platform based on crop simulations run over millions of farming scenarios over extensive geographies. The database was calibrated and validated using data from more than four hundred trials in the region. This dataset can have an important role for research and education in N management, machine leaching, and environmental policy analysis. The calibration and validation procedure provides a framework for future gridded crop model studies. We describe dataset characteristics and provide thorough descriptions of the model setup. </abstract>
+   <subject>
+      <topic>APSIM</topic>
+   </subject>
+   <subject>
+      <topic>Crop modeling</topic>
+   </subject>
+   <subject>
+      <topic>Maize</topic>
+   </subject>
+   <subject>
+      <topic>Nitrogen leaching</topic>
+   </subject>
+   <subject>
+      <topic>Nitrogen fertilizer</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107753</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107753</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107753</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01028-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-22"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010283/S2352340921010283.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

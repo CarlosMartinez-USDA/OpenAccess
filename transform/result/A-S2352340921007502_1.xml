@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107468">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Abundance data of benthic peracarid crustaceans from the South Atlantic and Southern Ocean</dct:title>
+         <dct:creator>Davide Di Franco</dct:creator>
+         <dct:creator>Katrin Linse</dct:creator>
+         <dct:creator>Huw J. Griffiths</dct:creator>
+         <dct:creator>Angelika Brandt</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Crustacea</rdf:li>
+               <rdf:li>Peracarids</rdf:li>
+               <rdf:li>Benthos</rdf:li>
+               <rdf:li>Southern Ocean</rdf:li>
+               <rdf:li>Environmental variables</rdf:li>
+               <rdf:li>Weddell Sea</rdf:li>
+               <rdf:li>Depth</rdf:li>
+               <rdf:li>Abundance</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107468</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107468</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107468</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107468</dct:identifier>
+         <bam:articleNumber>107468</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-08T14:52:08Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Natural Environment Research Council</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107468</ja:aid>
+         <ce:article-number>107468</ce:article-number>
+         <ce:pii>S2352-3409(21)00750-2</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107468</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S1470-160X(21)00497-0</ce:pii>
+               <ce:doi>10.1016/j.ecolind.2021.107832</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Abundance data of benthic peracarid crustaceans from the South Atlantic and Southern Ocean</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921007502-466f61ae0d74bc0e6e6b27a8486b3412"
+                       orcid="0000-0002-4595-839X">
+               <ce:given-name>Davide</ce:given-name>
+               <ce:surname>Di Franco</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:davide.di-franco@senckenberg.de">davide.di-franco@senckenberg.de</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921007502-f04ad6fa4fc00f6081839c43f94d6b49"
+                       orcid="0000-0003-3477-3047">
+               <ce:given-name>Katrin</ce:given-name>
+               <ce:surname>Linse</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea4"
+                             type="social-media"
+                             xlink:href="https://twitter.com/Bas_news">@Bas_news</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921007502-17e67d593f05139e85eeb38952bcc007"
+                       orcid="0000-0003-1764-223X">
+               <ce:given-name>Huw J.</ce:given-name>
+               <ce:surname>Griffiths</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ea5"
+                             type="social-media"
+                             xlink:href="https://twitter.com/griffiths_huw">@griffiths_huw</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921007502-f34c00a8ca4b844c94759dcbdb9cceb6"
+                       orcid="0000-0002-5807-1632">
+               <ce:given-name>Angelika</ce:given-name>
+               <ce:surname>Brandt</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921007502-bc23cd092ef52939dd00d074ffd30581">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Diversity and Evolution, Goethe University Frankfurt, Institute for Ecology, Max-von-Laue-Straße 13, Frankfurt am Main 60438, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Diversity and Evolution</sa:organization>
+                  <sa:organization>Goethe University Frankfurt</sa:organization>
+                  <sa:organization>Institute for Ecology</sa:organization>
+                  <sa:address-line>Max-von-Laue-Straße 13</sa:address-line>
+                  <sa:city>Frankfurt am Main</sa:city>
+                  <sa:postal-code>60438</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDiversity and Evolution, Goethe University Frankfurt, Institute for Ecology, Max-von-Laue-Straße 13, Frankfurt am Main 60438, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921007502-18d3f55d744fcdbcd54a196e0e474214">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Marine Zoology, Senckenberg Research Institute and Natural History Museum; Senckenberganlage 25, Frankfurt am Main 60325, Germany</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Marine Zoology</sa:organization>
+                  <sa:organization>Senckenberg Research Institute and Natural History Museum</sa:organization>
+                  <sa:address-line>Senckenberganlage 25</sa:address-line>
+                  <sa:city>Frankfurt am Main</sa:city>
+                  <sa:postal-code>60325</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Marine Zoology, Senckenberg Research Institute and Natural History Museum; Senckenberganlage 25, Frankfurt am Main 60325, Germany</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340921007502-a764cd7ea807104460c2bc70c0195d16">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">British Antarctic Survey, High Cross, Madingley Road, Cambridge CB3 0ET, United Kingdom</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>British Antarctic Survey, High Cross</sa:organization>
+                  <sa:address-line>Madingley Road</sa:address-line>
+                  <sa:city>Cambridge</sa:city>
+                  <sa:postal-code>CB3 0ET</sa:postal-code>
+                  <sa:country>United Kingdom</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cBritish Antarctic Survey, High Cross, Madingley Road, Cambridge CB3 0ET, United Kingdom</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Diversity and Evolution, Goethe University Frankfurt, Institute for Ecology, Max-von-Laue-Straße 13, Frankfurt am Main 60438, Germany.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Diversity and Evolution</sa:organization>
+                  <sa:organization>Goethe University Frankfurt</sa:organization>
+                  <sa:organization>Institute for Ecology</sa:organization>
+                  <sa:address-line>Max-von-Laue-Straße 13</sa:address-line>
+                  <sa:city>Frankfurt am Main</sa:city>
+                  <sa:postal-code>60438</sa:postal-code>
+                  <sa:country>Germany</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="6" month="10" year="2021"/>
+         <ce:date-accepted day="7" month="10" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">Peracarid data were collected in the Southern Ocean and South Atlantic Ocean. Sampling was performed during nine different expeditions on board of RRS <ce:italic>James Clark Ross</ce:italic> and RV <ce:italic>Polarstern</ce:italic>, using epibenthic sledges (EBS) at depth ranging between 160–6348 m at 109 locations. The correlation between environmental variables and peracarid abundance was investigated. Abundance data comprise a total of 128570 peracarids (52366 were amphipods, 28516 were cumaceans, 36142 isopods, 5676 mysidaceans and 5870 were tanaidaceans). The presented data are useful to investigate the composition and abundance patterns of peracarid orders at a wide depth range and spatial scale in the Southern Ocean. They can also be reused to compare their abundance with that of other taxa in broader ecological surveys.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0003">Crustacea</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0004">Peracarids</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0005">Benthos</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0006">Southern Ocean</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0007">Environmental variables</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0008">Weddell Sea</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0009">Depth</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0010">Abundance</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

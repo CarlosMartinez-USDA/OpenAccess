@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100161">
+         <dct:format>application/xml</dct:format>
+         <dct:title>A landscape analysis of the potential role of polyphenols for the treatment of Polycystic Ovarian Syndrome (PCOS)</dct:title>
+         <dct:creator>Raksha Rani</dct:creator>
+         <dct:creator>Younis Ahmad Hajam</dct:creator>
+         <dct:creator>Rajesh Kumar</dct:creator>
+         <dct:creator>Rouf Ahmad Bhat</dct:creator>
+         <dct:creator>Seema Rai</dct:creator>
+         <dct:creator>Manzoor Ahmad Rather</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Polyphenols</rdf:li>
+               <rdf:li>Hyperandrogenism</rdf:li>
+               <rdf:li>Prevalence</rdf:li>
+               <rdf:li>Metabolic disorder</rdf:li>
+               <rdf:li>Polycystic ovarian syndrome</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100161</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100161</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100161</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100161</dct:identifier>
+         <bam:articleNumber>100161</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-06T10:24:17Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100161</ja:aid>
+         <ce:article-number>100161</ce:article-number>
+         <ce:pii>S2667-0313(21)00143-3</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100161</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">A landscape analysis of the potential role of polyphenols for the treatment of Polycystic Ovarian Syndrome (PCOS)</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001433-3372dd2c55d042bbc4c764a0b8ddc94d">
+               <ce:given-name>Raksha</ce:given-name>
+               <ce:surname>Rani</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001433-57a32e1eb6491a9660a93140ec296713">
+               <ce:given-name>Younis Ahmad</ce:given-name>
+               <ce:surname>Hajam</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:younismajeed64@gmail.com">younismajeed64@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001433-5af372b42cdffd11336c83cb42a1fcc4">
+               <ce:given-name>Rajesh</ce:given-name>
+               <ce:surname>Kumar</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001433-329f120e01d7a7a6d4a2a0d4a1764dba">
+               <ce:given-name>Rouf Ahmad</ce:given-name>
+               <ce:surname>Bhat</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001433-496149043e08a5ca06d4d92275e81506">
+               <ce:given-name>Seema</ce:given-name>
+               <ce:surname>Rai</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031321001433-99489f801ddae6dea5258afb375739c8">
+               <ce:given-name>Manzoor Ahmad</ce:given-name>
+               <ce:surname>Rather</ce:surname>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001433-176d1369d5a8a2b907b79fb02149fab6">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Biosciences, Division Zoology, Career Point University, Hamirpur-176041, Himachal Pradesh, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biosciences</sa:organization>
+                  <sa:organization>Division Zoology</sa:organization>
+                  <sa:organization>Career Point University</sa:organization>
+                  <sa:city>Hamirpur</sa:city>
+                  <sa:state>Himachal Pradesh</sa:state>
+                  <sa:postal-code>176041</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Biosciences, Division Zoology, Career Point University, Hamirpur-176041, Himachal Pradesh, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001433-db10334e8fec20354f418de0570dba7c">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Department of Biosciences, Himachal Pradesh University, Shimla, Himachal Pradesh, India-175001</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Biosciences</sa:organization>
+                  <sa:organization>Himachal Pradesh University</sa:organization>
+                  <sa:city>Shimla</sa:city>
+                  <sa:state>Himachal Pradesh</sa:state>
+                  <sa:postal-code>175001</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bDepartment of Biosciences, Himachal Pradesh University, Shimla, Himachal Pradesh, India-175001</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001433-76f697f6f97c7a0a1b4a90dbbb711b04">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Environmental Science, Sri Pratap College, Cluster University Srinagar-190001, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Environmental Science, Sri Pratap College</sa:organization>
+                  <sa:organization>Cluster University Srinagar</sa:organization>
+                  <sa:postal-code>190001</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Environmental Science, Sri Pratap College, Cluster University Srinagar-190001, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667031321001433-c48ac341b974ead6d7debf73928270d6">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Zoology, Guru GhasidasVishwavidyalya (A Central University), Bilaspur, Chhattisgarh-495009, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Zoology</sa:organization>
+                  <sa:organization>Guru GhasidasVishwavidyalya (A Central University)</sa:organization>
+                  <sa:city>Bilaspur</sa:city>
+                  <sa:state>Chhattisgarh</sa:state>
+                  <sa:postal-code>495009</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Zoology, Guru GhasidasVishwavidyalya (A Central University), Bilaspur, Chhattisgarh-495009, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667031321001433-dfeffe572e757f4d1679c4471f20dcb6">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Department of Chemistry, Islamic University of Science and Technology, Awantipora, 192122, Jammu and Kashmir, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemistry</sa:organization>
+                  <sa:organization>Islamic University of Science and Technology</sa:organization>
+                  <sa:city>Awantipora</sa:city>
+                  <sa:state>Jammu and Kashmir</sa:state>
+                  <sa:postal-code>192122</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eDepartment of Chemistry, Islamic University of Science and Technology, Awantipora, 192122, Jammu and Kashmir, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding authors.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="30" month="6" year="2021"/>
+         <ce:date-revised day="31" month="10" year="2021"/>
+         <ce:date-accepted day="6" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara014" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Polycystic Ovarian Syndrome (PCOS) is an under-recognized, under-diagnosed and under-studied disorder; its prevalence varies between 5–26%, 6–10% of reproductive age.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Various allopathic drugs (metformin and clomiphene) which are used for the treatment of PCOS have various limitations and are unable to cure PCOS effectively.</ce:para>
+                        <ce:para id="para0003" view="all">Plant extracts/ Polyphenols are hypothesized to be new alternative options to control the PCOS and its other complications.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">These plant extracts and polyphenols are capable of decreasing the incidence of other metabolic diseases such as anti-inflammatory, anti-apoptic and ant-cancerous activities anti-hyperglycemic, anti-hyperlipidemic, anti-obesity and antidiabetic activities caused by PCOS.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">These plants extracts and polyphenols can be promising alternatives for PCOS mediating via various pharmacological mechanisms which could not only decrease the incidence of PCOS.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara015" view="all">Polycystic Ovarian Syndrome (PCOS) is an under-recognized, under-diagnosed and under-studied disorder; its prevalence varies between 5–26%, 6–10% of reproductive age (NIH) criteria, and 15% (Rotterdam's criteria). Various allopathic drugs (metformin and clomiphene) that are used for the treatment of PCOS have various limitations and are unable to cure PCOS effectively. Therefore, for this reason, search for new therapeutic approaches that are capable of filling these limitations is necessary.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" view="all">
+               <ce:section-title id="cesectitle0004">Hypothesis/Purpose</ce:section-title>
+               <ce:simple-para id="spara016" view="all">Keeping this in view, polyphenols are hypothesized to be new alternative/options to control the PCOS and its complications (Figure 1).</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" view="all">
+               <ce:section-title id="cesectitle0005">Study design</ce:section-title>
+               <ce:simple-para id="spara017" view="all">Therefore, the objective of this study was to review the natural polyphenols that have anti-androgenic, ovulatory, estrogenic, anti-inflammatory, anti-apoptic, anti-cancerous activities, hormonal and menopausal regulating capability in animal models.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="results" view="all">
+               <ce:section-title id="cesectitle0006">Results</ce:section-title>
+               <ce:simple-para id="spara018" view="all">Different research papers have described the anti-androgenic, ovulatory, estrogenic and fertility, menstrual, hormonal and menopause regulating activities of polyphenols. Moreover, these polyphenols are capable of decreasing the incidence of other metabolic diseases such as infertility, insulin resistance, hyperglycemia, hyperlipidemia, obesity and Type-2 diabetes caused by PCOS.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0007" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0007">Conclusion</ce:section-title>
+               <ce:simple-para id="spara019" view="all">
+                  <ce:bold>:</ce:bold> These polyphenols can be promising alternatives for various pharmacological mechanisms which could not only decrease the incidence of PCOS, but also promote the other protective roles by decreasing the adverse effects of PCOS on other metabolic organs and their functions. However, further studies are required to determine the mechanism of action and safety evaluation of these polyphenols.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0008">Graphical abstract</ce:section-title>
+            <ce:abstract-sec id="abss0008" view="all">
+               <ce:simple-para id="spara020" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0009">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Polyphenols</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Hyperandrogenism</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Prevalence</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Metabolic disorder</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Polycystic ovarian syndrome</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:keywords id="keys0002" class="abr" view="all">
+            <ce:section-title id="cesectitle0010">Abbreviations</ce:section-title>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">
+                  <ce:bold>3β-HSD</ce:bold>
+               </ce:text>
+               <ce:keyword id="key7a">
+                  <ce:text id="cetext7a">3β-Hydroxy steroid dehydrogenase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0007">
+               <ce:text id="cetext0008">
+                  <ce:bold>ACTAs</ce:bold>
+               </ce:text>
+               <ce:keyword id="key8a">
+                  <ce:text id="cetext8a">Acetyl-CoA cetyltransferases enzymes</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0008">
+               <ce:text id="cetext0009">
+                  <ce:bold>AE PCOS</ce:bold>
+               </ce:text>
+               <ce:keyword id="key9a">
+                  <ce:text id="cetext9a">Androgen excess and PCOS society</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0009">
+               <ce:text id="cetext0010">
+                  <ce:bold>AMH</ce:bold>
+               </ce:text>
+               <ce:keyword id="key10a">
+                  <ce:text id="cetext10a">Anti-mullerian hormone</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0010">
+               <ce:text id="cetext0011">
+                  <ce:bold>ASRM</ce:bold>
+               </ce:text>
+               <ce:keyword id="key11a">
+                  <ce:text id="cetext11a">American society for reproductive medicine</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0011">
+               <ce:text id="cetext0012">
+                  <ce:bold>ATF4</ce:bold>
+               </ce:text>
+               <ce:keyword id="key12a">
+                  <ce:text id="cetext12a">Activating transcription factor 4</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0012">
+               <ce:text id="cetext0013">
+                  <ce:bold>ATF6</ce:bold>
+               </ce:text>
+               <ce:keyword id="key13a">
+                  <ce:text id="cetext13a">Activating transcription factor 6</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0013">
+               <ce:text id="cetext0014">
+                  <ce:bold>BMI</ce:bold>
+               </ce:text>
+               <ce:keyword id="key14a">
+                  <ce:text id="cetext14a">Body mass index</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0014">
+               <ce:text id="cetext0015">
+                  <ce:bold>CAT</ce:bold>
+               </ce:text>
+               <ce:keyword id="key15a">
+                  <ce:text id="cetext15a">Catalase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0015">
+               <ce:text id="cetext0016">
+                  <ce:bold>CC</ce:bold>
+               </ce:text>
+               <ce:keyword id="key16a">
+                  <ce:text id="cetext16a">Clomiphene citrate</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0016">
+               <ce:text id="cetext0017">
+                  <ce:bold>CHOP</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0016a">
+                  <ce:text id="cetext0017a">C/EBP homologous protein</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0017">
+               <ce:text id="cetext0018">
+                  <ce:bold>CIMT</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0017a">
+                  <ce:text id="cetext0018a">Carotid intima-media thickness</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0018">
+               <ce:text id="cetext0019">
+                  <ce:bold>COX2</ce:bold>
+               </ce:text>
+               <ce:keyword id="key19a">
+                  <ce:text id="cetext19a">Cyclooxygenase2</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0019">
+               <ce:text id="cetext0020">
+                  <ce:bold>CRP</ce:bold>
+               </ce:text>
+               <ce:keyword id="key20a">
+                  <ce:text id="cetext20a">C-reactive protein</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0020">
+               <ce:text id="cetext0021">
+                  <ce:bold>CVD</ce:bold>
+               </ce:text>
+               <ce:keyword id="key21a">
+                  <ce:text id="cetext21a">cardiovascular disease</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0021">
+               <ce:text id="cetext0022">
+                  <ce:bold>DHEAS</ce:bold>
+               </ce:text>
+               <ce:keyword id="key22a">
+                  <ce:text id="cetext22a">Dehydroepiandrosterone sulfate</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0022">
+               <ce:text id="cetext0023">
+                  <ce:bold>Eif2a</ce:bold>
+               </ce:text>
+               <ce:keyword id="key23a">
+                  <ce:text id="cetext23a">Eukaryotic initiation factor 2</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0023">
+               <ce:text id="cetext0024">
+                  <ce:bold>ER</ce:bold>
+               </ce:text>
+               <ce:keyword id="key24a">
+                  <ce:text id="cetext24a">Endoplasmic reticulum</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0024">
+               <ce:text id="cetext0025">
+                  <ce:bold>ER</ce:bold>
+               </ce:text>
+               <ce:keyword id="key25a">
+                  <ce:text id="cetext25a">estrogen receptor</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0025">
+               <ce:text id="cetext0026">
+                  <ce:bold>ESHRE</ce:bold>
+               </ce:text>
+               <ce:keyword id="key26a">
+                  <ce:text id="cetext26a">European society of human reproduction and embryology</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0026">
+               <ce:text id="cetext0027">
+                  <ce:bold>ET-1</ce:bold>
+               </ce:text>
+               <ce:keyword id="key27a">
+                  <ce:text id="cetext27a">Endothelin-1</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0027">
+               <ce:text id="cetext0028">
+                  <ce:bold>EV</ce:bold>
+               </ce:text>
+               <ce:keyword id="key28a">
+                  <ce:text id="cetext28a">Estrogen velarate</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0028">
+               <ce:text id="cetext0029">
+                  <ce:bold>FFA</ce:bold>
+               </ce:text>
+               <ce:keyword id="key29a">
+                  <ce:text id="cetext29a">Free fatty acids</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0029">
+               <ce:text id="cetext0030">
+                  <ce:bold>FSH</ce:bold>
+               </ce:text>
+               <ce:keyword id="key30a">
+                  <ce:text id="cetext30a">Follicle stimulating hormone</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0030">
+               <ce:text id="cetext0031">
+                  <ce:bold>FSHR</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0030a">
+                  <ce:text id="cetext0031a">Follicle stimulating hormone receptors</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0031">
+               <ce:text id="cetext0032">
+                  <ce:bold>GLUT4</ce:bold>
+               </ce:text>
+               <ce:keyword id="key32a">
+                  <ce:text id="cetext32a">Glucose transporter4</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0032">
+               <ce:text id="cetext0033">
+                  <ce:bold>GnRH</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0033">
+                  <ce:text id="cetext0034">Gonadotrophin releasing hormone</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key33a">
+               <ce:text id="cetext33a">
+                  <ce:bold>GRP78</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0034">
+                  <ce:text id="cetext0035">78-kDa glucose-regulated protein</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0035">
+               <ce:text id="cetext0036">
+                  <ce:bold>GSH</ce:bold>
+               </ce:text>
+               <ce:keyword id="key35a">
+                  <ce:text id="cetext35a">Reduced glutathione</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0036">
+               <ce:text id="cetext0037">
+                  <ce:bold>H</ce:bold>
+               </ce:text>
+               <ce:keyword id="key37a">
+                  <ce:text id="cetext37a">Hyperandrogenism</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0037">
+               <ce:text id="cetext0038">
+                  <ce:bold>HDL2-C</ce:bold>
+               </ce:text>
+               <ce:keyword id="key38a">
+                  <ce:text id="cetext38a">High density lipoprotein 2-cholesterol</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0038">
+               <ce:text id="cetext0039">
+                  <ce:bold>HOMAIR</ce:bold>
+               </ce:text>
+               <ce:keyword id="key39a">
+                  <ce:text id="cetext39a">Homeostatic model assessment insulin resistance</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0039">
+               <ce:text id="cetext0040">
+                  <ce:bold>IBD</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0039a">
+                  <ce:text id="cetext0040a">Inflammatory bowel disease</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0040">
+               <ce:text id="cetext0041">
+                  <ce:bold>IKKβ</ce:bold>
+               </ce:text>
+               <ce:keyword id="key41a">
+                  <ce:text id="cetext41a">Inhibitor of nuclear factor kappa-B kinase-β</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0041">
+               <ce:text id="cetext0042">
+                  <ce:bold>IL</ce:bold>
+               </ce:text>
+               <ce:keyword id="key42a">
+                  <ce:text id="cetext42a">Interleukin</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0042">
+               <ce:text id="cetext0043">
+                  <ce:bold>iNOS</ce:bold>
+               </ce:text>
+               <ce:keyword id="key43a">
+                  <ce:text id="cetext43a">Inducible nitric oxide synthase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0043">
+               <ce:text id="cetext0044">
+                  <ce:bold>IR</ce:bold>
+               </ce:text>
+               <ce:keyword id="key44a">
+                  <ce:text id="cetext44a">Insulin resistance</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0044">
+               <ce:text id="cetext0045">
+                  <ce:bold>IRS1</ce:bold>
+               </ce:text>
+               <ce:keyword id="key45a">
+                  <ce:text id="cetext45a">Insulin receptor substrate 1</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0045">
+               <ce:text id="cetext0046">
+                  <ce:bold>IκBα</ce:bold>
+               </ce:text>
+               <ce:keyword id="key46a">
+                  <ce:text id="cetext46a">Inhibitor of nuclear factor kappa B</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0046">
+               <ce:text id="cetext0047">
+                  <ce:bold>LDL</ce:bold>-<ce:bold>C</ce:bold>
+               </ce:text>
+               <ce:keyword id="key47a">
+                  <ce:text id="cetext47a">Low density lipoprotein-cholesterol</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0047">
+               <ce:text id="cetext0048">
+                  <ce:bold>LH</ce:bold>
+               </ce:text>
+               <ce:keyword id="key48a">
+                  <ce:text id="cetext48a">Luteinizing hormone</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0048">
+               <ce:text id="cetext0049">
+                  <ce:bold>LHR</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0048a">
+                  <ce:text id="cetext0049a">Leutinizing hormone receptors</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0049">
+               <ce:text id="cetext0050">
+                  <ce:bold>MMP2</ce:bold>
+               </ce:text>
+               <ce:keyword id="key50a">
+                  <ce:text id="cetext50a">Matrix metalloproteinase 2</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0050">
+               <ce:text id="cetext0051">
+                  <ce:bold>MMP9</ce:bold>
+               </ce:text>
+               <ce:keyword id="key51a">
+                  <ce:text id="cetext51a">Matrix metalloproteinase 9</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0051">
+               <ce:text id="cetext0052">
+                  <ce:bold>NCO</ce:bold>
+               </ce:text>
+               <ce:keyword id="key52a">
+                  <ce:text id="cetext52a">Non-central obesity</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0052">
+               <ce:text id="cetext0053">
+                  <ce:bold>NIH</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0052a">
+                  <ce:text id="cetext0053a">National institute of health</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0053">
+               <ce:text id="cetext0054">
+                  <ce:bold>O</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0053a">
+                  <ce:text id="cetext0054a">Oligo-ovulation</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0054">
+               <ce:text id="cetext0055">
+                  <ce:bold>OCPs</ce:bold>
+               </ce:text>
+               <ce:keyword id="key55a">
+                  <ce:text id="cetext55a">Oral contraceptive pills</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0055">
+               <ce:text id="cetext0056">
+                  <ce:bold>OGTT</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0055a">
+                  <ce:text id="cetext0056a">Oral glucose tolerance test</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0056">
+               <ce:text id="cetext0057">
+                  <ce:bold>P</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0056a">
+                  <ce:text id="cetext0057a">Polycystic ovaries</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0057">
+               <ce:text id="cetext0058">
+                  <ce:bold>PCOS</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0057a">
+                  <ce:text id="cetext0058a">Polycystic ovary/ovarian syndrome</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0058">
+               <ce:text id="cetext0059">
+                  <ce:bold>PERK</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0058a">
+                  <ce:text id="cetext0059a">protein kinase-like endoplasmic reticulum kinase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0059">
+               <ce:text id="cetext0060">
+                  <ce:bold>PI3K</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0059a">
+                  <ce:text id="cetext0060a">Phosphoinositide 3-kinases</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0060">
+               <ce:text id="cetext0061">
+                  <ce:bold>PPARγ</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0060a">
+                  <ce:text id="cetext0061a">Peroxisome proliferator-activated receptor gamma</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0061">
+               <ce:text id="cetext0062">
+                  <ce:bold>SHBG</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0061a">
+                  <ce:text id="cetext0062a">sex hormone binding globulin</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0062">
+               <ce:text id="cetext0063">
+                  <ce:bold>sICAM-1</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0062a">
+                  <ce:text id="cetext0063a">Soluble intercellular adhesion molecule-1</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0063">
+               <ce:text id="cetext0064">
+                  <ce:bold>SOD</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0063a">
+                  <ce:text id="cetext0064a">Superoxide dismutase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0064">
+               <ce:text id="cetext0065">
+                  <ce:bold>STAT3</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0064a">
+                  <ce:text id="cetext0065a">Signal transducer and activator of transcription 3</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0065">
+               <ce:text id="cetext0066">
+                  <ce:bold>svCAM-</ce:bold>1</ce:text>
+               <ce:keyword id="key66a">
+                  <ce:text id="cetext66a">Soluble vascular cell adhesion molecule-1</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0066">
+               <ce:text id="cetext0067">
+                  <ce:bold>T2DM</ce:bold>
+               </ce:text>
+               <ce:keyword id="key67a">
+                  <ce:text id="cetext67a">Type 2 diabetes mellitus</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0067">
+               <ce:text id="cetext0068">
+                  <ce:bold>TAC</ce:bold>
+               </ce:text>
+               <ce:keyword id="key68a">
+                  <ce:text id="cetext68a">Total antioxidant capacity</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0068">
+               <ce:text id="cetext0069">
+                  <ce:bold>TBARS</ce:bold>
+               </ce:text>
+               <ce:keyword id="key69a">
+                  <ce:text id="cetext69a">Thiobarbutric acid reactive species</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0069">
+               <ce:text id="cetext0070">
+                  <ce:bold>TG-C</ce:bold>
+               </ce:text>
+               <ce:keyword id="key70a">
+                  <ce:text id="cetext70a">Triglyeride-cholesterol</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0070">
+               <ce:text id="cetext0071">
+                  <ce:bold>TNF-α</ce:bold>
+               </ce:text>
+               <ce:keyword id="key71a">
+                  <ce:text id="cetext71a">Tumor necrosis factor-alpha</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0071">
+               <ce:text id="cetext0072">
+                  <ce:bold>TOS</ce:bold>
+               </ce:text>
+               <ce:keyword id="key72a">
+                  <ce:text id="cetext72a">Total oxidant status</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0072">
+               <ce:text id="cetext0073">
+                  <ce:bold>TSIIA</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0072a">
+                  <ce:text id="cetext0073a">Tanshinone IIA</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0073">
+               <ce:text id="cetext0074">
+                  <ce:bold>UPR</ce:bold>
+               </ce:text>
+               <ce:keyword id="key74a">
+                  <ce:text id="cetext74a">Unfolded protein response</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0074">
+               <ce:text id="cetext0075">
+                  <ce:bold>VLDL</ce:bold>-C</ce:text>
+               <ce:keyword id="key75a">
+                  <ce:text id="cetext75a">Very-low density lipoprotein-C</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0075">
+               <ce:text id="cetext0076">
+                  <ce:bold>WC</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0076">
+                  <ce:text id="cetext0077">Waist circumference</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0077">
+               <ce:text id="cetext0078">
+                  <ce:bold>WHO</ce:bold>
+               </ce:text>
+               <ce:keyword id="key76a">
+                  <ce:text id="cetext76a">World health organization</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0078">
+               <ce:text id="cetext0079">
+                  <ce:bold>XBP1</ce:bold>
+               </ce:text>
+               <ce:keyword id="key79a">
+                  <ce:text id="cetext79a">X-box binding protein 1</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0079">
+               <ce:text id="cetext0080">
+                  <ce:bold>MAPK</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0079a">
+                  <ce:text id="cetext0080a">Mitogen-activated protein kinase</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0080">
+               <ce:text id="cetext0081">
+                  <ce:bold>MEK</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0080a">
+                  <ce:text id="cetext0081a">Methyl ethyl ketone</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0081">
+               <ce:text id="cetext0082">
+                  <ce:bold>RAF</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0081a">
+                  <ce:text id="cetext0082a">Rapidly accelerated fibrosarcoma</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0082">
+               <ce:text id="cetext0083">
+                  <ce:bold>GDP</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0082a">
+                  <ce:text id="cetext0083a">Guanosine diphosphate</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0083">
+               <ce:text id="cetext0084">
+                  <ce:bold>GTP</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0083a">
+                  <ce:text id="cetext0084a">Guanosine triphosphate</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0084">
+               <ce:text id="cetext0085">
+                  <ce:bold>RAS</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0084a">
+                  <ce:text id="cetext0085a">Rat sarcoma</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+            <ce:keyword id="key0085">
+               <ce:text id="cetext0086">
+                  <ce:bold>IRS</ce:bold>
+               </ce:text>
+               <ce:keyword id="key0085a">
+                  <ce:text id="cetext0086a">insulin receptors substrate</ce:text>
+               </ce:keyword>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

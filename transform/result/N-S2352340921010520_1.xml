@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset on geosynthetic material debris contamination of the South-East Baltic shore</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Boris</namePart>
+      <namePart type="family">Chubarenko</namePart>
+      <displayForm>Chubarenko, Boris</displayForm>
+      <affiliation>Shirshov Institute of Oceanology, Russian Academy of Sciences, Moscow 117997, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander</namePart>
+      <namePart type="family">Kileso</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3968-9373</nameIdentifier>
+      <displayForm>Kileso, Alexander</displayForm>
+      <affiliation>Shirshov Institute of Oceanology, Russian Academy of Sciences, Moscow 117997, Russia</affiliation>
+      <affiliation>Immanuel Kant Baltic Federal University, Kaliningrad 236041, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Elena</namePart>
+      <namePart type="family">Esiukova</namePart>
+      <displayForm>Esiukova, Elena</displayForm>
+      <affiliation>Shirshov Institute of Oceanology, Russian Academy of Sciences, Moscow 117997, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vasiliy</namePart>
+      <namePart type="family">Pinchuk</namePart>
+      <displayForm>Pinchuk, Vasiliy</displayForm>
+      <affiliation>Immanuel Kant Baltic Federal University, Kaliningrad 236041, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Franz-Georg</namePart>
+      <namePart type="family">Simon</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4512-2031</nameIdentifier>
+      <displayForm>Simon, Franz-Georg</displayForm>
+      <affiliation>BAM Federal Institute for Materials Research and Testing, Berlin 12200, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The database gives information on the contamination of the shore of the South-Eastern Baltic with the debris of geosynthetic materials for the period 2018–2020. This new type of coastal pollution enters the natural environment due to the destruction of coastal protection structures and construction activities. The database contains sections: (1) a list of types of geosynthetic material residues, their photographic images and photographs illustrating examples of finds in natural conditions [1 List_geosynthetic_debris_SEB], (2) monitoring data on the contamination of the beach strip with the debris of geotextiles, braids from gabions, geocontainers (big bags), geocells and geogrids for the beaches of the South-Eastern Baltic for the period 2018–2020 [2 Monitoring_geosynthetic_debris_SEB]; (3) statistical distributions of the found geosynthetic debris by size [3 Scales_geosynthetic_debris_SEB] and (4) results of test surveys on the shores of Lithuania and Poland adjacent to Kaliningrad Oblast. All data refer to the beaches of the Kaliningrad Oblast (Russia), including the Russian parts of the Vistula and Curonian Spits, but also contains information on a one-time assessment of the pollution of the beaches of the adjacent territories: the Polish shore from the Poland-Russia border on the Vistula Spit to the mouth of the Vistula River, the Lithuanian shore from the border Lithuania-Russia on the Curonian Spit to the border of Latvia-Lithuania. Materials were collected during field surveys within the ERANET-RUS_Plus joint project EI-GEO, ID 212 (RFBR 18-55-76002 ERA_a, BMBF 01DJ18005). </abstract>
+   <subject>
+      <topic>Geosynthetics</topic>
+   </subject>
+   <subject>
+      <topic>Geotextiles</topic>
+   </subject>
+   <subject>
+      <topic>Sandy beach</topic>
+   </subject>
+   <subject>
+      <topic>Contamination</topic>
+   </subject>
+   <subject>
+      <topic>Marine littering</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107778</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107778</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107778</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01052-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-30"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921010520/S2352340921010520.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

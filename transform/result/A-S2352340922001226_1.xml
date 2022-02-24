@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2022.107910">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Multiplexed SSR and agronomic data used in an investigation of obsolete diversity of rye (Secale cereale L.)</dct:title>
+         <dct:creator>Malgorzata Targonska-Karasek</dct:creator>
+         <dct:creator>Maja Boczkowska</dct:creator>
+         <dct:creator>Wieslaw Podyma</dct:creator>
+         <dct:creator>Malgorzata Pasnik</dct:creator>
+         <dct:creator>Maciej Niedzielski</dct:creator>
+         <dct:creator>Anna Rucinska</dct:creator>
+         <dct:creator>Zuzanna Nowak-Zyczynska</dct:creator>
+         <dct:creator>Monika Rakoczy-Trojanowska</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Molecular markers</rdf:li>
+               <rdf:li>Agronomic traits</rdf:li>
+               <rdf:li>Meteorological data</rdf:li>
+               <rdf:li>Diversity</rdf:li>
+               <rdf:li>Gene bank germplasm</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief, Uncorrected proof. doi:10.1016/j.dib.2022.107910</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:doi>10.1016/j.dib.2022.107910</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2022.107910</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2022.107910</dct:identifier>
+         <bam:articleNumber>107910</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-31T10:29:18Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S100.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107910</ja:aid>
+         <ce:article-number>107910</ce:article-number>
+         <ce:pii>S2352-3409(22)00122-6</ce:pii>
+         <ce:doi>10.1016/j.dib.2022.107910</ce:doi>
+         <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Multiplexed SSR and agronomic data used in an investigation of obsolete diversity of rye (<ce:italic>Secale cereale</ce:italic> L.)</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340922001226-61abb36b46bafa227ef2407cc95a8c1b">
+               <ce:given-name>Malgorzata</ce:given-name>
+               <ce:surname>Targonska-Karasek</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340922001226-f7c32c6592349da555c1cf275c028ff9"
+                       orcid="0000-0001-8691-410X">
+               <ce:given-name>Maja</ce:given-name>
+               <ce:surname>Boczkowska</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:m.boczkowska@ihar.edu.pl">m.boczkowska@ihar.edu.pl</ce:e-address>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340922001226-630247a41202b469cdf94acd95efe3f7"
+                       orcid="0000-0003-2018-281X">
+               <ce:given-name>Wieslaw</ce:given-name>
+               <ce:surname>Podyma</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340922001226-8d49c05c514aaf986669def999139700">
+               <ce:given-name>Malgorzata</ce:given-name>
+               <ce:surname>Pasnik</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2352340922001226-e8e5eb04fe48b8c267d7b62d447e95ae">
+               <ce:given-name>Maciej</ce:given-name>
+               <ce:surname>Niedzielski</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2352340922001226-60f42df0db9b0fa50189349df3118e46"
+                       orcid="0000-0002-5497-9352">
+               <ce:given-name>Anna</ce:given-name>
+               <ce:surname>Rucinska</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2352340922001226-77ef568c3cd903c26b8de9601027b892">
+               <ce:given-name>Zuzanna</ce:given-name>
+               <ce:surname>Nowak-Zyczynska</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2352340922001226-b9599f60bd487620037e5e082c9533fc">
+               <ce:given-name>Monika</ce:given-name>
+               <ce:surname>Rakoczy-Trojanowska</ce:surname>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+               <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340922001226-dd3725f062ec7a4fd8f4effad350c8ff">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Polish Academy of Sciences Botanical Garden - Center for Biological Diversity Conservation in Powsin, Prawdziwka 2, Warsaw 02-973, Poland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Polish Academy of Sciences Botanical Garden - Center for Biological Diversity Conservation in Powsin</sa:organization>
+                  <sa:address-line>Prawdziwka 2</sa:address-line>
+                  <sa:city>Warsaw</sa:city>
+                  <sa:postal-code>02-973</sa:postal-code>
+                  <sa:country>Poland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aPolish Academy of Sciences Botanical Garden - Center for Biological Diversity Conservation in Powsin, Prawdziwka 2, Warsaw 02-973, Poland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340922001226-33fdf8bd728ef3a5e02735fc5a10cc89">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Plant Breeding and Acclimatization Institute (IHAR) - National Research Institute, Radzików, Błonie 05-870, Poland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Plant Breeding and Acclimatization Institute (IHAR) - National Research Institute</sa:organization>
+                  <sa:address-line>Radzików</sa:address-line>
+                  <sa:city>Błonie</sa:city>
+                  <sa:postal-code>05-870</sa:postal-code>
+                  <sa:country>Poland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bPlant Breeding and Acclimatization Institute (IHAR) - National Research Institute, Radzików, Błonie 05-870, Poland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2352340922001226-1aa192b61aff6323041d244951f7846e">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Animal Genetics and Conservation, Warsaw University of Life Sciences, Ciszewskiego 8, Warsaw 02-786, Poland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Animal Genetics and Conservation</sa:organization>
+                  <sa:organization>Warsaw University of Life Sciences</sa:organization>
+                  <sa:address-line>Ciszewskiego 8</sa:address-line>
+                  <sa:city>Warsaw</sa:city>
+                  <sa:postal-code>02-786</sa:postal-code>
+                  <sa:country>Poland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Animal Genetics and Conservation, Warsaw University of Life Sciences, Ciszewskiego 8, Warsaw 02-786, Poland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2352340922001226-66142b8b2297eedcbd88d4b2e34aef57">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Department of Plant Genetics, Breeding, and Biotechnology, Warsaw University of Life Sciences, Nowoursynowska 159, Warsaw 02-787, Poland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Plant Genetics</sa:organization>
+                  <sa:organization>Breeding, and Biotechnology</sa:organization>
+                  <sa:organization>Warsaw University of Life Sciences</sa:organization>
+                  <sa:address-line>Nowoursynowska 159</sa:address-line>
+                  <sa:city>Warsaw</sa:city>
+                  <sa:postal-code>02-787</sa:postal-code>
+                  <sa:country>Poland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dDepartment of Plant Genetics, Breeding, and Biotechnology, Warsaw University of Life Sciences, Nowoursynowska 159, Warsaw 02-787, Poland</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Plant Breeding and Acclimatization Institute (IHAR) - National Research Institute, Radzików, Błonie 05-870, Poland.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Plant Breeding and Acclimatization Institute (IHAR) - National Research Institute</sa:organization>
+                  <sa:address-line>Radzików</sa:address-line>
+                  <sa:city>Błonie</sa:city>
+                  <sa:postal-code>05-870</sa:postal-code>
+                  <sa:country>Poland</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="13" month="11" year="2021"/>
+         <ce:date-revised day="28" month="1" year="2022"/>
+         <ce:date-accepted day="31" month="1" year="2022"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara003" view="all">Rye (<ce:italic>Secale cereale</ce:italic> L.) is one of the most important cereal crops cultivated in the world due to its ability to produce high yields even when grown under environmental stress conditions. About 27,000 <ce:italic>Secale</ce:italic> accessions have been collected and preserved in 70 gene banks worldwide. Although the germplasm represents a great source of genetic diversity, the molecular characteristics refers only to the part of them. Here, we present data obtained by the Simple Sequence Repeat markers (SSR) analysis of 100 rye accessions preserved in the gene bank of the Polish Academy of Sciences Botanical Garden – Center for Biological Diversity Conservation in Powsin. Additionally, the data presented in this article refers to evaluation of agronomoic traits and weather conditions measured for 14 years. The data was used in the research article “Investigation of obsolete diversity of rye (<ce:italic>Secale cereale</ce:italic> L.) using multiplexed SSR fingerprinting and evaluation of agronomic traits” [1].</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Molecular markers</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Agronomic traits</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Meteorological data</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Diversity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Gene bank germplasm</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

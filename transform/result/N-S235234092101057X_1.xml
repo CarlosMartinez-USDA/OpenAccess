@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Application of probabilistic models for extreme values to the COVID-2019 epidemic daily dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Daniel</namePart>
+      <namePart type="family">Canton Enriquez</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6543-5078</nameIdentifier>
+      <displayForm>Canton Enriquez, Daniel</displayForm>
+      <affiliation>Facultad de Informatica, Universidad Autonoma de Queretaro, Juriquilla, Queretaro 76230, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jose A.</namePart>
+      <namePart type="family">Niembro-Ceceña</namePart>
+      <displayForm>Niembro-Ceceña, Jose A.</displayForm>
+      <affiliation>Facultad de Informatica, Universidad Autonoma de Queretaro, Juriquilla, Queretaro 76230, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Martin</namePart>
+      <namePart type="family">Muñoz Mandujano</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-3464-4456</nameIdentifier>
+      <displayForm>Muñoz Mandujano, Martin</displayForm>
+      <affiliation>Facultad de Informatica, Universidad Autonoma de Queretaro, Juriquilla, Queretaro 76230, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Daniel</namePart>
+      <namePart type="family">Alarcon</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-4893-7543</nameIdentifier>
+      <displayForm>Alarcon, Daniel</displayForm>
+      <affiliation>Facultad de Informatica, Universidad Autonoma de Queretaro, Juriquilla, Queretaro 76230, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jorge</namePart>
+      <namePart type="family">Arcadia Guerrero</namePart>
+      <displayForm>Arcadia Guerrero, Jorge</displayForm>
+      <affiliation>Facultad de Ingeniería, Universidad Autonoma de Queretaro, Centro Universitario, Queretaro 76010, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ivan</namePart>
+      <namePart type="family">Gonzalez Garcia</namePart>
+      <displayForm>Gonzalez Garcia, Ivan</displayForm>
+      <affiliation>Facultad de Informatica, Universidad Autonoma de Queretaro, Juriquilla, Queretaro 76230, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Agueda Areli</namePart>
+      <namePart type="family">Montes Gutierrez</namePart>
+      <displayForm>Montes Gutierrez, Agueda Areli</displayForm>
+      <affiliation>Facultad de Ingeniería, Universidad Autonoma de Queretaro, Centro Universitario, Queretaro 76010, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alfonso</namePart>
+      <namePart type="family">Gutierrez-Lopez</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2770-8642</nameIdentifier>
+      <displayForm>Gutierrez-Lopez, Alfonso</displayForm>
+      <affiliation>Water Research Center, Centro de Investigaciones del Agua-Queretaro (CIAQ), International Flood Initiative, Latin-American and the Caribbean Region (IFI-LAC), Intergovernmental Hydrological Programme (IHP-UNESCO), Universidad Autonoma de Queretaro, Queretaro 76010, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Worldwide, COVID-19 coronavirus disease is spreading rapidly in a second and third wave of infections. In this context of increasing infections, it is critical to know the probability of a specific number of cases being reported. We collated data on new daily confirmed cases of COVID-19 breakouts in: Argentina, Brazil, China, Colombia, France, Germany, India, Indonesia, Iran, Italy, Mexico, Poland, Russia, Spain, U.K., and the United States, from the 20th of January, 2020 to 28th of August 2021. A selected sample of almost ten thousand data is used to validate the proposed models. Generalized Extreme-Value Distribution Type 1-Gumbel and Exponential (1, 2 parameters) models were introduced to analyze the probability of new daily confirmed cases. The data presented in this document for each country provide the daily probability of rate incidence. In addition, the frequencies of historical events expressed as a return period in days of the complete data set is provided. </abstract>
+   <subject>
+      <topic>Daily new cases statistical analysis</topic>
+   </subject>
+   <subject>
+      <topic>Coronavirus</topic>
+   </subject>
+   <subject>
+      <topic>Gumbel distribution</topic>
+   </subject>
+   <subject>
+      <topic>Exponential distribution</topic>
+   </subject>
+   <subject>
+      <topic>Probabilistic analysis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107783</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107783</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107783</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)01057-X</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-30"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S235234092101057X/S235234092101057X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

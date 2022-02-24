@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Muscle function alterations in a Parkinson's disease animal model: Electromyographic recordings dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ana L.</namePart>
+      <namePart type="family">Albarracín</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1001-8672</nameIdentifier>
+      <displayForm>Albarracín, Ana L.</displayForm>
+      <affiliation>Departamento de Bioingeniería, Facultad de Ciencias Exactas y Tecnología, Laboratorio de Investigaciones en Neurociencias y Tecnologías Aplicadas (LINTEC), Universidad Nacional de Tucumán, Tucumán, Argentina</affiliation>
+      <affiliation>Instituto Superior de Investigaciones Biológicas (INSIBIO), Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Tucumán, Argentina</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fernando D.</namePart>
+      <namePart type="family">Farfán</namePart>
+      <displayForm>Farfán, Fernando D.</displayForm>
+      <affiliation>Departamento de Bioingeniería, Facultad de Ciencias Exactas y Tecnología, Laboratorio de Investigaciones en Neurociencias y Tecnologías Aplicadas (LINTEC), Universidad Nacional de Tucumán, Tucumán, Argentina</affiliation>
+      <affiliation>Instituto Superior de Investigaciones Biológicas (INSIBIO), Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Tucumán, Argentina</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Parkinson's disease (PD) is currently diagnosed based on characteristic motor dysfunctions induced by the loss of dopaminergic neurons in the substantia nigra pars compacta [1,2]. The animal model most commonly used to reproduce PD-related motor deficits in rats is the massive degeneration of nigrostriatal neurons by using intracerebral infusion of 6-hydroxydopamine (6-OHDA) [3,4]. This article presents data related to the research article “Quantifying muscle alterations in a Parkinson's disease animal model using electromyographic biomarkers” [5]. This study evaluated the effect of PD neurotoxic lesion model on muscle function of freely moving rats. The effects on muscle function considering the time post-lesion have never been described for this Parkinson's disease model. Electromyographic recordings were obtained from control and hemiparkinsonian rats walking in a circular treadmill. Chronic EMG electrodes were implanted subcutaneously in a hindlimb muscle - the biceps femoris muscle - for evaluating muscular activity during the gait. Five dataset of EMG recordings are presented in this article corresponding to control animals and four groups of lesioned animals at different time post-injury (three to six weeks after lesion). Stationarity of the EMG signals were established and the effective muscular contractions were detected by using signal processing methods described in [5]. Power spectrum density was characterized through the mean and median frequencies and signals probability distribution function analysis was also performed.These analyses have shown that PSD frequency contents progressively fall with time post-lesion suggesting muscle function changes along this enclosed time. This dataset could be reused to investigate muscular activation parameters under control and lesioned conditions in freely moving rats and for evaluating different signal processing methods for EMG patterns detection. </abstract>
+   <subject>
+      <topic>Parkinson's disease animal model</topic>
+   </subject>
+   <subject>
+      <topic>6-OHDA-lesioned rats</topic>
+   </subject>
+   <subject>
+      <topic>Electromyography</topic>
+   </subject>
+   <subject>
+      <topic>Muscle dysfunction</topic>
+   </subject>
+   <subject>
+      <topic>Muscular activity in freely moving rats</topic>
+   </subject>
+   <subject>
+      <topic>Bicep femoris muscle recordings</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107712</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107712</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107712</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00987-2</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-11"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009872/S2352340921009872.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

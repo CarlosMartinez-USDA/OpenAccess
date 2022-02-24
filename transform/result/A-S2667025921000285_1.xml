@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2021.100036">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Advances in the preparations and applications of nanochitins</dct:title>
+         <dct:creator>Luca Serventi</dct:creator>
+         <dct:creator>Qiuxuan He</dct:creator>
+         <dct:creator>Jieyan Huang</dct:creator>
+         <dct:creator>Aiswarya Mani</dct:creator>
+         <dct:creator>Athira Jayasree Subhash</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Bioavailability</rdf:li>
+               <rdf:li>Chitin</rdf:li>
+               <rdf:li>Drug delivery</rdf:li>
+               <rdf:li>Emulsions</rdf:li>
+               <rdf:li>Packaging</rdf:li>
+               <rdf:li>Salt</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health 1 (2021). doi:10.1016/j.fhfh.2021.100036</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:volume>1</prism:volume>
+         <prism:coverDisplayDate>2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.fhfh.2021.100036</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2021.100036</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2021.100036</dct:identifier>
+         <bam:articleNumber>100036</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-10-26T11:51:23Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Australian and New Zealand Institutes</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100036</ja:aid>
+         <ce:article-number>100036</ce:article-number>
+         <ce:pii>S2667-0259(21)00028-5</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2021.100036</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Advances in the preparations and applications of nanochitins</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025921000285-8605c68bc44de8e3a4b78769b4108972">
+               <ce:given-name>Luca</ce:given-name>
+               <ce:surname>Serventi</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:Luca.Serventi@lincoln.ac.nz">Luca.Serventi@lincoln.ac.nz</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025921000285-2368ef098837156bc94f91d6ed61e37d">
+               <ce:given-name>Qiuxuan</ce:given-name>
+               <ce:surname>He</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667025921000285-c854681f01bf9706ac43cb130dd47a4b">
+               <ce:given-name>Jieyan</ce:given-name>
+               <ce:surname>Huang</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667025921000285-ca972aa743488b3031df8f8189bb04f4">
+               <ce:given-name>Aiswarya</ce:given-name>
+               <ce:surname>Mani</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667025921000285-fd24b65d427ed3322458b1e6f04c309e">
+               <ce:given-name>Athira Jayasree</ce:given-name>
+               <ce:surname>Subhash</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025921000285-6d29e5a6a8ad968c7256ace126122e9e">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Wine, Food and Molecular Biosciences, Faculty of Agriculture and Life Sciences, RFH Building, PO Box 85054, Lincoln University, Lincoln, 7647, Christchurch, New Zealand</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Wine</sa:organization>
+                  <sa:organization>Food and Molecular Biosciences</sa:organization>
+                  <sa:organization>Faculty of Agriculture and Life Sciences</sa:organization>
+                  <sa:organization>Lincoln University, Lincoln</sa:organization>
+                  <sa:address-line>RFH Building, PO Box 85054</sa:address-line>
+                  <sa:city>Christchurch</sa:city>
+                  <sa:postal-code>7647</sa:postal-code>
+                  <sa:country>New Zealand</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Wine, Food and Molecular Biosciences, Faculty of Agriculture and Life Sciences, RFH Building, PO Box 85054, Lincoln University, Lincoln, 7647, Christchurch, New Zealand</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667025921000285-88fff266e82e7711a11a591954aac2aa">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">College of Light Industry and Food, Academy of Contemporary Agricultural Engineering Innovations, Zhongkai University of Agriculture and Engineering, Guangzhou 510225, China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>College of Light Industry and Food</sa:organization>
+                  <sa:organization>Academy of Contemporary Agricultural Engineering Innovations</sa:organization>
+                  <sa:organization>Zhongkai University of Agriculture and Engineering</sa:organization>
+                  <sa:city>Guangzhou</sa:city>
+                  <sa:postal-code>510225</sa:postal-code>
+                  <sa:country>China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bCollege of Light Industry and Food, Academy of Contemporary Agricultural Engineering Innovations, Zhongkai University of Agriculture and Engineering, Guangzhou 510225, China</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667025921000285-407f4e65e33680a8bef757c219a02abb">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">K S Rangasamy College of Technology, Department of Food Technology, Thiruchengode, Erode, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>K S Rangasamy College of Technology</sa:organization>
+                  <sa:organization>Department of Food Technology</sa:organization>
+                  <sa:city>Erode</sa:city>
+                  <sa:state>Thiruchengode</sa:state>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cK S Rangasamy College of Technology, Department of Food Technology, Thiruchengode, Erode, India</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Wine, Food and Molecular Biosciences, Faculty of Agriculture and Life Sciences, RFH Building, PO Box 85054, Lincoln University, Lincoln, 7647, Christchurch, New Zealand.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Wine, Food and Molecular Biosciences</sa:organization>
+                  <sa:organization>Faculty of Agriculture and Life Sciences</sa:organization>
+                  <sa:address-line>RFH Building, PO Box 85054, Lincoln University, Lincoln</sa:address-line>
+                  <sa:city>Christchurch</sa:city>
+                  <sa:postal-code>7647</sa:postal-code>
+                  <sa:country>New Zealand</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="24" month="8" year="2021"/>
+         <ce:date-revised day="20" month="10" year="2021"/>
+         <ce:date-accepted day="26" month="10" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara004" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">Chitin is the second most abundant polysaccharide in nature after cellulose.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">Chitin nanofiber coating reduces lipid absorption, thus increasing satiety.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Chitin nanofiber coating reduces the bioavailability of fat-soluble nutrients.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Chitin nanofiber enhances saltiness of food via ionic interaction.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Composite films of nanochitin, starch and or gelatin are promising food packaging.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara005" view="all">Chitin is a widely available polysaccharide, biodegradable, insoluble in most solvents and with low antigenic properties. Chitin nanoparticles such as nano whiskers and nanofiber (CHNF) can form a stable and uniform dispersion. The nanoparticle suspension shows the properties of crude chitin as well as the properties of high aspect ratio, high surface area, low density, and hydroxyl group, N-acetyl group and the residual amine group on its surface can also be chemically modified. This review describes nanochitin preparation technologies and food applications. Specifically, the role of nanochitin in modulating fat-soluble bioavailability and saltiness perception was investigated. Fat-soluble vitamins incorporated into CHNF are less available for digestion. Whereas hyaluronic acid and cancer-treatment drugs can be delivered through the skin to targeted locations via chitin nanogels. Interestingly, CHNF enhances saltiness perception via ionic binding with taste receptors. At pH &lt; 7, the amino group chelates chloride, thus releasing sodium for interaction with salt receptors. This mechanism may allow salt reduction in food formulations. Furthermore, nanochitins express surfactant properties and strengthen composite food packaging (starch- or gelatin-based, gelatin nanocomposite, nanocellulose/nanochitin membranes coating F-SiO<ce:inf loc="post">2</ce:inf> suspensions). This paper can help build a better understanding of the opportunities of nanochitin as functional food ingredient.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Bioavailability</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Chitin</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Drug delivery</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Emulsions</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0006">Packaging</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0007">Salt</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

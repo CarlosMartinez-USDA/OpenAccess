@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107591">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Characterization data of palladium-alumina on activated biochar catalyst for hydrogenolysis reactions</dct:title>
+         <dct:creator>Lakshmiprasad Gurrala</dct:creator>
+         <dct:creator>M. Midhun Kumar</dct:creator>
+         <dct:creator>Changyub Paek</dct:creator>
+         <dct:creator>R. Vinu</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Biochar</rdf:li>
+               <rdf:li>Catalyst</rdf:li>
+               <rdf:li>Palladium</rdf:li>
+               <rdf:li>Instrumental analysis</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107591</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107591</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107591</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107591</dct:identifier>
+         <bam:articleNumber>107591</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-16T14:43:20Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107591</ja:aid>
+         <ce:article-number>107591</ce:article-number>
+         <ce:pii>S2352-3409(21)00866-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107591</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="ref0001">
+               <ce:pii>S0960-8524(21)01546-7</ce:pii>
+               <ce:doi>10.1016/j.biortech.2021.126204</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="unknown" year="2021"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dchd0001">
+            <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="tte0002">Characterization data of palladium-alumina on activated biochar catalyst for hydrogenolysis reactions</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008660-bcb6c5853ec4bb1dc3fe5705fae4d7fd">
+               <ce:given-name>Lakshmiprasad</ce:given-name>
+               <ce:surname>Gurrala</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008660-af25a5ab3c4773de758434cdd65bb4e0">
+               <ce:given-name>M. Midhun</ce:given-name>
+               <ce:surname>Kumar</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2352340921008660-e1ef32368e86fd9bafa0643cb8abed15">
+               <ce:given-name>Changyub</ce:given-name>
+               <ce:surname>Paek</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2352340921008660-f19484d7be816527f4bc55f24749be73"
+                       orcid="0000-0002-9757-8225">
+               <ce:given-name>R.</ce:given-name>
+               <ce:surname>Vinu</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001" type="email" xlink:href="mailto:vinu@iitm.ac.in">vinu@iitm.ac.in</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008660-cc693e47b5cb1578d153e5ed8db58065">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Chemical Engineering and National Center for Combustion Research and Development, Indian Institute of Technology Madras, Chennai 600036, India</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Chemical Engineering and National Center for Combustion Research and Development</sa:organization>
+                  <sa:organization>Indian Institute of Technology Madras</sa:organization>
+                  <sa:city>Chennai</sa:city>
+                  <sa:postal-code>600036</sa:postal-code>
+                  <sa:country>India</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Chemical Engineering and National Center for Combustion Research and Development, Indian Institute of Technology Madras, Chennai 600036, India</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008660-d38d1b480ba51c153a9fae70565a4f0c">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Corporate Strategic Research, ExxonMobil Research and Engineering, Annandale, NJ 08801, United States</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Corporate Strategic Research</sa:organization>
+                  <sa:organization>ExxonMobil Research and Engineering</sa:organization>
+                  <sa:city>Annandale</sa:city>
+                  <sa:state>NJ</sa:state>
+                  <sa:postal-code>08801</sa:postal-code>
+                  <sa:country>United States</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bCorporate Strategic Research, ExxonMobil Research and Engineering, Annandale, NJ 08801, United States</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="7" month="11" year="2021"/>
+         <ce:date-accepted day="15" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara008" view="all">This article presents experimental data on the techniques used for the characterization of Pd-Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> supported on activated biochar (2Pd-5Al/ABC) catalyst. The reported data is collected as a part of the research on the 2Pd-5Al/ABC catalyst used for lignin hydrogenolysis [1]. The data on X-ray powder diffraction, ammonia-temperature programmed desorption, pyridine diffuse reflectance infrared Fourier transform spectroscopy, and high-resolution scanning electron microscopy of various catalysts are valuable to study the changes in surface morphology and acidity upon metal loading. The data from thermogravimetric analysis, X-ray photoelectron spectroscopy, and scanning electron microscopy-energy dispersive X-ray spectroscopy are also provided to understand the thermal stability, ionic state of various metals and elemental composition of the catalyst, respectively. The data provided can be used for developing novel catalysts from renewable biochar, and the characterization of noble metal-metal oxide loaded catalysts can aid researchers to design composite catalytic materials for various applications.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Biochar</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Catalyst</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">Palladium</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">Instrumental analysis</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

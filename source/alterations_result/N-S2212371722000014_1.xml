@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>High silica concentration in RO concentrate</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">A.H.</namePart>
+      <namePart type="family">Haidari</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-7272-8584</nameIdentifier>
+      <displayForm>Haidari, A.H.</displayForm>
+      <affiliation>Hantenboer, Mercuriusweg 8, 3113 AR, Schiedam, the Netherlands</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">G.J.</namePart>
+      <namePart type="family">Witkamp</namePart>
+      <displayForm>Witkamp, G.J.</displayForm>
+      <affiliation>King Abdullah University of Science and Technology (KAUST), Water Desalination and Reuse Center (WDRC), Division of Biological and Environmental Science and Engineering (BESE), Thuwal, 23955-6900, Saudi Arabia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.G.J.</namePart>
+      <namePart type="family">Heijman</namePart>
+      <displayForm>Heijman, S.G.J.</displayForm>
+      <affiliation>Delft University of Technology, Faculty of Civil Engineering, Stevinweg 01, 2628 CN, Delft, the Netherlands</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-22</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Silica scaling is one of the major scaling challenges in Reverse Osmosis (RO). The safe operation practice is to keep the silica concentration below 150 mg/L in RO concentrate. This study addresses the effects of divalent cations such as calcium and magnesium on silica scaling in a seawater RO installation used as a pretreatment to Eutectic Freeze Crystallisation (EFC). Results showed that in the absence of antiscalant and divalent cations a sustained silica concentration of approximately 280 mg/L in concentrate is possible without declining membrane permeability. At a higher concentration of divalent cations, the membrane permeability decreased. Membrane autopsy and analysing destructed membrane showed a relatively low magnesium and a high calcium concentration on the membrane after adding divalent ions into the solutions. It is concluded that in absence of divalent cations and without antiscalant the limits of 150 mg/L silica can be extended to 280 mg/L for 6–8 hours. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Membrane fouling</topic>
+   </subject>
+   <subject>
+      <topic>Reverse osmosis</topic>
+   </subject>
+   <subject>
+      <topic>Silica scaling</topic>
+   </subject>
+   <subject>
+      <topic>PHREEQC</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Water Resources and Industry</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2212-3717</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">22</text>
+         <extent unit="pages">
+            <start>100171</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.wri.2022.100171</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.wri.2022.100171</url>
+   </location>
+   <identifier type="pii">S2212-3717(22)00001-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-22"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/source/sourcefiles/123176916641762791-00001/2212-3717/aip/S2212371722000014/S2212371722000014.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\source\alterations_result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Gossip, sabotage, and friendship network dataset</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Meltem</namePart>
+      <namePart type="family">Yucel</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7274-5971</nameIdentifier>
+      <displayForm>Yucel, Meltem</displayForm>
+      <affiliation>Department of Psychology, University of Virginia, United States</affiliation>
+      <affiliation>Department of Psychology and Neuroscience, Duke University, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gustav R.</namePart>
+      <namePart type="family">Sjobeck</namePart>
+      <displayForm>Sjobeck, Gustav R.</displayForm>
+      <affiliation>Department of Psychology, University of Virginia, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rebecca</namePart>
+      <namePart type="family">Glass</namePart>
+      <displayForm>Glass, Rebecca</displayForm>
+      <affiliation>Widener University, Institute for Graduate Clinical Psychology (IGCP), United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Joshua</namePart>
+      <namePart type="family">Rottman</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2284-1428</nameIdentifier>
+      <displayForm>Rottman, Joshua</displayForm>
+      <affiliation>Franklin and Marshall College, Psychology and Scientific and Philosophical Studies of Mind, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article describes the data reported in the paper “Being in the know: Social network analysis of gossip and friendship on college campuses” (Yucel et al. 2021). Data were collected from a Men's and Women's collegiate crew team members from a small liberal arts college. Participants (N = 44) reported information about how often they gossip about members of the team (positively, negatively), who they have had hooked-up with on the team, who they consider to be friends with on the team, whether they have to sabotaged or been sabotaged by any teammates, their well-being and feelings of loneliness. This data brief provides detailed information about data preparation and participants responses to all survey items. </abstract>
+   <subject>
+      <topic>Friendship</topic>
+   </subject>
+   <subject>
+      <topic>Gossip</topic>
+   </subject>
+   <subject>
+      <topic>Negative gossip</topic>
+   </subject>
+   <subject>
+      <topic>Positive gossip</topic>
+   </subject>
+   <subject>
+      <topic>Sex gossip</topic>
+   </subject>
+   <subject>
+      <topic>Sabotage</topic>
+   </subject>
+   <subject>
+      <topic>Social network analysis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107717</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107717</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107717</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00992-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009926/S2352340921009926.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

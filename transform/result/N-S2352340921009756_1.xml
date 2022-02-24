@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of the COVID-19 lockdown survey conducted by GIPEyOP in Spain</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Virgilio</namePart>
+      <namePart type="family">Pérez</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7628-2855</nameIdentifier>
+      <displayForm>Pérez, Virgilio</displayForm>
+      <affiliation>GIPEyOP, Department of Applied Economics, University of Valencia, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cristina</namePart>
+      <namePart type="family">Aybar</namePart>
+      <displayForm>Aybar, Cristina</displayForm>
+      <affiliation>GIPEyOP, Department of Applied Economics, University of Valencia, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jose M.</namePart>
+      <namePart type="family">Pavía</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0129-726X</nameIdentifier>
+      <displayForm>Pavía, Jose M.</displayForm>
+      <affiliation>GIPEyOP, UMMICS, Department of Applied Economics, University of Valencia, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This article introduces a dataset that captures relevant information about the living conditions, feelings, and habits of residents in Spain during ninety nine days of home confinement. This and other measures, imposed by the Government of Spain to mitigate the impact of the pandemic on the population, have brought with them important economic, labor, and social changes, which have been accompanied by various modifications (some only temporary) in Spaniards habits and behaviours. Data collection was carried out through the implementation of a questionnaire with 33 questions, which was sent by email to the collaborators of GIPEyOP (Elections and Public Opinion Research Group from the University of Valencia). These collaborators, in turn, forwarded the questionnaire to their acquaintances using email and social networks, mainly WhatsApp, Facebook, and Twitter. This non-probabilistic methodology has generated a total of 8387 valid responses. The resulting dataset may be (re)used by sociologists, political scientists, economists, or psychologists, among others, to identify how household chores were distributed among family members during the lockdown, what impact the confinement had on the labor performance of workers, the extent of teleworking and on some (physical and psychological) health issues linked to the confinement, including relationships with the place of residence during confinement. The data also provides information on how social networks spread geographically or what Spaniards thought of the management of the crisis by local, national, and international authorities. </abstract>
+   <subject>
+      <topic>SARS-CoV-2</topic>
+   </subject>
+   <subject>
+      <topic>Confinement</topic>
+   </subject>
+   <subject>
+      <topic>Online surveys</topic>
+   </subject>
+   <subject>
+      <topic>Chain sampling</topic>
+   </subject>
+   <subject>
+      <topic>Social impacts</topic>
+   </subject>
+   <subject>
+      <topic>Political assessment</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">February 2022</text>
+         <text type="year">2022</text>
+         <text type="month">February</text>
+         <extent unit="pages">
+            <start>107700</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107700</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107700</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00975-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-12-09"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/S2352340921X00078/S2352340921009756/S2352340921009756.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

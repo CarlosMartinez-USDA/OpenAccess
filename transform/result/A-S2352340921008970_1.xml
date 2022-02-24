@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.dib.2021.107622">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Open synthetic travel demand for Paris and Île-de-France: Inputs and output data</dct:title>
+         <dct:creator>Sebastian Hörl</dct:creator>
+         <dct:creator>Milos Balac</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Synthetic</rdf:li>
+               <rdf:li>Population</rdf:li>
+               <rdf:li>Travel demand</rdf:li>
+               <rdf:li>Transport simulation</rdf:li>
+               <rdf:li>Paris</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Data in Brief 39 (2021). doi:10.1016/j.dib.2021.107622</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Data in Brief</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2352-3409</prism:issn>
+         <prism:volume>39</prism:volume>
+         <prism:coverDisplayDate>December 2021</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.dib.2021.107622</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.dib.2021.107622</prism:url>
+         <dct:identifier>doi:10.1016/j.dib.2021.107622</dct:identifier>
+         <bam:articleNumber>107622</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-19T20:35:17Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorName>Swiss institutions 2021</oa:sponsorName>
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="dat" xml:lang="en" version="5.6">
+      <ja:item-info>
+         <ja:jid>DIB</ja:jid>
+         <ja:aid>107622</ja:aid>
+         <ce:article-number>107622</ce:article-number>
+         <ce:pii>S2352-3409(21)00897-0</ce:pii>
+         <ce:doi>10.1016/j.dib.2021.107622</ce:doi>
+         <ce:document-thread>
+            <ce:refers-to-document id="rt1">
+               <ce:pii>S0968-090X(21)00301-6</ce:pii>
+               <ce:doi>10.1016/j.trc.2021.103291</ce:doi>
+            </ce:refers-to-document>
+         </ce:document-thread>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:dochead id="dh1">
+            <ce:textfn id="textfn0001">Data Article</ce:textfn>
+         </ce:dochead>
+         <ce:title id="ct0001">Open synthetic travel demand for Paris and Île-de-France: Inputs and output data</ce:title>
+         <ce:short-title id="stitle0010">Open synthetic travel demand for Paris and Île-de-France: Inputs and output data</ce:short-title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2352340921008970-acee772b9b145443c64f8c97baa1aa51"
+                       orcid="0000-0002-9018-432X">
+               <ce:given-name>Sebastian</ce:given-name>
+               <ce:surname>Hörl</ce:surname>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:sebastian.horl@irt-systemx.fr"
+                             id="ead0001">sebastian.horl@irt-systemx.fr</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2352340921008970-8a043c2b126284cfdb1d6e9a5d4d88d1"
+                       orcid="0000-0002-6099-7442">
+               <ce:given-name>Milos</ce:given-name>
+               <ce:surname>Balac</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2352340921008970-0bee3fd4d665c149ea8886b3626428b0">
+               <ce:label>a</ce:label>
+               <ce:textfn id="textfn0002">Institut de Recherche Technologique SystemX, Palaiseau F-91120, France</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institut de Recherche Technologique SystemX</sa:organization>
+                  <sa:city>Palaiseau</sa:city>
+                  <sa:postal-code>F-91120</sa:postal-code>
+                  <sa:country>France</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0001">Institut de Recherche Technologique SystemX, Palaiseau F-91120, France</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2352340921008970-da6e2edae7fde45215b8f257e54747da">
+               <ce:label>b</ce:label>
+               <ce:textfn id="textfn0003">Institute for Transport Planning and Systems, ETH Zurich, Zurich CH-8092, Switzerland</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute for Transport Planning and Systems</sa:organization>
+                  <sa:address-line>ETH Zurich</sa:address-line>
+                  <sa:city>Zurich</sa:city>
+                  <sa:postal-code>CH-8092</sa:postal-code>
+                  <sa:country>Switzerland</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="st0002">Institute for Transport Planning and Systems, ETH Zurich, Zurich CH-8092, Switzerland</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cor1">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="21" month="7" year="2021"/>
+         <ce:date-revised day="12" month="10" year="2021"/>
+         <ce:date-accepted day="19" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author" view="all">
+            <ce:section-title id="sctt0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0001" view="all">
+               <ce:simple-para id="sp0001" view="all">Hörl and Balac [1] describe a data pipeline to generate a synthetic travel demand for Paris and Île-de-France. The data set consists of households, persons and their daily activity chains. It can be used in transport simulation, energy analysis and other research fields such as epidemiology. This data-in-brief article describes in detail the generated data set and how it can be regenerated based on publicly available and open data. The characteristics and pre-processing steps for the input data sets are covered in detail.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" class="keyword" view="all">
+            <ce:section-title id="sctt0002">Keywords</ce:section-title>
+            <ce:keyword id="key0002">
+               <ce:text id="txt0001">Synthetic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="txt0002">Population</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="txt0003">Travel demand</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="txt0004">Transport simulation</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="txt0005">Paris</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

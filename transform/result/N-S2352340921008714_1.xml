@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Transcriptome dataset of HEK293T cells depleted of one of the subunits of the DNA-PK complex: Ku70, Ku80 or DNA-PKcs</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Andrey</namePart>
+      <namePart type="family">Anisenko</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0590-5880</nameIdentifier>
+      <displayForm>Anisenko, Andrey</displayForm>
+      <affiliation>Chemistry Department, Lomonosov Moscow State University, Moscow 199991, Russia</affiliation>
+      <affiliation>Belozersky Institute of Physico-Chemical Biology, Lomonosov Moscow State University, Moscow 119992, Russia</affiliation>
+      <affiliation>Department of Boiengineering and Bioinformatics, Lomonosov Moscow State University, Moscow 199991, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Olga</namePart>
+      <namePart type="family">Shadrina</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0495-7304</nameIdentifier>
+      <displayForm>Shadrina, Olga</displayForm>
+      <affiliation>Chemistry Department, Lomonosov Moscow State University, Moscow 199991, Russia</affiliation>
+      <affiliation>Belozersky Institute of Physico-Chemical Biology, Lomonosov Moscow State University, Moscow 119992, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Irina</namePart>
+      <namePart type="family">Garanina</namePart>
+      <displayForm>Garanina, Irina</displayForm>
+      <affiliation>Federal Research and Clinical Center of Physical-Chemical Medicine of Federal Medical Biological Agency, Moscow 119435, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Marina</namePart>
+      <namePart type="family">Gottikh</namePart>
+      <displayForm>Gottikh, Marina</displayForm>
+      <affiliation>Chemistry Department, Lomonosov Moscow State University, Moscow 199991, Russia</affiliation>
+      <affiliation>Belozersky Institute of Physico-Chemical Biology, Lomonosov Moscow State University, Moscow 119992, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>DNA-PK is a heterotrimeric complex that consists of Ku70 (XRCC6), Ku80 (XRCC5) and DNA-PKcs (PRKDC) subunits. The complex is a major player in the repair of DNA double strand break (DSB) via the non-homologous end joining (NHEJ) pathway. This process requires all DNA-PK subunits, since Ku70/Ku80 heterodimer firstly binds to DNA ends at DSB and then recruits DNA-PKcs. Recruitment of the DNA-PKcs subunit to DSB leads to phosphorylation events near DSB and recruitment of other NHEJ-related proteins that restore DNA integrity. However, today a lot of evidence demonstrates participation of the DNA-PK components in other cellular processes, e.g. telomere length maintenance, transcription, metabolism regulation, cytosolic DNA sensing, apoptosis, cellular movement and adhesion. It is important to note that not all the subunits of the DNA-PK complex are necessary for these processes, and the largest number of independent functions has been shown for the Ku70/Ku80 heterodimer and especially the Ku70 subunit. To better understand the role of each DNA-PK subunit in the cell life, we have analyzed transcriptome changes in HEK293T cells depleted of Ku70, Ku80 or DNA-PKcs using NGS-sequencing. Here, for the first time, we present the data obtained from the transcriptome analysis. </abstract>
+   <subject>
+      <topic>Ku heterodimer</topic>
+   </subject>
+   <subject>
+      <topic>DNA-dependent protein kinase</topic>
+   </subject>
+   <subject>
+      <topic>Ku70</topic>
+   </subject>
+   <subject>
+      <topic>Ku80</topic>
+   </subject>
+   <subject>
+      <topic>DNA-PKcs</topic>
+   </subject>
+   <subject>
+      <topic>NHEJ-related proteins</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107596</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107596</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107596</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00871-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-16"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008714/S2352340921008714.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

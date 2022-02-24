@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Scaling photosynthetic function and CO2 dynamics from leaf to canopy level for maize – dataset combining diurnal and seasonal measurements of vegetation fluorescence, reflectance and vegetation indices with canopy gross ecosystem productivity</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Petya</namePart>
+      <namePart type="family">Campbell</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-0505-4951</nameIdentifier>
+      <displayForm>Campbell, Petya</displayForm>
+      <affiliation>University of Maryland Baltimore County, MD, USA</affiliation>
+      <affiliation>NASA Goddard Space and Flight Center, Greenbelt, MD, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Elizabeth</namePart>
+      <namePart type="family">Middleton</namePart>
+      <displayForm>Middleton, Elizabeth</displayForm>
+      <affiliation>NASA Goddard Space and Flight Center, Greenbelt, MD, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Karl</namePart>
+      <namePart type="family">Huemmrich</namePart>
+      <displayForm>Huemmrich, Karl</displayForm>
+      <affiliation>University of Maryland Baltimore County, MD, USA</affiliation>
+      <affiliation>NASA Goddard Space and Flight Center, Greenbelt, MD, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lauren</namePart>
+      <namePart type="family">Ward</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9449-8855</nameIdentifier>
+      <displayForm>Ward, Lauren</displayForm>
+      <affiliation>NASA Goddard Space and Flight Center, Greenbelt, MD, USA</affiliation>
+      <affiliation>University of Hawai'i at Mañoa, Hawai'i, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tommaso</namePart>
+      <namePart type="family">Julitta</namePart>
+      <displayForm>Julitta, Tommaso</displayForm>
+      <affiliation>J-B Hyperspectral Devices GmbH, Dusseldorf, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Peiqi</namePart>
+      <namePart type="family">Yang</namePart>
+      <displayForm>Yang, Peiqi</displayForm>
+      <affiliation>University of Twente, Twente, the Netherland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christiaan</namePart>
+      <namePart type="family">van der Tol</namePart>
+      <displayForm>van der Tol, Christiaan</displayForm>
+      <affiliation>University of Twente, Twente, the Netherland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Craig</namePart>
+      <namePart type="family">Daughtry</namePart>
+      <displayForm>Daughtry, Craig</displayForm>
+      <affiliation>USDA Agricultural Research Center, Beltsville, MD, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andrew</namePart>
+      <namePart type="family">Russ</namePart>
+      <displayForm>Russ, Andrew</displayForm>
+      <affiliation>USDA Agricultural Research Center, Beltsville, MD, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Joseph</namePart>
+      <namePart type="family">Alfieri</namePart>
+      <displayForm>Alfieri, Joseph</displayForm>
+      <affiliation>USDA Agricultural Research Center, Beltsville, MD, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">William</namePart>
+      <namePart type="family">Kustas</namePart>
+      <displayForm>Kustas, William</displayForm>
+      <affiliation>USDA Agricultural Research Center, Beltsville, MD, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Recent advances in leaf fluorescence measurements and canopy proximal remote sensing currently enable the non-destructive collection of rich diurnal and seasonal time series, which are required for monitoring vegetation function at the temporal and spatial scales relevant to the natural dynamics of photosynthesis. Remote sensing assessments of vegetation function have traditionally used actively excited foliar chlorophyll fluorescence measurements, canopy optical reflectance data and vegetation indices (VIs), and only recently passive solar induced chlorophyll fluorescence (SIF) measurements. In general, reflectance data are more sensitive to the seasonal variations in canopy chlorophyll content and foliar biomass, while fluorescence observations more closely relate to the dynamic changes in plant photosynthetic function. With this dataset we link leaf level actively excited chlorophyll fluorescence, canopy proximal reflectance and SIF, with eddy covariance measurements of gross ecosystem productivity (GEP). The dataset was collected during the 2017 growing season on maize, using three automated systems (i.e., Monitoring Pulse-Amplitude-Modulation fluorimeter, Moni-PAM; Fluorescence Box, FloX; and from eddy covariance tower). The data were quality checked, filtered and collated to a common 30 minutes timestep. We derived vegetation indices related to canopy functioning (e.g., Photochemical Reflectance Index, PRI; Normalized Difference Vegetation Index, NDVI; Chlorophyll Red-edge, Clre) to investigate how SIF and VIs can be coupled for monitoring vegetation photosynthesis. The raw datasets and the filtered and collated data are provided to enable new processing and analyses. </abstract>
+   <subject>
+      <topic>Vegetation</topic>
+   </subject>
+   <subject>
+      <topic>Maize</topic>
+   </subject>
+   <subject>
+      <topic>Leaf-level chlorophyll fluorescence</topic>
+   </subject>
+   <subject>
+      <topic>Canopy solar induced fluorescence (SIF)</topic>
+   </subject>
+   <subject>
+      <topic>Reflectance</topic>
+   </subject>
+   <subject>
+      <topic>Photosynthetic function</topic>
+   </subject>
+   <subject>
+      <topic>Eddy covariance observations</topic>
+   </subject>
+   <subject>
+      <topic>Gross Ecosystem Productivity (GEP)</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107600</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107600</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107600</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00875-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-17"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008751/S2352340921008751.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

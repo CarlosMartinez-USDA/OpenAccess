@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.fhfh.2022.100056">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Insights on β-glucan as a prebiotic coadjuvant in the treatment of Diabetes Mellitus: a review</dct:title>
+         <dct:creator>Katia Sivieri</dct:creator>
+         <dct:creator>Sonia Mariza de Oliveira</dct:creator>
+         <dct:creator>Audrey de Souza Marquez</dct:creator>
+         <dct:creator>Jara Pérez-Jiménez</dct:creator>
+         <dct:creator>Susana Nogueira Diniz</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Beta-glucan</rdf:li>
+               <rdf:li>Microbiota dysbiosis</rdf:li>
+               <rdf:li>Glycemic control</rdf:li>
+               <rdf:li>Short-chain fat acids</rdf:li>
+               <rdf:li>Microbiota modulation</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Food Hydrocolloids for Health, Journal Pre-proof. doi:10.1016/j.fhfh.2022.100056</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Food Hydrocolloids for Health</prism:publicationName>
+         <prism:copyright>© 2022 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0259</prism:issn>
+         <prism:doi>10.1016/j.fhfh.2022.100056</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.fhfh.2022.100056</prism:url>
+         <dct:identifier>doi:10.1016/j.fhfh.2022.100056</dct:identifier>
+         <bam:articleNumber>100056</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2022-01-31T20:08:31Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#FundingBody</oa:sponsorType>
+               <oa:sponsorName>Brazil: LE Tracking</oa:sponsorName>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="rev" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>FHFH</ja:jid>
+         <ja:aid>100056</ja:aid>
+         <ce:article-number>100056</ce:article-number>
+         <ce:pii>S2667-0259(22)00004-8</ce:pii>
+         <ce:doi>10.1016/j.fhfh.2022.100056</ce:doi>
+         <ce:copyright type="unknown" year="2022"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Insights on β-glucan as a prebiotic coadjuvant in the treatment of Diabetes Mellitus: a review</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667025922000048-5580b5081b1618157c618c3726a237a9">
+               <ce:given-name>Katia</ce:given-name>
+               <ce:surname>Sivieri</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667025922000048-313f357ba395345bd13d8c20ef0bfe7e">
+               <ce:given-name>Sonia Mariza</ce:given-name>
+               <ce:surname>de Oliveira</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667025922000048-5fe9b31b612995b4e23c31b546cb6f2c">
+               <ce:given-name>Audrey de Souza</ce:given-name>
+               <ce:surname>Marquez</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0005">
+                  <ce:sup loc="post">e</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667025922000048-39c628ee7363c9cbb60917cf1ae63726">
+               <ce:given-name>Jara</ce:given-name>
+               <ce:surname>Pérez-Jiménez</ce:surname>
+               <ce:cross-ref refid="aff0004">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667025922000048-4d07d1ad5871ce497dc0e732c5d02681">
+               <ce:given-name>Susana Nogueira</ce:given-name>
+               <ce:surname>Diniz</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667025922000048-c8b1d41a7d4a5d5bde1eaed3d025fc73">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Biotechnology and Health Innovation Master of Science and Doctor of Philosophy, Anhanguera University of São Paulo, São Paulo, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Biotechnology and Health Innovation Master of Science and Doctor of Philosophy</sa:organization>
+                  <sa:organization>Anhanguera University of São Paulo</sa:organization>
+                  <sa:city>São Paulo</sa:city>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aBiotechnology and Health Innovation Master of Science and Doctor of Philosophy, Anhanguera University of São Paulo, São Paulo, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667025922000048-444ed4320d0d21f51b1a81c01fb07321">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">School of Pharmaceutical Sciences, São Paulo State University, Araraquara, São Paulo, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>School of Pharmaceutical Sciences</sa:organization>
+                  <sa:organization>São Paulo State University</sa:organization>
+                  <sa:city>São Paulo</sa:city>
+                  <sa:state>Araraquara</sa:state>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bSchool of Pharmaceutical Sciences, São Paulo State University, Araraquara, São Paulo, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667025922000048-18b6403d5fd3bf7eaa96339572c93327">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Profissional Master in Pharmacy, Anhanguera University of São Paulo, São Paulo, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Profissional Master in Pharmacy</sa:organization>
+                  <sa:organization>Anhanguera University of São Paulo</sa:organization>
+                  <sa:city>São Paulo</sa:city>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cProfissional Master in Pharmacy, Anhanguera University of São Paulo, São Paulo, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0004"
+                            affiliation-id="S2667025922000048-c53a07f1c7c3ac051869c3e30b6eb956">
+               <ce:label>d</ce:label>
+               <ce:textfn id="cetextfn0004">Institute of Food Science, Technology and Nutrition, Spanish Research Council (ICTAN-CSIC)</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Institute of Food Science</sa:organization>
+                  <sa:organization>Technology and Nutrition, Spanish Research Council (ICTAN-CSIC)</sa:organization>
+               </sa:affiliation>
+               <ce:source-text id="staff0004">dInstitute of Food Science, Technology and Nutrition, Spanish Research Council (ICTAN-CSIC)</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0005"
+                            affiliation-id="S2667025922000048-df325ce88e87604e801c7efcac1ca892">
+               <ce:label>e</ce:label>
+               <ce:textfn id="cetextfn0005">Center of Research in Health Sciences, University Pitágoras Unopar (UNOPAR), Londrina PR, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Center of Research in Health Sciences</sa:organization>
+                  <sa:organization>University Pitágoras Unopar (UNOPAR)</sa:organization>
+                  <sa:city>Londrina PR</sa:city>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0005">eCenter of Research in Health Sciences, University Pitágoras Unopar (UNOPAR), Londrina PR, Brazil</ce:source-text>
+            </ce:affiliation>
+         </ce:author-group>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara006" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">The review emphasizes the therapeutic potential of β-glucan as prebiotic coadjuvant in the treatment of Diabetes Mellitus.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">β-glucan biological showed many biologicals properties such as: antioxidant activity, modulation of the immune system and the intestinal microbiota, and production of bioactive metabolites.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">β-glucan were used as prebiotics for glycemic status management, especially those from cereal sources.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0002" view="all">
+               <ce:simple-para id="spara007" view="all">The prevalence of Diabetes Mellitus and, particularly, type 2 diabetes (T2D) is increasing every year worldwide. Therefore, changed glucose homeostasis is associated with altered gut microbiota and with the development of type 2 diabetes mellitus (T2DM) and related complications. Among other concerns, an important aspect within this issue is the reversion of dysbiosis reported to be present in T2D patients, in which diet plays a key role, and particularly dietary fiber has shown a promising position. β-glucans are heterogeneous non-starch polysaccharides, constituted by D-glucose monomers linked through different β-glycosidic bonds, and changes in their structure or molecular weight affect the expressed biological properties. They appear in certain cereals, yeasts, or mushrooms and are widely known by their hypocholesterolemia effect. This study explored the current knowledge on the potential of β-glucans to modulate glucose homeostasis due to their prebiotic action, by performing a bibliometric analysis using the VOSviewer software and a narrative review. The bibliometric analysis showed that, despite the high number of references dealing with β-glucan and diabetes, there are few articles on glucans, diabetes, and intestinal dysbiosis. The detailed study on preclinical studies and clinical trials conducted during the last decade showed an improvement in glucose homeostasis due to β-glucan supplementation, studies on biochemical markers, and gut microbiota, and β-glucan are scarce. Nevertheless, existing data showed, both in animals and humans, a tendency towards an increase in beneficial bacteria and in the production of short-chain fat acids (SCFAs), particularly butyric acid. These aspects should be confirmed in the years to come to establish clear recommendations for β-glucan as a prebiotic coadjutant in the management of Diabetes Mellitus.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0003">Graphical Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" view="all">
+               <ce:simple-para id="spara008" view="all"> [Display omitted] </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0004">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0001">Beta-glucan</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0002">Microbiota dysbiosis</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0003">Glycemic control</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0004">Short-chain fat acids</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0005">Microbiota modulation</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Data on CO2, temperature and air humidity records in Spanish classrooms during the reopening of schools in the COVID-19 pandemic</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Sergio</namePart>
+      <namePart type="family">Trilles</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-9304-0719</nameIdentifier>
+      <displayForm>Trilles, Sergio</displayForm>
+      <affiliation>Institute of New Imaging Technologies, Universitat Jaume I, Av. Vicente Sos Baynat s/n, Castelló de la Plana, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Pablo</namePart>
+      <namePart type="family">Juan</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2197-7502</nameIdentifier>
+      <displayForm>Juan, Pablo</displayForm>
+      <affiliation>IMAC, Universitat Jaume I, Av. Vicente Sos Baynat s/n, Castelló de la Plana, Spain</affiliation>
+      <affiliation>GRECS, Universitat de Girona, C/ de la Universitat de Girona 10, Girona, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Somnath</namePart>
+      <namePart type="family">Chaudhuri</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4899-1870</nameIdentifier>
+      <displayForm>Chaudhuri, Somnath</displayForm>
+      <affiliation>GRECS, Universitat de Girona, C/ de la Universitat de Girona 10, Girona, Spain</affiliation>
+      <affiliation>CIBER of Epidemiology and Public Health (CIBERESP), Madrid, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ana Belen Vicente</namePart>
+      <namePart type="family">Fortea</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-9911-4953</nameIdentifier>
+      <displayForm>Fortea, Ana Belen Vicente</displayForm>
+      <affiliation>Department of Agricultural and Environmental Sciences, Universitat Jaume I, Av. Vicente Sos Baynat s/n, Castelló de la Plana, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In order to reduce the advance of the pandemic produced by COVID-19, many actions and restrictions have been applied and the field of education has been no exception. In Spain, during the academic year 2020–2021, face-to-face teaching generally continued in both primary and secondary schools. Throughout the year, different measures have been taken to reduce the likelihood of contagion in classrooms, one of which was to improve ventilation by opening windows and doors. One of the most commonly used techniques to check for good ventilation has been CO₂ monitoring. This work provides a set of 80,000 CO₂ concentration records collected by low-cost Internet of Things nodes, primarily located within twelve classrooms in two primary schools. The published observations were collected between 1 May 2020 and 23 June 2021. Additionally, the same dataset includes temperature, air humidity and battery level observations. </abstract>
+   <subject>
+      <topic>CO2</topic>
+   </subject>
+   <subject>
+      <topic>COVID-19</topic>
+   </subject>
+   <subject>
+      <topic>Primary school</topic>
+   </subject>
+   <subject>
+      <topic>Internet of Things</topic>
+   </subject>
+   <subject>
+      <topic>low-cost sensors</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107489</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107489</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107489</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00770-8</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-10-14"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921007708/S2352340921007708.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

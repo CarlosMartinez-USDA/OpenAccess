@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Role of the Connexin C-terminus in skin pattern formation of Zebrafish</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Yuu</namePart>
+      <namePart type="family">Usui</namePart>
+      <displayForm>Usui, Yuu</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Masakatsu</namePart>
+      <namePart type="family">Watanabe</namePart>
+      <displayForm>Watanabe, Masakatsu</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Zebrafish display a striped skin pattern on their body; two types of connexins, namely, Connexin39.4 (Cx39.4) and Connexin41.8 (Cx41.8), are involved in stripe pattern formation. Herein, we investigated the role of the C-terminal (CT) domains of Cx39.4 and Cx41.8 in vivo and in vitro. To investigate the role of CT domains in vivo, we established transgenic zebrafish lines expressing the CT-domain-modified connexin series in pigmented cells and observed skin patterns in fish. To investigate the role of the CT domains in vitro, we expressed the CT-domain modified connexin series in Neuro-2a (N2a) cells and calculated the plaque formation frequency. The overexpression of Cx39.4 lacking a CT domain produced skin patterns similar to that produced by full-length Cx39.4 in the cx39.4⁻/⁻ mutant and in cx39.4 and cx41.8 double-knockout mutant zebrafish. Fluorescence-protein-fused CT-domain-modified Cx39.4 formed gap junction plaques between N2a cells. The overexpression of CT-truncated Cx41.8 rescued the mutant phenotype in the cx41.8⁻/⁻ mutant but did not function in the double knockout zebrafish. Fluorescence-protein-fused CT-truncated Cx41.8 hardly formed plaques between N2a cells without Cx39.4 but formed gap junction plaques when co-expressed with Cx39.4. The CT domain of Cx39.4 is not required for protein function, at least in the pigment cells of zebrafish. However, the need for the CT domain of Cx41.8 depends on Cx39.4 expression. These results provide evidence for the interactions between Cx39.4 and Cx41.8 in pigment cells of zebrafish and suggest that at least one connexin must have a CT domain. </abstract>
+   <subject>
+      <topic>C-terminal domain</topic>
+   </subject>
+   <subject>
+      <topic>Connexin</topic>
+   </subject>
+   <subject>
+      <topic>Gap junction</topic>
+   </subject>
+   <subject>
+      <topic>Pigment cell</topic>
+   </subject>
+   <subject>
+      <topic>Skin-pattern formation</topic>
+   </subject>
+   <subject>
+      <topic>Zebrafish</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">2021</text>
+         <text type="year">2021</text>
+         <extent unit="pages">
+            <start>100006</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2021.100006</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2021.100006</url>
+   </location>
+   <identifier type="pii">S2667-1603(21)00005-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-03-08"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2667-1603/S2667160320X00020/S2667160321000053/S2667160321000053.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Transcriptomic dataset for Sardina pilchardus: Assembly, annotation, and expression of nine tissues</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jorge</namePart>
+      <namePart type="family">Langa</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5137-8204</nameIdentifier>
+      <displayForm>Langa, Jorge</displayForm>
+      <affiliation>Department of Genetics, Physical Anthropology and Animal Physiology, Faculty of Science and Technology, University of the Basque Country, UPV/EHU, Leioa, Bizkaia 48940, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Martin</namePart>
+      <namePart type="family">Huret</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-0023-378X</nameIdentifier>
+      <displayForm>Huret, Martin</displayForm>
+      <affiliation>IFREMER, STH/LBH, B.P. 70, Plouzané 29280 France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Iratxe</namePart>
+      <namePart type="family">Montes</namePart>
+      <displayForm>Montes, Iratxe</displayForm>
+      <affiliation>Department of Genetics, Physical Anthropology and Animal Physiology, Faculty of Science and Technology, University of the Basque Country, UPV/EHU, Leioa, Bizkaia 48940, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Darrell</namePart>
+      <namePart type="family">Conklin</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2313-9326</nameIdentifier>
+      <displayForm>Conklin, Darrell</displayForm>
+      <affiliation>Department of Computer Science and Artificial Intelligence, Faculty of Computer Science, University of the Basque Country UPV/EHU, San Sebastián, Spain</affiliation>
+      <affiliation>IKERBASQUE, Basque Foundation for Science, Bilbao, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andone</namePart>
+      <namePart type="family">Estonba</namePart>
+      <displayForm>Estonba, Andone</displayForm>
+      <affiliation>Department of Genetics, Physical Anthropology and Animal Physiology, Faculty of Science and Technology, University of the Basque Country, UPV/EHU, Leioa, Bizkaia 48940, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>European sardine or pilchard is a planktonic small pelagic fish present from the North Sea in Europe to the coast of Senegal in the North of Africa, and across the Mediterranean sea to the Black Sea. Ecologically, sardines are an intermediary link in the trophic network, preying on plankton and being predated by larger fishes, marine mammals, and seabirds. This species is of great nutritional and economic value as a cheap but rich source of protein and fat. It is either consumed directly by humans or fed as fishmeal for aquaculture and farm animals. Despite its importance in the food basket, little is known about the molecular mechanisms involved in protein and lipid synthesis in this species. We collected nine tissues of Sardina pilchardus and reconstructed the transcriptome. In all, 198,597 transcripts were obtained, from which 68,031 are protein-coding. Quality assessment of the transcriptome was performed by back-mapping reads to the transcriptome and by searching for Single Copy Orthologs. Additionally, Gene Ontology and KEGG annotations were retrieved for most of the protein-coding genes. Finally, each library was quantified in terms of Transcripts per Million to disclose their expression patterns. </abstract>
+   <subject>
+      <topic>Sardina pilchardus</topic>
+   </subject>
+   <subject>
+      <topic>European sardine</topic>
+   </subject>
+   <subject>
+      <topic>Transcriptome assembly</topic>
+   </subject>
+   <subject>
+      <topic>Annotation</topic>
+   </subject>
+   <subject>
+      <topic>Expression</topic>
+   </subject>
+   <subject>
+      <topic>Tissue quantification</topic>
+   </subject>
+   <subject>
+      <topic>Pathway</topic>
+   </subject>
+   <subject>
+      <topic>Gene ontology</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <detail type="volume">
+            <number>39</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="display-date">December 2021</text>
+         <text type="year">2021</text>
+         <text type="month">December</text>
+         <extent unit="pages">
+            <start>107583</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2021.107583</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2021.107583</url>
+   </location>
+   <identifier type="pii">S2352-3409(21)00858-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2021-11-12"/>
+         <licence_ref>http://creativecommons.org/licenses/by/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/164128545923847224-00001/2352-3409/S2352340921X00066/S2352340921008581/S2352340921008581.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

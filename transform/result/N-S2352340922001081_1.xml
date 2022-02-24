@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dataset of acceleration signals recorded while performing activities of daily living</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Pau</namePart>
+      <namePart type="family">Climent-Pérez</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-1723-5757</nameIdentifier>
+      <displayForm>Climent-Pérez, Pau</displayForm>
+      <affiliation>Department of Computing Technology, University of Alicante, Alicante 03690, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ángela M.</namePart>
+      <namePart type="family">Muñoz-Antón</namePart>
+      <displayForm>Muñoz-Antón, Ángela M.</displayForm>
+      <affiliation>Department of Computing Technology, University of Alicante, Alicante 03690, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Angelica</namePart>
+      <namePart type="family">Poli</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-2600-4037</nameIdentifier>
+      <displayForm>Poli, Angelica</displayForm>
+      <affiliation>Dipartimento di Ingegneria dell’Informazione, Università Politecnica delle Marche, Ancona 60131, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Susanna</namePart>
+      <namePart type="family">Spinsante</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-7323-4030</nameIdentifier>
+      <displayForm>Spinsante, Susanna</displayForm>
+      <affiliation>Dipartimento di Ingegneria dell’Informazione, Università Politecnica delle Marche, Ancona 60131, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Francisco</namePart>
+      <namePart type="family">Florez-Revuelta</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-3391-711X</nameIdentifier>
+      <displayForm>Florez-Revuelta, Francisco</displayForm>
+      <affiliation>Department of Computing Technology, University of Alicante, Alicante 03690, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-25</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Several research studies have investigated the human activity recognition (HAR) domain to detect and recognise patterns of daily human activities. However, the accurate and automatic assessment of activities of daily living (ADLs) through machine learning algorithms is still a challenge, especially due to limited availability of realistic datasets to train and test such algorithms. The dataset contains data from 52 participants in total (26 women, and 26 men). The data for these participants was collected in two phases: 33 participants initially, and 19 further participants later on. Participants performed up to 5 repetitions of 24 different ADLs. Firstly, we provide an annotated description of the dataset collected by wearing a wrist-worn measurement device, Empatica E4. Secondly, we describe the methodology of the data collection and the real context in which participants performed the selected activities. Finally, we present some examples of recent and relevant target applications where our dataset can be used, namely lifelogging, behavioural analysis and measurement device evaluation. The authors consider the dissemination of this dataset can highly benefit the research community, and specially those involved in the recognition of ADLs, and/or in the removal of cues that reveal identity. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Accelerometry data</topic>
+   </subject>
+   <subject>
+      <topic>Active and assisted living</topic>
+   </subject>
+   <subject>
+      <topic>Human action recognition</topic>
+   </subject>
+   <subject>
+      <topic>Wearable device</topic>
+   </subject>
+   <subject>
+      <topic>Wrist-worn device</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Data in Brief</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2352-3409</identifier>
+      <part>
+         <text type="year">2022</text>
+         <text type="month">01</text>
+         <text type="day">25</text>
+         <extent unit="pages">
+            <start>107896</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.dib.2022.107896</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.dib.2022.107896</url>
+   </location>
+   <identifier type="pii">S2352-3409(22)00108-1</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2022-01-27"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/OpenAccess/transform/source/sourcefiles/576450669703096969-00001/2352-3409/aip/S2352340922001081/S2352340922001081.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\OpenAccess\transform\result\</workingDirectory>
+   </extension>
+</mods>

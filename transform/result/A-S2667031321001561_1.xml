@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100174">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Garcina Kola neuroprotective effects on the prefrontal cortex cyto-architecture of MDMA-induced neuroinflammation in male Wistar rats model</dct:title>
+         <dct:creator>John Afees Olanrewaju Phd</dct:creator>
+         <dct:creator>Okoro Iheanyichukwu Phd Professor</dct:creator>
+         <dct:creator>Owolabi Joshua Oladele Phd</dct:creator>
+         <dct:creator>Olatunji Sunday Yinka PhD</dct:creator>
+         <dct:creator>Adelodun Stephen Taiye</dct:creator>
+         <dct:creator>Fabiyi Sunday Oluseyi</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Neurodegeneration</rdf:li>
+               <rdf:li>Psychoactive</rdf:li>
+               <rdf:li>Garcinia kola</rdf:li>
+               <rdf:li>3,4-Methylenedioxymethamphetamine</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100174</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Authors. Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100174</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100174</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100174</dct:identifier>
+         <bam:articleNumber>100174</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-21T11:12:47Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100174</ja:aid>
+         <ce:article-number>100174</ce:article-number>
+         <ce:pii>S2667-0313(21)00156-1</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100174</ce:doi>
+         <ce:copyright type="other" year="2021">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">
+            <ce:italic>Garcina Kola</ce:italic> neuroprotective effects on the prefrontal cortex cyto-architecture of MDMA-induced neuroinflammation in male Wistar rats model</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001561-429146ebdf0452504ca92a79d82d734e">
+               <ce:given-name>John Afees</ce:given-name>
+               <ce:surname>Olanrewaju</ce:surname>
+               <ce:degrees>Phd</ce:degrees>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:olanrewajuj@babcock.edu.ng">olanrewajuj@babcock.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001561-d169fd90212f965abf4397b248ad7873">
+               <ce:given-name>Okoro</ce:given-name>
+               <ce:surname>Iheanyichukwu</ce:surname>
+               <ce:degrees>Phd, Professor</ce:degrees>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001561-a018796438a8d623f71c037c1f37911d">
+               <ce:given-name>Owolabi Joshua</ce:given-name>
+               <ce:surname>Oladele</ce:surname>
+               <ce:degrees>Phd</ce:degrees>
+               <ce:e-address id="ead0002"
+                             type="email"
+                             xlink:href="mailto:owolabijo@babcock.edu.ng">owolabijo@babcock.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001561-6d4012fd5c8ba09053080daffc009590">
+               <ce:given-name>Olatunji Sunday</ce:given-name>
+               <ce:surname>Yinka</ce:surname>
+               <ce:degrees>PhD</ce:degrees>
+               <ce:e-address id="ead0003"
+                             type="email"
+                             xlink:href="mailto:olatunjis@babcock.edu.ng">olatunjis@babcock.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001561-07baadf064e4fe6304563c7bdb1d3186">
+               <ce:given-name>Adelodun Stephen</ce:given-name>
+               <ce:surname>Taiye</ce:surname>
+               <ce:e-address id="ead0004"
+                             type="email"
+                             xlink:href="mailto:adeloduns@babcock.edu.ng">adeloduns@babcock.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031321001561-5c0ad116211c4478a6b691bb5c054322">
+               <ce:given-name>Fabiyi Sunday</ce:given-name>
+               <ce:surname>Oluseyi</ce:surname>
+               <ce:e-address id="ead0005"
+                             type="email"
+                             xlink:href="mailto:fabiyio@babcock.edu.ng">fabiyio@babcock.edu.ng</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001561-15475ee08718374de81135c024337267">
+               <ce:textfn id="cetextfn0001">Department of Anatomy, Ben Carson School of Medicine, Babcock University, Ilisan-Remo, Ogun State, Nigeria</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Anatomy, Ben Carson School of Medicine</sa:organization>
+                  <sa:organization>Babcock University</sa:organization>
+                  <sa:city>Ilisan-Remo</sa:city>
+                  <sa:state>Ogun State</sa:state>
+                  <sa:country>Nigeria</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">Department of Anatomy, Ben Carson School of Medicine, Babcock University, Ilisan-Remo, Ogun State, Nigeria</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author.</ce:text>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="28" month="5" year="2021"/>
+         <ce:date-revised day="17" month="11" year="2021"/>
+         <ce:date-accepted day="21" month="11" year="2021"/>
+         <ce:abstract id="abs0001" view="all" class="author">
+            <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0001" role="background" view="all">
+               <ce:section-title id="cesectitle0002">Background</ce:section-title>
+               <ce:simple-para id="spara007" view="all">The stimulant, empathogenic, euphoric, and hallucinogenic properties of 3,4-methylenedioxymethamphetamine (MDMA), also known as 'Ecstasy,' make it a popular drug among teenagers. These effects are thought to be caused by significant increases in dopamine, serotonin, and glutamate neurotransmission. However, little is known about Garcinia kola extract's (GKE) neuroprotective activities against MDMA-induced neurotoxicity. Thus, the purpose of this study was to investigate GKE's neuroprotective activities against MDMA-induced neurotoxicity in rat models.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0003">Method</ce:section-title>
+               <ce:simple-para id="spara008" view="all">Sixty (60) healthy adult male Wistar rats (120–150 g) were randomly divided into six ten-animal groups (A, B, C, D, E, and F). Group A served as the control, while groups B and C were given 100 mg/kg and 200 mg/kg (low and high) daily doses of GKE for 21 days, respectively. Group D was given a 20 mg/kg intermittent dose of MDMA, while groups E and F were given 100 mg/kg and 200 mg/kg (low and high) daily doses of GKE along with 20 mg/kg intermittent doses of MDMA for 21 days. 24 h after the last administration, the rats were sacrificed. Five rats from each group were anesthetized with a diether and perfused intracardially, after which the brains were excised and fixed in 10% neutral buffered formalin for histology and immunohistochemistry. Graph Pad Prism5 was used for the statistical analysis, which included one-way analysis of variance (ANOVA). The number of lines crossed increased significantly in MDMA-treated rats, as did the frequency of rearing and the number of lines crossed. The increase in grooming frequency observed in conjunction with a slight decrease in the number of center square entries and defecation was not statistically significant. Interestingly, dopamine, serotonin, and glutamate levels were slightly elevated in MDMA-induced psychostimulant animals, correlating with anxiolytic (animal anxiety reduction) activity. Similarly, an increase in the expression of G6PDH and Cytochrome c-oxidase was observed, indicating that MDMA has the ability to upregulate mitochondrial metabolism, which accounts for the release of more energy. As a result of MDMA treatment, histological and GFAP results revealed neuronal degeneration and astrogliosis/glia scar formation, respectively.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0003" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0004">Conclusion</ce:section-title>
+               <ce:simple-para id="spara009" view="all">This finding demonstrates MDMA's neurotoxic damage to neurons in the prefrontal cortex, its ability to cause behavioural deficits, and how GKE administration was able to slow down MDMA's neurotoxic damage and behavioural deficits.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0005">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0002">Neurodegeneration</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0003">Psychoactive</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0004">
+                  <ce:italic>Garcinia kola</ce:italic>
+               </ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0005">3,4-Methylenedioxymethamphetamine</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

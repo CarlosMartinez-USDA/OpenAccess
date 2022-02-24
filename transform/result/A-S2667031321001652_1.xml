@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.phyplu.2021.100183">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Are Brazilian bamboo species helpful for cognition and memory?</dct:title>
+         <dct:creator>Janayne Gagliano</dct:creator>
+         <dct:creator>Stefani Altenhofen</dct:creator>
+         <dct:creator>Débora Dreher Nabinger</dct:creator>
+         <dct:creator>Darlan Gusso</dct:creator>
+         <dct:creator>Julia Maria Kuhl-Silva</dct:creator>
+         <dct:creator>Fernanda Anselmo-Moreira</dct:creator>
+         <dct:creator>Lydia Fumiko Yamaguchi</dct:creator>
+         <dct:creator>Massuo Jorge Kato</dct:creator>
+         <dct:creator>Carla Denise Bonan</dct:creator>
+         <dct:creator>Cláudia Maria Furlan</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Phenolic compounds</rdf:li>
+               <rdf:li>Anticholinesterase</rdf:li>
+               <rdf:li>Antioxidant</rdf:li>
+               <rdf:li>Aversive stimulus</rdf:li>
+               <rdf:li>Inhibitory avoidance</rdf:li>
+               <rdf:li>Zebrafish</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Phytomedicine Plus 2 (2022). doi:10.1016/j.phyplu.2021.100183</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Phytomedicine Plus</prism:publicationName>
+         <prism:copyright>© 2021 The Author(s). Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2667-0313</prism:issn>
+         <prism:volume>2</prism:volume>
+         <prism:number>1</prism:number>
+         <prism:coverDisplayDate>February 2022</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.phyplu.2021.100183</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.phyplu.2021.100183</prism:url>
+         <dct:identifier>doi:10.1016/j.phyplu.2021.100183</dct:identifier>
+         <bam:articleNumber>100183</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2021-11-27T19:23:59Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S300.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>PHYPLU</ja:jid>
+         <ja:aid>100183</ja:aid>
+         <ce:article-number>100183</ce:article-number>
+         <ce:pii>S2667-0313(21)00165-2</ce:pii>
+         <ce:doi>10.1016/j.phyplu.2021.100183</ce:doi>
+         <ce:copyright type="other" year="2021">The Author(s)</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="tte0002">Are Brazilian bamboo species helpful for cognition and memory?</ce:title>
+         <ce:author-group id="aut0001">
+            <ce:author id="au0001"
+                       author-id="S2667031321001652-8ecf2f7e601eae3ad2176ca2cf770238">
+               <ce:given-name>Janayne</ce:given-name>
+               <ce:surname>Gagliano</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0001">
+                  <ce:sup loc="post">⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address id="ead0001"
+                             type="email"
+                             xlink:href="mailto:janayne.gagliano@gmail.com">janayne.gagliano@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:author id="au0002"
+                       author-id="S2667031321001652-dd53126ec1e1323703a1b5437c52382e">
+               <ce:given-name>Stefani</ce:given-name>
+               <ce:surname>Altenhofen</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0003"
+                       author-id="S2667031321001652-da29c5bcba91f17efdb4a713a8b05565">
+               <ce:given-name>Débora Dreher</ce:given-name>
+               <ce:surname>Nabinger</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0004"
+                       author-id="S2667031321001652-f52b06762a38a461f61f96d242e4d7f6">
+               <ce:given-name>Darlan</ce:given-name>
+               <ce:surname>Gusso</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0005"
+                       author-id="S2667031321001652-b3ec2de6b358edb8d748306954bed635">
+               <ce:given-name>Julia Maria</ce:given-name>
+               <ce:surname>Kuhl-Silva</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0006"
+                       author-id="S2667031321001652-6e881ad401df8caede224681af8e5252">
+               <ce:given-name>Fernanda</ce:given-name>
+               <ce:surname>Anselmo-Moreira</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0007"
+                       author-id="S2667031321001652-6dcb6238ecc1c9638f3cc5a29cfbb4e0">
+               <ce:given-name>Lydia Fumiko</ce:given-name>
+               <ce:surname>Yamaguchi</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0008"
+                       author-id="S2667031321001652-69ade3ed6d7bec63fd0964beb3b00e61">
+               <ce:given-name>Massuo Jorge</ce:given-name>
+               <ce:surname>Kato</ce:surname>
+               <ce:cross-ref refid="aff0003">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0009"
+                       author-id="S2667031321001652-0868f62048d8eaebef9076d99a44e7f4">
+               <ce:given-name>Carla Denise</ce:given-name>
+               <ce:surname>Bonan</ce:surname>
+               <ce:cross-ref refid="aff0002">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au0010"
+                       author-id="S2667031321001652-36a3557831aa685511625310a76c4c90">
+               <ce:given-name>Cláudia Maria</ce:given-name>
+               <ce:surname>Furlan</ce:surname>
+               <ce:cross-ref refid="aff0001">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor0002">
+                  <ce:sup loc="post">⁎⁎</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             id="ead0002"
+                             xlink:href="mailto:jgagliano@alumni.usp.br">jgagliano@alumni.usp.br</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff0001"
+                            affiliation-id="S2667031321001652-8fc5bdfdcd1e4d72411fbbfd2db96cc4">
+               <ce:label>a</ce:label>
+               <ce:textfn id="cetextfn0001">Department of Botany, Institute of Bioscience, University of São Paulo, Brazil. Rua do Matão, 277, São Paulo, SP 05508-090, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Botany</sa:organization>
+                  <sa:organization>Institute of Bioscience</sa:organization>
+                  <sa:organization>University of São Paulo</sa:organization>
+                  <sa:address-line>Brazil. Rua do Matão, 277</sa:address-line>
+                  <sa:city>São Paulo</sa:city>
+                  <sa:state>SP</sa:state>
+                  <sa:postal-code>05508-090</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0001">aDepartment of Botany, Institute of Bioscience, University of São Paulo, Brazil. Rua do Matão, 277, São Paulo, SP 05508-090, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0002"
+                            affiliation-id="S2667031321001652-bd30fc4c88c179cbc4d513043fdb8b47">
+               <ce:label>b</ce:label>
+               <ce:textfn id="cetextfn0002">Laboratório de Neuroquímica e Psicofarmacologia, Programa de Pós-Graduação em Biologia Celular e Molecular, Escola de Ciências da Saúde e da Vida, Pontifícia Universidade Católica do Rio Grande do Sul, Brazil. Avenida Ipiranga 6681, Porto Alegre, RS 90619-900, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Laboratório de Neuroquímica e Psicofarmacologia</sa:organization>
+                  <sa:organization>Programa de Pós-Graduação em Biologia Celular e Molecular</sa:organization>
+                  <sa:organization>Escola de Ciências da Saúde e da Vida</sa:organization>
+                  <sa:organization>Pontifícia Universidade Católica do Rio Grande do Sul</sa:organization>
+                  <sa:address-line>Brazil. Avenida Ipiranga 6681</sa:address-line>
+                  <sa:city>Porto Alegre</sa:city>
+                  <sa:state>RS</sa:state>
+                  <sa:postal-code>90619-900</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0002">bLaboratório de Neuroquímica e Psicofarmacologia, Programa de Pós-Graduação em Biologia Celular e Molecular, Escola de Ciências da Saúde e da Vida, Pontifícia Universidade Católica do Rio Grande do Sul, Brazil. Avenida Ipiranga 6681, Porto Alegre, RS 90619-900, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff0003"
+                            affiliation-id="S2667031321001652-7e3eeda759c49b43665befe93b1d1ed5">
+               <ce:label>c</ce:label>
+               <ce:textfn id="cetextfn0003">Department of Fundamental Chemistry, Institute of Chemistry, University of São Paulo, Brazil. Avenida Professor Lineu Prestes, 748, São Paulo, SP 05508-000, Brazil</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Fundamental Chemistry</sa:organization>
+                  <sa:organization>Institute of Chemistry</sa:organization>
+                  <sa:organization>University of São Paulo</sa:organization>
+                  <sa:address-line>Brazil. Avenida Professor Lineu Prestes, 748</sa:address-line>
+                  <sa:city>São Paulo</sa:city>
+                  <sa:state>SP</sa:state>
+                  <sa:postal-code>05508-000</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="staff0003">cDepartment of Fundamental Chemistry, Institute of Chemistry, University of São Paulo, Brazil. Avenida Professor Lineu Prestes, 748, São Paulo, SP 05508-000, Brazil</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor0001">
+               <ce:label>⁎</ce:label>
+               <ce:text id="cetext0001">Corresponding author at: Department of Botany, Institute of Bioscience, University of São Paulo, Brazil. Rua do Matão, 277, São Paulo, SP 05508-090, Brazil.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Botany</sa:organization>
+                  <sa:organization>Institute of Bioscience</sa:organization>
+                  <sa:organization>University of São Paulo</sa:organization>
+                  <sa:address-line>Brazil. Rua do Matão, 277</sa:address-line>
+                  <sa:city>São Paulo</sa:city>
+                  <sa:state>SP</sa:state>
+                  <sa:postal-code>05508-090</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+            <ce:correspondence id="cor0002">
+               <ce:label>⁎⁎</ce:label>
+               <ce:text id="cetext0002">Corresponding author at: Department of Botany, Institute of Bioscience, University of São Paulo, Brazil. Rua do Matão, 277, São Paulo, SP 05508-090, Brazil.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Botany</sa:organization>
+                  <sa:organization>Institute of Bioscience</sa:organization>
+                  <sa:organization>University of São Paulo</sa:organization>
+                  <sa:address-line>Brazil. Rua do Matão, 277</sa:address-line>
+                  <sa:city>São Paulo</sa:city>
+                  <sa:state>SP</sa:state>
+                  <sa:postal-code>05508-090</sa:postal-code>
+                  <sa:country>Brazil</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="9" month="8" year="2021"/>
+         <ce:date-revised day="16" month="11" year="2021"/>
+         <ce:date-accepted day="27" month="11" year="2021"/>
+         <ce:abstract id="abs0001" class="author-highlights" view="all">
+            <ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+            <ce:abstract-sec id="abss0001" view="all">
+               <ce:simple-para id="spara013" view="all">
+                  <ce:list id="celist0001">
+                     <ce:list-item id="celistitem0001">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0001" view="all">70 compounds had their putative structures assigned.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0002">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0002" view="all">The most abundant compounds were glycosylated flavonoids.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0003">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0003" view="all">Aqueous extracts at 0.1 mg/mL are not toxic for zebrafish embryos.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0004">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0004" view="all">Some extracts increased the cognitive capacity of zebrafish larvae.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="celistitem0005">
+                        <ce:label>•</ce:label>
+                        <ce:para id="para0005" view="all">Some extracts prevented the cognitive deficit induced by scopolamine treatment.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0002" view="all" class="author">
+            <ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0003" role="background" view="all">
+               <ce:section-title id="cesectitle0003">Background</ce:section-title>
+               <ce:simple-para id="spara014" view="all">Bamboo species has been used for centuries in Asian traditional medicine to treat mental disorders resulting from the aging process. Brazil has the greatest diversity of bamboos in the Americas, with a high degree of endemism, but just a few of them has been studied for bioprospecting purposes.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0004" view="all">
+               <ce:section-title id="cesectitle0004">Purpose</ce:section-title>
+               <ce:simple-para id="spara015" view="all">Considering the previous report on the use of Asian bamboos to treat diseases affecting cognition and memory, a set of Brazilian bamboos species was investigated for similar properties.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0005" role="materials-methods" view="all">
+               <ce:section-title id="cesectitle0005">Methods</ce:section-title>
+               <ce:simple-para id="spara016" view="all">Leaves from <ce:italic>Olyra glaberrima, Parodiolyra micrantha, Aulonemia aristulata, Filgueirasia arenicola, Filgueirasia cannavieira</ce:italic>, and <ce:italic>Merostachys pluriflora</ce:italic> were investigated to their chemical profiles, free radical scavenging, anticholinesterase properties, toxicological effects on zebrafish larvae (<ce:italic>Danio rerio</ce:italic>), and protective effect on memory impairment assays (scopolamine-induced assay).</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0006" role="results" view="all">
+               <ce:section-title id="cesectitle0006">Results</ce:section-title>
+               <ce:simple-para id="spara017" view="all">Based on HPLC-ESI-MS/MS data, 70 compounds had their putative structures assigned based on analysis of molecular formula and fragmentation pattern. The most abundant compounds were glycosylated flavonoids, followed by terpenoids and soluble sugars. Overall bamboo leaf extracts showed high antioxidant potential. A moderate potential as an inhibitor of the acetylcholinesterase activity was detected for <ce:italic>M. pluriflora</ce:italic>. The <ce:italic>in vivo</ce:italic> assays indicated that aqueous extracts at 0.1 mg/ml are not toxic for zebrafish embryos and do not alter the larval exploratory behavior. The extracts from <ce:italic>O. glaberrima, P. micrantha, A. aristulata</ce:italic>, and <ce:italic>F. arenicola</ce:italic> increased the cognitive capacity of zebrafish larvae against an aversive stimulus. In adult zebrafish, the extracts from <ce:italic>O. glaberrima, F. cannavieira</ce:italic>, and <ce:italic>M. pluriflora</ce:italic> prevented the cognitive deficit induced by scopolamine treatment.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abss0007" role="conclusion" view="all">
+               <ce:section-title id="cesectitle0007">Conclusions</ce:section-title>
+               <ce:simple-para id="spara018" view="all">Aqueous extracts of the six Brazilian bamboo species showed high <ce:italic>in vitro</ce:italic> antioxidant potential. Some bamboo extracts increased the cognitive capacity of zebrafish larvae in the face of an aversive stimulus. Furthermore, some of them can reduce the memory loss induced by scopolamine in zebrafish adults. Moreover, many substances that were detected in this study had never been described for bamboos. This was the first study with herbaceous bamboo species; it is also the first study that used zebrafish as an experimental model to test bamboo extracts.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract id="abs0003" class="graphical" view="all">
+            <ce:section-title id="cesectitle0008">Graphical Abstract</ce:section-title>
+            <ce:abstract-sec id="abss0008" view="all">
+               <ce:simple-para id="spara019" view="all"> [Display omitted] .</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords id="keys0001" view="all" class="keyword">
+            <ce:section-title id="cesectitle0009">Keywords</ce:section-title>
+            <ce:keyword id="key0001">
+               <ce:text id="cetext0003">Phenolic compounds</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0002">
+               <ce:text id="cetext0004">Anticholinesterase</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0003">
+               <ce:text id="cetext0005">Antioxidant</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0004">
+               <ce:text id="cetext0006">Aversive stimulus</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0005">
+               <ce:text id="cetext0007">Inhibitory avoidance</ce:text>
+            </ce:keyword>
+            <ce:keyword id="key0006">
+               <ce:text id="cetext0008">Zebrafish</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>
